@@ -10,6 +10,7 @@ module.exports = {
       colors: {
         "blue": {
           "dark": "#1f4d7b",
+          "text-light": "#3e5a90",
           "default":"#357cb6",
         },
         "orange": {
