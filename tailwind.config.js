@@ -16,7 +16,8 @@ module.exports = {
         "orange": {
           "default": "#f7b38a",
           "shadow": "#cc875d",
-        }
+        },
+        "text-default": "#363636",
       },
       fontFamily: {
         body: ["Quicksand", "sans-serif"]
