@@ -13,7 +13,7 @@
   "scripts": {
     "compile": "tailwind build src/styles.css -o dist/styles.css",
     "watch": "watch 'npm run compile' ./src",
-    "server": "live-server --no-browser --ignore=/usr/src/app/src/**,**/node_modules/**",
+    "server": "live-server --no-browser --ignore='/usr/src/app/src/**,**/node_modules/**'",
     "dev": "concurrently --kill-others 'npm run watch' 'npm run server'"
   },
   "repository": {
