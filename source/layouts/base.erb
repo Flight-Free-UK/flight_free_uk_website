@@ -5,30 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
-  <title>FlightFree UK</title>
-  <link rel="stylesheet" href="dist/styles.css">
+  <title><%= [current_page.data.title, "FlightFree UK"].join(" | ") %></title>
+  <%= stylesheet_link_tag "styles" %>
 </head>
 <body class="font-body">
 <div class="container mx-auto">
-  <div class="text-white pt-10 pb-10 bg-blue-dark">
-    <header class="flex mx-24">
-      <div class="w-1/2">
-        <a href="/"><img src="svg/logo.svg"/></a>
-      </div>
-      <nav class="w-1/2 flex items-center justify-between text-xl">
-        <a href="why_flight_free.html">Why flight free?</a>
-        <a href="take_action.html">Take action</a>
-        <a href="be_inspired.html">Be inspired</a>
-        <a href="podcast.html">Podcast</a>
-        <a href="faq.html">FAQs</a>
-      </nav>
-    </header>
-  </div>
-  <main class="bg-gray-light px-48 pt-24 pb-24 text-text-default text-xl leading-tight">
-    <h1 class="text-5xl text-blue-dark mb-8">Terms & Conditions</h1>
-    <p class="mb-6">When you sign the pledge your name will automatically be counted towards the total signatories.* Your email address will be added to our mailing list where you'll receive one email per month updating you on the campaign. You may unsubscribe at any time, but we'll still hold your data otherwise your pledge won't be counted. For information on how we use your data, please see our Privacy Policy.</p>
-    <p class="mb-6">*For your signature to count towards the 100,000, you must be a UK resident. If you select a different country your pledge will be held on the database as an international pledge.</p>
-  </main>
+  <%= yield %>
   <section class="px-48 pt-24 pb-20 bg-orange text-center">
     <h2 class="text-6xl text-white mb-16 leading-none">Help us reach 100,000!  Make the pledge to be flight free in 2020.</h2>
     <button class="bg-white text-blue-dark text-2xl px-20 py-6">Sign the pledge</button>

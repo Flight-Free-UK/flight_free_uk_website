@@ -5,16 +5,10 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "concurrently": "^4.1.2",
-    "live-server": "^1.2.1",
-    "tailwindcss": "^1.1.2",
-    "watch": "^1.0.2"
+    "tailwindcss": "^1.1.2"
   },
   "scripts": {
-    "compile": "tailwind build src/styles.css -o dist/styles.css",
-    "watch": "watch 'npm run compile' ./src",
-    "server": "live-server --no-browser --ignore='/usr/src/app/src/**,**/node_modules/**'",
-    "dev": "concurrently --kill-others 'npm run watch' 'npm run server'"
+    "compile": "tailwind build source/stylesheets/styles_source.css -o source/stylesheets/styles.css"
   },
   "repository": {
     "type": "git",

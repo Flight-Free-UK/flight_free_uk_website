@@ -1,0 +1,18 @@
+<header class="flex mx-24">
+  <div class="w-1/2">
+    <% link_to "/" do %>
+      <%= image_tag "svg/logo.svg" %>
+    <% end %>
+  </div>
+  <nav class="w-1/2 flex items-center justify-between text-xl">
+    <% {
+         "why_flight_free.html" => "Why flight free?",
+         "take_action.html" => "Take action",
+         "be_inspired.html" => "Be inspired",
+         "podcast.html" => "Podcast",
+         "faq.html" => "FAQs"
+       }.each do |path, name| %>
+      <%= link_to name, path, class: path == current_page.path ? "border-b-2 border-orange" : nil %>
+    <% end %>
+  </nav>
+</header>
