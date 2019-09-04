@@ -1,10 +1,11 @@
-<header class="flex mx-24">
-  <div class="w-1/2">
+<header class="flex justify-between xl:mx-16">
+  <div class="w-2/3 xl:w-1/2">
     <% link_to "/" do %>
       <%= image_tag "svg/logo.svg" %>
     <% end %>
   </div>
-  <nav class="w-1/2 flex items-center justify-between text-xl">
+  <%= image_tag "svg/menu_icon.svg", class: "xl:hidden" %>
+  <nav class="hidden xl:flex xl:w-1/2 items-center justify-between text-xl">
     <% {
          "why_flight_free.html" => "Why flight free?",
          "take_action.html" => "Take action",

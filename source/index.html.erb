@@ -3,30 +3,25 @@ layout: base
 title: FlightFree UK
 ---
 
-<div class="text-white pt-10 pb-12" style="background-image: url(images/clouds.png)">
+<div class="text-white bg-right-top pt-12 px-8 xl:pt-10 pb-12" id="home_header">
   <%= partial "header" %>
-  <section class="flex mx-48 mt-20">
-    <div class="w-2/3 pr-8">
-      <h1 class="text-6xl leading-tight mb-16">Make the pledge to be flight free in 2020</h1>
-      <h2 class="text-4xl mb-8 text-orange">#flightfree2020</h2>
+  <section class="mt-16 xl:mt-20 xl:flex xl:mx-40">
+    <div class="xl:w-2/3 pr-8">
+      <h1 class="text-5xl xl:text-6xl leading-tight mb-16">Make the pledge to be flight free in 2020</h1>
+      <h2 class="text-3xl lg:text-4xl xl:mb-8 text-orange">#flightfree2020</h2>
       <div class="flex">
-        <a href="#" class="w-16 h-16 mr-8 flex justify-center bg-white rounded-full">
-          <img src="svg/twitter.svg">
-        </a>
-        <a href="#" class="w-16 h-16 mr-8 flex items-center justify-center bg-white rounded-full">
-          <img src="images/instagram.png" style="height: 39px">
-        </a>
-        <a href="#" class="w-16 h-16 mr-8 flex justify-center bg-white rounded-full">
-          <img src="svg/facebook.svg">
-        </a>
+        <a href="#" class="w-12 h-12 xl:w-16 xl:h-16 mr-8 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(svg/twitter.svg);background-size:60%"></a>
+        <a href="#" class="w-12 h-12 xl:w-16 xl:h-16 mr-8 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(images/instagram.png);background-size:60%"></a>
+        <a href="#" class="w-12 h-12 xl:w-16 xl:h-16 mr-8 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(svg/facebook.svg);background-size:30%"></a>
       </div>
     </div>
-    <div class="w-1/3 bg-white">
-      <img src="images/embeded_form.png" />
+    <div class="xl:w-1/3 xl:bg-white">
+      <button class="bg-orange text-blue-dark text-lg mt-10 mb-8 w-full py-4 xl:hidden">Sign the pledge</button>
+      <img src="images/embeded_form.png" class="hidden xl:block" />
     </div>
   </section>
 </div>
-<section class="flex px-20 py-24 bg-blue">
+<section class="hidden xl:flex px-20 py-24 bg-blue">
   <div class="w-1/2">
     <img src="images/anna_with_poster.png" />
   </div>
@@ -42,7 +37,7 @@ title: FlightFree UK
     </p>
   </div>
 </section>
-<section class="bg-orange px-48 pt-24 pb-20">
+<section class="hidden xl:block bg-orange px-48 pt-24 pb-20">
   <h2 class="text-5xl text-blue-dark mb-8">Take action now</h2>
   <div class="flex">
     <div class="w-1/3 pr-8">
@@ -87,7 +82,7 @@ title: FlightFree UK
     </div>
   </div>
 </section>
-<section class="px-48 pt-24 pb-20 bg-gray-light">
+<section class="hidden xl:block px-48 pt-24 pb-20 bg-gray-light">
   <h2 class="text-5xl text-blue-dark">Be inspired</h2>
   <h3 class="text-2xl text-blue mb-12">Be inspired by tales of flight-free travels with our blog, podcasts and videos.</h3>
   <section class="flex bg-blue-dark mb-12">
@@ -161,7 +156,7 @@ title: FlightFree UK
     </div>
   </section>
 </section>
-<section class="px-48 pt-24 pb-20 bg-blue-dark">
+<section class="hidden xl:block px-48 pt-24 pb-20 bg-blue-dark">
   <h2 class="text-5xl text-white mb-10">Dispell the myths</h2>
   <div class="border border-white mb-20" style="transform: rotate(-4deg)">
     <div class="bg-white px-48 pt-12 pb-8 text-center" style="transform: rotate(4deg)">
@@ -176,7 +171,7 @@ title: FlightFree UK
     <img src="svg/orange_arrow_right.svg" class="inline-block ml-2"/>
   </a>
 </section>
-<section class="px-48 pt-24 pb-12 bg-white">
+<section class="hidden xl:block px-48 pt-24 pb-12 bg-white">
   <h2 class="text-5xl text-blue-dark mb-10">#flightfree2020</h2>
 
   <div class="flex flex-wrap justify-between">

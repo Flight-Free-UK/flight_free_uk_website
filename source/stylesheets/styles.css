@@ -10635,6 +10635,10 @@ video {
   z-index: auto;
 }
 
+#home_header {
+  background-image: url(/images/clouds.png);
+}
+
 @media (min-width: 640px) {
   .sm\:sr-only {
     position: absolute;
