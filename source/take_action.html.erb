@@ -4,56 +4,54 @@ title: Take action
 ---
 <div class="bg-blue text-white pb-12" style="background-image: url(images/clouds_take_action.png)">
   <%= partial "header" %>
-  <section class="flex mx-48 mt-20">
-    <div class="w-1/3 bg-white">
+  <section class="lg:flex mx-8 lg:mx-48 mt-10">
+    <div class="hidden lg:block w-1/3 bg-white">
       <img src="images/embeded_form.png" />
     </div>
-    <div class="w-2/3 pl-20 pt-16">
+    <div class="lg:w-2/3 lg:pl-20 lg:pt-16">
       <img src="svg/one_white_bg.svg" class="mb-6" />
-      <h1 class="text-5xl leading-tight mb-4">Make the pledge to be flight free in 2020</h1>
-      <p class="text-2xl leading-tight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h1 class="text-4xl xl:text-5xl leading-tight mb-6 xl:mb-4">Make the pledge to be flight free in 2020</h1>
+      <p class="text-xl xl:text-2xl leading-tight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <button class="bg-orange text-blue-dark text-lg mt-10 mb-8 w-full py-4 xl:hidden">Sign the pledge</button>
     </div>
   </section>
 </div>
-<section class="px-48 py-24 bg-blue-dark text-white">
-  <div class="flex mb-8">
-    <img src="svg/two_white_bg.svg" class="mr-6" />
-    <h2 class="text-5xl">Share the pledge</h2>
+<section class="pl-8 pr-16 lg:px-48 py-20 xl:py-24 bg-blue-dark text-white">
+  <div class="xl:flex mb-10 xl:mb-8">
+    <img src="svg/two_white_bg.svg" class="mb-8 xl:mb-0 xl:mr-6" />
+    <h2 class="text-4xl xl:text-5xl">Share the pledge</h2>
   </div>
-  <div class="flex text-2xl pl-20">
-    <a href="#" class="flex">
-      <img src="svg/twitter_with_bg.svg" class="w-16 mr-6">
-      <span class="leading-tight">Tweet to your followers</span>
+  <div class="xl:flex text-2xl xl:pl-20">
+    <a href="#" class="flex mb-8 xl:mb-0 bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(svg/twitter_with_bg.svg)">
+      Tweet to your followers
     </a>
-    <a href="#" class="flex">
-      <img src="svg/facebook_white_bg.svg" class="w-16 mr-6">
-      <span class="leading-tight">Post to Facebook</span>
+    <a href="#" class="flex mb-8 xl:mb-0 bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(svg/facebook_white_bg.svg)">
+      Post to Facebook
     </a>
-    <a href="#" class="flex">
-      <img src="images/instagram_with_bg.png" class="w-16 mr-6">
-      <span class="leading-tight">Share pledge on Instagram</span>
+    <a href="#" class="flex bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(images/instagram_with_bg.png)">
+      Share pledge on Instagram
     </a>
   </div>
 </section>
-<section class="px-48 pt-24 pb-20 bg-blue text-white">
-  <div class="flex">
-    <div class="w-1/3">
+<section class="px-8 xl:px-48 pt-20 xl:pt-24 pb-16 xl:pb-20 bg-blue text-white overflow-hidden">
+  <div class="xl:flex">
+    <div class="xl:w-1/3">
       <div class="border border-white" style="transform: rotate(-7deg)">
-        <div class="bg-blue-dark text-center px-6 py-12" style="transform: rotate(7deg)">
-          <img src="images/your_story_avatar.png" class="mb-8 mx-auto" />
-          <div class="text-2xl mb-4">Joseph Bloggs</div>
-          <p class="text-3xl mb-4 leading-tight">“Quote goes here. Highlighting story and can run over a few lines.”</p>
-          <a href="#" class="text-2xl text-orange">
+        <div class="bg-blue-dark text-center px-6 py-10 xl:py-12" style="transform: rotate(7deg)">
+          <img src="images/your_story_avatar.png" class="mb-8 mx-auto w-32 xl:w-auto" />
+          <div class="text-xl xl:text-2xl mb-4">Joseph Bloggs</div>
+          <p class="text-2xl xl:text-3xl mb-4 leading-tight">“Quote goes here. Highlighting story and can run over a few lines.”</p>
+          <a href="#" class="text-xl xl:text-2xl text-orange">
             Read story
-            <img src="svg/orange_arrow_right.svg" class="mt-2 mx-auto"/>
+            <img src="svg/orange_arrow_right.svg" class="mt-2 mx-auto w-8 xl:w-auto"/>
           </a>
         </div>
       </div>
     </div>
-    <div class="w-2/3 pl-20 pt-24 flex items-start">
-      <img src="svg/three_white_bg.svg" class="mb-6 w-40" />
-      <div class="pl-10">
-        <h1 class="text-5xl leading-tight mb-8">Tell us your story</h1>
+    <div class="xl:w-2/3 xl:pl-20 pt-20 xl:pt-24 xl:flex items-start">
+      <img src="svg/three_white_bg.svg" class="mb-16 xl:mb-6 xl:w-40" />
+      <div class="xl:pl-10">
+        <h1 class="text-4xl xl:text-5xl leading-tight mb-8">Tell us your story</h1>
         <p class="text-2xl leading-tight mb-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<p>
         <p class="text-2xl leading-tight mb-12">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         <button class="px-8 py-4 bg-white text-blue-dark text-2xl">
