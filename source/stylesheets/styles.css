@@ -10635,8 +10635,25 @@ video {
   z-index: auto;
 }
 
-#home_header {
-  background-image: url(/images/clouds.png);
+#main-header #menu-toggle {
+  background-image: url(/svg/menu_icon.svg);
+}
+
+#main-header.menu-active {
+  background-color: #204f7f;
+}
+
+#main-header.menu-active #menu-toggle {
+  background-image: url(/svg/menu_close_icon.svg);
+}
+
+#main-header.menu-active nav {
+  position: absolute;
+  left: 0;
+  right: 0;
+  display: flex;
+  top: 8rem;
+  background-color: #204f7f;
 }
 
 @media (min-width: 640px) {
