@@ -10656,6 +10656,16 @@ video {
   background-color: #204f7f;
 }
 
+.faq-question {
+  background-size: 2rem;
+}
+
+@media (min-width: 1280px) {
+  .faq-question {
+    background-size: auto;
+  }
+}
+
 @media (min-width: 640px) {
   .sm\:sr-only {
     position: absolute;
