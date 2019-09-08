@@ -10664,6 +10664,10 @@ video {
   .faq-question {
     background-size: auto;
   }
+
+  .blog-post-card {
+    width: 48%;
+  }
 }
 
 @media (min-width: 640px) {

@@ -1,76 +1,33 @@
 ---
 title: Be inspired
 ---
-<section class="bg-gray-light px-48 pt-24 pb-12 text-blue-dark">
-  <div class="text-l mb-16">
-    Filter posts
-    <span class="border border-blue-dark bg-blue-dark text-white ml-8 px-6 py-1 rounded-full">All</span>
-    <span class="border border-blue-dark ml-4 px-6 py-1 rounded-full">Climate Change</span>
-    <span class="border border-blue-dark ml-4 px-6 py-1 rounded-full">Flight-free travel</span>
-    <span class="border border-blue-dark ml-4 px-6 py-1 rounded-full">Love Miles</span>
-    <span class="border border-blue-dark ml-4 px-6 py-1 rounded-full">One of the 100,000</span>
+<section class="bg-gray-light px-8 xl:px-48 pt-12 xl:pt-24 pb-12 text-blue-dark">
+  <div class="text-s xl:text-base mb-12 xl:mb-16 flex flex-wrap items-center">
+    <span class="hidden xl:block mr-2 xl:mr-8 mb-2">Filter posts</span>
+    <span class="border border-blue-dark bg-blue-dark text-white px-4 xl:px-6 py-1 mr-1 mb-2 xl:mr-4 rounded-full">All</span>
+    <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">Climate Change</span>
+    <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">Flight-free travel</span>
+    <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">Love Miles</span>
+    <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">One of the 100,000</span>
   </div>
-  <div class="flex flex-wrap justify-between">
-    <div class="bg-white text-blue-dark mb-10" style="width: 48%">
-      <a href="blog_post.html"><img src="images/blog_post_1.jpg" class="w-full" /></a>
-      <div class="px-8 py-8">
-        <div class="flex mb-4">
-          <img src="images/blog_author_avatar.png" class="w-16 mr-6"/>
-          <span class="text-xl self-center">Claire Thompson</span>
-        </div>
-        <h4 class="text-3xl mb-2"><a href="blog_post.html">Train setting accross Europe</a></h4>
-        <p class="text-base leading-tight mb-3"><a href="blog_post.html">Claire Thompson’s sons live half a world away, in New Zealand. Claire Thompson’s sons live half a world away, in New Zealand…</a></p>
-        <div class="text-lg text-blue-text-light">
-          <span class="mr-4">2 days ago</span>
-          <span>3 minute read</span>
-        </div>
-      </div>
-    </div>
-    <div class="mb-10 bg-white text-blue-dark" style="width: 48%">
-      <a href="blog_post.html"><img src="images/blog_post_2.jpg" class="w-full" /></a>
-      <div class="px-8 py-8">
-        <div class="flex mb-4">
-          <img src="images/blog_author_avatar.png" class="w-16 mr-6"/>
-          <span class="text-xl self-center">Claire Thompson</span>
-        </div>
-        <h4 class="text-3xl mb-2"><a href="blog_post.html">Train setting accross Europe</a></h4>
-        <p class="text-base leading-tight mb-3"><a href="blog_post.html">Claire Thompson’s sons live half a world away, in New Zealand. Claire Thompson’s sons live half a world away, in New Zealand…</a></p>
-        <div class="text-lg text-blue-text-light">
-          <span class="mr-4">2 days ago</span>
-          <span>3 minute read</span>
+  <div class="xl:flex flex-wrap justify-between">
+    <% 4.times do |i| %>
+      <div class="bg-white text-blue-dark mb-10 blog-post-card">
+        <a href="blog_post.html"><img src="images/blog_post_<%= i % 2 == 0 ? "2" : "1" %>.jpg" class="w-full" /></a>
+        <div class="px-5 py-4 xl:px-8 xl:py-8">
+          <div class="flex mb-2 xl:mb-4">
+            <img src="images/blog_author_avatar.png" class="w-16 mr-2 xl:mr-6"/>
+            <span class="text-lg xl:text-xl self-center">Claire Thompson</span>
+          </div>
+          <h4 class="text-2xl xl:text-3xl mb-2 leading-none"><a href="blog_post.html">Train setting accross Europe</a></h4>
+          <p class="text-sm xl:text-base leading-tight mb-3"><a href="blog_post.html">Claire Thompson’s sons live half a world away, in New Zealand. Claire Thompson’s sons live half a world away, in New Zealand…</a></p>
+          <div class="text-xs lg:text-lg text-blue-text-light">
+            <span class="mr-3 xl:mr-4">2 days ago</span>
+            <span>3 minute read</span>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="mb-10 bg-white text-blue-dark" style="width: 48%">
-      <a href="blog_post.html"><img src="images/blog_post_2.jpg" class="w-full" /></a>
-      <div class="px-8 py-8">
-        <div class="flex mb-4">
-          <img src="images/blog_author_avatar.png" class="w-16 mr-6"/>
-          <span class="text-xl self-center">Claire Thompson</span>
-        </div>
-        <h4 class="text-3xl mb-2"><a href="blog_post.html">Train setting accross Europe</a></h4>
-        <p class="text-base leading-tight mb-3"><a href="blog_post.html">Claire Thompson’s sons live half a world away, in New Zealand. Claire Thompson’s sons live half a world away, in New Zealand…</a></p>
-        <div class="text-lg text-blue-text-light">
-          <span class="mr-4">2 days ago</span>
-          <span>3 minute read</span>
-        </div>
-      </div>
-    </div>
-    <div class="mb-10 bg-white text-blue-dark" style="width: 48%">
-      <a href="blog_post.html"><img src="images/blog_post_1.jpg" class="w-full" /></a>
-      <div class="px-8 py-8">
-        <div class="flex mb-4">
-          <img src="images/blog_author_avatar.png" class="w-16 mr-6"/>
-          <span class="text-xl self-center">Claire Thompson</span>
-        </div>
-        <h4 class="text-3xl mb-2"><a href="blog_post.html">Train setting accross Europe</a></h4>
-        <p class="text-base leading-tight mb-3"><a href="blog_post.html">Claire Thompson’s sons live half a world away, in New Zealand. Claire Thompson’s sons live half a world away, in New Zealand…</a></p>
-        <div class="text-lg text-blue-text-light">
-          <span class="mr-4">2 days ago</span>
-          <span>3 minute read</span>
-        </div>
-      </div>
-    </div>
+    <% end %>
   </div>
   <a href="#" class="text-xl">Load more posts</a>
 </section>

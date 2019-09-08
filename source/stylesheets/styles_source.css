@@ -37,4 +37,8 @@
   .faq-question {
     @apply bg-auto;
   }
+
+  .blog-post-card {
+    width: 48%;
+  }
 }
