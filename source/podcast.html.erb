@@ -1,42 +1,29 @@
 ---
 title: Podcast
 ---
-<section class="bg-gray-light px-48 pt-24 pb-20">
-  <h1 class="text-5xl text-blue-dark mb-6">Flight Free Podcast</h1>
-  <p class="text-3xl mb-16 leading-tight text-text-gray-light">Welcome to the Flight Free UK podcast! Here we interview activists, politicians and others about why they've pledged to be #flightfree in 2020</p>
-  <div class="flex bg-blue-dark mb-12 bg-no-repeat bg-right-top" style="background-image:url(images/latest_podcast.png)">
-    <img src="images/anna_with_roger_hallam_large.png" class="w-1/2" />
-    <div class="relative w-1/2 px-16 pt-16" >
-      <p class="text-2xl text-white leading-tight mb-10">We hear from Roger Hallam, one of the brains behind Extinction Rebellion, about civil disobedience, making a noise about the climate crisis, and how to create change</p>
-      <a href="#" class="inline-block text-xl text-white pl-10 bg-no-repeat" style="background-image:url(svg/podcast.svg)">Listen now</a>
+<section class="bg-gray-light px-8 lg:px-48 pt-12 xl:pt-24 pb-12 xl:pb-20">
+  <h1 class="text-4xl xl:text-5xl text-blue-dark mb-6 leading-tight">Flight Free Podcast</h1>
+  <p class="text-2xl xl:text-3xl mb-12 xl:mb-16 leading-tight text-text-gray-light">Welcome to the Flight Free UK podcast! Here we interview activists, politicians and others about why they've pledged to be #flightfree in 2020</p>
+  <div class="xl:flex bg-blue-dark mb-10 xl:mb-12 bg-no-repeat bg-right-top" style="background-image:url(images/latest_podcast.png)">
+    <div class="relative xl:w-1/2">
+      <img src="images/anna_with_roger_hallam_large.png" class="w-full" />
+      <div class="absolute inset-0 bg-no-repeat bg-right-top xl:hidden" style="background-image:url(images/latest_podcast.png)"></div>
+    </div>
+    <div class="relative xl:w-1/2 px-8 pt-6 xl:pt-6 xl:px-16 xl:pt-16 pb-6 xl:pb-0">
+      <p class="text-lg xl:text-2xl text-white leading-tight mb-6 xl:mb-10">We hear from Roger Hallam, one of the brains behind Extinction Rebellion, about civil disobedience, making a noise about the climate crisis, and how to create change</p>
+      <a href="#" class="inline-block text-lg xl:text-xl text-white pl-10 bg-no-repeat bg-contain" style="background-image:url(svg/podcast.svg)">Listen now</a>
     </div>
   </div>
-  <div class="flex bg-blue-dark mb-12 text-white">
-    <img src="images/anna_with_roger_hallam.png" />
-    <div class="py-6 px-10 w-1/3 text-2xl leading-tight self-center">
-      Podcast title here and can go over two lines.
+  <% 3.times do %>
+    <div class="xl:flex bg-blue-dark mb-10 xl:mb-12 text-white">
+      <img src="images/anna_with_roger_hallam.png" class="w-full xl:w-auto" />
+      <div class="py-6 px-8 xl:px-10 xl:w-1/3 text-lg xl:text-2xl leading-tight self-center">
+        Podcast title here and can go over two lines.
+      </div>
+      <div class="flex-grow xl:flex items-center justify-end pb-6 px-8 xl:pb-0 xl:pl-0 xl:pr-12">
+        <a href="#" class="text-lg xl:text-xl pl-10 bg-no-repeat bg-contain" style="background-image:url(svg/podcast.svg)">Listen now</a>
+      </div>
     </div>
-    <div class="flex-grow flex items-center justify-end pr-12">
-      <a href="#" class="text-xl pl-10 bg-no-repeat" style="background-image:url(svg/podcast.svg)">Listen now</a>
-    </div>
-  </div>
-  <div class="flex bg-blue-dark mb-12 text-white">
-    <img src="images/anna_with_roger_hallam.png" />
-    <div class="py-6 px-10 w-1/3 text-2xl leading-tight self-center">
-      Podcast title here and can go over two lines.
-    </div>
-    <div class="flex-grow flex items-center justify-end pr-12">
-      <a href="#" class="text-xl pl-10 bg-no-repeat" style="background-image:url(svg/podcast.svg)">Listen now</a>
-    </div>
-  </div>
-  <div class="flex bg-blue-dark mb-12 text-white">
-    <img src="images/anna_with_roger_hallam.png" />
-    <div class="py-6 px-10 w-1/3 text-2xl leading-tight self-center">
-      Podcast title here and can go over two lines.
-    </div>
-    <div class="flex-grow flex items-center justify-end pr-12">
-      <a href="#" class="text-xl pl-10 bg-no-repeat" style="background-image:url(svg/podcast.svg)">Listen now</a>
-    </div>
-  </div>
+  <% end %>
   <a href="#" class="text-xl text-blue-dark">Load more podcasts</a>
 </section>
