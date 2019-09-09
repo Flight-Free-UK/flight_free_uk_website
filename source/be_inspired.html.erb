@@ -11,9 +11,9 @@ title: Be inspired
     <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">One of the 100,000</span>
   </div>
   <div class="xl:flex flex-wrap justify-between">
-    <% blog.articles.each_with_index do |article, i| %>
+    <% blog.articles.each do |article| %>
       <div class="bg-white text-blue-dark mb-10 blog-post-card">
-        <a href="<%= article.url %>"><img src="images/blog_post_<%= i % 2 == 0 ? "2" : "1" %>.jpg" class="w-full" /></a>
+        <% link_to(article.url) do %><%= image_tag article.data.cover_image, class: "w-full" %><% end %>
         <div class="px-5 py-4 xl:px-8 xl:py-8">
           <div class="flex mb-2 xl:mb-4">
             <img src="images/blog_author_avatar.png" class="w-16 mr-2 xl:mr-6"/>

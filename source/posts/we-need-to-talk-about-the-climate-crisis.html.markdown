@@ -1,6 +1,7 @@
 ---
 title: We need to talk about the climate crisis
 date: 2019-08-24T00:00:00.000Z
+cover_image: /images/uploads/28464365_m-848x480.jpg
 summary: >-
   Maria Ardley questions why we are so reluctant to face up to the reality of
   the climate crisis, and highlights the urgent need to take action
