@@ -7,6 +7,15 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
+activate :blog do |blog|
+  blog.generate_day_pages = false
+  blog.generate_month_pages = false
+  blog.generate_year_pages = false
+  blog.permalink = "post/{title}.html"
+  blog.sources = "posts/{title}.html"
+  blog.layout = "blog_post_layout"
+end
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 

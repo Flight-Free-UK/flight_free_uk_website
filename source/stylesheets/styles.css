@@ -10660,6 +10660,21 @@ video {
   background-size: 2rem;
 }
 
+.blog-post-body p, .blog-post-body ul {
+  font-size: 1.125rem;
+  line-height: 1.25;
+  color: #363636;
+  margin-bottom: 1.5rem;
+}
+
+.blog-post-body h2 {
+  font-size: 1.25rem;
+  line-height: 1.25;
+  color: #363636;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
 @media (min-width: 1280px) {
   .faq-question {
     background-size: auto;
@@ -10667,6 +10682,22 @@ video {
 
   .blog-post-card {
     width: 48%;
+  }
+
+  .blog-post-body p,
+  .blog-post-body ul
+  {
+    font-size: 1.25rem;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    margin-bottom: 2rem;
+  }
+
+  .blog-post-body h2 {
+    font-size: 1.5rem;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    margin-bottom: 2rem;
   }
 }
 
@@ -60629,3 +60660,4 @@ video {
     z-index: auto;
   }
 }
+

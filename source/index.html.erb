@@ -99,49 +99,13 @@ title: FlightFree UK
   <section>
     <div class="flex flex-wrap xl:flex-no-wrap">
       <div class="xl:w-1/3 xl:mr-6 mb-8 bg-white text-blue-dark">
-        <a href="blog_post.html"><img src="images/blog_post_1.jpg" class="w-full" /></a>
-        <div class="px-5 py-4">
-          <div class="flex mb-2">
-            <img src="images/blog_author_avatar.png" class="mr-2"/>
-            <span class="text-base self-center">Claire Thompson</span>
-          </div>
-          <h4 class="text-2xl mb-2"><a href="blog_post.html">Title of blog post here</a></h4>
-          <p class="text-sm leading-tight mb-3"><a href="blog_post.html">Claire Thompson’s sons live half a world away, in New Zealand…</a></p>
-          <div class="text-xs text-blue-text-light">
-            <span class="mr-3">2 days ago</span>
-            <span>3 minute read</span>
-          </div>
-        </div>
+        <%= partial "home_blog_post", locals: { article: blog.articles[0] } %>
       </div>
       <div class="xl:w-1/3 xl:mx-3 mb-8 bg-white text-blue-dark">
-        <a href="blog_post.html"><img src="images/blog_post_2.jpg" class="w-full" /></a>
-        <div class="px-5 py-4">
-          <div class="flex mb-2">
-            <img src="images/blog_author_avatar.png" class="mr-2"/>
-            <span class="text-l self-center">Claire Thompson</span>
-          </div>
-          <h4 class="text-2xl mb-2"><a href="blog_post.html">Title of blog post here</a></h4>
-          <p class="text-sm leading-tight mb-3"><a href="blog_post.html">Claire Thompson’s sons live half a world away, in New Zealand…</a></p>
-          <div class="text-xs text-blue-text-light">
-            <span class="mr-3">2 days ago</span>
-            <span>3 minute read</span>
-          </div>
-        </div>
+        <%= partial "home_blog_post", locals: { article: blog.articles[1] } %>
       </div>
       <div class="xl:w-1/3 xl:ml-6 mb-8 bg-white text-blue-dark">
-        <a href="blog_post.html"><img src="images/blog_post_3.jpg" class="w-full" /></a>
-        <div class="px-5 py-4">
-          <div class="flex mb-2">
-            <img src="images/blog_author_avatar.png" class="mr-2"/>
-            <span class="text-l self-center">Claire Thompson</span>
-          </div>
-          <h4 class="text-2xl mb-2"><a href="blog_post.html">Title of blog post here</a></h4>
-          <p class="text-sm leading-tight mb-3"><a href="blog_post.html">Claire Thompson’s sons live half a world away, in New Zealand…</a></p>
-          <div class="text-xs text-blue-text-light">
-            <span class="mr-3">2 days ago</span>
-            <span>3 minute read</span>
-          </div>
-        </div>
+        <%= partial "home_blog_post", locals: { article: blog.articles[2] } %>
       </div>
     </div>
     <div class="xl:text-right">

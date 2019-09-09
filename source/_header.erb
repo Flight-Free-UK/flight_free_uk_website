@@ -13,7 +13,7 @@
          "podcast.html" => "Podcast",
          "faq.html" => "FAQs"
        }.each do |path, name| %>
-       <%= link_to name, path, class: "w-full xl:w-auto mb-8 xl:mb-0 #{path == current_page.path ? "xl:border-b-2 border-orange" : nil}" %>
+       <%= link_to name, "/#{path}", class: "w-full xl:w-auto mb-8 xl:mb-0 #{path == current_page.path ? "xl:border-b-2 border-orange" : nil}" %>
     <% end %>
   </nav>
 </header>
