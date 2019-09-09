@@ -1,9 +1,13 @@
 ---
 title: An open letter to the Duke and Duchess of Sussex
-date: 2019-08-27
-read_time_minute: 3
+date: 2019-08-27T00:00:00.000Z
+cover_image: >-
+  /images/uploads/harry-and-meghan-took-four-private-flights-in-just-11-days-1566404464.jpg
+summary: >-
+  Dear Harry and Meghan, the team here at Flight Free UK urges you to consider
+  the climate impact of your flights
 author: Flight Free UK
-summary: Dear Harry and Meghan, the team here at Flight Free UK urges you to consider the climate impact of your flights
+read_time_minute: 3
 ---
 
 Dear Harry and Meghan,
