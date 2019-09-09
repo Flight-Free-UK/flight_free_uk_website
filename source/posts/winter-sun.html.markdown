@@ -1,9 +1,12 @@
 ---
 title: Winter Sun
-date: 2019-08-21
-read_time_minute: 3
+date: 2019-08-21T00:00:00.000Z
+cover_image: /images/uploads/winter-sun-3-.jpg
+summary: >-
+  Paul Powlesland, founder of Lawyers for Nature and once-frequent winter
+  sun-seeker, shares his experience of spending winter in the UK
 author: Flight Free UK
-summary: Paul Powlesland, founder of Lawyers for Nature and once-frequent winter sun-seeker, shares his experience of spending winter in the UK
+read_time_minute: 3
 ---
 
 “In previous winters I’ve needed to get away somewhere in the sun. I tend to get quite depressed in the winter. But last winter is the first time in a long time when I haven’t flown. I just wanted to spend more time experiencing what winter is really like in the UK. And I actually felt happier.”
