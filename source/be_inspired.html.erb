@@ -13,7 +13,7 @@ title: Be inspired
   <div class="xl:flex flex-wrap justify-between">
     <% blog.articles.each do |article| %>
       <div class="bg-white text-blue-dark mb-10 blog-post-card">
-        <% link_to(article.url) do %><%= image_tag article.data.cover_image, class: "w-full" %><% end %>
+        <a href="<%= article.url %>" class="block bg-cover bg-center" style="height: 18rem; background-image:url(<%= article.data.cover_image %>)"></a>
         <div class="px-5 py-4 xl:px-8 xl:py-8">
           <div class="flex mb-2 xl:mb-4">
             <img src="images/blog_author_avatar.png" class="w-16 mr-2 xl:mr-6"/>

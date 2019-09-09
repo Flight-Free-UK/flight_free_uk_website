@@ -1,4 +1,4 @@
-<% link_to(article.url) do %><%= image_tag article.data.cover_image, class: "w-full" %><% end %>
+<a href="<%= article.url %>" class="block h-56 bg-cover bg-center" style="background-image:url(<%= article.data.cover_image %>)"></a>
 <div class="px-5 py-4">
   <div class="flex mb-2">
     <img src="/images/blog_author_avatar.png" class="mr-2"/>
