@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+
+media_folder: source/images/uploads
+public_folder: /images/uploads
+
+collections:
+  - name: blog
+    label: Blog
+    folder: source/posts/
+    extension: .html.markdown
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: datetime}
+      - {label: Summary, name: summary, widget: text}
+      - {label: Author, name: author, widget: string}
+      - {label: Read time, name: read_time_minute, widget: number}
+      - {label: Body, name: body, widget: markdown}
