@@ -20,3 +20,13 @@ collections:
       - {label: Author, name: author, widget: string}
       - {label: Read time, name: read_time_minute, widget: number}
       - {label: Body, name: body, widget: markdown}
+  - name: authors
+    label: Blog Authors
+    folder: data/authors/
+    format: yml
+    create: true
+    identifier_field: name
+    fields:
+      - {label: Name, name: name, widget: string}
+      - {label: Avatar, name: avatar, widget: image}
+
