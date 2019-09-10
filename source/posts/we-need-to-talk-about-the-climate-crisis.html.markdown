@@ -5,7 +5,7 @@ cover_image: /images/uploads/28464365_m-848x480.jpg
 summary: >-
   Maria Ardley questions why we are so reluctant to face up to the reality of
   the climate crisis, and highlights the urgent need to take action
-author: Flight Free UK
+author: FlightFree UK
 read_time_minute: 6
 ---
 ![Source: Infinity solar https://www.infinitysolar.net/burning-fossil-fuels-comes-at-a-giant-price-climate-change/](/images/uploads/28464365_m-848x480.jpg "Source: Infinity solar https://www.infinitysolar.net/burning-fossil-fuels-comes-at-a-giant-price-climate-change/")

@@ -5,7 +5,7 @@ cover_image: /images/uploads/winter-sun-3-.jpg
 summary: >-
   Paul Powlesland, founder of Lawyers for Nature and once-frequent winter
   sun-seeker, shares his experience of spending winter in the UK
-author: Flight Free UK
+author: FlightFree UK
 read_time_minute: 3
 ---
 
