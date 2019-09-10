@@ -6,7 +6,7 @@ cover_image: >-
 summary: >-
   Dear Harry and Meghan, the team here at Flight Free UK urges you to consider
   the climate impact of your flights
-author: Flight Free UK
+author: FlightFree UK
 read_time_minute: 3
 ---
 
