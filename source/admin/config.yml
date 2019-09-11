@@ -31,6 +31,31 @@ collections:
       - {label: Cover image, name: cover_image, widget: image}
       - {label: Summary, name: summary, widget: text}
       - {label: URL, name: url, widget: string}
+  - name: faqs
+    label: FAQs
+    files:
+      - label: General FAQs about flying
+        name: general
+        file: "data/faqs/general.yml"
+        fields:
+          - label: FAQs
+            name: faqs
+            widget: list
+            allow_add: true
+            fields:
+            - {label: Question, name: question, widget: string}
+            - {label: Answer, name: answer, widget: markdown}
+      - label: Specific FAQs about the campaign
+        name: specific
+        file: "data/faqs/specific.yml"
+        fields:
+          - label: FAQs
+            name: faqs
+            widget: list
+            allow_add: true
+            fields:
+            - {label: Question, name: question, widget: string}
+            - {label: Answer, name: answer, widget: markdown}
   - name: authors
     label: Blog Authors
     folder: data/authors/

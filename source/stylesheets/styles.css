@@ -10660,6 +10660,12 @@ video {
   background-size: 2rem;
 }
 
+.faq-question p {
+  color: #363636;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
 .blog-post-body p, .blog-post-body ul {
   font-size: 1.125rem;
   line-height: 1.25;
@@ -10692,6 +10698,10 @@ video {
 @media (min-width: 1280px) {
   .faq-question {
     background-size: auto;
+  }
+
+  .faq-question p {
+    font-size: 1.25rem;
   }
 
   .blog-post-card {
@@ -60686,4 +60696,3 @@ video {
     z-index: auto;
   }
 }
-

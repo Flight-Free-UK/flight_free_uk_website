@@ -33,6 +33,10 @@
   background-size: 2rem;
 }
 
+.faq-question p {
+  @apply text-text-default text-base leading-tight;
+}
+
 .blog-post-body p, .blog-post-body ul {
   @apply text-lg leading-tight text-text-default;
   @apply mb-6;
@@ -60,6 +64,10 @@
 @media (min-width: 1280px) {
   .faq-question {
     @apply bg-auto;
+  }
+
+  .faq-question p {
+    @apply text-xl;
   }
 
   .blog-post-card {
@@ -91,4 +99,3 @@
     max-width: calc(100% + 16rem);
   }
 }
-
