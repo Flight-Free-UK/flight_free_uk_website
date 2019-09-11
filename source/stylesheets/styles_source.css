@@ -29,8 +29,17 @@
   background-color: #204f7f;
 }
 
-.faq-question {
+.faq-question h3 {
   background-size: 2rem;
+  background-image: url(/svg/faqs_plus.svg)
+}
+
+.faq-question.expanded h3 {
+  background-image: url(/svg/faqs_minus.svg)
+}
+
+.faq-question.expanded .answer {
+  @apply block;
 }
 
 .faq-question p {

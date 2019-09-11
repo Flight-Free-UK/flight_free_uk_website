@@ -25,12 +25,11 @@ title: FAQs
   <a name="general_faqs_about_flying"></a>
   <h2 class="text-3xl text-blue-dark mb-10 leading-tight">General FAQs about flying</h2>
   <% data.faqs.general.faqs.each do |faq| %>
-    <div class="hidden faq-question mb-10 border-b border-gray-200 bg-no-repeat bg-right-top pb-8 xl:pr-32" style="background-image:url(svg/faqs_plus.svg)">
-      <h3 class="pr-12 xl:pr-0 text-xl xl:text-2xl text-blue-dark leading-tight pr-12 xl:pr-0"><%= faq.question %></h3>
-    </div>
-    <div class="faq-question mb-10 border-b border-gray-200 bg-no-repeat bg-right-top pb-8 xl:pr-32" style="background-image:url(svg/faqs_minus.svg)">
-      <h3 class="pr-12 xl:pr-0 text-xl xl:text-2xl text-blue-dark leading-tight pb-6 pr-12 xl:pr-0"><%= faq.question %></h3>
-      <%= markdown(faq.answer) %>
+    <div class="faq-question mb-10 border-b border-gray-200 pb-8">
+      <h3 class="w-full pr-12 text-xl xl:text-2xl text-blue-dark leading-tight bg-no-repeat bg-right-top cursor-pointer" onclick="this.parentElement.classList.toggle('expanded')"><%= faq.question %></h3>
+      <div class="answer hidden mt-6 xl:pr-32">
+        <%= markdown(faq.answer) %>
+      </div>
     </div>
   <% end %>
   <p class="text-right mb-16">
@@ -39,12 +38,11 @@ title: FAQs
   <a name="specific_faqs_about_the_campaign"></a>
   <h2 class="text-3xl text-blue-dark mb-10">Specific FAQs about the campaign</h2>
   <% data.faqs.specific.faqs.each do |faq| %>
-    <div class="hidden faq-question mb-10 border-b border-gray-200 bg-no-repeat bg-right-top pb-8 xl:pr-32" style="background-image:url(svg/faqs_plus.svg)">
-      <h3 class="pr-12 xl:pr-0 text-xl xl:text-2xl text-blue-dark leading-tight"><%= faq.question %></h3>
-    </div>
-    <div class="faq-question mb-10 border-b border-gray-200 bg-no-repeat bg-right-top pb-8 xl:pr-32" style="background-image:url(svg/faqs_minus.svg)">
-      <h3 class="pr-12 xl:pr-0 text-xl xl:text-2xl text-blue-dark leading-tight pb-6"><%= faq.question %></h3>
-      <%= markdown(faq.answer) %>
+    <div class="faq-question mb-10 border-b border-gray-200 pb-8">
+      <h3 class="w-full pr-12 text-xl xl:text-2xl text-blue-dark leading-tight bg-no-repeat bg-right-top cursor-pointer" onclick="this.parentElement.classList.toggle('expanded')"><%= faq.question %></h3>
+      <div class="answer hidden mt-6 xl:pr-32">
+        <%= markdown(faq.answer) %>
+      </div>
     </div>
   <% end %>
   <p class="hidden xl:block text-right mb-16">
