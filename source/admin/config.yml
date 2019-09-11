@@ -20,6 +20,17 @@ collections:
       - {label: Author, name: author, widget: relation, collection: authors, valueField: name, searchFields: [name]}
       - {label: Read time, name: read_time_minute, widget: number}
       - {label: Body, name: body, widget: markdown}
+  - name: podcasts
+    label: Podcasts
+    folder: data/podcasts
+    format: yml
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: Summary, name: summary, widget: text}
+      - {label: URL, name: url, widget: string}
   - name: authors
     label: Blog Authors
     folder: data/authors/
