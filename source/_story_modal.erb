@@ -1,0 +1,24 @@
+<section id="story-modal" aria-hidden="true" class="hidden modal">
+  <div tabindex="-1" data-micromodal-close class="fixed inset-0 flex items-center justify-center" style="background-color:rgba(31, 77, 123, 0.9)">
+    <div role="dialog" aria-modal="true" aria-labelledby="story-modal-title" class="xl:relative xl:px-16 xl:py-10">
+      <div class="h-screen xl:h-auto flex flex-col bg-white px-8 xl:px-12 py-12" style="max-width:657px">
+        <header class="relative xl:static">
+          <h2 id="story-modal-title" class="text-xl xl:text-3xl text-blue-dark mb-4 xl:mb-6">
+            Add your story
+          </h2>
+          <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-8 xl:w-20 h-8 xl:h-20 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
+        </header>
+        <div id="story-modal-content" class="flex-grow xl:flex-grow-0 bg-no-repeat bg-right-bottom" style="background-image:url(/svg/story_modal_bg.svg)">
+          <p class="text-lg xl:text-2xl text-text-gray-light leading-tight mb-10 xl:mb-12">Text here to encourage people to add their story and explaining what to include and how to send it.</p>
+          <ul class="text-lg xl:text-2xl text-blue-dark mb-12 xl:mb-16">
+            <li class="mb-6 pl-8 bg-no-repeat bg-left" style="background-image:url(/svg/story_modal_bullet.svg)">Name</li>
+            <li class="mb-6 pl-8 bg-no-repeat bg-left" style="background-image:url(/svg/story_modal_bullet.svg)">300 words about your story</li>
+            <li class="pl-8 bg-no-repeat bg-left" style="background-image:url(/svg/story_modal_bullet.svg)">Photos (1024px minimum)</li>
+          </ul>
+          <p class="text-lg xl:text-2xl text-text-gray-light">Email your story to:</p>
+          <a class="text-xl xl:text-3xl text-orange underline" href="mailto:info@flightfreeuk.com">info@flightfreeuk.com</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

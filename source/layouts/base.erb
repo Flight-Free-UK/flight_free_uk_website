@@ -44,16 +44,17 @@
     <div role="dialog" aria-modal="true" aria-labelledby="pledge-modal-title" class="relative px-6 py-6">
       <header>
         <h2 id="pledge-modal-title" class="hidden">
-          Sing the pledge
+          Sign the pledge
         </h2>
         <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
       </header>
-      <div id="modal-1-content">
+      <div id="pledge-modal-content">
         <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" style="min-height:430px"></iframe>
       </div>
     </div>
   </div>
 </section>
+<%= partial "story_modal" %>
 <script type="text/javascript">
   MicroModal.init();
 </script>
