@@ -7,13 +7,14 @@
   <meta name="description" content="">
   <title><%= [current_page.data.title, "FlightFree UK"].join(" | ") %></title>
   <%= stylesheet_link_tag "styles" %>
+  <%= javascript_include_tag "https://unpkg.com/micromodal/dist/micromodal.min.js" %>
 </head>
 <body class="font-body">
 <div class="mx-auto container">
   <%= yield %>
   <section class="px-8 xl:px-48 pt-16 xl:pt-24 pb-16 xl:pb-20 bg-orange text-center">
     <h2 class="text-5xl xl:text-6xl text-white mb-12 xl:mb-16 leading-none">Help us reach 100,000!  Make the pledge to be flight free in 2020.</h2>
-    <button class="bg-white text-blue-dark text-2xl w-full xl:w-auto xl:px-20 py-4 xl:py-6">Sign the pledge</button>
+    <button class="bg-white text-blue-dark text-2xl w-full xl:w-auto xl:px-20 py-4 xl:py-6" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
   </section>
   <footer class="xl:flex justify-between bg-blue-dark px-8 xl:px-24 py-8 text-white text-center">
     <nav class="flex flex-wrap xl:w-2/5 justify-center xl:justify-between text-lg xl:text-base">
@@ -38,5 +39,23 @@
     </nav>
   </footer>
 </div>
+<section id="pledge-modal" aria-hidden="true" class="hidden modal">
+  <div tabindex="-1" data-micromodal-close class="fixed inset-0 flex items-center justify-center" style="background-color:rgba(31, 77, 123, 0.9)">
+    <div role="dialog" aria-modal="true" aria-labelledby="pledge-modal-title" class="relative px-6 py-6">
+      <header>
+        <h2 id="pledge-modal-title" class="hidden">
+          Sing the pledge
+        </h2>
+        <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
+      </header>
+      <div id="modal-1-content">
+        <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" style="min-height:430px"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+<script type="text/javascript">
+  MicroModal.init();
+</script>
 </body>
 </html>

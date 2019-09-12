@@ -3,7 +3,7 @@ layout: base
 title: FlightFree UK
 ---
 
-<div class="text-white bg-right-top pb-12" style="background-image: url(/images/clouds.png)">
+<div class="text-white bg-cover bg-right-top pb-12" style="background-image: url(/images/clouds.png)">
   <%= partial "header" %>
   <section class="xl:flex mt-6 xl:mt-10 mx-8 xl:mx-40">
     <div class="xl:w-2/3 pr-8">
@@ -16,7 +16,7 @@ title: FlightFree UK
       </div>
     </div>
     <div class="xl:w-1/3">
-      <button class="bg-orange text-blue-dark text-lg mt-10 mb-8 w-full py-4 xl:hidden">Sign the pledge</button>
+      <button class="bg-orange text-blue-dark text-lg mt-10 mb-8 w-full py-4 xl:hidden" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
       <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" class="hidden xl:block w-full" style="min-height:430px"></iframe>
     </div>
   </section>
@@ -43,7 +43,7 @@ title: FlightFree UK
           <img src="svg/one.svg" />
           <h3 class="w-full text-3xl text-blue-dark m-6 leading-tight">Sign the pledge</h3>
           <p class="w-full text-2xl mb-12 leading-tight">Help us reach 100,000!</p>
-          <button class="w-full bg-blue-dark text-white text-xl uppercase py-4">Pledge now</button>
+          <button class="w-full bg-blue-dark text-white text-xl uppercase py-4" data-micromodal-trigger="pledge-modal">Pledge now</button>
         </div>
       </div>
     </div>

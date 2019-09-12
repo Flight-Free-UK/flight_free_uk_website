@@ -70,6 +70,10 @@
   @apply font-semibold;
 }
 
+.modal.is-open {
+  @apply block;
+}
+
 @media (min-width: 1280px) {
   .faq-question {
     @apply bg-auto;

@@ -10704,6 +10704,10 @@ video {
   font-weight: 600;
 }
 
+.modal.is-open {
+  display: block;
+}
+
 @media (min-width: 1280px) {
   .faq-question {
     background-size: auto;
