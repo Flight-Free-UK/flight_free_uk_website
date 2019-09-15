@@ -7,6 +7,8 @@ activate :livereload
 #   prefix.browsers = "last 2 versions"
 # end
 
+activate :directory_indexes
+
 activate :blog do |blog|
   blog.generate_day_pages = false
   blog.generate_month_pages = false

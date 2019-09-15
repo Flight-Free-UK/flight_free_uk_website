@@ -1,7 +1,7 @@
 <% wrap_layout :layout do %>
   <% author = data.authors.values.find { |author| current_article.data.author == author.name } %>
   <main class="bg-white px-8 xl:px-48 py-12 xl:pt-16 xl:pb-20 text-blue-dark">
-    <a href="be_inspired.html" class="text-base xl:text-lg pl-8 bg-no-repeat" style="color:#a0a0a0;background-image:url(/svg/arrow_back.svg)">View all posts</a>
+    <%= link_to "View all posts", "/be_inspired.html", class: "text-base xl:text-lg pl-8 bg-no-repeat", style: "color:#a0a0a0;background-image:url(/svg/arrow_back.svg)" %>
     <h1 class="text-4xl xl:text-5xl text-blue-dark mt-6 mb-4 leading-tight"><%= current_article.title %></h1>
     <h2 class="text-3xl xl:text-3xl mb-8 leading-tight text-text-gray-light"><%= current_article.data.summary %></h2>
     <div class="xl:flex border-t border-b py-6 text-blue-dark items-center" style="border-color:#e7e7e7">
@@ -20,19 +20,19 @@
       <%= yield %>
     </div>
     <div class="border-t pt-10 text-center" style="border-color:#e7e7e7">
-      <a href="#"><img src="/svg/facebook_with_bg.svg" class="inline-block w-12" /></a>
-      <a class="mx-4" href="#"><img src="/svg/twitter_with_bg.svg" class="inline-block w-12" /></a>
-      <a href="#"><img src="/images/instagram_with_bg.png" class="inline-block w-12" /></a>
+      <a href="#"><%= image_tag "/svg/facebook_with_bg.svg", class: "inline-block w-12" %></a>
+      <a class="mx-4" href="#"><%= image_tag "/svg/twitter_with_bg.svg", class: "inline-block w-12" %></a>
+      <a href="#"><%= image_tag "/images/instagram_with_bg.png", class: "inline-block w-12" %></a>
     </div>
   </main>
   <section class="bg-gray-light px-8 xl:px-48 py-12 xl:pt-24 xl:pb-16 text-blue-dark">
     <div class="flex justify-between mb-12">
       <h2 class="text-2xl xl:text-3xl">Other posts</h2>
       <div class="text-right">
-        <a href="be_inspired.html" class="text-lg xl:text-xl text-orange">
+        <% link_to "/be_inspired.html", class: "text-lg xl:text-xl text-orange" do %>
           View all
-          <img src="/svg/orange_arrow_right.svg" class="inline-block w-8 ml-2"/>
-        </a>
+          <%= image_tag "/svg/orange_arrow_right.svg", class: "inline-block w-8 ml-2" %>
+        <% end %>
       </div>
     </div>
     <div class="xl:flex justify-between">
