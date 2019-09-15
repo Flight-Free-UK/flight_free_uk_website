@@ -3,9 +3,9 @@
 
 activate :livereload
 
-activate :autoprefixer do |prefix|
-  prefix.browsers = "last 2 versions"
-end
+# activate :autoprefixer do |prefix|
+#   prefix.browsers = "last 2 versions"
+# end
 
 activate :blog do |blog|
   blog.generate_day_pages = false
