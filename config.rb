@@ -8,6 +8,7 @@ activate :livereload
 # end
 
 activate :directory_indexes
+page "/admin/*", :directory_index => false
 
 activate :blog do |blog|
   blog.generate_day_pages = false
