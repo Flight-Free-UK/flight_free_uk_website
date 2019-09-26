@@ -2,7 +2,7 @@
 title: A Champion for Earth
 category: climage_change
 date: 2019-07-29T12:34:18.778Z
-cover_image: /images/uploads/28464365_m-848x480.jpg
+cover_image: /images/uploads/1000-pledges.jpg
 summary: >-
   Listen to our podcast interview with Etienne Stott, gold medal-winning
   canoeist and environmental activist
