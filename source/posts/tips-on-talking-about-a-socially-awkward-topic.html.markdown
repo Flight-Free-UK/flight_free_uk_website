@@ -2,7 +2,7 @@
 title: Tips on talking about a socially awkward topic
 category: climage_change
 date: 2019-01-31T17:15:17.909Z
-cover_image: /images/uploads/safe_image.jpg
+cover_image: /images/uploads/tips-on-awkward-topic-.jpg
 summary: >-
   It can be difficult speaking to your friends and family about a topic that
   challenges people’s thoughts and behaviours. It’s socially inconvenient to
