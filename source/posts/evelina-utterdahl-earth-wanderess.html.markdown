@@ -2,7 +2,7 @@
 title: 'Evelina Utterdahl: Earth Wanderess'
 category: climage_change
 date: 2019-03-04T16:58:10.322Z
-cover_image: /images/uploads/safe_image.jpg
+cover_image: /images/uploads/earth-wanderess.jpg
 summary: >-
   We meet Evelina Utterdahl, Swedish climate activist and eco-warrior who gave
   up flying without giving up her career as a travel blogger. 
