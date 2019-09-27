@@ -2,7 +2,7 @@
 title: Train-setting across Europe
 category: climage_change
 date: 2019-07-17T13:07:56.915Z
-cover_image: /images/uploads/safe_image.jpg
+cover_image: /images/uploads/train-setting-across-europe-.jpg
 summary: >-
   Arts and sustainability group Creative Carbon Scotland has a general ‘no
   flight’ policy – here, Director Ben Twist, a seasoned rail traveller, offers
