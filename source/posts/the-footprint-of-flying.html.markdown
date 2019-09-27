@@ -2,7 +2,7 @@
 title: The footprint of flying
 category: climage_change
 date: 2019-06-08T13:52:23.905Z
-cover_image: /images/uploads/safe_image.jpg
+cover_image: /images/uploads/the-footprint-of-flying-.jpg
 summary: Is flying really worse for the planet than eating meat?
 author: FlightFree UK
 read_time_minute: 2
