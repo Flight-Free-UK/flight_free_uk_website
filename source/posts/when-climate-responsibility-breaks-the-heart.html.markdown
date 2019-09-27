@@ -2,7 +2,7 @@
 title: When climate responsibility breaks the heart
 category: climage_change
 date: 2019-05-29T14:48:03.591Z
-cover_image: /images/uploads/safe_image.jpg
+cover_image: /images/uploads/blog-2.jpg
 summary: >-
   Claire Thompson's sons live half a world away, in New Zealand. In over a
   decade she has only seen them twice. This is her moving testimonial.
