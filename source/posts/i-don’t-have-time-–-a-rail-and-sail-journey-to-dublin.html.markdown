@@ -2,7 +2,7 @@
 title: '"I don’t have time!" – a rail and sail journey to Dublin'
 category: climage_change
 date: 2019-08-14T12:17:22.941Z
-cover_image: /images/uploads/28464365_m-848x480.jpg
+cover_image: /images/uploads/irish-ferries-.jpg
 summary: >
   Anna Hughes travels to Dublin via train and boat, a journey that prompts her
   to question our relationship with time
