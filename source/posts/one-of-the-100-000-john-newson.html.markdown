@@ -2,7 +2,7 @@
 title: 'One of the 100,000: John Newson'
 category: climage_change
 date: 2019-01-15T17:44:17.413Z
-cover_image: /images/uploads/28464365_m-848x480.jpg
+cover_image: /images/uploads/file.jpg
 summary: >-
   John Newson is one of the 100,000 who have signed the Flight Free 2020 pledge,
   he explains what motivated him to be flight-free and how it has affected his
