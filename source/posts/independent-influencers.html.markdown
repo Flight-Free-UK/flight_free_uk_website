@@ -2,7 +2,7 @@
 title: Independent Influencers
 category: climage_change
 date: 2019-09-14T11:04:26.260Z
-cover_image: /images/uploads/28464365_m-848x480.jpg
+cover_image: /images/uploads/roger-tyers-moscow-to-kiev.jpg
 summary: >-
   Maggie Robertson explores how journalists have the power to influence people's
   travel decisions – and why they should use it wisely
