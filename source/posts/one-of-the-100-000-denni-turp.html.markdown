@@ -2,7 +2,7 @@
 title: 'One of the 100,000: Denni Turp'
 category: climage_change
 date: 2019-03-20T16:39:00.380Z
-cover_image: /images/uploads/28464365_m-848x480.jpg
+cover_image: /images/uploads/file.jpg
 summary: >-
   Denni Turp is one of the 100,000 to sign the Flight Free 2020 pledge, he
   explains what motivated him to be flight-free and how this has affected his
