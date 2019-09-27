@@ -2,7 +2,7 @@
 title: 'One of the 100,000 questionnaire'
 category: climage_change
 date: 2019-01-10T17:48:37.561Z
-cover_image: /images/uploads/28464365_m-848x480.jpg
+cover_image: /images/uploads/file.jpg
 summary: Share your story about signing the flight free pledge with us
 author: FlightFree UK
 read_time_minute: 1
