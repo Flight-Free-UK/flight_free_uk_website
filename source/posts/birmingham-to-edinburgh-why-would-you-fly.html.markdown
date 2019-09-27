@@ -22,4 +22,4 @@ The UK Committee on Climate Change [wrote to the Government](https://www.theccc.
 
 The same day Easyjet starts its shortest UK route, [KLM will begin replacing one flight a day between Amsterdam and Brussels with a high speed train. ](https://www.independent.co.uk/travel/news-and-advice/klm-flight-train-amsterdam-shiphol-brussels-thalys-emissions-a9108446.html)This route is even shorter, and the rail service even faster. It’s a smart solution that reduces emissions while working with limits on airport capacity. Is this a glimpse of the future?
 
-![Graphic designed by the University of Edinburgh's Dept for Social Responsibility and Sustainability: edin.ac/business-travel](/images/uploads/0debf8_ae074ba3be33425e8fddf5b69418e47d_mv2.webp "Graphic designed by the University of Edinburgh's Dept for Social Responsibility and Sustainability: edin.ac/business-travel")
+![](/images/uploads/0debf8_ae074ba3be33425e8fddf5b69418e47d_mv2.webp "Graphic designed by the University of Edinburgh's Dept for Social Responsibility and Sustainability: edin.ac/business-travel")
