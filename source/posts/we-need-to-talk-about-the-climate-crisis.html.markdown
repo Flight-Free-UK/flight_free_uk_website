@@ -1,5 +1,6 @@
 ---
 title: We need to talk about the climate crisis
+category: climage_change
 date: 2019-08-24T00:00:00.000Z
 cover_image: /images/uploads/28464365_m-848x480.jpg
 summary: >-
@@ -8,7 +9,7 @@ summary: >-
 author: FlightFree UK
 read_time_minute: 6
 ---
-![Source: Infinity solar https://www.infinitysolar.net/burning-fossil-fuels-comes-at-a-giant-price-climate-change/](/images/uploads/28464365_m-848x480.jpg "Source: Infinity solar https://www.infinitysolar.net/burning-fossil-fuels-comes-at-a-giant-price-climate-change/")
+![Source: Infinity solar https://www.infinitysolar.net/burning-fossil-fuels-comes-at-a-giant-price-climate-change/](/images/uploads/28464365_m-848x480.jpg "Source: Infinity solar ")
 
 I live in San Sebastian and have just been back to England for two months. In that time I tried to open a conversation about global warming with all my family and friends. I received the following responses:
 
