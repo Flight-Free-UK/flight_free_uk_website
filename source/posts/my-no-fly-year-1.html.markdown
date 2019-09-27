@@ -1,7 +1,7 @@
 ---
 title: My no-fly year
 category: climage_change
-date: 2019-09-26T16:30:24.567Z
+date: 2019-01-28T17:30:24.567Z
 cover_image: /images/uploads/28464365_m-848x480.jpg
 summary: >-
   In June 2017, Viviana Jiménez took a year off flying. With family scattered
