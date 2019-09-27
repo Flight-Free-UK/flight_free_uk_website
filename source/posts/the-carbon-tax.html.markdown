@@ -2,7 +2,7 @@
 title: The Carbon Tax
 category: climage_change
 date: 2019-07-23T12:51:28.116Z
-cover_image: /images/uploads/safe_image.jpg
+cover_image: /images/uploads/carbon-tax.jpg
 summary: >-
   A proposed carbon tax has hit the headlines this week. Anna Hughes looks at
   what this really means.
