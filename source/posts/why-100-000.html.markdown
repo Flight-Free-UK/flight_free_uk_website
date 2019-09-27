@@ -2,7 +2,7 @@
 title: 'Why 100,000?'
 category: climage_change
 date: 2019-03-11T16:48:12.282Z
-cover_image: /images/uploads/28464365_m-848x480.jpg
+cover_image: /images/uploads/blue-sky-flight-free-poster.jpeg
 summary: >-
   Maja Rosén, one of the founders of the Swedish Flygfritt campaign, explains
   the reasoning behind having a 100,000 threshold
