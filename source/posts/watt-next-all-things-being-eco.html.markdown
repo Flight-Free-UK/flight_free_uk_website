@@ -2,7 +2,7 @@
 title: '''Watt Next? All things being eco...'''
 category: climage_change
 date: 2019-04-17T15:19:35.528Z
-cover_image: /images/uploads/safe_image.jpg
+cover_image: /images/uploads/podcast.jpg
 summary: >-
   Anna Hughes talks to Marlow FM DJ Dave Hampton about cycling, ska music,
   flight-free holidays and climate change, and chooses eight tracks.
