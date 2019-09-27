@@ -2,7 +2,7 @@
 title: The slow boat to South America (and other stories)
 category: climage_change
 date: 2019-03-25T16:36:11.305Z
-cover_image: /images/uploads/28464365_m-848x480.jpg
+cover_image: /images/uploads/52744528_2199667530282081_5397823247305670656_n.jpg
 summary: >-
   A keen traveller, it was difficult for Lewis to reconcile his desire to travel
   with his ambition to reduce his carbon footprint. But by giving up flying
