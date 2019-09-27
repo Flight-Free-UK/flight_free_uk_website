@@ -2,7 +2,7 @@
 title: How to write to your MP
 category: climage_change
 date: 2019-02-15T17:11:48.218Z
-cover_image: /images/uploads/safe_image.jpg
+cover_image: /images/uploads/mp.jpg
 summary: >-
   Having our politicians lead by example will demonstrate that they are serious
   about climate change. 
