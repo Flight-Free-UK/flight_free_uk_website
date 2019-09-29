@@ -1,34 +1,36 @@
 ---
 title: Be inspired
 ---
-<section class="bg-gray-light px-8 xl:px-48 pt-12 xl:pt-24 pb-12 text-blue-dark">
-  <div class="hidden text-s xl:text-base mb-12 xl:mb-16 flex flex-wrap items-center">
-    <span class="hidden xl:block mr-2 xl:mr-8 mb-2">Filter posts</span>
-    <span class="border border-blue-dark bg-blue-dark text-white px-4 xl:px-6 py-1 mr-1 mb-2 xl:mr-4 rounded-full">All</span>
-    <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">Climate Change</span>
-    <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">Flight-free travel</span>
-    <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">Love Miles</span>
-    <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">One of the 100,000</span>
-  </div>
-  <div class="xl:flex flex-wrap justify-between">
-    <% blog.articles.each do |article| %>
-      <% author = data.authors.values.find { |author| article.data.author == author.name } %>
-      <div class="bg-white text-blue-dark mb-10 blog-post-card">
-        <a href="<%= article.url %>" class="block bg-cover bg-center" style="height: 18rem; background-image:url(<%= article.data.cover_image %>)"></a>
-        <div class="px-5 py-4 xl:px-8 xl:py-8">
-          <div class="flex mb-2 xl:mb-4">
-            <span class="w-8 h-8 xl:w-16 xl:h-16 rounded-full bg-no-repeat bg-white bg-auto bg-cover mr-2 xl:mr-6" style="background-image:url(<%= author.avatar %>)"></span>
-            <span class="text-lg xl:text-xl self-center"><%= author.name %></span>
-          </div>
-          <h4 class="text-2xl xl:text-3xl mb-2 leading-none"><a href="<%= article.url %>"><%= article.title %></a></h4>
-          <p class="text-sm xl:text-base leading-tight mb-3"><a href="<%= article.url %>"><%= article.data.summary %></a></p>
-          <div class="text-xs lg:text-lg text-blue-text-light">
-            <span class="mr-3 xl:mr-4"><%= article.date.strftime("%d %b") %></span>
-            <span><%= article.data.read_time_minute %> minute read</span>
+<section class="bg-gray-light">
+  <div class="container mx-auto px-8 xl:px-48 pt-12 xl:pt-24 pb-12 text-blue-dark">
+    <div class="hidden text-s xl:text-base mb-12 xl:mb-16 flex flex-wrap items-center">
+      <span class="hidden xl:block mr-2 xl:mr-8 mb-2">Filter posts</span>
+      <span class="border border-blue-dark bg-blue-dark text-white px-4 xl:px-6 py-1 mr-1 mb-2 xl:mr-4 rounded-full">All</span>
+      <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">Climate Change</span>
+      <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">Flight-free travel</span>
+      <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">Love Miles</span>
+      <span class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">One of the 100,000</span>
+    </div>
+    <div class="xl:flex flex-wrap justify-between">
+      <% blog.articles.each do |article| %>
+        <% author = data.authors.values.find { |author| article.data.author == author.name } %>
+        <div class="bg-white text-blue-dark mb-10 blog-post-card">
+          <a href="<%= article.url %>" class="block bg-cover bg-center" style="height: 18rem; background-image:url(<%= article.data.cover_image %>)"></a>
+          <div class="px-5 py-4 xl:px-8 xl:py-8">
+            <div class="flex mb-2 xl:mb-4">
+              <span class="w-8 h-8 xl:w-16 xl:h-16 rounded-full bg-no-repeat bg-white bg-auto bg-cover mr-2 xl:mr-6" style="background-image:url(<%= author.avatar %>)"></span>
+              <span class="text-lg xl:text-xl self-center"><%= author.name %></span>
+            </div>
+            <h4 class="text-2xl xl:text-3xl mb-2 leading-none"><a href="<%= article.url %>"><%= article.title %></a></h4>
+            <p class="text-sm xl:text-base leading-tight mb-3"><a href="<%= article.url %>"><%= article.data.summary %></a></p>
+            <div class="text-xs lg:text-lg text-blue-text-light">
+              <span class="mr-3 xl:mr-4"><%= article.date.strftime("%d %b") %></span>
+              <span><%= article.data.read_time_minute %> minute read</span>
+            </div>
           </div>
         </div>
-      </div>
-    <% end %>
+      <% end %>
+    </div>
+    <a href="#" class="hidden text-xl">Load more posts</a>
   </div>
-  <a href="#" class="hidden text-xl">Load more posts</a>
 </section>

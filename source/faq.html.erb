@@ -1,53 +1,55 @@
 ---
 title: FAQs
 ---
-<main class="bg-white px-8 xl:px-48 pt-12 xl:pt-16 text-blue-dark">
-  <h1 class="text-4xl xl:text-5xl text-blue-dark xl:mt-6 mb-6">FAQs</h1>
-  <a name="top"></a>
-  <ul class="text-blue-dark text-xl xl:text-2xl mb-16 leading-tight xl:leading-normal">
-    <li class="hidden pl-10 bg-no-repeat bg-left mb-4 xl:mb-0" style="background-image:url(/svg/faq_bullet.svg"><a href="#myth_buster">Myth buster</a></li>
-    <li class="pl-10 bg-no-repeat bg-left mb-4 xl:mb-0" style="background-image:url(/svg/faq_bullet.svg"><a href="#general_faqs_about_flying">General FAQs about flying</a></li>
-    <li class="pl-10 bg-no-repeat bg-left" style="background-image:url(/svg/faq_bullet.svg"><a href="#specific_faqs_about_the_campaign">Specific FAQs about the campaign</a></li>
-  </ul>
-  <div class="hidden">
-    <a name="myth_buster"></a>
-    <h2 class="text-3xl text-blue-dark mb-12">Myth buster</h2>
-    <div class="border border-blue-dark mb-20 xl:mb-10" style="transform: rotate(-4deg)">
-      <div class="bg-gray-light border-2 px-4 xl:px-48 pt-6 xl:pt-12 pb-8 text-center" style="transform: rotate(4deg); border-color: #225387">
-        <div class="text-xl text-blue-dark mb-4 xl:mb-8">1 of 3</div>
-        <h3 class="text-4xl text-blue mb-8 xl:mb-10 leading-tight xl:leading-snug">“I’m Vegan. That has a bigger impact than giving up flying.”</h3>
-        <button class="bg-blue-dark text-xl text-white uppercase py-6 px-8 xl:px-20 mr-3">True</button>
-        <button class="bg-blue-dark text-xl text-white uppercase py-6 px-8 xl:px-20">False</button>
+<main class="bg-white">
+  <div class="container mx-auto px-8 xl:px-48 pt-12 xl:pt-16 text-blue-dark">
+    <h1 class="text-4xl xl:text-5xl text-blue-dark xl:mt-6 mb-6">FAQs</h1>
+    <a name="top"></a>
+    <ul class="text-blue-dark text-xl xl:text-2xl mb-16 leading-tight xl:leading-normal">
+      <li class="hidden pl-10 bg-no-repeat bg-left mb-4 xl:mb-0" style="background-image:url(/svg/faq_bullet.svg"><a href="#myth_buster">Myth buster</a></li>
+      <li class="pl-10 bg-no-repeat bg-left mb-4 xl:mb-0" style="background-image:url(/svg/faq_bullet.svg"><a href="#general_faqs_about_flying">General FAQs about flying</a></li>
+      <li class="pl-10 bg-no-repeat bg-left" style="background-image:url(/svg/faq_bullet.svg"><a href="#specific_faqs_about_the_campaign">Specific FAQs about the campaign</a></li>
+    </ul>
+    <div class="hidden">
+      <a name="myth_buster"></a>
+      <h2 class="text-3xl text-blue-dark mb-12">Myth buster</h2>
+      <div class="border border-blue-dark mb-20 xl:mb-10" style="transform: rotate(-4deg)">
+        <div class="bg-gray-light border-2 px-4 xl:px-48 pt-6 xl:pt-12 pb-8 text-center" style="transform: rotate(4deg); border-color: #225387">
+          <div class="text-xl text-blue-dark mb-4 xl:mb-8">1 of 3</div>
+          <h3 class="text-4xl text-blue mb-8 xl:mb-10 leading-tight xl:leading-snug">“I’m Vegan. That has a bigger impact than giving up flying.”</h3>
+          <button class="bg-blue-dark text-xl text-white uppercase py-6 px-8 xl:px-20 mr-3">True</button>
+          <button class="bg-blue-dark text-xl text-white uppercase py-6 px-8 xl:px-20">False</button>
+        </div>
       </div>
+      <p class="hidden xl:block text-right mb-16">
+        <a href="#top" class="text-text-default text-sm">Back to top</a>
+      </p>
     </div>
+    <a name="general_faqs_about_flying"></a>
+    <h2 class="text-3xl text-blue-dark mb-10 leading-tight">General FAQs about flying</h2>
+    <% data.faqs.general.faqs.each do |faq| %>
+      <div class="faq-question mb-10 border-b border-gray-200 pb-8">
+        <h3 class="w-full pr-12 text-xl xl:text-2xl text-blue-dark leading-tight bg-no-repeat bg-right-top cursor-pointer" onclick="this.parentElement.classList.toggle('expanded')"><%= faq.question %></h3>
+        <div class="answer hidden mt-6 xl:pr-32">
+          <%= markdown(faq.answer) %>
+        </div>
+      </div>
+    <% end %>
+    <p class="text-right mb-16">
+      <a href="#top" class="hidden xl:block text-text-default text-sm">Back to top</a>
+    </p>
+    <a name="specific_faqs_about_the_campaign"></a>
+    <h2 class="text-3xl text-blue-dark mb-10">Specific FAQs about the campaign</h2>
+    <% data.faqs.specific.faqs.each do |faq| %>
+      <div class="faq-question mb-10 border-b border-gray-200 pb-8">
+        <h3 class="w-full pr-12 text-xl xl:text-2xl text-blue-dark leading-tight bg-no-repeat bg-right-top cursor-pointer" onclick="this.parentElement.classList.toggle('expanded')"><%= faq.question %></h3>
+        <div class="answer hidden mt-6 xl:pr-32">
+          <%= markdown(faq.answer) %>
+        </div>
+      </div>
+    <% end %>
     <p class="hidden xl:block text-right mb-16">
       <a href="#top" class="text-text-default text-sm">Back to top</a>
     </p>
   </div>
-  <a name="general_faqs_about_flying"></a>
-  <h2 class="text-3xl text-blue-dark mb-10 leading-tight">General FAQs about flying</h2>
-  <% data.faqs.general.faqs.each do |faq| %>
-    <div class="faq-question mb-10 border-b border-gray-200 pb-8">
-      <h3 class="w-full pr-12 text-xl xl:text-2xl text-blue-dark leading-tight bg-no-repeat bg-right-top cursor-pointer" onclick="this.parentElement.classList.toggle('expanded')"><%= faq.question %></h3>
-      <div class="answer hidden mt-6 xl:pr-32">
-        <%= markdown(faq.answer) %>
-      </div>
-    </div>
-  <% end %>
-  <p class="text-right mb-16">
-    <a href="#top" class="hidden xl:block text-text-default text-sm">Back to top</a>
-  </p>
-  <a name="specific_faqs_about_the_campaign"></a>
-  <h2 class="text-3xl text-blue-dark mb-10">Specific FAQs about the campaign</h2>
-  <% data.faqs.specific.faqs.each do |faq| %>
-    <div class="faq-question mb-10 border-b border-gray-200 pb-8">
-      <h3 class="w-full pr-12 text-xl xl:text-2xl text-blue-dark leading-tight bg-no-repeat bg-right-top cursor-pointer" onclick="this.parentElement.classList.toggle('expanded')"><%= faq.question %></h3>
-      <div class="answer hidden mt-6 xl:pr-32">
-        <%= markdown(faq.answer) %>
-      </div>
-    </div>
-  <% end %>
-  <p class="hidden xl:block text-right mb-16">
-    <a href="#top" class="text-text-default text-sm">Back to top</a>
-  </p>
 </main>
