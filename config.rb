@@ -23,7 +23,7 @@ assets_command = "npx postcss assets/source/css/styles.css -o assets/build/style
 
 activate :external_pipeline,
   name: :tailwind,
-  command: (build? ? assets_command : "npx watch '#{assets_command}' assets/source/css/"),
+  command: (build? ? "NODE_ENV=production #{assets_command}" : "npx watch '#{assets_command}' assets/source/css/"),
   source: "assets/build"
 
 # Layouts
