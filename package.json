@@ -5,10 +5,10 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "tailwindcss": "^1.1.2"
-  },
-  "scripts": {
-    "compile": "tailwind build source/stylesheets/styles_source.css -o source/stylesheets/styles.css"
+    "postcss": "^7.0.18",
+    "postcss-cli": "^6.1.3",
+    "tailwindcss": "^1.1.2",
+    "watch": "^1.0.2"
   },
   "repository": {
     "type": "git",

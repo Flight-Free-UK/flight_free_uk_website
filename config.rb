@@ -19,6 +19,13 @@ activate :blog do |blog|
   blog.layout = "blog_post_layout"
 end
 
+assets_command = "npx postcss assets/source/css/styles.css -o assets/build/stylesheets/styles.css --verbose"
+
+activate :external_pipeline,
+  name: :tailwind,
+  command: (build? ? assets_command : "npx watch '#{assets_command}' assets/source/css/"),
+  source: "assets/build"
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
