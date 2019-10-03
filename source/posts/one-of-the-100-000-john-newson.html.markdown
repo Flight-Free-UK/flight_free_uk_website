@@ -1,6 +1,6 @@
 ---
 title: 'One of the 100,000: John Newson'
-category: climage_change
+category: one_of_the_100000
 date: 2019-01-15T17:44:17.413Z
 cover_image: /images/uploads/file.jpg
 summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree in 2020'
