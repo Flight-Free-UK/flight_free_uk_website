@@ -3,10 +3,7 @@ title: 'One of the 100,000: Maria Ardley'
 category: climage_change
 date: 2019-07-26T12:41:29.516Z
 cover_image: /images/uploads/file.jpg
-summary: >-
-  Maria Ardley is one of the 100,000 to sign the Flight Free 2020 pledge, she
-  explains what motivated her to be flight-free and how this has affected her
-  life. 
+summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree in 2020'
 author: FlightFree UK
 read_time_minute: 3
 ---
