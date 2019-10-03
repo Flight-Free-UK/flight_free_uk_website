@@ -1,12 +1,9 @@
 ---
 title: 'One of the 100,000: Dave Wynn'
-category: climage_change
+category: one_of_the_100000
 date: 2019-07-17T13:32:10.039Z
 cover_image: /images/uploads/file.jpg
-summary: >-
-  Dave Wynn is one of the 100,000 to sign the Flight Free 2020 pledge, he
-  explains what motivated him to be flight-free and how this has affected his
-  life. 
+summary: 'We hear from Dave Wynn about why he''s signed the #flightfree2020 pledge'
 author: FlightFree UK
 read_time_minute: 3
 ---
