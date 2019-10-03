@@ -3,10 +3,7 @@ title: 'One of the 100,000: Sophia Cheng'
 category: climage_change
 date: 2019-06-28T13:43:04.681Z
 cover_image: /images/uploads/file.jpg
-summary: >-
-  Sophia Cheng is one of the 100,000 to sign the Flight Free 2020 pledge, she
-  explains what motivated her to be flight-free and how this has affected her
-  life. 
+summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree in 2020'
 author: FlightFree UK
 read_time_minute: 4
 ---
