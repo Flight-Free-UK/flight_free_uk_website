@@ -3,10 +3,7 @@ title: 'One of the 100,000: Pam Lunn'
 category: climage_change
 date: 2019-08-19T11:46:22.621Z
 cover_image: /images/uploads/file.jpg
-summary: >-
-  Pam Lunn is one of the 100,000 to take the Flight Free 2020 pledge. She tells
-  us what motivated her to sign the pledge and how being flight-free affected
-  her life. 
+summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree in 2020'
 author: FlightFree UK
 read_time_minute: 3
 ---
