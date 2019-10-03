@@ -3,7 +3,7 @@ title: 'One of the 100,000: John Newson'
 category: climage_change
 date: 2019-01-15T17:44:17.413Z
 cover_image: /images/uploads/file.jpg
-summary: 'We hear from John Newson about why he''s signed the #flightfree2020 pledge'
+summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree in 2020'
 author: FlightFree UK
 read_time_minute: 1
 ---
