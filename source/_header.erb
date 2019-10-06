@@ -7,13 +7,14 @@
   <a href="#" id="menu-toggle" class="xl:hidden self-center bg-no-repeat bg-center w-10 h-10" onclick="document.getElementById('main-header').classList.toggle('menu-active')"></a>
   <nav class="hidden xl:flex flex-wrap w-full xl:w-1/2 items-center justify-between text-xl text-center pt-10 xl:pt-0 pb-6 xl:pb-0">
     <% {
-         "why_flight_free.html" => "Why flight free?",
-         "take_action.html" => "Take action",
-         "be_inspired.html" => "Be inspired",
-         "podcast.html" => "Podcast",
-         "faq.html" => "FAQs"
+         "why_flight_free" => "Why flight free?",
+         "take_action" => "Take action",
+         "be_inspired" => "Be inspired",
+         "podcast" => "Podcast",
+         "faq" => "FAQs"
        }.each do |path, name| %>
-       <%= link_to name, "/#{path}", class: "w-full xl:w-auto mb-8 xl:mb-0 #{path == current_page.path ? "xl:border-b-2 border-orange" : nil}" %>
+       <% current = "#{path}.html" == current_page.path || path == current_page.data.menu_item %>
+       <%= link_to name, "/#{path}.html", class: "w-full xl:w-auto mb-8 xl:mb-0 #{current ? "xl:border-b-2 border-orange" : nil}" %>
     <% end %>
   </nav>
 </header>

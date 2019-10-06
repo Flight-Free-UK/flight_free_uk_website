@@ -1,6 +1,6 @@
 ---
 title: Does flying really benefit us?
-category: climage_change
+category: climate
 date: 2019-01-10T17:51:21.611Z
 cover_image: /images/uploads/f84b209469da4471b60850dc411d770b.webp
 summary: >-

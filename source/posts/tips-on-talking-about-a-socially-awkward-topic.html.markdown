@@ -1,6 +1,6 @@
 ---
 title: Tips on talking about a socially awkward topic
-category: climage_change
+category: climate
 date: 2019-01-31T17:15:17.909Z
 cover_image: /images/uploads/tips-on-awkward-topic-.jpg
 summary: >-

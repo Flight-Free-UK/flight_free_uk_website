@@ -1,6 +1,6 @@
 ---
 title: Long Train to China
-category: climage_change
+category: climate
 date: 2019-04-11T15:06:31.352Z
 cover_image: /images/uploads/0debf8_97605b3e52a74d109834c7874ea80b05_mv2.webp
 summary: >-

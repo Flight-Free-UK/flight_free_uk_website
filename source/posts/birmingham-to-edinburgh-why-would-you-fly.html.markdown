@@ -1,6 +1,6 @@
 ---
 title: 'Birmingham to Edinburgh: why would you fly?'
-category: climage_change
+category: climate
 date: 2019-09-26T17:12:07.032Z
 cover_image: /images/uploads/gettyimages-863000220.jpg
 summary: >-

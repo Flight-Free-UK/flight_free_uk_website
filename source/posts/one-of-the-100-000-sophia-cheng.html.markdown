@@ -1,6 +1,6 @@
 ---
 title: 'One of the 100,000: Sophia Cheng'
-category: climage_change
+category: climate
 date: 2019-06-28T13:43:04.681Z
 cover_image: /images/uploads/file.jpg
 summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree in 2020'

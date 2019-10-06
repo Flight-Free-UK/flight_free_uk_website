@@ -1,6 +1,6 @@
 ---
 title: Let's not fly the plane!
-category: climage_change
+category: climate
 date: 2019-04-25T15:01:03.846Z
 cover_image: /images/uploads/file.jpg
 summary: Flight Free UK teams up with Disney for some lyrical fun

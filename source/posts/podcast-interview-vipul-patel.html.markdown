@@ -1,6 +1,6 @@
 ---
 title: 'Podcast interview: Vipul Patel'
-category: climage_change
+category: climate
 date: 2019-05-01T14:56:54.038Z
 cover_image: /images/uploads/0debf8_83d6aa04fe9d4ef4ad2b178ca86e484a_mv2.webp
 summary: >-

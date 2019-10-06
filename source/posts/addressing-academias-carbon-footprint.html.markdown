@@ -1,6 +1,6 @@
 ---
 title: Addressing academia's carbon footprint
-category: climage_change
+category: climate
 date: 2019-08-07T12:22:18.936Z
 cover_image: /images/uploads/milena-busch.jpg
 summary: >-

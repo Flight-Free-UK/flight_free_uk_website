@@ -1,0 +1,9 @@
+<div class="text-sm xl:text-base mb-12 xl:mb-16 flex flex-wrap items-center">
+  <span class="hidden xl:block mr-2 xl:mr-8 mb-2">Filter posts</span>
+  <%= link_to "All", "/be_inspired.html", class: "border border-blue-dark #{category == nil ? "bg-blue-dark text-white" : "" } px-4 xl:px-6 py-1 mr-1 mb-2 xl:mr-4 rounded-full" %>
+  <% [["Climate", "climate"], ["Opinion", "opinion"], ["Travel", "travel"], ["One of the 100,000", "one_of_the_100000"], ["Flight Free 2020", "flight_free_2020"]].each do |label, id| %>
+    <% if category_path(id) %>
+      <a href="<%= category_path(id) %>" class="border border-blue-dark <%= category == id ? "bg-blue-dark text-white" : "" %> mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full"><%= label %></a>
+    <% end %>
+  <% end %>
+</div>

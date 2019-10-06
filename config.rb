@@ -17,6 +17,12 @@ activate :blog do |blog|
   blog.permalink = "post/{title}.html"
   blog.sources = "posts/{title}.html"
   blog.layout = "blog_post_layout"
+  blog.custom_collections = {
+    category: {
+      link: "/blog/categories/{category}.html",
+      template: "/category.html"
+    }
+  }
 end
 
 assets_command = "npx postcss assets/source/css/styles.css -o assets/build/stylesheets/styles.css --verbose"

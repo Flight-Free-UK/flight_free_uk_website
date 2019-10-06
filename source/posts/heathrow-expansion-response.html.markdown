@@ -1,6 +1,6 @@
 ---
 title: 'Heathrow Expansion Response '
-category: climage_change
+category: climate
 date: 2019-09-13T11:02:21.179Z
 cover_image: /images/uploads/web-aerial-cgi-aec-launch-700x500.jpg
 summary: >

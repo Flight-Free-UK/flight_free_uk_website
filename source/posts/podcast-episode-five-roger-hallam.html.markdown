@@ -1,6 +1,6 @@
 ---
 title: 'Podcast episode five: Roger Hallam'
-category: climage_change
+category: climate
 date: 2019-06-05T14:40:09.031Z
 cover_image: /images/uploads/0debf8_8631c85e273843a69caf5dcb1b70813c_mv2.webp
 summary: >

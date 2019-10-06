@@ -1,6 +1,6 @@
 ---
 title: Train travel is a gem waiting for rediscovery
-category: climage_change
+category: climate
 date: 2019-07-10T13:36:19.927Z
 cover_image: >-
   /images/uploads/3b9dee_e6f54451b2c241a293d8dae390f4f73e_mv2_d_2316_3088_s_2.webp

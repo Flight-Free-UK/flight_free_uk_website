@@ -1,6 +1,6 @@
 ---
 title: '''Watt Next? All things being eco...'''
-category: climage_change
+category: climate
 date: 2019-04-17T15:19:35.528Z
 cover_image: /images/uploads/podcast.jpg
 summary: >-

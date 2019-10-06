@@ -1,6 +1,6 @@
 ---
 title: How to write to your MP
-category: climage_change
+category: climate
 date: 2019-02-15T17:11:48.218Z
 cover_image: /images/uploads/mp.jpg
 summary: >-

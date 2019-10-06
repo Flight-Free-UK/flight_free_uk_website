@@ -1,6 +1,6 @@
 ---
 title: 'One of the 100,000: Pam Lunn'
-category: climage_change
+category: climate
 date: 2019-08-19T11:46:22.621Z
 cover_image: /images/uploads/file.jpg
 summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree in 2020'

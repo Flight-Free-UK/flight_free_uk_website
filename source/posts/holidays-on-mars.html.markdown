@@ -1,6 +1,6 @@
 ---
 title: Holidays on Mars
-category: climage_change
+category: climate
 date: 2019-08-07T12:26:59.390Z
 cover_image: /images/uploads/ian-edwards-blog.jpg
 summary: >-

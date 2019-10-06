@@ -1,6 +1,6 @@
 ---
 title: The fear of missing out
-category: climage_change
+category: climate
 date: 2019-01-22T17:41:40.279Z
 cover_image: /images/uploads/0debf8_7fd498b94e0a4d8aae10489b96e76ced_mv2.webp
 summary: >-

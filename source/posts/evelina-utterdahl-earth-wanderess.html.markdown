@@ -1,6 +1,6 @@
 ---
 title: 'Evelina Utterdahl: Earth Wanderess'
-category: climage_change
+category: climate
 date: 2019-03-04T16:58:10.322Z
 cover_image: /images/uploads/earth-wanderess.jpg
 summary: >-

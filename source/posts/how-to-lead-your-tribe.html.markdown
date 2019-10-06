@@ -1,6 +1,6 @@
 ---
 title: How to lead your tribe
-category: climage_change
+category: climate
 date: 2019-09-13T10:51:29.772Z
 cover_image: /images/uploads/lead-your-tribe.jpg
 summary: >

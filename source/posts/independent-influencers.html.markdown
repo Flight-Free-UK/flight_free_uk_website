@@ -1,6 +1,6 @@
 ---
 title: Independent Influencers
-category: climage_change
+category: climate
 date: 2019-09-14T11:04:26.260Z
 cover_image: /images/uploads/roger-tyers-moscow-to-kiev.jpg
 summary: >-

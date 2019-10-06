@@ -1,6 +1,6 @@
 ---
 title: Be more Greta
-category: climage_change
+category: climate
 date: 2019-08-16T11:39:56.265Z
 cover_image: /images/uploads/16631262-7297405-image-a-12_1564408946293.jpg
 summary: >-

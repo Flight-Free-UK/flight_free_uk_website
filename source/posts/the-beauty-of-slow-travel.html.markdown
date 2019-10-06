@@ -1,6 +1,6 @@
 ---
 title: The beauty of slow travel
-category: climage_change
+category: climate
 date: 2019-01-05T17:58:37.224Z
 cover_image: /images/uploads/3d0bad396e2041388553c427d5bd26fe.webp
 summary: 'A journey from London to Copenhagen by train '

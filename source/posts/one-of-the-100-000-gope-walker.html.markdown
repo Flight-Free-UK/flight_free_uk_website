@@ -1,6 +1,6 @@
 ---
 title: 'One of the 100,000: Gope Walker'
-category: climage_change
+category: climate
 date: 2019-08-15T12:02:45.144Z
 cover_image: /images/uploads/10462804_10152111403236513_5868633022286124390_n.jpg
 summary: >-

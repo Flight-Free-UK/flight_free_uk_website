@@ -1,6 +1,6 @@
 ---
 title: Train-setting across Europe
-category: climage_change
+category: climate
 date: 2019-07-17T13:07:56.915Z
 cover_image: /images/uploads/train-setting-across-europe-.jpg
 summary: >-

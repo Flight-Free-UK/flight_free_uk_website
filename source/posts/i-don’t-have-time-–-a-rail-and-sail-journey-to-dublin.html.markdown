@@ -1,6 +1,6 @@
 ---
 title: '"I don’t have time!" – a rail and sail journey to Dublin'
-category: climage_change
+category: climate
 date: 2019-08-14T12:17:22.941Z
 cover_image: /images/uploads/irish-ferries-.jpg
 summary: >

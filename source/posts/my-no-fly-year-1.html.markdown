@@ -1,6 +1,6 @@
 ---
 title: My no-fly year
-category: climage_change
+category: climate
 date: 2019-01-28T17:30:24.567Z
 cover_image: >-
   /images/uploads/0debf8_20998d16f79249389ffd04b8fa525129_mv2_d_3062_2267_s_2.webp

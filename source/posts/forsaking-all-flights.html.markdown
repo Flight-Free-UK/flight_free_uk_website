@@ -1,6 +1,6 @@
 ---
 title: Forsaking all flights
-category: climage_change
+category: climate
 date: 2019-05-31T14:44:49.466Z
 cover_image: /images/uploads/34a1a4_38c71f3c395a41588e8d214fcdc6c02f_mv2.webp
 summary: >-

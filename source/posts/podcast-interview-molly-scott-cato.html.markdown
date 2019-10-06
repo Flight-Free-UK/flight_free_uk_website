@@ -1,6 +1,6 @@
 ---
 title: 'Podcast interview: Molly Scott Cato'
-category: climage_change
+category: climate
 date: 2019-03-07T16:43:00.048Z
 cover_image: >-
   /images/uploads/0debf8_3b195493aad14fd49a391a1a849d7f50_mv2_d_2623_2899_s_4_2.webp

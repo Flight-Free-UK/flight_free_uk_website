@@ -1,6 +1,6 @@
 ---
 title: 'One of the 100,000 questionnaire'
-category: climage_change
+category: climate
 date: 2019-01-10T17:48:37.561Z
 cover_image: /images/uploads/file.jpg
 summary: Share your story about signing the flight free pledge with us
