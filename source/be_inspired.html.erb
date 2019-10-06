@@ -17,10 +17,6 @@ title: Be inspired
         <div class="bg-white text-blue-dark mb-10 blog-post-card">
           <a href="<%= article.url %>" class="block bg-cover bg-center" style="height: 18rem; background-image:url(<%= article.data.cover_image %>)"></a>
           <div class="px-5 py-4 xl:px-8 xl:py-8">
-            <div class="flex mb-2 xl:mb-4">
-              <span class="w-8 h-8 xl:w-16 xl:h-16 rounded-full bg-no-repeat bg-white bg-auto bg-cover mr-2 xl:mr-6" style="background-image:url(<%= author.avatar %>)"></span>
-              <span class="text-lg xl:text-xl self-center"><%= author.name %></span>
-            </div>
             <h4 class="text-2xl xl:text-3xl mb-2 leading-none"><a href="<%= article.url %>"><%= article.title %></a></h4>
             <p class="text-sm xl:text-base leading-tight mb-3"><a href="<%= article.url %>"><%= article.data.summary %></a></p>
             <div class="text-xs lg:text-lg text-blue-text-light">
