@@ -1,0 +1,62 @@
+<div id="blog-posts" class="xl:flex">
+  <div class="xl:w-1/2 xl:pr-4">
+    <% articles.each do |article| %>
+      <% author = data.authors.values.find { |author| article.data.author == author.name } %>
+      <div class="bg-white text-blue-dark mb-10 blog-post-card">
+        <a href="<%= article.url %>" class="block bg-cover bg-center">
+          <img src="<%= image_path(article.data.cover_image) %>" class="w-full" />
+        </a>
+        <div class="px-5 py-4 xl:px-8 xl:py-8">
+          <h4 class="text-2xl xl:text-3xl mb-2 leading-none"><a href="<%= article.url %>"><%= article.title %></a></h4>
+          <p class="text-sm xl:text-base leading-tight mb-3"><a href="<%= article.url %>"><%= article.data.summary %></a></p>
+          <div class="text-xs lg:text-lg text-blue-text-light">
+            <span class="mr-3 xl:mr-4"><%= article.date.strftime("%d %b") %></span>
+            <span><%= article.data.read_time_minute %> minute read</span>
+          </div>
+        </div>
+      </div>
+    <% end %>
+  </div>
+  <div class="hidden xl:block w-1/2 pl-4">
+  </div>
+</div>
+<a href="#" class="hidden text-xl">Load more posts</a>
+<script>
+  let updateColumnsWithPosts = function() {
+    const container = document.getElementById("blog-posts");
+    const secondColumn = container.children[1];
+    let posts = document.getElementsByClassName("blog-post-card");
+    if (window.getComputedStyle(container).display == "flex") {
+      if (secondColumn.children.length == 0) {
+        // Split posts into 2 columns
+        let oddPosts = [];
+        for (var i = 0; i < posts.length; i++) {
+          if (i % 2 === 1) {
+            oddPosts.push(posts[i]);
+          }
+        }
+        for (const post of oddPosts) {
+          secondColumn.appendChild(post);
+        }
+      }
+    } else {
+      if (secondColumn.children.length > 0) {
+        // Combine posts back into one column
+        const firstColumn = container.children[0];
+        let allPosts = [];
+        for (var i = 0; i < firstColumn.children.length; i++) {
+          allPosts.push(firstColumn.children[i]);
+          if (secondColumn.children[i]) {
+            allPosts.push(secondColumn.children[i]);
+          }
+        }
+        firstColumn.innerHTML = "";
+        for (const post of allPosts) {
+          firstColumn.appendChild(post);
+        }
+      }
+    }
+  }
+  updateColumnsWithPosts();
+  window.onresize = updateColumnsWithPosts;
+</script>
