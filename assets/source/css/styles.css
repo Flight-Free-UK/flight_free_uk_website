@@ -41,7 +41,7 @@
 }
 
 .blog-post-body p, .blog-post-body ul {
-  @apply text-lg leading-tight text-text-default;
+  @apply text-lg leading-tight text-text-default font-light;
   @apply mb-6;
 }
 
@@ -81,7 +81,6 @@
   .blog-post-body ul
   {
     @apply text-xl;
-    @apply mx-32;
     @apply mb-8;
   }
 
