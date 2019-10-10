@@ -96,8 +96,6 @@
   }
 
   .blog-post-body p > img {
-    @apply -mx-32;
-    width: calc(100% + 16rem);
-    max-width: calc(100% + 16rem);
+    @apply w-full;
   }
 }
