@@ -64,6 +64,17 @@
   @apply font-semibold;
 }
 
+.blog-post-body figure img {
+  @apply max-w-full;
+  @apply mx-auto;
+}
+
+.blog-post-body figure figcaption {
+  @apply text-xs;
+  @apply font-bold;
+  @apply mt-2;
+}
+
 .modal.is-open {
   @apply block;
 }
@@ -93,9 +104,5 @@
     @apply text-2xl;
     @apply mx-32;
     @apply mb-8;
-  }
-
-  .blog-post-body p > img {
-    @apply w-full;
   }
 }

@@ -1,3 +1,15 @@
+# Monkey-patch Markdown renderer to wrap images in figure with figcaption
+require "middleman-core/renderers/kramdown"
+
+class Middleman::Renderers::MiddlemanKramdownHTML
+  def convert_img(el, _)
+    attrs = el.attr.dup
+
+    link = attrs.delete('src')
+    "<figure>#{scope.image_tag(link, attrs)}<figcaption>#{attrs[:title]}</figcaption></figure>"
+  end
+end
+
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
