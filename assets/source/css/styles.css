@@ -49,7 +49,7 @@
 }
 
 .blog-post-body p, .blog-post-body ul {
-  @apply text-lg leading-tight text-text-default font-light;
+  @apply text-lg leading-normal text-text-default font-light;
   @apply mb-6;
 }
 
