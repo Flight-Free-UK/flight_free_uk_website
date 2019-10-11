@@ -40,6 +40,14 @@
   @apply text-text-default text-base leading-tight;
 }
 
+.blog-post-body a {
+  @apply text-blue-dark;
+}
+
+.blog-post-body a:hover {
+  @apply underline;
+}
+
 .blog-post-body p, .blog-post-body ul {
   @apply text-lg leading-tight text-text-default font-light;
   @apply mb-6;
@@ -56,7 +64,7 @@
 .blog-post-body h4,
 .blog-post-body h5,
 .blog-post-body h6 {
-  @apply text-xl leading-tight text-text-default font-semibold;
+  @apply text-xl leading-tight text-blue-dark font-semibold;
   @apply mb-6;
 }
 
@@ -102,7 +110,6 @@
   .blog-post-body h5,
   .blog-post-body h6 {
     @apply text-2xl;
-    @apply mx-32;
     @apply mb-8;
   }
 }
