@@ -19,19 +19,6 @@
       </div>
       <div class="blog-post-body pt-6 xl:pt-12 xl:pb-4">
         <%= yield %>
-        <script type="text/javascript">
-          /*
-          var images = document.querySelectorAll(".blog-post-body img[title]");
-          for (var image of images) {
-            var figure = document.createElement("figure");
-            image.parentNode.replaceChild(figure, image)
-            figure.appendChild(image);
-            var caption = document.createElement("figcaption");
-            caption.innerHTML = image.title;
-            figure.appendChild(caption);
-          }
-          */
-        </script>
       </div>
       <div class="border-t pt-10 text-center" style="border-color:#e7e7e7">
         <a href="https://facebook.com/<%= data.social_media.facebook %>"><%= image_tag "/svg/facebook_with_bg.svg", class: "inline-block w-12" %></a>
