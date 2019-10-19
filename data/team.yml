@@ -1,144 +1,146 @@
 members:
-  - name: Anna Hughes
-    role: Director
-    bio: >-
+  - bio: >-
       Anna has worked in the sustainable transport sector since 2008, mainly
       focussing on increasing cycling levels with children and families. A
       lifelong environmentalist, she made the decision to stop flying ten years
       ago and hopes the #flightfree2020 campaign will inspire others to do the
       same.
+    name: Anna Hughes
     photo: /images/about_us_avatar_anna.png
-  - name: Alice Clarke
-    role: Visual media
-    bio: >-
+    role: Director
+  - bio: >-
       A photography graduate, Alice is part of our media team, creating and
       producing visual resources for the campaign. She’s keen to show that we
       can have great holidays without flying and even though we as individuals
       can’t change the world, when we work together we can have a real impact.
+    name: Alice Clarke
     photo: /svg/missing_avatar.svg
-  - name: Amy Johnston
-    role: Social media
-    bio: >-
+    role: Visual media
+  - bio: >-
       With an MSc in Sustainability and Business from the University of Leeds,
-      Amy has loads of ideas about how people can reduce their carbon
-      footprint, and she blogs about them at ‘A Broke Girl’s Guide to
-      Sustainability’. Amy now lives in the Wirral and manages our Twitter
-      account.
+      Amy has loads of ideas about how people can reduce their carbon footprint,
+      and she blogs about them at ‘A Broke Girl’s Guide to Sustainability’. Amy
+      now lives in the Wirral and manages our Twitter account.
+    name: Amy Johnston
     photo: /svg/missing_avatar.svg
-  - name: Finlay Hatch
-    role: Manchester coordinator
-    bio: >-
+    role: Social media
+  - bio: >-
       Finlay is studying Politics, Philosophy and Economics at Manchester
-      University. Like many other politically-minded people, the environment
-      has long been a central issue for Fin, and he believes that grassroots
+      University. Like many other politically-minded people, the environment has
+      long been a central issue for Fin, and he believes that grassroots
       movements such as Flight Free UK are an essential piece of the puzzle in
       avoiding climate disaster.
+    name: Finlay Hatch
     photo: /svg/missing_avatar.svg
-  - name: Harry Holmes
-    role: University liaison
-    bio: >-
+    role: Manchester coordinator
+  - bio: >-
       Originally from Yorkshire, Harry is studying for a Postgraduate in
       Environmental Politics in London. He’s involved in the UK Youth Climate
       Coalition and is a regular contributor to Bright Green. Having been
-      flight-free for more than two years, Harry is passionate about
-      campaigning for a reduction in aeroplane usage.
+      flight-free for more than two years, Harry is passionate about campaigning
+      for a reduction in aeroplane usage.
+    name: Harry Holmes
     photo: /svg/missing_avatar.svg
-  - name: Helena Ritter
-    role: Social media
-    bio: >-
+    role: University liaison
+  - bio: >-
       Helena studied human geography and has an interest in the emotion and
       identity of individual and collective forms of environmental activism.
       Having worked for Just Love Sheffield, Christians Against Poverty and
       Tearfund, she aims to inspire a collective responsibility to take action
       on the ecological crisis.
+    name: Helena Ritter
     photo: /svg/missing_avatar.svg
-  - name: Joanne Elston
-    role: Edinburgh coordinator
-    bio: >-
+    role: Social media
+  - bio: >-
       Jo manages our Edinburgh team. It was a recent flight to Peru that woke
       her up to the climate impact of flying, and she decided then and there to
       stop (once getting home of course!) Jo is passionate about reducing her
       carbon footprint and encouraging others to do the same.
+    name: Joanne Elston
+    photo: /images/uploads/joanne.jpg
+    role: Edinburgh coordinator
+  - bio: >-
+      Geography graduate Joe was brought up on the west coast of Scotland which
+      gave him a care for the living world and an interest in environmental
+      issues. Inspired to become a campaigner by the birth of Extinction
+      Rebellion and the Youth Climate strikes, he looks after our social media
+      team.
+    name: Joe Cameron
     photo: /svg/missing_avatar.svg
-  - name: Joe Cameron
     role: Social media
-    bio: >-
-      Geography graduate Joe was brought up on the west coast of Scotland which gave
-      him a care for the living world and an interest in environmental issues.
-      Inspired to become a campaigner by the birth of Extinction Rebellion and the
-      Youth Climate strikes, he looks after our social media team.
-    photo: /svg/missing_avatar.svg
-  - name: Josh Hill
-    role: Sound media
-    bio: >-
+  - bio: >-
       Josh has been making videos and podcasts for many years, with the aim of
       inspiring people to make positive changes in their lives. He has
       previously worked in radio production, and as a self-proclaimed
       environmentalist brings his skills and experience to help spread the
       #flightfree2020 word through our podcast series.
+    name: Josh Hill
     photo: /svg/missing_avatar.svg
-  - name: Katie Large
-    role: Admin
-    bio: >-
+    role: Sound media
+  - bio: >-
       With a degree in Biology, Katie has a passion for the natural world and
       has previously worked at Ape Alliance, Keep Britain Tidy and London
       Sustainability Exchange. She brings experience as a campaigner, trying to
-      generate greater public awareness of climate change, to the Flight Free
-      UK team.
+      generate greater public awareness of climate change, to the Flight Free UK
+      team.
+    name: Katie Large
     photo: /svg/missing_avatar.svg
-  - name: Lataetia Mcevilly-Duncan
-    role: Press officer
-    bio: >-
-      An English literature graduate from the University of Edinburgh, Lataetia now
-      lives in Glasgow and joins our team as Press officer. She's motivated by making
-      a better world for us to live in and for young people to inherit, and brings
-      her energy and enthusiasm to creating change.
-    photo: /svg/missing_avatar.svg
-  - name: Leah Herrgen
-    role: Edinburgh team
-    bio: >-
-      Leah is from Germany and completed postdoctorate degrees in both Dresden and
-      Oxford. After leading a team of biomedical researchers at the University of
-      Edinburgh for the past four years, the urgency of the climate crisis has
-      inspired her to switch careers. Leah now campaigns with our Edinburgh team.
-    photo: /svg/missing_avatar.svg
-  - name: Luca Samara
-    role: Bristol coordinator
-    bio: >-
-      Raised bilingual with family in Italy and England, Luca’s biggest challenge is
-      persuading his mum not to fly! With degrees in French, Portuguese and
-      International relations, Luca has a great understanding of the international
-      world, and manages our team in Bristol.
-    photo: /svg/missing_avatar.svg
-  - name: Maria Ardley
-    role: Social media
-    bio: >-
-      Maria lives in San Sebastian in northern Spain, and stopped flying
-      several years ago because of concern for the type of world her son would
-      inherit. She now travels by train to see family and friends in
-      Buckinghamshire, and manages our Facebook page.
-    photo: /svg/missing_avatar.svg
-  - name: Maggie Robertson
-    role: Blog
-    bio: >-
-      Now based in Bristol with her family, Maggie has had many managerial roles at
-      universities all over the UK. Her excellent writing skills, together with her
-      passion for environmental issues, climate change communication and carbon
-      footprinting, are put to good use as content generator for the blog.
-    photo: /svg/missing_avatar.svg
-  - name: Michael Pinchbeck
-    role: Edinburgh team
-    bio: >-
-      Michael has a keen interest in the environment and has previously worked
-      in the arboricultural industry. He joins our Edinburgh team with a
-      mission to help break the modern habit of air travel. He understands the
-      challenge but knows it is a crucial step for individuals and society.
-    photo: /svg/missing_avatar.svg
-  - name: Pippi Durie
     role: Admin
-    bio: >-
-      A keen traveller, Pippi recently made the connection between flights and her
-      carbon footprint, and is now passionate about raising awareness of the impact
-      of flying with others. She’s involved with her local Extinction Rebellion group
-      and fits in Flight Free admin around her studies.
+  - bio: >-
+      An English literature graduate from the University of Edinburgh, Lataetia
+      now lives in Glasgow and joins our team as Press officer. She's motivated
+      by making a better world for us to live in and for young people to
+      inherit, and brings her energy and enthusiasm to creating change.
+    name: Lataetia Mcevilly-Duncan
     photo: /svg/missing_avatar.svg
+    role: Press officer
+  - bio: >-
+      Leah is from Germany and completed postdoctorate degrees in both Dresden
+      and Oxford. After leading a team of biomedical researchers at the
+      University of Edinburgh for the past four years, the urgency of the
+      climate crisis has inspired her to switch careers. Leah now campaigns with
+      our Edinburgh team.
+    name: Leah Herrgen
+    photo: /svg/missing_avatar.svg
+    role: Edinburgh team
+  - bio: >-
+      Raised bilingual with family in Italy and England, Luca’s biggest
+      challenge is persuading his mum not to fly! With degrees in French,
+      Portuguese and International relations, Luca has a great understanding of
+      the international world, and manages our team in Bristol.
+    name: Luca Samara
+    photo: /svg/missing_avatar.svg
+    role: Bristol coordinator
+  - bio: >-
+      Maria lives in San Sebastian in northern Spain, and stopped flying several
+      years ago because of concern for the type of world her son would inherit.
+      She now travels by train to see family and friends in Buckinghamshire, and
+      manages our Facebook page.
+    name: Maria Ardley
+    photo: /svg/missing_avatar.svg
+    role: Social media
+  - bio: >-
+      Now based in Bristol with her family, Maggie has had many managerial roles
+      at universities all over the UK. Her excellent writing skills, together
+      with her passion for environmental issues, climate change communication
+      and carbon footprinting, are put to good use as content generator for the
+      blog.
+    name: Maggie Robertson
+    photo: /svg/missing_avatar.svg
+    role: Blog
+  - bio: >-
+      Michael has a keen interest in the environment and has previously worked
+      in the arboricultural industry. He joins our Edinburgh team with a mission
+      to help break the modern habit of air travel. He understands the challenge
+      but knows it is a crucial step for individuals and society.
+    name: Michael Pinchbeck
+    photo: /svg/missing_avatar.svg
+    role: Edinburgh team
+  - bio: >-
+      A keen traveller, Pippi recently made the connection between flights and
+      her carbon footprint, and is now passionate about raising awareness of the
+      impact of flying with others. She’s involved with her local Extinction
+      Rebellion group and fits in Flight Free admin around her studies.
+    name: Pippi Durie
+    photo: /svg/missing_avatar.svg
+    role: Admin
