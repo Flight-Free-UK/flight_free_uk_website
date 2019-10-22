@@ -21,8 +21,6 @@ With that ghastly thought in our heads we set off on a circuitous route through 
 
 ![](/images/uploads/cycling-in-tajikistan-.jpg "Cycling in Tajikistan ")
 
-Cycling in Tajikistan 
-
 We haven’t travelled by plane for about 10 years and don’t intend to do so ever again because of the massive damage it does to our already extremely damaged environment. We had a relatively low carbon trip to China and apart from the occasional, necessary ferry, we had cycled all the way. We wanted an equally low carbon journey home and now had to think seriously about how we could do that. We spent many happy hours in a very nice hotel in Jiayuguan researching our options. It would be possible to continue cycling to Beijing where we could get the Trans-Siberian Railway to Moscow, another train to Paris and cycle home from there. This seemed feasible, the downside being that it was November in China and bitterly cold. We had crossed the Gobi Desert in freezing temperatures and camped at -15ºC. We were fed up of being cold and to continue to Beijing would have meant more of the same. 
 
 We had heard that some container ships took a limited number of passengers and after lots of emails to-ing and fro-ing with a shipping agent based in New Zealand, we bought tickets for a ship that would leave Singapore in 3 months’ time.
