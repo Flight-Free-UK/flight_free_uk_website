@@ -5,15 +5,14 @@ date: 2019-08-27T00:00:00.000Z
 cover_image: >-
   /images/uploads/harry-and-meghan-took-four-private-flights-in-just-11-days-1566404464.jpg
 summary: >-
-  Dear Harry and Meghan, the team here at Flight Free UK urges you to consider
-  the climate impact of your flights
+  The team at Flight Free UK urges Harry and Meghan to consider the climate
+  impact of their flights
 author: FlightFree UK
 read_time_minute: 3
 ---
-
 Dear Harry and Meghan,
 
-The team here at Flight Free UK urges you to consider the climate impact of your flights. READMORE We applaud your recent announcement that you will have no more than two children for the sake of the planet, but we plead with you that your commitment to environmentalism could be demonstrated further through your lifestyle and actions.
+The team here at Flight Free UK urges you to consider the climate impact of your flights. We applaud your recent announcement that you will have no more than two children for the sake of the planet, but we plead with you that your commitment to environmentalism could be demonstrated further through your lifestyle and actions.
 
 While aeroplane travel remains rare among the global population (only around 5% have ever been on a plane), and here in the UK only 15% of people take 70% of flights, for those who can access air travel, those flights  make up the largest part of their carbon footprint. The IPCC recommends that our individual carbon outputs don't exceed 2.3 tonnes per year. And when you consider that just one transatlantic flight emits up to 3 tonnes*, you can begin to see that flying, to the extent that some of us do it here in the West, has no place in a sustainable future. 
 
@@ -27,20 +26,20 @@ Here at Flight Free UK we are running a pledge which asks 100,000 people not to 
 
 So, our plea to you is to lead by example. Continue talking about climate change and the environment, and back it up with robust action. Flying less is a massive part of that, and a good place to start is the #flightfree2020 pledge. Could you do it?
 
-*Emissions data for return flights from the UK per passenger: 
+\*Emissions data for return flights from the UK per passenger: 
 
 New York 1.9 tonnes CO2, Miami 2.4 tonnes, Caribbean 2.5 tonnes, LA 2.97 tonnes
 
 Data from [flightemissionmap.org](flightemissionmap.org)
 
 Signed:
-Anna Hughes, Flight Free UK
-Dr Lucy Gilliam, Transport & Environment
-Dave Hampton, Founder @Champions4Earth
-Dr Kate Rawles, Outdoor Philosophy
-Chris Watson, Editor of Beyond Flying and co-founder of the International Climate Safe Travel Institute
-Lola Perrin, Founder ClimateKeys
-Dr Roger Tyers, University of Southampton
-Dr Milena Buchs, Leeds University
-Georgina Stevens, Be The Change books
+Anna Hughes, Flight Free UK\
+Dr Lucy Gilliam, Transport & Environment\
+Dave Hampton, Founder @Champions4Earth\
+Dr Kate Rawles, Outdoor Philosophy\
+Chris Watson, Editor of Beyond Flying and co-founder of the International Climate Safe Travel Institute\
+Lola Perrin, Founder ClimateKeys\
+Dr Roger Tyers, University of Southampton\
+Dr Milena Buchs, Leeds University\
+Georgina Stevens, Be The Change books\
 Dr Jennifer Rudd, Swansea University
