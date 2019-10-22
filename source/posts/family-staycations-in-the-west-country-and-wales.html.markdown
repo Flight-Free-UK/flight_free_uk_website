@@ -1,6 +1,6 @@
 ---
 title: Family staycations in the west country and Wales
-category: climate
+category: travel
 date: 2019-08-20T11:14:07.108Z
 cover_image: /images/uploads/family-travel-1.jpg
 summary: >-
