@@ -1,6 +1,6 @@
 ---
 title: Adventures in happiness
-category: climate
+category: travel
 date: 2019-05-16T14:53:32.344Z
 cover_image: /images/uploads/0debf8_4791e66cead846898135b9571142327b_mv2.webp
 summary: >-
