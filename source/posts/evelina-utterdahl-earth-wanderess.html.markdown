@@ -1,6 +1,6 @@
 ---
 title: 'Evelina Utterdahl: Earth Wanderess'
-category: climate
+category: travel
 date: 2019-03-04T16:58:10.322Z
 cover_image: /images/uploads/earth-wanderess.jpg
 summary: >-
