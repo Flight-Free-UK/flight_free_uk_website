@@ -1,10 +1,10 @@
 ---
 title: Wall to Wall without flying
-category: climate
+category: travel
 date: 2019-08-21T11:35:51.878Z
 cover_image: /images/uploads/container-ship.jpg
 summary: >-
-  Christine and Peter Lloyd spent 13 months pedalling to the Great Wall of
+  Christine and Peter Lloyd spent thirteen months pedalling to the Great Wall of
   China, and were determined not to fly home
 author: FlightFree UK
 read_time_minute: 4
