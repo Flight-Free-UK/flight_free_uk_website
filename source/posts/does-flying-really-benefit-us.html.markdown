@@ -1,12 +1,11 @@
 ---
 title: Does flying really benefit us?
-category: climate
+category: opinion
 date: 2019-01-10T17:51:21.611Z
 cover_image: /images/uploads/f84b209469da4471b60850dc411d770b.webp
 summary: >-
-  ‘We have a responsibility to keep on flying… there’s a benefit to the world.
-  Flying increases our understanding of other countries and cultures.’  ~ Roger
-  Bray, travel and aviation journalist.'
+  Flight Free UK Director Anna Hughes takes a look at whether our flying habits
+  really are beneficial.
 author: FlightFree UK
 read_time_minute: 3
 ---
@@ -14,7 +13,7 @@ read_time_minute: 3
 
 '_We have a responsibility to keep on flying… there’s a benefit to the world. Flying increases our understanding of other countries and cultures.’  ~ Roger Bray, travel and aviation journalist._
 
-This statement by Roger Bray was made during a BBC Radio 4 interview for the New Year's Solutions series earlier this year, looking at whether or not we should keep flying. Mr Bray's argument was a resounding yes: we owe it to the world to keep exploring. Discovering other countries and cultures is vital to the understanding of our fellow man.
+This statement by Roger Bray was made during a BBC Radio 4 interview for the New Year's Solutions in January 2019, looking at whether or not we should keep flying. Mr Bray's argument was a resounding yes: we owe it to the world to keep exploring. Discovering other countries and cultures is vital to the understanding of our fellow man.
 
 Mr Bray might well be right, but flying is not necessarily the answer. We fly more than ever, yet looking at our political situations and the growth of nationalism it seems we’ve never understood each other less. Rather than break down walls, we build them; rather than extend our hand to those from other countries, we turn our back. Around the world, groups are gaining popularity that focus inwards rather than seeking to work together. On the face of it, this is not a world in which different cultures and countries are understood. Getting away from it all on a beach holiday where we tan and drink cocktails probably isn’t going to help.
 
