@@ -1,6 +1,6 @@
 ---
 title: How to write to your MP
-category: climate
+category: flight_free_2020
 date: 2019-02-15T17:11:48.218Z
 cover_image: /images/uploads/mp.jpg
 summary: >-
