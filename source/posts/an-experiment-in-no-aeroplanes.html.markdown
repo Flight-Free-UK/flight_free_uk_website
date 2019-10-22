@@ -1,6 +1,6 @@
 ---
 title: An experiment in No Aeroplanes
-category: climate
+category: travel
 date: 2019-01-07T17:54:23.131Z
 cover_image: /images/uploads/0debf8_0d1b07191855482e8d13281e2d108927_mv2.webp
 summary: >-
