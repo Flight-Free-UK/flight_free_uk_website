@@ -1,6 +1,6 @@
 ---
 title: Hitting the slopes by coach
-category: climate
+category: travel
 date: 2019-08-07T12:07:48.808Z
 cover_image: /images/uploads/ski-post-photo.jpg
 summary: >-
