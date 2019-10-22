@@ -5,7 +5,7 @@ date: 2019-01-10T17:51:21.611Z
 cover_image: /images/uploads/f84b209469da4471b60850dc411d770b.webp
 summary: >-
   Flight Free UK Director Anna Hughes takes a look at whether our flying habits
-  really are beneficial.
+  really are beneficial to us or the world.
 author: FlightFree UK
 read_time_minute: 3
 ---
