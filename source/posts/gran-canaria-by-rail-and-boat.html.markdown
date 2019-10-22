@@ -2,7 +2,7 @@
 title: Gran Canaria by rail and boat
 category: travel
 date: 2019-07-22T12:48:15.477Z
-cover_image: /images/uploads/blog.jpg
+cover_image: /images/uploads/tenerife-21.jpg
 summary: >-
   Professor Trevor Dale shares his experience of an overland trip to Gran
   Canaria, a journey that the vast majority of people make by air
