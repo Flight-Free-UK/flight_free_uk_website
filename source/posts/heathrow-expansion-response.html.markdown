@@ -1,17 +1,13 @@
 ---
 title: 'Heathrow Expansion Response '
-category: climate
+category: opinion
 date: 2019-09-13T11:02:21.179Z
 cover_image: /images/uploads/web-aerial-cgi-aec-launch-700x500.jpg
-summary: >
-  Heathrow consultation closes on 13th September – you can make your own
-  response by following the link in this post. Here is Flight Free UK’s
-  response. 
+summary: |
+  Flight Free UK responds to Heathrow expansion consultation. 
 author: FlightFree UK
 read_time_minute: 3
 ---
-[Respond to the consultation yourself here](https://www.heathrowconsultation.com/consultations/).
-
 Heathrow says its plan for a third runway is driven by its ambition to be the most sustainable airport in the world. It also says that carbon from flights makes up 96% of the carbon emissions from Heathrow. So it is obvious that the most sustainable option would be not to expand at all. 
 
 In May 2019 the UK Committee on Climate Change advised the Government that reaching net zero carbon emissions by 2050 requires significant and urgent ramping up of policy. In June 2019 the Government made the target of net zero by 2050 legally binding.
