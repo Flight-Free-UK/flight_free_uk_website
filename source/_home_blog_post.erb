@@ -1,10 +1,5 @@
-<% author = data.authors.values.find { |author| article.data.author == author.name } %>
 <a href="<%= article.url %>" class="block h-56 bg-cover bg-center" style="background-image:url(<%= article.data.cover_image %>)"></a>
 <div class="px-5 py-4">
-  <div class="flex mb-2">
-    <span class="w-8 h-8 rounded-full bg-no-repeat bg-white bg-contain mr-2" style="background-image:url(<%= author.avatar %>)"></span>
-    <span class="text-base self-center"><%= author.name %></span>
-  </div>
   <h4 class="text-2xl mb-2 leading-tight"><a href="<%= article.url %>"><%= article.title %></a></h4>
   <p class="text-sm leading-tight mb-3"><a href="<%= article.url %>"><%= article.data.summary %></a></p>
   <div class="text-xs text-blue-text-light">
