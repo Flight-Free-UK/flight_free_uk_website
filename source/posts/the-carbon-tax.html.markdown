@@ -1,6 +1,6 @@
 ---
 title: The Carbon Tax
-category: climate
+category: opinion
 date: 2019-07-23T12:51:28.116Z
 cover_image: /images/uploads/carbon-tax.jpg
 summary: >-
