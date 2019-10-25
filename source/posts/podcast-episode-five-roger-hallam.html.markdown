@@ -2,7 +2,7 @@
 title: 'Podcast episode five: Roger Hallam'
 category: climate
 date: 2019-06-05T14:40:09.031Z
-cover_image: /images/uploads/0debf8_8631c85e273843a69caf5dcb1b70813c_mv2.webp
+cover_image: /images/uploads/roger-hallam.jpg
 summary: >
   We speak to one of the brains behind Extinction Rebellion about civil
   disobedience, making a noise about the climate crisis, and why being a rebel
@@ -72,7 +72,7 @@ But the fact of the matter is that things won’t change unless there’s social
 
 Anna:
 
-The government needs to make it easier for people to make these choices. so power to you that you’re putting people in a position where people are taking notice and forcing the government into action. 
+The government needs to make it easier for people to make these choices, so power to you that you’re putting people in a position where people are taking notice and forcing the government into action. 
 
 Thanks for all you’re doing with Extinction Rebellion. It’s great to see this issue out there and it’s great to meet you. Do you have any concluding thoughts?
 
