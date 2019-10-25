@@ -1,6 +1,6 @@
 ---
 title: 'One of the 100,000: Sophia Cheng'
-category: climate
+category: one_of_the_100000
 date: 2019-06-28T13:43:04.681Z
 cover_image: /images/uploads/file.jpg
 summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree in 2020'
@@ -13,7 +13,7 @@ read_time_minute: 4
 
 I’ve been trying to cut down on flying for the last couple of years, and knowing I could join a growing political and cultural statement was the added incentive I needed. I took my last flight on June 20th 2019, I am challenging myself to not fly until the end of 2020, so that’s 18 months without flying.
 
-I expand more on why in this blog post: [Embedding Deep Adaptation](www.withmanyroots.com/blog/embedding-deep-adaptation)
+I expand more on why in this blog post: [Embedding Deep Adaptation](http://www.withmanyroots.com/blog/embedding-deep-adaptation)
 
 - - -
 
