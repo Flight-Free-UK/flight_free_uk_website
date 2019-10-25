@@ -10,7 +10,7 @@ summary: >-
 author: FlightFree UK
 read_time_minute: 6
 ---
-Our interview was recorded in a cosy corner of St Stephen's Tavern on Parliament Square, a regular drinking hole for those at Westminster, with a gentle background of clinking cutlery and chatter. A transcript of the interview is below; go to our [Podcast](https://www.flightfree.co.uk/podcast) page to hear the full interview.
+Our interview was recorded in a cosy corner of St Stephen's Tavern on Parliament Square, a regular drinking hole for those at Westminster, with a gentle background of clinking cutlery and chatter. A transcript of the interview is below; go to our [Podcast](https://www.flightfree.co.uk/podcast/episode/c112248d/molly-scott-cato) page to hear the full interview.
 
 **Molly, tell us a bit about your background in environmentalism and politics**
 
@@ -46,7 +46,7 @@ The Green Party would move against this 'predict and provide' view of aviation: 
 
 I am known as the MEP who doesn't fly! It amazes me that people are astonished that I can operate perfectly OK as an MEP without flying. Every time I put on Twitter that I don't fly, people say, that's only because you won't have to go to Brussels any more \[once we leave the EU], or, how many times have you flown as an MEP, like it would be IMPOSSIBLE for me to get to Brussels without flying. \[Train travel] is often faster – it’s certainly faster to London because you don’t have the check-in time. I’m going to hop on the Eurostar when we’ve finished recording, and it’s a very comfortable and much pleasanter way to get to Brussels. 
 
-I've travelled all across Europe: I've been to Latvia twice by ferry and by train, and Poland, and Lisbon too by train which is a fabulous route. And I've been to Gibraltar twice by train. [The Man in Seat Sixty](https://www.seat61.com/)-One is the best source of information. It's a different kind of life – it's an interesting life – you get more time to relax, to enjoy the scenery, and once you've made the decision not to fly, there's a whole new world to explore.
+I've travelled all across Europe: I've been to Latvia twice by ferry and by train, and Poland, and Lisbon too by train which is a fabulous route. And I've been to Gibraltar twice by train. [The Man in Seat Sixty-One](https://www.seat61.com) is the best source of information. It's a different kind of life – it's an interesting life – you get more time to relax, to enjoy the scenery, and once you've made the decision not to fly, there's a whole new world to explore.
 
 - - -
 
@@ -64,6 +64,6 @@ What we need from government is clear leadership on the sort of lifestyle we sho
 
 We could have much happier lives with far less energy use, but we need the political will and the political leadership to get us there.
 
-Molly's interview is the first in our [Podcast](https://www.flightfree.co.uk/podcast) series. Hear the full interview and find other episodes [here](https://www.flightfree.co.uk/podcast).
+Molly's [interview](https://www.flightfree.co.uk/podcast/episode/c112248d/molly-scott-cato) is the first in our Podcast series. Hear the full interview and find other episodes [here](https://www.flightfree.co.uk/podcast).
 
 ![](/images/uploads/0debf8_3b195493aad14fd49a391a1a849d7f50_mv2_d_2623_2899_s_4_2.webp)
