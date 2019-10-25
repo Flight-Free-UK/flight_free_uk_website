@@ -2,14 +2,14 @@
 title: 'Podcast interview: Vipul Patel'
 category: climate
 date: 2019-05-01T14:56:54.038Z
-cover_image: /images/uploads/0debf8_83d6aa04fe9d4ef4ad2b178ca86e484a_mv2.webp
+cover_image: /images/uploads/vipul-patel.jpg
 summary: >-
   In episode four of the Flight Free podcast we talk to Vipul Patel, an active
   green campaigner in Bath. 
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/0debf8_83d6aa04fe9d4ef4ad2b178ca86e484a_mv2.webp)
+![](/images/uploads/vipul-patel.jpg)
 
 Our conversation focusses on bringing the climate crisis into the public conscious simply by talking about it more, and also by being a role model. Our chat takes place over a delicious cup of tea from Comins Tea House, which means there is quite a lot of tea-making noise and chatter in the background, so hopefully this doesn’t distract too much from the conversation! Many thanks to Paul Arnold for trying to clean up the recording.
 
