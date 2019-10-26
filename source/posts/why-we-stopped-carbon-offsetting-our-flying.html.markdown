@@ -1,6 +1,6 @@
 ---
 title: Why we stopped carbon-offsetting our flying
-category: climate
+category: one_of_the_100000
 date: 2019-04-02T15:31:57.714Z
 cover_image: >-
   /images/uploads/0debf8_df4becc7bd9145d693e94fe7114d6ccd_mv2_d_5184_3456_s_4_2.webp
