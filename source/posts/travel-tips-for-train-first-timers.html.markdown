@@ -1,6 +1,6 @@
 ---
 title: Travel tips for train first-timers
-category: climate
+category: travel
 date: 2019-08-14T11:55:34.398Z
 cover_image: /images/uploads/back-seat-driver.jpeg
 summary: >-
