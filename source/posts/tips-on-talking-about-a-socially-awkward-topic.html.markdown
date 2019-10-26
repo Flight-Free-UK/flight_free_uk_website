@@ -1,6 +1,6 @@
 ---
 title: Tips on talking about a socially awkward topic
-category: climate
+category: flight_free_2020
 date: 2019-01-31T17:15:17.909Z
 cover_image: /images/uploads/tips-on-awkward-topic-.jpg
 summary: >-
