@@ -1,6 +1,6 @@
 ---
 title: The great British holiday
-category: climate
+category: travel
 date: 2019-06-10T14:32:52.868Z
 cover_image: /images/uploads/the-great-british-holiday-.jpg
 summary: >-
