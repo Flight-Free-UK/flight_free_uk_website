@@ -1,6 +1,6 @@
 ---
 title: Train travel is a gem waiting for rediscovery
-category: climate
+category: travel
 date: 2019-07-10T13:36:19.927Z
 cover_image: >-
   /images/uploads/3b9dee_e6f54451b2c241a293d8dae390f4f73e_mv2_d_2316_3088_s_2.webp
@@ -32,4 +32,4 @@ I have to cross Paris from the Gare du Lyon to the Gare du Nord to catch my conn
 
 This summer we’re spending a month in France. We’ll take the kids by train, stop off in Paris, Lyon and Annecy. My eldest is always questioning the difference in local customs to ours and it’s this breadth of understanding and enquiry that I hope to inspire in all of my children. Travel, real travel, promotes empathy, compassion and tolerance of others, emotions that are severely under threat in modern society. If we’re lucky we may even pick up a little of the language too. 
 
-[_Alexandra Jellicoe_ ](https://twitter.com/alexjellicoe)_runs environmental magazine/blog_ [_Monkey Wrench_](https://www.monkeywrench.org.uk/)_, where you can read an expanded version of_ [_this article_](https://www.monkeywrench.org.uk/blog/2019/7/2/o43mg31pb1k25tknf5bxltvmlq9k5x)_._
+[_Alexandra Jellicoe_ ](https://twitter.com/alexjellicoe)_runs environmental magazine/blog_ [_Monkey Wrench_](https://www.monkeywrench.org.uk/)_, where you can read an_ [_expanded version_](https://www.monkeywrench.org.uk/blog/2019/7/2/train-travel-is-a-gem-waiting-for-rediscovery?rq=train%20travel) _of_ _this article._
