@@ -1,6 +1,6 @@
 ---
 title: Train-setting across Europe
-category: climate
+category: travel
 date: 2019-07-17T13:07:56.915Z
 cover_image: /images/uploads/train-setting-across-europe-.jpg
 summary: >-
@@ -56,7 +56,7 @@ Or think about stopping over in Paris – always cheaper with a certain je ne sa
 
 **Time well spent**
 
-But you may not have to stop over. For example, my colleague Catriona and I went to Dusseldorf in February, and the 11 ½ hours door to door journey was solid good work/relaxing time, with easy connections, good wi-fi all the way and no hassles. Easyjet takes two hours in the air, but add another 2 ½ hours at least for checking in, which is stressful and wasted time hanging around in queues rather than working or relaxing on the train. 
+But you may not have to stop over. For example, my colleague Catriona and I went to Dusseldorf in February, and the 11 ½ hours door to door journey was solid good work/relaxing time, with easy connections, good wi-fi all the way and no hassles. Easyjet takes two hours in the air, but add another 2 ½ hours at least for checking in, which is stressful, and wasted time hanging around in queues rather than working or relaxing on the train. 
 
 - - -
 
