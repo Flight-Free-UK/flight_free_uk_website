@@ -1,6 +1,6 @@
 ---
 title: '''What love requires'' - how not flying can be a gift'
-category: climate
+category: one_of_the_100000
 date: 2019-02-22T16:50:32.841Z
 cover_image: /images/uploads/file-2-.jpg
 summary: >-
@@ -9,7 +9,7 @@ summary: >-
 author: FlightFree UK
 read_time_minute: 4
 ---
-Sue Hampton has more than 30 books to her name, and is currently publishing new novella '_For Life_' in weekly instalments on [her website](httpwww.suehamptonauthor.co.uk/category/blog-posts/). Her works are for both children and adults, and incorporate well-developed characters with a social and environmental narrative. Sue is a trustee for People not Borders, supporting refugees, and an activist with Campaign Against the Arms Trade. She is also an ambassador for Alopecia UK.
+Sue Hampton has more than 30 books to her name, and is currently publishing new novella '_For Life_' in weekly instalments on [her website](https://www.suehamptonauthor.co.uk/). Her works are for both children and adults, and incorporate well-developed characters with a social and environmental narrative. Sue is a trustee for People not Borders, supporting refugees, and an activist with Campaign Against the Arms Trade. She is also an ambassador for Alopecia UK.
 
 ![](/images/uploads/0debf8_96465fec0ca6493f97a2947690b3cb81_mv2_d_3954_6101_s_4_2.webp "Credit: Mikaela Morgan photography")
 
@@ -33,7 +33,7 @@ We mostly holiday in the UK and are going to Glasgow on the train in March. We�
 
 **As an author you’ve used your platform to talk about climate change. What motivates you to do that? Do you feel there has been a public shift in awareness about the issue?**
 
-Even when I wrote my children’s novel _The Waterhouse Girl in 01_ (it wasn’t published until 09) I made my heroine an eco-activist. In the sequel _Crazy Daise_ she’s sixteen and campaigning for Ecocide Law. In the dystopian YA novel _Start,_ Venice goes down. I also thought I’d ask Magic Oxygen to make _The Biggest Splash_ a pay-as-you-feel e-book on my website because the subject felt so urgent; it’s about climate activism taken to the limit. And now I’m releasing a free novella for this Climate Emergency, chapter by chapter every Friday on my website. It’s called _For Life_ and will end in time for the global Week of Rebellion when I will be on the streets again. 
+Even when I wrote my children’s novel _The Waterhouse Girl_ in 01 (it wasn’t published until 09) I made my heroine an eco-activist. In the sequel _Crazy Daise_ she’s sixteen and campaigning for Ecocide Law. In the dystopian YA novel _Start,_ Venice goes down. I also thought I’d ask Magic Oxygen to make _The Biggest Splash_ a pay-as-you-feel e-book on my website because the subject felt so urgent; it’s about climate activism taken to the limit. And now I’m releasing a free novella for this Climate Emergency, chapter by chapter every Friday on my website. It’s called _For Life_ and will end in time for the global Week of Rebellion when I will be on the streets again. 
 
 I used to see my writing as keyboard activism but in the last few years I’ve known that isn’t enough. When I spoke one Green Monday at the fracking site at Preston New Road I found myself saying that there’s no longer any other subject to write about. That led to this current project. But fiction MUST be led by character if the readers are going to care, and my characters are always in control. So it can’t be a treatise. What it can do, I hope, is involve readers emotionally. It’s an indirect way in to this biggest of all issues but it has to be a good story, and stories are powerful. They can change the way we see the world and others in it. They can change who we are. 
 
@@ -61,4 +61,4 @@ _The featured image shows Sue and her husband Leslie Tate as part of a spontaneo
 
 __
 
-_Find out more about Sue on her_ [_website_](https://www.suehamptonauthor.co.uk/)__
+_Find out more about Sue on her_ [_website_](https://www.suehamptonauthor.co.uk/)
