@@ -1,6 +1,6 @@
 ---
 title: When climate responsibility breaks the heart
-category: climate
+category: opinion
 date: 2019-05-29T14:48:03.591Z
 cover_image: /images/uploads/blog-2.jpg
 summary: >-
