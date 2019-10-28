@@ -1,6 +1,6 @@
 ---
 title: Winter Sun
-category: climate
+category: travel
 date: 2019-08-21T00:00:00.000Z
 cover_image: /images/uploads/winter-sun-3-.jpg
 summary: >-
