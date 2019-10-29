@@ -69,4 +69,4 @@ In no way is my flight free pledge supposed to shame others into following suit.
 
 **Thank you!**
 
-You can find more from Sophia at [withmanyroots.com](http://www.withmanyroots.com/), and read her moving blog about giving up flying [here](http://www.withmanyroots.com/blog/three-strikes-and-i-m-out).
+_You can find more from Sophia at_ [_withmanyroots.com_](http://www.withmanyroots.com/)_, and read her moving blog about giving up flying_ [_here_](http://www.withmanyroots.com/blog/three-strikes-and-i-m-out)_._
