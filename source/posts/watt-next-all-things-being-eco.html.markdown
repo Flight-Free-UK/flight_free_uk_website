@@ -11,7 +11,7 @@ read_time_minute: 8
 ---
 Check out our [Podcast page ](https://www.flightfree.co.uk/podcast)to hear the full 95 minute interview with Flight Free UK campaigner Anna Hughes. The interview covers topics as wide-ranging as cycling in Amsterdam, playing trumpet in a ska band, working in a cocktail bar, being inspired by the Youth Climate Strikes, and giving up flying – but gaining a huge amount in return. 
 
-This is a guide to the conversation between Dave and Anna, with details of the songs that she has chosen. And here's Dave in the studio at Marlow FM. He has signed the [\#flightfree2020 ](https://www.flightfree.co.uk/blog/search/.hash.flightfree2020)pledge!
+This is a guide to the conversation between Dave and Anna, with details of the songs that she has chosen. And here's Dave in the studio at Marlow FM. He has signed the [\#flightfree2020 pledge](www.flightfree.co.uk/pledge)!
 
 ![](/images/uploads/0debf8_34bcb6cd5236413dbb79beb3c5c92a6d_mv2.webp)
 
