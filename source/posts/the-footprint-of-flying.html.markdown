@@ -9,11 +9,9 @@ read_time_minute: 2
 ---
 An article recently shared on our [Facebook page](https://www.facebook.com/pg/flightfreeUK/posts/?ref=page_internal) – _“Minute by minute, mile by mile, nothing we do causes greater or more easily avoidable harm to the environment than flying,”_ – has sparked a fair amount of debate. Many of the responses said, animal agriculture is far worse, so better to go vegan than stop flying.
 
-__
-
 _So how damaging is flying, and is it really worse than eating meat?_
 
-Animal agriculture is responsible for approximately [15% of our global emissions](www.fao.org/news/story/en/item/197623/icode/). So on the face of it, our diets dwarf the impact of flying – the aviation industry is commonly quoted to contribute between [2%](https://www.icao.int/environmental-protection/Documents/EnvironmentReport-2010/ICAO_EnvReport10-Ch1_en.pdf) and [5% of global emissions.](https://www.transportenvironment.org/what-we-do/flying-and-climate-change) So even at its higher estimation, aviation is responsible for fewer emissions than the meat and dairy industry. 
+Animal agriculture is responsible for approximately [15% of our global emissions](http://www.fao.org/news/story/en/item/197623/icode/). So on the face of it, our diets dwarf the impact of flying – the aviation industry is commonly quoted to contribute between [2%](https://www.icao.int/environmental-protection/Documents/EnvironmentReport-2010/ICAO_EnvReport10-Ch1_en.pdf) and [5% of global emissions.](https://www.transportenvironment.org/what-we-do/flying-and-climate-change) So even at its higher estimation, aviation is responsible for fewer emissions than the meat and dairy industry. 
 
 The thing we need to be clear about is whether we are talking about the industry or individual behaviour. While everybody eats, not everybody flies – [only around 5% of the world’s population has ever been on an aeroplane](https://www.transportenvironment.org/what-we-do/flying-and-climate-change) – which is one of the reasons why the overall percentage is comparatively low. Though, taken in that context, for an industry to be responsible for 5% of global emissions while only serving 5% of a global population doesn’t quite seem fair!
 
