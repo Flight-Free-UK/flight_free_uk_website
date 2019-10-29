@@ -39,7 +39,7 @@ Let's briefly re-visit a few of the facts:
 * Because of global warming, our oceans are acidifying, which is bleaching our coral reefs, killing off ocean ecosystems and making our seas less efficient at absorbing carbon from the atmosphere.
 * There were huge wildfires in the arctic this summer, in which more CO2 was released in a week than the whole of Sweden emits in a year. Also, the Antarctic is melting much faster than anyone had expected.
 * Because of Bolsonaro's destructive policies regarding the Amazon, deforestation has tripled since he came to power and if we lose roughly 20% of what remains, a crucial tipping point will be reached in which the Amazon ceases to be a tropical rainforest and instead becomes a savannah. And it's also currently on fire. And forests absorb about 25% of all our carbon emissions. And contain 6% of the earth's oxygen.
-* We used to make up 1% of the world's biomass but now us humans and our livestock make up 99%. All the earth's wild animals put together make up the final 1%.
+* We used to make up 1% of the world's mammals but now us humans and our livestock make up 99%. All the earth's wild animals put together make up the final 1%.
 
 Sounds like the plot of a dystopian novel, doesn't it?
 
