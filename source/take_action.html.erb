@@ -5,40 +5,40 @@ title: Take action
 <div class="bg-blue bg-cover" style="background-image: url(/images/clouds_take_action.png)">
   <div class="container mx-auto text-white pb-12">
     <%= partial "header" %>
-    <section class="lg:flex mx-8 lg:mx-48 mt-10">
+    <section class="lg:flex mx-8 xl:mx-24 xxl:mx-48 mt-10">
       <div class="hidden lg:block w-1/3">
-        <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" class="hidden xl:block w-full" style="min-height:430px"></iframe>
+        <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" class="hidden lg:block w-full" style="min-height:430px"></iframe>
       </div>
       <div class="lg:w-2/3 lg:pl-20 lg:pt-16">
         <img src="/svg/one_white_bg.svg" class="mb-6" />
         <h1 class="text-4xl xl:text-5xl leading-tight mb-6 xl:mb-4">Make the pledge to be flight free in 2020</h1>
         <p class="text-xl xl:text-2xl leading-tight">Join the growing number of people choosing not to fly in 2020. Could you be one of the 100,000?</p>
-        <button class="bg-orange text-blue-dark text-lg mt-10 mb-8 w-full py-4 xl:hidden" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
+        <button class="bg-orange text-blue-dark text-lg mt-10 mb-8 w-full py-4 lg:hidden" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
       </div>
     </section>
   </div>
 </div>
 <section class="bg-blue-dark">
-  <div class="container mx-auto pl-8 pr-16 lg:px-48 py-20 xl:py-24 text-white">
+  <div class="container mx-auto pl-8 pr-16 xl:px-24 xxl:px-48 py-20 xl:py-24 text-white">
     <div class="xl:flex mb-10 xl:mb-8">
       <img src="/svg/two_white_bg.svg" class="mb-8 xl:mb-0 xl:mr-6" />
       <h2 class="text-4xl xl:text-5xl">Share the pledge</h2>
     </div>
-    <div class="xl:flex text-2xl xl:pl-20">
-      <a href="https://twitter.com/<%= data.social_media.twitter %>" class="flex mb-8 xl:mb-0 bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(/svg/twitter_with_bg.svg)">
-        Share on Twitter
+    <div class="xl:flex justify-between text-2xl xl:px-20">
+      <a href="https://twitter.com/<%= data.social_media.twitter %>" class="block mb-8 xl:mb-0 bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(/svg/twitter_with_bg.svg)">
+        Share on <span class="xl:block">Twitter</span>
       </a>
-      <a href="https://facebook.com/<%= data.social_media.facebook %>" class="flex mb-8 xl:mb-0 bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(/svg/facebook_white_bg.svg)">
-        Post to Facebook
+      <a href="https://facebook.com/<%= data.social_media.facebook %>" class="block mb-8 xl:mb-0 bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(/svg/facebook_white_bg.svg)">
+        Post to <span class="xl:block">Facebook</span>
       </a>
-      <a href="https://instagram.com/<%= data.social_media.instagram %>" class="flex bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(/images/instagram_with_bg.png)">
-        Add to your story on Instagram
+      <a href="https://instagram.com/<%= data.social_media.instagram %>" class="block bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(/images/instagram_with_bg.png)">
+        Add to your story on <span class="xl:block">Instagram</span>
       </a>
     </div>
   </div>
 </section>
 <section class="bg-blue">
-  <div class="container mx-auto px-8 xl:px-48 pt-20 xl:pt-24 pb-16 xl:pb-20 text-white overflow-hidden">
+  <div class="container mx-auto px-8 xl:px-16 xxl:px-48 pt-20 xl:pt-24 pb-16 xl:pb-20 text-white overflow-hidden">
     <div class="xl:flex">
       <div class="xl:w-1/3">
         <div class="border border-white" style="transform: rotate(-7deg)">
