@@ -4,8 +4,22 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="">
-  <title><%= [current_page.data.title, "FlightFree UK"].join(" | ") %></title>
+
+  <% title = [current_page.data.title, "FlightFree UK"].join(" | ") %>
+  <title><%= title %></title>
+  <meta property="og:title" content="<%= title %>"/>
+
+  <% description = "Flight climate change: make the pledge to be flight free in 2020" %>
+  <meta name="description" content="<%= description %>"/>
+  <meta property="og:description" content="<%= description %>"/>
+
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="/images/anna_with_poster.png"/>
+  <meta property="og:image:alt" content="<%= description %>"/>
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="<%= data.social_media.twitter %>" />
+
   <%= stylesheet_link_tag "styles" %>
   <%= javascript_include_tag "https://unpkg.com/micromodal/dist/micromodal.min.js" %>
   <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500&display=swap" rel="stylesheet">
