@@ -25,12 +25,12 @@ title: Take action
       <h2 class="text-4xl xl:text-5xl">Share the pledge</h2>
     </div>
     <div class="xl:flex justify-between text-2xl xl:px-20">
-      <a href="https://twitter.com/<%= data.social_media.twitter %>" class="block mb-8 xl:mb-0 bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(/svg/twitter_with_bg.svg)">
+      <% link_to "https://twitter.com/intent/tweet", query: { text: "Fight climate change by signing the flight free pledge at", url: "https://flightfree.co.uk" }, class: "block mb-8 xl:mb-0 bg-no-repeat bg-center-left bg-contain leading-tight pl-20", style: "background-image:url(/svg/twitter_with_bg.svg)", target: "_blank" do %>
         Share on <span class="xl:block">Twitter</span>
-      </a>
-      <a href="https://facebook.com/<%= data.social_media.facebook %>" class="block mb-8 xl:mb-0 bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(/svg/facebook_white_bg.svg)">
+      <% end %>
+      <% link_to "https://www.facebook.com/sharer/sharer.php", query: { u: data.social_media.share.url }, class: "block mb-8 xl:mb-0 bg-no-repeat bg-center-left bg-contain leading-tight pl-20", style: "background-image:url(/svg/facebook_white_bg.svg)", target: "_blank" do %>
         Post to <span class="xl:block">Facebook</span>
-      </a>
+      <% end %>
       <a href="https://instagram.com/<%= data.social_media.instagram %>" class="block bg-no-repeat bg-center-left bg-contain leading-tight pl-20" style="background-image:url(/images/instagram_with_bg.png)">
         Add to your story on <span class="xl:block">Instagram</span>
       </a>

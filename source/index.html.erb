@@ -11,9 +11,9 @@ title: FlightFree UK
         <h1 class="text-5xl xl:text-6xl leading-tight mb-16">Make the pledge to be flight free in 2020</h1>
         <h2 class="text-3xl lg:text-4xl xl:mb-8 text-orange">#flightfree2020</h2>
         <div class="flex">
-          <a href="https://twitter.com/<%= data.social_media.twitter %>" class="w-12 h-12 xl:w-16 xl:h-16 mr-8 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(/svg/twitter.svg);background-size:60%" target="_blank"></a>
+          <%= link_to "", "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 mr-8 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/twitter.svg);background-size:60%", target: "_blank" %>
           <a href="https://instagram.com/<%= data.social_media.instagram %>" class="w-12 h-12 xl:w-16 xl:h-16 mr-8 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(/images/instagram.png);background-size:60%" target="_blank"></a>
-          <a href="https://facebook.com/<%= data.social_media.facebook %>" class="w-12 h-12 xl:w-16 xl:h-16 mr-8 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(/svg/facebook.svg);background-size:30%" target="_blank"></a>
+          <%= link_to "", "https://www.facebook.com/sharer/sharer.php", query: { u: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 mr-8 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/facebook.svg);background-size:30%", target: "_blank" %>
         </div>
       </div>
       <div class="xl:w-1/3">
