@@ -83,3 +83,7 @@ end
 #   activate :minify_css
 #   activate :minify_javascript
 # end
+
+ready do
+  proxy "_redirects", "netlify_redirects", ignore: true
+end
