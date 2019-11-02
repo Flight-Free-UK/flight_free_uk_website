@@ -2,8 +2,7 @@
 title: My no-fly year
 category: flight_free_2020
 date: 2019-01-28T17:30:24.567Z
-cover_image: >-
-  /images/uploads/0debf8_20998d16f79249389ffd04b8fa525129_mv2_d_3062_2267_s_2.webp
+cover_image: /images/uploads/viviana-camper.jpeg
 summary: >-
   In June 2017, Viviana Jiménez took a year off flying. With family scattered
   across a few countries, it would mean not seeing them for more than a year.
@@ -34,7 +33,7 @@ _“Within the indigenous communities, every action and behaviour is informed by
 
 We had a chance to speak to a _mamo,_ learn more about the aluna, and participate in an _ofrenda_: a ritual to thank Mother Nature for all it provides and give back in intention and action. This forever changed me. 
 
-![](/images/uploads/0debf8_a1e2d4e9c4044ad1a3b19011add20b72_mv2.webp)
+![](/images/uploads/viviana-colombia.jpeg)
 
 That same week, we visited some parts of La Guajira further north. It was the week after Easter break and the result of indiscriminate tourism was all around. Most places were completely empty, but you could see that only one week before it had been a busy place. We saw single-use plastic all over the ground and in the water. Thousands of bags, disposable cups, forks, knives and straws dotted the place. It really shattered our souls to see the state of this otherwise gorgeous backdrop. We went into the ciénaga and were the only ones for miles, surrounded by a spectacle of flamingos… and plastic.
 
@@ -76,7 +75,7 @@ The year also helped me reduce some of the pressure I had put on myself to trave
 
 Most importantly, I realised personal change is not as difficult as I had made it out to be. 
 
-![](/images/uploads/0debf8_20998d16f79249389ffd04b8fa525129_mv2_d_3062_2267_s_2.webp)
+![](/images/uploads/viviana-camper.jpeg)
 
 **Moving Forward**
 
