@@ -2,16 +2,13 @@
 title: Train travel is a gem waiting for rediscovery
 category: travel
 date: 2019-07-10T13:36:19.927Z
-cover_image: >-
-  /images/uploads/3b9dee_e6f54451b2c241a293d8dae390f4f73e_mv2_d_2316_3088_s_2.webp
+cover_image: /images/uploads/alex-jellico.jpg
 summary: >-
   Slow travel makes the whole experience far richer, as discovered by
   environmental scientist Alexandra Jellicoe on a recent trip to Italy. 
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/3b9dee_e6f54451b2c241a293d8dae390f4f73e_mv2_d_2316_3088_s_2.webp)
-
 It’s not often you get bumped up to first class for a tenner. I can’t believe my luck. The seats are like armchairs and pivot so you can recline into a perfect sleeping position. The pull-down table so generous I have plenty of space for my laptop, a coffee and a sandwich without having to channel my ninja skills, ready to catch a falling object at any moment. I managed to book last minute and the cabin is almost empty, the temperature perfectly controlled to ensure maximum comfort and I can stroll next door anytime I like for a hot meal. Oh, and did I mention the view? Train travel around Europe is a gem waiting for rediscovery.
 
 I’ve been on a retreat at [Villa Lugara](https://villalugara.com/) near Baiso, Italy. I don’t envy my holiday mates on their return home, flying Ryan Air from Bologna to Bristol. Squished in like cattle, made to wait for two hours on the hot tarmac without explanation of the delay and refused free water. Modern air travel has been perversely designed to be endured rather than enjoyed. Tell me, when did you last enjoy a flight? 
