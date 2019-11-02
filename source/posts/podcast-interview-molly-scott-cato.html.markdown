@@ -1,9 +1,8 @@
 ---
 title: 'Podcast interview: Molly Scott Cato'
-category: climate
+category: one_of_the_100000
 date: 2019-03-07T16:43:00.048Z
-cover_image: >-
-  /images/uploads/0debf8_3b195493aad14fd49a391a1a849d7f50_mv2_d_2623_2899_s_4_2.webp
+cover_image: /images/uploads/mollytalking.jpg
 summary: >-
   The Green MEP for South-West England and Gibraltar talks to us about her
   political past, her anti-airport activism and why she doesn't fly.
@@ -15,10 +14,6 @@ Our interview was recorded in a cosy corner of St Stephen's Tavern on Parliament
 **Molly, tell us a bit about your background in environmentalism and politics**
 
 I've been in the Green Party for a long time, since I had my first child who is now 31, and I've stood at all levels in all sorts of elections, being elected as MEP for SW England and Gibraltar in 2014. 
-
-![](/images/uploads/0debf8_208abb125b5443218acb5f616d9c2211_mv2.webp)
-
-- - -
 
 **And you've just signed up for our flight free campaign – thank you! Can you tell us why you've signed, and what the pledge means to you?**
 
@@ -40,15 +35,11 @@ So no, I don't start from a place thinking it's normal to fly – I'm a real hea
 
 The Green Party would move against this 'predict and provide' view of aviation: more people want to fly therefore we build more airports, which creates jobs. But that's the wrong way to look at it. We have to do the best for society and for future generations, and for other countries who will also suffer from climate change. So the Green Party has a policy of a frequent flyer levy, where each flight becomes more expensive than the last, so by the time you get to a third flight you basically can't afford it. There could be exemptions for International aid for example, or maybe for cultural exchanges, but very soon you'd find businesses change their business model and stop flying executives off to Dubai. I think you have to use the power of the market to make additional flights very expensive, and that's what a frequent flyer levy would do.
 
-- - -
-
 **In your work life, you split your time between Bristol and Brussels. How does that work if you don't fly?**
 
 I am known as the MEP who doesn't fly! It amazes me that people are astonished that I can operate perfectly OK as an MEP without flying. Every time I put on Twitter that I don't fly, people say, that's only because you won't have to go to Brussels any more \[once we leave the EU], or, how many times have you flown as an MEP, like it would be IMPOSSIBLE for me to get to Brussels without flying. \[Train travel] is often faster – it’s certainly faster to London because you don’t have the check-in time. I’m going to hop on the Eurostar when we’ve finished recording, and it’s a very comfortable and much pleasanter way to get to Brussels. 
 
 I've travelled all across Europe: I've been to Latvia twice by ferry and by train, and Poland, and Lisbon too by train which is a fabulous route. And I've been to Gibraltar twice by train. [The Man in Seat Sixty-One](https://www.seat61.com) is the best source of information. It's a different kind of life – it's an interesting life – you get more time to relax, to enjoy the scenery, and once you've made the decision not to fly, there's a whole new world to explore.
-
-- - -
 
 **That sounds like a very tempting life! So can you tell us a bit about your involvement with Bristol airport expansion?**
 
@@ -65,5 +56,3 @@ What we need from government is clear leadership on the sort of lifestyle we sho
 We could have much happier lives with far less energy use, but we need the political will and the political leadership to get us there.
 
 Molly's [interview](https://www.flightfree.co.uk/podcast/episode/c112248d/molly-scott-cato) is the first in our Podcast series. Hear the full interview and find other episodes [here](https://www.flightfree.co.uk/podcast).
-
-![](/images/uploads/0debf8_3b195493aad14fd49a391a1a849d7f50_mv2_d_2623_2899_s_4_2.webp)
