@@ -2,16 +2,16 @@
 title: Adventures in happiness
 category: travel
 date: 2019-05-16T14:53:32.344Z
-cover_image: /images/uploads/0debf8_4791e66cead846898135b9571142327b_mv2.webp
+cover_image: /images/uploads/happy-boyce-1.jpg
 summary: >-
   After travelling for eighteen months, cycling through Europe, South and North
   America and Asia, Christopher ended up in Bhutan. But the carbon footprint of
-  his journey led Christopher to question his motivations and consider giving up
-  flying for good. 
+  his journey led him to question his motivations and consider giving up flying
+  for good. 
 author: FlightFree UK
 read_time_minute: 3
 ---
-![](/images/uploads/0debf8_4791e66cead846898135b9571142327b_mv2.webp)
+![](/images/uploads/happy-boyce-1.jpg)
 
 I am flying back to the UK from Delhi today. At least it is a direct flight I tell myself. Though that doesn’t do very much to appease the awkwardness I feel about flying. . .
 
@@ -20,8 +20,6 @@ Life on a bicycle these past 18 months has certainly brought its challenges, tho
 Yet I wanted to cross oceans and in the end I chose to do that by aeroplane. On the way to Bhutan there was a flight from Spain to Argentina, then from Toronto to Hong Kong, and then Bangkok to Kolkata. Whilst in Bangkok I took the opportunity to [visit my brother in Sumba, Indonesia](https://adventuresinhappinessblog.wordpress.com/2019/03/03/teaching-happiness/), and that trip alone took several flights.
 
 That is one heavy carbon footprint.
-
-![](/images/uploads/0debf8_693ec1b528e24d70a2a61ddcfeea0be0_mv2.webp "On the beach with the students and ‘Mr Nick’ – the affectionate name bestowed upon my brother who has been teaching them permaculture for the past 6 months. After spending a week on their campus I came to be known as Mr Happiness")
 
 **Was it worth it?**
 
@@ -39,4 +37,4 @@ What I’ve learnt is that real travel isn’t about distance. It is more about 
 
 I can’t see any good reason for me to fly again. And so once I am back in the UK I am committing to not flying for at least the next 5 years, and it may even end up being for the rest of my life unless I can see a good case for it. Anyone else want to come with me, or indeed stay with me and be happy looking at the flowers. . .
 
-![](/images/uploads/0debf8_069315513c1c4c719398232f356efa94_mv2.webp)
+![](/images/uploads/happy-boyce-2.jpg "Chris ('Mr Happiness') and his brother ('Mr Nick') on the beach with Nick's permaculture students")
