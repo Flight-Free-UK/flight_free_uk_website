@@ -2,15 +2,13 @@
 title: Je m'engage...
 category: flight_free_2020
 date: 2019-06-10T14:35:40.008Z
-cover_image: /images/uploads/0debf8_4e7ed2d54a3d4d0bbb26592c5950f4ca_mv2-1-.webp
+cover_image: /images/uploads/nathalie-laplante.jpg
 summary: >-
   Nathalie Laplante has just launched Flight Free Canada. Here she explains her
   motivations to keep her and her fellow countrymen's feet firmly on the ground
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/0debf8_4e7ed2d54a3d4d0bbb26592c5950f4ca_mv2-1-.webp)
-
 It all started 12 years ago, when I chose to take the train home from British Columbia to Montreal instead of flying. At the time, it wasn’t a conscious decision to never fly again, it was simply a choice I made for that specific trip. I’ve stayed very informed about climate change all of my adult life; most of my actions and decisions are largely directed by my will to be an environmentally friendly citizen on this planet. 
 
 More recently, I’ve become more and more concerned about this alarming situation we’re in. Anxiety seemed to be slowly replacing my usual positivity about our future. I was starting to feel overwhelmed, sad, and alone, even if I know I’m not. 
