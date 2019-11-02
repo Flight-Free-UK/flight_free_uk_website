@@ -2,14 +2,14 @@
 title: Long Train to China
 category: travel
 date: 2019-04-11T15:06:31.352Z
-cover_image: /images/uploads/0debf8_97605b3e52a74d109834c7874ea80b05_mv2.webp
+cover_image: /images/uploads/long-train-to-china.png
 summary: >-
   Research fellow Roger Tyers shares his plans for an upcoming no-fly field trip
   to China, and explains the importance of leading by example
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/0debf8_97605b3e52a74d109834c7874ea80b05_mv2.webp "The long train to China: multiple weeks, connections, countries and visas")
+![](/images/uploads/long-train-to-china.png "The long train to China: multiple weeks, connections, countries and visas")
 
 I've decided to give up flying, for 2019, for 2020, and who knows…maybe forever. Over the past few years I have tried to reduce my flights and bought offsets for those flights I have taken. But I now feel that the urgency of global warming is such that relying on offset projects is not a viable response. Planting trees is great. But trees take a long time to grow. Given that there is, at best, little over a decade to avoid catastrophic and potentially irreversible damage to our global eco-system, time is one thing we don’t have.
 
@@ -27,11 +27,9 @@ As part of my justification, I pointed to [research ](https://link.springer.com/
 
 Finally, I added some numbers, which usually helps convince anyone – especially academics. According to[ DEFRA’s](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2018) emission factors and my own route estimates, flying from London to Beijing emits about ten times more carbon emissions than the equivalent train journey.
 
-![](/images/uploads/0debf8_c9722af8ab104d05ab381920106b6395_mv2-1-.webp)
+![](/images/uploads/china-emissions.png)
 
 Thankfully I won approval for my train travel, and was left with the minor task of arranging the trains (using an excellent Uni-approved [agency](www.thetravelbureau.co.uk/)), getting visas, completing a risk assessment, arranging insurance etc. It has not been simple. There’ve been times I have found the complexity of itineraries and visas restrictions to be so overwhelming that I’ve almost thrown in the towel. Rather than one ten hour flight to China (requiring only a China visa), my trip will take about two weeks each way, crossing nine countries, using seventeen trains for the round trip, and requiring visas for China, Russia and Mongolia. En route, as well as watching Europe and Asia pass by my window, I hope to use my time to do some reading, and on the way back to start writing up my fieldnotes, and draft research papers. I’m especially looking forward to have an enforced ‘digital detox’, as I don’t think you get Wi-Fi whilst crossing Siberia! There are, of course, many things that could go wrong along the way, but hopefully I’ll have an interesting and productive trip, which will act as a (rather extreme) demonstration of the possible, for myself and for others. 
-
-![](/images/uploads/0debf8_852ff5eb35e34017b67830c259dbbb8b_mv2_d_1457_2369_s_2.webp)
 
 I admit that my story is somewhat unique and privileged: not everyone can take the train to China for work, and I doubt I’ll make a habit of it. But I am far from the first ever climate-concerned academic to quit flying either. Within the broader flight-free movement, there is an academic [community ](https://academicflyingblog.wordpress.com/)challenging the assumption that flying should always be the first choice travel mode, especially for well-informed academics who perhaps ought to know better. We hope that universities will publish records of all staff flights, build low-carbon travel modes into research grant applications as a default option, and build fantastic videoconferencing facilities. Academics should be able to demonstrate to their students, the public, and people in [other professions](https://theconversation.com/researchers-set-an-example-fly-less-111046) that you don’t always need to fly to be a high-flier. 
 
