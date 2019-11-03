@@ -2,13 +2,11 @@
 title: Would you give up flying for a year to save the environment?
 category: flight_free_2020
 date: 2019-01-01T18:00:41.912Z
-cover_image: /images/uploads/8fba042261a54b8c888e7edae3c5d21a.webp
+cover_image: /images/uploads/landing.jpg
 summary: 'An introduction to #FlightFree2020'
 author: FlightFree UK
 read_time_minute: 3
 ---
-![](/images/uploads/8fba042261a54b8c888e7edae3c5d21a.webp)
-
 365 days without getting on a plane. Would you do it? Could you? Should you? That’s what we at Flight Free UK are asking, and we have an ambitious target: we want 100,000 people to make the same pledge.
 
 Flying is part of our lives. In 2017, UK residents took 46.6 million holidays abroad, and we flew for 39.7 million of them*. Many of us get on a plane without thinking twice: it’s the way we travel. We work hard all year and we earn our holidays. 
