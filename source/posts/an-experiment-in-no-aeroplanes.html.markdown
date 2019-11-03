@@ -2,15 +2,13 @@
 title: An experiment in No Aeroplanes
 category: travel
 date: 2019-01-07T17:54:23.131Z
-cover_image: /images/uploads/0debf8_0d1b07191855482e8d13281e2d108927_mv2.webp
+cover_image: /images/uploads/cancelled-flights.jpg
 summary: >-
   Traveller and writer David Charles explains that giving up planes doesn't mean
   giving up travel  
 author: FlightFree UK
 read_time_minute: 5
 ---
-![](/images/uploads/0debf8_0d1b07191855482e8d13281e2d108927_mv2.webp)
-
 It’s January 2009 and I’m trekking through the wild snow-bound wastelands of Luton. There’s a pack on my back and every step I take sinks my sodden shoes into the grey mush that has coated the dual carriageway to the airport. I know my flight is cancelled, but I also know that, if I’m to have even a slim chance of claiming my money back, I need to present myself in person at the check-in desk. 
 
 I was supposed to be visiting my best friend in Bordeaux. Instead, I treat myself to a Boots meal deal, fill out the claim form and trudge back out into the gloom, wondering if I can use both parts of my period rail return on the same day. It’s got all the makings of a familiar and rather dull story: total transport breakdown at the first sight of snowflakes, a miserable wait in a serpentine queue, departure boards flashing DELAYED, DELAYED, CANCELLED. 
