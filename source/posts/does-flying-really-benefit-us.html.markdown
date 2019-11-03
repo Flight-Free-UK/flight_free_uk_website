@@ -2,16 +2,16 @@
 title: Does flying really benefit us?
 category: opinion
 date: 2019-01-10T17:51:21.611Z
-cover_image: /images/uploads/f84b209469da4471b60850dc411d770b.webp
+cover_image: /images/uploads/travel-planning.jpg
 summary: >-
   Flight Free UK Director Anna Hughes takes a look at whether our flying habits
   really are beneficial to us or the world.
 author: FlightFree UK
 read_time_minute: 3
 ---
-![](/images/uploads/f84b209469da4471b60850dc411d770b.webp)
-
-'_We have a responsibility to keep on flying… there’s a benefit to the world. Flying increases our understanding of other countries and cultures.’  ~ Roger Bray, travel and aviation journalist._
+> '
+>
+> _We have a responsibility to keep on flying… there’s a benefit to the world. Flying increases our understanding of other countries and cultures.’  ~ Roger Bray, travel and aviation journalist._
 
 This statement by Roger Bray was made during a BBC Radio 4 interview for the New Year's Solutions in January 2019, looking at whether or not we should keep flying. Mr Bray's argument was a resounding yes: we owe it to the world to keep exploring. Discovering other countries and cultures is vital to the understanding of our fellow man.
 
