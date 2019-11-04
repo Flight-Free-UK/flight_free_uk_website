@@ -1,7 +1,7 @@
 ---
 title: Money Talks
 category: flight_free_2020
-date: 2019-11-04T08:10:15.720Z
+date: 2019-10-02T07:10:15.720Z
 cover_image: /images/uploads/money-talks.jpeg
 summary: >-
   We all know there are some eye-catchingly cheap air fares out there, but do
