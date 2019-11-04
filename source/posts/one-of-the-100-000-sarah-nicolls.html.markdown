@@ -2,7 +2,7 @@
 title: 'One of the 100,000: Sarah Nicolls'
 category: one_of_the_100000
 date: 2019-10-07T06:50:15.352Z
-cover_image: /images/uploads/mat-smith-photography-4.jpg
+cover_image: /images/uploads/sarah_nicolls_2ndedit012.jpg
 summary: >-
   Pianist Sarah Nicolls starts her "12 years" tour next year, giving recitals
   around the country about the climate crisis. Here, we hear her motivations for
