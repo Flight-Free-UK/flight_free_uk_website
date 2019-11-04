@@ -20,3 +20,5 @@ At this point, you shout: hypocrite. And yes, it’s all very well me giving up 
 The first test of my no-fly rule came earlier this month when I was asked to cover an event in the South of France. I accepted the commission on the condition that my employer paid for me to go by train (perversely this was more expensive than flying). He agreed and I had a stunning ride from London to the Cote d’Azur, watching the landscapes, weather and vegetation change as the TGV sped south. It was far more civilised than the easyJet flight I took the year before. 
 
 There is one issue I haven’t worked out yet: seeing my brother. He lives in Vancouver and if we want to see each other, which we do, at some point one of us will have to cross a continent and a sea. Doing a Greta would take about two weeks and wipe out my savings, so maybe I will have to make a compromise at some point in the name of brotherly love. It’s the only thing that would get me on a plane now.
+
+![](/images/uploads/gavin-haines.jpg)
