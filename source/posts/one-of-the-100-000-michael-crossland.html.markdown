@@ -2,7 +2,7 @@
 title: 'One of the 100,000: Michael Crossland'
 category: one_of_the_100000
 date: 2019-11-04T11:14:04.220Z
-cover_image: /images/uploads/mat-smith-photography-4.jpg
+cover_image: /images/uploads/red-nailvarnish-small.jpg
 summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree in 2020'
 author: FlightFree UK
 read_time_minute: 2
