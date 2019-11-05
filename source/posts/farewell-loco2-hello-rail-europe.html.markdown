@@ -1,7 +1,7 @@
 ---
 title: 'Farewell Loco2, hello Rail Europe'
 category: opinion
-date: 2019-11-05T09:32:50.607Z
+date: 2019-11-05T08:32:50.607Z
 cover_image: /images/uploads/loco2.png
 summary: >-
   Jamie Andrews, co-founder of train booking website Loco2, explains recent
