@@ -2,7 +2,7 @@
 title: Why I am flight free
 category: flight_free_2020
 date: 2019-10-29T10:42:09.377Z
-cover_image: /images/uploads/helena-hitchiking.jpg
+cover_image: /images/uploads/helena-snowdonia.jpg
 summary: Helena Ritter explains why she made the decision to quit flying
 author: FlightFree UK
 read_time_minute: 2
