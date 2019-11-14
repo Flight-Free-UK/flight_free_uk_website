@@ -29,7 +29,7 @@ I've watched as the idea of flying less has moved from the periphery of public d
 
 So with all this in mind, it was emotional when we learned that our brand name will be discontinued. SNCF, who we sold Loco2 to in 2017, has announced that from November 5th Loco2 will be known as Rail Europe. 
 
-The booking platform we spent so long building will continue – to all intents and purposes, users will have the same experience (and [loco2.com](loco2.com) will redirect to the new site). But it comes with some sadness to know that the brand we poured our heart and soul into will end – especially at just the time when awareness of climate change (and the role that flying plays) is so high.
+The booking platform we spent so long building will continue – to all intents and purposes, users will have the same experience (and [loco2.com](https://raileurope.co.uk) will redirect to the new site). But it comes with some sadness to know that the brand we poured our heart and soul into will end – especially at just the time when awareness of climate change (and the role that flying plays) is so high.
 
 But times change, and perhaps it’s for the best that the name goes with the two of us (Kate and I left the company in 2018). It would have been hard for Loco2 to continue that magic we conjured with our founding team. That said, I will of course continue to book my rail tickets through Rail Europe, and I've no doubt that climate-focused communications will continue under the new brand.
 
