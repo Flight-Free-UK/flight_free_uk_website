@@ -19,8 +19,6 @@ That changed last summer, when we had such an unusually hot, dry summer in the U
 
 My family and friends say that I've become an environmental activist but I don't see it like that. I'm not part of some niche group who people think they can afford to ignore. I'm a normal person who's woken up to the urgency of the situation we're in and everyone else needs to do the same. 
 
-- - -
-
 **How often have you flown in the past?**
 
 To be completely honest, I don't like flying and had stopped in 2015 for this reason. However, when I found out about the environmental impact earlier this year, I decided not to do it again. Before 2015, despite feeling nervous about flying, I'd done it on quite a regular basis, flying to other countries in Europe and further afield, to Mexico and Cuba, Japan and South Korea. My husband and I flew to Morocco on our honeymoon. 
@@ -48,5 +46,3 @@ They seem to think it's commendable, but not necessarily something they want to 
 I think putting a photo of myself with the pledge card up on my social media accounts has helped. It's given me a way in to discussing it with people I know, as it's not a very easy topic to bring up in conversation without an excuse to do so. 
 
 **Thank you!**
-
-![](/images/uploads/0debf8_41b83ea209f84960bc08fd991291fef5_mv2.webp)
