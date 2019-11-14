@@ -13,7 +13,7 @@ We interview Etienne Stott, Olympian and gold medallist in the London 2012 Olymp
 
 We meet at Green’s Mill in Sneinton, Nottingham. 
 
-The interview is available as a [podcast,](https://www.flightfree.co.uk/podcast/episode/c2d7dc67/etienne-stott) with an edited transcript below.
+The interview is available as a [podcast](https://soundcloud.com/info-728724237/etienne-stott), with an edited transcript below.
 
 _Hi Etienne – nice to meet you! Can you tell us a bit about yourself?_
 
