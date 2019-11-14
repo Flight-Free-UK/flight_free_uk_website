@@ -59,4 +59,4 @@ _Much food for thought, much self-examination we need to do, and much thinking a
 
 Listen to the full interview and take it with you on [our podcast.](https://www.flightfree.co.uk/podcast/episode/c2d7dc67/etienne-stott)
 
-![](/images/uploads/0debf8_c26eb629241c4c46936f1fac61f15499_mv2.webp "Etienne Stott and Flight Free campaigner Anna Hughes. Anna is very excited to be holding an Olympic gold medal.")
+![](/images/uploads/etienne-anna.jpg "Etienne Stott and Flight Free campaigner Anna Hughes")
