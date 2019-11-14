@@ -15,13 +15,9 @@ Gran Canaria is one of Spain’s volcanic Canary Islands off the coast of North 
 
 Planning our visit was a joint effort: I booked the rail tickets while my wife Rose sorted out the ferry and hotel bookings. The London to Paris leg was on Eurostar (during the Easter Extinction Rebellion protests – we were very grateful that they had not decided to block the railways!), then after crossing Paris to the Gare de Lyon we boarded the train to Barcelona. Following the advice of the excellent ‘[The Man in Seat 61’ ](https://www.seat61.com/)website we had booked upstairs seats on the TGV, and during the 6 hour trip were treated to fantastic views of the Massif Central, the Alps and the Pyrenees, arriving early enough in the evening for a beer and tapas. The following day a fast train took us to Madrid in 3 hours where we visited the Botanical Gardens and the Thyssen-Bornemisza national art museum. I snapped a picture of Andre Derain’s ‘Waterloo Bridge’ (1906) which I regarded as ‘my' bridge having spent many hours on it during the November Extinction Rebellion protests. It must have been fate, then, that we walked out of the museum into a climate protest by a group of Spanish Children. Big thumbs up!
 
-![](/images/uploads/979194_ae83560c09d3475ba6c3406f0cf101d2_mv2_d_4032_3024_s_4_2.webp "Waterloo Bridge, Andre Derain (1906)")
-
 The next day the train took us to Huelva, an industrial port just north of Cadiz on Spain’s South West coast. The views from the train were a treat: castles that have featured in Game of Thrones; vast plains covered in olives and interspersed with rocky mountainous passes; a glorious sunset travelling past Seville. 
 
-The following morning we boarded the ferry and were forced to completely chill out, with two days of sailing with no internet (unless you want to pay lots). The cabins were comfortable, but the food was dull. It was a great time to catch up on reading. The ferry stopped first at the island of Lanzarotte, then we disembarked at Gran Canaria, five days after leaving Cardiff. 
-
-![](/images/uploads/979194_0eedd060f7e54665b04d00658380026a_mv2_d_4032_3024_s_4_2.webp)
+The following morning we boarded the ferry and were forced to completely chill out, with two days of sailing with no internet (unless you want to pay lots). The cabins were comfortable, but the food was dull. It was a great time to catch up on reading. The ferry stopped first at the island of Lanzarote, then we disembarked at Gran Canaria, five days after leaving Cardiff. 
 
 Without a doubt the trip was more expensive than flying. The return trains from Cardiff to Huelva plus the ferry (with cabin) were about £1,000 each. The worst part of the trip was the realisation that the Canary Islands’ economy was so dependent flying. As a small illustration, we had to catch a taxi to the ferry for an early morning departure. Our driver knew the destination, yet on autopilot he started to drive us to the airport before realising his mistake.
 
