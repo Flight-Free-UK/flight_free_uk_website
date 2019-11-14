@@ -23,7 +23,7 @@ Whilst we have the benefit of a 9-year-old with a massive imagination, he, like 
 
 We live in Wotton Under Edge in the South Cotswolds. Bristol is a 30 minute drive and Bath is 40. Our nearest railway station is Cam & Dursley, on the Bristol to Gloucester line. It is important to us that the Cotswolds are on our doorstep: the big skies and old world charm of **Berkeley Vale** are just a short drive or cycle downhill, **Wiltshire** with its **two World Heritage Sites** and chalky downs officially begins 7 miles away, and the **Mendip Hills** and ethereal beauty of the **Somerset Levels** are well within reach. 
 
-Over the Severn, the **Forest of Dean** is great for family cycling, caves and the wonderful folk culture of the **Dean Heritage Centre** trails and exhibits. Just 40 minutes from us is the beautiful **Wye Valley** and my personal place pilgrimage, **Tintern Abbey**.
+Over the Severn, the **Forest of Dean** is great for family cycling, caves and the wonderful folk culture of the **Dean Heritage Centre** trails and exhibits. Just 40 minutes from us is the beautiful **Wye Valley** and my personal place of pilgrimage, **Tintern Abbey**.
 
 ![](/images/uploads/family-travel-3.jpg "Exploring CADW Tintern Abbey with props ")
 
