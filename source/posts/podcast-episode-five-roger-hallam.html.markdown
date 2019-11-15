@@ -10,7 +10,7 @@ summary: >
 author: FlightFree UK
 read_time_minute: 4
 ---
-This is a rough transcript for the podcast interview we recorded with Roger, which you can listen to [here.](https://www.flightfree.co.uk/podcast/episode/c2012cea/roger-hallam) For the eagle-eared among you, you might notice that Anna sounds as though she's in a different room. She is. Any podcast supremos out there who want to help with future episodes, please [get in touch](https://www.flightfree.co.uk/contact).
+This is a rough transcript for the podcast interview we recorded with Roger, which you can listen to [here](https://soundcloud.com/info-728724237/roger-hallam). For the eagle-eared among you, you might notice that Anna sounds as though she's in a different room. She is. Any podcast supremos out there who want to help with future episodes, please [get in touch](https://www.flightfree.co.uk/contact).
 
 Anna: 
 
@@ -80,6 +80,6 @@ Roger:
 
 Come and sit down in the road in October – you’ll love it!
 
-Anna and Roger's full conversation can be found [here.](https://www.flightfree.co.uk/podcast/episode/c2012cea/roger-hallam)
+_Anna and Roger's full conversation can be found_ [_here_](https://soundcloud.com/info-728724237/roger-hallam)_._
 
-![](/images/uploads/0debf8_8631c85e273843a69caf5dcb1b70813c_mv2.webp)
+__
