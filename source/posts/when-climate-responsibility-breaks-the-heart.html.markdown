@@ -32,5 +32,3 @@ My boys are young adults now and getting on with their lives in New Zealand. The
 I've boxed it up and shelved it all in many ways. I don’t talk about them much. I’ve removed loads of pictures from the walls. I don’t dwell too much on the past and I haven’t moved back to the UK. It’s painful to revisit old memories. But you do learn to live with the grief; it changes over time though never goes away.
 
 Am I afraid it's all in vain? Should I say to hell with it? I just can't. My conscience won't allow it. I’m taking climate action wherever I can to protect my children's futures. At least I want to be able to say that I did what I believed to be the right thing.
-
-![](/images/uploads/0debf8_bd2d6fe28aea4adc818895a1cb4afc13_mv2.webp)
