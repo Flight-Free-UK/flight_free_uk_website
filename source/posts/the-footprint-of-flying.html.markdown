@@ -21,4 +21,4 @@ The IPCC recommend that for ongoing sustainability we should exceed no more than
 
 Of course, we need need to be addressing all of this. Aviation, food, shipping, fast fashion, all of it. This isn't to prove that flying is ‘the worst’. Massive reductions in all areas are needed in order to bring our emissions down to where they need to be. We all need to be eating far less meat and dairy, as well as flying far, far less. But if you do fly, nothing else you do will increase your carbon footprint so much in so short a space of time, and reducing that will have the greatest impact on how you interact with the planet.
 
-![](/images/uploads/0debf8_3b431e581a0d4ce8a2627959c0e2a5d6_mv2.webp "Emissions data for one return flight from London to New York. Reference: atmosfair.de/en")
+![](/images/uploads/bar_chart.png)
