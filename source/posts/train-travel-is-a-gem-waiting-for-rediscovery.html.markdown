@@ -19,7 +19,7 @@ Slow travel is set to make a comeback. Travel that reconnects you with place and
 
 > This is not a holiday, this is akin to being the protagonist of a Hemmingway novel.
 
-The booking engine [LOCO2 ](https://loco2.com/)offer a simple Europe-wide city to city search of alternative travel routes including overnight sleepers (expensive), high speed day trains (cheap) and every alternative you can think of in-between. 
+The booking engine [Rail Europe](https://raileurope.co.uk) (formerly Loco2) offer a simple Europe-wide city to city search of alternative travel routes including overnight sleepers (expensive), high speed day trains (cheap) and every alternative you can think of in-between. 
 
 Trains are the lowest carbon emission form of easily accessible public transport. As a passionate traveller, mother and environmental scientist I’ve completely reimagined how to explore the world. A holiday is no longer a jet to Mexico to lie by the beach for a week nor a quick weekend in Rome. I’ve rediscovered travel as something to be savoured rather than an inconvenience between home and holiday. And this excitement has been triggered by a compulsion to discover new ways to live in a world so damaged by modern lifestyles.
 
