@@ -7,23 +7,17 @@ summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree 
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/0debf8_9f9a2678df5744f3b2bd2ce5c4be169b_mv2.webp "Travelling to Guernsey by ferry")
-
 **Thank you for signing up to be Flight Free in 2020, Sophia! Can you sum up what motivated you to sign the pledge?**
 
 I’ve been trying to cut down on flying for the last couple of years, and knowing I could join a growing political and cultural statement was the added incentive I needed. I took my last flight on June 20th 2019, I am challenging myself to not fly until the end of 2020, so that’s 18 months without flying.
 
 I expand more on why in this blog post: [Embedding Deep Adaptation](http://www.withmanyroots.com/blog/embedding-deep-adaptation)
 
-- - -
-
 **How long have you been aware of climate issues?**
 
 I’ve been aware for a long time but it’s taken too long for me to really embed what it means. Digesting the IPCC report released in October 2018 and Jem Bendall’s Deep Adaptation paper forced the issue home for me. I finally felt the climate crisis.
 
 I have been supporting indigenous activists for the last four years in my work for [If Not Us Then Who](https://ifnotusthenwho.me/)? They have been fighting all their lives for their survival, often with fatal consequences. With the climate crisis we are facing, it was time I at least attempted to follow their lead.
-
-- - -
 
 **How often have you flown in the past?**
 
@@ -59,13 +53,9 @@ NB: I acknowledge my good fortune participating in this challenge; for example, 
 
 In no way is my flight free pledge supposed to shame others into following suit. Yes, I have been offsetting, but my flight shame is my own and I am acting on it. It’s time to start repaying, or at least not adding to my huge carbon debt.
 
-- - -
-
 **What might you do to influence others to go flight free in 2020?** 
 
 [I’m going to talk about it.](http://www.withmanyroots.com/blog/three-strikes-and-i-m-out) Anyone who knows me knows that I love to travel, explore, and see the world. I value experiences over stuff. When I tell people I am no longer flying, and I have returned back to the UK because of the climate and ecological crisis, it can help bring home the urgency of this situation.
-
-- - -
 
 **Thank you!**
 
