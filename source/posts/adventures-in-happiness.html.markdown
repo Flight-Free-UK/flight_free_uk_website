@@ -25,7 +25,7 @@ That is one heavy carbon footprint.
 
 I wonder, was my journey really worth all that resource use? Is the world at least a little happier for it? It was after all a [journey about happiness](https://theconversation.com/why-i-quit-my-day-job-researching-happiness-and-started-cycling-to-bhutan-105531). . .
 
-Perhaps I could justify my journey based solely on my personal happiness, of which there was a great deal. I fulfilled important human needs (such as physical well-being, connectivity, meaning, and autonomy), I had experiences that were not only awe-inspiring in the moment but can be recounted for many years to come, and I experienced challenge that lead to personal growth.
+Perhaps I could justify my journey based solely on my personal happiness, of which there was a great deal. I fulfilled important human needs (such as physical well-being, connectivity, meaning, and autonomy), I had experiences that were not only awe-inspiring in the moment but can be recounted for many years to come, and I experienced challenge that led to personal growth.
 
 Though is it only about my personal happiness? I think not.
 
