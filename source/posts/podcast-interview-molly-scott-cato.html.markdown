@@ -9,7 +9,7 @@ summary: >-
 author: FlightFree UK
 read_time_minute: 6
 ---
-Our interview was recorded in a cosy corner of St Stephen's Tavern on Parliament Square, a regular drinking hole for those at Westminster, with a gentle background of clinking cutlery and chatter. A transcript of the interview is below; go to our [Podcast](https://www.flightfree.co.uk/podcast/episode/c112248d/molly-scott-cato) page to hear the full interview.
+_Our interview was recorded in a cosy corner of St Stephen's Tavern on Parliament Square, a regular drinking hole for those at Westminster, with a gentle background of clinking cutlery and chatter. A transcript of the interview is below; go to our_ [_Podcast_](www.flightfree.co.uk/podcast) _page to hear the full interview._
 
 **Molly, tell us a bit about your background in environmentalism and politics**
 
@@ -55,4 +55,4 @@ What we need from government is clear leadership on the sort of lifestyle we sho
 
 We could have much happier lives with far less energy use, but we need the political will and the political leadership to get us there.
 
-Molly's [interview](https://www.flightfree.co.uk/podcast/episode/c112248d/molly-scott-cato) is the first in our Podcast series. Hear the full interview and find other episodes [here](https://www.flightfree.co.uk/podcast).
+_Molly's interview is the first in our Podcast series. Hear the full interview and find other episodes_ [_here_](https://www.flightfree.co.uk/podcast)_._
