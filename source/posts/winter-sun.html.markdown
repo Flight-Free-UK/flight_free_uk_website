@@ -19,7 +19,7 @@ It’s easy to justify the carbon output because sun makes us happy. But is all 
 
 It’s a conversation we had with Paul Powlesland, a barrister at Ely Place Chambers and the founder of Lawyers for Nature. He had been a regular winter sun-seeker, and while he knew this was adding a huge amount to his carbon footprint, he’d always felt that need to get away somewhere warm.
 
-![](/images/uploads/winter-sun-2-.jpg "Paul Powlesland")
+![](/images/uploads/winter-sun-2-.jpg "Paul Powlesland with his narrow boat on the River Roding")
 
 But last winter, Paul remained in the UK. He owns a stretch of river bank on the Medway in Kent and needed to get some tree planting done to shore up the bank. Winter came and went in the satisfaction of labour and graft. The sun even shone on those crisp, cool days, so it was a t-shirt most of the time, and he got his tan.
 
@@ -34,7 +34,5 @@ It’s easy to dismiss winter as a time of dearth and sparsity, where there is n
 In constantly fluttering around and seeking ‘the other’ we miss so much. We all need to get away from life’s busyness, and we could all do with some extra sunshine in the winter, but that doesn’t have to mean flying halfway round the world. There is incredible nature to be found in the forests and rivers of London. The beauty of western Scotland is even more stark in winter. Even the shores of the Mediterranean are easily accessible by train, so winter warmth doesn’t have to be half a world away. 
 
 Paul has signed our Flight Free 2020 pledge and urges others to do the same. “Try to see it less as a sacrifice, and more of an opportunity. A chance to see things you wouldn’t otherwise see and do things you wouldn’t otherwise do. By slowing things down you re-connect with place and become more grounded. So I haven’t wanted to fly this winter, and actually, it was the easiest winter for me in a long time. I definitely felt happier.”
-
-
 
 Watch the video here: <https://www.facebook.com/flightfreeUK/videos/382584305737238/>
