@@ -1,6 +1,6 @@
 ---
 title: Winter Sun
-category: travel
+category: flight_free_2020
 date: 2019-08-21T00:00:00.000Z
 cover_image: /images/uploads/edxn1guu0aa_zva.jpeg
 summary: >-
