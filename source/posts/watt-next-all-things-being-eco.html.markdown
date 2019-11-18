@@ -2,7 +2,7 @@
 title: '''Watt Next? All things being eco...'''
 category: climate
 date: 2019-04-17T15:19:35.528Z
-cover_image: /images/uploads/podcast.jpg
+cover_image: /images/uploads/anna-at-marlow-fm.jpg
 summary: >-
   Anna Hughes talks to Marlow FM DJ Dave Hampton about cycling, ska music,
   flight-free holidays and climate change, and chooses eight tracks.
@@ -11,9 +11,9 @@ read_time_minute: 8
 ---
 Check out our [Podcast page ](https://www.flightfree.co.uk/podcast)to hear the full 95 minute interview with Flight Free UK campaigner Anna Hughes. The interview covers topics as wide-ranging as cycling in Amsterdam, playing trumpet in a ska band, working in a cocktail bar, being inspired by the Youth Climate Strikes, and giving up flying – but gaining a huge amount in return. 
 
-This is a guide to the conversation between Dave and Anna, with details of the songs that she has chosen. And here's Dave in the studio at Marlow FM. He has signed the [\#flightfree2020 pledge](www.flightfree.co.uk/pledge)!
+This is a guide to the conversation between Dave and Anna, with details of the songs that she has chosen. And here's Dave in the studio at Marlow FM. He has signed the #flightfree2020 pledge!
 
-![](/images/uploads/0debf8_34bcb6cd5236413dbb79beb3c5c92a6d_mv2.webp)
+![](/images/uploads/dave-at-marlow-fm.jpg "Dave Hampton, host of the Watt Next? show on Marlow FM")
 
 **00:00** The 'Watt Next? All things being Eco' show kicks off with excellent track 'Is there something I should know?' by Duran Duran
 
