@@ -2,14 +2,14 @@
 title: 'Evelina Utterdahl: Earth Wanderess'
 category: travel
 date: 2019-03-04T16:58:10.322Z
-cover_image: /images/uploads/earth-wanderess.jpg
+cover_image: /images/uploads/evelina.jpg
 summary: >-
   We meet Evelina Utterdahl, Swedish climate activist and eco-warrior who gave
   up flying without giving up her career as a travel blogger. 
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/0debf8_8dc631cdf5584bfc81023cb71dffd434_mv2.webp "Evelina Utterdahl, Earth Wanderess, with Flight Free campaigner Anna Hughes")
+![](/images/uploads/eve-and-anna.jpg "Evelina Utterdahl, Earth Wanderess, with Flight Free campaigner Anna Hughes")
 
 It’s a clear, cool evening at Corpus Christi college, Oxford. Groups of students walk across the lawn looking for a rowing club meeting or a foreign languages seminar. The quad is small, understated – none of the grandeur of the college’s more famous, more dramatic neighbour, Christchurch: no dome, no film-set backdrop, no huge brick towers, just a quaint grass square surrounded by the classic buildings that give Oxford its tourist-attracting charm. And in a quiet room to the west of the quad, people are gathering for the Oxford Waste Society's latest event: a talk entitled 'Travel Without Flying'.
 
@@ -17,9 +17,7 @@ Evelina Utterdahl, known as Eve, walks the talk. Vegan, member of [Extinction Re
 
 But something changed. After reading a column about the climate impact of aviation, she realised the damage her globe-trotting was doing to her beloved planet. ‘I knew flying was bad for the environment but I didn’t know how bad. Then I saw the numbers, and that’s not something you can unlearn.’
 
-- - -
-
-_‘I decided that day not to do it any more. I didn’t want to be part of the problem.’_
+> _‘I decided that day not to do it any more. I didn’t want to be part of the problem.’_
 
 And that was that. Eco-warrior Eve became even more of a champion for the environment. Amazingly, her decision not to fly hasn’t changed the amount she travels. She is still the digital nomad, just spends longer getting from place to place. ‘People ask me how I can get to such-and-such a country. We forget that international travel was around far before aeroplanes. If I can't get there by train I’ll take a boat!’
 
@@ -39,7 +37,7 @@ So, how has not flying changed Eve’s life? Completely, and in a positive way. 
 
 Would she ever fly again? ‘I can’t say never but right now I feel like I wouldn't start flying again even if there were environmentally friendly options because I enjoy this slow life so much more. But the truth is it will take a very long time until that will be able to be a reality so I probably won't fly again.
 
-_'No experience or career move of mine is worth jeopardising the future of humanity.’_
+> _'No experience or career move of mine is worth jeopardising the future of humanity.’_
 
 Despite Eve saying that she’s not out to tell people what to do, it’s clear she has the ability to influence. Confident, passionate, and unashamed about her values – her opening gambit on Instagram is, ‘Former jetsetter who quit flying for the environment’ – she is often contacted by people who say her example has encouraged them to change their lives too. And with almost 50,000 followers, there are a lot of people to influence. 
 
