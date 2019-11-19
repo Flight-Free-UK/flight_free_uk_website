@@ -5,10 +5,8 @@ date: 2019-02-15T17:11:48.218Z
 cover_image: /images/uploads/mp.jpg
 summary: >-
   Having our politicians lead by example will demonstrate that they are serious
-  about climate change. 
-
-  Use this draft text to write an email to your MP, asking them to take part in
-  the #flightfree2020 campaign
+  about climate change. Use this draft text to write an email to your MP, asking
+  them to take part in the #flightfree2020 campaign
 author: FlightFree UK
 read_time_minute: 2
 ---
@@ -22,7 +20,7 @@ I am writing as one of your constituents who is concerned about climate change. 
 
 I know that there are Government targets to make an 80% reduction in UK emissions by 2050. But this won't happen unless we significantly change our lifestyles, and we humans can be very resistant to change. We need our politicians to demonstrate how we are going to make the changes that will bring our emissions to sustainable levels.
 
-Aviation is one of the fastest growing causes of carbon emissions, and the seventh largest polluter in the world. I have made a pledge not to take any flights in the year of 2020 as part of the [\#flightfree2020](https://www.flightfree.co.uk/blog/search/.hash.flightfree2020) campaign, which aims for 100,000 people to make the same pledge. Imagine how much impact it would have if the people in power, such as yourself, lead by example and do the same? With one short haul flight creating more emissions than a Nigerian will in an entire year, not flying is one of the most impactful things an individual can do to bring down carbon emissions.
+Aviation is one of the fastest growing causes of carbon emissions, and the seventh largest polluter in the world. I have made a pledge not to take any flights in the year of 2020 as part of the #flightfree2020 campaign, which aims for 100,000 people to make the same pledge. Imagine how much impact it would have if the people in power, such as yourself, lead by example and do the same? With one short haul flight creating more emissions than a Nigerian will in an entire year, not flying is one of the most impactful things an individual can do to bring down carbon emissions.
 
 The pledge site is here:[ www.flightfree.co.uk/pledge](https://www.flightfree.co.uk/pledge). Politicians in other countries are vocally and actively taking action on this important issue. Will you take the pledge?
 
