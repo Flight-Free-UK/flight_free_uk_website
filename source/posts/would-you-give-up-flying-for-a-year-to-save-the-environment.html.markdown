@@ -23,7 +23,7 @@ This isn’t scaremongering – it’s happening now. It’s easy to think this 
 
 Our target of 100,000 is small fry in comparison to those millions of flights Brits take each year. But it’s also a big enough number that it will make an impact, not only to those who choose to sign up, but also to those who might hear about it and be made aware of these issues for perhaps the first time. It’s unlikely to ground any flights in a single year. But perhaps we can start a public awareness, a kind of social conscience where the impact of flying is acknowledged and acted on by a large group of people. That dialogue might expand year on year – and that’s when change happens. Flights run on simple supply and demand. Without the demand, there would be less supply.
 
-Campaigns are running all over the world to raise awareness of the climate issue and aviation’s contribution to greenhouse gasses. It’s just one year, and it’s one small thing, but pledging to be [\#flightfree](https://www.flightfree.co.uk/blog/search/.hash.flightfree) has the potential to make a massive difference. 
+Campaigns are running all over the world to raise awareness of the climate issue and aviation’s contribution to greenhouse gasses. It’s just one year, and it’s one small thing, but pledging to be flight free has the potential to make a massive difference. 
 
 We all should take action. You definitely could. Would you?
 
