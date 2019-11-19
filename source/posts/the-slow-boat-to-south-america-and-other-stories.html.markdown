@@ -30,4 +30,4 @@ Back in Europe, Lewis has spent many hours on long-distance coaches. To the Pyre
 
 It was great to hear Lewis’s stories about how travel by means other than aeroplanes can really give you a different experience, and the world can feel richer as a result. Thank you Lewis for speaking with us.
 
-_The full audio interview can be found on our_ [_podcast_](www.flightfree.co.uk/podcast) _page._
+_The full audio interview can be found on our_ [_podcast_](/podcast) _page._
