@@ -19,9 +19,8 @@ We were really looking forward to clarifying some of the issues in the article, 
 
 The main crux of the argument is that
 
-> Aviation accounts for 2% of global emissions.
->
-> _~ much less than agriculture, forestry and other land use (around 25%) and electricity and heat production (also around 25%), and the global fashion industry (8%)._
+> **"Aviation accounts for 2% of global emissions.**\
+> _~ much less than agriculture, forestry and other land use (around 25%) and electricity and heat production (also around 25%), and the global fashion industry (8%)."_
 
 so it can’t be that bad.
 
@@ -40,9 +39,8 @@ If you fly to a holiday resort on the Caspian Sea, the 1.5 tonnes you saved by g
 
 The second argument in the article is 
 
-> That 2% of global emissions happens in return for extraordinary benefits. 
->
-> _~ not just individuals being able to go on holiday and to see friends and family \[but] the rapid movement of people and goods in an interconnected world, and all of the cultural, social and economic benefits that come with that._
+> **"The 2% of global emissions happens in return for extraordinary benefits.**\
+> _~ not just individuals being able to go on holiday and to see friends and family \[but] the rapid movement of people and goods in an interconnected world, and all of the cultural, social and economic benefits that come with that."_
 
 It depends on your definition of ‘benefits’. While there is no doubt that international travel has given us a huge amount in terms of social and cultural progress, we cannot ignore the downsides. We have shrunk the world to such an extent that we forget what a privilege it is to be able to travel so far, so fast. The number of ‘conscious’ travellers is very small compared to those who see the world as their playground. We sit on a beach with other Brits and drink cocktails. We might be charmed by the local culture, but do we genuinely interact with it? And what about over-tourism? Those cities that are overrun with hen and stag parties? Their residents would probably argue with our definition of ‘extraordinary benefits.’
 
@@ -50,7 +48,7 @@ And this is before we even think about the climate impact. Even in the face of c
 
 Yet we ignore the reality because we want our holidays. But not flying doesn't mean not travelling. There are many other means by which to see the world. Overland methods can give a greater and more authentic travel experience than flying: going slow is good for the soul, and you learn far more about how landscapes and cultures connect when you travel overland.
 
-So is ‘flight-shame’ really misplaced?
+**So is ‘flight-shame’ really misplaced?**
 
 It’s a little surprising (and disheartening) to see a climate change correspondent so unaware that aviation forms the biggest part of our western footprints. Could the answer lie in the admission, ‘I fly a lot’? It’s easy to dismiss a social stigma if it doesn’t serve your purpose. We, quite naturally, feel protective over our comfortable lives, and resist any suggestions that they should change. We feel good because we do the easy stuff, but we need to do so much more. Yes, changing our diet would significantly reduce our CO2 emissions as well as freeing up land for things like carbon capture. Yes, driving less would benefit our local air quality as well as global emissions. Yes, buying less, consuming less, wasting less, shopping local – these are all things that would make meaningful differences. But we cannot ignore the fact that flights are equal to, and bigger than, most of these things. 
 
@@ -61,7 +59,5 @@ But the very fact that it's getting the conversation out there can only be a goo
 The truth is, the climate crisis is the most significant challenge humanity has ever faced. It’s not a side-issue, it’s THE issue. We cannot justify the mass burning of fossil fuels purely to satisfy our wanderlust, as if everything is OK. It’s not OK.
 
 But neither does this spell the end for travel. It’s simply time to rethink it. Travel isn't about how far you go, it's about what you do when you get there. And there are plenty of ways to live and travel, even thrive, without flying.
-
-
 
 _\*emissions data from flightemissionmap.org_
