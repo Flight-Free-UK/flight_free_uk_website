@@ -19,7 +19,7 @@ We were really looking forward to clarifying some of the issues in the article, 
 
 The main crux of the argument is that...
 
-> **"Aviation accounts for 2% of global emissions.**
+> **"Aviation accounts for 2% of global emissions**
 >
 > _~ much less than agriculture, forestry and other land use (around 25%) and electricity and heat production (also around 25%), and the global fashion industry (8%)."_
 
@@ -39,7 +39,7 @@ If you fly to a holiday resort on the Caspian Sea, the 1.5 tonnes you saved by g
 
 The second argument in the article is 
 
-> **"The 2% of global emissions happens in return for extraordinary benefits.**
+> **"The 2% of global emissions happens in return for extraordinary benefits**
 >
 > _~ not just individuals being able to go on holiday and to see friends and family \[but] the rapid movement of people and goods in an interconnected world, and all of the cultural, social and economic benefits that come with that."_
 
