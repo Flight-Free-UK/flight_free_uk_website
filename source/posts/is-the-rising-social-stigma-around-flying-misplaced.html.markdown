@@ -17,7 +17,7 @@ We were really looking forward to clarifying some of the issues in the article, 
 
  So we’re going to publish our half of the debate here. 
 
-The main crux of the argument is that...
+The article argues that:
 
 > **"Aviation accounts for 2% of global emissions**
 >
