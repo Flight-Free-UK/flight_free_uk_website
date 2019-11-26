@@ -17,12 +17,12 @@ We were really looking forward to clarifying some of the issues in the article, 
 
  So we’re going to publish our half of the debate here. 
 
-The main crux of the argument is that
+The main crux of the argument is that...
 
 > **"Aviation accounts for 2% of global emissions.**\
 > _~ much less than agriculture, forestry and other land use (around 25%) and electricity and heat production (also around 25%), and the global fashion industry (8%)."_
 
-so it can’t be that bad.
+...so it can’t be that bad.
 
 This common statistic is often used to demonstrate that the impact of flying is lower than other parts of our lifestyles. But it's misleading. The stats are such because we all feed ourselves, heat our homes and clothe ourselves, but not everyone files. Indeed, earlier in the article it's acknowledged that only a small proportion of the world’s population actually flies – [less than 10%](http://afreeride.org/about/), according to most sources. In the UK, [less than half of us fly in any given year](http://afreeride.org/about/). But for those who do fly, the effect on your carbon footprint is massive. 
 
