@@ -4,7 +4,7 @@ category: opinion
 date: 2019-11-14T09:48:33.092Z
 cover_image: /images/uploads/bristol-airport.jpg
 summary: >-
-  Luca Samara explores the difference between people's attitude towards climate
+  Luca Samara explores the contradiction in people's attitude towards climate
   change and their flying habits. 
 author: FlightFree UK
 read_time_minute: 2
