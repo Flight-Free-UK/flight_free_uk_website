@@ -19,7 +19,8 @@ We were really looking forward to clarifying some of the issues in the article, 
 
 The main crux of the argument is that...
 
-> **"Aviation accounts for 2% of global emissions.**\
+> **"Aviation accounts for 2% of global emissions.**
+>
 > _~ much less than agriculture, forestry and other land use (around 25%) and electricity and heat production (also around 25%), and the global fashion industry (8%)."_
 
 ...so it can’t be that bad.
@@ -28,8 +29,7 @@ This common statistic is often used to demonstrate that the impact of flying is 
 
 Let’s start with food. 
 
-Eating a plant based diet saves around 0.8 tonnes a year, according to [Lund University stats](https://www.lunduniversity.lu.se/article/the-four-lifestyle-choices-that-most-reduce-your-carbon-footprint). We calculate it as around 1.5 tonnes, based on [this article](https://www.vox.com/2014/7/2/5865109/study-going-vegetarian-could-cut-your-food-carbon-footprint-in-half) \
-_(meat-heavy diet = 15.8 lbs/7.11kg CO2-eq per day, which is 2.595 tonnes per year. Vegan diet = 6.4lb/2.88kg CO2-eq per day, so 1.051 tonnes per year, giving a 1.544 tonne saving)_
+Eating a plant based diet saves around 0.8 tonnes a year, according to [Lund University stats](https://www.lunduniversity.lu.se/article/the-four-lifestyle-choices-that-most-reduce-your-carbon-footprint). We calculate it as around 1.5 tonnes, based on [this article](https://www.vox.com/2014/7/2/5865109/study-going-vegetarian-could-cut-your-food-carbon-footprint-in-half) _(meat-heavy diet = 15.8 lbs/7.11kg CO2-eq per day, which is 2.595 tonnes per year. Vegan diet = 6.4lb/2.88kg CO2-eq per day, so 1.051 tonnes per year, giving a 1.544 tonne saving)_
 
 For transport and energy, going car free will save somewhere in the same region of 2.6 tonnes of CO2 per year (average mileage, average model), and buying green energy will save around 1.5 tonnes ([Lund University](https://www.lunduniversity.lu.se/article/the-four-lifestyle-choices-that-most-reduce-your-carbon-footprint) again).
 
@@ -39,7 +39,8 @@ If you fly to a holiday resort on the Caspian Sea, the 1.5 tonnes you saved by g
 
 The second argument in the article is 
 
-> **"The 2% of global emissions happens in return for extraordinary benefits.**\
+> **"The 2% of global emissions happens in return for extraordinary benefits.**
+>
 > _~ not just individuals being able to go on holiday and to see friends and family \[but] the rapid movement of people and goods in an interconnected world, and all of the cultural, social and economic benefits that come with that."_
 
 It depends on your definition of ‘benefits’. While there is no doubt that international travel has given us a huge amount in terms of social and cultural progress, we cannot ignore the downsides. We have shrunk the world to such an extent that we forget what a privilege it is to be able to travel so far, so fast. The number of ‘conscious’ travellers is very small compared to those who see the world as their playground. We sit on a beach with other Brits and drink cocktails. We might be charmed by the local culture, but do we genuinely interact with it? And what about over-tourism? Those cities that are overrun with hen and stag parties? Their residents would probably argue with our definition of ‘extraordinary benefits.’
