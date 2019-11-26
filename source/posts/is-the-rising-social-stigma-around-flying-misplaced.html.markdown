@@ -57,7 +57,7 @@ The term ‘flight-shame’, or ‘_flygskam_’, emerged in Sweden as a result 
 
 But the very fact that it's getting the conversation out there can only be a good thing. We are now starting to talk about aviation in the way that we spoke about veganism five years ago – not nearly enough, but we’re starting to get it. 
 
-The truth is, the climate crisis is the most significant challenge humanity has ever faced. It’s not a side-issue, it’s THE issue. We cannot justify the mass burning of fossil fuels purely to satisfy our wanderlust, as if everything is OK. It’s not OK.
+The truth is, the climate crisis is the most significant challenge humanity has ever faced. It’s not a side-issue, it’s THE issue. We cannot justify the mass burning of fossil fuels purely to satisfy our wanderlust, as if everything is OK. 
 
 But neither does this spell the end for travel. It’s simply time to rethink it. Travel isn't about how far you go, it's about what you do when you get there. And there are plenty of ways to live and travel, even thrive, without flying.
 
