@@ -31,7 +31,7 @@ Let’s start with food.
 
 Eating a plant-based diet saves around 0.8 tonnes carbon a year, according to [Lund University stats](https://www.lunduniversity.lu.se/article/the-four-lifestyle-choices-that-most-reduce-your-carbon-footprint). We calculate it as around 1.5 tonnes, based on [this article](https://www.vox.com/2014/7/2/5865109/study-going-vegetarian-could-cut-your-food-carbon-footprint-in-half) _(meat-heavy diet = 15.8 lbs/7.11kg CO2-eq per day, which is 2.595 tonnes per year. Vegan diet = 6.4lb/2.88kg CO2-eq per day, so 1.051 tonnes per year, giving a 1.544 tonne saving)_
 
-For transport and energy, going car free will save somewhere in the same region of 2.6 tonnes of CO2 per year (average mileage, average model), and buying green energy will save around 1.5 tonnes ([Lund University](https://www.lunduniversity.lu.se/article/the-four-lifestyle-choices-that-most-reduce-your-carbon-footprint) again).
+For transport and energy, going car free will save somewhere in the region of 2.6 tonnes of CO2 per year (average mileage, average model), and buying green energy will save around 1.5 tonnes ([Lund University](https://www.lunduniversity.lu.se/article/the-four-lifestyle-choices-that-most-reduce-your-carbon-footprint) again).
 
 So how do these relate to flights?
 
