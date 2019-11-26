@@ -33,6 +33,8 @@ For European meetings, try the train. If you do, I reckon you’ll do it again.
 
 _Martin is a glaciologist and Director of the Grantham Institute at Imperial College London. Read their list of ‘9 things you can do about climate change’_ [_here_](www.imperial.ac.uk/grantham/publications/9-things-you-can-do-about-climate-change.php)_._ 
 
-![](/images/uploads/martin-at-cologne-cathedral.jpg "A touch of sightseeing: Martin in Cologne")
-
 _\* Eurostar allows through-booking on its website for some onward journeys, which can be useful as it means if your first train is delayed and you miss your connection, you can get on the next one with no trouble._
+
+_For tips on booking overland travel in Europe, check out our blogs "_[_Trainsetting across Europe_](https://flightfree.co.uk/post/train-setting-across-europe/)_" and "_[_Travel tips for train first-timers_](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/)_"_
+
+![](/images/uploads/martin-at-cologne-cathedral.jpg "A touch of sightseeing: Martin in Cologne")
