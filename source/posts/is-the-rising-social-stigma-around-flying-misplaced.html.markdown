@@ -9,7 +9,7 @@ summary: >-
 author: FlightFree UK
 read_time_minute: 4
 ---
-Earlier this year we were asked to take part in a debate on Sky News about ‘flight shame' and if we really should be that worried about flying. The debate was in response to [this article](https://news.sky.com/story/sky-views-rising-social-stigma-around-flying-is-misplaced-11841632) written by the Sky News Climate change correspondent.
+Earlier this year we were asked to take part in a debate on Sky News about ‘flight shame' and if we really should be that worried about flying. The debate was in response to [this article](https://news.sky.com/story/sky-views-rising-social-stigma-around-flying-is-misplaced-11841632) written by the Sky News climate change correspondent.
 
 The article argues that there are bigger, more effective things we can do in terms of reducing our carbon emissions than stopping flying – especially as flying gives us so much, so the emissions are worth it because the benefits are so great.
 
