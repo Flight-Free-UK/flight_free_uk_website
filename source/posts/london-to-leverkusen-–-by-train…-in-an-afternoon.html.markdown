@@ -1,5 +1,5 @@
 ---
-title: London to Leverkusen – by train… in an afternoon.
+title: London to Leverkusen by train… in an afternoon
 category: travel
 date: 2019-11-06T11:22:57.786Z
 cover_image: /images/uploads/cologne.jpg
