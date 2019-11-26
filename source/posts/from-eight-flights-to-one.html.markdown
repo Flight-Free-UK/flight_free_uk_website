@@ -35,4 +35,4 @@ What I have learnt from this year:
 6. You can say no to friends who want you to join them abroad without feeling embarrassed and it helps if you have already explained your travel commitment/pledge. In a time of climate emergency, it is ok to be open and upfront about your own actions to combat climate change – you are not forcing them to change. 
 7. Making a commitment is important as it gave me determination through the challenging times on my non-fly journeys BUT sometimes you need to cut yourself some slack.
 
-![](/images/uploads/christinebell.jpg "Plenty of space and a great view on the Holyhead-Dublin ferry")
+![](/images/uploads/christinebell.jpg "Plenty of leg room and a great view on the Holyhead-Dublin ferry")
