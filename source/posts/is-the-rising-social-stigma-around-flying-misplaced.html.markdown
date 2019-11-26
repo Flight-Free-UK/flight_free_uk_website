@@ -4,8 +4,8 @@ category: climate
 date: 2019-11-26T13:48:27.355Z
 cover_image: /images/uploads/flightradar.jpg
 summary: >-
-  We take a look at the carbon footprint of flying compared to other actions,
-  and ask if not flying spells the end for international travel
+  We take a look at the carbon footprint of flying compared to other actions and
+  ask if, by not flying, we miss out on the benefits of travel
 author: FlightFree UK
 read_time_minute: 4
 ---
