@@ -25,7 +25,7 @@ The article argues that:
 
 ...so it can’t be that bad.
 
-This common statistic is often used to demonstrate that the impact of flying is lower than other parts of our lifestyles. But it's misleading. The stats are such because we all feed ourselves, heat our homes and clothe ourselves, but not everyone files. Indeed, earlier in the article it's acknowledged that only a small proportion of the world’s population actually flies – [less than 10%](http://afreeride.org/about/), according to most sources. In the UK, [less than half of us fly in any given year](http://afreeride.org/about/). But for those who do fly, the effect on your carbon footprint is massive. 
+This common statistic is often used to demonstrate that the impact of flying is lower than other parts of our lifestyles. But it's misleading. The stats are such because we all feed ourselves, heat our homes and clothe ourselves, but not everyone flies. Indeed, earlier in the article it's acknowledged that only a small proportion of the world’s population actually flies – [less than 10%](http://afreeride.org/about/), according to most sources. In the UK, [less than half of us fly in any given year](http://afreeride.org/about/). But for those who do fly, the effect on your carbon footprint is massive. 
 
 Let’s start with food. 
 
