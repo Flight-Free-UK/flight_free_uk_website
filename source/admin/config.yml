@@ -3,6 +3,9 @@ backend:
 
 media_folder: source/images/uploads
 public_folder: /images/uploads
+slug:
+  encoding: "ascii"
+  clean_accents: true
 
 collections:
   - name: blog
@@ -11,7 +14,7 @@ collections:
     extension: .html.markdown
     format: frontmatter
     create: true
-    slug: '{{title}}'
+    slug: '{{slug}}'
     fields:
       - {label: Title, name: title, widget: string}
       - {label: Category, name: category, widget: select, options: [{label: "Climate", value: climate}, {label: "Opinion", value: opinion},  {label: "Travel", value: travel}, {label: "One of the 100,000", value: one_of_the_100000}, {label: "Flight Free 2020", value: flight_free_2020}] }
