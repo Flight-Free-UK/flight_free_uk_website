@@ -2,7 +2,7 @@
 title: Adventure begins at home
 category: travel
 date: 2020-07-01T16:00:56.102Z
-cover_image: /images/uploads/0debf8_4e7ed2d54a3d4d0bbb26592c5950f4ca_mv2-1-.webp
+cover_image: /images/uploads/alastairhumphreys.jpg
 summary: >-
   Renowned adventurer Alastair Humphreys' many adventures include cycling around
   the world, rowing the Atlantic, and walking the Empty Quarter desert. But on a
@@ -26,3 +26,5 @@ Travel experiences often distil to the memories of the human encounters along th
 I had been curious whether I could have a genuine “travel” experience — a memorable journey — without flying half way around the world. Could a mere month pedalling in my home county in any way replicate the years I spent cycling across continent after continent? The answer to these questions was a resounding ‘yes’.
 
 Eventually, and somewhat reluctantly, came the final miles of the journey. I had zig-zagged from the north-east coast down to the Humber bridge, from West Yorkshire to Tan Hill (Britain’s highest pub) on the Cumbrian border. And now I was circling back towards home, down into the dales and villages that I knew so well from growing up. I cycled the bridleways where I first dabbled with off-road cycling as a boy. I passed the pub I used to work in, my old school. The memories lay thick all around me. Until, at last, I arrived at the house I grew up in, the house where my parents still live today. As it was when I completed my round the world cycle, the end of my adventure was to arrive back home and sit down for a nice cup of tea — Yorkshire Tea, of course.
+
+![](/images/uploads/alhumphreys3.jpg)
