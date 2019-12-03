@@ -25,7 +25,7 @@ For example, with Leeds, the city council has set targets for emissions not to e
 
 By 2030, the climate impact of flights to and from LBA alone would be twice the target emissions for the whole of Leeds. Even if passenger numbers remained at their current levels, LBA flights would take up the entire carbon budget by 2050. The only scenario in which flying can be compatible with climate targets is if passenger numbers fall drastically. 
 
-![]()
+![](/images/uploads/lba.jpg)
 
 Airlines talk about carbon neutral growth and net zero emissions, but what does that actually mean? These targets rely heavily on offsetting, a solution that tries to buy our way out of the problem by funding measures to reduce emissions elsewhere _instead_ of reducing our own emitting activities, when what needs to happen is absolutely _both_. And technological advances won’t make anything close to current (let alone increased) levels of flying in any way sustainable, either: the pace of technological progress, let alone the pace of new technologies penetrating the whole fleet of aircraft, is much too slow for reducing emissions at anything like the rate that is needed (and is currently totally outpaced by growing passenger numbers). 
 
