@@ -2,14 +2,14 @@
 title: Flying in the face of the climate emergency
 category: climate
 date: 2019-12-03T14:11:15.336Z
-cover_image: /images/uploads/airport-expansion.png
+cover_image: /images/uploads/73325818_2364153917166774_218201441196572672_o.jpg
 summary: >-
   Jefim Vogel, researcher at Leeds University, shows how declaring climate
   emergency is not compatible with airport expansion.
 author: FlightFree UK
 read_time_minute: 3
 ---
-“The world may finally be waking to the reality of the climate and ecological crisis,” writes Jefim Vogel, Joel Millward-Hopkins and Yannick Oswald in [The Conversation](https://theconversation.com/we-cant-expand-airports-after-declaring-a-climate-emergency-lets-shift-to-low-carbon-transport-instead-120740). “But while the UK Parliament has declared a climate and ecological emergency, ongoing plans for airport expansions suggest we’re flying full-speed towards crisis rather than away from it.” 
+“The world may finally be waking to the reality of the climate and ecological crisis,” writes Jefim Vogel and co. in [The Conversation](https://theconversation.com/we-cant-expand-airports-after-declaring-a-climate-emergency-lets-shift-to-low-carbon-transport-instead-120740). “But while the UK Parliament has declared a climate and ecological emergency, ongoing plans for airport expansions suggest we’re flying full-speed towards crisis rather than away from it.” 
 
 So what is the climate crisis, and what does it mean for our future? Global temperatures have been rising steadily since the Industrial Revolution 250 years ago, and in the past couple of decades have increased dramatically. This is largely due to the rising concentration of carbon dioxide in the atmosphere, which in the last 100 years has shot up above and (far) beyond the range of “natural” levels during the past million years. 
 
