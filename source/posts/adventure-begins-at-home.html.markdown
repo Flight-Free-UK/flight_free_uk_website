@@ -1,7 +1,7 @@
 ---
 title: Adventure begins at home
 category: travel
-date: 2019-12-07T17:00:56.102Z
+date: 2020-07-01T16:00:56.102Z
 cover_image: /images/uploads/0debf8_4e7ed2d54a3d4d0bbb26592c5950f4ca_mv2-1-.webp
 summary: >-
   Renowned adventurer Alastair Humphreys' many adventures include cycling around
