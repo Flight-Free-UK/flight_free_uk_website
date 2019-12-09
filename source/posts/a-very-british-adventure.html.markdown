@@ -4,8 +4,8 @@ category: travel
 date: 2019-12-09T09:10:02.530Z
 cover_image: /images/uploads/roundbritainbike.jpg
 summary: >-
-  Does the adventure of a lifetime have to mean a flight? Not necessarily, says
-  Anna Hughes, who found adventure without leaving these shores.
+  Does adventure have to involve a flight? Not necessarily, says Anna Hughes,
+  who went on the adventure of a lifetime without leaving Britain.
 author: FlightFree UK
 read_time_minute: 4
 ---
