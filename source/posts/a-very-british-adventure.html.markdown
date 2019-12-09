@@ -5,7 +5,7 @@ date: 2019-12-09T09:10:02.530Z
 cover_image: /images/uploads/roundbritainbike.jpg
 summary: >-
   Does the adventure of a lifetime have to mean a flight? Not necessarily, says
-  Anna Hughes, who spent three months cycling around the coast of Britain.
+  Anna Hughes, who found adventure without leaving these shores.
 author: FlightFree UK
 read_time_minute: 4
 ---
