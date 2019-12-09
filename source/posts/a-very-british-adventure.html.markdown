@@ -23,4 +23,4 @@ I arrived back in London after two and a half months on the road and more than 4
 
 Most significantly, it cemented the idea that adventure is what you make of it, not where you go. It doesn’t have to involve somewhere far away. Adventure is about broadening our horizons, but that can mean anywhere – even in the country in which we were born. For me, it was about finding the extraordinary in the ordinary, and it certainly did that; I absolutely fell in love with Britain, and know that there is still as much to discover as I have already seen. We tend to overlook what's under our noses, but it's a truly fascinating, varied and exciting island we live on. 
 
-_Anna Hughes is author of Eat Sleep Cycle: a bike ride around the coast of Britain. Read more on her website:_ [_annacycles.co.uk_](http://annacycles.co.uk)__
+_Anna Hughes is author of Eat Sleep Cycle: a bike ride around the coast of Britain. Read more on her website:_ [_annacycles.co.uk_](http://annacycles.co.uk)
