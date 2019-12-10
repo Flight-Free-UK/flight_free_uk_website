@@ -38,8 +38,6 @@ _"The starling murmurations are easily in the top three wildlife spectacles in t
 
 _"When you see it at its best: 3 million starlings in the sky. You can never predict what they’re going to do. Sometimes they go straight down and it's over relatively quickly, sometimes it’s the most elaborate display, sometimes the sky works in your favour, but it’s always different. I’ve watched the starling murmurations in excess of 100 times and they’re never the same."_
 
-It's not something we would go specifically to see though, is it? You might say, I'm going to Iceland to see the Northern Lights, but you wouldn't say, I'm going to Gloucestershire to see the starling murmurations. It's not really on the list. It should be on the list!
-
 _"You can see murmurations all over the place – it's what London's Leicester Square used to be famous for. They've put spikes up now though because 3 million starlings are going to cause a lot of mess. But out in the countryside it's different."_
 
 We spoke about Iain’s passionate about making nature accessible for all, not an elitist thing, and not necessarily something that you go out and ‘do’ on a Sunday. That’s one of the reasons why nature parks in cities are so important, because it encourages nature to be part of our lives.
