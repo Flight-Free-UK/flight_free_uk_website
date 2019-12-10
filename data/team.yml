@@ -87,14 +87,6 @@ members:
     photo: /images/uploads/75233447_1259861104222756_7085839879619215360_n.jpg
     role: Admin
   - bio: >-
-      An English literature graduate from the University of Edinburgh, Lataetia
-      now lives in Glasgow and joins our team as Press officer. She's motivated
-      by making a better world for us to live in and for young people to
-      inherit, and brings her energy and enthusiasm to creating change.
-    name: Lataetia Mcevilly-Duncan
-    photo: /images/uploads/lataetia.jpg
-    role: Press officer
-  - bio: >-
       Originally from Germany, Leah completed postdoctorate degrees in both
       Dresden and Oxford. After leading a team of biomedical researchers at the
       University of Edinburgh for the past four years, the urgency of the
@@ -103,14 +95,6 @@ members:
     name: Leah Herrgen
     photo: /images/uploads/herrgen_leah_008c.jpg
     role: Edinburgh team
-  - bio: >-
-      Raised bilingual with family in Italy and England, Luca’s biggest
-      challenge is persuading his mum not to fly! With degrees in French,
-      Portuguese and International relations, Luca has a great understanding of
-      the international world, and manages our team in Bristol.
-    name: Luca Samara
-    photo: /images/uploads/photo-on-15-10-2019-at-15.37-2.jpg
-    role: Bristol coordinator
   - bio: >-
       Maria lives in San Sebastian in northern Spain, and stopped flying several
       years ago because of concern for the type of world her son would inherit.
@@ -144,3 +128,13 @@ members:
     name: Pippi Durie
     photo: /images/uploads/67117446_2290854451163388_9058890315724750848_n.jpg
     role: Admin
+  - bio: >-
+      Roger has worked as Corporate Outreach Manager for two highly successful
+      vegan charities and has a passion for sustainability in all its forms. He
+      recently celebrated over three decades of veganism by cycling from Land’s
+      End to John o’ Groats in just nine days. He campaigns for the Green Party
+      in Cambridge, where he lives, and brings his expertise to our Comms
+      Department. 
+    name: Roger Roberts
+    photo: /images/uploads/roger-roberts-1-1-.jpg
+    role: Corporate Outreach Manager
