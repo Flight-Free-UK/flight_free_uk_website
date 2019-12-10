@@ -10,7 +10,7 @@ summary: >-
 author: FlightFree UK
 read_time_minute: 4
 ---
-We welcome Iain Green, renowned wildlife photographer, to our podcast interview series. You can listen to the podcast interview and find the full series on our Soundcloud page [here](https://soundcloud.com/info-728724237).
+We welcome Iain Green, renowned wildlife photographer, to our podcast interview series. You can listen to the podcast interview [here](https://soundcloud.com/info-728724237/iain-green) and find the full series on our Soundcloud page [here](https://soundcloud.com/info-728724237).
 
 Our conversation takes place in the Greenwich ecology park, one of Iain’s favourite places. It’s a small nature reserve on the North Greenwich peninsula, right next to the O2 arena and the Thames, and feels very peaceful and secluded despite being so close to some very busy parts of London. 
 
@@ -47,3 +47,5 @@ We spoke about Iain’s passionate about making nature accessible for all, not a
 _"Greenwich ecology park is one of my favourite places. It has that essence of what nature should be. You can come and go, spend 5 minutes or an hour, you can look at stuff or simply walk around. It has a tranquility, even though there's City Airport in the background, and we've got Police sirens and somebody opera singing in the nearby flats, but that's the quirkiness of it."_
 
 You can find out more about Iain at his website, [www.wildlifewonder.co.uk](http://www.wildlifewonder.co.uk), and you can find his book, Wild London, on Amazon.
+
+Listen to the full interview on our Podcast page [here](https://soundcloud.com/info-728724237/iain-green).
