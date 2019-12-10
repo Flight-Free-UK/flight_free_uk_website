@@ -40,7 +40,7 @@ _"When you see it at its best: 3 million starlings in the sky. You can never pre
 
 _"You can see murmurations all over the place – it's what London's Leicester Square used to be famous for. They've put spikes up now though because 3 million starlings are going to cause a lot of mess. But out in the countryside it's different."_
 
-We spoke about Iain’s passionate about making nature accessible for all, not an elitist thing, and not necessarily something that you go out and ‘do’ on a Sunday. That’s one of the reasons why nature parks in cities are so important, because it encourages nature to be part of our lives.
+We spoke about Iain’s passion for making nature accessible for all, not an elitist thing, and not necessarily something that you go out and ‘do’ on a Sunday. That’s one of the reasons why nature parks in cities are so important, because it encourages nature to be part of our lives.
 
 _"Greenwich ecology park is one of my favourite places. It has that essence of what nature should be. You can come and go, spend 5 minutes or an hour, you can look at stuff or simply walk around. It has a tranquility, even though there's City Airport in the background, and we've got Police sirens and somebody opera singing in the nearby flats, but that's the quirkiness of it."_
 
