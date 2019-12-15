@@ -11,14 +11,17 @@
 
   <% description = "Flight climate change: make the pledge to be flight free in 2020" %>
   <meta name="description" content="<%= description %>"/>
-  <meta property="og:description" content="<%= description %>"/>
+  <meta property="og:description" content="<%= current_article ? current_article.data.summary : description %>"/>
 
-  <meta property="og:type" content="website"/>
-  <meta property="og:image" content="/images/anna_with_poster.png"/>
-  <meta property="og:image:alt" content="<%= description %>"/>
+  <meta property="og:type" content="<%= current_article ? "article" : "website" %>"/>
+  <meta property="og:image" content="<%= current_article ? image_path(current_article.data.cover_image) : "/images/anna_with_poster.png" %>"/>
+  <meta property="og:image:alt" content="<%= current_article ? current_article.data.summary : description %>"/>
 
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="<%= data.social_media.twitter %>" />
+  <meta name="twitter:title" content="<%= current_article ? current_article.title : title %>" />
+  <meta name="twitter:description" content="<%= current_article ? current_article.data.summary : description %>" />
+  <meta name="twitter:image" content="<%= current_article ? image_path(current_article.data.cover_image) : "/images/anna_with_poster.png" %>" />
 
   <%= stylesheet_link_tag "styles" %>
   <%= javascript_include_tag "https://unpkg.com/micromodal/dist/micromodal.min.js" %>
