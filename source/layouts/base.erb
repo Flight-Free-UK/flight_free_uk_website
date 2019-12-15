@@ -7,7 +7,7 @@
 
   <% title = [current_page.data.title, "FlightFree UK"].compact.uniq.join(" | ") %>
   <title><%= title %></title>
-  <meta property="og:title" content="<%= title %>"/>
+  <meta property="og:title" content="<%= current_article ? current_article.title : title %>"/>
 
   <% description = "Flight climate change: make the pledge to be flight free in 2020" %>
   <meta name="description" content="<%= description %>"/>
