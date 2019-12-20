@@ -1,7 +1,7 @@
 ---
 title: Hitting the slopes by coach
 category: travel
-date: 2019-08-07T12:07:48.808Z
+date: 2019-12-18T13:07:48.808Z
 cover_image: /images/uploads/ski-post-photo.jpg
 summary: >-
   Heather Mack tells us how travelling by coach to ski resorts across Europe
