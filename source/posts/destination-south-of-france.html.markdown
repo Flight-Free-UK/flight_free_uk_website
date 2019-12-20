@@ -88,8 +88,6 @@ After walking, cycling is the purest form of travel. I do a lot of thinking on t
 
 In Hendaye I rented an apartment for a week to rest before the mountain challenge. After finishing on the Mediterranean coast (459 miles completed in 86 hours!) I was dropped off in mid France and spent a week in a rented house with some friends. From there I took the train to Paris, another to Caen, then cycled to the overnight ferry back to the UK.
 
-\[+ pics]
-
 **Deborah Tomkins, Bristol to Nice**
 
 I was attending a conference at the A Rocha centre of Les Courmettes, about a half hour bus ride from Nice, up in the mountains.
