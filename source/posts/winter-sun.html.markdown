@@ -1,7 +1,7 @@
 ---
 title: Winter Sun
 category: flight_free_2020
-date: 2019-08-21T00:00:00.000Z
+date: 2019-12-23T01:00:00.000Z
 cover_image: /images/uploads/edxn1guu0aa_zva.jpeg
 summary: >-
   Paul Powlesland, founder of Lawyers for Nature and once-frequent winter
