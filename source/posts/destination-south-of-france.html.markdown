@@ -14,13 +14,13 @@ read_time_minute: 5
 
 We were so pleased that we booked our half term ski trip by train (using [loco2.com](http://loco2.com), now Rail Europe). It cost more than flying – over twice as much – but that’s more of a result of a lack of taxes on flying than the train company’s fault. It’s not a level playing field.
 
-Travelling from Glasgow, we had to go to London the night before, which added extra travel time and the cost of overnight accommodation. If you lived in London it would be a no-brainer. But I persuaded the kids that the travelling was part of the trip, which it is, and the train down from Scotland was quick and easy.
+Travelling from Glasgow we had to go to London the night before, which added extra travel time and the cost of overnight accommodation. If you lived in London it would be a no-brainer. But I persuaded the kids that the travelling was part of the trip, which it is, and the train down from Scotland was quick and easy.
 
 Initially the kids were put off by the thought of the long journey by train, and missing out on the perceived glamour of flying. But flying isn’t really that glamorous, with long check-in times at airports, and being crammed into a small seat. The train was fantastic: so much legroom, great café on board, no hassles and better customer service. You could see the countryside flash by at 270 kmh and we chatted to the French families sitting across the table from us. My daughter said afterwards, “The train was actually quite good..”, which counts as high praise from a teenager!
 
 I’ve written to the Scottish Government asking that they look into supporting direct trains from Glasgow and Edinburgh to Paris. That would really open up non-flying travel opportunities for Scots. The Scottish Transport Minister did write back to me saying that one of the reasons that sleeper trains from Scotland to Paris and beyond were impractical was due to competition from ‘low cost airlines.’ A frustrating and ludicrous response given that airport tax is a devolved matter that the Scottish Government could change and therefore tip the balance in favour of the train. Hopefully they’ll be reviewing this. But as for the actual travel, I much preferred it over flying, not just because of the emission reduction, but because it was fun.
 
-\[+ pics]
+![](/images/uploads/tom-barbour.jpeg "Tom Barbour visits the on-board cafe with his daughter ")
 
 **Sandy Robertson, London to Juan les Pins**
 
@@ -32,13 +32,11 @@ The queue for the Eurostar was a bit of a crush but we were through passport con
 
 The Eurostar return for two adults and two under-fours (including child seat for toddler which made it much more comfortable but isn’t required) was £398. It cost us £8.60 to get to St Pancras, and a further £117.06 for the Marseille-Juan Les Pins return. Total £523.66 return – which would have been cheaper had I remembered to book earlier!
 
-\[+pics]
+![](/images/uploads/sandy.jpg "Sandy and family at the station")
 
 **Ruth Hancock, Devon to Pyrenees**
 
-My partner and I go to the Pyrenees for walking every summer. The Pyrenees are higher, warmer, drier and more dramatic in places than Scotland, where we go each spring – although Scotland is fantastic in other ways.
-
-From Devon it takes about three hours to get to London, then we go by Eurostar to Paris, Tarbes on the TGV then up into the hills by smaller trains and buses. For more remote road access we find hitching pretty quick. We find the public transport in France is well joined up, with the trains and buses all being run in synchronicity by SNCF.
+My partner and I go to the Pyrenees every summer for a walking holiday. From Devon it takes about three hours to get to London, then we go by Eurostar to Paris, Tarbes on the TGV then up into the hills by smaller trains and buses. For more remote road access we find hitching pretty quick. We find the public transport in France is well joined up, with the trains and buses all being run in synchronicity by SNCF.
 
 We spend a couple of weeks backpacking, sometimes walking in and out of France and Spain a couple of times a day on the HRP (Haute Route Pyrenees) or using the GR 10 (French side route) or GR11 (Spanish side). We can do five or six nights wild camping, then drop down into a town for a shower at a campsite, a meal in a restaurant, and resupply with dry food for the next leg.
 
@@ -50,7 +48,7 @@ We’re thinking about going to Morocco before too long, as apparently they have
 
 We’re going to a wedding near Carcassonne, and didn’t want to fly because “Flying burns more oil!” says Lola (age 4). It looks like a nice place, so we thought we’d make a holiday of it.
 
-We’ve taken a fair few flights as a family (we lived in Zambia for two years), but are now trying to do all family holidays by ground travel only. So far, we’ve been by train/boat/bike to Denmark, Netherlands, Brussels, Italy, Isle of Man, Scotland (day and night trains) and Spain.
+We’ve taken a fair few flights as a family (we lived in Zambia for two years), but are now trying to do all family holidays by ground travel only. So far, we’ve been by train/boat/bike to Denmark, Netherlands, Belgium, Italy, Isle of Man, Scotland (day and night trains) and Spain.
 
 I want the government to actually stop ignoring the climate crisis. While I know our personal choices are only a small gesture (especially when flying is often cheaper), it feels better to be practicing what we preach. And in many ways it’s a much nicer way to travel.
 
@@ -61,8 +59,6 @@ Overall it’s much simpler than flying – less faff with liquids and scanners,
 Bryony (mum): Timings are important, so it’s nice to chose a train that fits with mealtimes (it’s a good way to pass an hour on the train). We also bring along some games/activities for the train.
 
 You have to make the journey part of the holiday, rather than something to endure like flying. It’s a different mindset. With that, Luca and I are off to the buffet car to get a drink…
-
-\[+pics]
 
 **Eve Hart, Lancashire to Avignon**
 
@@ -78,19 +74,19 @@ The seats on the Eurostar were large and comfortable, and with a table between u
 
 It’s only 27 miles from Ramsbottom to Manchester Airport and whilst we could still have seen the amazing Roman Pont du Gard, jumped in the pool, climbed up to Cathar Castles and paddled in the Herault river, we didn’t want to fly when there was an exciting alternative on offer. We so enjoyed our family time en route to France, and even with cancellations and delays on the way home, we’d certainly do it again.
 
-\[+ pics]
+![](/images/uploads/eve-hart.jpg "Eve Hart and family in Avignon")
 
-**Steve Masters, Newbury to Hendeye (Pyrenees)**
+**Steve Masters, Newbury to Hendaye (Pyrenees)**
 
 A friend and I had decided to take on a cycling challenge: *Raid Pyrenean,* a 450-mile ride across the mountains from the Atlantic coast to the Mediterranean. The challenge is to do it in less than 100 hours.
 
-There were a variety of options for getting to the start line in Hendeye and as I needed a holiday (and I would need to take my bike with me) I figured cycling down would be a nice way to do it.
+There were a variety of options for getting to the start line in Hendaye and as I needed a holiday (and I would need to take my bike with me) I figured cycling down would be a nice way to do it.
 
 From Newbury (West Berkshire) I cycled to Portsmouth to get the ferry to Cherbourg, which was the most cost-effective way of crossing the Channel. Over the next ten days I cycled south through France, between 45 and 97 miles per day, camping several times but also staying in B&Bs and with friends.
 
 After walking, cycling is the purest form of travel. I do a lot of thinking on the bike, and it is also at times meditative. Riding a touring bike is about finding a steady, modest pace. The landscape across France is extremely varied, from the rolling hills of Normandy to the flat western coastline in the Vendée region, and the vineyards around Bordeaux which give way to the vast forests north of the Gascogne. No other form of transport combines the speed and intimacy of the landscape like cycling.
 
-In Hendeye I rented an apartment for a week to rest before the mountain challenge. After finishing on the Mediterranean coast (459 miles completed in 86 hours!) I was dropped off in mid France and spent a week in a rented house with some friends. From there I took the train to Paris, another to Caen, then cycled to the overnight ferry back to the UK.
+In Hendaye I rented an apartment for a week to rest before the mountain challenge. After finishing on the Mediterranean coast (459 miles completed in 86 hours!) I was dropped off in mid France and spent a week in a rented house with some friends. From there I took the train to Paris, another to Caen, then cycled to the overnight ferry back to the UK.
 
 \[+ pics]
 
