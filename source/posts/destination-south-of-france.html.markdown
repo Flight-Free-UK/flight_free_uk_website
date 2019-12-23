@@ -101,3 +101,5 @@ From Newbury (West Berkshire) I cycled to Portsmouth to get the ferry to Cherbou
 After walking, cycling is the purest form of travel. I do a lot of thinking on the bike, and it is also at times meditative. Riding a touring bike is about finding a steady, modest pace. The landscape across France is extremely varied, from the rolling hills of Normandy to the flat western coastline in the Vendée region, and the vineyards around Bordeaux which give way to the vast forests north of the Gascogne. No other form of transport combines the speed and intimacy of the landscape like cycling.
 
 In Hendaye I rented an apartment for a week to rest before the mountain challenge. After finishing on the Mediterranean coast (459 miles completed in 86 hours!) I was dropped off in mid France and spent a week in a rented house with some friends. From there I took the train to Paris, another to Caen, then cycled to the overnight ferry back to the UK.
+
+![](/images/uploads/steve-masters-bike.jpg)
