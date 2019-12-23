@@ -42,7 +42,7 @@ The queue for the Eurostar was a bit of a crush but we were through passport con
 
 The Eurostar return for two adults and two under-fours (including child seat for toddler which made it much more comfortable but isn’t required) was £398. It cost us £8.60 to get to St Pancras, and a further £117.06 for the Marseille-Juan Les Pins return. Total £523.66 return – which would have been cheaper had I remembered to book earlier!
 
-![](/images/uploads/sandy.jpg "Sandy and family at the station")
+![](/images/uploads/sandy-pics.jpeg "Sandy and family at the station")
 
 **Rob Hughes, London to Carcassonne**
 
