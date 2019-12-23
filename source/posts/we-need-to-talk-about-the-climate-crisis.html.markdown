@@ -13,13 +13,13 @@ read_time_minute: 6
 
 I live in San Sebastian and have just been back to England for two months. In that time I tried to open a conversation about global warming with all my family and friends. I received the following responses:
 
-– Hippy!
-– It's nice that you have something you're passionate about.
-– Don't go on about this too much. People will just switch off.
-– You should never regret having your son (I was talking at the time about my fears for his future), he'll help to come up with solutions.
-– People just want to live a normal life. We can make changes if they don't affect our lifestyles.
-– What's the point in us doing anything when China's doing nothing and they're causing most of the emissions?
-– We're world leaders on climate change. We're already doing enough.
+* Hippy! 
+* It's nice that you have something you're passionate about.
+* Don't go on about this too much. People will just switch off. 
+* You should never regret having your son (I was talking at the time about my fears for his future), he'll help to come up with solutions. 
+* People just want to live a normal life. We can make changes if they don't affect our lifestyles. 
+* What's the point in us doing anything when China's doing nothing and they're causing most of the emissions?
+* We're world leaders on climate change. We're already doing enough.
 
 World leaders on climate change? Let's just address that for a minute: 97% of all our investments into energy projects in developing countries goes into fossil fuels, we're going ahead with Heathrow expansion despite declaring a climate crisis and we still haven't lifted the ban on onshore wind farms, even though a majority of the population are now in favour of them. We aren't doing too badly in terms of emissions at the moment (they fell by 2.5% last year) but there's a lot more we need to do.
 
@@ -27,8 +27,10 @@ What I think all these responses demonstrate is a massive discrepancy between th
 
 Let's take flying as a specific example of this lack of urgency. Here's what I heard when I tried to explain the effects of flying on global warming:
 
-– Yes, but travelling is a part of my lifestyle and I don't want to stop.
+– Yes, but travelling is a part of my lifestyle and I don't want to stop. 
+
 – Flying is cheap.
+
 – It would take me much longer to do the same journey by train, so why would I bother?
 
 ## Why should we be panicking?
