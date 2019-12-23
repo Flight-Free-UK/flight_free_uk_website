@@ -22,6 +22,16 @@ I’ve written to the Scottish Government asking that they look into supporting 
 
 ![](/images/uploads/tom-barbour.jpeg "Tom Barbour visits the on-board cafe with his daughter ")
 
+**Ruth Hancock, Devon to Pyrenees**
+
+My partner and I go to the Pyrenees every summer for a walking holiday. From Devon it takes about three hours to get to London, then we go by Eurostar to Paris, Tarbes on the TGV then up into the hills by smaller trains and buses. For more remote road access we find hitching pretty quick. We find the public transport in France is well joined up, with the trains and buses all being run in synchronicity by SNCF.
+
+We spend a couple of weeks backpacking, sometimes walking in and out of France and Spain a couple of times a day on the HRP (Haute Route Pyrenees) or using the GR 10 (French side route) or GR11 (Spanish side). We can do five or six nights wild camping, then drop down into a town for a shower at a campsite, a meal in a restaurant, and resupply with dry food for the next leg.
+
+We always travel on the top deck of the TGV, which makes it more exciting because there are better views. There’s loads of advice from ‘The Man in Seat 61’ ([seat61.com](http://seat61.com)) – he’s called that because any seat beyond 60 is upstairs on the TGV. It’s a very useful site for planning trips, and gives really helpful walk-through instructions including how to change trains and where to buy your Metro tickets. Rome to Rio is another useful site, if you turn off the plane option, although I find their bus info less reliable.
+
+We’re thinking about going to Morocco before too long, as apparently they have a good train system, and the Anti Atlas mountains would be nice for some mid-winter warmth.
+
 **Sandy Robertson, London to Juan les Pins**
 
 We travel to Juan Les Pins at least once a year as our family has a place there. We usually fly to Nice Côte d'Azur airport and hire a car but as a family we have been trying to reduce our impact on the planet, and our most recent step towards that goal has been to try to give up flying.
@@ -33,16 +43,6 @@ The queue for the Eurostar was a bit of a crush but we were through passport con
 The Eurostar return for two adults and two under-fours (including child seat for toddler which made it much more comfortable but isn’t required) was £398. It cost us £8.60 to get to St Pancras, and a further £117.06 for the Marseille-Juan Les Pins return. Total £523.66 return – which would have been cheaper had I remembered to book earlier!
 
 ![](/images/uploads/sandy.jpg "Sandy and family at the station")
-
-**Ruth Hancock, Devon to Pyrenees**
-
-My partner and I go to the Pyrenees every summer for a walking holiday. From Devon it takes about three hours to get to London, then we go by Eurostar to Paris, Tarbes on the TGV then up into the hills by smaller trains and buses. For more remote road access we find hitching pretty quick. We find the public transport in France is well joined up, with the trains and buses all being run in synchronicity by SNCF.
-
-We spend a couple of weeks backpacking, sometimes walking in and out of France and Spain a couple of times a day on the HRP (Haute Route Pyrenees) or using the GR 10 (French side route) or GR11 (Spanish side). We can do five or six nights wild camping, then drop down into a town for a shower at a campsite, a meal in a restaurant, and resupply with dry food for the next leg.
-
-We always travel on the top deck of the TGV, which makes it more exciting because there are better views. There’s loads of advice from ‘The Man in Seat 61’ ([seat61.com](http://seat61.com)) – he’s called that because any seat beyond 60 is upstairs on the TGV. It’s a very useful site for planning trips, and gives really helpful walk-through instructions including how to change trains and where to buy your Metro tickets. Rome to Rio is another useful site, if you turn off the plane option, although I find their bus info less reliable.
-
-We’re thinking about going to Morocco before too long, as apparently they have a good train system, and the Anti Atlas mountains would be nice for some mid-winter warmth.
 
 **Rob Hughes, London to Carcassonne**
 
@@ -76,18 +76,6 @@ It’s only 27 miles from Ramsbottom to Manchester Airport and whilst we could s
 
 ![](/images/uploads/eve-hart.jpg "Eve Hart and family in Avignon")
 
-**Steve Masters, Newbury to Hendaye (Pyrenees)**
-
-A friend and I had decided to take on a cycling challenge: *Raid Pyrenean,* a 450-mile ride across the mountains from the Atlantic coast to the Mediterranean. The challenge is to do it in less than 100 hours.
-
-There were a variety of options for getting to the start line in Hendaye and as I needed a holiday (and I would need to take my bike with me) I figured cycling down would be a nice way to do it.
-
-From Newbury (West Berkshire) I cycled to Portsmouth to get the ferry to Cherbourg, which was the most cost-effective way of crossing the Channel. Over the next ten days I cycled south through France, between 45 and 97 miles per day, camping several times but also staying in B&Bs and with friends.
-
-After walking, cycling is the purest form of travel. I do a lot of thinking on the bike, and it is also at times meditative. Riding a touring bike is about finding a steady, modest pace. The landscape across France is extremely varied, from the rolling hills of Normandy to the flat western coastline in the Vendée region, and the vineyards around Bordeaux which give way to the vast forests north of the Gascogne. No other form of transport combines the speed and intimacy of the landscape like cycling.
-
-In Hendaye I rented an apartment for a week to rest before the mountain challenge. After finishing on the Mediterranean coast (459 miles completed in 86 hours!) I was dropped off in mid France and spent a week in a rented house with some friends. From there I took the train to Paris, another to Caen, then cycled to the overnight ferry back to the UK.
-
 **Deborah Tomkins, Bristol to Nice**
 
 I was attending a conference at the A Rocha centre of Les Courmettes, about a half hour bus ride from Nice, up in the mountains.
@@ -99,3 +87,17 @@ I would definitely recommend overnight train travel – I’ve done this probabl
 We arrived in Nice very early in the morning as the sun was rising. It was amazing to wake up to the mountains and the sea. Some of the other people attending the conference had taken the same train and we found a cafe for breakfast in Nice old town, then parked ourselves on the beach for a couple of hours with our baggage while we waited for the bus transfer.
 
 My family and friends were astonished that I travelled in this way. It would have taken less than two hours from Bristol airport (plus the waiting around, of course, and travel to and from both airports), and they clearly couldn’t understand why I would waste time travelling. But as well as the carbon emissions being so much lower, I have found that slow travel is a great way to get a feel of a place and the people, and to get a sense of how far away somewhere really is. There’s a world of difference between Bristol and Nice, and the difference unfolded gradually.
+
+**Steve Masters, Newbury to Hendaye (Pyrenees)**
+
+*Finally, we hear from Steve. If you want low-carbon travel, look no further than the bicycle! Steve crossed the channel by ferry – always an exciting way to cross the sea, and certainly the easiest if you're travelling with a bike.* 
+
+A friend and I had decided to take on a cycling challenge: *Raid Pyrenean,* a 450-mile ride across the mountains from the Atlantic coast to the Mediterranean. The challenge is to do it in less than 100 hours.
+
+There were a variety of options for getting to the start line in Hendaye and as I needed a holiday I figured cycling down would be a nice way to do it.
+
+From Newbury (West Berkshire) I cycled to Portsmouth to get the ferry to Cherbourg, which was the most cost-effective way of crossing the Channel. Over the next ten days I cycled south through France, between 45 and 97 miles per day, camping several times but also staying in B&Bs and with friends.
+
+After walking, cycling is the purest form of travel. I do a lot of thinking on the bike, and it is also at times meditative. Riding a touring bike is about finding a steady, modest pace. The landscape across France is extremely varied, from the rolling hills of Normandy to the flat western coastline in the Vendée region, and the vineyards around Bordeaux which give way to the vast forests north of the Gascogne. No other form of transport combines the speed and intimacy of the landscape like cycling.
+
+In Hendaye I rented an apartment for a week to rest before the mountain challenge. After finishing on the Mediterranean coast (459 miles completed in 86 hours!) I was dropped off in mid France and spent a week in a rented house with some friends. From there I took the train to Paris, another to Caen, then cycled to the overnight ferry back to the UK.
