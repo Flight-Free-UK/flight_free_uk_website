@@ -1,7 +1,7 @@
 ---
 title: 'Podcast series episode 1: New Year''s Resolutions'
 category: flight_free_2020
-date: 2020-01-08T07:19:20.405Z
+date: 2020-01-06T07:19:20.405Z
 cover_image: /images/uploads/maja-rosen.jpg
 summary: >-
   The first episode of our new podcast series features an interview with Maja
