@@ -10,7 +10,7 @@ summary: >-
 author: FlightFree UK
 read_time_minute: 6
 ---
-*Our [January episode](https://flightfree.co.uk/podcast/) is all about New Year’s Resolutions, so our conversation is with Maja Rosén, whose New Year's resolution two years ago inspired her to start the flight free campaign in Sweden, which asked 100,000 Swedes to take a year off flying, and led to the creation of flight free campaigns here in the UK and beyond.*
+*Our [January episode](https://flightfree.co.uk/podcast/) is all about New Year’s Resolutions, so our conversation is with Maja Rosén, whose New Year's resolution two years ago inspired her to start the flight free campaign in Sweden, which asked 100,000 Swedes to take a year off flying, and led to the creation of flight free campaigns here in the UK and beyond. You can listen to the full interview on our [podcast](https://flightfree.co.uk/podcast/) page.*
 
 *Maja wrote a [blog](https://flightfree.co.uk/post/the-best-new-years-resolution-ever/) for us explaining how her New Year’s resolution to dare to be socially inconvenient and talk about flying and the climate crisis was the best resolution she ever made, and the only one she’s ever kept. We’ve worked closely with Maja throughout the past year and we’re always so inspired to speak to her and hear how the whole thing started.*
 
