@@ -24,3 +24,5 @@ I agree that large-scale change needs to be driven by corporate and governmental
 Personally, I can’t handle the hypocrisy of campaigning against climate change while continuing to commit one of the biggest environmental sins out there. It’s going to be a life-changer, but I’m hoping that I won’t end up in the dole queue. Already, I’ve got a couple of plane-free press trips lined up for 2020. The PRs in charge of organising them weren’t remotely surprised when I asked to travel by train. I had the feeling that I wasn’t the first journalist to pop the question. My husband I have another plan in the pipeline too, involving an electric van, a year’s sabbatical and some cross-continental slow travel. Who knows, perhaps this no-flying business might open up some new opportunities.
 
 I can’t promise that I’ll never get on a plane again. Perhaps my resolve will be broken by a travel lust-inducing article in a glossy magazine or an exotic YouTube video. This year, though, I’m pledging to go flight free – and I hope you will too.
+
+![](/images/uploads/Twitter family-1.jpg)
