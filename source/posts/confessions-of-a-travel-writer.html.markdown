@@ -2,7 +2,7 @@
 title: Confessions of a travel writer
 category: climate
 date: 2020-01-10T18:52:21.753Z
-cover_image: /images/uploads/Head shot Tryfan-1.jpg
+cover_image: /images/uploads/HannaLindon1.jpg
 summary: >-
   Hanna Lindon, freelance travel journalist, explains what taking the
   #flightfree2020 pledge means for her life and career.
@@ -25,4 +25,4 @@ Personally, I can’t handle the hypocrisy of campaigning against climate change
 
 I can’t promise that I’ll never get on a plane again. Perhaps my resolve will be broken by a travel lust-inducing article in a glossy magazine or an exotic YouTube video. This year, though, I’m pledging to go flight free – and I hope you will too.
 
-![](/images/uploads/Twitter family-1.jpg)
+![](/images/uploads/HannaLindon2.jpg)
