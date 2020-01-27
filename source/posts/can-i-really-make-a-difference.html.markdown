@@ -37,7 +37,6 @@ To come back to the fruit analogy, it is almost impossible to reach the high bra
 
 We all have an important part to play, frequent fliers and infrequent fliers alike. Here at Flight Free UK we will continue to encourage all people to join our campaign, from all walks of life, and with all levels of flight frequency – in the knowledge that each of us can play a crucial role in the urgent battle against climate breakdown.
 
-\
-*data from [flightemissionmap.org](http://flightemissionmap.org)
+\*data from [flightemissionmap.org](http://flightemissionmap.org)
 
 \*as [recommended by IPCC](http://climatepositions.com/ipcc-report-limiting-global-warming-to-1-5oc-requires-45-co2-reductions-by-2030-compared-to-2010-and-zero-emissions-by-2050-but-which-countries-are-to-reduce-how-much/)
