@@ -13,6 +13,8 @@ It’s easy to feel that there's not much point in us stopping flying when there
 
 A point was raised on our Twitter feed recently: a person who flies little, never long-haul, has booked a flight to Japan. Will cancelling that flight really have any effect? This person is not the problem, are they, when 15% of people take 70% of all flights? Why target the low-hanging fruit? That’s not where the impact truly lies.
 
+![](/images/uploads/Twitter_screenshot.png)
+
 The answer, of course, is no – this person is not the problem. But it is not so simple as that. When we consider the focus of our campaign, and our target group, in truth, it is everyone, and all flights. The five-times-a-week, the few-times-a-month, the once-every-ten-years. All of those flights are important in the fight against climate change.
 
 **Carbon reduction**
