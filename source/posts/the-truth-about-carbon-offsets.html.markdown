@@ -2,7 +2,7 @@
 title: The Truth about Carbon Offsets
 category: climate
 date: 2020-02-04T15:50:48.500Z
-cover_image: /images/uploads/08 Tree-planting.jpg
+cover_image: /images/uploads/Tree-planting.jpg
 summary: >-
   Environmental Sociologist Roger Tyers explains the thinking behind carbon
   offsets and asks if they can really address our rising emissions
