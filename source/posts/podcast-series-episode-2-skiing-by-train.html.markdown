@@ -8,7 +8,7 @@ summary: >-
   Daniel Elkan about why travelling to the slopes by train is always better than
   flying
 author: FlightFree UK
-read_time_minute: 4
+read_time_minute: 5
 ---
 ***This is the transcript of our conversation with ski journalist Daniel Elkan about the benefit of travelling by train. You can listen to the podcast, and access the rest of the series, [here](https://flightfree.co.uk/podcast/).***
 
