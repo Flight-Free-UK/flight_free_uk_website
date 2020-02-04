@@ -30,7 +30,7 @@ ANNA
 
 *The Interrail map had shown Daniel that train was an option, and had inspired him to start organising ski trips by train for him and his mates. But finding out the how to book the journey was the difficult part. Nothing was joined up. That’s what led to him setting up the website [SnowCarbon](www.snowcarbon.co.uk), a guide to how to travel to the ski resorts by train.[](http://www.snowcarbon.co.uk)*
 
-DAN
+DANIEL
 
 I set up the website 10 years ago, but I'd been writing articles about how to get to the ski slopes by train for about five years before that as a freelance journalist. The main challenge was always finding out the different elements of the journey, so I wanted to create a platform that had all that information in one place, and make it really inspiring by showing people what the journeys are like, where you can go, and sharing other skiers experiences. On Snowcarbon we have a section called [Your Stories ](https://www.snowcarbon.co.uk/your-stories)where people write into the site and talk about what they thought of the journey, which always has really useful tips and insights from other people. It’s very much a community feel, by skiers for skiers.
 
@@ -38,7 +38,7 @@ ANNA
 
 *A quick glance at the website reveals there's a whopping carbon saving with each train journey – about 90%. But Daniel quickly found out that wasn't the only benefit. As well as the carbon reduction, travelling overland is just a much better experience than flying.*
 
-DAN
+DANIEL
 
 The initial motivation was environmental, but once we started doing the journeys I realised how much fun it is to spend time with your mates on the train. The journey there really becomes part of the holiday. People would ask us how we got to the resort and we’d say we came by train, and they would say, yes, but where did you fly to, and we’d say, we came all the way by train. That moment of realisation was always good to see! When we told them how long it took, they would say, we need to do that next year!
 
@@ -46,7 +46,7 @@ ANNA
 
 *Picture the scene: you're on the train, with your mates, and you’ve got this huge chunk of time together, relaxing rather than standing in a queue, there’s loads of space, especially if you get a table seat, you can play games, have a chat, read, visit the cafe bar, bring bubbles, and all the time this incredible landscape is scrolling past the window.*
 
-DAN
+DANIEL
 
 There's a good vibe on the train. When you see kids on board they're not screaming, they're engaged and having a good time. Every year I go with a big group and by the time we get to the chalet, everyone’s bonded and everyone’s had a great time.
 
@@ -56,7 +56,7 @@ ANNA
 
 *Back to the environmental impact: The [SnowCarbon](www.snowcarbon.co.uk) website talks about taking better care of our planet and minimising our use of fossil fuels and resources. Even though there are many sustainable ways of travelling to the Alps, most skiers fly or drive. So what \*are\* the environmental benefits of going by train? And should we even be skiing at all?*
 
-DAN
+DANIEL
 
 Carbon emissions by plane are about 110kg CO2 and about 12 or 13kg by train. So that's a 90% average reduction. Studies show that 57 - 63% of the emissions of the entire ski resort are created by the journey there, so the thing that transforms your carbon footprint the most is to change the way you travel.
 
@@ -66,7 +66,7 @@ ANNA
 
 *So changing that flight for a train has a huge impact, and there are loads of options for travelling by train. There’s the direct ski train from London all the way to the tarentais region of the French Alps. For other parts of France, and for Austria, Italy or Switzerland, you can travel via Paris, Lille, or Brussels and change from the Eurostar to the TGV, which is the French high speed train. Or you can catch the Alpen Express sleeper train to Austria, or the NightJet sleeper from Cologne. But, there's a real challenge here. Many people would say, I would love to travel by train – it sounds fantastic! But I just can’t afford it. The flight is £29 – that's just irresistible.*
 
-DAN
+DANIEL
 
 There's often an assumption that train travel’s a lot more expensive. The truth is, it’s not. In many cases, particularly at peak dates for family, going by train is going to save you money, but people don't think that so they just assume that the flights are cheaper.
 
@@ -78,7 +78,7 @@ ANNA
 
 *So, overall it’s either cheaper or close enough, and you’re going to have a much better experience, but even once we’ve made that decision there are still plenty of barriers in the way, especially with booking.*
 
-DAN
+DANIEL
 
 Very often, there’s just an assumption in the ski industry that people are going to fly. So most articles, websites and tour operators only mention where the nearest airport is and don't mention the train at all. People are being primed all the time to fly, and that has to change.
 
@@ -88,7 +88,7 @@ ANNA
 
 *Can we as consumers drive this change? It seems recently the conversation is really starting to shift away from air travel, and awareness of the carbon impact from aviation has really gone up. What needs to happen now in order to make the most of this?*
 
-DAN
+DANIEL
 
 Over the past year I’ve seen a real transformation in the reasons that people give for wanting to go by train. The train has always made sense, from a practical point of view and an experience point of view, but now people are talking about how they don’t want to fly anymore and the environment is a big motivation. That gives great hope, but the supply of available trains & tickets can’t meet the number of skiers that would want to go by train, unless the industry sorts itself out.
 
@@ -98,7 +98,7 @@ ANNA
 
 *One of our favourite parts of the SnowCarbon website is the video of the [Race to the Alps](<https://youtu.be/M5OG8qj79fo >), a Top Gear style experiment to see if what Daniel says about travelling by train is really true. It’s a great watch, so here's Daniel explaining what it's all about.*
 
-DAN
+DANIEL
 
 I’ve been in so many conversations with skiers who can’t imagine that you can get to the slopes as quickly by train as you can by plane, so I challenged a fellow ski journalist, Neil English, to a race. We decided the destination would be a hot tub in a chalet in Méribel and we both set out from London at the same time.
 
@@ -111,3 +111,5 @@ ANNA
 *You can find out more at [www.snowcarbon.co.uk](http://www.snowcarbon.co.uk), which has all those things Daniel talked about, including a ticketing tool to help you book, and stories from fellow skiers. Top tips are to start your planning early, so you really know what you’re doing, and you can get the best fares. You can also find relevant information on the website [seat61.com](http://seat61.com), and there’s also the website [Ski Flight Free.](http://skiflightfree.org)*
 
 *Daniel’s personal recommendation is to get a rail map of Europe and put it up on the wall. They’re beautiful and inspiring, and make a great present. Thanks again to Daniel, and thanks for listening!*
+
+***You can listen to the podcast, and access the rest of the series, [here](https://flightfree.co.uk/podcast/).***
