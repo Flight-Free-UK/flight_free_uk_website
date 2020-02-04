@@ -90,30 +90,24 @@ ANNA
 
 DAN
 
-Over the past year I’ve seen a real transformation in the reasons that people give for wanting to go by train. The train has always made sense, from a practical point of view, from an experience point of view, but now people are talking about how they don’t want to fly anymore and the environment is a big motivation. That gives great hope, but the supply of available trains & tickets can’t meet the number of skiers that would want to go by train, unless the industry sorts itself out.
+Over the past year I’ve seen a real transformation in the reasons that people give for wanting to go by train. The train has always made sense, from a practical point of view and an experience point of view, but now people are talking about how they don’t want to fly anymore and the environment is a big motivation. That gives great hope, but the supply of available trains & tickets can’t meet the number of skiers that would want to go by train, unless the industry sorts itself out.
 
-DAN 4
+Demand by consumers is an absolutely vital part of the picture, but we haven’t got time to wait for consumer pressure to make the changes people need. There’s got to be action from government, there's got to be action from industry, and there have got to be players being very active in saying that the system needs to change. We know that lots of people want to travel this way and lots more would given the option. We can’t wait for market pressure to change things – that’s not quick enough, given the environmental challenges we face.
 
-Demand by consumers is an absolutely vital part of the picture, but we haven’t got time to wait for consumer pressure to make the changes people need. There’s got to be action from government, there's got to be action from industry, there’s got to be players being very active in saying the system’s broken, the system needs to change, we know that lots of people want to travel this way and lots more would given the option. We can’t wait for market pressure to change things – that’s not quick enough, given the environmental challenges we face.
+ANNA
 
-ANNA 10
+*One of our favourite parts of the SnowCarbon website is the video of the [Race to the Alps](<https://youtu.be/M5OG8qj79fo >), a Top Gear style experiment to see if what Daniel says about travelling by train is really true. It’s a great watch, so here's Daniel explaining what it's all about.*
 
-*One of our favourite parts of the SnowCarbon website is the video of the race to the Alps, a Top Gear style experiment to see if what Daniel says about travelling by train is really true. It’s a great watch, so here's Daniel explaining what it's all about.*
+DAN
 
-DAN 4
+I’ve been in so many conversations with skiers who can’t imagine that you can get to the slopes as quickly by train as you can by plane, so I challenged a fellow ski journalist, Neil English, to a race. We decided the destination would be a hot tub in a chalet in Méribel and we both set out from London at the same time.
 
-Video!
+I was going by Eurostar to Paris then a TGV to the Alps and he was flying from Gatwick to Geneva. He absolutely thought he was going to smash it – in the end there were 35 minutes between us, and we'd both had a very, very different journey. Neil played a brilliant Jeremy Clarkson, getting really frustrated at how long everything was taking, while I was chilling with a bottle of wine and a good book on the train.
 
-I’ve been in so many conversations with skiers who can’t imagine that you can get to the slopes as quickly by train as you can by plane, so I thought, what’s the best way of showing this, so I challenged a fellow ski journalist, Neil English, to a race. We decided the destination would be a hot tub in a chalet in Méribel and we both set out from London at the same time
-
-DAN 5
-
-I was going by Eurostar to Paris then a TGV to the Alps, he was flying from Gatwick to Geneva, and we modelled it on Top Gear, having conversations in real time, he absolutely thought he was going to smash it. In the end there was 35 minutes between us, and a very, very different journey. It really showed the frustration – he played a brilliant Jeremy Clarkson – and all his frustration at the amount of time different things take while I was chilling with a bottle of wine and a good book on the train.
-
-ANNA 11 + 11a + 11b
+ANNA
 
 *And there we have it! A thorough examination of a ski journey by train, which vs plane, comes out on top pretty much every time. It’s been brilliant hearing Daniel’s expertise and we hope it’s inspired you to get booking that train next time you head off on your ski holiday!*
 
-*You can find out more at[www.snowcarbon.co.uk](http://www.snowcarbon.co.uk), which has all those things Daniel talked about, including a ticketing tool to help you book, and stories from fellow skiers. Top tips are to start your planning early, so you really know what you’re doing, and you can take advantage of the best fares. You can also find relevant information on the website[seat61.com](http://seat61.com), and there’s also the website Ski Flight Free.*
+*You can find out more at [www.snowcarbon.co.uk](http://www.snowcarbon.co.uk), which has all those things Daniel talked about, including a ticketing tool to help you book, and stories from fellow skiers. Top tips are to start your planning early, so you really know what you’re doing, and you can get the best fares. You can also find relevant information on the website [seat61.com](http://seat61.com), and there’s also the website [Ski Flight Free.](http://skiflightfree.org)*
 
 *Daniel’s personal recommendation is to get a rail map of Europe and put it up on the wall. They’re beautiful and inspiring, and make a great present. Thanks again to Daniel, and thanks for listening!*
