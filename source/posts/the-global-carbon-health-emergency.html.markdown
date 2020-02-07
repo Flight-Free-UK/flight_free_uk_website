@@ -1,7 +1,7 @@
 ---
 title: The Global Carbon Health Emergency
 category: opinion
-date: 2020-02-07T18:32:15.823Z
+date: 2020-02-07T06:32:00.000Z
 cover_image: /images/uploads/airlines-china-virus.jpg
 summary: >-
   The Wuhan Coronavirus has brought air traffic across China to a standstill.
