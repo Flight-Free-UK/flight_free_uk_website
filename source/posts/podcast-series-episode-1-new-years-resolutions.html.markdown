@@ -101,3 +101,5 @@ Of course, we want political solutions but if we are to solve the climate crisis
 *Listen to the full interview on our [podcast](https://flightfree.co.uk/podcast/) page.*
 
 *Next month we'll be hearing from Daniel Elkan, founder of [Snow Carbon](https://www.snowcarbon.co.uk), a website that focusses on flight-free options for skiiers. In the meantime you can find us on [Facebook](https://www.facebook.com/flightfreeUK/), on [Twitter](https://twitter.com/FlightFree2020)/[Instagram](https://twitter.com/FlightFree2020), or at our [website](https://flightfree.co.uk).*
+
+*Credits: interview conducted by Anna Hughes. Intro voiceover: Sophie Helbig. Sound effects: Josh Hill.*
