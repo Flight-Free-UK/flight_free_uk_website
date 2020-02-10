@@ -28,7 +28,7 @@ ANNA
 
 *In our modern society, the default is to fly, so it doesn’t even cross our minds that we can travel by other means. Everything is skewed towards that flight when we book holidays, from adverts to the booking systems to the information given to you by your package provider. This all contributes to the social norm to fly, which is what we’re challenging with the Flight Free 2020 campaign.*
 
-*The Interrail map had shown Daniel that train was an option, and had inspired him to start organising ski trips by train for him and his mates. But finding out the how to book the journey was the difficult part. Nothing was joined up. That’s what led to him setting up the website [SnowCarbon](www.snowcarbon.co.uk), a guide to how to travel to the ski resorts by train.[](http://www.snowcarbon.co.uk)*
+*The Interrail map had shown Daniel that train was an option, and had inspired him to start organising ski trips by train for him and his mates. But finding out the how to book the journey was the difficult part. Nothing was joined up. That’s what led to him setting up the website [SnowCarbon](www.snowcarbon.co.uk), a guide to how to travel to the ski resorts by train.*[](http://www.snowcarbon.co.uk)
 
 DANIEL
 
@@ -113,3 +113,5 @@ ANNA
 *Daniel’s personal recommendation is to get a rail map of Europe and put it up on the wall. They’re beautiful and inspiring, and make a great present. Thanks again to Daniel, and thanks for listening!*
 
 ***You can listen to the podcast, and access the rest of the series, [here](https://flightfree.co.uk/podcast/).***
+
+*Credits: interview conducted by Anna Hughes. Intro voiceover: Sophie Helbig. Sound effects: Josh Hill.*
