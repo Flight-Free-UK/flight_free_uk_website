@@ -2,7 +2,7 @@
   <div class="xl:w-1/2 xl:pr-4">
     <% articles.each do |article| %>
       <% author = data.authors.values.find { |author| article.data.author == author.name } %>
-      <div class="bg-white text-blue-dark mb-10 blog-post-card">
+      <div class="bg-white text-blue-dark mb-4 sm:mb-10 blog-post-card">
         <a href="<%= article.url %>" class="block bg-cover bg-center">
           <img src="<%= image_path(article.data.cover_image) %>" class="w-full" />
         </a>

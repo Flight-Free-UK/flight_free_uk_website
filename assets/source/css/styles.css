@@ -4,6 +4,13 @@
 
 @tailwind utilities;
 
+/* Don't restrict width for to the xs and sm breakpoints */
+@media (max-width: 640px) {
+  .container {
+    max-width: 100%;
+  }
+}
+
 #main-header #menu-toggle {
   background-image: url(/svg/menu_icon.svg);
 }
@@ -19,12 +26,13 @@
 #main-header.menu-active nav {
   @apply absolute left-0 right-0;
   @apply flex;
-  top: 8rem;
+  top: 6rem;
   background-color: #204f7f;
 }
 
 .faq-question h3 {
   background-size: 2rem;
+  min-height: 2rem;
   background-image: url(/svg/faqs_plus.svg)
 }
 
