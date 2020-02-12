@@ -9,7 +9,7 @@ summary: >-
 author: FlightFree UK
 read_time_minute: 4
 ---
-Prague station was bustling even at 7am on a late January morning. After a 6am wake up call and a large cup of coffee, me and my partner boarded the train and set off on our travels. Our mission was to arrive home in Pembrokeshire, West Wales, by the end of the day. 
+Prague station was bustling even at 7am on a late January morning. After a 6am wake up call and a large cup of coffee, my partner and I boarded the train and set off on our travels. Our mission was to arrive home in Pembrokeshire, West Wales, by the end of the day. 
 
 With six connections the journey needed to run like clockwork, and we were already cutting it fine with our first interchange at Cheb on the Czech/German border, where we had only 10 minutes to change to our next train. Without that connection everything would start to unravel.
 
