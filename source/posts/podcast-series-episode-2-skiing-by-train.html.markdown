@@ -114,4 +114,4 @@ ANNA
 
 ***You can listen to the podcast, and access the rest of the series, [here](https://flightfree.co.uk/podcast/).***
 
-*Credits: interview conducted by Anna Hughes. Intro voiceover: Sophie Helbig. Sound effects: Josh Hill.*
+*Credits: interview conducted by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
