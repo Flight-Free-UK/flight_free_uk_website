@@ -1,6 +1,6 @@
 ---
 title: What about tourism?
-category: travel
+category: opinion
 date: 2019-12-14T09:33:19.731Z
 cover_image: /images/uploads/fx58dmnrf0m01.jpg
 summary: >-
