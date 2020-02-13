@@ -4,14 +4,14 @@ category: travel
 date: 2019-08-14T12:17:22.941Z
 cover_image: /images/uploads/irish-ferries-.jpg
 summary: >
-  Anna Hughes travels to Dublin via train and boat, a journey that prompts her
-  to question our relationship with time
+  Flight Free UK Director Anna Hughes travels to Dublin via train and boat, a
+  journey that prompts her to question our relationship with time
 author: FlightFree UK
 read_time_minute: 4
 ---
-__[_Watch our video on Facebook: "I don't have time" – a rail and sail journey to Dublin_](https://www.facebook.com/watch/?v=342678609928783)
+*[Watch our video on Facebook: "I don't have time" – a rail and sail journey to Dublin](https://www.facebook.com/watch/?v=342678609928783)*
 
-‘I don’t have time’ – that’s often the reason people give for flying instead of travelling overland. It’s an understandable comment – with our must-have-everything-now society, our time is precious, and we don’t want to spend too much of it getting where we’re going. 
+‘I don’t have time!’ – that’s often the reason people give for flying instead of travelling overland. It’s an understandable comment – with our must-have-everything-now society, our time is precious, and we don’t want to spend too much of it getting where we’re going. 
 
 ‘It’s cheaper to fly,’ is another reason – equally understandable when we consider that rail travel costs seem to be ever increasing, and [zero tax on aviation fuel ](https://eci.ec.europa.eu/008/public/#/initiative)allows artificially cheap flights.
 
@@ -38,8 +38,6 @@ So on the face of it, flying seems far quicker, but when you factor in the actua
 
 The overland journey time is pretty much what it says, which makes planning anything around your travel a lot easier.
 
-- - -
-
 **How about cost?**
 
 If you buy a train ticket to Holyhead, then another ticket for the ferry, it will cost you upwards of £100. But with [‘Rail and Sail’ ](https://www.irishferries.com/uk-en/special-offers-from-britain-to-ireland/rail-sail/)you can travel from any UK station all the way to Dublin, on a single ticket.
@@ -54,4 +52,6 @@ Of course, you don’t need to do any of that stuff – travel time can be spent
 
 My journey from London to Dublin was calm, enjoyable, and full of a sense of adventure. Spying the wide expanse of the sea when the train turns onto the north coast of Wales is always spectacular, and the castle at Conwy and the Menai Bridge are treasures of architecture that people come specifically to visit – so being able to enjoy them from my train seat was a massive bonus. The ferry was spacious with plenty to keep me entertained, good food, comfortable seating, a plug for my phone and free WIFI. None of the journey was ‘wasted’ time – I spent it reading, working and making phone calls. You can’t do that on a plane.
 
-It’s about reassessing our priorities, not just following the herd. Understanding that yes, we do have time to take the train. And yes, we can afford to travel in more sustainable ways. We need the social norm to shift away from flights, not just for the sake of the planet, but for our own sake, too. Overland travel is enriching in a way that flying just isn't. And in this particular case, it's cheaper, too.
+It’s about reassessing our priorities, not just following the herd. Understanding that yes, we do have time to take the train. And yes, we can afford to travel in more sustainable ways. Overland travel is enriching in a way that flying just isn't. We need the social norm to shift away from flights, not just for the sake of the planet, but for our own sake, too. 
+
+*[Watch our video on Facebook: "I don't have time" – a rail and sail journey to Dublin](https://www.facebook.com/watch/?v=342678609928783)*
