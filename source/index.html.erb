@@ -6,9 +6,9 @@ title: FlightFree UK
 <div class="text-white bg-cover bg-right-top pb-4 sm:pb-12" style="background-image: url(/images/clouds.png)">
   <div class="container mx-auto">
     <%= partial "header" %>
-    <section class="xl:flex mt-4 xs:mt-8 xl:mt-10 mx-4 sm:mx-8 xl:mx-24 xxl:mx-40">
+    <section class="xl:flex mt-0 xs:mt-4 xl:mt-10 mx-4 sm:mx-8 xl:mx-24 xxl:mx-40">
       <div class="xl:w-2/3 xl:pr-8">
-        <h1 class="text-5xl xl:text-6xl leading-tight mb-6 xs:mb-8 sm:mb-16">Make the pledge to be flight free in 2020</h1>
+        <h1 class="text-5xl xl:text-6xl leading-tight mb-4 xs:mb-6 sm:mb-16">Make the pledge to be flight free in 2020</h1>
         <h2 class="text-3xl lg:text-4xl xl:mb-8 text-orange">#flightfree2020</h2>
         <div class="flex">
           <%= link_to "", "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 mr-8 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/twitter.svg);background-size:60%", target: "_blank" %>
@@ -17,7 +17,7 @@ title: FlightFree UK
         </div>
       </div>
       <div class="xl:w-1/3">
-        <button class="bg-orange text-blue-dark text-lg mt-6 xs:mt-10 xs:mb-8 w-full py-4 xl:hidden" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
+        <button class="bg-orange text-blue-dark text-lg mt-4 xs:mt-10 xs:mb-8 w-full py-4 xl:hidden" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
         <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" class="hidden xl:block w-full" style="min-height:430px"></iframe>
       </div>
     </section>
