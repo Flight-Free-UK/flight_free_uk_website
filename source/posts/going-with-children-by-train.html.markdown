@@ -19,6 +19,8 @@ The majority of trains in Europe have free travel for children up to four years 
 
 This means that rail travel can work out cheaper overall, especially in Germany. When we were booking a trip to Berlin, and on another occasion when we went to Nuremberg, I looked up the plane tickets to see what the price difference would be. I was pleasantly surprised to find that on both occasions, it was cheaper to travel by train.
 
+Interrail is also an option. Children go free on an Interrail pass up to the age of 12, so this can work out much cheaper for families than buying tickets direct, and can give more flexibility.
+
 **Take as much luggage as you need**
 
 We all know how much luggage you need as a family, and one of the great advantages to travelling by train is that there are no extra costs for taking luggage. There aren’t the same limits on baby milk or food which makes the journey so much easier.
