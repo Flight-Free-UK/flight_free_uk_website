@@ -4,10 +4,15 @@ module.exports = {
       ...theme("colors"),
       "gray-light": "#f9f9f9"
     }),
+    screens: {
+      "xs": "321px",
+      "sm": "640px",
+      "md": "768px",
+      "lg": "1024px",
+      "xl": "1280px",
+      "xxl": "1440px",
+    },
     extend: {
-      screens: {
-        "xxl": "1440px",
-      },
       colors: {
         "blue": {
           "dark": "#1f4d7b",
