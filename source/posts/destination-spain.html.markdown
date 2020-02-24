@@ -11,13 +11,13 @@ read_time_minute: 3
 ---
 Spain is a wonderfully varied country ranging from verdant, rolling hills and mountainous natural parks to flat plains and exquisite beaches. There’s rich architecture, world-renowned food and easy-going locals, and a temperate climate year-round. No wonder it’s so popular with us Brits. Spain is easily accessible overland from the UK – great news for those taking a flight-free year. Here’s our advice on where to go in Spain and how to get there.
 
-#### Basque Country
+### Basque Country
 
 The main towns in the Basque are San Sebastian and Bilbao, the former of which has three beautiful beaches. The most famous is La Concha, which has won Best Beach in Europe several years running. Zurriola, the beach on the east side of the city, is famous for surfing. San Sebastian is renowned for its excellent food, so visit the Old Part for *pintxos* (a Basque tapa) and beer or *txakoli* (local wine).
 
 Other places to visit in the Basque Country include Zumaia (famous for its *flysch* – a unique rock strata running along the coast used as the setting for Dragonstone in Game of Thrones), Zarautz, which is a surfer’s paradise, and Bilbao, home of the Guggenheim museum.
 
-###### Getting there
+#### Getting there
 
 **By train:** Eurostar to Paris, TGV (French high-speed train) to Hendaye on the French/Spanish border, then Euskotren for San Sebastian. 
 
