@@ -75,13 +75,7 @@ You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see fl
 
 Travel time: 6-7 hours from Barcelona.
 
-#### Alternative travel
-
-**By coach:**
-
-Eurolines coaches travel from London Victoria Coach Station to Irun (Spanish border town), 24 hours. You can even get a coach all the way to Malaga, though at 40 hours, it’s not for the faint-hearted!
-
-#### Other destinations
+## Other destinations
 
 Canary islands – train to Seville/Huelva, ferry to Canary Islands
 
@@ -90,6 +84,12 @@ Balearic islands – TGV to Barcelona, ferry to Ibiza/Mallorca/Minorca
 Gibraltar – TGV to Barcelona, AVE to Antequera-Santa Ana, regional train to Algeciras, bus to Gibraltar.
 
 From the south of Spain you can even go on to Morocco, with a ferry or hovercraft across the Straits of Gibraltar.
+
+#### Alternative travel
+
+**By coach:**
+
+Eurolines coaches travel from London Victoria Coach Station to Irun (Spanish border town), 24 hours. You can even get a coach all the way to Malaga, though at 40 hours, it’s not for the faint-hearted!
 
 ## Overland travel: better for you, better for the environment
 
