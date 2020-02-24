@@ -26,4 +26,4 @@ Steph has just set off on her six-month no-flight adventure, which will take her
 
 *You can follow Steph's adventures via her social channels: [Facebook](https://www.facebook.com/bigworldsmallpockets), [Instagram](https://www.instagram.com/bigworldsmallpockets/) and [Twitter](https://twitter.com/bigwsmallp).*
 
-*And look out for blog updates [on her website](www.bigworldsmallpockets.com)*
+*And look out for blog updates on the [Big World Small Pockets](https://www.bigworldsmallpockets.com) website[](www.bigworldsmallpockets.com)*
