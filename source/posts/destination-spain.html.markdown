@@ -45,9 +45,9 @@ The popular beach resort of Alicante is 1.5 hours away by train, with 11 daily s
 
 **By train:** Eurostar to Paris, TGV to Barcelona, EuroMed to Valencia/Alicante
 
-**Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 40mins, EuroMed 2hr 40mins for Valencia and 4hr 30mins for Alicante. A day and a half travel with an overnight stop in Barcelona or Paris.
+Travel time: Eurostar 2hrs 20mins, TGV 6hrs 40mins, EuroMed 2hr 40mins for Valencia and 4hr 30mins for Alicante. A day and a half travel with an overnight stop in Barcelona or Paris.
 
-#### Madrid
+## Madrid
 
 Described as ‘pretty-yet-gritty’, Spain’s capital is known for its museums, restaurants and nightlife. It's easy to navigate the different *barrios* (neighbourhoods) on foot but shade can be hard to come by, so if you are visiting in summer, two essentials are a water bottle and a fan – the more decorative the better. Nestled in the geographical centre of Spain, it’s very well connected, so day trips to places near and far are easy. 
 
@@ -57,31 +57,31 @@ Recommended spots to visit:
 
 **Toledo:** the old hilltop Visigoth capital, full of stunning architecture. If you’ve ever seen The Princess Bride, it’s the city Iñigo Montoya gets his sword from – it was once well-known for its exemplary sword-making. 
 
-###### Getting there:
+#### Getting there:
 
-By train: Eurostar to Paris, TGV to Barcelona, AVE (Spanish high-speed train) to Madrid.
+**By train:** Eurostar to Paris, TGV to Barcelona, AVE (Spanish high-speed train) to Madrid.
 
 Travel time: Eurostar 2hrs 20mins, TGV 6hrs 60mins, AVE 2hrs 30mins. A day and half travel with an overnight stop in Barcelona.
 
-Andalucia
+## Andalucia
 
 Andalucia is particularly lovely in the spring, when the orange blossom fills the warm air with its heavy scent, but the temperatures haven't yet soared. You might even catch *Festival de los Patios*, held in May in Cordoba. There are mountains, coastlines, olive groves, Moorish architecture, and wide, open landscapes, as well as several natural parks.
 
 You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see flamingos in the Donana national park (a UNESCO world heritage site), or try your hand a kite-surfing in Tarifa. The popular tourist resorts of Malaga (Costa del Sol) and Cadiz (Costa de la Luz) are on the world-renowned Andalucian coast.
 
-Getting there
+#### Getting there
 
-By train: Eurostar to Paris, TGV to Barcelona, AVE for onwards travel to Cordoba, Seville, Cadiz, Malaga and Granada.
+**By train:** Eurostar to Paris, TGV to Barcelona, AVE for onwards travel to Cordoba, Seville, Cadiz, Malaga and Granada.
 
 Travel time: 6-7 hours from Barcelona.
 
-Alternative travel
+#### Alternative travel
 
-By coach:
+**By coach:**
 
 Eurolines coaches travel from London Victoria Coach Station to Irun (Spanish border town), 24 hours. You can even get a coach all the way to Malaga, though at 40 hours, it’s not for the faint-hearted!
 
-Other destinations
+#### Other destinations
 
 Canary islands – train to Seville/Huelva, ferry to Canary Islands
 
@@ -91,13 +91,13 @@ Gibraltar – TGV to Barcelona, AVE to Antequera-Santa Ana, regional train to Al
 
 From the south of Spain you can even go on to Morocco, with a ferry or hovercraft across the Straits of Gibraltar.
 
-**Overland travel: better for you, better for the environment**
+## Overland travel: better for you, better for the environment
 
-Carbon comparison
+**Carbon comparison**
 
 A return flight from London Stansted to Bilbao generates 160kg CO2 per passenger, as opposed to just 6kg by train (info from [loco2.com](http://loco2.com)). For the southern Spanish resorts such as Malaga, it’s 266 kg CO2 by plane and 13kg by train.
 
-Time well spent
+**Time well spent**
 
 It's a much longer journey by train: you're looking at around 10-12 hours for northern Spain, and a day and a half for southern Spain. When compared to a 2 or 3 hour flight, that sounds a lot – though don’t forget, flight times at least double when you add check-in times, baggage claim and airport transfers.
 
@@ -105,10 +105,10 @@ But travelling by train allows the journey to become part of the holiday, and it
 
 The connections and stop-overs on the way offer an excellent opportunity to explore a different city – so, for example, your beach holiday on the Costa del Sol can be greatly enhanced by a relaxed, scenic journey through France and Spain, and an opportunity to stop off in Paris, Barcelona and Madrid on the way. By the end, you will really have experienced Spain!
 
-Cost comparison
+**Cost comparison**
 
 There’s no denying there are some dirt-cheap flights out there. They can be hard to resist, though don't forget the headline price is almost never the actual price once you have added all the extras such as luggage and transfers.
 
 With the train, it is often the Eurostar that makes up the bulk of that cost. It's possible to get a TGV ticket from Paris to the border with Spain for €30 or less. It's also worth looking at a day or two either side of the day you intend to travel, as prices can vary depending on the day of the week, e.g. Thursdays are often cheaper than Fridays.
 
-Cover photo credit: Tim McKenna @TimMcKenna5
+*Cover photo credit: Tim McKenna @TimMcKenna5*
