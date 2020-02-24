@@ -1,7 +1,7 @@
 ---
 title: 'Destination: Spain'
 category: travel
-date: 2020-02-24T08:50:32.001Z
+date: 2020-02-24T09:50:32.001Z
 cover_image: /images/uploads/SanSebastian.jpeg
 summary: >-
   Our 'Destinations' series takes a look at the nation's favourite holiday
@@ -25,23 +25,23 @@ Travel time: Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San 
 
 **By ferry:** P&O ferries go from Portsmouth to Bilbao and from Portsmouth/Plymouth to Santander (in neighbouring Cantabria) two-three times a week. It's a 24 hour crossing, so overnight ferry is a good option.
 
-#### Barcelona
+## Barcelona
 
 Every year people flock to Spain’s Catalan treasure for its culture, architecture and beaches. The Mediterranean warmth and freshness, and the famously long sandy beaches with vibrant nightlife, means that Barcelona has never been short of tourists.
 
-###### Getting there
+#### Getting there
 
 **By train:** Eurostar to Paris, TGV to Barcelona.
 
-**Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 40 mins.
+Travel time: Eurostar 2hrs 20mins, TGV 6hrs 40 mins.
 
-#### Valencia and Alicante
+## Valencia and Alicante
 
 For those wanting a city break without over crowded streets, Spain’s third largest city offers a very Spanish holiday which is slightly off the beaten track. It’s a scenic train ride down the coast from Barcelona, sandwiched between the mountains and the sea. The Turia Gardens sits in an old riverbed and winds through the middle of the city towards the seafront promenade and beach. The city is famous for paella, the rice for which comes from the rice fields at La Albufera, a nearby freshwater lagoon and nature reserve.
 
 The popular beach resort of Alicante is 1.5 hours away by train, with 11 daily services. Known as being a party town, there is plenty of architecture and culture for those less interested in partying, including the Castillo de Santa Bárbara which sits on a hill overlooking the town.
 
-###### Getting there
+#### Getting there
 
 **By train:** Eurostar to Paris, TGV to Barcelona, EuroMed to Valencia/Alicante
 
