@@ -11,7 +11,7 @@ read_time_minute: 3
 ---
 Spain is a wonderfully varied country ranging from verdant, rolling hills and mountainous natural parks to flat plains and exquisite beaches. There’s rich architecture, world-renowned food and easy-going locals, and a temperate climate year-round. No wonder it’s so popular with us Brits. Spain is easily accessible overland from the UK – great news for those taking a flight-free year. Here’s our advice on where to go in Spain and how to get there.
 
-### Basque Country
+## Basque Country
 
 The main towns in the Basque are San Sebastian and Bilbao, the former of which has three beautiful beaches. The most famous is La Concha, which has won Best Beach in Europe several years running. Zurriola, the beach on the east side of the city, is famous for surfing. San Sebastian is renowned for its excellent food, so visit the Old Part for *pintxos* (a Basque tapa) and beer or *txakoli* (local wine).
 
@@ -19,11 +19,9 @@ Other places to visit in the Basque Country include Zumaia (famous for its *flys
 
 #### Getting there
 
-**By train:** Eurostar to Paris, TGV (French high-speed train) to Hendaye on the French/Spanish border, then Euskotren for San Sebastian. 
+**By train:** Eurostar to Paris, TGV (French high-speed train) to Hendaye on the French/Spanish border, then Euskotren for San Sebastian. To avoid the long train detour from San Sebastian to Bilbao, consider taking the coach: it's more direct and takes roughly 1hr 30 mins.
 
-To avoid the long train detour from San Sebastian to Bilbao, consider taking the coach: it's more direct and takes roughly 1hr 30 mins.
-
-**Travel time:** Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San Sebastian, + 2 hrs for Bilbao (1.5 hrs by coach)
+Travel time: Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San Sebastian, + 2 hrs for Bilbao (1.5 hrs by coach)
 
 **By ferry:** P&O ferries go from Portsmouth to Bilbao and from Portsmouth/Plymouth to Santander (in neighbouring Cantabria) two-three times a week. It's a 24 hour crossing, so overnight ferry is a good option.
 
