@@ -24,6 +24,6 @@ Steph has just set off on her six-month no-flight adventure, which will take her
 
 "I've spent the past ten years travelling all over the globe, and this is perhaps my greatest challenge yet – to travel the world without flying. I want to discover and share how we can adventure the globe on small pockets AND a smaller carbon footprint."
 
-*You can follow Steph's adventures via her social channels: [Facebook](facebook.com/bigworldsmallpockets), [Instagram](instagram.com/bigworldsmallpockets) and [Twitter](twitter.com/bigwsmallp).*
+*You can follow Steph's adventures via her social channels: [Facebook](https://www.facebook.com/bigworldsmallpockets), [Instagram](https://www.instagram.com/bigworldsmallpockets/) and [Twitter](https://twitter.com/bigwsmallp).*
 
 *And look out for blog updates [on her website](www.bigworldsmallpockets.com)*
