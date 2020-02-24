@@ -113,4 +113,4 @@ There’s no denying there are some dirt-cheap flights out there. They can be ha
 
 With the train, it is often the Eurostar that makes up the bulk of that cost. It's possible to get a TGV ticket from Paris to the border with Spain for €30 or less. It's also worth looking at a day or two either side of the day you intend to travel, as prices can vary depending on the day of the week, e.g. Thursdays are often cheaper than Fridays.
 
-Cover photo credit: Tim Mackenna @timmackenna5
+Cover photo credit: Tim McKenna @TimMcKenna5
