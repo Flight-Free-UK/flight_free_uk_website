@@ -1,6 +1,6 @@
 ---
 title: Big World Small Footprint
-category: travel
+category: flight_free_2020
 date: 2020-02-24T10:41:09.873Z
 cover_image: /images/uploads/Stephanie.jpg
 summary: >-
