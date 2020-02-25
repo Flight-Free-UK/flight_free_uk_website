@@ -1,7 +1,7 @@
 ---
 title: 'One of the 100,000: EmmaLucy Cole'
 category: one_of_the_100000
-date: 2020-02-26T17:43:34.113Z
+date: 2020-02-10T17:43:34.113Z
 cover_image: /images/uploads/EmmaLucy.jpg
 summary: >-
   Speaker, writer, explorer and biker EmmaLucy shares her motivation for signing
