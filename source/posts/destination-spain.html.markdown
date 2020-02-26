@@ -79,7 +79,7 @@ Travel time: 6-7 hours from Barcelona.
 
 Canary islands – train to Seville/Huelva, ferry to Canary Islands
 
-Balearic islands – TGV to Barcelona, ferry to Ibiza/Mallorca/Minorca
+[Balearic islands – TGV to Barcelona, ferry to Ibiza/Mallorca/Minorca](https://flightfree.co.uk/post/a-flight-free-holiday-in-mallorca/)
 
 Gibraltar – TGV to Barcelona, AVE to Antequera-Santa Ana, regional train to Algeciras, bus to Gibraltar.
 
