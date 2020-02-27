@@ -24,7 +24,7 @@ title: Podcast
     </div>
     <% podcasts.each do |podcast| %>
       <div class="xl:flex bg-blue-dark mb-4 sm:mb-10 xl:mb-12 text-white">
-        <a href="<%= podcast.url %>" target="_blank" class="podcast-image flex-none block h-48 xl:h-auto w-full xl:w-56 bg-no-repeat bg-cover bg-top" style="background-image:url(<%= podcast.cover_image %>" %></a>
+        <a href="<%= podcast.url %>" target="_blank" class="flex-none block h-48 xl:h-auto w-full xl:w-56 bg-no-repeat bg-cover bg-top" style="background-image:url(<%= podcast.cover_image %>" %></a>
         <div class="py-4 sm:py-6 px-4 sm:px-8 xl:px-10 flex-shrink self-center leading-tight">
           <a href="<%= podcast.url %>" target="_blank" class="block text-lg xl:text-2xl mb-4">
             <%= podcast.title %>
