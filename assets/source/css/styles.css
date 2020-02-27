@@ -48,6 +48,10 @@
   @apply text-text-default text-base leading-tight;
 }
 
+.podcast-image {
+  min-height: 8rem;
+}
+
 .blog-post-body a {
   @apply text-blue-dark;
 }
