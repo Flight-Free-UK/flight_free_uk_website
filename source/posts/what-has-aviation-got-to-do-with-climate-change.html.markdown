@@ -2,7 +2,7 @@
 title: What has aviation got to do with climate change?
 category: climate
 date: 2020-02-28T18:34:00.503Z
-cover_image: /images/uploads/globalwarming.jpeg
+cover_image: /images/uploads/sunset-flights.jpg
 summary: We explore what climate change is and how aviation contributes
 author: FlightFree UK
 read_time_minute: 3
