@@ -38,15 +38,22 @@
           <% end %>
         </div>
       </div>
+      <%
+        other_posts_count = [3, blog.articles.size - 1].min
+        other_posts = [current_article.article_next, current_article.article_previous].compact
+        while other_posts.size < other_posts_count do
+          other_posts = ([other_posts.first.article_next] + other_posts + [other_posts.last.article_previous]).compact.select { |article| article.slug != current_article.slug }
+        end
+      %>
       <div class="xl:flex justify-between">
         <div class="xl:w-1/3 xl:mr-6 mb-8 bg-white text-blue-dark">
-          <%= partial "home_blog_post", locals: { article: blog.articles[0] } %>
+          <%= partial "home_blog_post", locals: { article: other_posts[0] } %>
         </div>
         <div class="xl:w-1/3 xl:mx-3 mb-8 bg-white text-blue-dark">
-          <%= partial "home_blog_post", locals: { article: blog.articles[1] } %>
+          <%= partial "home_blog_post", locals: { article: other_posts[1] } %>
         </div>
         <div class="xl:w-1/3 xl:ml-6 mb-8 bg-white text-blue-dark">
-          <%= partial "home_blog_post", locals: { article: blog.articles[2] } %>
+          <%= partial "home_blog_post", locals: { article: other_posts[2] } %>
         </div>
       </div>
     </div>
