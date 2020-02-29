@@ -8,6 +8,24 @@ class Middleman::Renderers::MiddlemanKramdownHTML
     link = attrs.delete('src')
     "<figure>#{scope.image_tag(link, attrs)}<figcaption>#{attrs[:title]}</figcaption></figure>"
   end
+
+  def convert_a(el, indent)
+    content = inner(el, indent)
+
+    if el.attr['href'].start_with?('mailto:')
+      mail_addr = el.attr['href'].sub(/\Amailto:/, '')
+      href = obfuscate('mailto') << ':' << obfuscate(mail_addr)
+      content = obfuscate(content) if content == mail_addr
+      return %(<a href="#{href}">#{content}</a>)
+    end
+
+    attr = el.attr.dup
+    link = attr.delete('href')
+    attr.transform_keys!(&:to_sym)
+    attr[:target] = "_blank"
+
+    scope.link_to(content, link, attr)
+  end
 end
 
 # Activate and configure extensions
