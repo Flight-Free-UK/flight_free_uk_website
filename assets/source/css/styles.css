@@ -50,6 +50,7 @@
 
 .blog-post-body a {
   @apply text-blue-dark;
+  @apply font-normal;
 }
 
 .blog-post-body a:hover {
