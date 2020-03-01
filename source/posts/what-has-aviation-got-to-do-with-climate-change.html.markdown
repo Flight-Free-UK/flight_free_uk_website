@@ -1,4 +1,5 @@
 ---
+published: true
 title: What has aviation got to do with climate change?
 category: climate
 date: 2020-02-28T18:34:00.503Z
@@ -47,6 +48,6 @@ On an individual level, we can: eat less (or no) animal products, avoid fast fas
 
 On a government and industry level, we need to direct the vast majority of our time and money into decarbonisation.
 
-While other industries can quite easily decarbonise, low carbon alternatives for aviation are not currently viable. There are also many problems with carbon offsetting. At a time when we urgently need to reduce our emissions, the quickest and most reliable way for doing that remains to **fly less**.
+While other industries can quite easily decarbonise, low carbon alternatives for aviation are not currently viable. There are also many [problems with carbon offsetting](https://flightfree.co.uk/post/the-truth-about-carbon-offsets/). At a time when we urgently need to reduce our emissions, the quickest and most reliable way remains to **fly less**.
 
 [Pledge here to take a year off flying.](https://flightfree.co.uk)
