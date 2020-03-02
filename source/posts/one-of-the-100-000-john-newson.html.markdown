@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'One of the 100,000: John Newson'
 category: one_of_the_100000
 date: 2019-02-12T17:44:17.413Z

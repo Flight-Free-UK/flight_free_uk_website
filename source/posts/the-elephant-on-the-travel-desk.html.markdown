@@ -1,4 +1,5 @@
 ---
+published: true
 title: The elephant on the travel desk
 category: flight_free_2020
 date: 2019-10-16T06:40:48.273Z

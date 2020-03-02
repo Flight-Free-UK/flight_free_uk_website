@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'One of the 100,000: EmmaLucy Cole'
 category: one_of_the_100000
 date: 2020-02-10T17:43:34.113Z

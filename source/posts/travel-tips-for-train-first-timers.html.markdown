@@ -1,4 +1,5 @@
 ---
+published: true
 title: Travel tips for train first-timers
 category: travel
 date: 2019-08-14T11:55:34.398Z

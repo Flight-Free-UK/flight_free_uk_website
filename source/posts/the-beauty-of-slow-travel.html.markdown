@@ -1,4 +1,5 @@
 ---
+published: true
 title: The beauty of slow travel
 category: travel
 date: 2019-01-05T17:58:37.224Z

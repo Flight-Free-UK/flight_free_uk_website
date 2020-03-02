@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'One of the 100,000: Pam Lunn'
 category: one_of_the_100000
 date: 2019-08-19T11:46:22.621Z

@@ -1,4 +1,5 @@
 ---
+published: true
 title: Big World Small Footprint
 category: flight_free_2020
 date: 2020-02-24T10:41:09.873Z

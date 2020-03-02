@@ -1,4 +1,5 @@
 ---
+published: true
 title: Train-setting across Europe
 category: travel
 date: 2019-07-17T13:07:56.915Z

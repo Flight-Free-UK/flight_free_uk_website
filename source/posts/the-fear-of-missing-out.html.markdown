@@ -1,4 +1,5 @@
 ---
+published: true
 title: The fear of missing out
 category: flight_free_2020
 date: 2019-01-22T17:41:40.279Z

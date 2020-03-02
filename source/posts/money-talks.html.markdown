@@ -1,4 +1,5 @@
 ---
+published: true
 title: Money Talks
 category: flight_free_2020
 date: 2019-10-02T07:10:15.720Z

@@ -1,4 +1,5 @@
 ---
+published: true
 title: My no-fly year
 category: flight_free_2020
 date: 2019-01-28T17:30:24.567Z

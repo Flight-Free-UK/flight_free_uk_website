@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'Bristol’s obsession with flying   '
 category: opinion
 date: 2019-11-14T09:48:15.283Z

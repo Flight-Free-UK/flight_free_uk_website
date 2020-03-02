@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'Behind the veil: what the aviation industry really thinks about climate change'
 category: climate
 date: 2019-12-03T16:57:27.668Z

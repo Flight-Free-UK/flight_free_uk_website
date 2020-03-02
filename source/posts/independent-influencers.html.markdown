@@ -1,4 +1,5 @@
 ---
+published: true
 title: Independent Influencers
 category: opinion
 date: 2019-09-14T11:04:26.260Z

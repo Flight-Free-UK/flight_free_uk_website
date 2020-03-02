@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'One of the 100,000: Maria Ardley'
 category: one_of_the_100000
 date: 2019-07-26T12:41:29.516Z

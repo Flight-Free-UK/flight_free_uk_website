@@ -1,4 +1,5 @@
 ---
+published: true
 title: A Champion for Earth
 category: one_of_the_100000
 date: 2019-07-29T12:34:18.778Z

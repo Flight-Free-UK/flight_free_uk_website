@@ -1,4 +1,5 @@
 ---
+published: true
 title: Why I am flight free
 category: flight_free_2020
 date: 2019-10-29T10:42:09.377Z

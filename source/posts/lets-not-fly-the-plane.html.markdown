@@ -1,4 +1,5 @@
 ---
+published: true
 title: Let's not fly the plane!
 category: flight_free_2020
 date: 2019-04-25T15:01:03.846Z

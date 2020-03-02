@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'One of the 100,000: Sophia Cheng'
 category: one_of_the_100000
 date: 2019-06-28T13:43:04.681Z

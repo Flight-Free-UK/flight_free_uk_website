@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'Farewell Loco2, hello Rail Europe'
 category: opinion
 date: 2019-11-05T08:32:50.607Z

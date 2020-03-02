@@ -1,4 +1,5 @@
 ---
+published: true
 title: '"I refused to fly for my university field trip"'
 category: climate
 date: 2019-10-25T06:34:45.122Z

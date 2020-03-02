@@ -1,4 +1,5 @@
 ---
+published: true
 title: Train travel is a gem waiting for rediscovery
 category: travel
 date: 2019-07-10T13:36:19.927Z

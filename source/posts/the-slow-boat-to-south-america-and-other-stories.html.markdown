@@ -1,4 +1,5 @@
 ---
+published: true
 title: The slow boat to South America (and other stories)
 category: travel
 date: 2019-03-25T16:36:11.305Z

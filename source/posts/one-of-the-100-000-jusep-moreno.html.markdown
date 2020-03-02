@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'One of the 100,000: Jusep Moreno'
 category: one_of_the_100000
 date: 2019-12-23T09:17:41.536Z

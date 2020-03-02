@@ -1,4 +1,5 @@
 ---
+published: true
 title: What about tourism?
 category: opinion
 date: 2019-12-14T09:33:19.731Z

@@ -1,4 +1,5 @@
 ---
+published: true
 title: Rebelling against Extinction
 category: climate
 date: 2019-10-15T06:41:32.293Z

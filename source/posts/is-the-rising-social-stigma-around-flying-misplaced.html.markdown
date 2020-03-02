@@ -1,4 +1,5 @@
 ---
+published: true
 title: Is the rising social stigma around flying misplaced?
 category: climate
 date: 2019-11-26T13:48:27.355Z

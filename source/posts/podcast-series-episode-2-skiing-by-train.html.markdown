@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'Podcast series episode 2: skiing by train'
 category: travel
 date: 2020-02-04T14:23:39.820Z

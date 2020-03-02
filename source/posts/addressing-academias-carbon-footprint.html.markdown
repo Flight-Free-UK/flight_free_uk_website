@@ -1,4 +1,5 @@
 ---
+published: true
 title: Addressing academia's carbon footprint
 category: climate
 date: 2019-08-07T12:22:18.936Z

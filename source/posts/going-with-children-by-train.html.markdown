@@ -1,4 +1,5 @@
 ---
+published: true
 title: Going with children by train
 category: travel
 date: 2020-02-11T12:31:47.906Z

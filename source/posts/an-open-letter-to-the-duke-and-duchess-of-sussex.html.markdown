@@ -1,4 +1,5 @@
 ---
+published: true
 title: An open letter to the Duke and Duchess of Sussex
 category: flight_free_2020
 date: 2019-08-27T00:00:00.000Z

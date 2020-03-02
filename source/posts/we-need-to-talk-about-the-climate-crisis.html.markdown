@@ -1,4 +1,5 @@
 ---
+published: true
 title: We need to talk about the climate crisis
 category: climate
 date: 2019-08-24T00:00:00.000Z

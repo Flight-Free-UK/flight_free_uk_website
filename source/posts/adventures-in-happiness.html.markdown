@@ -1,4 +1,5 @@
 ---
+published: true
 title: Adventures in happiness
 category: travel
 date: 2019-05-16T14:53:32.344Z

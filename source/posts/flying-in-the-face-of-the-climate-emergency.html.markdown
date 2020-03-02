@@ -1,4 +1,5 @@
 ---
+published: true
 title: Flying in the face of the climate emergency
 category: climate
 date: 2019-12-03T14:11:15.336Z

@@ -1,4 +1,5 @@
 ---
+published: true
 title: How to lead your tribe
 category: climate
 date: 2019-09-13T10:51:29.772Z

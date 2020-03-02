@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'Birmingham to Edinburgh: why would you fly?'
 category: opinion
 date: 2019-09-26T17:12:07.032Z

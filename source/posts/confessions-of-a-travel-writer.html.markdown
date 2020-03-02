@@ -1,4 +1,5 @@
 ---
+published: true
 title: Confessions of a travel writer
 category: flight_free_2020
 date: 2020-01-10T18:52:21.753Z

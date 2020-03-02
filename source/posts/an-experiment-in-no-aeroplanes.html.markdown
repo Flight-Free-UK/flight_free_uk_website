@@ -1,4 +1,5 @@
 ---
+published: true
 title: An experiment in No Aeroplanes
 category: travel
 date: 2019-01-07T17:54:23.131Z

@@ -1,4 +1,5 @@
 ---
+published: true
 title: Wall to Wall without flying
 category: travel
 date: 2019-08-21T11:35:51.878Z

@@ -1,4 +1,5 @@
 ---
+published: true
 title: Forsaking all flights
 category: travel
 date: 2019-05-31T14:44:49.466Z

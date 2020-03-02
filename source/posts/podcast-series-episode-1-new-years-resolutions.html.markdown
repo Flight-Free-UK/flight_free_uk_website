@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'Podcast series episode 1: New Year''s Resolutions'
 category: flight_free_2020
 date: 2020-01-06T07:19:20.405Z

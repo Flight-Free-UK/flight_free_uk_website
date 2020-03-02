@@ -1,4 +1,5 @@
 ---
+published: true
 title: The footprint of flying
 category: climate
 date: 2019-06-18T13:52:23.905Z

@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'Destination: Spain'
 category: travel
 date: 2020-02-24T10:30:32.001Z

@@ -1,4 +1,5 @@
 ---
+published: true
 title: Would you give up flying for a year to save the environment?
 category: flight_free_2020
 date: 2019-01-01T18:00:41.912Z

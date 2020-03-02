@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'One of the 100,000: Michael Crossland'
 category: one_of_the_100000
 date: 2019-11-04T11:14:04.220Z

@@ -1,4 +1,5 @@
 ---
+published: true
 title: 'One of the 100,000: Dave Wynn'
 category: one_of_the_100000
 date: 2019-07-17T13:32:10.039Z

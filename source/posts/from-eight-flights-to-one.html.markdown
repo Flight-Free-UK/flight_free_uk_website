@@ -1,4 +1,5 @@
 ---
+published: true
 title: From eight flights to one
 category: flight_free_2020
 date: 2019-11-26T09:29:25.930Z

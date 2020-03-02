@@ -1,4 +1,5 @@
 ---
+published: true
 title: Winter Sun
 category: flight_free_2020
 date: 2019-12-23T01:00:00.000Z

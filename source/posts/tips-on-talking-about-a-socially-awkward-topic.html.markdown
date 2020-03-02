@@ -1,4 +1,5 @@
 ---
+published: true
 title: Tips on talking about a socially awkward topic
 category: flight_free_2020
 date: 2019-01-31T17:15:17.909Z
