@@ -1,14 +1,16 @@
 ---
-published: false
-title: Tossing out my bucket list
+published: true
+title: Tossing out the bucket list
 category: opinion
 date: 2020-03-03T12:41:04.287Z
-cover_image: /images/uploads/macchupiccu.jpg
-summary: Ellen Petry Leanse asks what our travel ambitions mean for the planet
+cover_image: /images/uploads/machupicchu.jpg
+summary: >-
+  Ellen Petry Leanse asks what impact our travel ambitions have on the places we
+  visit and on the planet
 author: FlightFree UK
 read_time_minute: 7
 ---
-*Cover photo by [Don Woods ](https://unsplash.com/@donwoods?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+*Cover photo by [Scott Umstattd ](https://unsplash.com/@scott_umstattd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on [Unsplash](https://unsplash.com/s/photos/machu-picchu-peak?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
 I first saw it in a travel magazine when I was something like seven: Machu Picchu, that breathtaking “Lost City” of the Incas. Emerald green and nestled in craggy peaks unlike any mountain I’d seen before: one awestruck gaze and a dream formed. “I’ll travel there someday,” I told myself, imagining grassy, timeless earth beneath my feet as I reveled in pyramids of Andean granite against a misty blue sky.
 
@@ -18,9 +20,9 @@ As I researched I learned about the newly-revealed [Rainbow Mountains](https://w
 
 ![](/images/uploads/rainbowmountains.jpg "Photo by McKayla Crump on Unsplash")
 
-Life intervened and I didn’t take the trip. Yet I saved the itinerary, committing that one day it would happen. After all, Machu Picchu had been on my bucket list before I knew what a bucket list was, and in my mind and heart I ached to visit it someday.
+Life intervened and I didn’t take the trip. I saved the itinerary, committing that one day it would happen. After all, Machu Picchu had been on my bucket list before I knew what a bucket list was, and in my mind and heart I ached to visit it someday.
 
-Yet recently, at a time when that long-awaited trip was timely and available, I decided to stay home. I struck it from my list, along with several other places I had once longed to travel. The decision was deliberate: I couldn’t convince myself that my indulgence in an experience like Machu Picchu was worth the impact my getting there would have on the site – and more importantly, on the planet.
+Yet recently, at a time when that long-awaited trip was timely and available, I decided to stay home. I struck it from my list, along with several other places where I had once longed to travel. The decision was deliberate: I couldn’t convince myself that my indulgence in an experience like Machu Picchu was worth the impact my getting there would have on the site – and more importantly, on the planet.
 
 More than 1.5 million tourists visited Machu Picchu in 2017, almost double the [limit recommended by UNESCO](http://ie.shafaqna.com/EN/AL/1378835), a [nearly 800% increase since the early ‘80s](https://www.machupicchutrek.net/how-many-tourists-visit-machu-picchu-annually/).
 
@@ -28,7 +30,7 @@ Foot traffic, road construction, deforestation, air contamination, unorganized a
 
 Climate change and the influx of non-native microbes have enabled new forms of bio-colonizing lichens, fungi, algae, and insects to flourish, accelerating the “exfoliation” of the historical buildings and even the [granite peaks ](https://curiosmos.com/the-sacred-rock-of-machu-picchu-runs-the-risk-of-disappearing/)surrounding the site.[](https://curiosmos.com/the-sacred-rock-of-machu-picchu-runs-the-risk-of-disappearing/)
 
-And now, with work underway to raze the ground for a [multibillion-dollar international airport ](https://www.sciencemag.org/news/2019/02/airport-construction-threatens-unexplored-archaeological-sites-peru)feeding a vision for bringing six million visitors (eight times UNESCO’s recommended traffic) to Machu Picchu and surrounding sites each year, it’s impossible to deny that we’re creating environmental, biological, geographical, and even cultural risk to a site we once thought of as “timeless.”
+And now, with work underway to raze the ground for a [multibillion-dollar international airport](https://www.sciencemag.org/news/2019/02/airport-construction-threatens-unexplored-archaeological-sites-peru) feeding a vision for bringing six million visitors (eight times UNESCO’s recommended traffic) to Machu Picchu and surrounding sites each year, it’s impossible to deny that we’re creating environmental, biological, geographical, and even cultural risk to a site we once thought of as “timeless.”
 
 Similar impact, by the way, has already altered those Rainbow Mountains, even in the less-than-a-decade since they were first visited by tourists. Wetlands that were once a resting grounds for a spectrum of migratory birds have now been [paved into parking lots](https://www.smithsonianmag.com/smart-news/perus-rainbow-mountain-could-be-danger-thanks-recent-popularity-180968962/). Refuse left by hundreds (some say [thousands](https://www.google.com/search?q=crowds+at+rainbow+mountain&safe=strict&rlz=1C5CHFA_enUS744US744&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi-y667h7niAhVSuHEKHbp7DHMQ_AUIDigB&biw=1273&bih=548#imgrc=UxqslwrNKQTdRM:)) of tourists each day increasingly challenges local infrastructure, and foot traffic along the growing number of trails is markedly eroding the colorful – though not as colorful as [Photoshop and Instagram would have you think ](https://www.roamingaroundtheworld.com/why-not-to-trek-rainbow-mountain-peru/)– terrain.
 
@@ -44,15 +46,15 @@ Writing this, I feel like a downer. I get it. And I’m asking myself the hard q
 
 I don’t know. Dumping out my bucket list comes at a cost: I love travel, the slow and deliberate kind that opens up understanding of the world and the people who inhabit it. When I have traveled, especially in recent years, it’s been deliberate and carefully planned with a mind toward minimizing my direct impact.
 
-Yet I can’t deny that impact. A long-haul flight (such as one from the US to Peru, or to pretty much anywhere else on my original bucket list) can generate [as many carbon emissions](https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year) than a year's worth of activity for a person in many parts of the world. Ironically, my [flight to Lima](https://flightemissionmap.org/#San%20Francisco/37.77,-122.42/160/20000) would be more than the annual carbon footprint of someone [living in Peru](https://www.worldometers.info/co2-emissions/peru-co2-emissions/).
+Yet I can’t deny that impact. A long-haul flight (such as one from the US to Peru, or to pretty much anywhere else on my original bucket list) can generate [as many carbon emissions](https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year) than a year's worth of activity for a person in many parts of the world. Ironically, my [flight to Lima](https://flightemissionmap.org/#San%20Francisco/37.77,-122.42/160/20000) would be more than the annual carbon footprint of someone [actually living there](https://www.worldometers.info/co2-emissions/peru-co2-emissions/).
 
 Even a short flight has an impact.
 
-And all of the stuff needed to prepare me for that trip, even if acquired as sustainably as possible, involves the sort of cargo ship[transport that some say contribute 20% of the world’s greenhouse gas emissions](https://phys.org/news/2018-12-cargo-ships-emitting-boatloads-carbon.html), not to mention all of the energy and raw materials required to produce it.
+And all of the stuff needed to prepare me for that trip, even if acquired as sustainably as possible, involves the sort of cargo ship [transport that some say contribute 20% of the world’s greenhouse gas emissions](https://phys.org/news/2018-12-cargo-ships-emitting-boatloads-carbon.html), not to mention all of the energy and raw materials required to produce it.
 
 So what to do?
 
-I don’t know. And I’m not ready to say I’m landlocked for all of the years ahead, yet writing that reminds me what a rare privilege it is to even consider heading to a bucket list destination: the mobility that enables even the idea is a relatively new human innovation.
+I’m not ready to say I’m landlocked for all of the years ahead, yet writing that reminds me what a rare privilege it is to even consider heading to a bucket list destination: the mobility that enables even the idea is a relatively new human innovation.
 
 Yet it’s likely a short-lived one. Given the impact that the surge of choices we all face has created, it’s clear that our impact on the environment in the last few centuries outweighs that of the countless millennia preceding that.
 
@@ -64,5 +66,4 @@ It’s wonderful to think of Machu Picchu being spared one set of footprints yet
 
 That may be an infinitesimal fraction of the demands we’re placing on this fragile and singular planet – the only one we have – yet as countless wise voices have told us, the journey of a thousand miles begins with a single step – or a non-step. In this case, that is the path I’m choosing.
 
-**\
-Ellen Petry Leanse is an author, teacher, and technology pioneer who lives and works in the San Francisco Bay Area. You can follow her on Twitter at[www.twitter.com/chep2m](http://www.twitter.com/chep2m)**
+*Ellen Petry Leanse is an author, teacher, and technology pioneer who lives and works in the San Francisco Bay Area. You can follow her on Twitter at [www.twitter.com/chep2m](http://www.twitter.com/chep2m)*
