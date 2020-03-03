@@ -14,6 +14,8 @@ read_time_minute: 7
 
 I first saw it in a travel magazine when I was something like seven: Machu Picchu, that breathtaking “Lost City” of the Incas. Emerald green and nestled in craggy peaks unlike any mountain I’d seen before: one awestruck gaze and a dream formed. “I’ll travel there someday,” I told myself, imagining grassy, timeless earth beneath my feet as I reveled in pyramids of Andean granite against a misty blue sky.
 
+![](/images/uploads/macchupiccu.jpg "Photo by Don Woods on Unsplash")
+
 Later, as an adult, I planned a journey: 5,000 miles of air travel, a bus to the base of the Inca Trail, and four days of hiking through small villages and open grasslands before reaching my long-imagined destination. In my minds’ eye I envisioned the moment where those incomparable structures, natural and human-made, revealed themselves to me, sun filtering down on the lush grasses surrounding the pyramids.
 
 As I researched I learned about the newly-revealed [Rainbow Mountains](https://www.google.com/search?q=peru%27s+rainbow+mountains&rlz=1C5CHFA_enUS744US744&sxsrf=ACYBGNQKvxXzFwdta8n2Qh9k9EdzHlmirQ:1583115347725&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj028Gf3PrnAhVGI6wKHX_MDG4Q_AUoAXoECBsQAw&biw=1280&bih=550), a surreally beautiful site a few days’ trek from Cusco, and added that as a “must do” to the schedule I planned out.
