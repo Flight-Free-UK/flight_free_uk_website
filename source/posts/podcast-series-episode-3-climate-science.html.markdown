@@ -3,7 +3,7 @@ published: true
 title: 'Podcast series episode 3: climate science'
 category: climate
 date: 2020-03-03T21:13:46.479Z
-cover_image: /images/uploads/mattwinning.jpg
+cover_image: /images/uploads/mattywinning.jpg
 summary: >-
   The third episode in our 2020 podcast series features comedian Dr Matt
   Winning, who takes us through some climate facts as well as making us laugh
