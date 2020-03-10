@@ -74,4 +74,6 @@ And that’s a message we’re also trying to push – that we should *talk* abo
 
 You can find out more about Matt and his tour dates [on his website](http://www.mattwinning.com). He also has his own podcast, [Operation Earth](http://www.mattwinning.com/opearthpod), where he interviews comedians about what’s going on. 
 
-*You can listen to this full podcast by going to our [podcast page](https://flightfree.co.uk/podcast/).*
+***You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).***
+
+*Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
