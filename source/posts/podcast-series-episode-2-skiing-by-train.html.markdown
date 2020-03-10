@@ -9,7 +9,7 @@ summary: >-
   Daniel Elkan about why travelling to the slopes by train is always better than
   flying
 author: FlightFree UK
-read_time_minute: 5
+read_time_minute: 7
 ---
 ***This is the transcript of our conversation with ski journalist Daniel Elkan about the benefit of travelling by train. You can listen to the podcast, and access the rest of the series, [here](https://flightfree.co.uk/podcast/).***
 
@@ -21,7 +21,7 @@ DANIEL
 
 When I first started skiing I didn't have a clue about how to get the Alps. My friends told me to turn up at Gatwick at 5am, so I did, along with thousands of people looking grumpy and shuffling through queues. I assumed it would be a quick journey because it’s only a 90 minute flight, but the whole journey must have taken about 10 hours. I couldn't believe it!
 
-The next time I went skiing I thought, it can’t possibly take that long again,but it did. As we were approaching the resort on the coach from the airport I noticed a railway track and which made me realise that it might have been possible to get here by train. I asked the people in the resort but no one seemed to know how long it would take.
+The next time I went skiing I thought, it can’t possibly take that long again, but it did. As we were approaching the resort on the coach from the airport I noticed a railway track and which made me realise that it might have been possible to get here by train. I asked the people in the resort but no one seemed to know how long it would take.
 
 When I got home I went into my loft and found an old European rail timetable from an Interrail trip and saw that I could reach the resort in Italy by taking the Eurostar and a TGV, and it looked as though it would take about the same amount of time as we spent flying.
 
@@ -115,4 +115,4 @@ ANNA
 
 ***You can listen to the podcast, and access the rest of the series, [here](https://flightfree.co.uk/podcast/).***
 
-*Credits: interview conducted by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
+*Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
