@@ -25,6 +25,6 @@ The challenges currently being faced by businesses and individuals as a result o
 
 Fundamentally, we are a behaviour change campaign, and we will continue to campaign for a shift away from air travel. We will strongly promote our message that a reduction in air traffic is necessary for the good of the climate, and continue to inspire travel by other means. Of course, overland travel is also being curtailed at this time, and we would urge people to follow official guidelines about travelling during the Coronavirus outbreak.
 
-Ultimately we will continue to promote our vital message. The climate crisis is not going away and now and in the future we will keep running our campaign to the best of our ability.
+Ultimately, the climate crisis is not going away, so now and in the future we will keep promoting our vital message to the best of our ability.
 
 *Flight Free UK, 13th March 2020*
