@@ -27,4 +27,4 @@ Fundamentally, we are a behaviour change campaign, and we and will continue to c
 
 Ultimately we will continue to promote our vital message. The climate crisis is not going away and now and in the future we will keep running our campaign to the best of our ability.
 
-*13th March 2020*
+*Flight Free UK, 13th March 2020*
