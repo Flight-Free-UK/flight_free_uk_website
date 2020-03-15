@@ -50,7 +50,6 @@
 
 .blog-post-body a {
   @apply text-orange;
-  @apply font-normal;
 }
 
 .blog-post-body a:hover {
@@ -58,7 +57,7 @@
 }
 
 .blog-post-body p, .blog-post-body ul, .blog-post-body ol {
-  @apply text-lg leading-normal text-text-default font-light;
+  @apply text-lg leading-normal text-text-default;
   @apply mb-6;
 }
 
