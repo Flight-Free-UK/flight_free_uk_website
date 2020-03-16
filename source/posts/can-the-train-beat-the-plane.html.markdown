@@ -37,7 +37,7 @@ Airlines advertise Bristol to Edinburgh fares of just £21 each way, but those f
 
 Perhaps the only comparison that ought to matter is carbon emissions. In *[How Bad are Bananas?](https://www.waterstones.com/book/how-bad-are-bananas/mike-berners-lee/9781846688911)* Mike Berners-Lee estimated that, for a similar length of journey, the train’s emissions are about one third of flying. The carbon intensity of our electricity has halved since that book was written, though this journey is at least partly by diesel train. To keep your emissions as low as possible choose the west coast route and travel standard class.
 
-I think many of us have fallen for the low-cost airlines’ own publicity when it comes to the cost of flying. Trains are not always more expensive, and, on key inter-city routes, may not be that much slower. Airlines rarely acknowledge the environmental cost, except to suggest that offsetting could make your flight carbon neutral – although there are huge problems associated with that.
+I think many of us have fallen for the low-cost airlines’ own publicity when it comes to the cost of flying. Trains are not always more expensive, and, on key inter-city routes, may not be that much slower. Airlines rarely acknowledge the environmental cost, except to suggest that offsetting could make your flight carbon neutral – although there are [huge problems](https://flightfree.co.uk/post/the-truth-about-carbon-offsets/) associated with that.
 
 But we would do well to remember that part of the joy of travel is the experience of getting there, not just the act of arrival. And to really experience our country: the size of it, and the variety of its landscapes, the train can’t be beaten.
 
