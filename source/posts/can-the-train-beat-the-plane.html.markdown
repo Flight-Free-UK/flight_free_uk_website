@@ -25,7 +25,7 @@ Then we stopped. We waited. The train manager made an announcement about overhea
 
 T and I took a walk up to the ‘shop’, otherwise known as the buffet, where he exchanged his pocket money for a packet of mints and I examined the hot food options (mainly burgers and paninis). A friendly member of catering staff told me that this was an all-electric train, and if the power lines failed we would have to wait for a locomotive to tow us to a station. But at that moment we started moving again.
 
-![](/images/uploads/a_geography_lesson.jpg)
+![](/images/uploads/a_geography_lesson.jpg "A geography lesson")
 
 Crossing the border into Scotland the hills grew more dramatic and then abruptly fell away as we crossed the floodplain of the River Clyde near Carstairs. Our arrival in Edinburgh was theatrical, gliding past Murrayfield Stadium and beneath the clifftop Castle, then coming to a halt at Waverley Station, 42 minutes late, but still in daylight. We spilled gratefully out of the station and straight on to one of Europe’s most beautiful boulevards, Princes Street, five minutes’ walk from our hotel.
 
@@ -35,7 +35,7 @@ As for cost, our train tickets cost £288.40 including a booking fee. That was f
 
 Airlines advertise Bristol to Edinburgh fares of just £21 each way, but those fares aren’t available on a Friday in the school holidays. For our journey the total cost for our party of three is currently £237.94. But we would have had to add around £55.00 for buses to and from the airport at each end (more for taxis), giving a total cost of £293. There are also extra fees each way to reserve your seats or check a bag. And flexible tickets cost much, much more. On this occasion, the train wins on price.
 
-Perhaps the only comparison that ought to matter is carbon emissions. In *How Bad are Bananas?* Mike Berners-Lee estimated that, for a similar length of journey, the train’s emissions are about one third of flying. The carbon intensity of our electricity has halved since that book was written, though this journey is at least partly by diesel train. To keep your emissions as low as possible choose the west coast route and travel standard class.
+Perhaps the only comparison that ought to matter is carbon emissions. In *[How Bad are Bananas?](https://www.waterstones.com/book/how-bad-are-bananas/mike-berners-lee/9781846688911)* Mike Berners-Lee estimated that, for a similar length of journey, the train’s emissions are about one third of flying. The carbon intensity of our electricity has halved since that book was written, though this journey is at least partly by diesel train. To keep your emissions as low as possible choose the west coast route and travel standard class.
 
 I think many of us have fallen for the low-cost airlines’ own publicity when it comes to the cost of flying. Trains are not always more expensive, and, on key inter-city routes, may not be that much slower. Airlines rarely acknowledge the environmental cost, except to suggest that offsetting could make your flight carbon neutral – although there are huge problems associated with that.
 
