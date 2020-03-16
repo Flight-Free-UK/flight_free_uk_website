@@ -18,7 +18,7 @@ A point was raised on our Twitter feed recently: a person who flies little, neve
 
 The answer, of course, is no – this person is not the problem. But it is not so simple as that. When we consider the focus of our campaign, and our target group, in truth, it is everyone, and all flights. The five-times-a-week, the few-times-a-month, the once-every-ten-years. All of those flights are important in the fight against climate change.
 
-**Carbon reduction**
+#### Carbon reduction
 
 By not taking that flight to Japan, you will save 3 tonnes CO2 from your personal carbon footprint\* – a not-insignificant amount when you consider that the average annual footprint in Europe is 8 tonnes, and a ‘sustainable’ footprint\* is 2.3 tonnes. Of course, if it’s just once in a blue moon, that one flight is not going to tip the balance in terms of our global emissions.
 
@@ -26,13 +26,13 @@ But not taking a flight is about more than carbon. As Greta Thunberg said when s
 
 Our campaign is about behaviour change, not simply emissions reduction. Movements such as this have already been seen to be effective: in Sweden [domestic flights are down by 9%](https://www.bbc.co.uk/news/world-europe-51067440), some routes have been cancelled, and night trains are being reinstated across Europe. Industry has really responded to the growing trend away from flights, with alternative modes of transport being given a boost. If we continue to demand flights, we will continue to get them. If we spend our money elsewhere, that is where the investment will go.
 
-**Reaching the 15% who take the majority of flights**
+#### Reaching the 15% who take the majority of flights
 
 But perhaps more significantly, we must not ignore the effect on those around us. By refusing to take a flight you make a political as well as an environmental statement. Perhaps unsurprisingly, studies have shown that you are more likely to reduce the number of flights you take, or stop flying altogether, [if you know someone](https://theconversation.com/climate-change-yes-your-individual-action-does-make-a-difference-115169) who has done the same. We are social creatures and have a tendency to follow the herd, which means that our influence is often wider than we think.
 
 Though you might not be one of the [15% who takes 70% of the flights](http://afreeride.org/about/), you might know someone who is. By taking a flight, no matter how occasionally, you are ‘just like them’ – you have common ground. By refusing that flight, and talking about why, you stand out. People take notice. Start to question. They might not themselves cancel a flight any time soon, but you can bet they’ll be thinking about it. This is how movements grow – a significant few bucking a trend, and the trend starting to follow.
 
-**The low-hanging fruit**
+#### The low-hanging fruit
 
 To come back to the fruit analogy, it is almost impossible to reach the high branches unless you clear the lower ones first. By collecting all the low-hanging fruit, the next layer up is revealed and accessible. Once that is clear, the high branches are within reach. No behaviour change project worked by going straight in at the jugular. The ‘easy targets’ give our campaign credence and legitimacy, and we must engage those first in order to reach the higher polluters.
 
