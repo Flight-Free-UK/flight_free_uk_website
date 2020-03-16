@@ -16,7 +16,7 @@ Carbon offsetting is back. It first emerged as a popular idea in the mid-noughti
 
 Offsetting offers the promise of making flights ‘carbon neutral’. But how exactly do offsets work, and can they be trusted?
 
-**What is carbon offsetting?**
+#### What is carbon offsetting?
 
 Let’s assume we can calculate how much carbon is emitted from a flight, or other activity, per person. Carbon offsetting means doing something to reduce that same amount of carbon from the atmosphere, so that in theory you have made that activity carbon neutral (or specifically ‘net’ neutral). Reducing carbon can mean planting trees, or using man-made technology to extract carbon or other greenhouse gases from the atmosphere. As we shall see there are also other, more questionable, methods too.
 
@@ -26,13 +26,13 @@ For an example, let’s take a return economy flight from London Heathrow to New
 
 ![](/images/uploads/offset-table.png "Information correct as of 2nd February 2020")
 
-**Why do the emissions and costs differ so much?**
+#### Why do the emissions and costs differ so much?
 
 There are two main reasons. The calculations of emissions of a flight depend on a provider’s methodology. Non-carbon emissions which are created by aircraft – like water vapour, aerosols and nitrogen oxides – may or may not be factored in. Also, emissions at high altitude have a greater warming effect on the atmosphere than emissions at ground-level. So aviation emissions could have up to three times more warming effect – or ‘radiative forcing’, to use the jargon – than if they were carbon-only emissions at ground-level. But as the science is not completely [clear](https://www.carbonbrief.org/explainer-challenge-tackling-aviations-non-co2-emissions), different providers can justify using different methodologies to generate high/low emission figures with corresponding expensive/cheap costs to the customer.
 
 The second reason is that project costs vary hugely depending on location, the certification standard used, and the type of offset. Planting trees in say, the UK, costs more than in Africa, so most projects will be in developing countries. Different certification standards – of which there are several – also carry different costs depending on how stringent they are. Generally speaking, the Voluntary Carbon Standard (or VCS) a recognised industry certification, is cheaper to adhere to than the Clean Development Mechanism (CDM), a certification derived from the United Nations’ Kyoto Protocol. In terms of project types, schemes which protect trees will be cheaper than ones which involve planting new ones or building new wind farms.
 
-**Can we trust offsets?**
+#### Can we trust offsets?
 
 This is where offsets get contentious. There are three big problems with offsetting: time, ‘additionality’, and ethics.
 
@@ -42,7 +42,7 @@ Offsetting isn’t always effective, or ‘additional’. In other words, it’s
 
 A recent EU [report](https://www.transportenvironment.org/news/85-offsets-failed-reduce-emissions-says-eu-study) concluded that 85 per cent of CDM projects were unlikely to have been ‘additional’. The most reliable offsets studied weren’t photogenic ones like tree-planting, but industrial processes like capturing methane from landfill sites. Added to this, emerging negative emission technologies like that developed by [Climeworks](https://www.climeworks.com/), who capture and store carbon directly from the air, are much quicker and more obviously ‘additional’ – but they are currently expensive and hard to scale-up.
 
-**What else can we do?**
+#### What else can we do?
 
 Ethically, carbon offsets, can seem like a way to avoid taking responsibility for our own behaviour: to avoid flight-shame without avoiding flights. Of course, not everyone can avoid all flights, and it’s understandable that people who ‘need’ a flight may also want to reduce its environmental harm. But perhaps we ought to view offset schemes as a well-intentioned kind of charity, not a scientific way to be ‘carbon neutral’. If the ultimate goal is to alleviate human suffering, perhaps donating to charities who help victims of climate-related disasters, represents a more effective bang-per-buck.
 
