@@ -35,4 +35,4 @@ The main complication is that my boyfriend is from Bolivia, and one day will pro
 
 I hope that with the recent rise in demand for flight free travel there will be more and cheaper options for ocean crossings; having loved ones in different hemispheres is challenging enough even if you do fly. But the Flight Free campaign has already made me far more motivated to seek out alternatives, to see the travel itself as an adventure, and to question my feeling of entitlement to jump on a plane. As a child I dreamed of sailing the oceans on a three-masted ship, so if I can do a flight-free ocean crossing I think it would be an unforgettable experience. Having moved 1000 km for love without flying, the challenge of moving 10,000 seems far more possible.
 
-*Dr Claire Wordley ([https://clairewordley.com](https://clairewordley.com/)) is an ecologist, zoologist, writer and activist. Twitter @clairefrwordley ([https://twitter.com/​clairefrwordley](https://twitter.com/clairefrwordley)).*
+*[Dr Claire Wordley](https://clairewordley.com/) is an ecologist, zoologist, writer and activist. Twitter [@clairefrwordley](https://twitter.com/clairefrwordley)*
