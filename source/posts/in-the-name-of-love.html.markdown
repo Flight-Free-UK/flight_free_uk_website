@@ -3,7 +3,7 @@ published: true
 title: In the name of love
 category: flight_free_2020
 date: 2020-03-17T15:47:25.698Z
-cover_image: /images/uploads/unnamed.jpg
+cover_image: /images/uploads/claireboyf.jpg
 summary: >-
   A global society means ‘love miles’ are common. But to avoid the emissions,
   Claire Wordley took a drastic approach: quitting her job and moving countries
