@@ -9,7 +9,7 @@ summary: >-
   Claire Wordley took a drastic approach: quitting her job and moving countries
   to be with her man.
 author: FlightFree UK
-read_time_minute: 3
+read_time_minute: 6
 ---
 ![](/images/uploads/claireboyf.jpg "Claire and Alfredo")
 
