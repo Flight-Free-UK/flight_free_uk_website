@@ -11,6 +11,8 @@ summary: >-
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/claireboyf.jpg "Claire and Alfredo")
+
 In many ways, I had an idyllic life. A good job at the University of Cambridge, and a home in a small village outside the city where I could grow my own fruits and vegetables in the garden and cycle to work through the fields. My career in tropical biology and conservation had given me plenty of opportunities to travel around the world for fieldwork and conferences, including the one where I met my now-boyfriend, who was working in Berlin and invited me to visit from the UK. Soon, we were seeing each other every month or two. I felt twinges of guilt about flying but I rationalised it was a drop in the ocean.
 
 Then in late 2018, everything changed. I read the IPCC SR 1.5 report and the reality of our situation really hit home. My idyllic life lost its sheen; nothing much made sense to me any more apart from taking action on climate change and being with the people I loved, which included my boyfriend, the boyfriend who lived 1000 kms away in Berlin.
@@ -25,7 +27,7 @@ Since being in Germany I have discovered a different type of travel. Last summer
 
 Having had the good fortune to study animals in the tropics, I wondered whether Europe could really thrill me. Yet I was as elated to find wolf scat 60 km from Berlin as I was to find tiger pug marks in India. Nesting storks make me stop and gawp every time. Kayaking at dusk, with bats flitting about our heads, we once came upon a wild boar on the riverbank – as enchanting an experience as any I’ve had, and only an hour and a half away by train. I realised the joy of travel is about mindset. If you see a particular experience as exciting then it is, no matter how nearby or familiar it is.
 
-![](/images/uploads/kayak_german_lake.jpg)
+![](/images/uploads/kayak_german_lake.jpg "Kayaking in Spreewald, Germany")
 
 There’s also a real delight in going to places that you’ve visited before and seeing how they change through the seasons. For me, it’s helped me to feel at home in Germany because there are trees I visit regularly to check if the woodpecker chicks have hatched, or places I go and see if the swifts and storks have come back from migration. It makes me feel more rooted and connected to where I am.
 
