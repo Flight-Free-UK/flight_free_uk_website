@@ -16,6 +16,14 @@ members:
     name: Alice Clarke
     photo: /images/uploads/alice.jpeg
     role: Visual media
+  - name: Faye Barcoe
+    role: North West coordinator
+    photo: /images/uploads/faye.jpg
+    bio: >-
+      With a degree in wildlife conservation and ecology, Faye has a keen
+      interest in the environment and environmental science. She has previously
+      volunteered as a Student Ambassador and with the RSPCA in Manchester where
+      she lives.
   - name: Joshua Barr
     role: South East coordinator
     bio: >-
@@ -72,11 +80,3 @@ members:
       A Bristol resident, Toby is well-placed to coordinate our South West
       activities. After working in the political sector he joined the Flight
       Free UK team because of a passion for environmental advocacy.
-  - name: Faye Barcoe
-    role: North West coordinator
-    photo: /images/uploads/faye.jpg
-    bio: >-
-      With a degree in wildlife conservation and ecology, Faye has a keen
-      interest in the environment and environmental science. She has previously
-      volunteered as a Student Ambassador and with the RSPCA in Manchester where
-      she lives.
