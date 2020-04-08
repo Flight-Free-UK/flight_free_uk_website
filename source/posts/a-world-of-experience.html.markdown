@@ -6,8 +6,8 @@ date: 2020-04-07T17:25:57.872Z
 cover_image: /images/uploads/shanghai_night.jpg
 summary: >-
   Mischa van Kesteren and his partner travelled around the world without flying,
-  and recounts some of the experiences they would never have had if they'd used
-  a plane.
+  and here recounts some of the experiences they would never have had if they'd
+  used a plane.
 author: FlightFree UK
 read_time_minute: 5
 ---
