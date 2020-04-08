@@ -32,3 +32,5 @@ Our onward journey from Shanghai took us deeper into China and then on to Vietna
 \*This is the song in question, [Golden Bomber - Memeshikute](https://www.youtube.com/watch?v=A51ZsEVVAZA), see the first chorus for side to side running and the violent hand waving throughout.
 
 ![](/images/uploads/sunset.jpg "Sunset on the ferry")
+
+*Read more about Mischa and Rosanna's travels on their blog site, [www.myjumbokimono.com](http://www.myjumbokimono.com/)*
