@@ -32,7 +32,7 @@ Biofuels are currently the most promising alternative to fossil fuels, but biofu
 
 While recycling all of our waste materials into energy sounds ideal, it isn’t without its drawbacks. Fossil fuels are still needed to create waste materials to begin with, and the process of making biofuel produces its own emissions. Additionally, synthetic fuels don’t behave in exactly the same way that fossil fuels do, so can’t be more than 50% of fuel used on a flight. As these biofuels are up to four times the price of fossil fuels, they are also fairly unpopular with airlines. Alternative fuels currently make up [less than 1% of fuel](https://www.economist.com/the-economist-explains/2018/03/15/why-arent-all-commercial-flights-powered-by-sustainable-fuel) used in the industry, so scaling up would be a massive challenge.
 
-![](/images/uploads/palm-800x450.jpg)
+![](/images/uploads/palm-800x450.jpg "Palm oil plantation")
 
 #### **Carbon Capturing**
 
