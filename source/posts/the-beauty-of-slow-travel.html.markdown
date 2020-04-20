@@ -3,10 +3,9 @@ published: true
 title: The beauty of slow travel
 category: travel
 date: 2019-01-05T17:58:37.224Z
-cover_image: /images/uploads/siberian-ferry-boat.jpg
-summary: >-
-  Flight Free UK Director Anna Hughes travels from London to Copenhagen by
-  train 
+cover_image: /images/uploads/train-window.jpg
+summary: "Flight Free UK Director Anna Hughes travels from London to Copenhagen
+  by train "
 author: FlightFree UK
 read_time_minute: 3
 ---
