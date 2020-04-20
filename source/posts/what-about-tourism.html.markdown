@@ -8,7 +8,7 @@ summary: We know that air travel facilitates global tourism, and if we were to
   stop flying, communities who rely on our visits would suffer. But is that
   really the full story?
 author: FlightFree UK
-read_time_minute: 3
+read_time_minute: 4
 ---
 ![](/images/uploads/fx58dmnrf0m01.jpg)
 
