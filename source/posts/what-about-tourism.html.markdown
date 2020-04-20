@@ -20,17 +20,15 @@ Communities that were once completely self-reliant are now dependent on foreign 
 
 The global reliance on tourism is a relatively recent thing. As our society has become more globalised, our structures have gradually shifted – in a not-so-distant past, nations were far more self-sufficient, including here in the UK. Food production, clothing, industry – outsourcing these overseas has meant that many of those once thriving, skilled communities are now dependent on tourism. Once that shift has happened, it is hard to retract.
 
-We have so much power as consumers. We can choose not to buy air-freighted goods, and we can decide against purchasing factory-made clothing, and we are aware that if something is really, really cheap, there’s usually a reason – and usually not a good one. Yet we are blinkered about this when it comes to air travel. 
-
 #### Climate considerations
 
-While flights to Thailand might support those communities on a short-term basis, does our air travel really benefit them? 
+While flights to Thailand might support those communities on a short-term basis, does our air travel *really* benefit them? 
 
 As our awareness of the climate crisis grows, it becomes ever more difficult to ignore the growing emissions from aviation, and to justify the holidays that cause them. Maja Rosén, founder of the *Flygfritt* campaign in Sweden, puts it quite succinctly: we want people to be able to travel, but if we don’t solve the climate crisis now, we are putting future travel at risk. 
 
 Nowhere is this more obvious than in the island nation of the Maldives, famously at risk from sea-level rise. Advocates of 'sustainable tourism’ encourage us to visit for its eco credentials, not acknowledging the irony that by flying to reach it we are hastening its descent into the ocean. It’s the people who are least responsible for the climate crisis who will bear the brunt of it (and indeed, already are). These are the communities who are least equipped to deal with it, which is the brutal injustice of climate change. 
 
-#### Too much tourism?
+#### A tourism addiction?
 
 And we must not ignore over-tourism. The beach in Thailand made famous by the film of the same name has now closed to visitors because of the impact of so many people flocking to see it. Ayres Rock has [seen its last ascent](https://www.independent.co.uk/travel/news-and-advice/uluru-ban-tourists-climb-ayers-rock-australia-aboriginals-sacred-site-a8030861.html), damaged from hundreds of thousands of feet tramping over its surface. Flying to Australia to see the rapidly-bleaching Great Barrier Reef will contribute to its demise. A new proposed airport at Machu Picchu will ensure that this ancient, iconic landmark will forever be blighted by the noise and smell of aeroplanes, and the litter and erosion caused by the many thousands of extra visitors it would bring.
 
