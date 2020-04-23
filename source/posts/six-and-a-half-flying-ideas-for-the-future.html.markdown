@@ -87,7 +87,7 @@ EMBED: https://youtu.be/IpgbpWErXjY
 
 #### 6. Return of the airship
 
-The curiously named [Flying Whales](flying-whales.com/en) presented their flying of the future: helium airships, primarily aimed at transporting cargo. Their rigid cell design can supposedly hold 60 tonnes of cargo and can unload without docking. As helium is lighter than air, there is no need for upward propulsion. Romain Schalck, representing the French startup, suggested that as we transition to renewable energy sources, we'll need large scale infrastructure. At the moment, transporting the parts to build a wind farm is largely done by lorries on roads. Imagine a wind farm's parts being delivered by airship? 
+The curiously named [Flying Whales](http://flying-whales.com/en) presented their flying of the future: helium airships, primarily aimed at transporting cargo. Their rigid cell design can supposedly hold 60 tonnes of cargo and can unload without docking. As helium is lighter than air, there is no need for upward propulsion. Romain Schalck, representing the French startup, suggested that as we transition to renewable energy sources, we'll need large scale infrastructure. At the moment, transporting the parts to build a wind farm is largely done by lorries on roads. Imagine a wind farm's parts being delivered by airship? 
 
 Production of these 154m long airships is taking place in Canada, France and China. Lift off is expected in 2021 and 150 of them are expected by the end of the decade. 
 
@@ -128,7 +128,7 @@ Our culture and the leisure industry in the UK and the West is in part built on 
 
 Maybe that's the root of the problem? If we focussed on making our lives, our homes, our neighbourhoods, our jobs, our priorities enriching and thoughtful, maybe we wouldn't all feel we're entitled to jump on a plane to get away from the 'daily grind’.
 
-In fact I think the most radical idea I discovered throughout the whole conference was challenging the idea of travel altogether. Check out [Closeby.ch](https://closeby.ch)!
+In fact I think the most radical idea I discovered throughout the whole conference was challenging the idea of travel altogether. Check out [CloseBy.ch](https://closeby.ch)!
 
 *[Sophia Cheng](http://www.withmanyroots.com/%23blog) presents and hosts workshops around climate change and climate justice. She‘s recently launched a 1-1 mentoring service to support people wanting to make a change but not sure where to start. Find out more about [EcoMentor.](https://ecomentor.me/)*
 
