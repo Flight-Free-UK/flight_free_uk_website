@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Six and a half flying ideas for the future
 category: opinion
 date: 2020-04-23T14:25:03.809Z
@@ -40,7 +40,7 @@ Questions it prompted from me:
 * Does running a fuel that relies on waste incentivise consumption? Like the Danish new waste incineration plant that is now [looking for foreign waste to burn](https://www.politico.eu/article/denmark-garbage-gamble-amager-bakke-plant-waste/)!!
 * Currently the blend to conventional kerosene is 50:50 – with the aviation industry still set to grow, that's still a lot of kerosene.
 
-#### 2. New plane designs 
+#### 2. New plane designs
 
 Could completely reimagining how a plane looks be the answer? KLM are developing a 'Flying V' design, which reduces overall weight and aerodynamic drag. It can hold as many passengers as the latest Airbuses and is supposed to be 20% more fuel efficient. 
 
@@ -54,7 +54,7 @@ Questions it prompted from me:
 * Does the world need more planes that are different shapes? Slate published an [enlightening critique on the Flying V](https://slate.com/technology/2019/06/klm-flying-v-plane-climate-change-anthropocene.html).
 * We need a drastic cut in emissions now, and with Airbus still making new planes to the existing design, it will be a long time before any new designs will result in a meaningful drop in emissions.
 
-#### 3. Solar Planes 
+#### 3. Solar Planes
 
 Bertrand Piccard of Solar Impulse Foundation was the keynote speaker opening up the ChangeNOW Summit. Piccard and his co-pilot flew 40000 km around the world using solar power in 2016. The whole journey took 505 days. 
 
@@ -62,7 +62,7 @@ But with a passenger capacity of 1 and a max speed of 75 km/h this route of tech
 
 EMBED: https://youtu.be/Wa9neSLMb7o
 
-#### 4. Electric and hybrid planes 
+#### 4. Electric and hybrid planes
 
 One of the main issues with electric planes is the weight of the battery, so it’s only really a viable option for short flights. Here in the UK, LoganAir is set to launch the 1.7 mile hop between Westray and Papa Westray in the Orkney islands in 2021.
 
@@ -75,7 +75,7 @@ Questions it raised for me:
 * Just like conversations around electric cars, talk of electric planes make me nervous. There are not enough raw materials to produce the quantity of batteries being projected. The electric car industry [already faces a cobalt crisis](https://www.wired.co.uk/article/cobalt-battery-evs-shortage).
 * The extraction of raw materials from foreign countries to fuel our consumption in the West is rarely clean. People and biodiversity are inevitably exhausted. Cobalt mining for smartphones has been [linked with deaths of children](https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths) in the Democratic Republic of Congo.
 
-#### 5. Hydrogen propulsion 
+#### 5. Hydrogen propulsion
 
 Attempts to overcome some of the challenges of electric planes are developing the hydrogen fuel cell. James Plowman of ZeroAviva explained that the operating costs are much lower and there is even a retrofit solution. 
 
@@ -85,7 +85,7 @@ ZeroAviva launched a prototype for testing last year in California. Their craft 
 
 EMBED: https://youtu.be/IpgbpWErXjY
 
-#### 6. Return of the airship 
+#### 6. Return of the airship
 
 The curiously named [Flying Whales](flying-whales.com/en) presented their flying of the future: helium airships, primarily aimed at transporting cargo. Their rigid cell design can supposedly hold 60 tonnes of cargo and can unload without docking. As helium is lighter than air, there is no need for upward propulsion. Romain Schalck, representing the French startup, suggested that as we transition to renewable energy sources, we'll need large scale infrastructure. At the moment, transporting the parts to build a wind farm is largely done by lorries on roads. Imagine a wind farm's parts being delivered by airship? 
 
@@ -132,8 +132,6 @@ In fact I think the most radical idea I discovered throughout the whole conferen
 
 *[Sophia Cheng](http://www.withmanyroots.com/%23blog) presents and hosts workshops around climate change and climate justice. She‘s recently launched a 1-1 mentoring service to support people wanting to make a change but not sure where to start. Find out more about [EcoMentor.](https://ecomentor.me/)*
 
-*You can read a longer version of this article on Sophia's blog, [With Many Roots](<http://www.withmanyroots.com/blog/six-and-a-half-flying-ideas-for-the-future
-http://www.withmanyroots.com/blog/six-and-a-half-flying-ideas-for-the-future
-http://www.withmanyroots.com/blog/six-and-a-half-flying-ideas-for-the-future>).*
+*You can read a longer version of this article on Sophia's blog, [With Many Roots](http://www.withmanyroots.com/blog/six-and-a-half-flying-ideas-for-the-future)*
 
 ![](/images/uploads/sophiacheng.jpg)
