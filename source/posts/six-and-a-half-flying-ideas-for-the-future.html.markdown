@@ -32,7 +32,7 @@ It is then blended with traditional aviation fuel, currently at 50%.
 
 Air France have been fuelling one of their domestic lines by SAF since 2011 and have [recently announced](https://corporate.airfrance.com/en/press-release/air-france-plans-flights-san-francisco-fueled-sustainable-aviation-fuel) a flight from San Francisco to Paris using SAF starting in June 2020. [Super rich Davos delegates](https://www.telegraph.co.uk/business/2020/01/20/davos-organisers-launch-carbon-offset-scheme-dilute-jet-criticism/) arriving by private jet in January were able to fuel up with SAF at Zurich for the last leg of the flight. KLM are investing in making their own SAF but building the plants takes time: 
 
-EMBED: https://youtu.be/fNPNDQ1z1dU
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fNPNDQ1z1dU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Questions it prompted from me:
 
@@ -44,7 +44,7 @@ Questions it prompted from me:
 
 Could completely reimagining how a plane looks be the answer? KLM are developing a 'Flying V' design, which reduces overall weight and aerodynamic drag. It can hold as many passengers as the latest Airbuses and is supposed to be 20% more fuel efficient. 
 
-EMBED: https://youtu.be/cmi4k3rFVio 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cmi4k3rFVio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In February 2020, Airbus responded announcing their [MAVERIC concept](https://youtu.be/pgDRkNseNxU), with a different shape but a similar fuel efficiency target.
 
@@ -60,7 +60,7 @@ Bertrand Piccard of Solar Impulse Foundation was the keynote speaker opening up 
 
 But with a passenger capacity of 1 and a max speed of 75 km/h this route of technological exploration is still in its infancy. 
 
-EMBED: https://youtu.be/Wa9neSLMb7o
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Wa9neSLMb7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 4. Electric and hybrid planes
 
@@ -83,7 +83,7 @@ And when it comes to climate change, there is no CO2 involved in running the pla
 
 ZeroAviva launched a prototype for testing last year in California. Their craft will hold 20 passengers and travel around 500 miles, so could be an option for local flights. They're in conversations with the Scottish government to test flights to Orkney summer 2020.
 
-EMBED: https://youtu.be/IpgbpWErXjY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IpgbpWErXjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 6. Return of the airship
 
@@ -97,7 +97,7 @@ Further research led me to discover [Ocean SkyCruises](https://www.oceanskycruis
 
 Contains: dramatic music
 
-EMEBD: https://youtu.be/QuM-gFJRhlY
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QuM-gFJRhlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Questions it prompted from me:
 
@@ -108,7 +108,7 @@ Questions it prompted from me:
 
 While researching for this piece I stumbled across the Ion drive. Building on an idea developed in the 1920s, "the silent system takes a powerful flow of ions generated on board the aircraft and uses it to propel the plane forward over a sustained and steady flight," reports [Silicon Republic](https://www.siliconrepublic.com/machines/wacky-sci-fi-aircraft-mit-no-moving-parts).
 
-EMBED: https://youtu.be/boB6qu5dcCw
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/boB6qu5dcCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ok ok, so this idea has a long way to go.
 
