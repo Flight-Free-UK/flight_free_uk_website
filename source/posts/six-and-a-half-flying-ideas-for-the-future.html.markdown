@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Six and a half flying ideas for the future
 category: opinion
 date: 2020-04-23T14:25:03.809Z
@@ -132,6 +132,6 @@ In fact I think the most radical idea I discovered throughout the whole conferen
 
 *[Sophia Cheng](http://www.withmanyroots.com/%23blog) presents and hosts workshops around climate change and climate justice. She‘s recently launched a 1-1 mentoring service to support people wanting to make a change but not sure where to start. Find out more about [EcoMentor.](https://ecomentor.me/)*
 
-*You can read a longer version of this article on Sophia's blog, [With Many Roots](http://www.withmanyroots.com/blog/six-and-a-half-flying-ideas-for-the-future)*
+*You can read a longer version of this article [on Sophia's blog](http://www.withmanyroots.com/blog/six-and-a-half-flying-ideas-for-the-future), and you can read our 'One of the 100,000' interview with her [here](https://flightfree.co.uk/post/one-of-the-100-000-sophia-cheng/).*
 
 ![](/images/uploads/sophiacheng.jpg)
