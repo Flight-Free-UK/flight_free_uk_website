@@ -5,8 +5,7 @@ category: opinion
 date: 2020-04-23T14:25:03.809Z
 cover_image: /images/uploads/grandpalais.jpeg
 summary: Flight free 2020 pledger Sophia Cheng attended the ChangeNOW Summit in
-  Paris, and shares what she learned about the industry’s take on a sustainable
-  future for aviation.
+  Paris, and shares what she learned about a sustainable future for aviation.
 author: FlightFree UK
 read_time_minute: 8
 ---
