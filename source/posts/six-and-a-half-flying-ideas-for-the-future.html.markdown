@@ -33,7 +33,7 @@ Air France have been fuelling one of their domestic lines by SAF since 2011 and 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fNPNDQ1z1dU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Questions it prompted from me:
+#### Questions it raised for me:
 
 * SAF reduces CO2 emissions from the extraction of the oil by 80%, but what about the emissions while the plane is in the air?
 * Does running a fuel that relies on waste incentivise consumption? Like the Danish new waste incineration plant that is now [looking for foreign waste to burn](https://www.politico.eu/article/denmark-garbage-gamble-amager-bakke-plant-waste/)!!
@@ -45,9 +45,11 @@ Could completely reimagining how a plane looks be the answer? KLM are developing
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cmi4k3rFVio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 In February 2020, Airbus responded announcing their [MAVERIC concept](https://youtu.be/pgDRkNseNxU), with a different shape but a similar fuel efficiency target.
 
-Questions it prompted from me:
+#### Questions it raised for me:
 
 * Is a 20% improvement in fuel efficiency good enough given where the climate science stands?
 * Does the world need more planes that are different shapes? Slate published an [enlightening critique on the Flying V](https://slate.com/technology/2019/06/klm-flying-v-plane-climate-change-anthropocene.html).
@@ -69,7 +71,7 @@ Panelists were quick to point out the many issues with electric flights, includi
 
 [The Conversation](https://theconversation.com/climate-explained-why-dont-we-have-electric-aircraft-123910) provides a comprehensive overview with the issue of electric planes.
 
-Questions it raised for me: 
+#### Questions it raised for me: 
 
 * Just like conversations around electric cars, talk of electric planes make me nervous. There are not enough raw materials to produce the quantity of batteries being projected. The electric car industry [already faces a cobalt crisis](https://www.wired.co.uk/article/cobalt-battery-evs-shortage).
 * The extraction of raw materials from foreign countries to fuel our consumption in the West is rarely clean. People and biodiversity are inevitably exhausted. Cobalt mining for smartphones has been [linked with deaths of children](https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths) in the Democratic Republic of Congo.
@@ -98,7 +100,7 @@ Contains: dramatic music
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QuM-gFJRhlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Questions it prompted from me:
+#### Questions it raised for me:
 
 * But aren't we [running out of helium](https://www.npr.org/2019/11/01/775554343/the-world-is-constantly-running-out-of-helium-heres-why-it-matters?t=1582284521029)?
 * Do we need to be careful? Making the inaccessible accessible can be a force for good and for bad. While an airship could provide important supplies after a disaster, it could also open up previously 'safe' areas for extraction – something Flying Whales do not deny, as their website offers it as "A solution to log from land-locked areas." !!
@@ -108,6 +110,8 @@ Questions it prompted from me:
 While researching for this piece I stumbled across the Ion drive. Building on an idea developed in the 1920s, "the silent system takes a powerful flow of ions generated on board the aircraft and uses it to propel the plane forward over a sustained and steady flight," reports [Silicon Republic](https://www.siliconrepublic.com/machines/wacky-sci-fi-aircraft-mit-no-moving-parts).
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/boB6qu5dcCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 Ok ok, so this idea has a long way to go.
 
