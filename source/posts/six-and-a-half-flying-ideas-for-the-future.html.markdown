@@ -33,7 +33,7 @@ Air France have been fuelling one of their domestic lines by SAF since 2011 and 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fNPNDQ1z1dU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###### Questions it prompted from me:
+#### Questions it prompted from me:
 
 * SAF reduces CO2 emissions from the extraction of the oil by 80%, but what about the emissions while the plane is in the air?
 * Does running a fuel that relies on waste incentivise consumption? Like the Danish new waste incineration plant that is now [looking for foreign waste to burn](https://www.politico.eu/article/denmark-garbage-gamble-amager-bakke-plant-waste/)!!
