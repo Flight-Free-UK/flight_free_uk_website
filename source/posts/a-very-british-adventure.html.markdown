@@ -9,7 +9,7 @@ summary: Does adventure have to involve a flight? Not necessarily, says Anna
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/roundbritainbike.jpg)
+![](/images/uploads/roundbritainbike.jpg "The wild sea on the Ayrshire coast")
 
 What does it mean to have the adventure of a lifetime? You might think of ‘finding yourself’ on a Thai beach, or backpacking around southern India, or canoeing the length of Brazil. But does adventure only count if you go somewhere far away?
 
