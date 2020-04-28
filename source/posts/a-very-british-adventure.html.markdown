@@ -4,12 +4,13 @@ title: A very British adventure
 category: travel
 date: 2019-12-09T09:10:02.530Z
 cover_image: /images/uploads/roundbritainbike.jpg
-summary: >-
-  Does adventure have to involve a flight? Not necessarily, says Anna Hughes,
-  who went on the adventure of a lifetime without leaving Britain.
+summary: Does adventure have to involve a flight? Not necessarily, says Anna
+  Hughes, who went on the adventure of a lifetime without leaving Britain.
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/roundbritainbike.jpg)
+
 What does it mean to have the adventure of a lifetime? You might think of ‘finding yourself’ on a Thai beach, or backpacking around southern India, or canoeing the length of Brazil. But does adventure only count if you go somewhere far away?
 
 In 2011, having never had a year out or taken more than a month away from my desk, I decided the time had come for me to have my adventure. My contract at work had come to an end; I would put off looking for a new job til later. There were many places on the list that I had never explored but one stood out above all others: Britain. Despite having lived here all my life, what did I really know about this island? Could I genuinely have the adventure of a lifetime without leaving these shores? 
@@ -24,4 +25,4 @@ I arrived back in London after two and a half months on the road and more than 4
 
 Most significantly, it cemented the idea that adventure is what you make of it, not where you go. It doesn’t have to involve somewhere far away. Adventure is about broadening our horizons, but that can mean anywhere – even in the country in which we were born. For me, it was about finding the extraordinary in the ordinary, and it certainly did that; I absolutely fell in love with Britain, and know that there is still as much to discover as I have already seen. We tend to overlook what's under our noses, but it's a truly fascinating, varied and exciting island we live on. 
 
-_Anna Hughes is author of Eat Sleep Cycle: a bike ride around the coast of Britain. Read more on her website:_ [_annacycles.co.uk_](http://annacycles.co.uk)
+*Anna Hughes is author of Eat Sleep Cycle: a bike ride around the coast of Britain. Read more on her website:* *[annacycles.co.uk](http://annacycles.co.uk)*
