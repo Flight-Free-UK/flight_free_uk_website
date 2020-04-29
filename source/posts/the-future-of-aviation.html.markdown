@@ -1,6 +1,6 @@
 ---
 published: true
-title: The future of aviation
+title: The legacy of lockdown
 category: opinion
 date: 2020-04-29T15:57:54.677Z
 cover_image: /images/uploads/closed-sign.jpg
