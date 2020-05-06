@@ -77,13 +77,19 @@ Rupert's uncle, a journalist who has travelled the world, says Scotland is the b
 
 ### Christiane Lellig, travelling around Orkney with two teenage boys
 
+![](/images/uploads/img_1886.jpg)
+
 ‘Can we go to Orkney once?’ That was unexpected. I looked at my son and slowly answered, ‘Sure...’. Somewhere, he had read that you can see the Northern Lights in Orkney. And orca of course – killer whales – though that hadn’t sparked his fantasy quite as much. After many years of camping holidays in Dorset and Wales, I thought it was a brilliant idea for a holiday with teenage boys, even though we’d be fairly unlikely to see the Northern Lights in the summer.
 
 The boys knew they were in for a long train journey the minute they proposed the trip – for most of my adult life I’ve been critical of flying for ‘inland travel’ for environmental reasons so there was no way I’d organise flights to get us there. It’s so much more relaxing and comfortable to travel by train, so this trip would be an ‘expedition’, a slow journey that gradually takes body and mind through the changing landscape rather than a quick dash into a different world. I already knew it was a beautiful train journey from London to Edinburgh, and was keen for my sons to experience this, too, but as we tracked along the east coast they were far less interested in the landscape than I was.
 
+![](/images/uploads/img_1940.jpg)
+
 After a night in Inverness we continued with [ScotRail](https://www.scotrail.co.uk/) towards Thurso, the most northerly train station on mainland Britain, tracing the coast at first then heading inland between the peaks of the eastern Highlands. Travel at its best. The train brushed through trees as it stopped at the tiny villages, catapulting us into a different world with a different pace.
 
 Thurso welcomed us with sunshine and a very friendly [backpackers](https://sandras-backpackers.co.uk/) host who had organised a family room with en-suite bathroom for us. Glancing at our heavy rucksacks, he shook his head at our plan to walk to the ferry port, and organised a cab to take us to Scrabster the following morning. We arrived at the harbour under light blue skies with the gentle looking sea bashing against glowing rock formations with noticeable force. It was one of those moments you’re likely to remember for the rest of your life.
+
+![](/images/uploads/img_1882.jpg)
 
 The ferry journey from Scrabster to Stromness ranks among the most beautiful experiences of the trip; we glided away from the mainland towards Hoy, passing ‘The Old Man’ sea stack and glimpsing porpoises, with everyone on board excited at the prospect of spotting dolphins or even better, orcas! As we rounded the tip of Hoy the view opened up, with several of the islands and the Norse architecture of Stromness coming into view. The town found a place in our hearts the minute we stepped ashore.
 
@@ -91,6 +97,10 @@ There followed several days of exploring Mainland by [bike](http://www.northlink
 
 The northern islands of Westray and Papa Westray were next, via ferry from Kirkwall, and we passed between the numerous other islands that make up the archipelago – firmly on our list for another trip. Papay has a close-knit community who seem open to new arrivals; even just temporary ones are immediately encouraged to join the weekly coffee mornings in the church hall where allegedly you will meet the entire village. It is a fascinating place, and one all three of us found difficult to leave after little more than two days.
 
+![](/images/uploads/img_1897.jpg)
+
 An early morning walk through misty landscape full of low flying birds and archaic looking cormorants (dragons, really) took us back to the ferry port and we began our long journey home. Having picked up a copy of ‘The Outrun’, an autobiography of Orcadian writer Amy Liptrot, my head and heart stayed on the islands long after we had left.
 
 We will definitely be back one day; there are plenty of islands still to discover, and plenty of places we missed. And of course, perhaps next time we will see those elusive Northern Lights or finally spot some orcas.
+
+![](/images/uploads/img_1874.jpg)
