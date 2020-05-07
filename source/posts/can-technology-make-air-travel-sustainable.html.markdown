@@ -3,7 +3,7 @@ published: true
 title: Can technology make air travel sustainable?
 category: climate
 date: 2020-04-05T14:24:35.318Z
-cover_image: /images/uploads/aeroplaneemissions.jpg
+cover_image: /images/uploads/solar.jpg
 summary: We ask if techno-fixes are a viable solution to aviation's harmful emissions.
 author: FlightFree UK
 read_time_minute: 4
