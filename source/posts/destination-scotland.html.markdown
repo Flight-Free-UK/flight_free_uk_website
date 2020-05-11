@@ -69,7 +69,7 @@ In Mellon Udrigle on the west coast, the white sand beaches were virtually empty
 
 ![](/images/uploads/kate_swimming.jpg)
 
-The last time we flew was 28 years ago when a friend paid for us to visit him in Seattle. I absolutely hated the 13-hour flight. It was only because I needed to return to my 3 children aged 4, 9 and 11 that I got back on the plane. I thought I would have to overcome my flying fears in order to properly travel again, but my husband started to read environmental books such as 'How to Save the Planet’ by Meyer Hillman and 'Six Degrees’ by Mark Linas, which also made me think. We decided that we need never use air travel again and we don't feel deprived in any way.
+The last time we flew was 28 years ago when a friend paid for us to visit him in Seattle. I absolutely hated the 13-hour flight. It was only because I needed to return to my 3 children aged 4, 9 and 11 that I got back on the plane. I thought I would have to overcome my flying fears in order to properly travel again, but my husband started to read environmental books such as '[How We Can Save the Planet](https://www.amazon.co.uk/How-We-Can-Save-Planet/dp/0141016922)’ by Mayer Hillman and '[Six Degrees](https://www.amazon.com/Six-Degrees-Future-Hotter-Planet/dp/1426203853)’ by Mark Lynas, which also made me think. We decided that we need never use air travel again and we don't feel deprived in any way.
 
 Rupert's uncle, a journalist who has travelled the world, says Scotland is the best place anywhere. Although you’d want to avoid the midge season, it is extremely beautiful and the history is written on the landscape. Even in the rain, Scotland is so atmospheric and it impacts you deeply. Why would you go anywhere else?
 
@@ -91,7 +91,7 @@ There followed several days of exploring Mainland by [bike](http://www.northlink
 
 The northern islands of Westray and Papa Westray were next, via ferry from Kirkwall, and we passed between the numerous other islands that make up the archipelago – firmly on our list for another trip. Papay has a close-knit community who seem open to new arrivals; even just temporary ones are immediately encouraged to join the weekly coffee mornings in the church hall where allegedly you will meet the entire village. It is a fascinating place, and one all three of us found difficult to leave after little more than two days.
 
-An early morning walk through misty landscape full of low flying birds and archaic looking cormorants (dragons, really) took us back to the ferry port and we began our long journey home. Having picked up a copy of ‘The Outrun’, an autobiography of Orcadian writer Amy Liptrot, my head and heart stayed on the islands long after we had left.
+An early morning walk through misty landscape full of low flying birds and archaic looking cormorants (dragons, really) took us back to the ferry port and we began our long journey home. Having picked up a copy of ‘[The Outrun](https://www.amazon.co.uk/Outrun-Amy-Liptrot/dp/1782115471)’, an autobiography of Orcadian writer Amy Liptrot, my head and heart stayed on the islands long after we had left.
 
 We will definitely be back one day; there are plenty of islands still to discover, and plenty of places we missed. And of course, perhaps next time we will see those elusive Northern Lights or finally spot some orcas.
 
