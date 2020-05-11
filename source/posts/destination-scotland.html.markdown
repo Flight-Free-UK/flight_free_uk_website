@@ -2,7 +2,7 @@
 published: true
 title: "Destination: Scotland"
 category: travel
-date: 2020-05-06T12:03:03.951Z
+date: 2020-05-11T18:19:52.874Z
 cover_image: /images/uploads/scotland.jpg
 summary: Bonny Scotland is bursting with treasures, and being right on our
   doorstep it’s an obvious flight-free destination. Why holiday anywhere else?
