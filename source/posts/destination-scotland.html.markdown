@@ -33,8 +33,6 @@ Travelling by local transport is by far the loveliest way to travel. You get to 
 
 #### **Claire Stocks, cycling in the Outer Hebrides**
 
-![Cycling towards Traigh Mhor, where a tiny plane lands once a day on Barra’s beach runway, the only one in the world.](/images/uploads/claire1.png)
-
 There is nothing more exciting than starting a trip right from your front door – no taxi to the airport, no boarding queues, no traffic jams or motorway monotony. Instead, just you and the open road, and everything you need on your back, or your bike rack.
 
 Despite being 70 miles out to sea, the Outer Hebrides are accessible without a car and are arguably more enjoyable and certainly cheaper without one (you can get a foot passenger island [hopper ticket](https://www.calmac.co.uk/island-hopping) for as little as £25). We took the train from Manchester to Oban, the ‘Gateway to the Western Isles’ and our gateway to the Hebridean Way. It's a cycling route that takes you along a chain of up to ten islands (often several in one day), from Barra in the south to Lewis in the north; 300km along some of the most stunning, tranquil and enjoyable cycling in the UK, possibly Europe. Only the last two isles, Harris & Lewis, are hilly, so if you’re blessed with a tailwind (the prevailing wind is south to north), it’s a breeze to pedal. We did the trip over nine days in June and took our time, with plenty of stops for coffee and cake and to explore areas we liked further.
@@ -43,15 +41,13 @@ Despite being 70 miles out to sea, the Outer Hebrides are accessible without a c
 
 Each island is distinct in its own special way, from cute little Barra with its rocky coves, to super flat South Uist which is more water than land. But the peach has to be Harris – an unforgettable place, whichever route you choose. The eastern road twists and turns through a landscape of heathery rock outcrops past little sheltered lochans and hidden dells, where tiny white-washed hamlets and harbours nestle beneath the wind. The western road is a string of jaw-dropping beaches, with white sands and crystal clear seas, such as the world-famous [Luskentyre](https://www.visitscotland.com/info/towns-villages/luskentyre-sands-p724801). I recommend planning enough time to dawdle on both; include at least one night at [this](https://www.number5.biz) splendid hostel run by a former fisherman.
 
-![The Golden Road on Harris](/images/uploads/claire3.jpg)
-
 There were so many highlights from the islands: the wild otter sightings and the curious 12-foot basking shark that swam alongside our ferry across the Sound of Harris; camping in the Machair, a grassy plain teeming with wildlife on the west shore of South Uist; the sun setting over the wild North Atlantic; the friendly Hebridean folk; the arts and crafts – Harris in particular is home to a thriving artist community; the fresh fish and shellfish; and the train ride to and from the Scottish west coast via the West Highland Line, one of the finest rail journeys in the world, never mind the UK.
 
 One of the best things about living in Europe is how easy it is to travel like this – we have a vast area accessible by train, making car-free holidays not only easy, but a joy.
 
 *[Claire Stocks](https://beethechangeblog.co.uk/) is a writer and environmental activist.*
 
-![Catching the little CalMac ferry from Barra to Eriskay. Bikes go free!](/images/uploads/claire4.png)
+![The Golden Road on Harris](/images/uploads/claire3.jpg)
 
 #### Kate Bullock, driving around Easter Ross and Wester Ross
 
@@ -79,27 +75,21 @@ Rupert's uncle, a journalist who has travelled the world, says Scotland is the b
 
 #### Christiane Lellig, travelling around Orkney with two teenage boys
 
-![](/images/uploads/img_1886.jpg)
-
 ‘Can we go to Orkney once?’ That was unexpected. I looked at my son and slowly answered, ‘Sure...’. Somewhere, he had read that you can see the Northern Lights in Orkney. And orca of course – killer whales – though that hadn’t sparked his fantasy quite as much. After many years of camping holidays in Dorset and Wales, I thought it was a brilliant idea for a holiday with teenage boys, even though we’d be fairly unlikely to see the Northern Lights in the summer.
 
 The boys knew they were in for a long train journey the minute they proposed the trip – for most of my adult life I’ve been critical of flying for ‘inland travel’ for environmental reasons so there was no way I’d organise flights to get us there. It’s so much more relaxing and comfortable to travel by train, so this trip would be an ‘expedition’, a slow journey that gradually takes body and mind through the changing landscape rather than a quick dash into a different world. I already knew it was a beautiful train journey from London to Edinburgh, and was keen for my sons to experience this, too, but as we tracked along the east coast they were far less interested in the landscape than I was.
-
-![](/images/uploads/img_1940.jpg)
 
 After a night in Inverness we continued with [ScotRail](https://www.scotrail.co.uk/) towards Thurso, tracing the coast at first then heading inland between the peaks of the eastern Highlands. Travel at its best. The train brushed through trees as it stopped at the tiny villages, catapulting us into a different world with a different pace.
 
 Thurso welcomed us with sunshine and a very friendly [backpackers](https://sandras-backpackers.co.uk/) host who had organised a family room with en-suite bathroom for us. Glancing at our heavy rucksacks, he shook his head at our plan to walk to the ferry port, and organised a cab to take us to Scrabster the following morning. We arrived at the harbour under light blue skies with the gentle looking sea bashing against glowing rock formations with noticeable force. It was one of those moments you’re likely to remember for the rest of your life.
 
-![](/images/uploads/img_1882.jpg)
+![](/images/uploads/img_1886.jpg)
 
 The ferry journey from Scrabster to Stromness ranks among the most beautiful experiences of the trip; we glided away from the mainland towards Hoy, passing ‘The Old Man’ sea stack and glimpsing porpoises, with everyone on board excited at the prospect of spotting dolphins or even better, orcas! As we rounded the tip of Hoy the view opened up, with several of the islands and the Norse architecture of Stromness coming into view. The town found a place in our hearts the minute we stepped ashore.
 
 There followed several days of exploring Mainland by [bike](http://www.northlinkferries.co.uk/orkney-blog/orkney-cycle-routes/), on foot, and using the friendly bus service which worked a treat. We rode to [Skara Brae](http://www.orkneyjar.com/history/skarabrae/), the ‘buried’ village, and the [Ring of Brodgar](https://www.visitscotland.com/info/see-do/ring-of-brodgar-p669061) standing stones, all under large skies and a rolling landscape of sea, lochs and fields of birds. A highlight was watching seals and a pod of dolphins play in the bay at Birsay.
 
 The northern islands of Westray and Papa Westray were next, via ferry from Kirkwall, and we passed between the numerous other islands that make up the archipelago – firmly on our list for another trip. Papay has a close-knit community who seem open to new arrivals; even just temporary ones are immediately encouraged to join the weekly coffee mornings in the church hall where allegedly you will meet the entire village. It is a fascinating place, and one all three of us found difficult to leave after little more than two days.
-
-![](/images/uploads/img_1897.jpg)
 
 An early morning walk through misty landscape full of low flying birds and archaic looking cormorants (dragons, really) took us back to the ferry port and we began our long journey home. Having picked up a copy of ‘The Outrun’, an autobiography of Orcadian writer Amy Liptrot, my head and heart stayed on the islands long after we had left.
 
