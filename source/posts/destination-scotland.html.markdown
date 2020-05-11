@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Destination: Scotland"
 category: travel
 date: 2020-05-06T12:03:03.951Z
@@ -21,7 +21,7 @@ From Inverness I took the [Kyle Line](https://www.scotrail.co.uk/scotland-by-rai
 
 From the Kyle of Lochalsh you can get a coach across to Skye (buy a [ticket](https://www.citylink.co.uk/) in advance as coaches can get booked up quickly). Local buses go around the top part of the island – for timetables, visit the tourist information office in Portree. You can also get a day ticket to hop on and off and visit some of the main landmarks like the [Old Man of Storr](https://www.isleofskye.com/skye-guide/top-ten-skye-walks/old-man-of-storr).
 
-![Image credit: skyetravels.com](/images/uploads/portree.jpg)
+![](/images/uploads/portree.jpg "Portree harbour. Image credit: skyetravels.com")
 
 In the sheltered south of Skye, the landscape changes from the dramatic black and red Cuillins to more gentle, rolling hills. I took the bus from Portree to Isleornsay where I had lunch in the excellent traditional An Praban bar, part of the hotel [Eilean Iarmain](http://eileaniarmain.co.uk/). The hotel sits on the shore of a natural harbour with beautiful views across the Sound of Sleat to the mountains of the mainland.
 
@@ -37,7 +37,7 @@ There is nothing more exciting than starting a trip right from your front door �
 
 Despite being 70 miles out to sea, the Outer Hebrides are accessible without a car and are arguably more enjoyable and certainly cheaper without one (you can get a foot passenger island [hopper ticket](https://www.calmac.co.uk/island-hopping) for as little as £25). We took the train from Manchester to Oban, the ‘Gateway to the Western Isles’ and our gateway to the Hebridean Way. It's a cycling route that takes you along a chain of up to ten islands (often several in one day), from Barra in the south to Lewis in the north; 300km along some of the most stunning, tranquil and enjoyable cycling in the UK, possibly Europe. Only the last two isles, Harris & Lewis, are hilly, so if you’re blessed with a tailwind (the prevailing wind is south to north), it’s a breeze to pedal. We did the trip over nine days in June and took our time, with plenty of stops for coffee and cake and to explore areas we liked further.
 
-![The glide down from the Quiraing to Staffin, on Skye.](/images/uploads/claire2.jpg)
+![](/images/uploads/claire2.jpg "The glide down from the Quiraing to Staffin, on Skye.")
 
 Each island is distinct in its own special way, from cute little Barra with its rocky coves, to super flat South Uist which is more water than land. But the peach has to be Harris – an unforgettable place, whichever route you choose. The eastern road twists and turns through a landscape of heathery rock outcrops past little sheltered lochans and hidden dells, where tiny white-washed hamlets and harbours nestle beneath the wind. The western road is a string of jaw-dropping beaches, with white sands and crystal clear seas, such as the world-famous [Luskentyre](https://www.visitscotland.com/info/towns-villages/luskentyre-sands-p724801). I recommend planning enough time to dawdle on both; include at least one night at [this](https://www.number5.biz) splendid hostel run by a former fisherman.
 
@@ -47,7 +47,7 @@ One of the best things about living in Europe is how easy it is to travel like t
 
 *[Claire Stocks](https://beethechangeblog.co.uk/) is a writer and environmental activist.*
 
-![The Golden Road on Harris](/images/uploads/claire3.jpg)
+![](/images/uploads/claire3.jpg "The Golden Road on Harris")
 
 #### Kate Bullock, driving around Easter Ross and Wester Ross
 
@@ -57,7 +57,7 @@ We drove to Scotland in May 2019 to research my husband's ancestry and to visit 
 
 The east coast of Scotland is often overlooked in favour of the more dramatic, mountainous west coast, but the east coast is just as stunning with its acres of golden sandy beaches and wide open river mouths. These are excellent spots for wildlife; four ospreys flew over our heads at Embo beach, just north of Dornoch, and dozens of seals basked on sandbanks at low tide on Loch Fleet.
 
-![Embo beach](/images/uploads/embo.png)
+![](/images/uploads/embo.png "Embo beach")
 
 We visited the [Dornoch](https://www.dornochcastlehotel.com/) and [Dunrobin](http://www.dunrobincastle.co.uk/) castles, the former of which is now a hotel. Dunrobin is an impressive building with fairytale turrets and is best viewed across Loch Fleet. It is the home of the Sutherland family from whom my husband is descended.
 
