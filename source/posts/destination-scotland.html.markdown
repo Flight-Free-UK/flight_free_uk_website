@@ -67,7 +67,7 @@ The most amazing wildlife encounters in this part of Scotland were with cuckoos.
 
 In Mellon Udrigle on the west coast, the white sand beaches were virtually empty. Although the weather was wonderful, the sea was very cold so we put on our wetsuits. This was fortunate as we came across some friendly jellyfish! The scenery in this remote and quiet place really takes your breath away, with spectacular views of the mountains in the distance.
 
-![](/images/uploads/kate_swimming.jpg)
+![](/images/uploads/kate_swimming.jpg "Mellon Udrigle")
 
 The last time we flew was 28 years ago when a friend paid for us to visit him in Seattle. I absolutely hated the 13-hour flight. It was only because I needed to return to my 3 children aged 4, 9 and 11 that I got back on the plane. I thought I would have to overcome my flying fears in order to properly travel again, but my husband started to read environmental books such as '[How We Can Save the Planet](https://www.amazon.co.uk/How-We-Can-Save-Planet/dp/0141016922)’ by Mayer Hillman and '[Six Degrees](https://www.amazon.com/Six-Degrees-Future-Hotter-Planet/dp/1426203853)’ by Mark Lynas, which also made me think. We decided that we need never use air travel again and we don't feel deprived in any way.
 
@@ -109,7 +109,7 @@ After spending nearly a week meandering up the country via the Lake District and
 
 It promised to be the ultimate adventure, with plenty of hiking, climbing and kayaking, though I knew my friends would be doing more of everything than I could. But in the end, one of the highlights for everyone was a gentle walk along the [Lochan trails](https://www.walkhighlands.co.uk/fortwilliam/glencoelochan.shtml) – a forest walk at the foot of the Glen – where we strolled among trees dripping with moss and moisture, ferns, fungi and streams, and found a vast colony of tiny frogs in the undergrowth.
 
-![](/images/uploads/lochan-trail-2-min.jpg)
+![](/images/uploads/lochan-trail-2-min.jpg "Lochan trails")
 
 No trip to Glencoe is complete without visiting Ben Nevis. After hiking the first half an hour I left my friends to tackle the rest of the climb and drove with my boyfriend along Glen Nevis for a quieter walk to the [Steall Falls](https://visitfortwilliam.co.uk/about-ben-nevis-in-fort-william-and-ben-nevis-webcam/steall-falls-walk-in-glen-nevis-gorge-ben-nevis). We’d escaped the crowds at Ben Nevis to discover a beautiful valley filled with gorse, wild flowers and cascading streams. I rested and took in the views of the waterfall, leaving the precarious high-wire bridge to my boyfriend.
 
@@ -125,4 +125,4 @@ Equally, travel doesn’t mean going the furthest, climbing the highest, or tick
 
 After all, what could be better than the beauty of nature in the company of friends?
 
-![](/images/uploads/lochan-trail-min.jpg)
+![](/images/uploads/lochan-trail-min.jpg "Lochan trails")
