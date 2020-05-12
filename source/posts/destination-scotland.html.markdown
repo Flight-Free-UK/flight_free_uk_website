@@ -83,7 +83,7 @@ After a night in Inverness we continued with [ScotRail](https://www.scotrail.co.
 
 Thurso welcomed us with sunshine and a very friendly [backpackers](https://sandras-backpackers.co.uk/) host who had organised a family room with en-suite bathroom for us. Glancing at our heavy rucksacks, he shook his head at our plan to walk to the ferry port, and organised a cab to take us to Scrabster the following morning. We arrived at the harbour under light blue skies with the gentle looking sea bashing against glowing rock formations with noticeable force. It was one of those moments you’re likely to remember for the rest of your life.
 
-![](/images/uploads/img_1886.jpg)
+![](/images/uploads/img_1886.jpg "Noup Head, Westray")
 
 The ferry journey from Scrabster to Stromness ranks among the most beautiful experiences of the trip; we glided away from the mainland towards Hoy, passing ‘The Old Man’ sea stack and glimpsing porpoises, with everyone on board excited at the prospect of spotting dolphins or even better, orcas! As we rounded the tip of Hoy the view opened up, with several of the islands and the Norse architecture of Stromness coming into view. The town found a place in our hearts the minute we stepped ashore.
 
@@ -95,7 +95,7 @@ An early morning walk through misty landscape full of low flying birds and archa
 
 We will definitely be back one day; there are plenty of islands still to discover, and plenty of places we missed. And of course, perhaps next time we will see those elusive Northern Lights or finally spot some orcas.
 
-![](/images/uploads/img_1874.jpg)
+![](/images/uploads/img_1874.jpg "Westray, near the Links of Noltland")
 
 #### Ali Hood, hiking in Glen Coe
 
