@@ -4,14 +4,15 @@ title: Adventure begins at home
 category: travel
 date: 2020-03-06T05:00:00.000Z
 cover_image: /images/uploads/alastairhumphreys.jpg
-summary: >-
-  Renowned adventurer Alastair Humphreys' many adventures include cycling around
-  the world, rowing the Atlantic and walking the Empty Quarter desert. But on a
-  mission to fly less, Alastair sought adventure as close to home as he could –
-  without leaving the borders of his home county of Yorkshire.
+summary: Renowned adventurer Alastair Humphreys' many adventures include cycling
+  around the world, rowing the Atlantic and walking the Empty Quarter desert.
+  But on a mission to fly less, Alastair sought adventure as close to home as he
+  could – without leaving the borders of his home county of Yorkshire.
 author: FlightFree UK
 read_time_minute: 5
 ---
+![](/images/uploads/alastairhumphreys.jpg)
+
 The allure of travel differs for each of us. But whatever it is that lures us to the corners of the earth, there is one unifying thread: the aeroplane that gets us there. However, flying is not only terrible for the environment and our conscience, it also consumes a significant percentage of our holiday budget and — for short breaks — a painful proportion of our time away. Add on to the flights themselves the hours of airport shuttles, early check-ins and ‘just in case’ time and you often end up wasting a whole day of your trip at each end. 
 
 Back in my 20s, I spent four years cycling around the world. It was the adventure of a lifetime. Now, years later, I wanted to see whether I could find a local journey that replicated some of the freedom, spontaneity, curiosity and variety of those continent-crossing years. I grew up in Yorkshire and — like many of our tribe — identify proudly and loudly as a Yorkshireman. But I was aware that there was much of my home county that I knew nothing about. And so I decided to spend a month cycling around Yorkshire, wild camping and following my nose along the way.
