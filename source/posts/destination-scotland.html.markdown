@@ -37,7 +37,7 @@ There is nothing more exciting than starting a trip right from your front door �
 
 Despite being 70 miles out to sea, the Outer Hebrides are accessible without a car and are arguably more enjoyable and certainly cheaper without one (you can get a foot passenger island [hopper ticket](https://www.calmac.co.uk/island-hopping) for as little as £25). We took the train from Manchester to Oban, the ‘Gateway to the Western Isles’ and our gateway to the Hebridean Way. It's a cycling route that takes you along a chain of up to ten islands (often several in one day), from Barra in the south to Lewis in the north; 300km along some of the most stunning, tranquil and enjoyable cycling in the UK, possibly Europe. Only the last two isles, Harris & Lewis, are hilly, so if you’re blessed with a tailwind (the prevailing wind is south to north), it’s a breeze to pedal. We did the trip over nine days in June and took our time, with plenty of stops for coffee and cake and to explore areas we liked further.
 
-![](/images/uploads/claire1.png "Cycling towards Traigh Mhor, where a tiny plane lands once a day on Barra’s beach runway.")
+![](/images/uploads/claire2.jpg)
 
 Each island is distinct in its own special way, from cute little Barra with its rocky coves, to super flat South Uist which is more water than land. But the peach has to be Harris – an unforgettable place, whichever route you choose. The eastern road twists and turns through a landscape of heathery rock outcrops past little sheltered lochans and hidden dells, where tiny white-washed hamlets and harbours nestle beneath the wind. The western road is a string of jaw-dropping beaches, with white sands and crystal clear seas, such as the world-famous [Luskentyre](https://www.visitscotland.com/info/towns-villages/luskentyre-sands-p724801). I recommend planning enough time to dawdle on both; include at least one night at [this](https://www.number5.biz) splendid hostel run by a former fisherman.
 
@@ -47,7 +47,7 @@ One of the best things about living in Europe is how easy it is to travel like t
 
 *[Claire Stocks](https://beethechangeblog.co.uk/) is a writer and environmental activist.*
 
-![](/images/uploads/claire3.jpg "The Golden Road on Harris")
+![](/images/uploads/claire1.png "Cycling towards Traigh Mhor, where a tiny plane lands once a day on Barra’s beach runway.")
 
 #### Kate Bullock, driving around Easter Ross and Wester Ross
 
