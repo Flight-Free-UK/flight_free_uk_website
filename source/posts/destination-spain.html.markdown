@@ -1,15 +1,16 @@
 ---
 published: true
-title: 'Destination: Spain'
+title: "Destination: Spain"
 category: travel
 date: 2020-02-24T10:30:32.001Z
 cover_image: /images/uploads/SanSebastian.jpeg
-summary: >-
-  Our 'Destinations' series takes a look at the nation's favourite holiday
-  destination, Spain.
+summary: Our 'Destinations' series takes a look at the nation's favourite
+  holiday destination, Spain.
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/SanSebastian.jpeg "Image credit: Tim McKenna @TimMcKenna5")
+
 *Cover photo credit: Tim McKenna [@TimMcKenna5](www.twitter.com/timmckenna5)*
 
 Spain is a wonderfully varied country ranging from verdant, rolling hills and mountainous natural parks to flat plains and exquisite beaches. There’s rich architecture, world-renowned food and easy-going locals, and a temperate climate year-round. No wonder it’s so popular with us Brits. Spain is easily accessible overland from the UK – great news for those taking a flight-free year. Here’s our advice on where to go in Spain and how to get there.
