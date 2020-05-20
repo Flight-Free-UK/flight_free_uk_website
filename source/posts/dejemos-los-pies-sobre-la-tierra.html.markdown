@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: '"Dejemos los pies sobre la tierra"'
 category: opinion
 date: 2020-05-20T17:53:58.394Z
@@ -13,13 +13,13 @@ read_time_minute: 5
 
 Both individual and institutional responses are necessary. But there will be no institutional response without a demonstration that individuals are willing to change their own lives in response to the emergency. It is undeniable that the carbon cost of flying is very hard to justify. So that message needs to get out.
 
-As we say on our web page, a single flight between Lima and Madrid produces as much carbon emissions in a few hours as the average Peruvian produces in an entire year.
+As we say [on our web page](https://dejemoslospiessobrelatierra.blogspot.com/p/campana.html), a single flight between Lima and Madrid produces as much carbon emissions in a few hours as the average Peruvian produces in an entire year.
 
 #### Encouraging people to fly less collides with the perception that tourism is tremendously important to the Peruvian economy, and that asking people to not visit Perú is antipatriotic.
 
 Our response has been to underline the fact that we are not asking people to not visit Perú, but rather that they be aware of the carbon cost of their visit, and that they try to maximise the benefit associated with that cost.
 
-Perú is an enormous country full of interesting historic, natural and cultural attractions. And yet, 95% of foreign visitors go to one small place: Machu Picchu. As with many such tourism concentrates, the government has had to take extraordinary measures to control the site. Visits need to be booked in advance, and there is a limit on the amount of time a visitor can stay there. Even so, what you mostly see if you visit Machu Picchu is other people visiting Machu Picchu.
+Perú is an enormous country full of interesting historic, natural and cultural attractions. And yet, 95% of foreign visitors go to one small place: [Machu Picchu](https://flightfree.co.uk/post/tossing-out-my-bucket-list/). As with many such tourism concentrates, the government has had to take extraordinary measures to control the site. Visits need to be booked in advance, and there is a limit on the amount of time a visitor can stay there. Even so, what you mostly see if you visit Machu Picchu is other people visiting Machu Picchu.
 
 Cusco, the gateway town to Machu Picchu has been clamouring for a new airport for a long time, with the stated purpose to double the amount of passenger traffic going to the city. But Cusco is already collapsing under the pressure of tourism. There is nowhere to build the hotels necessary to accommodate twice as many tourists. The city's streets cannot handle the current traffic, much less the increase which will result. And that's just Cusco: doubling the tourist population will put an unbearable load on Machu Picchu, the Inca Trail and the Sacred Valley.
 
