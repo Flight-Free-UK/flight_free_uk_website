@@ -11,13 +11,13 @@ read_time_minute: 5
 ---
 *Cover picture: activist Bruno Portillo at a rally in Lima*
 
+![](/images/uploads/flightfreeperu.jpg "Rici, his wife Liana Cisneros who set up the campaign, and activists from Fridays for the Future and MOCICC, the Citizens' Movement on Climate Change")
+
 #### The project *Dejemos los pies sobre la tierra* – "Let's keep our feet on the ground" – was inspired in part by the insistence of young activists like Greta Thunberg that not flying is an important individual contribution to reducing global carbon emissions.
 
 Both individual and institutional responses are necessary. But there will be no institutional response without a demonstration that individuals are willing to change their own lives in response to the emergency. It is undeniable that the carbon cost of flying is very hard to justify. So that message needs to get out.
 
 As we say [on our web page](https://dejemoslospiessobrelatierra.blogspot.com/p/campana.html), a single flight between Lima and Madrid produces as much carbon emissions in a few hours as the average Peruvian produces in an entire year.
-
-![](/images/uploads/flightfreeperu.jpg "Rici, his wife Liana Cisneros who set up the campaign, and activists from Fridays for the Future and MOCICC, the Citizens' Movement on Climate Change")
 
 #### Encouraging people to fly less collides with the perception that tourism is tremendously important to the Peruvian economy, and that asking people to not visit Perú is antipatriotic.
 
