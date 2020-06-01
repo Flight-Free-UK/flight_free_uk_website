@@ -1,14 +1,16 @@
 ---
-published: false
+published: true
 title: '"Dejemos los pies sobre la tierra"'
 category: opinion
 date: 2020-05-20T17:53:58.394Z
-cover_image: /images/uploads/macchupiccu.jpg
+cover_image: /images/uploads/bruno.jpg
 summary: "Rici Lake from Flight Free Perú explains the challenges and benefits
   of reducing aviation in a country that relies so heavily on tourism. "
 author: FlightFree UK
 read_time_minute: 5
 ---
+*Cover picture: activist Bruno Portillo at a rally in Lima*
+
 #### The project *Dejemos los pies sobre la tierra* – "Let's keep our feet on the ground" – was inspired in part by the insistence of young activists like Greta Thunberg that not flying is an important individual contribution to reducing global carbon emissions.
 
 Both individual and institutional responses are necessary. But there will be no institutional response without a demonstration that individuals are willing to change their own lives in response to the emergency. It is undeniable that the carbon cost of flying is very hard to justify. So that message needs to get out.
@@ -20,6 +22,8 @@ As we say [on our web page](https://dejemoslospiessobrelatierra.blogspot.com/p/c
 Our response has been to underline the fact that we are not asking people to not visit Perú, but rather that they be aware of the carbon cost of their visit, and that they try to maximise the benefit associated with that cost.
 
 Perú is an enormous country full of interesting historic, natural and cultural attractions. And yet, 95% of foreign visitors go to one small place: [Machu Picchu](https://flightfree.co.uk/post/tossing-out-my-bucket-list/). As with many such tourism concentrates, the government has had to take extraordinary measures to control the site. Visits need to be booked in advance, and there is a limit on the amount of time a visitor can stay there. Even so, what you mostly see if you visit Machu Picchu is other people visiting Machu Picchu.
+
+![](/images/uploads/macchupiccu.jpg)
 
 Cusco, the gateway town to Machu Picchu has been clamouring for a new airport for a long time, with the stated purpose to double the amount of passenger traffic going to the city. But Cusco is already collapsing under the pressure of tourism. There is nowhere to build the hotels necessary to accommodate twice as many tourists. The city's streets cannot handle the current traffic, much less the increase which will result. And that's just Cusco: doubling the tourist population will put an unbearable load on Machu Picchu, the Inca Trail and the Sacred Valley.
 
