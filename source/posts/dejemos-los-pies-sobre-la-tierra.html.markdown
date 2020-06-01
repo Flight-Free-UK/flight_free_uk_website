@@ -2,7 +2,7 @@
 published: true
 title: '"Dejemos los pies sobre la tierra"'
 category: opinion
-date: 2020-06-01T11:35:10.751Z
+date: 2020-05-27T11:35:10.751Z
 cover_image: /images/uploads/bruno.jpg
 summary: "Rici Lake from Flight Free Perú explains the challenges and benefits
   of reducing aviation in a country that relies so heavily on tourism. "
