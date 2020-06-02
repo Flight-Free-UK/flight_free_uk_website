@@ -9,7 +9,7 @@ summary: "Flight Free UK Director Anna Hughes reflects on what effect the global
 author: FlightFree UK
 read_time_minute: 3
 ---
-![](/images/uploads/clear_skies.jpg "Skies clear of aeroplanes and contrails")
+![](/images/uploads/clear_skies.jpg "Skies empty of aeroplanes and contrails")
 
 It was supposed to be a celebration. An adventure in trains, boats and buses. An active and empowering choice made for the planet, but not a sacrifice or restriction – a year full of exploring, trying new things and doing things differently.
 
