@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 title: Top ten destinations for UK holidays
 category: travel
-date: 2020-05-26T13:52:52.976Z
+date: 2020-06-03T14:48:38.976Z
 cover_image: /images/uploads/durdle-door-2400x1600.jpeg
 summary: Adventure doesn’t just happen in faraway places. Right here in the UK,
   there are varied, exciting and beautiful locations to explore. Though we joke
@@ -66,13 +66,21 @@ Both [rail](https://www.nationalrail.co.uk/) and coach ([National Express](https
 
 #### Edinburgh
 
-We’ve got to include the Scottish capital! It’s an awesome city nestled within great expanses of nature. Edinburgh is great for history explorers: visit the iconic [Edinburgh Castle](https://www.visitscotland.com/info/see-do/edinburgh-castle-p245821) which sits on the peak of an extinct volcano; and don’t miss a trip to the [National Museum of Scotland](https://www.visitscotland.com/info/see-do/national-museum-of-scotland-p246591) to view collections celebrating the nation’s culture, history and people. Wake up early to climb Arthur’s Seat and take in the panoramic views of the city at sunrise. National Express can get you to Edinburgh for a tenner, or take the train to experience the spectacular views of the East Coast railway line.
+We’ve got to include the Scottish capital! It’s an awesome city nestled within great expanses of nature. Edinburgh is great for history explorers: visit the iconic [Edinburgh Castle](https://www.visitscotland.com/info/see-do/edinburgh-castle-p245821) which sits on the peak of an extinct volcano, and don’t miss a trip to the [National Museum of Scotland](https://www.visitscotland.com/info/see-do/national-museum-of-scotland-p246591) to view collections celebrating the nation’s culture, history and people. Wake up early to climb Arthur’s Seat and take in the panoramic views of the city at sunrise. 
+
+[National Express](https://www.nationalexpress.com/en) can get you to Edinburgh for a tenner, or take the train to experience the spectacular views of the East Coast railway line.
 
 ![](/images/uploads/edinburgh_castle.jpg "Edinburgh Castle. Image from historic-uk.com.")
 
-#### Isle of Skye
+#### The Hebrides
 
-The largest island of the Inner Hebrides, the Isle of Skye is excellent for walking and climbing, with hikes to the Fairy Pools and Old Man of Storr not to be missed. Take a [boat trip](https://www.isleofskye.com/activities/boat-trips) from Portree to spot otters, seals, dolphins, whales and sea eagles, or for more tranquility [kayak](https://www.seakayakplockton.co.uk/) around Plockton’s beautiful sheltered bays. The Clan Castles allow visitors to delve into the rich history of Skye and the many [museums](http://www.skyemuseum.co.uk/) offer a fascinating insight into island life. Travelling flight free is easy: take the [train](https://www.scotrail.co.uk/) to Maillaig from Glasgow, then the ferry to Skye, or from Inverness to Kyle with a bus onto the island. There are also [coaches](https://www.citylink.co.uk/) that go from both Glasgow and Inverness to Skye .
+The Hebrides usually come top of the list whenever we ask for people's favourite parts of Scotland, and with so many islands, it's impossible to single out just one. Mull is a great place for watching eagles, and the colourful buildings on Tobermory's waterfront give this little harbour town its distinctive charm – you might recognise them as the setting for the children's programme Balamory. 
+
+The Isle of Skye is excellent for walking and climbing, with hikes to the Fairy Pools and Old Man of Storr not to be missed. Take a [boat trip](https://www.isleofskye.com/activities/boat-trips) from Portree to spot otters, seals, dolphins, whales and sea eagles. The Outer Hebrides or Western Isles are wild and windswept, with dramatic landscapes and welcoming locals who are rightly proud of their islands where the relaxed pace of things feels far removed from the daily grind. 
+
+Oban is the 'Gateway to the isles' and can be accessed by train from Glasgow. The line is predictably spectacular, with lochs, mountains and pine forests aplenty. From Oban you can take a ferry to Mull and the Outer Hebridean islands of Harris and South Uist. Stornoway (Lewis) is reached by ferry from Ullapool, and Tarbert (Harris) is linked by ferry from the Isle of Skye.
+
+Head to the hillside fishing village of Mallaig for access to Skye, as well as to the Small Isles of Eigg, Rum and Muck. The train from Glasgow crosses the famous Glenfinnan viaduct, used by the Hogwarts Express in the Harry Potter films.
 
 ![](/images/uploads/visitscotland_33972782806-min_1007785955.jpg "Old Man of Storr, Isle of Skye. Image from visitscotland.com.")
 
@@ -86,6 +94,6 @@ Known as the Gateway to Snowdonia, the town of Porthmadog is flanked on one side
 
 #### Pembrokeshire
 
-For wild and strikingly beautiful landscapes, you can’t beat Pembrokeshire. Along the shores you’ll find the [Pembrokeshire Coast Path](https://www.visitpembrokeshire.com/explore-pembrokeshire/coast-path), an 186-mile trail that meanders through more than 50 beaches as well as coves, harbours, towns, villages and the smallest city in the UK - St Davids. The rocky coastline is surrounded by the sea on three sides, which makes it great for water sports in addition to activities such as cycling and [rock climbing](https://www.visitpembrokeshire.com/activities-adventure/rock-climbing). For birdwatchers, catch a [boat](http://www.pembrokeshire-islands.co.uk/boat-trips/) to view the puffins on Skomer Island or tens of thousands of gannets on Grassholm Island. Don’t miss a trip up to north Pembrokeshire in autumn to view hundreds of Atlantic grey seal pups! Access to the county is easiest by car (e.g. to St Davids) or take a train to Tenby and begin your holiday on the golden beaches.
+For wild and strikingly beautiful landscapes, you can’t beat Pembrokeshire. Along the shores you’ll find the [Pembrokeshire Coast Path](https://www.visitpembrokeshire.com/explore-pembrokeshire/coast-path), an 186-mile trail that meanders through more than 50 beaches as well as coves, harbours, towns, villages and the smallest city in the UK - St Davids. The rocky coastline is surrounded by the sea on three sides, which makes it great for water sports in addition to activities such as cycling and [rock climbing](https://www.visitpembrokeshire.com/activities-adventure/rock-climbing). For birdwatchers, catch a [boat](http://www.pembrokeshire-islands.co.uk/boat-trips/) to view the puffins on Skomer Island or tens of thousands of gannets on Grassholm Island. Don’t miss a trip up to north Pembrokeshire in autumn to view hundreds of Atlantic grey seal pups! Access the county by taking a train to Tenby and begin your holiday on the golden beaches.
 
 ![](/images/uploads/tenby.jpg "North Beach at Tenby, Pembrokeshire. Image from bluestonewales.com.")
