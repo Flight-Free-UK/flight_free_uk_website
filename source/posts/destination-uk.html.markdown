@@ -60,7 +60,7 @@ Boasting over 1,400 miles of natural beauty, this enchanting region of Yorkshire
 
 Both [rail](https://www.nationalrail.co.uk/) and coach ([National Express](https://www.nationalexpress.com/en) and [Coastliner](https://www.transdevbus.co.uk/coastliner/)) services stop at the many towns surrounding the North York Moors National Park, including York, Malton and Whitby. In addition to public transport, there are some fantastic [walking](https://www.northyorkmoors.org.uk/visiting/enjoy-outdoors/walking/our-walks) and [cycling](https://www.northyorkmoors.org.uk/visiting/enjoy-outdoors/cycling) routes that allow travellers to reach those far-flung, unexplored places inaccessible by car.
 
-![](/images/uploads/download.jpeg "Dartmouth. Image from visitdevon.co.uk.")
+![](/images/uploads/staithes.jpg "Staithes, North Yorkshire Coast. Image from northyorkmoors.org.uk")
 
 ### Scotland
 
