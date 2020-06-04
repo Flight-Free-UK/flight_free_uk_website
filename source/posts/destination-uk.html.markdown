@@ -12,6 +12,8 @@ summary: Holidays don't have to be somewhere far away. Right here in the UK,
 author: FlightFree UK
 read_time_minute: 3
 ---
+*\* This article references public transport as a low-carbon method of travel. Please refer to current advice and guidelines when planning your travel.*
+
 ### England
 
 #### 1. Camber Sands
