@@ -26,7 +26,7 @@ After weeks of clear skies with nearly all the planes grounded there was one vap
 
 The clarity of the air is very noticeable. It may not be a rigorously scientific comparison, but look at the leaves on the oak trees a couple of hundred metres away. I had assumed my vision had deteriorated over nearly seven decades. Now after a few weeks of lockdown with vehicles off the roads, aircraft grounded and all their accumulated pollution removed my visual acuity has returned to what it was 30 years ago.
 
-When I was eight years old we had one of the last smogs. Visibility was down to about three feet in the dense yellowish fog and my grandad met me from school and we felt our way along garden fences which seemed a lot less familiar than they should have been for the mile walk home. Grandad got bronchitis which became pneumonia and he died a few days later.
+When I was eight years old we had one of the last smogs. Visibility was down to about three feet in the dense yellowish fog. My grandad met me from school and we felt our way along garden fences which seemed a lot less familiar than they should have been for the mile walk home. Grandad got bronchitis which became pneumonia and he died a few days later.
 
 Since then we have learnt to stop burning coal on open fires, lead has been taken out of petrol and diesel particulates have received attention at last. Did nobody wonder for all those years why the backs of buses were covered in soot from their exhausts?
 
