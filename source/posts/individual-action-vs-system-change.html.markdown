@@ -9,7 +9,7 @@ summary: Is it up to individuals to take action or will it take system change to
 author: FlightFree UK
 read_time_minute: 6
 ---
-Ever since Thatcher uttered the words ‘climate change’ back in the 1980s, we have argued about how to avoid it. Is it up to individuals to adjust their lifestyles, or is it up to the government to put in place measures so we can collectively reduce our carbon emissions?
+Ever since Thatcher uttered the words ‘climate change’ back in the 1980s, we have argued about how to avoid it. Is it up to individuals to adjust their lifestyles, or is it up to the government to collectively reduce our carbon emissions?
 
 #### Size matters
 
