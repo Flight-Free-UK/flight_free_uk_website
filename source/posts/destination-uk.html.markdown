@@ -80,7 +80,7 @@ The Hebrides usually come top of the list whenever we ask for people's favourite
 
 The Isle of Skye is excellent for walking and climbing, with hikes to the Fairy Pools and Old Man of Storr not to be missed. Take a [boat trip](https://www.isleofskye.com/activities/boat-trips) from Portree to spot otters, seals, dolphins, whales and sea eagles. The Outer Hebrides or Western Isles are wild and windswept, with dramatic landscapes and welcoming locals who are rightly proud of their islands where the relaxed pace of things feels far removed from the daily grind. 
 
-Oban is the 'Gateway to the isles' and can be accessed by train from Glasgow. The line is predictably spectacular, with lochs, mountains and pine forests aplenty. From Oban you can take a ferry to Mull and the Outer Hebridean islands of Harris and South Uist. Stornoway (Lewis) is reached by ferry from Ullapool, and Tarbert (Harris) is linked by ferry from the Isle of Skye.
+Oban is the 'Gateway to the isles' and can be accessed by train from Glasgow. The line is predictably spectacular, with lochs, mountains and pine forests aplenty. From Oban you can take a [ferry](https://www.calmac.co.uk/destinations/mull) to Mull and the Outer Hebridean islands of Harris and South Uist. Stornoway (Lewis) is reached by ferry from Ullapool, and Tarbert (Harris) is linked by ferry from the Isle of Skye.
 
 Head to the hillside fishing village of Mallaig for access to Skye, as well as to the Small Isles of Eigg, Rum and Muck. The train from Glasgow crosses the famous Glenfinnan viaduct, used by the Hogwarts Express in the Harry Potter films.
 
