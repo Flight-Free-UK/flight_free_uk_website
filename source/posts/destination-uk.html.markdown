@@ -3,7 +3,7 @@ published: true
 title: Top ten destinations for UK holidays
 category: travel
 date: 2020-06-03T14:48:38.976Z
-cover_image: /images/uploads/durdle-door-2400x1600.jpeg
+cover_image: /images/uploads/od4a3534.jpg
 summary: Holidays don't have to be somewhere far away. Right here in the UK,
   there are varied, exciting and beautiful locations to explore. There's a huge
   amount to love in Great Britain, from its thousands of miles of coastline to
