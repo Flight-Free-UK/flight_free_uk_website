@@ -57,7 +57,7 @@ If we continue to fly, we are part of the system. No matter how we feel about th
 
 #### So which is it – individual action or system change?
 
-It's clear that the two things are heavily intertwined. It’s is never one or the other – it is always both. Individual action can lead to system change, and system change can influence us as individuals. Putting structures in place enables us to make climate friendly choices, and we can demand those structures both by campaigning for them and by showing with our actions the kinds of changes we want to see.
+It's clear that the two things are heavily intertwined. It is never one or the other – it is always both. Individual action can lead to system change, and system change can influence us as individuals. Putting structures in place enables us to make climate friendly choices, and we can demand those structures both by campaigning for them and by showing with our actions the kinds of changes we want to see.
 
 And while we can argue that our one action doesn't make a difference, if we don't take that action, it definitely won't make a difference. It's a cliche, but Ghandi was right when he said, be the change you wish to see in the world. And let’s remember, our individual actions are never just that – there is always a ripple effect.
 
