@@ -33,7 +33,7 @@ Since then we have learnt to stop burning coal on open fires, lead has been take
 
 Thirty-seven years ago I saw a photo taken from space showing how terribly thin was the layer of our precious breathable atmosphere and quit flying through it. It was a no-brainer. 
 
-How ironic that others sense of entitlement to have several holiday flights a year to enjoy places with bright sun and clear skies leaves me with the polluted air that results.
+How ironic that others' sense of entitlement to have several holiday flights a year to enjoy places with bright sun and clear skies leaves me with the polluted air that results.
 
 We need a great deal of creativity if we are to wean our population from only visiting our resorts from 30,000 feet… and while Covid-19 is not what you or I would wish on anybody, we may not get another opportunity as good as the present one. 
 
