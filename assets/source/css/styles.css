@@ -116,6 +116,7 @@
   @apply font-bold;
   @apply mt-2;
   @apply text-center;
+  @apply leading-tight;
 }
 
 .modal.is-open {
