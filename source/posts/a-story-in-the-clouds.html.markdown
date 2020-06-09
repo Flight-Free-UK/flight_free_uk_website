@@ -4,7 +4,8 @@ title: A story in clouds
 category: climate
 date: 2020-06-09T08:17:20.433Z
 cover_image: /images/uploads/cloudless.jpg
-summary: David Armstrong from Surrey shares the lockdown skies from his back garden.
+summary: David Armstrong from Surrey tells the tale of the lockdown skies from
+  his back garden.
 author: FlightFree UK
 read_time_minute: 2
 ---
