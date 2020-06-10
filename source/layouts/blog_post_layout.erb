@@ -1,7 +1,7 @@
 <% wrap_layout :layout do %>
   <% author = data.authors.values.find { |author| current_article.data.author == author.name } %>
   <main class="bg-white">
-    <div class="container mx-auto px-8 xl:px-16 xxl:px-48 py-12 xl:pt-16 xl:pb-20 text-blue-dark">
+    <div class="container mx-auto px-8 lg:px-16 xl:px-40 xxl:px-64 py-12 xl:pt-16 xl:pb-20 text-blue-dark">
       <%= link_to "View all posts", "/be_inspired.html", class: "text-base xl:text-lg pl-8 bg-no-repeat", style: "color:#a0a0a0;background-image:url(/svg/arrow_back.svg)" %>
       <h1 class="text-4xl xl:text-5xl text-blue-dark mt-6 mb-4 leading-tight"><%= current_article.title %></h1>
       <h2 class="text-3xl xl:text-3xl mb-8 leading-tight text-text-gray-light"><%= current_article.data.summary %></h2>
