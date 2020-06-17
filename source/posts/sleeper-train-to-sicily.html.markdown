@@ -17,7 +17,7 @@ The romantic in me chose the night sleeper from Paris, dining on board with a ha
 
 One oddity about travelling to Sicily by train is that some of it is by train ferry. Long-distance day and night trains get shunted on board, cross the strait of Messina, and then continue, one half of the train hugging the north coast to Palermo, the other heading south to Taormina and Siracusa. Even though I deliberately caught the later of the two night trains, it was still far too early for me to rise on a dampish morning, so I experienced the crossing from the inside of the train deck.
 
-![](/images/uploads/sicily.jpg)
+![](/images/uploads/italy-sicily.jpg)
 
 That was one Sicilian oddity, but there are others. Its desserts for starters. I made the mistake on my morning of arrival of ordering *granita* (thinking granola) to discover that Sicilians habitually feast on ice cream for breakfast. *Cannoli* is another strange one, a hot dog shaped pastry containing whipped ricotta and pistachio. The wise practice social distancing *before* taking a bite (oops!). And then there’s the garish green Sicilian*cassata*, famous throughout Italy. For a hemispherical bun it takes some beating. The Catanian version, in an indelicate but popular memorial to their patron saint, is iced white then topped with a glacé cherry. I’ll spare you the gory details; suffice to say that Saint Agatha came to a sticky end.
 
