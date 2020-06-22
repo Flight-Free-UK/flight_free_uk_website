@@ -23,7 +23,7 @@ Other places to visit in the Basque Country include Zumaia (famous for its *flys
 
 **By train:** Eurostar to Paris, TGV (French high-speed train) to Hendaye on the French/Spanish border, then Euskotren for San Sebastian. To avoid the long train detour from San Sebastian to Bilbao, consider taking the coach: it's more direct and takes roughly 1hr 30 mins.
 
-**By ferry:** P&O ferries go from Portsmouth to Bilbao and from Portsmouth/Plymouth to Santander (in neighbouring Cantabria) two-three times a week.
+**By ferry:** P&O ferries go from Portsmouth to Bilbao and from Portsmouth/Plymouth to Santander (in neighbouring Cantabria) two-three times a week. If you get seasick, we recommend [Kwells](https://www.nhs.uk/medicines/hyoscine-hydrobromide/) to make the journey more comfortable.
 
 **By coach:** Eurolines coaches travel from London Victoria Coach Station to Irun (Spanish border town)
 
