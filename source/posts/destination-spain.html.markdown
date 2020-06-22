@@ -23,9 +23,13 @@ Other places to visit in the Basque Country include Zumaia (famous for its *flys
 
 **By train:** Eurostar to Paris, TGV (French high-speed train) to Hendaye on the French/Spanish border, then Euskotren for San Sebastian. To avoid the long train detour from San Sebastian to Bilbao, consider taking the coach: it's more direct and takes roughly 1hr 30 mins.
 
-**Travel time:** Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San Sebastian, + 2 hrs for Bilbao (1.5 hrs by coach)
+**By ferry:** P&O ferries go from Portsmouth to Bilbao and from Portsmouth/Plymouth to Santander (in neighbouring Cantabria) two-three times a week.
 
-**By ferry:** P&O ferries go from Portsmouth to Bilbao and from Portsmouth/Plymouth to Santander (in neighbouring Cantabria) two-three times a week. It's a 24 hour crossing, so overnight ferry is a good option.
+**By coach:** Eurolines coaches travel from London Victoria Coach Station to Irun (Spanish border town)
+
+**Travel time:** Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San Sebastian, + 2 hrs for Bilbao or 1.5 hrs by coach
+
+By P&O it's a 24 hour crossing, so overnight ferry is a good option, and Eurolines also takes 24 hours.
 
 # Tarragona
 
@@ -95,17 +99,11 @@ From the south of Spain you can even go on to Morocco, with a ferry or hovercraf
 
 # Alternative travel
 
-### By coach
-
-Eurolines coaches travel from London Victoria Coach Station to Irun (Spanish border town), 24 hours. You can even get a coach all the way to Malaga, though at 40 hours, it’s not for the faint-hearted!
-
-## Overland travel: better for you, better for the environment
-
-**Carbon comparison**
+### Carbon comparison
 
 A return flight from London Stansted to Bilbao generates 160kg CO2 per passenger, as opposed to just 6kg by train (info from [loco2.com](http://loco2.com)). For the southern Spanish resorts such as Malaga, it’s 266 kg CO2 by plane and 13kg by train.
 
-**Time well spent**
+### Time well spent
 
 It's a much longer journey by train: you're looking at around 10-12 hours for northern Spain, and a day and a half for southern Spain. When compared to a 2 or 3 hour flight, that sounds a lot – though don’t forget, flight times at least double when you add check-in times, baggage claim and airport transfers.
 
@@ -113,7 +111,7 @@ But travelling by train allows the journey to become part of the holiday, and it
 
 The connections and stop-overs on the way offer an excellent opportunity to explore a different city – so, for example, your beach holiday on the Costa del Sol can be greatly enhanced by a relaxed, scenic journey through France and Spain, and an opportunity to stop off in Paris, Barcelona and Madrid on the way. By the end, you will really have experienced Spain!
 
-**Cost comparison**
+### Cost comparison
 
 There’s no denying there are some dirt-cheap flights out there. They can be hard to resist, though don't forget the headline price is almost never the actual price once you have added all the extras such as luggage and transfers.
 
