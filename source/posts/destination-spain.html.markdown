@@ -59,7 +59,7 @@ Recommended spots to visit:
 
 **Toledo:** the old hilltop Visigoth capital, full of stunning architecture. If you’ve ever seen The Princess Bride, it’s the city Iñigo Montoya gets his sword from – it was once well-known for its exemplary sword-making. 
 
-## Getting there:
+## Getting there
 
 **By train:** Eurostar to Paris, TGV to Barcelona, AVE (Spanish high-speed train) to Madrid.
 
