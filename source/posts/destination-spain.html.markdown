@@ -81,6 +81,8 @@ You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see fl
 
 **Travel time:** 6-7 hours from Barcelona.
 
+![](/images/uploads/andalucia-sevilla-oranges-giralda.jpg "Seville oranges in Andalucia")
+
 # Other destinations
 
 ### Canary islands
