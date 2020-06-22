@@ -41,6 +41,8 @@ A nearby neighbour of Spain’s Catalan treasure, Barcelona, you can avoid addin
 
 **Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 40 mins, Talgo 1 hour.
 
+![](/images/uploads/valencia.jpg "Valencia")
+
 # Valencia and Alicante
 
 For those wanting a city break without over crowded streets, Spain’s third largest city offers a very Spanish holiday which is slightly off the beaten track. It’s a scenic train ride down the coast from Barcelona, sandwiched between the mountains and the sea. The Turia Gardens sits in an old riverbed and winds through the middle of the city towards the seafront promenade and beach. The city is famous for paella, the rice for which comes from the rice fields at La Albufera, a nearby freshwater lagoon and nature reserve.
