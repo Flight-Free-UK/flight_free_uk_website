@@ -79,17 +79,23 @@ Travel time: 6-7 hours from Barcelona.
 
 # Other destinations
 
-Canary islands – train to Seville/Huelva, ferry to Canary Islands
+### Canary islands
 
-[Balearic islands – TGV to Barcelona, ferry to Ibiza/Mallorca/Minorca](https://flightfree.co.uk/post/a-flight-free-holiday-in-mallorca/)
+~ train to Seville/Huelva, ferry to Canary Islands
 
-Gibraltar – TGV to Barcelona, AVE to Antequera-Santa Ana, regional train to Algeciras, bus to Gibraltar.
+### Balearic islands
+
+~ TGV to Barcelona, ferry to Ibiza/[Mallorca](https://flightfree.co.uk/post/a-flight-free-holiday-in-mallorca/)/Minorca
+
+### Gibraltar
+
+~ TGV to Barcelona, AVE to Antequera-Santa Ana, regional train to Algeciras, bus to Gibraltar.
 
 From the south of Spain you can even go on to Morocco, with a ferry or hovercraft across the Straits of Gibraltar.
 
 # Alternative travel
 
-**By coach:**
+### By coach
 
 Eurolines coaches travel from London Victoria Coach Station to Irun (Spanish border town), 24 hours. You can even get a coach all the way to Malaga, though at 40 hours, it’s not for the faint-hearted!
 
