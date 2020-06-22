@@ -19,7 +19,7 @@ The main towns in the Basque are San Sebastian and Bilbao, the former of which h
 
 Other places to visit in the Basque Country include Zumaia (famous for its *flysch* – a unique rock strata running along the coast used as the setting for Dragonstone in Game of Thrones), Zarautz, which is a surfer’s paradise, and Bilbao, home of the Guggenheim museum.
 
-## Getting there
+### Getting there
 
 **By train:** Eurostar to Paris, TGV (French high-speed train) to Hendaye on the French/Spanish border, then Euskotren for San Sebastian. To avoid the long train detour from San Sebastian to Bilbao, consider taking the coach: it's more direct and takes roughly 1hr 30 mins.
 
