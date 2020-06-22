@@ -97,7 +97,7 @@ You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see fl
 
 From the south of Spain you can even go on to Morocco, with a ferry or hovercraft across the Straits of Gibraltar.
 
-# Alternative travel
+# Why travel overland?
 
 ### Carbon comparison
 
