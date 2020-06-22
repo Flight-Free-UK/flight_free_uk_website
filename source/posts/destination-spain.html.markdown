@@ -9,9 +9,9 @@ summary: Our 'Destinations' series takes a look at the nation's favourite
 author: FlightFree UK
 read_time_minute: 3
 ---
-![](/images/uploads/SanSebastian.jpeg "San Sebastian. Image credit: Tim McKenna")
-
 Spain is a wonderfully varied country ranging from verdant, rolling hills and mountainous natural parks to flat plains and exquisite beaches. There’s rich architecture, world-renowned food and easy-going locals, and a temperate climate year-round. No wonder it’s so popular with us Brits. Spain is easily accessible overland from the UK – great news for those taking a flight-free year. Here’s our advice on where to go in Spain and how to get there.
+
+![](/images/uploads/SanSebastian.jpeg "San Sebastian. Image credit: Tim McKenna")
 
 # Basque Country
 
@@ -69,6 +69,8 @@ Madrid itself is known for its museums, restaurants and nightlife. It's easy to 
 
 **Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 60mins, AVE 2hrs 30mins, Avant 30 mins. A day and half travel with an overnight stop in Barcelona.
 
+![](/images/uploads/andalucia-sevilla-oranges-giralda.jpg "Seville oranges in Andalucia")
+
 # Andalucia
 
 Andalucia is particularly lovely in the spring, when the orange blossom fills the warm air with its heavy scent, but the temperatures haven't yet soared. You might even catch *Festival de los Patios*, held in May in Cordoba. There are mountains, coastlines, olive groves, Moorish architecture, and wide, open landscapes, as well as several natural parks.
@@ -80,8 +82,6 @@ You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see fl
 **By train:** Eurostar to Paris, TGV to Barcelona, AVE for onwards travel to Cordoba, Seville, Cadiz, Malaga and Granada.
 
 **Travel time:** 6-7 hours from Barcelona.
-
-![](/images/uploads/andalucia-sevilla-oranges-giralda.jpg "Seville oranges in Andalucia")
 
 # Other destinations
 
@@ -98,6 +98,8 @@ You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see fl
 ~ TGV to Barcelona, AVE to Antequera-Santa Ana, regional train to Algeciras, bus to Gibraltar.
 
 From the south of Spain you can even go on to Morocco, with a ferry or hovercraft across the Straits of Gibraltar.
+
+![](/images/uploads/castillo.jpg)
 
 # Why travel overland?
 
