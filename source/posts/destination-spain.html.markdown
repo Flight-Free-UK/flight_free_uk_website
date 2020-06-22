@@ -27,7 +27,9 @@ Other places to visit in the Basque Country include Zumaia (famous for its *flys
 
 **By coach:** Eurolines coaches travel from London Victoria Coach Station to Irun (Spanish border town)
 
-**Travel time:** Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San Sebastian, + 2 hrs for Bilbao or 1.5 hrs by coach
+**Travel time:** 
+
+Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San Sebastian, + 2 hrs for Bilbao or 1.5 hrs by coach
 
 By P&O it's a 24 hour crossing, so overnight ferry is a good option, and Eurolines also takes 24 hours.
 
