@@ -129,4 +129,4 @@ With the train, it is often the Eurostar that makes up the bulk of that cost. It
 
 The encylopaedic website [The Man in Seat 61](https://www.seat61.com) gives extensive information on how to travel to all parts of Spain, how to buy tickets, likely cost, and advice for interchanges. 
 
-Bookings can be made on [RailEurope](https://raileurope.co.uk) (formerly Loco2) – this gives train and coach options.
+Bookings can be made on [RailEurope](https://raileurope.co.uk) (formerly Loco2) – this gives train and coach options, and tells you how much carbon you've saved by not flying.
