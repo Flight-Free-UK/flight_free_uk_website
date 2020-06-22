@@ -31,7 +31,7 @@ Travel time: Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San 
 
 Every year people flock to Spain’s Catalan treasure for its culture, architecture and beaches. The Mediterranean warmth and freshness, and the famously long sandy beaches with vibrant nightlife, means that Barcelona has never been short of tourists.
 
-Barcelona is an easy journey by train, but to avoid adding to the crowds, continue down the coast to Tarragona for a quieter, less hectic *Costa Brava* experience. 
+To avoid adding to the crowds, continue by train down the coast to Tarragona for a quieter, less hectic *Costa Brava* experience. 
 
 ## Getting there
 
