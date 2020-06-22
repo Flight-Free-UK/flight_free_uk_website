@@ -9,9 +9,7 @@ summary: Our 'Destinations' series takes a look at the nation's favourite
 author: FlightFree UK
 read_time_minute: 3
 ---
-![](/images/uploads/SanSebastian.jpeg "Image credit: Tim McKenna @TimMcKenna5")
-
-*Cover photo credit: Tim McKenna [@TimMcKenna5](www.twitter.com/timmckenna5)*
+![](/images/uploads/SanSebastian.jpeg "Image credit: Tim McKenna")
 
 Spain is a wonderfully varied country ranging from verdant, rolling hills and mountainous natural parks to flat plains and exquisite beaches. There’s rich architecture, world-renowned food and easy-going locals, and a temperate climate year-round. No wonder it’s so popular with us Brits. Spain is easily accessible overland from the UK – great news for those taking a flight-free year. Here’s our advice on where to go in Spain and how to get there.
 
@@ -29,29 +27,29 @@ Travel time: Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San 
 
 **By ferry:** P&O ferries go from Portsmouth to Bilbao and from Portsmouth/Plymouth to Santander (in neighbouring Cantabria) two-three times a week. It's a 24 hour crossing, so overnight ferry is a good option.
 
-### Barcelona
+# Barcelona
 
 Every year people flock to Spain’s Catalan treasure for its culture, architecture and beaches. The Mediterranean warmth and freshness, and the famously long sandy beaches with vibrant nightlife, means that Barcelona has never been short of tourists.
 
-#### Getting there
+## Getting there
 
 **By train:** Eurostar to Paris, TGV to Barcelona.
 
 Travel time: Eurostar 2hrs 20mins, TGV 6hrs 40 mins.
 
-##### Valencia and Alicante
+# Valencia and Alicante
 
 For those wanting a city break without over crowded streets, Spain’s third largest city offers a very Spanish holiday which is slightly off the beaten track. It’s a scenic train ride down the coast from Barcelona, sandwiched between the mountains and the sea. The Turia Gardens sits in an old riverbed and winds through the middle of the city towards the seafront promenade and beach. The city is famous for paella, the rice for which comes from the rice fields at La Albufera, a nearby freshwater lagoon and nature reserve.
 
 The popular beach resort of Alicante is 1.5 hours away by train, with 11 daily services. Known as being a party town, there is plenty of architecture and culture for those less interested in partying, including the Castillo de Santa Bárbara which sits on a hill overlooking the town.
 
-###### Getting there
+## Getting there
 
 **By train:** Eurostar to Paris, TGV to Barcelona, EuroMed to Valencia/Alicante
 
 Travel time: Eurostar 2hrs 20mins, TGV 6hrs 40mins, EuroMed 2hr 40mins for Valencia and 4hr 30mins for Alicante. A day and a half travel with an overnight stop in Barcelona or Paris.
 
-## Madrid
+# Madrid
 
 Described as ‘pretty-yet-gritty’, Spain’s capital is known for its museums, restaurants and nightlife. It's easy to navigate the different *barrios* (neighbourhoods) on foot but shade can be hard to come by, so if you are visiting in summer, two essentials are a water bottle and a fan – the more decorative the better. Nestled in the geographical centre of Spain, it’s very well connected, so day trips to places near and far are easy. 
 
@@ -61,25 +59,25 @@ Recommended spots to visit:
 
 **Toledo:** the old hilltop Visigoth capital, full of stunning architecture. If you’ve ever seen The Princess Bride, it’s the city Iñigo Montoya gets his sword from – it was once well-known for its exemplary sword-making. 
 
-#### Getting there:
+## Getting there:
 
 **By train:** Eurostar to Paris, TGV to Barcelona, AVE (Spanish high-speed train) to Madrid.
 
 Travel time: Eurostar 2hrs 20mins, TGV 6hrs 60mins, AVE 2hrs 30mins. A day and half travel with an overnight stop in Barcelona.
 
-## Andalucia
+# Andalucia
 
 Andalucia is particularly lovely in the spring, when the orange blossom fills the warm air with its heavy scent, but the temperatures haven't yet soared. You might even catch *Festival de los Patios*, held in May in Cordoba. There are mountains, coastlines, olive groves, Moorish architecture, and wide, open landscapes, as well as several natural parks.
 
 You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see flamingos in the Donana national park (a UNESCO world heritage site), or try your hand a kite-surfing in Tarifa. The popular tourist resorts of Malaga (Costa del Sol) and Cadiz (Costa de la Luz) are on the world-renowned Andalucian coast.
 
-#### Getting there
+## Getting there
 
 **By train:** Eurostar to Paris, TGV to Barcelona, AVE for onwards travel to Cordoba, Seville, Cadiz, Malaga and Granada.
 
 Travel time: 6-7 hours from Barcelona.
 
-## Other destinations
+# Other destinations
 
 Canary islands – train to Seville/Huelva, ferry to Canary Islands
 
@@ -89,7 +87,7 @@ Gibraltar – TGV to Barcelona, AVE to Antequera-Santa Ana, regional train to Al
 
 From the south of Spain you can even go on to Morocco, with a ferry or hovercraft across the Straits of Gibraltar.
 
-#### Alternative travel
+# Alternative travel
 
 **By coach:**
 
