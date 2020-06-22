@@ -27,17 +27,15 @@ Travel time: Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San 
 
 **By ferry:** P&O ferries go from Portsmouth to Bilbao and from Portsmouth/Plymouth to Santander (in neighbouring Cantabria) two-three times a week. It's a 24 hour crossing, so overnight ferry is a good option.
 
-# Barcelona
+# Tarragona
 
-Every year people flock to Spain’s Catalan treasure for its culture, architecture and beaches. The Mediterranean warmth and freshness, and the famously long sandy beaches with vibrant nightlife, means that Barcelona has never been short of tourists.
-
-To avoid adding to the crowds, continue by train down the coast to Tarragona for a quieter, less hectic *Costa Brava* experience. 
+A nearby neighbour of Spain’s Catalan treasure, Barcelona, you can avoid adding to the crowds by travelling slightly further down the coast for a less hectic Mediterranean coast experience. Expect Roman architecture and a seaside amphitheatre, restaurants, bars and inviting beaches in this port city.
 
 ## Getting there
 
-**By train:** Eurostar to Paris, TGV to Barcelona.
+**By train:** Eurostar to Paris, TGV to Barcelona, Talgo to Tarragona
 
-Travel time: Eurostar 2hrs 20mins, TGV 6hrs 40 mins.
+Travel time: Eurostar 2hrs 20mins, TGV 6hrs 40 mins, Talgo 1 hour.
 
 # Valencia and Alicante
 
@@ -51,21 +49,21 @@ The popular beach resort of Alicante is 1.5 hours away by train, with 11 daily s
 
 Travel time: Eurostar 2hrs 20mins, TGV 6hrs 40mins, EuroMed 2hr 40mins for Valencia and 4hr 30mins for Alicante. A day and a half travel with an overnight stop in Barcelona or Paris.
 
-# Madrid
+# Segovia and Toledo
 
-Described as ‘pretty-yet-gritty’, Spain’s capital is known for its museums, restaurants and nightlife. It's easy to navigate the different *barrios* (neighbourhoods) on foot but shade can be hard to come by, so if you are visiting in summer, two essentials are a water bottle and a fan – the more decorative the better. Nestled in the geographical centre of Spain, it’s very well connected, so day trips to places near and far are easy. 
+Two towns within easy reach of the ‘pretty-yet-gritty’ Madrid, which is is very well connected, so day trips to places near and far are easy.
 
-Recommended spots to visit:
+Segovia is 20 minutes north of Madrid by train. The speciality here is suckling pig, so a stomach-turner if you’re not into your meat! But beautifully lush and green along the valley below the town.
 
-**Segovia:** 20 minutes north of Madrid by train. The speciality here is suckling pig, so a stomach-turner if you’re not into your meat! But beautifully lush and green along the valley below the town.
+Toledo is the old hilltop Visigoth capital, full of stunning architecture. If you’ve ever seen The Princess Bride, it’s the city Iñigo Montoya gets his sword from – it was once well-known for its exemplary sword-making. 
 
-**Toledo:** the old hilltop Visigoth capital, full of stunning architecture. If you’ve ever seen The Princess Bride, it’s the city Iñigo Montoya gets his sword from – it was once well-known for its exemplary sword-making. 
+Madrid itself is known for its museums, restaurants and nightlife. It's easy to navigate the different *barrios* (neighbourhoods) on foot but shade can be hard to come by, so if you are visiting in summer, two essentials are a (reusable!) water bottle and a fan – the more decorative the better. 
 
 ## Getting there
 
-**By train:** Eurostar to Paris, TGV to Barcelona, AVE (Spanish high-speed train) to Madrid.
+**By train:** Eurostar to Paris, TGV to Barcelona, AVE (Spanish high-speed train) to Madrid, Avant train to Toledo/Segovia.
 
-Travel time: Eurostar 2hrs 20mins, TGV 6hrs 60mins, AVE 2hrs 30mins. A day and half travel with an overnight stop in Barcelona.
+Travel time: Eurostar 2hrs 20mins, TGV 6hrs 60mins, AVE 2hrs 30mins, Avant 30 mins. A day and half travel with an overnight stop in Barcelona.
 
 # Andalucia
 
