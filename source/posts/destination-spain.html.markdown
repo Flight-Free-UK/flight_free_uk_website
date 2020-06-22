@@ -31,7 +31,7 @@ Travel time: Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San 
 
 A nearby neighbour of Spain’s Catalan treasure, Barcelona, you can avoid adding to the crowds by travelling slightly further down the coast for a less hectic Mediterranean coast experience. Expect Roman architecture and a seaside amphitheatre, restaurants, bars and inviting beaches in this port city.
 
-## Getting there
+### Getting there
 
 **By train:** Eurostar to Paris, TGV to Barcelona, Talgo to Tarragona
 
@@ -43,7 +43,7 @@ For those wanting a city break without over crowded streets, Spain’s third lar
 
 The popular beach resort of Alicante is 1.5 hours away by train, with 11 daily services. Known as being a party town, there is plenty of architecture and culture for those less interested in partying, including the Castillo de Santa Bárbara which sits on a hill overlooking the town.
 
-## Getting there
+### Getting there
 
 **By train:** Eurostar to Paris, TGV to Barcelona, EuroMed to Valencia/Alicante
 
@@ -59,7 +59,7 @@ Toledo is the old hilltop Visigoth capital, full of stunning architecture. If yo
 
 Madrid itself is known for its museums, restaurants and nightlife. It's easy to navigate the different *barrios* (neighbourhoods) on foot but shade can be hard to come by, so if you are visiting in summer, two essentials are a (reusable!) water bottle and a fan – the more decorative the better. 
 
-## Getting there
+### Getting there
 
 **By train:** Eurostar to Paris, TGV to Barcelona, AVE (Spanish high-speed train) to Madrid, Avant train to Toledo/Segovia.
 
@@ -71,7 +71,7 @@ Andalucia is particularly lovely in the spring, when the orange blossom fills th
 
 You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see flamingos in the Donana national park (a UNESCO world heritage site), or try your hand a kite-surfing in Tarifa. The popular tourist resorts of Malaga (Costa del Sol) and Cadiz (Costa de la Luz) are on the world-renowned Andalucian coast.
 
-## Getting there
+### Getting there
 
 **By train:** Eurostar to Paris, TGV to Barcelona, AVE for onwards travel to Cordoba, Seville, Cadiz, Malaga and Granada.
 
