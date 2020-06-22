@@ -23,7 +23,7 @@ Other places to visit in the Basque Country include Zumaia (famous for its *flys
 
 **By train:** Eurostar to Paris, TGV (French high-speed train) to Hendaye on the French/Spanish border, then Euskotren for San Sebastian. To avoid the long train detour from San Sebastian to Bilbao, consider taking the coach: it's more direct and takes roughly 1hr 30 mins.
 
-Travel time: Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San Sebastian, + 2 hrs for Bilbao (1.5 hrs by coach)
+**Travel time:** Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San Sebastian, + 2 hrs for Bilbao (1.5 hrs by coach)
 
 **By ferry:** P&O ferries go from Portsmouth to Bilbao and from Portsmouth/Plymouth to Santander (in neighbouring Cantabria) two-three times a week. It's a 24 hour crossing, so overnight ferry is a good option.
 
@@ -35,7 +35,7 @@ A nearby neighbour of Spain’s Catalan treasure, Barcelona, you can avoid addin
 
 **By train:** Eurostar to Paris, TGV to Barcelona, Talgo to Tarragona
 
-Travel time: Eurostar 2hrs 20mins, TGV 6hrs 40 mins, Talgo 1 hour.
+**Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 40 mins, Talgo 1 hour.
 
 # Valencia and Alicante
 
@@ -47,7 +47,7 @@ The popular beach resort of Alicante is 1.5 hours away by train, with 11 daily s
 
 **By train:** Eurostar to Paris, TGV to Barcelona, EuroMed to Valencia/Alicante
 
-Travel time: Eurostar 2hrs 20mins, TGV 6hrs 40mins, EuroMed 2hr 40mins for Valencia and 4hr 30mins for Alicante. A day and a half travel with an overnight stop in Barcelona or Paris.
+**Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 40mins, EuroMed 2hr 40mins for Valencia and 4hr 30mins for Alicante. A day and a half travel with an overnight stop in Barcelona or Paris.
 
 # Segovia and Toledo
 
@@ -63,7 +63,7 @@ Madrid itself is known for its museums, restaurants and nightlife. It's easy to 
 
 **By train:** Eurostar to Paris, TGV to Barcelona, AVE (Spanish high-speed train) to Madrid, Avant train to Toledo/Segovia.
 
-Travel time: Eurostar 2hrs 20mins, TGV 6hrs 60mins, AVE 2hrs 30mins, Avant 30 mins. A day and half travel with an overnight stop in Barcelona.
+**Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 60mins, AVE 2hrs 30mins, Avant 30 mins. A day and half travel with an overnight stop in Barcelona.
 
 # Andalucia
 
@@ -75,7 +75,7 @@ You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see fl
 
 **By train:** Eurostar to Paris, TGV to Barcelona, AVE for onwards travel to Cordoba, Seville, Cadiz, Malaga and Granada.
 
-Travel time: 6-7 hours from Barcelona.
+**Travel time:** 6-7 hours from Barcelona.
 
 # Other destinations
 
