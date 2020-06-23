@@ -20,7 +20,7 @@ Of course, we were so excited to be there, in the Big Apple, walking down the st
 
 But ultimately, it's about the environmental impact. As I’ve grown older and more aware of my place on the planet, my overriding consideration for any holiday destination is the emissions. “Don’t you want to go to America?” interviewers ask when discussing my decision to no longer fly. “Won’t your life be all the poorer if all these destinations are off the table? What about New York?”
 
-“Well, New York is fine,” I reply. “But so is Paris.” The key point is that I can get to pretty much any European city by train for less than 20kg of CO2. To fly across the ocean to New York will emit 1.9 tonnes – that’s tonnes, as in 1000kgs – of planet-busting emissions straight into the upper atmosphere, where it does the most damage. And that’s not the emissions for the whole plane, that’s per passenger. Nearly two tonnes of CO2, *per passenger*.
+“Well, New York is fine,” I reply. “But so is Paris.” The key point is that I can get to pretty much any European city by train for less than 20kg of CO2. Flying across the ocean to New York will emit 1.9 tonnes – that’s tonnes, as in 1000kgs – of planet-busting emissions straight into the upper atmosphere, where it does the most damage. And that’s not the emissions for the whole plane, that’s per passenger. Nearly two tonnes of CO2, *per passenger*.
 
 Long haul encourages us to travel vast distances that are essentially not going to happen by other means. It’s unlikely you would choose to drive to India, but a flight to Delhi is easily booked. New York is only an ocean crossing away, but who has 10 days to spare either side of their holiday to go by boat?
 
