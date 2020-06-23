@@ -4,7 +4,7 @@ title: No more bites of the Big Apple
 category: opinion
 date: 2020-06-23T09:20:26.478Z
 cover_image: /images/uploads/nyc.jpg
-summary: Are we missing out by not travelling long haul?
+summary: Does not travelling long haul mean missing out on the best parts of life?
 author: FlightFree UK
 read_time_minute: 4
 ---
