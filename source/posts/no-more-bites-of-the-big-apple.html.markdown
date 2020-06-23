@@ -4,7 +4,7 @@ title: No more bites of the Big Apple
 category: opinion
 date: 2020-06-23T09:20:26.478Z
 cover_image: /images/uploads/nyc.jpg
-summary: Does not travelling long haul mean missing out on the best parts of life?
+summary: Are we missing out by not travelling long haul?
 author: FlightFree UK
 read_time_minute: 4
 ---
@@ -18,15 +18,15 @@ On face value it was the trip of a lifetime, but in reality, it was very difficu
 
 Of course, we were so excited to be there, in the Big Apple, walking down the streets of our Friends heroes. But while it was a memorable experience and a fun holiday, as I have learned more about the world I realise it gave me nothing that I can’t find closer to home. The UK has tall buildings, too, and parks, and suspension bridges across rivers. The bustle of our cities is just as thrilling as New York’s buzz, if only we stop to look. One can be a tourist in their own city – all it takes is a fresh pair of eyes. 
 
-As I’ve grown older and more aware of my place on the planet, my overriding consideration for any holiday destination is the emissions. “Don’t you want to go to America?” interviewers ask when discussing my decision to no longer fly. “Won’t your life be all the poorer if all these destinations are off the table? What about New York?”
+But ultimately, it's about the impact upon the planet. As I’ve grown older and more aware of my place on the planet, my overriding consideration for any holiday destination is the emissions. “Don’t you want to go to America?” interviewers ask when discussing my decision to no longer fly. “Won’t your life be all the poorer if all these destinations are off the table? What about New York?”
 
-“Well, New York is fine,” I reply. “But so is Paris.” The key point is that I can get to pretty much any European city by train for less than 20kg of CO2. To travel across the ocean to New York will emit 1.9 tonnes – that’s tonnes, as in 1000kgs – of planet-busting emissions straight into the upper atmosphere, where it does the most damage. And that’s not the emissions for the whole plane, that’s per passenger. Nearly two tonnes of CO2, *per passenger*.
+“Well, New York is fine,” I reply. “But so is Paris.” The key point is that I can get to pretty much any European city by train for less than 20kg of CO2. To fly across the ocean to New York will emit 1.9 tonnes – that’s tonnes, as in 1000kgs – of planet-busting emissions straight into the upper atmosphere, where it does the most damage. And that’s not the emissions for the whole plane, that’s per passenger. Nearly two tonnes of CO2, *per passenger*.
 
 Long haul encourages us to travel vast distances that are essentially not going to happen by other means. It’s unlikely you would choose to drive to India, but a flight to Delhi is easily booked. New York is only an ocean crossing away, but who has 10 days to spare either side of their holiday to go by boat?
 
 On the other hand, our short-haul flights can much more easily be replaced by other means, and are close enough to home for the timings to work, too. Paris, Bruges, Amsterdam, Prague, Berlin, Milan, Barcelona – all are accessible in a day. For the Baltic, the Adriatic, the Balearic islands and even Athens, two days is all you need. Sleeper trains, overnight ferries and overnight coaches are a fantastic way of speeding you to your destination while you sleep. And emissions can be slashed by up to 90%.
 
-But it’s not just about the practicalities, it's the experience. Travelling across land by train is hands down a more pleasant experience than flying. You see so much more, and feel connected to your surroundings and your fellow travellers. You can get up whenever you like and go to the toilet, or wander down to the cafe bar. 
+As well as the practicalities, there comes the experience. Travelling across land by train is hands down a more pleasant experience than flying. You see so much more, and feel connected to your surroundings and your fellow travellers. You can get up whenever you like and go to the toilet, or wander down to the cafe bar. 
 
 With a lifetime of travel on my doorstep I don’t feel one bit that I’m missing out by not travelling long haul. Sure, until time and money allows me to sail around the world (only partly joking) there are a huge number of destinations that I will never see. But there are a huge number of equally compelling destinations here that I will never see either – and for them, I wouldn’t need an emissions-heavy jet to do it. I am happy to shun long-haul – for me the jet lag and sick-in-a-bin misery isn't worth it, and much more powerfully, I just cannot justify the extreme emissions when there are so many other destinations within easy reach.
 
