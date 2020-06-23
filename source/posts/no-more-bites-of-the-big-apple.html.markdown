@@ -10,7 +10,7 @@ read_time_minute: 4
 ---
 ![](/images/uploads/nyc.jpg)
 
-“Where are you going?” asked a friend we’d just bumped into on Hitchin station. “New York!” we chimed as one. This was to be a 21st-birthday holiday trip for my twin sister and me. “Wow, New York!” he chuckled, obviously not expecting such a far-away answer. “Have a great time.” When we alighted in London he headed for the office and we for Heathrow.
+“Where are you going?” asked a friend we’d just bumped into on Hitchin station. “New York!” we chimed as one. This was to be a 21st-birthday holiday trip for my twin sister and me. “Wow, New York!” he chuckled, obviously not expecting such a far-away answer. “Have a good time.” When we alighted in London he headed for the office and we for Heathrow.
 
 And have a good time we did. Both at the age when we were obsessed with Friends, we spent a few busy days absorbing the sights familiar from our TV screens: the Empire State Building, Central Park, Bloomingdale’s, Staten Island and the Statue of Liberty, Brooklyn Bridge. We ate slices of pizza from a street vendor in Soho and tried eggs, bacon and maple syrup on our breakfast waffles. We walked for miles through the grid-like streets and took great pleasure in ticking everything off our list.
 
