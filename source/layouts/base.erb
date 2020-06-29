@@ -84,7 +84,8 @@
           <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
         </header>
         <div id="pledge-modal-content">
-          <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" style="min-height:430px"></iframe>
+          <!-- <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" style="min-height:430px"></iframe> -->
+          <%= partial "pledge_form", locals: { id: "modal" }  %>
         </div>
       </div>
     </div>
@@ -93,5 +94,6 @@
   <script type="text/javascript">
     MicroModal.init();
   </script>
+  <script src="/javascripts/site.min.js"></script>
 </body>
 </html>
