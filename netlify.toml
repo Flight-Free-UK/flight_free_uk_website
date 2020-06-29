@@ -4,7 +4,7 @@
 
   # Directory with the serverless Lambda functions to deploy to AWS.
   
-  command = "npm run lambda-build"
+  command = "npm run lambda-build && bundle exec middleman build"
   functions = "lambda" #  netlify-lambda reads this
   publish = "build"
 
