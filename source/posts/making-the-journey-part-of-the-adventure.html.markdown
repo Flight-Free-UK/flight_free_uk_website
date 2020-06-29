@@ -4,7 +4,7 @@ title: Making the journey part of the adventure
 category: travel
 date: 2020-06-29T12:53:54.962Z
 cover_image: /images/uploads/arctic-circle-train.jpg
-summary: By deciding not to fly, Athlyn Cathcart-Keays discovers how the journey
+summary: In deciding not to fly, Athlyn Cathcart-Keays discovers how the journey
   can become the adventure
 author: FlightFree UK
 read_time_minute: 4
