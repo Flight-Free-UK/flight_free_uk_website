@@ -4,9 +4,8 @@ title: Flying in the face of the climate emergency
 category: climate
 date: 2019-12-03T14:11:15.336Z
 cover_image: /images/uploads/73325818_2364153917166774_218201441196572672_o.jpg
-summary: >-
-  Jefim Vogel, researcher at Leeds University, shows how declaring climate
-  emergency is not compatible with airport expansion.
+summary: Jefim Vogel, researcher at Leeds University, shows how declaring
+  climate emergency is not compatible with airport expansion.
 author: FlightFree UK
 read_time_minute: 3
 ---
@@ -28,22 +27,17 @@ By 2030, the climate impact of flights to and from LBA alone would be twice the 
 
 ![](/images/uploads/lba.jpg)
 
-Airlines talk about carbon neutral growth and net zero emissions, but what does that actually mean? These targets rely heavily on offsetting, a solution that tries to buy our way out of the problem by funding measures to reduce emissions elsewhere _instead_ of reducing our own emitting activities, when what needs to happen is absolutely _both_. And technological advances won’t make anything close to current (let alone increased) levels of flying in any way sustainable, either: the pace of technological progress, let alone the pace of new technologies penetrating the whole fleet of aircraft, is much too slow for reducing emissions at anything like the rate that is needed (and is currently totally outpaced by growing passenger numbers). 
+Airlines talk about carbon neutral growth and net zero emissions, but what does that actually mean? These targets rely heavily on offsetting, a solution that tries to buy our way out of the problem by funding measures to reduce emissions elsewhere *instead* of reducing our own emitting activities, when what needs to happen is absolutely *both*. And technological advances won’t make anything close to current (let alone increased) levels of flying in any way sustainable, either: the pace of technological progress, let alone the pace of new technologies penetrating the whole fleet of aircraft, is much too slow for reducing emissions at anything like the rate that is needed (and is currently totally outpaced by growing passenger numbers). 
 
 The climate emergency is simply not compatible with further expansion of airports or passenger numbers. The only way forward is to reduce passenger numbers significantly, and quickly, as well as demand that government and industry wake up to the reality of the climate crisis and aviation's role in it.
 
 What can I do?
 
-\-  Respond to airport consultation plans
+* Respond to airport consultation plans
+* Join protest groups such as [GALBA](https://www.facebook.com/GfAoLBA/) (action against Leeds Bradford Airport), [No to Heathrow third runway](https://www.no3rdrunwaycoalition.co.uk), [Stop Bristol Airport Expansion](http://www.stopbristolairportexpansion.org) etc
+* Stop flying, or drastically reduce your flights: if you’re going on holiday, why not go somewhere closer? Europe is full of beautiful and culturally rich places that can be reached by train.
+* Campaign for a [kerosene tax](https://eci.ec.europa.eu/008/public/#/initiative) tied to a frequent flier levy
+* Campaign for better and more affordable medium and long-distance trains and overnight trains, via regulations or subsidies
+* Campaign for businesses and universities to pledge to reduce their flights and use video-conferencing or video-calls instead
 
-\-  Join protest groups such as [GALBA](https://www.facebook.com/GfAoLBA/) (action against Leeds Bradford Airport), [No to Heathrow third runway](https://www.no3rdrunwaycoalition.co.uk), [Stop Bristol Airport Expansion](http://www.stopbristolairportexpansion.org) etc
-
-\-  Stop flying, or drastically reduce your flights: if you’re going on holiday, why not go somewhere closer? Europe is full of beautiful and culturally rich places that can be reached by train.
-
-\-  Campaign for a [kerosene tax](https://eci.ec.europa.eu/008/public/#/initiative) tied to a frequent flier levy
-
-\-  Campaign for better and more affordable medium and long-distance trains and overnight trains, via regulations or subsidies
-
-\-   Campaign for businesses and universities to pledge to reduce their flights and use video-conferences / video-calls instead
-
-![](/images/uploads/airport-expansion.png "Map showing airport expansion plans across the UK. Produced by Ali Abbas of Manchester Friends of the Earth")
+![](/images/uploads/airport-expansion.png "Airport expansion plans across the UK. Produced by Ali Abbas of Manchester Friends of the Earth")
