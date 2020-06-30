@@ -5,7 +5,7 @@ const share_text =
     "I have pledged not to take any flights in 2020 to avert climate breakdown #flightfree2020 @flightfree2020 https://www.flightfree.co.uk/pledge"
 
 const twitter_link = `https://twitter.com/intent/tweet?text=${encodeURIComponent(share_text)}`;
-const whatsapp_link = `https://wa.me/?text=${encodeURIComponent(share_text)}`;
+const whatsapp_link = `whatsapp://send?text=${encodeURIComponent(share_text)}`;
 const instagram_link = 'https://www.instagram.com/flightfree2020/';
 const facebook_link = 'https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.flightfree.co.uk%2Fpledge';
 

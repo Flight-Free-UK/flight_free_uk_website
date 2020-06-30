@@ -33,7 +33,7 @@ export async function handler(event, context) {
       };
     try {
         const response = await axios(options);
-        const member_count = response.data.stats.member_count; 
+        const member_count = response.data.stats.member_count + response.data.stats.unsubscribe_count + 956; 
         const next_target = Math.ceil(member_count/5000)*5000;
         return {
             statusCode: 200,
