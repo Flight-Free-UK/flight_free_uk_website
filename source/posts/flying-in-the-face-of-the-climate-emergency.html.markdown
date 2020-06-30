@@ -35,8 +35,8 @@ What can I do?
 
 * Respond to airport consultation plans
 * Join protest groups such as [GALBA](https://www.facebook.com/GfAoLBA/) (action against Leeds Bradford Airport), [No to Heathrow third runway](https://www.no3rdrunwaycoalition.co.uk), [Stop Bristol Airport Expansion](http://www.stopbristolairportexpansion.org) etc
-* Stop flying, or drastically reduce your flights: if you’re going on holiday, why not go somewhere closer? Europe is full of beautiful and culturally rich places that can be reached by train.
-* Campaign for a [kerosene tax](https://eci.ec.europa.eu/008/public/#/initiative) tied to a frequent flier levy
+* Stop flying, or drastically reduce your flights. If you’re going on holiday, why not go somewhere closer? Europe is full of beautiful and culturally rich places that can be reached by train.
+* Campaign for fairer taxation, e.g. a [kerosene tax](https://eci.ec.europa.eu/008/public/#/initiative) and a frequent flier levy
 * Campaign for better and more affordable medium and long-distance trains and overnight trains, via regulations or subsidies
 * Campaign for businesses and universities to pledge to reduce their flights and use video-conferencing or video-calls instead
 
