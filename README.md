@@ -28,7 +28,7 @@ source files are organised in these directories:
   but can also be edited manually.
 * `source/admin` - [NetlifyCMS](https://www.netlifycms.org/)
 * `assets/source` - contains CSS files (they are separate because they are not
-  build by Middleman).
+  built by Middleman).
 * `data` - YAML files with data that is used in HTML templates (some of it is
   edited using the CMS, like podcasts).
 
@@ -66,7 +66,7 @@ HTML templates.
 ## Deployment
 
 Once you've tested your changes locally and are happy for them to go live,
-commit and push them to Gtihub. Netlify (where the site is hosted) builds the
+commit and push them to Github. Netlify (where the site is hosted) builds the
 actual site from the templates and all the assets.
 
 The site is built using: `bundle exec middleman build` in the `build`
