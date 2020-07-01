@@ -38,3 +38,5 @@ Because of course, we ***can*** stop flying. The coronavirus grounded 80% of fle
 ***"After the coronavirus we got a taste for bikes and for walking in all the precious nature that’s tucked away closer to home, and we’ve no desire to mess up the sky again."***
 
 ***"Just like we did with plastic, and meat: it all seems so obvious, now it's done!"***
+
+![](/images/uploads/dave-at-marlow-fm.jpg "Dave presenting his regular show, 'Watt Next: All Things Being Eco', on Marlow FM")
