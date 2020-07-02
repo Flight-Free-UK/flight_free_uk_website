@@ -22,24 +22,24 @@ Our must-have-everything-now society feeds into the jet set mindset, the 100mph 
 
 In this difficult time, it's good to share the positives. What have you found positive about lockdown?
 
-‘Consuming much less, spending much less money, driving much less, completing more projects’
+*‘Consuming much less, spending much less money, driving much less, completing more projects’*
 
-‘I am happy reading. I am happy listening to music. I play my guitar. We now eat fresh bread. We don't need to be constantly doing things.’
+*‘I am happy reading. I am happy listening to music. I play my guitar. We now eat fresh bread. We don't need to be constantly doing things.’*
 
-‘Discovering so many walks near home that get me out into the countryside even though I live in a city. I can fit it into my everyday life without having to wait to travel.’
+*‘Discovering so many walks near home that get me out into the countryside even though I live in a city. I can fit it into my everyday life without having to wait to travel.’*
 
-‘Identifying birds by their songs, bees by their markings & trees by their leaves. Observing a cygnet & two coots as they grow.’
+*‘Identifying birds by their songs, bees by their markings & trees by their leaves. Observing a cygnet & two coots as they grow.’*
 
-‘Reconnecting with all the places walkable from my door, and all the species that call them home.’
+*‘Reconnecting with all the places walkable from my door, and all the species that call them home.’*
 
-‘The chance to spend absolutely loads of time with my beautiful son. Playing in the woods next to our house, building train tracks, river dams, forts and fires.’
+*‘The chance to spend absolutely loads of time with my beautiful son. Playing in the woods next to our house, building train tracks, river dams, forts and fires.’*
 
-‘More time to discover and explore local nature: woodland walks and beautiful beaches. A time for new hobbies and developing old ones: knitting, cross-stitch, baking, running and gardening. More time at home with my boyfriend and kittens. Less commuting. More online family fun.’
+*‘More time to discover and explore local nature: woodland walks and beautiful beaches. A time for new hobbies and developing old ones: knitting, cross-stitch, baking, running and gardening. More time at home with my boyfriend and kittens. Less commuting. More online family fun.’*
 
-‘Clear blue skies’
+*‘Clear blue skies’*
 
-‘Discovery of a beautiful meadow 15 mins walk from my house, and a spot where you can watch barn owls hunting just two hours’ cycle / 25 mins drive away. I live very close to Sheffield city centre, and wrongly thought I had to go further away for amazing wildlife experiences.’
+*‘Discovery of a beautiful meadow 15 mins walk from my house, and a spot where you can watch barn owls hunting just two hours’ cycle / 25 mins drive away. I live very close to Sheffield city centre, and wrongly thought I had to go further away for amazing wildlife experiences.’*
 
-‘Usually, we would just go to the pub. Now we go for bike rides and see more and discover more.’
+*‘Usually, we would just go to the pub. Now we go for bike rides and see more and discover more.’*
 
-Please send us your positive lockdown experiences
+Would you like to send us your positive lockdown experiences? Get in touch: [info@flightfree.co.uk](mailto:info@flightfree.co.uk)
