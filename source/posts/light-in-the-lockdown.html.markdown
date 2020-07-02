@@ -10,7 +10,7 @@ summary: "Lockdown has been really difficult for lots of us. But has being
 author: FlightFree UK
 read_time_minute: 3
 ---
-Air travel has given us the whole world at our fingertips. We think of travel and we book our flight – it is how a whole generation has been brought up. But the coronavirus pandemic has brought an abrupt end to all that, and has taken it to an extreme – not just forced out of the sky, we are confined to the small locality of our own neighbourhoods.
+Air travel has given us the whole world at our fingertips. We think of holidays and we book our flight – it is how a whole generation has been brought up. But the coronavirus pandemic has brought an abrupt end to all that, and has taken it to an extreme – not just forced out of the sky, we are confined to the small locality of our own neighbourhoods.
 
 It's hugely difficult for a large number of people. We humans are social creatures and being unable to see friends or family, or reach out and touch and hug them, is hard for most. But there is an unexpected bonus. Forced to stay close to home, we have discovered the delights of our local area. We have learned to enjoy being still. We have got to know our neighbours better.
 
