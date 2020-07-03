@@ -2,7 +2,7 @@
 published: true
 title: Big ticket action for the climate
 category: climate
-date: 2020-07-01T14:36:37.375Z
+date: 2020-06-29T17:00:02.277Z
 cover_image: /images/uploads/bar_chart.png
 summary: Dave Hampton, the Carbon Coach, has been banging the climate drum for
   decades, and wonders, has the time come when we will finally stop flying?
