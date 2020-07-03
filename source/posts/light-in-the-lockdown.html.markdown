@@ -2,7 +2,7 @@
 published: true
 title: Light in the lockdown
 category: flight_free_2020
-date: 2020-06-20T22:13:07.626Z
+date: 2020-07-01T22:13:07.626Z
 cover_image: /images/uploads/lockdown.jpeg
 summary: "Lockdown has been really difficult for lots of us. But has being
   forced to stay still – no longer able to ‘get away from it all’ – changed our
