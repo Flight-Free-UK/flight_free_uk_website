@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Destination UK: Off the Beaten Track"
 category: travel
 date: 2020-07-03T07:56:56.855Z
@@ -48,9 +48,9 @@ Hexham is on the [mainline](https://www.northernrailway.co.uk/stations/HEX) betw
 
 #### Grange-over-Sands, Cumbria
 
-Grange-over-Sands is a small coastal town located on the fascinating Morecambe Bay and just outside the Lake District park boundary. The town itself is a great base for [walking](https://www.grangeoversandstowncouncil.gov.uk/walking-and-cycling.html) and cycling, with routes around the town perfect for nature enthusiasts and bird-watchers. There are several [nature reserves](https://www.visitcumbria.com/nature-reserves/) and sites of special scientific interest, while Morecambe Bay offers opportunities to spot oystercatchers or lazy seals. For a relaxing afternoon, potter around Grange’s pretty waterside shops and cafes; we recommend the lovely [Hazelmere Cafe and Bakery](https://thehazelmere.co.uk/) for delicious regional specialities like Eccles cakes, Cumberland rum Nicky and Yorkshire curd tarts, all baked to a secret recipe.
+Grange-over-Sands is a small coastal town located on the fascinating Morecambe Bay and just outside the Lake District park boundary. The town itself is a great base for [walking](https://www.grangeoversandstowncouncil.gov.uk/walking-and-cycling.html) and cycling, with routes around the town perfect for nature enthusiasts and bird-watchers. There are several [nature reserves](https://www.visitcumbria.com/nature-reserves/) and sites of special scientific interest, while Morecambe Bay offers opportunities to spot oystercatchers or lazy seals. For a relaxing afternoon, potter around Grange’s pretty waterside shops and cafes; we recommend the lovely [Hazelmere Cafe and Bakery](https://thehazelmere.co.uk/) for delicious regional specialities like Eccles cakes, Cumberland rum nicky (a pastry pie with dates and ginger) and Yorkshire curd tarts, all baked to a secret recipe.
 
-Grange-over-Sands is accessible by train from Ulverston and Barrow-in-Furness to the west and from Lancaster, Preston and Manchester in the east.
+Grange-over-Sands is on the branch line from Lancaster – stop off in this charming, historical town if you have time.
 
 ![](/images/uploads/grange.jpg "Grange-over-Sands countryside, image from holidaycottages.co.uk")
 
@@ -58,7 +58,7 @@ Grange-over-Sands is accessible by train from Ulverston and Barrow-in-Furness to
 
 This enchanting archipelago off the toe of Cornwall is formed of five inhabited islands in addition to countless uninhabited ones, some of which remain completely undisturbed. Hop around each island on a “tripper” [boat](https://www.visitislesofscilly.com/explore/island-hopping), take a swim in the refreshing waters (don’t forget your [wetsuit](https://www.seatemperature.org/europe/united-kingdom/isles-of-scilly-july.htm)!), or [snorkel with the seals](https://www.visitislesofscilly.com/experience/things-to-do/scilly-seal-snorkelling-p1148703) to truly experience this English paradise.
 
-Each island offers a unique experience, but the Isles are well known for their creative communities, sweeping sea views, ancient architecture and fascinating wildlife. We've got to mention the [beaches](https://www.visitislesofscilly.com/explore/beaches) - with turquoise shallow waters, palm trees and pale, fine sand - there’s no need to go further afield. Scilly’s beaches are gorgeous enough to rival any in the world, and there are more than 35 across the archipelago. Head to Great Bay on St Martin’s (voted best beach in the UK) for swimming, Porth Loo Beach on St Mary’s for rock pooling, or Gimble Porth on Tresco for a beach all to yourself.
+Each island offers a unique experience, but the Isles are well known for their creative communities, sweeping sea views, ancient architecture and fascinating wildlife. We've got to mention the [beaches](https://www.visitislesofscilly.com/explore/beaches) - with turquoise shallow waters, palm trees and pale, fine sand, there’s no need to go further afield. Scilly’s beaches are gorgeous enough to rival any in the world, and there are more than 35 across the archipelago. Head to Great Bay on St Martin’s (voted best beach in the UK) for swimming, Porth Loo Beach on St Mary’s for rock pooling, or Gimble Porth on Tresco for a beach all to yourself.
 
 Travelling to the Isles flight-free is easy and a perfect way to view the Cornish coastline: take the train to Penzance then the ferry to St Mary's, the largest island of the group.
 
@@ -66,34 +66,36 @@ Travelling to the Isles flight-free is easy and a perfect way to view the Cornis
 
 ### Scotland
 
-#### 7. Tobermory, Isle of Mull
+#### Tobermory, Isle of Mull
 
-The colourful buildings on Tobermory's waterfront give this little harbour town its distinctive charm – you might recognise them as the setting for the children's programme Balamory. The town is steeped in history - legend has it one of the Spanish Armada ships sank in the bay in 1588. Take a visit to the [Mull Museum](http://www.mullmuseum.org.uk/) to explore the history of Mull and its people. The island capital is a great place for wildlife watching, as the coastal seas are important feeding grounds for whales, dolphins, otters, basking sharks and eagles. There’s a great selection of locally-produced [arts and crafts](https://visitmullandiona.co.uk/listing-type/arts-and-crafts/) in addition to numerous shops, eateries and hotels.
+The colourful buildings on Tobermory's waterfront give this little harbour town its distinctive charm – you might recognise them as the setting for the children's programme Balamory. The town is steeped in history: legend has it one of the Spanish Armada ships sank in the bay in 1588. Take a visit to the [Mull Museum](http://www.mullmuseum.org.uk/) to explore the history of Mull and its people. The island capital is a great place for wildlife watching, as the coastal seas are important feeding grounds for whales, dolphins, otters, basking sharks and eagles. There’s a great selection of locally-produced [arts and crafts](https://visitmullandiona.co.uk/listing-type/arts-and-crafts/) in addition to numerous shops, eateries and hotels.
 
 To get to Tobermory, take the train to Oban from Glasgow Queen Street and enjoy the spectacular mountainous scenery, then take the [ferry](https://www.calmac.co.uk/) to Mull. On arrival on Mull there is a regular [bus](https://www.tobermory.co.uk/information/travel-2/bus/) service to Tobermory from Craignure ferry terminal.
 
-![](/images/uploads/tobermory.jpg "Tobermory, image from smartertravel.com")
+![Tobermory](/images/uploads/tobermory.jpg "Tobermory, image from smartertravel.com")
 
-#### 8. Aviemore, Cairngorms
+#### Aviemore, Cairngorms
 
 The town of Aviemore is located in the northwestern corner of the beautiful Cairngorms National Park and is surrounded by mountains, lochs, moorland and ancient forest, making it a popular destination for outdoor activities, including [snowsports](https://www.visitscotland.com/info/see-do/cairngorm-mountain-scotland-ltd-p2165531) and [watersports](https://www.lochmorlich.com/) (sailing, windsurfing, stand-up paddleboarding, kayaking and canoeing). Home to 25% of Britain’s threatened species, the Cairngorms are fantastic for wildlife-watching, with possible sightings including red squirrel, capercaillie, snow bunting, pine marten, deer, ospreys, eagles and wildcats.
 
 The [Caledonian Sleeper train](https://www.sleeper.scot/) goes from London Euston to six destinations in the Cairngorms National Park, including Aviemore. Aviemore station is also served by Scot Rail.
 
-![](/images/uploads/aviemore.jpg "Aviemore, image from gaelholidayhomes.co.uk")
+![Aviemore](/images/uploads/aviemore.jpg "Aviemore, image from gaelholidayhomes.co.uk")
 
 ### Wales
 
-#### 9. Tenby, Pembrokeshire
+#### Tenby, Pembrokeshire
 
 Tenby is a picture-postcard harbour town known for its pastel-coloured houses, medieval stone wall and gorgeous sandy beaches stretching to the north, west and south of the centre. For great views of [Caldey Island](https://caldeyislandwales.com/), home to the Monks of Caldey Abbey, walk along Tenby’s South Beach towards Giltar Point, where you’ll find the start of the [Pembrokeshire Coastal Path](https://www.visitwales.com/product/1970684). The path goes through a varied landscape of limestone cliffs, volcanic headlands, red sandstone bays and glacial valleys.
 
 Tenby has plenty of attractions and amenities, including the oldest independent [museum](https://www.visitwales.com/product/675215) in Wales, and the pubs, shops, cafes and eateries are all linked by quaint cobbled streets. Tenby can be easily reached by train and coach, with both stations situated close to the town centre.
 
-![](/images/uploads/tenby.jpg "North Beach at Tenby, Pembrokeshire. Image from bluestonewales.com.")
+![North Beach at Tenby](/images/uploads/tenby.jpg "North Beach at Tenby, Pembrokeshire. Image from bluestonewales.com.")
 
-#### 10. Conwy, North Wales
+#### Conwy, North Wales
 
-Conwy is one of Britain’s best-preserved medieval towns, where ancient stone walls enclose a site full of history. Exploring the amazing thirteenth-century [castle](https://cadw.gov.wales/visit/places-to-visit/conwy-castle), a World Heritage Site, is a must, as is a visit to the [smallest house ](http://www.thesmallesthouse.co.uk/)in the UK! Other attractions include the beautiful riverfront and the [Conwy Suspension Bridge](https://www.visitconwy.org.uk/things-to-do/conwy-suspension-bridge-and-tollkeepers-house-p277631). The town is also located right next to Great Orme’s Head, a massive headland carved out of Carboniferous Limestone and designated a Special Area of Conservation. Try your hand at [fossil hunting ](https://ukfossils.co.uk/2008/03/22/great-ormes-head/)among the natural exposes and quarry faces, which are packed with brachiopods and corals. To get to Conwy, take the train and change at Chester (which is also worth a look around!).
+Conwy is one of Britain’s best-preserved medieval towns, where ancient stone walls enclose a site full of history. Exploring the amazing thirteenth-century [castle](https://cadw.gov.wales/visit/places-to-visit/conwy-castle), a World Heritage Site, is a must, as is a visit to the [smallest house ](http://www.thesmallesthouse.co.uk/)in the UK! Other attractions include the beautiful riverfront and the [Conwy Suspension Bridge](https://www.visitconwy.org.uk/things-to-do/conwy-suspension-bridge-and-tollkeepers-house-p277631). The town is  located right next to Great Orme’s Head, a massive headland carved out of carboniferous limestone and designated a Special Area of Conservation. Try your hand at [fossil hunting ](https://ukfossils.co.uk/2008/03/22/great-ormes-head/)among the natural exposes and quarry faces, which are packed with brachiopods and corals. 
 
-![](/images/uploads/conwy.jpg "Conwy Castle, image from sykescottages.co.uk")
+To get to Conwy, take the train and change at Chester. The railway follows the coast through many north Wales beach resorts with fabulous views across the sea. Chester itself is also worth a look around, with a thriving Tudor high street, so we recommend taking extra time for your connection.
+
+![Conwy Castle](/images/uploads/conwy.jpg "Conwy Castle, image from sykescottages.co.uk")
