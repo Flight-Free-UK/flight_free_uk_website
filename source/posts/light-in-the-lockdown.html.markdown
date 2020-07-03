@@ -40,6 +40,6 @@ In this difficult time, it's good to share the positives. What have you found po
 
 *‘Discovery of a beautiful meadow 15 mins walk from my house, and a spot where you can watch barn owls hunting just two hours’ cycle / 25 mins drive away. I live very close to Sheffield city centre, and wrongly thought I had to go further away for amazing wildlife experiences.’*
 
-*‘Usually, we would just go to the pub. Now we go for bike rides and see more and discover more.’*
+*‘Usually, we would just go to the pub. Now we sit in the park and go for bike rides and see more and discover more.’*
 
 Would you like to send us your positive lockdown experiences? Get in touch: [info@flightfree.co.uk](mailto:info@flightfree.co.uk)
