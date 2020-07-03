@@ -34,25 +34,25 @@ The town is accessible by train, and if you have time, stop off at Cromer on the
 
 Edale is located in the heart of the Peak District and is the official start/end of the UK’s first long-distance walking route – the [Pennine Way](https://www.nationaltrail.co.uk/en_GB/trails/pennine-way/). It’s a tiny village, or to be more accurate, a collection of small hamlets or “booths” and is popular with walkers of all abilities. Edale is close to the [Blue John Cavern](https://www.bluejohn-cavern.co.uk) at Castleton, a famous site for the ornamental mineral Blue John stone. Take a 45-minute guided tour through the water-worn cave system to view the stone in its natural state, along with stalactites, stalagmites and huge caverns.
 
-For local amenities, Edale has two pubs, two cafes, a few local shops, several B&Bs, holiday lets and camping sites. Edale train station is accessed by one of England’s most beautiful railway routes: the Manchester to Sheffield train line ([the Hope Valley Line](https://www.scenicrailbritain.com/lines/hope-valley-line)). On this journey, you’ll pass rugged hills and dales, historic viaducts and quaint villages with grey-brick cottages. From Edale, there’s the option to take the train to Buxton and other Peak District villages.
+For local amenities, Edale has two pubs, two cafes, a few local shops, several B&Bs, holiday lets and camping sites. Edale train station is on one of England’s most beautiful railway routes: the Manchester to Sheffield train line ([the Hope Valley Line](https://www.scenicrailbritain.com/lines/hope-valley-line)) which passes through the hills and dales, across historic viaducts and through villages with grey-brick cottages. From Edale, there’s the option to take the train to Buxton and other Peak District villages.
 
-![](/images/uploads/edale.jpg "Edale and the High Peak, image from beautifulenglandphotos.uk")
+![Edale and the High Peak](/images/uploads/edale.jpg "Edale and the High Peak, image from beautifulenglandphotos.uk")
+
+#### Hexham, Northumberland
+
+Voted England’s favourite market town, Hexham is perfect for shoppers with many specialist and independent stores, daily market stalls selling artisan bread and cheeses in the ancient [Shambles](https://information-britain.co.uk/showPlace.cfm?Place_ID=64578) and a full [market](https://www.northumberland.gov.uk/Business/Northumberland-Markets/Hexham-Market.aspx) twice weekly in Market Place, sandwiched in between the medieval [Hexham Abbey](http://www.hexhamabbey.org.uk/) and 15th-century gatehouse. There’s also an Art Deco [cinema](https://forumhexham.com/ForumHexham.dll/Home) and a [theatre and arts centre](https://www.queenshall.co.uk/) in addition to plenty of outdoor activities such as fishing and golf. The town is close to [Hadrian’s Wall,](https://www.visitnorthumberland.com/hadrians-wall/walking-routes) the North Pennines Area of Outstanding Natural Beauty, the International Dark Skies Park and the Northumberland National Park, making it an ideal base for exploring the local area.
+
+Hexham is on the [mainline](https://www.northernrailway.co.uk/stations/HEX) between Newcastle and Carlisle, with the vibrant city of Newcastle just 40 minutes by train.
+
+![Haxham Abbey](/images/uploads/hexham.jpg "Hexham Abbey, image from visithexham.net")
 
 #### Grange-over-Sands, Cumbria
 
-Grange-over-Sands is a small coastal town located along the fascinating Morecambe Bay and just outside the Lake District park boundary. The town itself is a great base for [walking](https://www.grangeoversandstowncouncil.gov.uk/walking-and-cycling.html) and cycling, with routes around the town perfect for nature enthusiasts and bird-watchers. There are several [nature reserves](https://www.visitcumbria.com/nature-reserves/) and sites of special scientific interest, while Morecambe Bay offers opportunities to spot oystercatchers or lazy seals. For a relaxing afternoon, potter around Grange’s pretty waterside shops and cafes; we recommend the lovely [Hazelmere Cafe and Bakery](https://thehazelmere.co.uk/) for delicious regional specialities like Eccles cakes, Cumberland rum Nicky and Yorkshire curd tarts, all baked to a secret recipe.
+Grange-over-Sands is a small coastal town located on the fascinating Morecambe Bay and just outside the Lake District park boundary. The town itself is a great base for [walking](https://www.grangeoversandstowncouncil.gov.uk/walking-and-cycling.html) and cycling, with routes around the town perfect for nature enthusiasts and bird-watchers. There are several [nature reserves](https://www.visitcumbria.com/nature-reserves/) and sites of special scientific interest, while Morecambe Bay offers opportunities to spot oystercatchers or lazy seals. For a relaxing afternoon, potter around Grange’s pretty waterside shops and cafes; we recommend the lovely [Hazelmere Cafe and Bakery](https://thehazelmere.co.uk/) for delicious regional specialities like Eccles cakes, Cumberland rum Nicky and Yorkshire curd tarts, all baked to a secret recipe.
 
 Grange-over-Sands is accessible by train from Ulverston and Barrow-in-Furness to the west and from Lancaster, Preston and Manchester in the east.
 
 ![](/images/uploads/grange.jpg "Grange-over-Sands countryside, image from holidaycottages.co.uk")
-
-#### Hexham, Northumberland
-
-Voted England’s favourite market town, Hexham is perfect for shoppers with many specialist and independent stores, daily market stalls selling artisan bread and cheeses in the ancient [Shambles](https://information-britain.co.uk/showPlace.cfm?Place_ID=64578) and a full [market](https://www.northumberland.gov.uk/Business/Northumberland-Markets/Hexham-Market.aspx) twice weekly in Market Place, sandwiched in between the medieval [Hexham Abbey](http://www.hexhamabbey.org.uk/) and 15th-century gatehouse. There’s also an Art Deco [cinema](https://forumhexham.com/ForumHexham.dll/Home) and a [theatre and arts centre](https://www.queenshall.co.uk/) in addition to plenty of outdoor activities such as fishing and golf. The town is close to [Hadrian’s Wall,](https://www.visitnorthumberland.com/hadrians-wall/walking-routes) the North Pennines Area of Outstanding Natural Beauty, the International Dark Skies Park and the Northumberland National Park, making it ideal for walking and hiking.
-
-Hexham is accessible by [train](https://www.northernrailway.co.uk/stations/HEX) on the mainline linking Newcastle and Carlisle and by coach with drop off just outside the Abbey. There are also [buses](https://www.arrivabus.co.uk/north-east/places/hexham/) that will take you to nearby towns and villages, in addition to Newcastle and Carlisle.
-
-![](/images/uploads/hexham.jpg "Hexham Abbey, image from visithexham.net")
 
 #### Isles of Scilly, Cornwall
 
