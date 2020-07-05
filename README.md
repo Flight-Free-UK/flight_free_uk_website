@@ -27,8 +27,7 @@ source files are organised in these directories:
 * `source/posts` - blog posts as Markdown files that are edited using the CMS,
   but can also be edited manually.
 * `source/admin` - [NetlifyCMS](https://www.netlifycms.org/)
-* `assets/source` - contains CSS files (they are separate because they are not
-  build by Middleman).
+* `assets/source` - contains CSS and JS files for the site (they are separate because we are using Webpack to build assets, not Middleman's default assets pipeline).
 * `data` - YAML files with data that is used in HTML templates (some of it is
   edited using the CMS, like podcasts).
 
@@ -54,14 +53,14 @@ currently just one CSS file with CSS rules for things that TailwindCSS doesn't
 support or for HTML that is automatically generated (e.g. blog posts are
 generated from Markdown).
 
-CSS files are currently only processed by PostCSS and the changes to files are
-reloaded in the browser automatically.
-
+CSS files are processed by Webpack and the changes to files are reloaded in the
+browser automatically.
 
 ### Javascript
 
-There is currently very little javascript and so all of it is inline in the
-HTML templates.
+There is currently very little javascript and some of it is inline in the HTML
+templates. JS files are processed by Webpack and changes are reloaded in the
+browser automatically.
 
 ## Deployment
 
