@@ -55,11 +55,9 @@ activate :blog do |blog|
   }
 end
 
-assets_command = "npx postcss assets/source/css/styles.css -o assets/build/stylesheets/styles.css --verbose"
-
 activate :external_pipeline,
-  name: :tailwind,
-  command: (build? ? "NODE_ENV=production #{assets_command}" : "npx watch '#{assets_command}' assets/source/css/"),
+  name: :webpack,
+  command: (build? ? "npm run webpack" : "npm run webpack-watch"),
   source: "assets/build"
 
 # Layouts
