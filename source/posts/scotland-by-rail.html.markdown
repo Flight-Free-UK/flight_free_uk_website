@@ -10,6 +10,8 @@ summary: Scottish artist Leo du Feu has spent much of the past 15 years
 author: FlightFree UK
 read_time_minute: 5
 ---
+![Leo, Jennifer and Oren](/images/uploads/leo-jennifer-oren.jpg "Leo, Jennifer and Oren")
+
 I was brought up in the 80s & 90s in a no-car family. Everything we needed was within walking and cycling distance: school, a thriving High Street, and the railway station which connected us in 20 minutes to Edinburgh and 40 minutes to Glasgow.
 
 Visiting grandparents was by train north to Aberdeenshire or south to Lincolnshire. Our summer holidays were by train, too, Yorkshire and Wales being particular favourites although sometimes we did choose Scotland. On summer holidays we took bikes, stowed in the guards vans on lovely old 125 and 225 trains.
