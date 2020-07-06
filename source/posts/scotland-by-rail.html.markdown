@@ -42,7 +42,9 @@ Montrose is a great place for a holiday, not just a day trip. Other highlights a
 
 **Island**
 
-I love islands. You have the excitement of the train, then the excitement of the ferry, then the excitement of the island itself. In only four hours on [Arran](http://landscapeartnaturebirds.blogspot.com/2014/12/scotland-by-rail-ardrossan-and-arran.html) on a day trip from Ardossan Harbour station I was able to visit a cafe, a bakery and a charity shop in Brodick village, walk along field lanes out into the hills where I saw green hairstreak butterflies for the first time in my life and red deer on the hillside circled high overhead by buzzards and a pair of golden eagles. Then back through woodland, along the sandy shore, onto the ferry, train to Dalry station to give one of my art/nature/railway presentations, then train home!
+I love islands. You have the excitement of the train, then the excitement of the ferry, then the excitement of the island itself. In only four hours on Arran on a day trip from Ardossan Harbour station I was able to visit a cafe, a bakery and a charity shop in Brodick village, walk along field lanes out into the hills where I saw green hairstreak butterflies for the first time in my life and red deer on the hillside circled high overhead by buzzards and a pair of golden eagles. Then back through woodland, along the sandy shore, onto the ferry, train to Dalry station to give one of my art/nature/railway presentations, then train home!
+
+Here's [another Arran day](http://landscapeartnaturebirds.blogspot.com/2014/12/scotland-by-rail-ardrossan-and-arran.html): birds, lighthouses, sketches and watercolours.
 
 **Europe!**
 
