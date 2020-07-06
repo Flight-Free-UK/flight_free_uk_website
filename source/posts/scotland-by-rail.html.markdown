@@ -32,9 +32,7 @@ The River Dee flows into a busy working harbour, lined with old fishing communit
 
 **Wild & Remote**
 
-Corrour station is on the West Highland Line between Crianlarich and Fort William. The train trundles you north through miles of Rannoch Moor before dropping you off at Corrour. There’s a station house and that’s it. A mile or so down the track, on the edge of Loch Ossian, is a Hostelling Scotland eco-hostel. Train, foot and bike are the only ways to get to it. You bring everything you need and you take away your waste at the end. There are walks in every direction, and an abundance of wildlife: black-throated divers, nesting waders, golden eagles, red deer and ravens. And oh, those stars at night!
-
-*<https://landscapeartnaturebirds.blogspot.com/2012/04/three-days-in-scottish-highlands-loch.html> <https://landscapeartnaturebirds.blogspot.com/2012/04/loch-ossian-loch-treig-bothy-back-then.html> <https://landscapeartnaturebirds.blogspot.com/2012/05/loch-ossian-u-shaped-valley-overhead.html>*
+Corrour station is on the West Highland Line between Crianlarich and Fort William. The train trundles you north through miles of Rannoch Moor before dropping you off at Corrour. There’s a station house and that’s it. [A mile or so down the track, on the edge of Loch Ossian](https://landscapeartnaturebirds.blogspot.com/2012/04/three-days-in-scottish-highlands-loch.html), is a [Hostelling Scotland eco-hostel](https://www.hostellingscotland.org.uk/hostels/loch-ossian/). Train, foot and bike are the only ways to get to it. You bring everything you need and you take away your waste at the end. There are [walks](https://landscapeartnaturebirds.blogspot.com/2012/05/loch-ossian-u-shaped-valley-overhead.html) in every direction, and an abundance of wildlife: black-throated divers, nesting waders, golden eagles, red deer and ravens. And oh, those stars at night!
 
 **Nature Reserve**
 
