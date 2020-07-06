@@ -62,4 +62,6 @@ The train is so much more than a necessary part of getting there. It’s a journ
 
 The website [Seat 61](https://www.seat61.com/) (and Jennifer) are invaluable in planning rail trips.
 
+*Leo du Feu is a Scottish artist, focussing on landscape and nature. Find more from Leo on his [blog](http://landscapeartnaturebirds.blogspot.co.uk/) and [website](http://www.leodufeu.co.uk), and via [Instagram](https://www.instagram.com/leodufeu/) and [Twitter](https://twitter.com/LeoduFeu).* 
+
 ![From the sitting room, Helmsdale station.](/images/uploads/leo-du-feu-helmsdale.jpg "From the sitting room, Helmsdale station.")
