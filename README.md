@@ -13,8 +13,8 @@ To work on this website you'll need to do the following:
 * Install Ruby dependencies: `bundle install`
 * Install NodeJS (latest version should be fine)
 * Install NodeJS dependencies: `npm install`
-* Run `bundle exec middleman server` to start a developmet server at
-  [http://localhost:4567](http://localhost:4567)
+* Run `netlify dev` to start a development server at
+  [http://localhost:8888](http://localhost:8888)
 
 ## Project structure
 
@@ -30,12 +30,18 @@ source files are organised in these directories:
 * `assets/source` - contains CSS and JS files for the site (they are separate because we are using Webpack to build assets, not Middleman's default assets pipeline).
 * `data` - YAML files with data that is used in HTML templates (some of it is
   edited using the CMS, like podcasts).
+* `functions` - Netlify serverless functions that power the 'Sign the pledge'
+  tool.
 
 ## Development workflow
 
-In development mode Middleman serves the templates and other files from
-`source` directory at [http://localhost:4567](http://localhost:4567) with
-live-reload: it automatically refreshes pages when you edit them.
+Netlify Dev can be used to serve both the site and Netlify functions in
+development mode. It starts Middleman server, serves Netlify functions and
+proxes requests, so that both are available at
+[http://localhost:8888](http://localhost:8888). Any changes to templates in
+`source` and assets in `assets/source` automatically become available in the
+browser. Changes to functions in `functions` are picked up automatically as
+well.
 
 ### Editing HTML
 
