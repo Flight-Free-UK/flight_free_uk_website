@@ -20,7 +20,7 @@ Lack of flying, lack of overseas holidays and lack of a car were in no way signs
 
 Now an adult and in charge of my own decisions, I remain very uneasy about flying. Aviation is a massive part of the carbon-reliant culture which is destroying our climate and natural world, and bringing huge hardship and suffering to millions. The evidence is everywhere and impossible to ignore, yet somehow we do. As an artist whose work and life is inspired by the natural world I can’t help but worry: how will it be when our two-year-old is my age?
 
-Graduating from Edinburgh College of Art fifteen years ago I knew I wanted to explore Scotland and knew I didn’t want to drive to do so. So I got in touch with rail operator [ScotRail](https://www.scotrail.co.uk) and my [Scotland By Rail](http://landscapeartnaturebirds.blogspot.com/search/label/Scotland%20by%20Rail) project was born. I’ve worked on it ever since, exploring my home-country by train and documenting it for others to enjoy. The aim is to show what a wealth Scotland’s railways have to offer, from cities to wild nature and our famous islands.
+Graduating from Edinburgh College of Art fifteen years ago I knew I wanted to explore Scotland and knew I didn’t want to drive to do so. So I got in touch with rail operator [ScotRail](https://www.scotrail.co.uk) and my [Scotland By Rail](http://landscapeartnaturebirds.blogspot.com/search/label/Scotland%20by%20Rail) project was born. I’ve worked on it ever since, exploring my home-country by train and documenting it for others to enjoy. The aim is to show what a wealth Scotland’s railways have to offer, from cities and wild nature to our famous islands.
 
 **City**
 
