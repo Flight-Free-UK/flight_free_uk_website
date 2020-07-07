@@ -56,6 +56,8 @@ The Government could raise investment in the rail network or fund a price cap on
 
 Domestic flights might seem attractive in terms of journey time, but for short haul flights the travel time can be at least doubled. The fastest London-Amsterdam Eurostar is just under 4 hours, which is very close to the Heathrow-Schipol journey time once transfers and check-in time is accounted for. London-Edinburgh is 4 hrs 20 mins by train, and comparable by air.
 
+![Graphic by Edinburgh University, comparing rail and air travel on selected domestic flight routes](/images/uploads/trains-vs-planes-uk-v3.png "Graphic by Edinburgh University, comparing rail and air travel on selected domestic flight routes")
+
 ### Individual action
 
 While we wait for the government to take action, we as consumers can make stronger decisions on how we use aviation: avoiding it for shorter distances, and reducing our frequency of travel.
@@ -68,8 +70,6 @@ While we wait for the government to take action, we as consumers can make strong
 The UK, as a historically and disproportionately large emitter \[xxiv], has a responsibility to lead from the front. We need political will to meet our net zero targets, and we need to not be content with doing ‘just enough’ to hit 2°C. Covid-19 has shown us that even with dramatic lockdowns our emissions haven’t dropped enough, which shows the size of the task ahead.
 
 In order to prevent serious climate crisis consequences \[xxvii] we need to move much faster, with the government making bold policy in all sectors to create the significant reductions we so desperately need. Covid-19 gives us the opportunity to ‘build back better’ and build a green recovery. For aviation, a 700km policy for domestic & international flights would be a good place to start.
-
-![Graphic by Edinburgh University, comparing rail and air travel on selected domestic flight routes](/images/uploads/trains-vs-planes-uk-v3.png "Graphic by Edinburgh University, comparing rail and air travel on selected domestic flight routes")
 
 \[i] Conversion Factors 2019 ‘Business travel -air’ & ‘Business travel — land’ <https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019> Rail passenger km 0.04115 kg CO2e . International rail 0.00597 kg CO2e. short haul flights are approximately 0.15832kg CO2e, domestic flights are 0.25493 kg CO2e and long haul 0.19562 kg CO2e.
 
