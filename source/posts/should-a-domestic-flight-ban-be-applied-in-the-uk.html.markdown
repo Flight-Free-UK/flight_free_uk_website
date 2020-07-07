@@ -60,10 +60,10 @@ Domestic flights might seem attractive in terms of journey time, but for short h
 
 While we wait for the government to take action, we as consumers can make stronger decisions on how we use aviation: avoiding it for shorter distances, and reducing our frequency of travel.
 
-* Use rail wherever possible — especially under 700km journeys. The time taken is roughly similar and the carbon savings are 70–90%. Rail Europe [<https://raileurope.co.uk/>] gives detail on CO2 savings and routes across Europe.
+* Use rail wherever possible — especially under 700km journeys. The time taken is roughly similar and the carbon savings are 70–90%. [Rail Europe](https://raileurope.co.uk/) gives detail on CO2 savings and routes across Europe.
 * Treat flying as a special occasion, a once or twice a year activity at most. In the UK, 15% of people take 70% of the flights \[xxi]. This means that frequent flyers are responsible for about 5% of UK’s total emissions \[xxii]. If you are one of these frequent flyers you can make meaningful reductions.
-* Ask your employer for an extra day off in lieu of the extra travel time you might need — they might support your sustainable travel choice. See Climate Perks from climate charity Possible.
-* Consider whether holidays and stag/hen parties can be [taken in the UK](https://www.hubbub.org.uk/10-tips-for-planning-the-best-uk-hen-stag-or-group-holiday) [<https://www.hubbub.org.uk/10-tips-for-planning-the-best-uk-hen-stag-or-group-holiday>].
+* Ask your employer for an extra day off in lieu of the extra travel time you might need — they might support your sustainable travel choice. See [Climate Perks](https://www.climateperks.com) from climate charity Possible.
+* Consider whether holidays and stag/hen parties can be [taken in the UK](https://www.hubbub.org.uk/10-tips-for-planning-the-best-uk-hen-stag-or-group-holiday).
 
 The UK, as a historically and disproportionately large emitter \[xxiv], has a responsibility to lead from the front. We need political will to meet our net zero targets, and we need to not be content with doing ‘just enough’ to hit 2°C. Covid-19 has shown us that even with dramatic lockdowns our emissions haven’t dropped enough, which shows the size of the task ahead.
 
