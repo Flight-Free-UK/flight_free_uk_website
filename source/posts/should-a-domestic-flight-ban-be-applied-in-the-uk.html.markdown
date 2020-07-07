@@ -18,13 +18,13 @@ According to UK Government figures, domestic flights generate approximately six 
 
 In response to the Covid-19-induced frop in demand, the French government has imposed green conditions on its bailout of Air France-KLM, most notably, requiring that the airline does not compete with rail on journeys achievable in 2.5 hours by train — approximately 550km.
 
-### Could this policy be applied to UK domestic flights?
+## Could this policy be applied to UK domestic flights?
 
 The aviation sector accounted for about 7% of the UK’s total greenhouse gas emissions in 2017 \[iii] and is projected to be the single biggest source of emissions in the UK by 2050 \[iv]. This is due to a steadily increasing demand for flights, a lack of viable technological fixes, and low political will to stem the growth of the industry despite the climate crisis.
 
 The UK’s domestic market makes up around 5% of our total aviation emissions, and is made up predominantly of routes which take more than 2.5 hours by rail. Applying France’s policy directly is therefore only likely to reduce UK aviation emissions by 0.3% \[v]. However, extending the policy could make some meaningful reductions.
 
-### Extension options
+## Extension options
 
 #### Extend the domestic policy to 700km
 
@@ -46,7 +46,7 @@ Applying a 550km policy globally would remove about 5% of passenger emissions \[
 
 Further afield there are 25,000 flights in North America under 100 km and another 27,000 flights under 250 km, with similar figures in Asia Pacific.
 
-### **Alternatives**
+## **Alternatives**
 
 Any move away from domestic flights requires alternatives. Whether demand would move to cars or rail is largely dependent on the price of trains and having adequate infrastructure for the demand.
 
