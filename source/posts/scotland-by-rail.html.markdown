@@ -3,7 +3,7 @@ published: true
 title: Scotland by Rail
 category: travel
 date: 2020-07-06T13:46:13.797Z
-cover_image: /images/uploads/leo-du-feu-helmsdale.jpg
+cover_image: /images/uploads/leo-du-feu-helmsdale-cover.jpg
 summary: Scottish artist Leo du Feu has spent much of the past 15 years
   exploring Scotland by rail, and shares his experiences, motivations and
   favourite places with us.
