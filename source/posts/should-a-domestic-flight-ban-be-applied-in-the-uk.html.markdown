@@ -71,6 +71,8 @@ The UK, as a historically and disproportionately large emitter \[xxiv], has a re
 
 In order to prevent serious climate crisis consequences \[xxvii] we need to move much faster, with the government making bold policy in all sectors to create the significant reductions we so desperately need. Covid-19 gives us the opportunity to ‘build back better’ and build a green recovery. For aviation, a 700km policy for domestic & international flights would be a good place to start.
 
+###### References
+
 \[i] Conversion Factors 2019 ‘Business travel -air’ & ‘Business travel — land’ <https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019> Rail passenger km 0.04115 kg CO2e . International rail 0.00597 kg CO2e. short haul flights are approximately 0.15832kg CO2e, domestic flights are 0.25493 kg CO2e and long haul 0.19562 kg CO2e.
 
 \[ii] <https://www.eurostar-treadlightly.com/en/environment.php>
