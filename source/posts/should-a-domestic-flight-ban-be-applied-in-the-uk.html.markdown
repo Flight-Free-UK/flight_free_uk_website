@@ -14,7 +14,7 @@ read_time_minute: 5
 
 ![Flight radar image showing flights across UK](/images/uploads/flight-radar.jpg "Flight radar image showing flights across UK")
 
-According to UK Government figures, domestic flights generate approximately six times the emissions of National Rail services per passenger km\[i]. At a time when we must make large-scale emissions reductions if we are to stay close to 1.5°C warming and limit catastrophic climate change, replacing aviation with rail on shorter journeys has the potential to have a significant impact.
+According to UK Government figures, domestic flights generate approximately six times the emissions of National Rail services per passenger km \[i]. At a time when we must make large-scale emissions reductions if we are to stay close to 1.5°C warming and limit catastrophic climate change, replacing aviation with rail on shorter journeys has the potential to have a significant impact.
 
 In response to the Covid-19-induced frop in demand, the French government has imposed green conditions on its bailout of Air France-KLM, most notably, requiring that the airline does not compete with rail on journeys achievable in 2.5 hours by train — approximately 550km.
 
@@ -70,8 +70,6 @@ While we wait for the government to take action, we as consumers can make strong
 The UK, as a historically and disproportionately large emitter \[xxiv], has a responsibility to lead from the front. We need political will to meet our net zero targets, and we need to not be content with doing ‘just enough’ to hit 2°C. Covid-19 has shown us that even with dramatic lockdowns our emissions haven’t dropped enough, which shows the size of the task ahead.
 
 In order to prevent serious climate crisis consequences \[xxvii] we need to move much faster, with the government making bold policy in all sectors to create the significant reductions we so desperately need. Covid-19 gives us the opportunity to ‘build back better’ and build a green recovery. For aviation, a 700km policy for domestic & international flights would be a good place to start.
-
-
 
 \[i] Conversion Factors 2019 ‘Business travel -air’ & ‘Business travel — land’ <https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019> Rail passenger km 0.04115 kg CO2e . International rail 0.00597 kg CO2e. short haul flights are approximately 0.15832kg CO2e, domestic flights are 0.25493 kg CO2e and long haul 0.19562 kg CO2e.
 
