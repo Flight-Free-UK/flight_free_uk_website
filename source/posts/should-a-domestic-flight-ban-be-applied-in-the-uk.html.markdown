@@ -16,7 +16,7 @@ read_time_minute: 5
 
 According to UK Government figures, domestic flights generate approximately six times the emissions of National Rail services per passenger km \[i]. At a time when we must make large-scale emissions reductions if we are to stay close to 1.5°C warming and limit catastrophic climate change, replacing aviation with rail on shorter journeys has the potential to have a significant impact.
 
-In response to the Covid-19-induced frop in demand, the French government has imposed green conditions on its bailout of Air France-KLM, most notably, requiring that the airline does not compete with rail on journeys achievable in 2.5 hours by train — approximately 550km.
+In response to the Covid-19-induced drop in demand, the French government has imposed green conditions on its bailout of Air France-KLM, most notably, requiring that the airline does not compete with rail on journeys achievable in 2.5 hours by train — approximately 550km.
 
 ## Could this policy be applied to UK domestic flights?
 
