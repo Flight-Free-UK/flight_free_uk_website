@@ -25,9 +25,9 @@ As the coronavirus pandemic is preventing us from travelling freely, it is a per
 
 There are plenty of places we still want to explore – through books.
 
-![](/images/uploads/globe-books.jpg)
+## The Leopard, by Giuseppe Tomasi di Lampedusa, translated by Archibald Colqhoun 
 
-### The Leopard, by Giuseppe Tomasi di Lampedusa, translated by Archibald Colqhoun (summarised by Maggie Robertson)
+#### ~ summarised by Maggie Robertson
 
 The Leopard is a deeply thoughtful novel, concerned with change, mortality, and the meaning (or otherwise) of existence. But how well does it substitute for a visit to Sicily? Giuseppe Tomasi was himself a Sicilian prince, which gives his book undeniable authority. He describes a society where a legacy of classical Greek and Roman culture collides with Catholic devotion, things that still define Sicily today.
 
@@ -41,7 +41,9 @@ It’s a novel of a society contemplating overwhelming change. Remind you of any
 
 ![](/images/uploads/theleopard.jpg "The Leopard. Image from bbc.co.uk")
 
-### The Sledge Patrol, by David Haworth (summarised by Sean Bolton)
+## The Sledge Patrol, by David Haworth 
+
+#### ~ summarised by Sean Bolton
 
 Few of us will ever travel to such a remote place on earth: a harsh world of ice sheets that extend far beyond the horizon, and high glacial mountain ranges which are impassable except to the most experienced sledge driver. The ever present dangers of thin ice, sub zero temperatures, snow storms and polar bears are the ultimate test of human endurance and survival. In this world any small mistake can have extreme consequences.
 
@@ -51,7 +53,9 @@ The Sledge Patrol tells the true story of wartime survival, with Danish and Norw
 
 ![](/images/uploads/greenlandsledge.jpg "Greenland sled dogs. Image from thebark.com")
 
-### The God of Small things, by Arundhati Roy (summarised by Anna Hughes)
+## The God of Small things, by Arundhati Roy 
+
+#### ~ summarised by Anna Hughes
 
 This is India in a book. Set in Kerala with its backwaters and monsoon-lush landscapes, Roy gives poetic, vibrant and evocative descriptions of the river, the heat, the mango trees and the humidity. Her writing pulls and tugs at the language, an immersive style emulated by many since.
 
@@ -65,7 +69,9 @@ Kerala is known as God's Own Country, on the coast of South India, famous for it
 
 ![](/images/uploads/kerala.jpg "Kerala. Photo from audleytravel.com")
 
-### Half of a Yellow Sun, by Chimamanda Ngozi Adichie (summarised by Maggie Robertson)
+## Half of a Yellow Sun, by Chimamanda Ngozi Adichie 
+
+#### ~summarised by Maggie Robertson
 
 If you holidayed in Nigeria for a month, I wonder if you would learn more about the country than in this sweeping story of love and brutal civil war set in the 1960s. It takes you from orchards and forests near Port Harcourt in the south, where the rain falls sideways and the air is heavy with moisture from the Atlantic, to the north of the country, where the sun-seared land merges with the silver-and-white sky, and the fine grey sand gets into everything.
 
