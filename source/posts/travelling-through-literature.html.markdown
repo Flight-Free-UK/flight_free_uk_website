@@ -11,16 +11,16 @@ read_time_minute: 7
 ---
 ![](/images/uploads/world-globe-book.jpg)
 
-Have you ever worried that not flying might make you a little bit boring? When friends are boasting about their holidays as if they were expeditions, talking about the places they explored, the people they encountered, sometimes you might feel left out, as if you have little to contribute to the conversation.\
-\
-Well, there is a way to be curious about the world without harming it: read a book. \
-\
+Have you ever worried that not flying might make you a little bit boring? When friends are boasting about their holidays as if they were expeditions, talking about the places they explored, the people they encountered, sometimes you might feel left out, as if you have little to contribute to the conversation.
+
+Well, there is a way to be curious about the world without harming it: read a book. 
+
 Instead of taking a long haul flight to India (emissions 2 tonnes of CO2), you could read one of the many fabulous novels in English by Indian writers (emissions of a paperback book: 1 kg of CO2). They will give you an insight into Indian society and a feeling of connection that would be missing from most holiday visits. 
 
-Instead of an American road trip (emissions 2.8 tonnes of CO2 per person), treat yourself to a journey through the Great American Novel (zero emissions if you borrow them from the library). Tour operators might try to give you an authentic experience of the country, but reading books, especially by someone from that place, will give you a perspective that a holiday cannot possibly match.\
-\
-In the UK we love our holidays abroad. The places we choose to visit become part of our identity, a form of self expression. That's not new. Ever since wealthy eighteenth century Brits toured Europe and filled their houses with the art they acquired, we have used travel to cement our social status. But the books you have read are also a great way to show where you are coming from, and where you are heading. Books can change you, just as travel can.\
-\
+Instead of an American road trip (emissions 2.8 tonnes of CO2 per person), treat yourself to a journey through the Great American Novel (zero emissions if you borrow them from the library). Tour operators might try to give you an authentic experience of the country, but reading books, especially by someone from that place, will give you a perspective that a holiday cannot possibly match.
+
+In the UK we love our holidays abroad. The places we choose to visit become part of our identity, a form of self expression. That's not new. Ever since wealthy eighteenth century Brits toured Europe and filled their houses with the art they acquired, we have used travel to cement our social status. But the books you have read are also a great way to show where you are coming from, and where you are heading. Books can change you, just as travel can.
+
 As the coronavirus pandemic is preventing us from travelling freely, it is a perfect time to broaden our horizons through literature. We've brought together some books that made us feel it was almost like being there. Do you have a favourite to add to our list? [Let us know](mailto:info@flightfree.co.uk). 
 
 There are plenty of places we still want to explore – through books.
