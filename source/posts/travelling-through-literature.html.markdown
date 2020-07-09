@@ -25,8 +25,6 @@ As the coronavirus pandemic is preventing us from travelling freely, it is a per
 
 There are plenty of places we still want to explore – through books.
 
-![](/images/uploads/theleopard.jpg "The Leopard. Image from bbc.co.uk")
-
 ### The Leopard, by Giuseppe Tomasi di Lampedusa, translated by Archibald Colqhoun (summarised by Maggie Robertson)
 
 The Leopard is a deeply thoughtful novel, concerned with change, mortality, and the meaning (or otherwise) of existence. But how well does it substitute for a visit to Sicily? Giuseppe Tomasi was himself a Sicilian prince, which gives his book undeniable authority. He describes a society where a legacy of classical Greek and Roman culture collides with Catholic devotion, things that still define Sicily today.
@@ -39,7 +37,7 @@ It’s a novel of a society contemplating overwhelming change. Remind you of any
 
 > *When the sportsmen reached the top of the hill, there among the tamarisk and scattered cork-trees appeared the real Sicily again, the one compared to which the baroque towns and orange groves are mere trifles: aridly undulating to the horizon in hillock after hillock, comfortless and irrational, with no lines that the mind could grasp, conceived apparently in a delirious moment of creation; a sea suddenly petrified at the instant when a change of wind had flung the waves into a frenzy. Donnafugata lay huddled and hidden in an anonymous fold of the ground, and not a living soul was to be seen; the only signs of the passage of man were scraggy rows of vines. Beyond the hills on one side was the indigo smudge of the sea, more mineral and barren, even, than the land.*
 
-![](/images/uploads/greenlandsledge.jpg "Greenland sled dogs. Image from thebark.com")
+![](/images/uploads/theleopard.jpg "The Leopard. Image from bbc.co.uk")
 
 ### The Sledge Patrol, by David Haworth (summarised by Sean Bolton)
 
@@ -49,7 +47,7 @@ The Sledge Patrol tells the true story of wartime survival, with Danish and Norw
 
 > *They travelled as if they were in a dream. One must picture each of them ski-ing beside his sledge on the vast expanses of frozen fjord below the dark loom of mountains which have never been explored, the only moving thing in the ice-bound starlit landscape; the rumble of the sledge, the panting of the dogs, an occasional call from the man or a crack of the whip breaking a whole winter’s silence. When they lay out through blizzards in their tents, they were wholly preoccupied with the details of keeping alive. In the huts, when the weather was still, the dogs howling outside in the crackling frost were their only companions, ten individual likeable personalities. They talked to the dogs because there was nobody else to talk to. The things which occupied their thoughts, the true realities, had nothing to do with war: they were only the weather, the dogs, and the hunting; hunting for food for themselves and the dogs and for fox furs and bear skins which one day they might be able to sell.*
 
-![](/images/uploads/kerala.jpg "Kerala. Photo from audleytravel.com")
+![](/images/uploads/greenlandsledge.jpg "Greenland sled dogs. Image from thebark.com")
 
 ### The God of Small things, by Arundhati Roy (summarised by Anna Hughes)
 
@@ -63,7 +61,7 @@ Kerala is known as God's Own Country, on the coast of South India, famous for it
 >
 > *But by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.*
 
-![](/images/uploads/half-a-yello-sun.jpg "Artwork by Antonia Weishaupt on jtofashion.com")
+![](/images/uploads/kerala.jpg "Kerala. Photo from audleytravel.com")
 
 ### Half of a Yellow Sun, by Chimamanda Ngozi Adichie (summarised by Maggie Robertson)
 
@@ -74,3 +72,5 @@ Olanna and Kainene are wealthy sisters. They went to a school in Lagos so exclus
 Both Ugwu and Olanna struggle with the gulf between the life of educated city dwellers, and the traditional village life, where magic is as real as the earth floor beneath your feet. The divisions of class, identity and nationalism lie heavy in the novel, as increasingly they seem to do in our own politics too.
 
 > *She (Olanna) felt a sense that things were in order, the way they were meant to be, and that even if they tumbled down once in a while, in the end they would come back together again. This was why she came to Kano: this lucid peace. When Aunty Ifeka’s eyes began to dart around the yard, she knew it was in search of a suitable chicken. Aunty Ifeka always killed one when she visited even if it was the last she owned, sauntering around the yard, its feathers marked with a splash or two of red paint to distinguish it from the neighbours’ chickens, which had bits of cloth tied to their wings or paint of a different colour. Olanna no longer protested about the chicken, just as she no longer protested when Uncle Mbaezi and Aunty Ifeka slept on mats, next to the many relatives who always seemed to be staying with them, so that she could have their bed.*
+
+![](/images/uploads/half-a-yello-sun.jpg "Artwork by Antonia Weishaupt on jtofashion.com")
