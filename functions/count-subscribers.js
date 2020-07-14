@@ -3,6 +3,7 @@ const axios = require('axios');
 
 const mailChimpAPI = process.env.MAILCHIMP_API_KEY;
 const mailChimpListID = process.env.MAILCHIMP_LIST_ID;
+const extraPledgeNumber = Number(process.env.EXTRA_PLEDGE_NUMBER);
 const mcRegion = mailChimpAPI.split("-").pop();
 
 export async function handler(event, context) {
@@ -33,7 +34,7 @@ export async function handler(event, context) {
       };
     try {
         const response = await axios(options);
-        const member_count = response.data.stats.member_count + response.data.stats.unsubscribe_count; 
+        const member_count = response.data.stats.member_count + response.data.stats.unsubscribe_count + extraPledgeNumber; 
         const next_target = Math.ceil(member_count/5000)*5000;
         return {
             statusCode: 200,

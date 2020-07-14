@@ -63,6 +63,16 @@ reloaded in the browser automatically.
 There is currently very little javascript and so all of it is inline in the
 HTML templates.
 
+### Lambda Functions
+
+We're using Lambda function for the pledge form.  
+These are edited via the functions directory and transpiled into the lambda directory.
+These functions use environment variables that are set locally via the .env file.
+There is an example of this file '.env.example' that can be copied to .env for local testing.
+You wil need to replace the <API_KEY> & <MAIL_LIST_ID> with the correct key and id from mailchimp.
+
+You can test the development environment by running `netlify dev`
+
 ## Deployment
 
 Once you've tested your changes locally and are happy for them to go live,
