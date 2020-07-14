@@ -6,7 +6,7 @@
   "scripts": {
     "lambda-build": "netlify-lambda build functions/ && node -p 'process.env'",
     "webpack": "WEBPACK_ENV=build webpack",
-    "webpack-watch": "WEBPACK_ENV=build webpack -w"
+    "webpack-watch": "WEBPACK_ENV=development webpack -w"
   },
   "dependencies": {
     "@babel/polyfill": "^7.10.1",
@@ -23,8 +23,11 @@
     "acorn": "^7.3.1",
     "babel-loader": "^8.1.0",
     "babel-polyfill": "^6.26.0",
+    "css-loader": "^3.6.0",
+    "mini-css-extract-plugin": "^0.9.0",
     "postcss": "^7.0.32",
     "postcss-cli": "^6.1.3",
+    "postcss-loader": "^3.0.0",
     "tailwindcss": "^1.4.6",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "watch": "^1.0.2",

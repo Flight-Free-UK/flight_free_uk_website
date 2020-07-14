@@ -1,7 +1,7 @@
 import renderShareMessage from './templates/pledge_form/share.template.js';
 import renderCurrentPledges from './templates/pledge_form/current_pledges.template.js';
 
-const share_text = 
+const share_text =
     "I have pledged not to take any flights in 2020 to avert climate breakdown #flightfree2020 @flightfree2020 https://www.flightfree.co.uk/pledge"
 
 const twitter_link = `https://twitter.com/intent/tweet?text=${encodeURIComponent(share_text)}`;
@@ -23,17 +23,17 @@ function submitForm(event) {
     const email = form.querySelector('.pledge-form__email').value;
     const first_name = form.querySelector('.pledge-form__first-name').value;
     const last_name = form.querySelector('.pledge-form__last-name').value;
-    
+
     const endpoint = form.action;
-    
+
     const request = {
         email,
         first_name,
         last_name
     };
-    
+
     fetch(endpoint, {
-        method: 'POST', 
+        method: 'POST',
         headers: {
         'Content-Type': 'application/json'
         },
@@ -75,7 +75,7 @@ function handleResponse(response, form, email) {
 }
 
 function showAlreadyPledgedMessage(email) {
-    sendAlreadyPledgedEmail(email);    
+    sendAlreadyPledgedEmail(email);
 }
 
 function showResponse(form) {
@@ -86,9 +86,9 @@ function showResponse(form) {
 function sendAlreadyPledgedEmail(email) {
 
     const request = {email};
-  
+
     fetch('/.netlify/functions/already-pledged', {
-      method: 'POST', 
+      method: 'POST',
       headers: {
         'Content-Type': 'application/json'
       },

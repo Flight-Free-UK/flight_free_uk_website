@@ -13,8 +13,8 @@ To work on this website you'll need to do the following:
 * Install Ruby dependencies: `bundle install`
 * Install NodeJS (latest version should be fine)
 * Install NodeJS dependencies: `npm install`
-* Run `bundle exec middleman server` to start a developmet server at
-  [http://localhost:4567](http://localhost:4567)
+* Run `netlify dev` to start a development server at
+  [http://localhost:8888](http://localhost:8888)
 
 ## Project structure
 
@@ -27,16 +27,21 @@ source files are organised in these directories:
 * `source/posts` - blog posts as Markdown files that are edited using the CMS,
   but can also be edited manually.
 * `source/admin` - [NetlifyCMS](https://www.netlifycms.org/)
-* `assets/source` - contains CSS files (they are separate because they are not
-  build by Middleman).
+* `assets/source` - contains CSS and JS files for the site (they are separate because we are using Webpack to build assets, not Middleman's default assets pipeline).
 * `data` - YAML files with data that is used in HTML templates (some of it is
   edited using the CMS, like podcasts).
+* `functions` - Netlify serverless functions that power the 'Sign the pledge'
+  tool.
 
 ## Development workflow
 
-In development mode Middleman serves the templates and other files from
-`source` directory at [http://localhost:4567](http://localhost:4567) with
-live-reload: it automatically refreshes pages when you edit them.
+Netlify Dev can be used to serve both the site and Netlify functions in
+development mode. It starts Middleman server, serves Netlify functions and
+proxes requests, so that both are available at
+[http://localhost:8888](http://localhost:8888). Any changes to templates in
+`source` and assets in `assets/source` automatically become available in the
+browser. Changes to functions in `functions` are picked up automatically as
+well.
 
 ### Editing HTML
 
@@ -54,14 +59,14 @@ currently just one CSS file with CSS rules for things that TailwindCSS doesn't
 support or for HTML that is automatically generated (e.g. blog posts are
 generated from Markdown).
 
-CSS files are currently only processed by PostCSS and the changes to files are
-reloaded in the browser automatically.
-
+CSS files are processed by Webpack and the changes to files are reloaded in the
+browser automatically.
 
 ### Javascript
 
-There is currently very little javascript and so all of it is inline in the
-HTML templates.
+There is currently very little javascript and some of it is inline in the HTML
+templates. JS files are processed by Webpack and changes are reloaded in the
+browser automatically.
 
 ### Lambda Functions
 
