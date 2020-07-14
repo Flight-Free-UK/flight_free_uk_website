@@ -27,7 +27,8 @@ source files are organised in these directories:
 * `source/posts` - blog posts as Markdown files that are edited using the CMS,
   but can also be edited manually.
 * `source/admin` - [NetlifyCMS](https://www.netlifycms.org/)
-* `assets/source` - contains CSS and JS files for the site (they are separate because we are using Webpack to build assets, not Middleman's default assets pipeline).
+* `assets/source` - contains CSS files (they are separate because they are not
+  built by Middleman).
 * `data` - YAML files with data that is used in HTML templates (some of it is
   edited using the CMS, like podcasts).
 * `functions` - Netlify serverless functions that power the 'Sign the pledge'
@@ -81,7 +82,7 @@ You can test the development environment by running `netlify dev`
 ## Deployment
 
 Once you've tested your changes locally and are happy for them to go live,
-commit and push them to Gtihub. Netlify (where the site is hosted) builds the
+commit and push them to Github. Netlify (where the site is hosted) builds the
 actual site from the templates and all the assets.
 
 The site is built using: `bundle exec middleman build` in the `build`
