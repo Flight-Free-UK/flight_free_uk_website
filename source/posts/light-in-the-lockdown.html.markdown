@@ -42,4 +42,10 @@ In this difficult time, it's good to share the positives. What have you found po
 
 *‘Usually, we would just go to the pub. Now we go to the park and go for bike rides and see more and discover more.’*
 
+*'After the ending of a long-term relationship in February, I moved back to a house I’d owned for 25 years but had rented out for the past 12. I’d never liked this place and had thought that I’d sell it and move elsewhere; somewhere ‘better’. Being forced to stay put for 5 months has made me reconsider.*
+
+*I created a short stretch of flowerbed from the arid clay and builder’s rubble that forms this property’s front garden. I planted five plants this week and found myself repeatedly looking at them, amazed at how beautiful they are.*
+
+*Perhaps putting energy into this house, street and place can make the place that I need rather than putting energy into yearning for something I haven’t got. Perhaps I can make this ‘somewhere better’?'*
+
 Would you like to send us your positive lockdown experiences? Get in touch: [info@flightfree.co.uk](mailto:info@flightfree.co.uk)
