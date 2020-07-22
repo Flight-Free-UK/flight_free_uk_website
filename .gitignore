@@ -3,3 +3,8 @@ build
 .bundle
 assets/build
 Dockerfile
+
+# Local Netlify folder
+.netlify
+# Local variables to match environment vars
+.env

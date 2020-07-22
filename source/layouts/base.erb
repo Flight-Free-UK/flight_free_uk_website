@@ -23,7 +23,7 @@
   <meta name="twitter:description" content="<%= current_article ? current_article.data.summary : description %>" />
   <meta name="twitter:image" content="https://flightfree.co.uk<%= current_article ? image_path(current_article.data.cover_image) : "/images/anna_with_poster.png" %>" />
 
-  <%= stylesheet_link_tag "styles" %>
+  <%= stylesheet_link_tag "main" %>
   <%= javascript_include_tag "https://unpkg.com/micromodal/dist/micromodal.min.js" %>
   <link href="https://fonts.googleapis.com/css?family=Quicksand:300,500&display=swap" rel="stylesheet">
 
@@ -84,7 +84,8 @@
           <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
         </header>
         <div id="pledge-modal-content">
-          <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" style="min-height:430px"></iframe>
+          <!-- <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" style="min-height:430px"></iframe> -->
+          <%= partial "pledge_form", locals: { id: "modal" }  %>
         </div>
       </div>
     </div>
@@ -93,5 +94,6 @@
   <script type="text/javascript">
     MicroModal.init();
   </script>
+  <%= javascript_include_tag "main.js" %>
 </body>
 </html>
