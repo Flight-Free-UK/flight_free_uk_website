@@ -21,7 +21,7 @@ Substitute 'being overweight’ for ‘carbon emissions’, and they could equal
 
 Successive governments have worried about interfering too much with people’s lives – of telling them what they should and shouldn’t do. But problems associated with unhealthy foods don't just affect our own personal health, they affect the whole of society. In simple terms, an increase in obesity puts a strain on the NHS and therefore the tax payer.
 
-Health campaigners recognised this in the fight against the tobacco industry, which was ultimately won after a long and protracted battle, after which advertising and indoor smoking was banned. We understood that it wasn't just the smoker who suffered, but the nation, through an increased strain on the NHS.
+Health campaigners recognised this in the fight against the tobacco industry, which was ultimately won after a long and protracted battle, after which advertising and indoor smoking was banned. We understood that it wasn't just the smoker who suffered, but the nation, through an increased strain on the NHS. 
 
 ![These were genuine adverts for cigarettes – using babies and pregnant women to advertise smoking. Yes, really!](/images/uploads/13-smoking-ads.jpg "These were genuine adverts for cigarettes – using babies and pregnant women to advertise smoking. Yes, really!")
 
