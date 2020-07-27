@@ -33,7 +33,7 @@ There will be plenty of push back against the government’s obesity plan. The f
 
 This sounds remarkably similar to what the aviation industry might say if the same measures were applied to flights. Rolling out the ‘2% of global emissions’ claim would certainly be part of the argument (the true figure is [more like 5%](https://www.transportenvironment.org/what-we-do/flying-and-climate-change), but that's [only part of the story](https://flightfree.co.uk/post/is-the-rising-social-stigma-around-flying-misplaced/)…), and there would be similar warnings about loss of jobs and loss of freedom.
 
-Of course, we shouldn't take loss of jobs and loss of freedom lightly. But there are other jobs with transferable skills for those who work in the aviation sector. And the great news is that not flying doesn't mean not travelling, so our sense of freedom needn’t be lost.
+Of course, we shouldn't take loss of jobs and loss of freedom lightly. But there are [other jobs with transferable skills](https://www.techbriefs.com/component/content/article/tb/pub/features/articles/8602) for those who work in the aviation sector. And the great news is that [not flying doesn't mean not travelling](https://flightfree.co.uk/blog/categories/travel/), so our sense of freedom needn’t be lost.
 
 The National obesity forum chair says, “The consequence of obesity is so great that risks and daring measures have to be put in place.” Swap ‘obesity’ for ‘climate crisis’ and we’re getting there.
 
