@@ -27,7 +27,7 @@ Health campaigners recognised this in the fight against the tobacco industry, wh
 
 These very same arguments can be applied to aviation. Burning kerosene contributes to poor air quality, not just around the airport, but nationally. Carbon emissions from the 100,000 flights that take off each day directly contribute to the warming climate that will ultimately make living on this planet impossible. Not everyone flies, but air pollution and carbon emissions from the aviation industry will affect us all.
 
-The proposed measures to address the obesity crisis could almost exactly be applied to the aviation industry. Calorie labelling would become carbon labelling, with information about the emissions of your flight given at the time of booking, or specified on your ticket. An advertising ban would mean no more being bombarded with cheap flight deals. Limiting incentives and deals would draw to a close reward schemes such as Air Miles or Frequent Flyer perks.
+The proposed measures to address the obesity crisis could almost exactly be applied to flights. Calorie labelling would become carbon labelling, with information about the emissions of your flight given at the time of booking, or specified on your ticket. An advertising ban would mean no more being bombarded with cheap flight deals. Limiting incentives and deals would draw to a close reward schemes such as Air Miles or Frequent Flyer perks.
 
 There will be plenty of push back against the government’s obesity plan. The food industry has already said, "The introduction of such a draconian measure at this time could have deep repercussions for agencies and the advertising sector, generally, in terms of jobs and creative output, for very little end result.”
 
