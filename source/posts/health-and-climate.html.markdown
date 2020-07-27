@@ -31,7 +31,7 @@ The proposed measures to address the obesity crisis could almost exactly be appl
 
 There will be plenty of push back against the government’s obesity plan. The food industry has already said, "The introduction of such a draconian measure at this time could have deep repercussions for agencies and the advertising sector, generally, in terms of jobs and creative output, for very little end result.”
 
-This sounds remarkably similar to what the aviation industry might say if the same measures were applied to flights. Rolling out the ‘2% of global emissions’ claim would certainly be part of the argument (the true figure is more like 5%, but that's only part of the story…), and there would be similar warnings about loss of jobs and loss of freedom.
+This sounds remarkably similar to what the aviation industry might say if the same measures were applied to flights. Rolling out the ‘2% of global emissions’ claim would certainly be part of the argument (the true figure is [more like 5%](https://www.transportenvironment.org/what-we-do/flying-and-climate-change), but that's [only part of the story](https://flightfree.co.uk/post/is-the-rising-social-stigma-around-flying-misplaced/)…), and there would be similar warnings about loss of jobs and loss of freedom.
 
 Of course, we shouldn't take loss of jobs and loss of freedom lightly. But there are other jobs with transferable skills for those who work in the aviation sector. And the great news is that not flying doesn't mean not travelling, so our sense of freedom needn’t be lost.
 
