@@ -9,7 +9,7 @@ summary: How should the response to the current health crises inform our
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/box-of-sweets.jpg)
+![An open box of sweets](/images/uploads/box-of-sweets.jpg)
 
 > ***“The crisis is acute…”***
 >
@@ -22,6 +22,8 @@ Substitute 'being overweight’ for ‘carbon emissions’, and they could equal
 Successive governments have worried about interfering too much with people’s lives – of telling them what they should and shouldn’t do. But problems associated with unhealthy foods don't just affect our own personal health, they affect the whole of society. In simple terms, an increase in obesity puts a strain on the NHS and therefore the tax payer.
 
 Health campaigners recognised this in the fight against the tobacco industry, which was ultimately won after a long and protracted battle, after which advertising and indoor smoking was banned. We understood that it wasn't just the smoker who suffered, but the nation, through an increased strain on the NHS.
+
+![These were genuine adverts for cigarettes – using babies and pregnant women to advertise smoking. Yes, really!](/images/uploads/13-smoking-ads.jpg "These were genuine adverts for cigarettes – using babies and pregnant women to advertise smoking. Yes, really!")
 
 These very same arguments can be applied to aviation. Burning kerosene contributes to poor air quality, not just around the airport, but nationally. Carbon emissions from the 100,000 flights that take off each day directly contribute to the warming climate that will ultimately make living on this planet impossible. Not everyone flies, but air pollution and carbon emissions from the aviation industry will affect us all.
 
