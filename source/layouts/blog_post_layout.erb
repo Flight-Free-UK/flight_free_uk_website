@@ -21,8 +21,12 @@
         <%= yield %>
       </div>
       <div class="border-t pt-10 text-center" style="border-color:#e7e7e7">
-        <a href="https://facebook.com/<%= data.social_media.facebook %>"><%= image_tag "/svg/facebook_with_bg.svg", class: "inline-block w-12" %></a>
-        <a href="https://twitter.com/<%= data.social_media.twitter %>"><%= image_tag "/svg/twitter_with_bg.svg", class: "inline-block w-12 mx-4" %></a>
+        <% link_to "https://www.facebook.com/sharer/sharer.php", query: { u: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank" do %>
+          <%= image_tag "/svg/facebook_with_bg.svg", class: "inline-block w-12" %>
+        <% end %>
+        <% link_to "https://twitter.com/intent/tweet", query: { text: current_article.title, url: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank" do %>
+          <%= image_tag "/svg/twitter_with_bg.svg", class: "inline-block w-12 mx-4" %>
+        <% end %>
         <a href="https://instagram.com/<%= data.social_media.instagram %>"><%= image_tag "/images/instagram_with_bg.png", class: "inline-block w-12" %></a>
       </div>
     </div>
