@@ -14,7 +14,7 @@
          "faq" => "FAQs"
        }.each do |path, name| %>
        <% current = "#{path}.html" == current_page.path || path == current_page.data.menu_item %>
-       <%= link_to name, "/#{path}.html", class: "w-full xl:w-auto mb-8 xl:mb-0 #{current ? "xl:border-b-2 border-orange" : nil}" %>
+       <%= link_to name, "/#{path}.html", class: "w-full xl:w-auto mb-8 xl:mb-0 #{current ? "xl:border-b-2 border-orange" : nil} hover:text-orange" %>
     <% end %>
   </nav>
 </header>
