@@ -8,3 +8,11 @@ Dockerfile
 .netlify
 # Local variables to match environment vars
 .env
+
+# Jake's local set up
+MYREADME.md
+bin
+include
+lib
+share
+Gemfile.lock
