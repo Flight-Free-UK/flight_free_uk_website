@@ -7,7 +7,7 @@ title: Take action
     <%= partial "header" %>
     <section class="lg:flex mx-4 sm:mx-8 xl:mx-24 xxl:mx-48 mt-2 xs:mt-8">
       <div class="hidden lg:block w-1/3">
-        <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" class="hidden lg:block w-full" style="min-height:430px"></iframe>
+        <%= partial "pledge_form", locals: { id: "home" } %>
       </div>
       <div class="lg:w-2/3 lg:pl-20 lg:pt-16">
         <img src="/svg/one_white_bg.svg" class="mb-6" />
