@@ -22,6 +22,6 @@ The trouble is, we’ve been waiting for this for decades. And we’re still wai
 
 As Greta herself said when she sailed to the US rather than get on a plane, “[By stopping flying, you send a message that the climate crisis is real.](/post/be-more-greta)” Our actions are not just about reducing our own emissions, they are about changing the narrative. Now, we have to ask ourselves, what do we want our narrative to be? We can choose our future. But the timescale for change is rapidly decreasing. We have to do it now.
 
-*Pledge to take a year off flying [here](/home)*
+*Pledge to take a year off flying [here](flightfree.co.uk)*
 
-*Read more about how individual change can influence system change [here](/post/individual-vs-system-change)*
+*Read more about how individual change can influence system change [here](/post/individual-action-vs-system-change)*
