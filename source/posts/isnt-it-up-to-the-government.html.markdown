@@ -1,10 +1,10 @@
 ---
 published: true
-title: Isn't it up to the government?
+title: Two years of inaction
 category: opinion
 date: 2020-08-19T08:57:49.359Z
-cover_image: /images/uploads/parliament.jpg
-summary: Who has the responsibility to act on the climate – the government, or us?
+cover_image: /images/uploads/greta-school-strike.jpg
+summary: What can we as individuals do when the government doesn't act on the climate?
 author: FlightFree UK
 read_time_minute: 2
 ---
