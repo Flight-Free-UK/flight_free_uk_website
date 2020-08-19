@@ -8,7 +8,7 @@ summary: Who has the responsibility to act on the climate – the government, or
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/greta-thunberg_1.jpg)
+![Greta Thunberg outside the Swedish Parliament](/images/uploads/greta-thunberg_1.jpg "Greta Thunberg outside the Swedish Parliament")
 
 It’s been two years since Greta Thunberg started her school strikes, sitting outside the Swedish parliament for two weeks, then every Friday after that to highlight inaction on climate change. Her actions galvanised a global community of young people and started the Fridays for Future movement, with school children across the world demanding that their governments take meaningful action on the climate.
 
