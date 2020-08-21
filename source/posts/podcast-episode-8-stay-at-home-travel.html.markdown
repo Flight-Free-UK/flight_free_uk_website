@@ -9,7 +9,7 @@ summary: "We speak to two travel writers about making the #flightfree2020 pledge
 author: FlightFree UK
 read_time_minute: 8
 ---
-For this months’ podcast (listen here), we’re speaking to StephParker and Helen Coffey. Steph runs the travel website [Big World Small Pockets](https://www.bigworldsmallpockets.com), and Helen is the [Deputy Travel Editor at the Independent](https://www.independent.co.uk/author/helen-coffey), so they both make a living from travel. They’ve signed up to Flight Free 2020, and we love having travel writers on our pledge, because if they can take a flight free year, anybody can.
+For this months’ podcast ([listen here)](https://flightfreeuk.podbean.com/e/2020-series-episode-8-stay-at-home-travel/), we’re speaking to StephParker and Helen Coffey. Steph runs the travel website [Big World Small Pockets](https://www.bigworldsmallpockets.com), and Helen is the [Deputy Travel Editor at the Independent](https://www.independent.co.uk/author/helen-coffey), so they both make a living from travel. They’ve signed up to Flight Free 2020, and we love having travel writers on our pledge, because if they can take a flight free year, anybody can.
 
 Helen and Steph had exciting flight-free travel plans, and like most other people, they’ve all been cancelled because of Covid. But both of them have made similar discoveries during lockdown, that travel is more about how you see things than where you go, so we thought it would be great to catch up with them both, and find out how we can benefit from staying within the UK, and how we can still have new, authentic travel experiences without really going very far.
 
@@ -17,7 +17,7 @@ Helen and Steph had exciting flight-free travel plans, and like most other peopl
 
 Helen, what were your travel plans for this year?
 
-### *Helen:* 
+### *Helen:*
 
 *So one of the big ones which I'm still hopefully doing in March next year is going by cargo ship. I've heard so much about it from people through the flight free movement, and people are so fascinated by it. It will be a round trip from Liverpool to Nova Scotia, then to New York and Baltimore, then back. So a lot of it is at sea, but that's kind of the point – to experience what it's like to be cut off from everything on a working ship. Everyone I’ve spoken to who’s further along on their flight free journey would say that you need to learn to see the journey as part of the experience and the journey as part of the travel and it's not just a race to get to your destination. I liked the idea of exploring that more, i.e. the whole journey is the thing.*
 
@@ -79,13 +79,13 @@ Travelling locally is going to be really key in addressing the climate crisis, b
 
 So will our intrepid travellers keep up the flight free challenge, even though this year has not worked out at all how we thought it might?
 
-### *Helen:* 
+### *Helen:*
 
 *I haven’t missed flying in the way that I thought I might miss it. It feels a little bit like when I went vegetarian – I was just going to do it for a month and it wasn't very hard so I kept doing it, and that was four years ago. I’m wondering if it might be a similar feeling. I’ve already decided I’m going to do it again next year because I do feel like this year was a bit of a cheat – it wasn’t governed by choice in the same way as it was supposed to be. So definitely in for 2021 and after that, we’ll see if it still feels like something I want to carry on doing.*
 
 *There’s also something about restricting choice. We live in such a world of choice, it can be overwhelming. So there's something about restricting choice that is very liberating. If you can only travel overland or sea then that gives you a really curated palate of options, rather than having your options taken away, and that makes choosing easier and more exciting. If you reframe it that way it can feel very freeing rather than stifling.*
 
-### *Steph:* 
+### *Steph:*
 
 *I’m really sad the plans didn’t work out. Most people have been disappointed this year, whether your wedding’s been cancelled or whatever – that’s what we're living with. But there's so much to discover on the doorstep that when I decided to scrap the whole central Asia part, the UK it is, I got that travel buzz. I haven’t seen the UK all that much and I'm really excited that life has given me the opportunity to explore those possibilities and I feel excited about that. I genuinely feel the same feeling of excitement, adventure and intrepid discovery that I would feel going anywhere.*
 
