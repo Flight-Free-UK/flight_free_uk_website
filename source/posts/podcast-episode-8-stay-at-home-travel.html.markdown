@@ -15,7 +15,7 @@ Helen and Steph had exciting flight-free travel plans, and like most other peopl
 
 ### Flight Free UK:
 
-Helen, what were your travel plans for this year?
+What were your travel plans for this year?
 
 ### *Helen:*
 
