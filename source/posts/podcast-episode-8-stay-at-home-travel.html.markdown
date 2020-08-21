@@ -51,15 +51,23 @@ So of course sometimes we do want to travel further afield and have those experi
 
 *Going to the Channel Islands to me feels so much like going properly on holiday. It’s got all these amazing beaches and cliffs to jump off, and swimming in the sea. Every time I've been there it gives me those vibes. One of my friends got married on Alderney and it was so magical floating in the sea. I didn’t feel like I was at home at all – there's nothing familiar about this.*
 
+### Flight Free UK:
+
 Now let’s bring in Steph, who actually grew up in the Channel Islands, so for her, this is familiar, and this is her home. Steph’s own amazing flight free adventure was going to involve travelling for six months around the Mediterranean through Northern Africa, Europe and Central Asia, so when it was cancelled, she went home to Jersey. And though Jersey has loads to recommend it and is a massive tourist draw, Steph hadn't necessarily seen it as an adventurous place to be, because she grew up there. But being forced to stay put meant seeing things through new eyes, and even in a place as small as Jersey she made some fascinating discoveries.
+
+### *Steph:*
 
 *I found these amazing beach caves that looked like something out of this fairytale grotto. I knew they were there but I'd never explored them. I did a lot of stuff that we’d done as kids, but when you see them through the eyes of an adult and a travel blogger. You see things in a different way – it's not ‘normal’ like it is when you grow up with it. For example, if I was in a destination and heard there were beach caves I’d say, wow, let’s definitely go! So it's about reconfiguring how we view excitement, and view adventure, and view travel, and realising there’s a lot on the doorstep. Other people would love to see it and we don't look at it in that way because it's geographically close to us – I think that's the only determining factor.*
 
 *In Jersey there are amazing bird watching spots at St Ouen’s bay, or you can go to the sea caves in Plemont, hike along the north coast, paddleboard the east coast, stay overnight in a Jersey heritage tower, and there's local food etc.*
 
-This is turning into a bit of an advert for Jersey, which is no bad thing – it's a great flight free destination for anyone wanting a bit of a foreign feel to their holiday, but without needing a passport. Ferries go from Poole or Portsmouth and there are high speed options as well as slower ones – just remember to take some Kwells because the Channel can be quite rough.
+### Flight Free UK:
+
+This is turning into a bit of an advert for Jersey! – it's a great flight free destination for anyone wanting a bit of a foreign feel to their holiday, but without needing a passport. Ferries go from Poole or Portsmouth and there are high speed options as well as slower ones – just remember to take some Kwells because the Channel can be quite rough.
 
 Travelling locally is going to be really key in addressing the climate crisis, because there just isn’t room for taking lots of flights in a low-carbon future. We've already seen we can have those authentic, exciting travel experiences without going very far. And as lockdown has forced us to stay still and appreciate what’s on our doorstep, maybe this is the mindset we need to take forwards, in order to still have those experiences, without it costing the earth.
+
+### *Steph:*
 
 *Things you've always gone past – learn the story behind them. There are a million stories everywhere that you’ll never have heard about which are absolutely fascinating. Try something new. For example, I went kayaking along the south coast of Jersey. I’ve never been kayaking in Jersey, and I felt like I was in the Med!*
 
@@ -67,15 +75,23 @@ Travelling locally is going to be really key in addressing the climate crisis, b
 
 *You an apply the bucket list mentality. Whatever you're interested in: mountains, coast, nature, history, art, food, culture, cities – we've got it. Tailor your trip to what you're interested in – there's the scope to do that. We’re an island of nations so if you get bored with England, scoot over to Wales, Ireland.*
 
+### Flight Free UK:
+
 So will our intrepid travellers keep up the flight free challenge, even though this year has not worked out at all how we thought it might?
 
-*Helen: I haven’t missed flying in the way that I thought I might miss it. It feels a little bit like when I went vegetarian – I was just going to do it for a month and it wasn't very hard so I kept doing it, and that was four years ago. I’m wondering if it might be a similar feeling. I’ve already decided I’m going to do it again next year because I do feel like this year was a bit of a cheat – it wasn’t governed by choice in the same way as it was supposed to be. So definitely in for 2021 and after that, we’ll see if it still feels like something I want to carry on doing.*
+### *Helen:* 
+
+*I haven’t missed flying in the way that I thought I might miss it. It feels a little bit like when I went vegetarian – I was just going to do it for a month and it wasn't very hard so I kept doing it, and that was four years ago. I’m wondering if it might be a similar feeling. I’ve already decided I’m going to do it again next year because I do feel like this year was a bit of a cheat – it wasn’t governed by choice in the same way as it was supposed to be. So definitely in for 2021 and after that, we’ll see if it still feels like something I want to carry on doing.*
 
 *There’s also something about restricting choice. We live in such a world of choice, it can be overwhelming. So there's something about restricting choice that is very liberating. If you can only travel overland or sea then that gives you a really curated palate of options, rather than having your options taken away, and that makes choosing easier and more exciting. If you reframe it that way it can feel very freeing rather than stifling.*
 
-*Steph: I’m really sad the plans didn’t work out. Most people have been disappointed this year, whether your wedding’s been cancelled or whatever – that’s what we're living with. But there's so much to discover on the doorstep that when I decided to scrap the whole central Asia part, the UK it is, I got that travel buzz. I haven’t seen the UK all that much and I'm really excited that life has given me the opportunity to explore those possibilities and I feel excited about that. I genuinely feel the same feeling of excitement, adventure and intrepid discovery that I would feel going anywhere.*
+### *Steph:* 
 
-And that’s a really nice place to leave it. It’s been great to speak to two people who are so passionate about travel, and who have fully embraced the flight free challenge. Do find out more about them both online: Helen writes brilliantly for the Independent \[link], and Steph’s website Big World Small Pockets \[link] has some excellent content about travelling on a budget. Thank you Steph, and thanks Helen, for speaking to us, and thanks for listening.
+*I’m really sad the plans didn’t work out. Most people have been disappointed this year, whether your wedding’s been cancelled or whatever – that’s what we're living with. But there's so much to discover on the doorstep that when I decided to scrap the whole central Asia part, the UK it is, I got that travel buzz. I haven’t seen the UK all that much and I'm really excited that life has given me the opportunity to explore those possibilities and I feel excited about that. I genuinely feel the same feeling of excitement, adventure and intrepid discovery that I would feel going anywhere.*
+
+### Flight Free UK:
+
+And that’s a really nice place to leave it. It’s been great to speak to two people who are so passionate about travel, and who have fully embraced the flight free challenge. Do find out more about them both online: Helen writes brilliantly [for the Independent](https://www.independent.co.uk/author/helen-coffey), and Steph’s website [Big World Small Pockets](https://www.bigworldsmallpockets.com) has some excellent content about travelling on a budget. Thank you Steph, and thanks Helen, for speaking to us, and thanks for listening.
 
 **You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).**
 
