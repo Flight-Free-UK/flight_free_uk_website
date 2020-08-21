@@ -25,19 +25,27 @@ Helen, what were your travel plans for this year?
 
 Cargo ship travel is pretty unique, and we have some really interesting stories of people who have crossed oceans on cargo ships on our website, including Lewis who [went to South America](/post/the-slow-boat-to-south-america-and-other-stories/), and Peter and Christine who travelled [back to the UK from Singapore](/post/wall-to-wall-without-flying/). We also spoke at length to adventurer and environmental campaigner [Kate Rawles](https://www.outdoorphilosophy.co.uk), who [crossed the Atlantic by ship](/post/podcast-series-episode-4-transatlantic-travel/) as part of her biodiversity bike ride in the Andes. You can hear our interview with Kate in [episode 4 of this podcast series](/podcast/).
 
-So that’s an incredible adventure, obviously not now going ahead. So what about finding those same travel experiences within the context of lockdown? We were really inspired by Helen’s article in the Independent \[link], in which she discovers some of the magic of travel a mere five miles from her house, where she took a swim in the Serpentine.
+So that’s an incredible adventure, obviously not now going ahead. So what about finding those same travel experiences within the context of lockdown? We were really inspired by Helen’s [article in the Independent](https://www.independent.co.uk/20-pledges/flight-free-2020-local-travel-cycle-serpentine-wild-swimming-london-uk-a9535286.html), in which she discovers some of the magic of travel a mere five miles from her house, where she took a swim in the Serpentine.
 
 ### *Helen:*
 
 *I pass the Serpentine twice a day, five days a week on the way to work. But I'd never really gone there. There's a man made lake and a small part that’s a bit like a lido, but this was the first time I'd swum in the lake proper. Maybe it's because we’ve been cooped up so long but it just felt really magical – cycling through London on a beautiful day, pushing off and swimming in this big space, and looking around and thinking, if this was happening in a different country, there’d be no question that I’d think it was a magnificent experience! It shouldn't make a difference that it's not somewhere far flung – it's just about changing your perspective.*
 
-We recommend Helen’s article on the Independent website \[link].
+### Flight Free UK:
+
+We recommend reading [the whole article](https://www.independent.co.uk/20-pledges/flight-free-2020-local-travel-cycle-serpentine-wild-swimming-london-uk-a9535286.html) on the Independent website.
 
 Another thing that Helen discovered in lockdown was finding the unexpected in somewhere that's really familiar like the town we grew up in.
 
+### *Helen:*
+
 *Last week I went back to my home town, Hemel Hempstead. Obviously because I grew up there I absolutely hated everything about and thought it had not a spec of beauty to recommend it! And I was just so surprised. I'd lived there for 18 years and I barely knew the place. Every day after work I would go for a walk and within 10 minutes of my mum’s house there was this woodland with meadows of wildflowers. It was like a reverse Narnia or something! It was 10 minutes away and the fact I’d never heard of it and never been there really changed my idea of the concept of travel or finding beautiful things. You just have to shake off the familiarity you feel about the places you know.*
 
+### Flight Free UK:
+
 So of course sometimes we do want to travel further afield and have those experiences when we feel like we’re really going somewhere and have that excited buzz of looking forward to our holiday, and learn about different cultures and different foods, and different landscapes. But even that we can discover here in the UK. There’s quite a culture shift from north to south, for example. And the outlying islands can make for a really magical adventure.
+
+### *Helen:*
 
 *There's so much beauty here and I feel like I haven't scratched the surface. I’m going to the Isles of Scilly and I’m so excited. I wouldn't be any more excited to be going abroad because it's a place I haven’t been with its own climate and its own traditions. It's not a matter of distance, it's more a matter of something you haven't experienced before.*
 
