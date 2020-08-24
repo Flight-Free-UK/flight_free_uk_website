@@ -55,8 +55,6 @@ Mike:
 
 So far I've ridden through Austria, touched into Slovakia and Hungary, then Italy, Slovenia, Croatia, Bosnia and Herzegovina, Serbia, Kosovo, Albania and Macedonia.
 
-![](/images/uploads/newstory-mike.jpg)
-
 ### *What have been your most memorable encounters?*
 
 Rosie: 
@@ -71,7 +69,7 @@ The very first day of arriving off the train in Vienna before I'd ridden an inch
 
 The 3rd of January, Rosie and I spent a whole day at an incredible completely off-grid solar powered mountain hut in Croatia above 1000m. It was a really special place of peace. The first night that a complete stranger invited me in to their house after I asked if I might camp in their garden. That was incredibly humbling and has been almost the rule along the way where I've experienced so much generosity.
 
-![](/images/uploads/newstory-rosieandmike.jpg)
+![](/images/uploads/newstory-mike.jpg)
 
 ### *Why is it important to talk to people about climate change?*
 
@@ -83,8 +81,6 @@ Mike:
 
 The climate crisis is a focus of this journey because it is the most pressing challenge of our time. Showing that there are people in all sorts of places working in their own ways to tackle parts of the climate crisis will encourage those watching the journey to act how they can, I hope.
 
-
-
 ### *Have you always been aware of climate issues?*
 
 Rosie: 
@@ -95,6 +91,8 @@ Mike:
 
 I feel like I've always been roughly aware of climate issues – my parents are both hippies and the issues of the world were always topics of conversation. I studied Geography and International Relations with the aim of working to end human suffering with a particular interest in peace studies. It wasn't until later that getting my first job I had the realisation that none of that work would mean shit without a stable environment.
 
+![](/images/uploads/newstory-rosieandmike.jpg)
+
 ### *What do you hope to achieve from your journeys?*
 
 Rosie: 
@@ -104,6 +102,8 @@ From the run I want to be able to show a big diversity of versions of the 'new s
 Mike: 
 
 The story that has led us to where we are now is just that, a story. Time and time again we see how stories are what drive both good and bad outcomes. My aim is that the ride helps bring to life the new and better story that is happening. Not to create a How-to guide, but a Why-to guide. Whether that remains just on the New Story Ride website or becomes something more polished is going to depend on tapping into the skills and interests of others.
+
+![](/images/uploads/newstory-rosie3.jpg)
 
 ### *There are some adventurers who are trying to raise awareness of the carbon footprint of adventuring, but many people just don’t want to hear it. What do you think is our role as adventurers? Sustainable is such a buzz word, but does it really mean much in reality?*
 
@@ -119,6 +119,8 @@ Mike:
 
 By train of course :)
 
-### *Thanks Rosie and Mike for talking to us – good luck with the rest of your travels!* 
+### *Thanks Rosie and Mike for talking to us – good luck with the rest of your travels!*
 
 *You can follow Rosie's journey [here](https://newstoryrun.wordpress.com/) and Mike's [here](https://newstoryride.wordpress.com/).*
+
+![](/images/uploads/newstory-swimming.jpg)
