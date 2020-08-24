@@ -15,7 +15,7 @@ read_time_minute: 6
 
 The adventure world is full of people who are passionate about the outdoors and the planet. But with exploration comes a significant impact, especially if it involves a flight.
 
-Rosie Watson and Mike Elm are bucking this trend and shining a light on the environmental footprint of adventure. Making their way to Mongolia, Rosie by running, Mike by bicycle, both are finding and sharing stories of people working to tackle the climate crisis, and creating a more healthy, fun and sustainable way of living. This is about creating what Rosie and Mike call a New Story in our search for a sustainable narrative.
+[Rosie Watson](https://twitter.com/r_birdshouts) and [Mike Elm](https://twitter.com/elmers87) are bucking this trend and shining a light on the environmental footprint of adventure. Making their way to Mongolia, Rosie by running, Mike by bicycle, both are finding and sharing stories of people working to tackle the climate crisis, and creating a more healthy, fun and sustainable way of living. This is about creating what Rosie and Mike call a New Story in our search for a different narrative.
 
 Rosie has been on the road since August 2019, Mike since November 2019. We caught up with them just after an enforced break due to the Covid lockdown, as they were about to leave Skopje, North Macedonia.
 
