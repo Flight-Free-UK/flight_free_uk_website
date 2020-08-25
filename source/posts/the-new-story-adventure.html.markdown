@@ -29,7 +29,7 @@ Fell/mountain running is my main passion. I love how much you are forced to the 
 
 By travelling slowly you encounter a country or continent authentically. I like the speed of travelling by bike. It feels like you cover distance but you experience the place with all your senses. It also means that you connect to people, barely verbally just with waves or the relevant hello. These low level social interactions mean a lot. It is also a way of seeing a big chunk of the world without it costing the earth.
 
-![](/images/uploads/newstory-bike.jpg)
+![](/images/uploads/newstory-bike.jpg "Mike's bicycle at Lake Mladost in North Macedonia, August 2020")
 
 ### *You’re undertaking what you call the New Story Ride/New Story Run. What do you mean by ‘New Story’?*
 
@@ -69,7 +69,7 @@ The very first day of arriving off the train in Vienna before I'd ridden an inch
 
 The 3rd of January, Rosie and I spent a whole day at an incredible completely off-grid solar powered mountain hut in Croatia above 1000m. It was a really special place of peace. The first night that a complete stranger invited me in to their house after I asked if I might camp in their garden. That was incredibly humbling and has been almost the rule along the way where I've experienced so much generosity.
 
-![](/images/uploads/newstory-mike.jpg)
+![](/images/uploads/newstory-mike.jpg "Mike near Komani Lake in Albania, July 2020")
 
 ### *Why is it important to talk to people about climate change?*
 
@@ -91,7 +91,7 @@ I became interested in it just in time to apply for my degree, which was in Envi
 
 I feel like I've always been roughly aware of climate issues – my parents are both hippies and the issues of the world were always topics of conversation. I studied Geography and International Relations with the aim of working to end human suffering with a particular interest in peace studies. It wasn't until later that getting my first job I had the realisation that none of that work would mean shit without a stable environment.
 
-![](/images/uploads/newstory-rosieandmike.jpg)
+![](/images/uploads/newstory-rosieandmike.jpg "Rosie and Mike in Villach, Austria after meeting up for first time in 4 months")
 
 ### *What do you hope to achieve from your journeys?*
 
@@ -123,4 +123,4 @@ By train of course :)
 
 *You can follow Rosie's journey [here](https://newstoryrun.wordpress.com/) and Mike's [here](https://newstoryride.wordpress.com/).*
 
-![](/images/uploads/newstory-swimming.jpg)
+![](/images/uploads/newstory-swimming.jpg "Swimming in Novi Vinodolski, Croatia, Christmas 2019")
