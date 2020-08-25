@@ -8,3 +8,6 @@ Dockerfile
 .netlify
 # Local variables to match environment vars
 .env
+
+# Other local files
+flight-free.code-workspace
