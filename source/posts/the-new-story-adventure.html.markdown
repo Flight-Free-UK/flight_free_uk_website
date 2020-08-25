@@ -17,7 +17,7 @@ The adventure world is full of people who are passionate about the outdoors and 
 
 Rosie has been on the road since August 2019, Mike since November 2019. We caught up with them just after an enforced break due to the Covid lockdown, as they were about to leave Skopje, North Macedonia.
 
-![](/images/uploads/newstory-rosie1.jpg)
+![](/images/uploads/newstory-rosie1.jpg "Rosie on the Via Adriatica trail in Croatia, January 2020")
 
 ### *Why have you decided to run/bike across the continent? What is it about running/biking that you love so much?*
 
@@ -43,7 +43,7 @@ Stories are also how we connect to each other emotionally, so by telling these s
 
 As the ride has gone on I've become more and more clear on the New Story being about building a story, a system, that is good for the people that are living it and the rest of nature they depend on.
 
-![](/images/uploads/newstory-rosie2.jpg)
+![](/images/uploads/newstory-rosie2.jpg "Rosie in Austria, end of 2019")
 
 ### *Which countries have you been through?*
 
@@ -103,7 +103,7 @@ From the run I want to be able to show a big diversity of versions of the 'new s
 
 The story that has led us to where we are now is just that, a story. Time and time again we see how stories are what drive both good and bad outcomes. My aim is that the ride helps bring to life the new and better story that is happening. Not to create a How-to guide, but a Why-to guide. Whether that remains just on the New Story Ride website or becomes something more polished is going to depend on tapping into the skills and interests of others.
 
-![](/images/uploads/newstory-rosie3.jpg)
+![](/images/uploads/newstory-rosie3.jpg "Rosie on the Rheinburgenweg in Germany, September 2019")
 
 ### *There are some adventurers who are trying to raise awareness of the carbon footprint of adventuring, but many people just don’t want to hear it. What do you think is our role as adventurers? Sustainable is such a buzz word, but does it really mean much in reality?*
 
