@@ -11,13 +11,13 @@ summary: The adventure world is full of people who are passionate about the
 author: FlightFree UK
 read_time_minute: 6
 ---
-![](/images/uploads/newstory-rosie1.jpg)
-
 The adventure world is full of people who are passionate about the outdoors and the planet. But with exploration comes a significant impact, especially if it involves a flight.
 
 [Rosie Watson](https://twitter.com/r_birdshouts) and [Mike Elm](https://twitter.com/elmers87) are bucking this trend and shining a light on the environmental footprint of adventure. Making their way to Mongolia, Rosie by running, Mike by bicycle, both are finding and sharing stories of people working to tackle the climate crisis, and creating a more healthy, fun and sustainable way of living. This is about creating what Rosie and Mike call a New Story in our search for a different narrative.
 
 Rosie has been on the road since August 2019, Mike since November 2019. We caught up with them just after an enforced break due to the Covid lockdown, as they were about to leave Skopje, North Macedonia.
+
+![](/images/uploads/newstory-rosie1.jpg)
 
 ### *Why have you decided to run/bike across the continent? What is it about running/biking that you love so much?*
 
@@ -91,7 +91,7 @@ I became interested in it just in time to apply for my degree, which was in Envi
 
 I feel like I've always been roughly aware of climate issues – my parents are both hippies and the issues of the world were always topics of conversation. I studied Geography and International Relations with the aim of working to end human suffering with a particular interest in peace studies. It wasn't until later that getting my first job I had the realisation that none of that work would mean shit without a stable environment.
 
-![](/images/uploads/newstory-rosieandmike.jpg "Rosie and Mike in Villach, Austria after meeting up for first time in 4 months")
+![](/images/uploads/newstory-rosieandmike.jpg "Rosie and Mike in Villach, Austria after meeting up for the first time in 4 months")
 
 ### *What do you hope to achieve from your journeys?*
 
