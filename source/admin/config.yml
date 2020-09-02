@@ -86,5 +86,18 @@ collections:
               - {label: Role, name: role, widget: string}
               - {label: Bio, name: bio, widget: text}
               - {label: Photo, name: photo, widget: image}
-
-
+  - name: advisoryboard
+    label: Advisory Board
+    files:
+      - label: Advisory Board Members
+        name: advisoryboard
+        file: "data/advisoryboard.yml"
+        fields:
+          - label: Members
+            name: members
+            widget: list
+            allow_add: true
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Role, name: description, widget: string}
+              - {label: Bio, name: bio, widget: text}
