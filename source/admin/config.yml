@@ -86,12 +86,12 @@ collections:
               - {label: Role, name: role, widget: string}
               - {label: Bio, name: bio, widget: text}
               - {label: Photo, name: photo, widget: image}
-  - name: advisoryboard
-    label: Advisory Board
+  - name: advisorygroup
+    label: Advisory Group
     files:
-      - label: Advisory Board Members
-        name: advisoryboard
-        file: "data/advisoryboard.yml"
+      - label: Advisory Group Members
+        name: advisorygroup
+        file: "data/advisorygroup.yml"
         fields:
           - label: Members
             name: members
