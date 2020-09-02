@@ -4,6 +4,14 @@
 
 @tailwind utilities;
 
+/* Default 'normal' font weight for Chrome and Firefox is 400 but we were loading 300 and are now loading 500... */
+html {
+  font-weight: 500;
+}
+strong {
+  font-weight: 600;
+}
+
 /* Don't restrict width for to the xs and sm breakpoints */
 @media (max-width: 640px) {
   .container {
@@ -112,7 +120,7 @@
 }
 
 .blog-post-body figure figcaption {
-  @apply text-xs;
+  @apply text-base;
   @apply font-bold;
   @apply mt-2;
   @apply text-center;

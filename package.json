@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lambda-build": "netlify-lambda build functions/ && node -p 'process.env'",
+    "lambda-build": "netlify-lambda build functions/source",
     "webpack": "WEBPACK_ENV=build webpack",
     "webpack-watch": "WEBPACK_ENV=development webpack -w"
   },
