@@ -60,6 +60,23 @@
   @apply text-lg leading-normal text-text-default;
   @apply mb-6;
 }
+@media (min-width: 768px) {
+  .blog-post-body p, .blog-post-body ul, .blog-post-body ol {
+    @apply px-16;
+  }
+}
+
+.blog-post-body blockquote p {
+  @apply text-3xl text-blue-dark;
+  @apply leading-tight;
+  @apply px-0;
+}
+@media (min-width: 768px) {
+  .blog-post-body blockquote p {
+    @apply text-4xl;
+    @apply pl-16 border-l-2 border-gray-200;
+  }
+}
 
 .blog-post-body iframe {
   @apply max-w-full;
@@ -112,7 +129,6 @@
 }
 
 .blog-post-body figure figcaption {
-  @apply text-xs;
   @apply font-bold;
   @apply mt-2;
   @apply text-center;
