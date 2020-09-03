@@ -14,7 +14,7 @@ title: About us
     </p>
 
     <h2 class="text-4xl xl:text-5xl text-blue-dark mb-6">The Team</h2>
-    <div class="xl:flex flex-wrap justify-center mb-12 xl:mb-24">
+    <div class="xl:flex flex-wrap justify-center">
       <% data.team.members.each do |member| %>
       <div class="md:flex">
 	      <div class="md:flex-shrink-0">
@@ -28,7 +28,26 @@ title: About us
       </div>
       <% end %>
     </div>
-    <p class="text-lg xl:text-xl leading-tight mt-6 mb-6">Website design by <a class="text-orange" href="https://madebynika.com/" target="_blank"> Rosa van Wyk</a>. Software development by <a class="text-orange" href="https://uk.linkedin.com/in/eugene-bolshakov-66a7513" target="_blank"> Eugene Bolshakov</a>.</p>
+  </div>
+</section>
+
+<section class="bg-gray-light">
+  <div class="container mx-auto px-4 sm:px-8 xl:px-24 xxl:px-48 pb-6 sm:pb-12 xl:pb-24 text-text-default">
+    <h2 class="text-4xl xl:text-5xl text-blue-dark mb-6">Advisory Group</h2>
+    <div class="xl:flex flex-wrap justify-center mb-12 xl:mb-24">
+      <% data.advisorygroup.members.each do |member| %>
+        <div class="md:flex">
+          <div class="flex-shrink-0 w-1/4">
+            <h3 class="text-xl xl:text-2xl text-blue-dark underline"><a href="<%= member.url %>"><%= member.name %></a></h3>
+            <h3 class="text-lg xl:text-xl text-blue-dark mb-4"><%= member.description %></h3>
+          </div>
+          <div class="mt-1 mb-4">
+            <p class="text-text-default text-lg xl:text-xl mb-4 leading-tight"><%= member.bio %></p>
+          </div>
+        </div>
+      <% end %>
+    </div>
+    <p class="text-lg xl:text-xl leading-tight mt-6 mb-6 text-center">Website design by <a class="text-orange" href="https://madebynika.com/" target="_blank"> Rosa van Wyk</a>. Software development by <a class="text-orange" href="https://uk.linkedin.com/in/eugene-bolshakov-66a7513" target="_blank"> Eugene Bolshakov</a>.</p>
   </div>
 </section>
 <section class="bg-blue-dark">
