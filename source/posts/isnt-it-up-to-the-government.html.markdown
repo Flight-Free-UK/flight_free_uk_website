@@ -8,9 +8,9 @@ summary: What can we as individuals do when the government doesn't act on the cl
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/greta-school-strike.jpg)
+![](/images/uploads/greta-school-strike.jpg "Greta Thunberg outside the Swedish parliament")
 
-It’s been two years since Greta Thunberg started her school strikes, sitting outside the Swedish parliament for two weeks, then every Friday after that to highlight inaction on climate change. Her actions galvanised a global community of young people and started the Fridays for Future movement, with school children across the world demanding that their governments take meaningful action on the climate.
+It’s been two years since Greta Thunberg started her school strikes, sitting outside the Swedish parliament for two weeks, then every Friday after that to highlight inaction on climate change. Her actions galvanised a global community of young people and started the Fridays for Future movement, with school children across the world demanding that their governments take meaningful action on the climate. 
 
 Since that day two years ago, 80 gigatonnes of planet-busting CO2 have been emitted into the atmosphere. Since that day two years ago, very little has changed in terms of government policy.
 
