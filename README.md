@@ -62,6 +62,8 @@ generated from Markdown).
 CSS files are processed by Webpack and the changes to files are reloaded in the
 browser automatically.
 
+However, PurgeCSS may not find HTML elements created by the Markdown processor and will purge them. To prevent this happening, add elements to the whitelist in postcss.config.js
+
 ### Javascript
 
 There is currently very little javascript and some of it is inline in the HTML
