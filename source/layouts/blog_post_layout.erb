@@ -4,7 +4,7 @@
     <div class="container mx-auto px-8 lg:px-16 xl:px-40 xxl:px-64 py-12 xl:pt-16 xl:pb-20 text-blue-dark">
       <%= link_to "View all posts", "/be_inspired.html", class: "text-base xl:text-lg pl-8 bg-no-repeat", style: "color:#a0a0a0;background-image:url(/svg/arrow_back.svg)" %>
       <h1 class="text-4xl xl:text-5xl text-blue-dark mt-6 mb-4 xl:mb-8"><%= current_article.title %></h1>
-      <h2 class="text-3xl xl:text-3xl mb-8 leading-tight text-text-gray-light"><%= current_article.data.summary %></h2>
+      <h2 class="text-3xl xl:text-3xl mb-8 xl:mb-16 text-text-gray-light"><%= current_article.data.summary %></h2>
       <div class="xl:flex border-t border-b py-6 text-blue-dark items-center" style="border-color:#e7e7e7">
         <div class="flex">
           <span class="w-8 h-8 rounded-full bg-no-repeat bg-white bg-contain mr-4" style="background-image:url(<%= author.avatar %>)"></span>
