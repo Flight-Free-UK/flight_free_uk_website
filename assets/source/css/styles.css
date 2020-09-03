@@ -157,6 +157,7 @@
 
   .faq-question p {
     @apply text-xl;
+    @apply mb-4;
   }
 
   .blog-post-body p,
