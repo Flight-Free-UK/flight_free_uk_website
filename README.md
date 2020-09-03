@@ -9,7 +9,7 @@ and is hosted on [Netlify](https://www.netlify.com/).
 
 To work on this website you'll need to do the following:
 
-* Install Ruby (latest version should be fine)
+* Install Ruby (latest version should be fine, although Netlify itself is running Ruby 2.6.2 so I run this version too)
 * Install Ruby dependencies: `bundle install`
 * Install NodeJS (latest version should be fine)
 * Install NodeJS dependencies: `npm install`
@@ -62,6 +62,8 @@ generated from Markdown).
 CSS files are processed by Webpack and the changes to files are reloaded in the
 browser automatically.
 
+However, PurgeCSS may not find HTML elements created by the Markdown processor and will purge them. To prevent this happening, add elements to the whitelist in postcss.config.js
+
 ### Javascript
 
 There is currently very little javascript and some of it is inline in the HTML
@@ -95,3 +97,6 @@ JS app that is loaded in `source/admin/index.html` that updates the content in
 the git repository directly (i.e. when you edit a blog post it updates the
 relevant file in the repository and commits it). Authentication is handled by
 [Netlify](https://www.netlify.com/).
+
+To run the CMS locally, set up the proxy server by running `npx netlify-cms-proxy-server`
+then pointing your browser at [http://localhost:8888/admin/#/](http://localhost:8888/admin/#/)
