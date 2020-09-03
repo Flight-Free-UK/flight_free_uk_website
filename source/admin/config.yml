@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
 
+local_backend:
+  url: http://localhost:8081/api/v1
+
 media_folder: source/images/uploads
 public_folder: /images/uploads
 slug:
@@ -99,5 +102,6 @@ collections:
             allow_add: true
             fields:
               - {label: Name, name: name, widget: string}
+              - {label: Website, name: url, widget: string}
               - {label: Role, name: description, widget: string}
               - {label: Bio, name: bio, widget: text}
