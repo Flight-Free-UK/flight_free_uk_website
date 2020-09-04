@@ -2,7 +2,7 @@
 published: true
 title: What makes a frequent flyer?
 category: climate
-date: 2020-09-04T17:24:52.000Z
+date: 2020-08-31T17:24:52.000Z
 cover_image: /images/uploads/black-plane.jpg
 summary: How many flights per year do you need to take to count as a 'frequent flyer'?
 author: FlightFree UK
