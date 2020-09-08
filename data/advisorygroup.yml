@@ -1,11 +1,4 @@
 members:
-  - name: Natalie Fee
-    url: https://nataliefee.com/my-story/
-    description: Founder, City to Sea
-    bio: Natalie is an award-winning environmentalist, author, speaker and founder
-      of <a class="text-orange" href="https://www.citytosea.org.uk"
-      target="_blank">City to Sea</a>, a UK-based campaign to stop plastic
-      pollution at source.
   - name: Jamie Andrews
     url: https://uk.linkedin.com/public-profile/in/jamie-andrews-a724404
     description: Co-founder, Loco2
@@ -23,14 +16,20 @@ members:
       environmental features. He founded <a class="text-orange"
       href="https://www.snowcarbon.co.uk" target="_blank"> snowcarbon.co.uk</a>
       to enable people to travel to ski resorts by train.
-  - name: Maja Rosén
-    description: Founder, We Stay on the Ground
-    bio: Maja started the <a class="text-orange"
-      href="https://westayontheground.blogspot.com"  target="_blank"> Flygfritt
-      2019</a> campaign in Sweden, asking 100,000 Swedes to take a flight free
-      year. This led to the international Flight Free movement, which is active
-      in several different countries around the world.
-    url: https://westayontheground.blogspot.com
+  - name: Natalie Fee
+    url: https://nataliefee.com/my-story/
+    description: Founder, City to Sea
+    bio: Natalie is an award-winning environmentalist, author, speaker and founder
+      of <a class="text-orange" href="https://www.citytosea.org.uk"
+      target="_blank">City to Sea</a>, a UK-based campaign to stop plastic
+      pollution at source.
+  - name: Cait Hewitt
+    bio: Cait has expertise in climate change, noise and air quality issues,
+      particularly in relation to airport expansion and ​airspace change policy.
+      Her dissertation for her M.A. in environmental philosophy focussed on the
+      social justice implications of climate change.
+    url: https://www.aef.org.uk/team/cait-hewitt/
+    description: Deputy Director, Aviation Environment Federation
   - name: Tim Johnson
     url: https://www.aef.org.uk/team/tim-johnson-3/
     description: Director, Aviation Environment Federation
@@ -40,10 +39,11 @@ members:
       carbon calculator task force and previously co-led tasks related to the
       development of CORSIA, ICAO’s offsetting mechanism for international
       aviation.
-  - name: Cait Hewitt
-    bio: Cait has expertise in climate change, noise and air quality issues,
-      particularly in relation to airport expansion and ​airspace change policy.
-      Her dissertation for her M.A. in environmental philosophy focussed on the
-      social justice implications of climate change.
-    url: https://www.aef.org.uk/team/cait-hewitt/
-    description: Deputy Director, Aviation Environment Federation
+  - name: Maja Rosén
+    description: Founder, We Stay on the Ground
+    bio: Maja started the <a class="text-orange"
+      href="https://westayontheground.blogspot.com"  target="_blank"> Flygfritt
+      2019</a> campaign in Sweden, asking 100,000 Swedes to take a flight free
+      year. This led to the international Flight Free movement, which is active
+      in several different countries around the world.
+    url: https://westayontheground.blogspot.com
