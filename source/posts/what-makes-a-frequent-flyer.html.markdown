@@ -14,6 +14,8 @@ It’s a common assumption that business travellers make up the largest sector o
 
 In fact, business flights made up just 9% of flights in 2017*, a percentage that had been falling steadily year on year even before Covid-19. There’s likely to have been an even greater decrease in business flights as a result of coronavirus lockdowns, and we can expect that number to continue to fall as many businesses settle on a digital way of working. By far the largest share of the travel market is made up of leisure flights – nearly 2/3 in 2017.
 
+> Did you know? Just 15% of people in the UK take 70% of the flights
+
 There’s a much-used statistic, that [15% of people take 70% of the flights](https://fullfact.org/economy/do-15-people-take-70-flights/). It’s these ‘frequent flyers’ that do the lion’s share of polluting when it comes to air travel. But how many flights does it take to become a frequent flyer? Five flights per year? Ten? Twenty? It might surprise you to know that to fall into that 15%, you need only take three return flights per year.
 
 For those people born in the era of cheap flights, who might have plenty of disposable income – the ‘money-rich, time-poor’ cohort – taking three flights per year is very common. 
