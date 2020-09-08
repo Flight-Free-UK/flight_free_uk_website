@@ -24,6 +24,8 @@ The trouble with using the term ‘frequent flyer’ is that no one thinks it’
 
 This is one of the reasons our campaign does not focus purely on the frequent flyers – everyone can have an impact, regardless of how much you already fly. Of course, the reduction in your carbon footprint will be much greater if you go from many flights a year to one or none. But [even those who fly little, or not at all, can help to shift the norm](https://flightfree.co.uk/post/can-i-really-make-a-difference/) by talking about it, and influencing the people around them.
 
+> "The trouble with using the term 'frequent flyer' is that no one thinks it's them."
+
 As we know, social norms are what tends to guide our behaviour, so if your group of friends flies several times a year, you will assume that’s the norm. If one of your group stops flying, that will start to shift the norm. In reality, only around half of all Brits fly in any given year, which also makes this an issue of social justice – not all of us access air travel, but we all suffer the consequences of the resulting poor air quality and rising greenhouse gas emissions.
 
 The truth is, even one flight a year is too much for the climate to handle. If everyone in the world took just one return flight per year, our carbon output would increase far beyond what our planet can cope with.
