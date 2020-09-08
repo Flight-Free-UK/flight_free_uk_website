@@ -18,17 +18,17 @@ In fact, business flights made up just 9% of flights in 2017*, a percentage that
 
 There’s a much-used statistic, that [15% of people take 70% of the flights](https://fullfact.org/economy/do-15-people-take-70-flights/). It’s these ‘frequent flyers’ that do the lion’s share of polluting when it comes to air travel. But how many flights does it take to become a frequent flyer? Five flights per year? Ten? Twenty? It might surprise you to know that to fall into that 15%, you need only take three return flights per year.
 
-# For those people born
+# H1 For those people born
 
-## in the era of cheap flights, 
+## H2 in the era of cheap flights, 
 
-### who might have plenty of disposable income
+### H3 who might have plenty of disposable income
 
-####  – the ‘money-rich, time-poor’ cohort – 
+#### H4  – the ‘money-rich, time-poor’ cohort – 
 
-##### taking three flights 
+##### H5 taking three flights 
 
-###### per year 
+###### H6 per year 
 
 is very common. 
 
