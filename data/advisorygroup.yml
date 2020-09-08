@@ -20,9 +20,9 @@ members:
     url: https://uk.linkedin.com/in/danielelkan
     description: Founder, SnowCarbon
     bio: Daniel is a freelance journalist writing ski, science, health and
-      environmental features. He founded <a
-      href="https://www.snowcarbon.co.uk">snowcarbon.co.uk</a> to enable people
-      to travel to ski resorts by train.
+      environmental features. He founded <a class="text-orange"
+      href="https://www.snowcarbon.co.uk" target="_blank"> snowcarbon.co.uk</a>
+      to enable people to travel to ski resorts by train.
   - name: Maja Rosén
     description: Founder, We Stay on the Ground
     bio: Maja started the <a class="text-orange"
