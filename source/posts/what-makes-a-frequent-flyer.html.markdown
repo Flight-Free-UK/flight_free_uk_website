@@ -8,6 +8,8 @@ summary: How many flights per year do you need to take to count as a 'frequent f
 author: FlightFree UK
 read_time_minute: 3
 ---
+> "A 'frequent flyer' need only take three return flights per year"
+
 ![](/images/uploads/black-plane.jpg)
 
 It’s a common assumption that business travellers make up the largest sector of flyers – the men in suits who are rarely out of an aeroplane seat.
