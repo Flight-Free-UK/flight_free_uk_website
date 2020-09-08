@@ -22,7 +22,7 @@ For those people born in the era of cheap flights, who might have plenty of disp
 
 The trouble with the term ‘frequent flyer’ is that no one thinks it’s them. Everyone knows someone who flies more than they do, and a person who takes just three return flights a year would not necessarily think of themselves as being a frequent flyer.
 
-This is one of the reasons our campaign does not focus purely on the frequent flyers – everyone can have an impact, regardless of how much you already fly. Of course, the reduction in your carbon footprint will be much greater if you go from many flights a year to one or none. But [even those who fly little, or not at all, can help to shift the norm](https://flightfree.co.uk/post/can-i-really-make-a-difference/) by talking about it, and influencing the people around them.
+This is one of the reasons our campaign does not focus purely on the frequent flyers – everyone can have an impact, regardless of how much you already fly. Of course, the reduction in your carbon footprint will be much greater if you go from many flights a year to one or none. But [even those who fly little, or not at all, can help to shift the norm](https://flightfree.co.uk/post/can-i-really-make-a-difference/) by influencing the people around them.
 
 > "The trouble with the term 'frequent flyer' is that no one thinks it's them."
 
