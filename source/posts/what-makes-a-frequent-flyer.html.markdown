@@ -20,7 +20,17 @@ There’s a much-used statistic, that [15% of people take 70% of the flights](ht
 
 # For those people born
 
- in the era of cheap flights, who might have plenty of disposable income – the ‘money-rich, time-poor’ cohort – taking three flights per year is very common. 
+## in the era of cheap flights, 
+
+### who might have plenty of disposable income
+
+####  – the ‘money-rich, time-poor’ cohort – 
+
+##### taking three flights 
+
+###### per year 
+
+is very common. 
 
 The trouble with using the term ‘frequent flyer’ is that no one thinks it’s them. Everyone knows someone who flies more than they do, and a person who takes just three return flights a year would not necessarily think of themselves as being a frequent flyer.
 
