@@ -2,12 +2,23 @@ members:
   - name: Natalie Fee
     url: https://nataliefee.com/my-story/
     description: Founder, City to Sea
-    bio: Natalie is an award-winning environmentalist, author, speaker and founder of <a href="https://www.citytosea.org.uk">City to Sea</a>, a UK-based organisation running campaigns to stop plastic pollution at source.
+    bio: Natalie is an award-winning environmentalist, author, speaker and founder
+      of <a href="https://www.citytosea.org.uk">City to Sea</a>, a UK-based
+      organisation running campaigns to stop plastic pollution at source.
   - name: Jamie Andrews
     url: https://uk.linkedin.com/public-profile/in/jamie-andrews-a724404
     description: Co-founder, Loco2
-    bio: Jamie co-founded rail technology startup <a href="https://www.raileurope.com/en/our-story">Loco2</a> with his sister Kate, which became a very successful company enabling people to book low-carbon travel across Europe. He’s now involved with various low-carbon projects including <a href="https://www.ridingsunbeams.org">Riding Sunbeams</a>, which connects solar power directly to rail networks.
+    bio: Jamie co-founded rail technology startup <a class="text-orange"
+      href="https://www.raileurope.com/en/our-story" target="_blank">Loco2</a>
+      with his sister Kate, which became a very successful company enabling
+      people to book low-carbon travel across Europe. He’s now involved with
+      various low-carbon projects including <a
+      href="https://www.ridingsunbeams.org">Riding Sunbeams</a>, which connects
+      solar power directly to rail networks.
   - name: Daniel Elkan
     url: https://uk.linkedin.com/in/danielelkan
     description: Founder, SnowCarbon
-    bio: Daniel is a freelance journalist writing ski, science, health and environmental features. He founded <a href="https://www.snowcarbon.co.uk">snowcarbon.co.uk</a> to enable people to travel to ski resorts by train.
+    bio: Daniel is a freelance journalist writing ski, science, health and
+      environmental features. He founded <a
+      href="https://www.snowcarbon.co.uk">snowcarbon.co.uk</a> to enable people
+      to travel to ski resorts by train.
