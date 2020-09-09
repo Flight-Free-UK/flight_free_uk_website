@@ -30,7 +30,7 @@ As we know, social norms are what tends to guide our behaviour, so if your group
 
 > "The trouble with the term 'frequent flyer' is that no one thinks it's them."
 
-The truth is, even one flight a year is too much for the climate to handle. If everyone in the world took just one return flight per year, our carbon output would increase far beyond what our planet can cope with.
+The truth is, even one flight a year is too much for the climate to handle. If everyone in the world took just one return flight per year, our carbon output would increase by over 40% – far beyond what our planet can cope with.
 
 So while we definitely need to address the problem of frequent flyers, we also need to be clear about who that is – and acknowledge that everyone can have an impact, frequent flyer or not.
 
