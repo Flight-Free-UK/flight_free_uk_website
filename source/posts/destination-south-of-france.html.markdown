@@ -38,7 +38,7 @@ We always travel on the top deck of the TGV, which makes it more exciting becaus
 
 We’re thinking about going to Morocco before too long, as apparently they have a good train system, and the Anti Atlas mountains would be nice for some mid-winter warmth.
 
-**Sandy Robertson, London to Juan les Pins**
+# Sandy Robertson, London to Juan les Pins
 
 We travel to Juan Les Pins at least once a year as our family has a place there. We usually fly to Nice Côte d'Azur airport and hire a car but as a family we have been trying to reduce our impact on the planet, and our most recent step towards that goal has been to try to give up flying.
 
@@ -48,23 +48,7 @@ The queue for the Eurostar was a bit of a crush but we were through passport con
 
 The Eurostar return for two adults and two under-fours (including child seat for toddler which made it much more comfortable but isn’t required) was £398. It cost us £8.60 to get to St Pancras, and a further £117.06 for the Marseille-Juan Les Pins return. Total £523.66 return – which would have been cheaper had I remembered to book earlier!
 
-![](/images/uploads/sandy-pics.jpeg "Sandy and family at the station")
-
-**Rob Hughes, London to Carcassonne**
-
-We’re going to a wedding near Carcassonne, and didn’t want to fly because “Flying burns more oil!” says Lola (age 4). It looks like a nice place, so we thought we’d make a holiday of it.
-
-We’ve taken a fair few flights as a family (we lived in Zambia for two years), but are now trying to do all family holidays by ground travel only. So far, we’ve been by train/boat/bike to Denmark, Netherlands, Belgium, Italy, Isle of Man, Scotland (day and night trains) and Spain.
-
-I want the government to actually stop ignoring the climate crisis. While I know our personal choices are only a small gesture (especially when flying is often cheaper), it feels better to be practicing what we preach. And in many ways it’s a much nicer way to travel.
-
-We’re taking the sleeper train down through France because the TGV after the Eurostar in one day would be quite a long sedentary day. This way, we get to have a couple of hours on the train, dinner in Paris, then sleep while we travel south. Luca (age 6) says the best part of taking a sleeper train is “Staying up late!”
-
-Overall it’s much simpler than flying – less faff with liquids and scanners, and (today at least) check in was really quick and easy.
-
-Bryony (mum): Timings are important, so it’s nice to chose a train that fits with mealtimes (it’s a good way to pass an hour on the train). We also bring along some games/activities for the train.
-
-You have to make the journey part of the holiday, rather than something to endure like flying. It’s a different mindset. With that, Luca and I are off to the buffet car to get a drink…
+![](/images/uploads/sandy-pics.jpeg "Sandy and family on their travels")
 
 **Eve Hart, Lancashire to Avignon**
 
@@ -81,6 +65,22 @@ The seats on the Eurostar were large and comfortable, and with a table between u
 It’s only 27 miles from Ramsbottom to Manchester Airport and whilst we could still have seen the amazing Roman Pont du Gard, jumped in the pool, climbed up to Cathar Castles and paddled in the Herault river, we didn’t want to fly when there was an exciting alternative on offer. We so enjoyed our family time en route to France, and even with cancellations and delays on the way home, we’d certainly do it again.
 
 ![](/images/uploads/eve-hart.jpg "Eve Hart and family in Avignon")
+
+**Rob Hughes, London to Carcassonne**
+
+We’re going to a wedding near Carcassonne, and didn’t want to fly because “Flying burns more oil!” says Lola (age 4). It looks like a nice place, so we thought we’d make a holiday of it.
+
+We’ve taken a fair few flights as a family (we lived in Zambia for two years), but are now trying to do all family holidays by ground travel only. So far, we’ve been by train/boat/bike to Denmark, Netherlands, Belgium, Italy, Isle of Man, Scotland (day and night trains) and Spain.
+
+I want the government to actually stop ignoring the climate crisis. While I know our personal choices are only a small gesture (especially when flying is often cheaper), it feels better to be practicing what we preach. And in many ways it’s a much nicer way to travel.
+
+We’re taking the sleeper train down through France because the TGV after the Eurostar in one day would be quite a long sedentary day. This way, we get to have a couple of hours on the train, dinner in Paris, then sleep while we travel south. Luca (age 6) says the best part of taking a sleeper train is “Staying up late!”
+
+Overall it’s much simpler than flying – less faff with liquids and scanners, and (today at least) check in was really quick and easy.
+
+Bryony (mum): Timings are important, so it’s nice to chose a train that fits with mealtimes (it’s a good way to pass an hour on the train). We also bring along some games/activities for the train.
+
+You have to make the journey part of the holiday, rather than something to endure like flying. It’s a different mindset. With that, Luca and I are off to the buffet car to get a drink…
 
 **Deborah Tomkins, Bristol to Nice**
 
