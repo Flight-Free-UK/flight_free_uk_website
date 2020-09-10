@@ -20,6 +20,8 @@ Pretty much. The Climate Assembly UK is a group of 108 citizens, selected to mir
 
 The Assembly doesn’t decide policy and can’t tell the government what to do, but it gives policy makers an insight into how the public are thinking, or would think, if they had all the right information. The Assembly considered the areas of transport, housing, food and agriculture, consumption, and energy, and gave special attention to greenhouse gas removals. Their conclusions show that the people of the UK are far more on-board with climate change solutions than the skeptics who, until recently at least, commanded so much media attention. And yet some of the recommendations also show that the Assembly found it difficult to confront tough choices. Aviation is an example.
 
+> "The people of the UK are far more on-board with climate change solutions than the skeptics who command so much media attention."
+
 ## Go on then, what did they say about aviation?
 
 The Assembly members were told that aviation makes up 7% of the UK’s greenhouse gas emissions, that passenger numbers have trebled since 1990, and that passenger numbers are currently forecast to grow further by 2050. The Assembly favours taxes that even out the disparity in cost between air travel and the alternatives, and that increase as people fly more often and as they fly further. On the other hand, Assembly members value the freedom to fly, and feel that it benefits business and the economy. They recommended allowing continued growth in passenger numbers of 25-50% between 2018 and 2050.
