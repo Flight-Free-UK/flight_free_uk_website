@@ -28,7 +28,9 @@ Their conclusions show that the people of the UK are far more on-board with clim
 
 ## Go on then, what did they say about aviation?
 
-The Assembly members were told that aviation makes up 7% of the UK’s greenhouse gas emissions, that passenger numbers have trebled since 1990, and that passenger numbers are currently forecast to grow further by 2050. The Assembly favours taxes that even out the disparity in cost between air travel and the alternatives, and that increase as people fly more often and as they fly further. On the other hand, Assembly members value the freedom to fly, and feel that it benefits business and the economy. They recommended allowing continued growth in passenger numbers of 25-50% between 2018 and 2050.
+The Assembly members were told that aviation makes up 7% of the UK’s greenhouse gas emissions, that passenger numbers have trebled since 1990, and that passenger numbers are currently forecast to grow further by 2050. The Assembly favours taxes that even out the disparity in cost between air travel and the alternatives, and that increase as people fly more often and as they fly further. 
+
+On the other hand, Assembly members value the freedom to fly, and feel that it benefits business and the economy. They recommended allowing continued growth in passenger numbers of 25-50% between 2018 and 2050.
 
 ## That seems a bit high?
 
