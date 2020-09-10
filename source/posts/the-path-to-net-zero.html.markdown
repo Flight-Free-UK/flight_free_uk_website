@@ -48,7 +48,7 @@ They also didn’t apparently take into account that, given that the life of a p
 
 Yes, lots. Perhaps the most encouraging thing about the report is the way it provides a counterbalance to industry lobbying. There is an over-riding emphasis on fairness, and this is important because some of the solutions offered for aviation are likely to be expensive. Airlines are already arguing that biofuels and synthetic fuels should be subsidised by tax-payers to make them more competitive with fossil fuels. But this would be unfair, because the richest people in society fly far more than the poorest, so they would benefit the most from any subsidy. Assembly members backed the principle of ‘the polluter pays.’ 
 
-> Assembly members backed the principle of ‘the polluter pays.’ 
+> "Assembly members backed the principle of ‘the polluter pays’."
 
 The report is also very keen on education and information, and supports labelling products and services with their carbon footprint. In the case of flying, this would be eye-opening for many.
 
