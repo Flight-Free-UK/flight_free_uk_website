@@ -108,8 +108,6 @@ My family and friends were astonished that I travelled in this way. It would hav
 
 # Steve Masters, Newbury to Hendaye 
 
-*Finally, we hear from Steve. If you want low-carbon travel, look no further than the bicycle! Steve crossed the channel by ferry – always an exciting way to cross the sea, and certainly the easiest if you're travelling with a bike.* 
-
 A friend and I had decided to take on a cycling challenge: *Raid Pyrenean,* a 450-mile ride across the mountains from the Atlantic coast to the Mediterranean. The challenge is to do it in less than 100 hours.
 
 There were a variety of options for getting to the start line in Hendaye and as I needed a holiday I figured cycling down would be a nice way to do it.
