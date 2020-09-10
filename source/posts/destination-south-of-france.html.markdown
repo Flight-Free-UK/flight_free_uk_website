@@ -90,7 +90,7 @@ Bryony (mum): Timings are important, so it’s nice to chose a train that fits w
 
 You have to make the journey part of the holiday, rather than something to endure like flying. It’s a different mindset. With that, Luca and I are off to the buffet car to get a drink…
 
-**Deborah Tomkins, Bristol to Nice**
+# Deborah Tomkins, Bristol to Nice
 
 I was attending a conference at the A Rocha centre of Les Courmettes, about a half hour bus ride from Nice, up in the mountains.
 
@@ -102,7 +102,7 @@ We arrived in Nice very early in the morning as the sun was rising. It was amazi
 
 My family and friends were astonished that I travelled in this way. It would have taken less than two hours from Bristol airport (plus the waiting around, of course, and travel to and from both airports), and they clearly couldn’t understand why I would waste time travelling. But as well as the carbon emissions being so much lower, I have found that slow travel is a great way to get a feel of a place and the people, and to get a sense of how far away somewhere really is. There’s a world of difference between Bristol and Nice, and the difference unfolded gradually.
 
-**Steve Masters, Newbury to Hendaye (Pyrenees)**
+# Steve Masters, Newbury to Hendaye 
 
 *Finally, we hear from Steve. If you want low-carbon travel, look no further than the bicycle! Steve crossed the channel by ferry – always an exciting way to cross the sea, and certainly the easiest if you're travelling with a bike.* 
 
@@ -113,6 +113,8 @@ There were a variety of options for getting to the start line in Hendaye and as 
 From Newbury (West Berkshire) I cycled to Portsmouth to get the ferry to Cherbourg, which was the most cost-effective way of crossing the Channel. Over the next ten days I cycled south through France, between 45 and 97 miles per day, camping several times but also staying in B&Bs and with friends.
 
 After walking, cycling is the purest form of travel. I do a lot of thinking on the bike, and it is also at times meditative. Riding a touring bike is about finding a steady, modest pace. The landscape across France is extremely varied, from the rolling hills of Normandy to the flat western coastline in the Vendée region, and the vineyards around Bordeaux which give way to the vast forests north of the Gascogne. No other form of transport combines the speed and intimacy of the landscape like cycling.
+
+> "No other form of transport combines the speed and intimacy of the landscape like cycling."
 
 In Hendaye I rented an apartment for a week to rest before the mountain challenge. After finishing on the Mediterranean coast (459 miles completed in 86 hours!) I was dropped off in mid France and spent a week in a rented house with some friends. From there I took the train to Paris, another to Caen, then cycled to the overnight ferry back to the UK.
 
