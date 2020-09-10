@@ -50,23 +50,27 @@ The Eurostar return for two adults and two under-fours (including child seat for
 
 ![](/images/uploads/sandy-pics.jpeg "Sandy and family on their travels")
 
-**Eve Hart, Lancashire to Avignon**
+# Eve Hart, Lancashire to Avignon
 
 We live in Ramsbottom, a small town in the very north of Greater Manchester. It’s 944 miles from Avignon in the South of France, but our family holiday there by train was the most successful ever.
 
 Travelling with three children is stressful. We usually travel by car, and it always goes the same way: there is shouting, occasional throwing of things, and the person who didn’t go for a wee at the services needs us to stop again just as soon as we’ve got going. And then there was the year we were stuck in a massive traffic jam on the way to Caen and missed the ferry. Never again, we said through gritted teeth. But whilst the Lake District (a tolerable 90 minutes from home) offers a fab weekend away, we did want the chance of good weather, a pool and a new place to explore, so we checked out our options via train.
 
+> "Our family holiday to the South of France by train was the most successful ever."
+
 The south of France, accessible via Eurostar, seemed to offer everything we were looking for. We found a *gîte* (holiday home) with a shared pool on a family friendly farm, with the promise of medieval towns, canals and rivers and lots and lots of castles to explore. And whilst the weather can never truly be guaranteed, during the school summer holidays it was usual to find temperatures in the high 20s. We were sold, even if it did seem a very long way away.
 
 As it was, travelling overland cost less than the flights would have done, but did require some organisation. I booked our Eurostar tickets as soon as they went on sale (you can set an alert), and our tickets on the West Coast Mainline from Manchester to London cost just £50 with a Family Railcard.
 
-The seats on the Eurostar were large and comfortable, and with a table between us we could play cards or do craft activities. The children could get up and down and go to the loo as many times as they wanted. Despite the channel tunnel not being the experience our five year old had hoped for, there was lots to look at and everyone was remarkably happy. We’d spent far less than we would have done on five flights, and we’d had an adventure!
+> "Travelling overland cost less than the flights would have done, but did require some organisation."
 
-It’s only 27 miles from Ramsbottom to Manchester Airport and whilst we could still have seen the amazing Roman Pont du Gard, jumped in the pool, climbed up to Cathar Castles and paddled in the Herault river, we didn’t want to fly when there was an exciting alternative on offer. We so enjoyed our family time en route to France, and even with cancellations and delays on the way home, we’d certainly do it again.
+The seats on the Eurostar were large and comfortable, and with a table between us we could play cards or do craft activities. The children could get up and down and go to the loo as many times as they wanted. Despite the channel tunnel not being the experience our five year old had hoped for, there was lots to look at and everyone was remarkably happy. We’d spent far less than we would have done on five flights, and we’d had an adventure!
 
 ![](/images/uploads/eve-hart.jpg "Eve Hart and family in Avignon")
 
-**Rob Hughes, London to Carcassonne**
+It’s only 27 miles from Ramsbottom to Manchester Airport and whilst we could still have seen the amazing Roman Pont du Gard, jumped in the pool, climbed up to Cathar Castles and paddled in the Herault river, we didn’t want to fly when there was an exciting alternative on offer. We so enjoyed our family time en route to France, and even with cancellations and delays on the way home, we’d certainly do it again.
+
+# Rob Hughes, London to Carcassonne
 
 We’re going to a wedding near Carcassonne, and didn’t want to fly because “Flying burns more oil!” says Lola (age 4). It looks like a nice place, so we thought we’d make a holiday of it.
 
