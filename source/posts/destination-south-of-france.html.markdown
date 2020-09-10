@@ -10,11 +10,13 @@ summary: The glorious south of France is a popular holiday destination for its
 author: FlightFree UK
 read_time_minute: 5
 ---
-## Tom Barbour, Glasgow to the Alps
+# Tom Barbour, Glasgow to the Alps
 
 We were so pleased that we booked our half term ski trip by train (using [loco2.com](http://loco2.com), now Rail Europe). It cost more than flying – over twice as much – but that’s more of a result of a lack of taxes on flying than the train company’s fault. It’s not a level playing field.
 
 Travelling from Glasgow we had to go to London the night before, which added extra travel time and the cost of overnight accommodation. If you lived in London it would be a no-brainer. But I persuaded the kids that the travelling was part of the trip, which it is, and the train down from Scotland was quick and easy.
+
+![](/images/uploads/tom-barbour.jpeg "Tom Barbour visits the on-board cafe with his daughter ")
 
 Initially the kids were put off by the thought of the long journey by train, and missing out on the perceived glamour of flying. But flying isn’t really that glamorous, with long check-in times at airports, and being crammed into a small seat. The train was fantastic: so much legroom, great café on board, no hassles and better customer service. You could see the countryside flash by at 270 kmh and we chatted to the French families sitting across the table from us. My daughter said afterwards, “The train was actually quite good..”, which counts as high praise from a teenager!
 
@@ -22,11 +24,11 @@ Initially the kids were put off by the thought of the long journey by train, and
 
 I’ve written to the Scottish Government asking that they look into supporting direct trains from Glasgow and Edinburgh to Paris. That would really open up non-flying travel opportunities for Scots. The Scottish Transport Minister did write back to me saying that one of the reasons that sleeper trains from Scotland to Paris and beyond were impractical was due to competition from ‘low cost airlines.’ A frustrating and ludicrous response given that airport tax is a devolved matter that the Scottish Government could change and therefore tip the balance in favour of the train. Hopefully they’ll be reviewing this. But as for the actual travel, I much preferred it over flying, not just because of the emission reduction, but because it was fun.
 
-![](/images/uploads/tom-barbour.jpeg "Tom Barbour visits the on-board cafe with his daughter ")
-
-## Ruth Hancock, Devon to Pyrenees
+# Ruth Hancock, Devon to Pyrenees
 
 My partner and I go to the Pyrenees every summer for a walking holiday. From Devon it takes about three hours to get to London, then we go by Eurostar to Paris, Tarbes on the TGV then up into the hills by smaller trains and buses. For more remote road access we find hitching pretty quick. We find the public transport in France is well joined up, with the trains and buses all being run in synchronicity by SNCF.
+
+![](/images/uploads/pyrenees.jpg "The Pyrenees")
 
 We spend a couple of weeks backpacking, sometimes walking in and out of France and Spain a couple of times a day on the HRP (Haute Route Pyrenees) or using the GR 10 (French side route) or GR11 (Spanish side). We can do five or six nights wild camping, then drop down into a town for a shower at a campsite, a meal in a restaurant, and resupply with dry food for the next leg.
 
