@@ -56,6 +56,8 @@ The report is also very keen on education and information, and supports labellin
 
 The report confirms what we already know – the British love flying, and while we at Flight Free UK want them to give it up, or even think about cutting down, the majority are not there yet. There’s nothing in the report that contradicts our goal of creating a social shift towards other forms of travel, but it does confirm that there is lots more to do. 
 
-Most of the Assembly’s meetings took place before the coronavirus pandemic took hold, and some members did say towards the end of the process that the pandemic may have changed people’s flying habits for good. And they also strongly backed the principle of a green recovery, saying that any investment in high carbon industries should be limited or have conditions attached.
+> "The pandemic might have changed people’s flying habits for good."
+
+Most of the Assembly’s meetings took place before the coronavirus pandemic took hold, and some members did say towards the end of the process that the pandemic might have changed people’s flying habits for good. And they also strongly backed the principle of a green recovery, saying that any investment in high carbon industries should be limited or have conditions attached.
 
 Thank you, fellow citizens, for your work!
