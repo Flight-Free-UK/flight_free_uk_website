@@ -34,6 +34,8 @@ It is quite high, given that the government’s own current forecast of growth, 
 
 Assembly members called for investment in electric planes and synthetic fuels, even though they were presented with evidence that electric planes will do little to address the UK’s emissions (96% of the UK’s aviation emissions are from international flights, whereas electric planes will only be useful on short flights) and synthetic fuels are likely to be too expensive to be widely used. They also didn’t apparently take into account that, given that the life of a plane is around 25-30 years, many of the planes in use in 2050 will be built in the next five years, so we can’t rely on any technical solutions that are not already in the pipeline.
 
+> "Electric planes won't address the UK’s emissions as they are only useful on short flights, and synthetic fuels are likely to be too expensive to be widely used."
+
 ## Any good news?
 
 Yes, lots. Perhaps the most encouraging thing about the report is the way it provides a counterbalance to industry lobbying. There is an over-riding emphasis on fairness, and this is important because some of the solutions offered for aviation are likely to be expensive. Airlines are already arguing that biofuels and synthetic fuels should be subsidised by tax-payers to make them more competitive with fossil fuels. But this would be unfair, because the richest people in society fly far more than the poorest, so they would benefit the most from any subsidy. Assembly members backed the principle of ‘the polluter pays.’ 
