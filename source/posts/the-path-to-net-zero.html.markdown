@@ -14,13 +14,17 @@ read_time_minute: 4
 
 ## What’s a Climate Assembly? Is that like a citizens’ jury?
 
-Pretty much. The Climate Assembly UK is a group of 108 citizens, selected to mirror the population of the UK in age, gender, ethnicity, social class and views on climate change. It was set up at the request of six select committees of Parliament, and it met over a series of weekends earlier in 2020 to discuss how the UK should achieve its commitment to reach net zero carbon emissions by 2050. The Assembly received briefings by experts on different ways that net zero could be reached, and listened to advocates who presented contrasting visions of the way forward. You can watch these presentations [on the Assembly web site](https://www.climateassembly.uk/resources/). Their report is expected to help the select committees develop a consensus on a way forward that is acceptable to the British public.
+Pretty much. The Climate Assembly UK is a group of 108 citizens, selected to mirror the population of the UK in age, gender, ethnicity, social class and views on climate change. It was set up at the request of six select committees of Parliament, and it met over a series of weekends earlier in 2020 to discuss how the UK should achieve its commitment to reach net zero carbon emissions by 2050. 
+
+The Assembly received briefings by experts on different ways that net zero could be reached, and listened to advocates who presented contrasting visions of the way forward. You can watch these presentations [on the Assembly web site](https://www.climateassembly.uk/resources/). Their report is expected to help the select committees develop a consensus on a way forward that is acceptable to the British public.
 
 ## What did it talk about? Is it going to change government policy?
 
-The Assembly doesn’t decide policy and can’t tell the government what to do, but it gives policy makers an insight into how the public are thinking, or would think, if they had all the right information. The Assembly considered the areas of transport, housing, food and agriculture, consumption, and energy, and gave special attention to greenhouse gas removals. Their conclusions show that the people of the UK are far more on-board with climate change solutions than the skeptics who, until recently at least, commanded so much media attention. And yet some of the recommendations also show that the Assembly found it difficult to confront tough choices. Aviation is an example.
+The Assembly doesn’t decide policy and can’t tell the government what to do, but it gives policy makers an insight into how the public are thinking, or would think, if they had all the right information. The Assembly considered the areas of transport, housing, food and agriculture, consumption, and energy, and gave special attention to greenhouse gas removals. 
 
 > "The people of the UK are far more on-board with climate change solutions than the skeptics who command so much media attention."
+
+Their conclusions show that the people of the UK are far more on-board with climate change solutions than the skeptics who, until recently at least, commanded so much media attention. And yet some of the recommendations also show that the Assembly found it difficult to confront tough choices. Aviation is an example.
 
 ## Go on then, what did they say about aviation?
 
