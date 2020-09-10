@@ -44,11 +44,13 @@ We travel to Juan Les Pins at least once a year as our family has a place there.
 
 We thought about driving but our youngest daughter (6 months) really does not deal with driving well. Therefore we decided train would be best: I'm originally from Scotland but live in London, and in the past we have found the train up to Scotland to be great with a young family. The toddler can walk up and down the carriage and it means both parents are free to entertain. So we found the direct St Pancras-Marseille train and booked that.
 
+![](/images/uploads/sandy-pics.jpeg "Sandy and family on their travels")
+
 The queue for the Eurostar was a bit of a crush but we were through passport control relatively quickly – much easier than at an airport. It was very comfortable on the Eurostar even though we didn’t get a table seat, and it’s lovely to be able to walk to the cafe car. Changing at Marseille was easy, and we boarded a spacious and air conditioned Thello train. It’s a great way to travel and our toddler loves it, and it still feels like a bit of an adventure as well.
 
-The Eurostar return for two adults and two under-fours (including child seat for toddler which made it much more comfortable but isn’t required) was £398. It cost us £8.60 to get to St Pancras, and a further £117.06 for the Marseille-Juan Les Pins return. Total £523.66 return – which would have been cheaper had I remembered to book earlier!
+> "It’s a great way to travel and our toddler loves it, and it still feels like a bit of an adventure as well."
 
-![](/images/uploads/sandy-pics.jpeg "Sandy and family on their travels")
+The Eurostar return for two adults and two under-fours (including child seat for toddler which made it much more comfortable but isn’t required) was £398. It cost us £8.60 to get to St Pancras, and a further £117.06 for the Marseille-Juan Les Pins return. Total £523.66 return – which would have been cheaper had I remembered to book earlier!
 
 # Eve Hart, Lancashire to Avignon
 
@@ -77,6 +79,8 @@ We’re going to a wedding near Carcassonne, and didn’t want to fly because �
 We’ve taken a fair few flights as a family (we lived in Zambia for two years), but are now trying to do all family holidays by ground travel only. So far, we’ve been by train/boat/bike to Denmark, Netherlands, Belgium, Italy, Isle of Man, Scotland (day and night trains) and Spain.
 
 I want the government to actually stop ignoring the climate crisis. While I know our personal choices are only a small gesture (especially when flying is often cheaper), it feels better to be practicing what we preach. And in many ways it’s a much nicer way to travel.
+
+> "Our personal choices are only a small gesture but it feels better to be practicing what we preach."
 
 We’re taking the sleeper train down through France because the TGV after the Eurostar in one day would be quite a long sedentary day. This way, we get to have a couple of hours on the train, dinner in Paris, then sleep while we travel south. Luca (age 6) says the best part of taking a sleeper train is “Staying up late!”
 
