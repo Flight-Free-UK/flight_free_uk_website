@@ -76,6 +76,8 @@ It’s only 27 miles from Ramsbottom to Manchester Airport and whilst we could s
 
 We’re going to a wedding near Carcassonne, and didn’t want to fly because “Flying burns more oil!” says Lola (age 4). It looks like a nice place, so we thought we’d make a holiday of it.
 
+![Carcasonne](/images/uploads/carcasonne.jpg "Carcasonne")
+
 We’ve taken a fair few flights as a family (we lived in Zambia for two years), but are now trying to do all family holidays by ground travel only. So far, we’ve been by train/boat/bike to Denmark, Netherlands, Belgium, Italy, Isle of Man, Scotland (day and night trains) and Spain.
 
 I want the government to actually stop ignoring the climate crisis. While I know our personal choices are only a small gesture (especially when flying is often cheaper), it feels better to be practicing what we preach. And in many ways it’s a much nicer way to travel.
