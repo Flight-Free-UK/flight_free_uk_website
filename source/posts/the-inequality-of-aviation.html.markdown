@@ -21,7 +21,7 @@ Let’s start with taxation. By international agreement, [aviation fuel is not t
 
 The ‘free ride’ that airlines enjoy because of this tax exemption adds up to the tune of £7bn per year – enough to slash train fares by 2/3rds if it were invested in rail, [according to climate charity Possible](https://twitter.com/FlightFree2020/status/1273882897427116035?s=20).
 
-> "Those who choose not to fly, or are unable to fly because of cost or circumstance, are subsidising the flights of the few."
+> "Those who choose not to fly are subsidising the flights of the few."
 
 Governments depend on taxation to fund the things that the state needs, such as health care and housing. If it’s not coming from taxes raised through industry it is coming from us, ordinary tax payers. This means that those who choose not to fly, or are unable to fly because of cost or circumstance, are subsidising the flights of the few. Those who don’t use luxury travel are paying for others to access it instead.
 
