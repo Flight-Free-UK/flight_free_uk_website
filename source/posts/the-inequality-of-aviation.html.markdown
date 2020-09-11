@@ -27,7 +27,7 @@ Governments depend on taxation to fund the things that the state needs, such as 
 
 Then there's the global issue of climate change. It’s a grave injustice that the people who are already suffering the devastating effects of a changing climate are the least responsible for causing it. Here in the west we are already seeing the early effects of global heating: warmer winters, unpredictable weather, increased chance and severity of wildfires, and difficulty in reliably growing crops. Yet people across the global south have been suffering this reality for years – it is they, not us, who are forced to flee their homes and see their children starve. This is happening right now, and it is largely caused by our high-carbon, high consumption western lifestyles.
 
-> "The people who are already suffering the devastating effects of a changing climate are the least responsible for causing it."
+> "The people who are already suffering the effects of climate change are the least responsible for causing it."
 
 There are parallels with the current coronavirus pandemic: the activity of the privileged few disadvantages us all. The Covid-19 outbreak started for many reasons, but its rapid spread around the globe was down to one thing: air travel. As the virus continues to spread, lockdowns continue. We are all being restricted in our freedoms because of an activity enjoyed by a relative few. Not all of us fly, but we all pay the price. 
 
