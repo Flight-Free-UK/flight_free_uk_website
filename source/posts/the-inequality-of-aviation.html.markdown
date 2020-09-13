@@ -33,4 +33,4 @@ There are parallels with the current coronavirus pandemic. The Covid-19 outbreak
 
 > "Not all of us fly, but we all pay the price." 
 
-Now, more than ever, we need to seriously consider our use of flights. Yes, for the emissions. Yes, to curb the spread of coronavirus. But mostly because we should understand how privileged we are to access air travel in the first place. To mis-quote a phrase, with great privilege comes great responsibility, and it's up to us to demonstrate that responsibility to the planet, and to each other.
+Now, more than ever, we need to seriously consider our use of flights. Yes, for the emissions. Yes, to curb the spread of coronavirus. But mostly because we should understand how privileged we are to access air travel in the first place. To mis-quote a phrase, with great privilege comes great responsibility, and now would be a good time to start demonstrating that responsibility to the planet, and to each other.
