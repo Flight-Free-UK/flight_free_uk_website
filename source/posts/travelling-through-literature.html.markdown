@@ -33,15 +33,19 @@ There are plenty of places we want to explore – and we can still do so, throug
 
 #### summarised by Maggie Robertson
 
-The Leopard is a deeply thoughtful novel, concerned with change, mortality, and the meaning (or otherwise) of existence. But how well does it substitute for a visit to Sicily? Giuseppe Tomasi was himself a Sicilian prince, which gives his book undeniable authority. He describes a society where a legacy of classical Greek and Roman culture collides with Catholic devotion, things that still define Sicily today.
+The Leopard is a deeply thoughtful novel, concerned with change, mortality, and the meaning (or otherwise) of existence. But how well does it substitute for a visit to Sicily? 
+
+Giuseppe Tomasi was himself a Sicilian prince, which gives his book undeniable authority. He describes a society where a legacy of classical Greek and Roman culture collides with Catholic devotion, things that still define Sicily today.
 
 Descriptions of stony hilltops and scented flower gardens serve as metaphors for the declining power of the aristocracy. Perhaps we should not take them literally. On the other hand, the writer’s cynicism towards political institutions at the birth of the nation is itself an insight into Italy’s political culture.
 
 No week-long holiday could give you the sense of the changing seasons conveyed by this book. The merciless heat of the six-month summer, as oppressive as a Russian winter, when autumn rains are yearned for. November gales are followed by the St Martin’s summer, ‘weather luminous and blue’.
 
+> No week-long holiday could give you the sense of the changing seasons conveyed by this book.
+
 It’s a novel of a society contemplating overwhelming change. Remind you of anywhere? ‘If we want things to stay as they are,’ the young Tancredi tells his uncle, the Prince of Salina, ‘things will have to change’. A great line to remember when you see your climate-denying relatives again.
 
-*When the sportsmen reached the top of the hill, there among the tamarisk and scattered cork-trees appeared the real Sicily again, the one compared to which the baroque towns and orange groves are mere trifles: aridly undulating to the horizon in hillock after hillock, comfortless and irrational, with no lines that the mind could grasp, conceived apparently in a delirious moment of creation; a sea suddenly petrified at the instant when a change of wind had flung the waves into a frenzy. Donnafugata lay huddled and hidden in an anonymous fold of the ground, and not a living soul was to be seen; the only signs of the passage of man were scraggy rows of vines. Beyond the hills on one side was the indigo smudge of the sea, more mineral and barren, even, than the land.*
+*"When the sportsmen reached the top of the hill, there among the tamarisk and scattered cork-trees appeared the real Sicily again, the one compared to which the baroque towns and orange groves are mere trifles: aridly undulating to the horizon in hillock after hillock, comfortless and irrational, with no lines that the mind could grasp, conceived apparently in a delirious moment of creation; a sea suddenly petrified at the instant when a change of wind had flung the waves into a frenzy. Donnafugata lay huddled and hidden in an anonymous fold of the ground, and not a living soul was to be seen; the only signs of the passage of man were scraggy rows of vines. Beyond the hills on one side was the indigo smudge of the sea, more mineral and barren, even, than the land."*
 
 ![](/images/uploads/theleopard.jpg "The Leopard. Image from bbc.co.uk")
 
