@@ -49,7 +49,7 @@ It’s a novel of a society contemplating overwhelming change. Remind you of any
 
 *"When the sportsmen reached the top of the hill, there among the tamarisk and scattered cork-trees appeared the real Sicily again, the one compared to which the baroque towns and orange groves are mere trifles: aridly undulating to the horizon in hillock after hillock, comfortless and irrational, with no lines that the mind could grasp, conceived apparently in a delirious moment of creation; a sea suddenly petrified at the instant when a change of wind had flung the waves into a frenzy.* 
 
-*Donnafugata lay huddled and hidden in an anonymous fold of the ground, and not a living soul was to be seen; the only signs of the passage of man were scraggy rows of vines. Beyond the hills on one side was the indigo smudge of the sea, more mineral and barren, even, than the land."*
+*"Donnafugata lay huddled and hidden in an anonymous fold of the ground, and not a living soul was to be seen; the only signs of the passage of man were scraggy rows of vines. Beyond the hills on one side was the indigo smudge of the sea, more mineral and barren, even, than the land."*
 
 ## The Sledge Patrol, by David Haworth
 
