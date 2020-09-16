@@ -83,9 +83,11 @@ Rahel and Estha are twins, finishing each other's sentences in their secret lang
 
 Kerala is known as God's Own Country, on the coast of South India, famous for its spice, natural diversity, food and waterfalls. Roy sprinkles touches of India and its dialect throughout her dark and tragic story – as authentic and realistic as any journey there, and a narrative that will linger in the mind long after the reader has left.
 
-*May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dustgreen trees. Red bananas ripen. Jackfruits burst. Dissolute bluebottles hum vacuously in the fruity air. Then they stun themselves against clear windowpanes and die, fatly baffled in the sun.*
+> *"Roy sprinkles touches of India throughout her story as authentic and realistic as any journey there"*
 
-*But by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.*
+*"May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dustgreen trees. Red bananas ripen. Jackfruits burst. Dissolute bluebottles hum vacuously in the fruity air. Then they stun themselves against clear windowpanes and die, fatly baffled in the sun.*
+
+*"But by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways."*
 
 ![](/images/uploads/kerala.jpg "Kerala. Photo from audleytravel.com")
 
