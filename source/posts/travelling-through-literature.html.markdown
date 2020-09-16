@@ -19,7 +19,7 @@ Instead of taking a long haul flight to India (emissions 2 tonnes of CO2), you c
 
 Instead of an American road trip (emissions 2.8 tonnes of CO2 per person), treat yourself to a journey through the Great American Novel (zero emissions if you borrow them from the library). Tour operators might try to give you an authentic experience of the country, but reading books, especially by someone from that place, will give you a perspective that a holiday cannot possibly match.
 
-> Instead of taking a flight to India (2 tonnes CO2), you could read a novel by an Indian writer (1 kg CO2)
+> *Instead of taking a flight to India (2 tonnes CO2), you could read a novel by an Indian writer (1 kg CO2)*
 
 In the UK we love our holidays abroad. The places we choose to visit become part of our identity, a form of self expression. That's not new. Ever since wealthy eighteenth century Brits toured Europe and filled their houses with the art they acquired, we have used travel to cement our social status. But the books you have read are also a great way to show where you are coming from, and where you are heading. Books can change you, just as travel can.
 
@@ -51,21 +51,31 @@ It’s a novel of a society contemplating overwhelming change. Remind you of any
 
 *"Donnafugata lay huddled and hidden in an anonymous fold of the ground, and not a living soul was to be seen; the only signs of the passage of man were scraggy rows of vines. Beyond the hills on one side was the indigo smudge of the sea, more mineral and barren, even, than the land."*
 
-## The Sledge Patrol, by David Haworth
+## The Sledge Patrol
 
-#### summarised by Sean Bolton
+### by David Haworth
+
+~ summarised by Sean Bolton
 
 Few of us will ever travel to such a remote place on earth: a harsh world of ice sheets that extend far beyond the horizon, and high glacial mountain ranges which are impassable except to the most experienced sledge driver. The ever present dangers of thin ice, sub zero temperatures, snow storms and polar bears are the ultimate test of human endurance and survival. In this world any small mistake can have extreme consequences.
 
-The Sledge Patrol tells the true story of wartime survival, with Danish and Norwegian dogsled hunters patrolling the 500-mile sparsely-habited coast of Greenland against unlikely invasion by Nazi forces. The two main characters are the Norwegian Poulsen and the German Ritter. Poulsen is a quiet young man, the son of a Danish bookseller who had experience as a radio operator in the arctic and applied for the post in Greenland for solitude and adventure in the arctic wilderness away from the war. Ritter is a similar character to Poulsen, cast into a war he didn't want and suspicious of his Nazi commanders whom he has little option but to obey and pacify.
+> *"Few of us will ever travel to such a remote place on earth..."*
 
-*They travelled as if they were in a dream. One must picture each of them ski-ing beside his sledge on the vast expanses of frozen fjord below the dark loom of mountains which have never been explored, the only moving thing in the ice-bound starlit landscape; the rumble of the sledge, the panting of the dogs, an occasional call from the man or a crack of the whip breaking a whole winter’s silence. When they lay out through blizzards in their tents, they were wholly preoccupied with the details of keeping alive. In the huts, when the weather was still, the dogs howling outside in the crackling frost were their only companions, ten individual likeable personalities. They talked to the dogs because there was nobody else to talk to. The things which occupied their thoughts, the true realities, had nothing to do with war: they were only the weather, the dogs, and the hunting; hunting for food for themselves and the dogs and for fox furs and bear skins which one day they might be able to sell.*
+The Sledge Patrol tells the true story of wartime survival, with Danish and Norwegian dogsled hunters patrolling the 500-mile sparsely-habited coast of Greenland against unlikely invasion by Nazi forces. The two main characters are the Norwegian Poulsen and the German Ritter. Poulsen is a quiet young man, the son of a Danish bookseller who had experience as a radio operator in the arctic and applied for the post in Greenland for solitude and adventure in the arctic wilderness away from the war. Ritter is a similar character to Poulsen, cast into a war he didn't want and suspicious of his Nazi commanders whom he has little option but to obey and pacify.
 
 ![](/images/uploads/greenlandsledge.jpg "Greenland sled dogs. Image from thebark.com")
 
-## The God of Small things, by Arundhati Roy
+*"They travelled as if they were in a dream. One must picture each of them ski-ing beside his sledge on the vast expanses of frozen fjord below the dark loom of mountains which have never been explored, the only moving thing in the ice-bound starlit landscape; the rumble of the sledge, the panting of the dogs, an occasional call from the man or a crack of the whip breaking a whole winter’s silence.* 
 
-#### summarised by Anna Hughes
+*"When they lay out through blizzards in their tents, they were wholly preoccupied with the details of keeping alive. In the huts, when the weather was still, the dogs howling outside in the crackling frost were their only companions, ten individual likeable personalities. They talked to the dogs because there was nobody else to talk to.* 
+
+*"The things which occupied their thoughts, the true realities, had nothing to do with war: they were only the weather, the dogs, and the hunting; hunting for food for themselves and the dogs and for fox furs and bear skins which one day they might be able to sell."*
+
+## The God of Small things
+
+### by Arundhati Roy
+
+~ summarised by Anna Hughes
 
 This is India in a book. Set in Kerala with its backwaters and monsoon-lush landscapes, Roy gives poetic, vibrant and evocative descriptions of the river, the heat, the mango trees and the humidity. Her writing pulls and tugs at the language, an immersive style emulated by many since.
 
