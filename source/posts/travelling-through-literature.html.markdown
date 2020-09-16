@@ -37,7 +37,7 @@ The Leopard is a deeply thoughtful novel, concerned with change, mortality, and 
 
 Giuseppe Tomasi was himself a Sicilian prince, which gives his book undeniable authority. He describes a society where a legacy of classical Greek and Roman culture collides with Catholic devotion, things that still define Sicily today.
 
-![](/images/uploads/theleopard.jpg "The Leopard. Image from bbc.co.uk")
+![](/images/uploads/theleopard.jpg "The Leopard by Giuseppe Tomasi di Lampedusa. Image from bbc.co.uk")
 
 Descriptions of stony hilltops and scented flower gardens serve as metaphors for the declining power of the aristocracy. Perhaps we should not take them literally. On the other hand, the writer’s cynicism towards political institutions at the birth of the nation is itself an insight into Italy’s political culture.
 
