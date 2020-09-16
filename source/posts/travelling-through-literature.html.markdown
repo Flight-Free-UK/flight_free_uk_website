@@ -27,7 +27,9 @@ As the coronavirus pandemic is preventing us from travelling freely, it is a per
 
 There are plenty of places we want to explore – and we can still do so, through books.
 
-## The Leopard, by Giuseppe Tomasi di Lampedusa, translated by Archibald Colqhoun
+## The Leopard
+
+### *~ Giuseppe Tomasi di Lampedusa, translated by Archibald Colqhoun*
 
 #### summarised by Maggie Robertson
 
