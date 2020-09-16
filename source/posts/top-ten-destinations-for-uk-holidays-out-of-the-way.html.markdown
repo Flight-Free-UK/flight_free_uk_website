@@ -102,6 +102,8 @@ Tenby has plenty of attractions and amenities, including the oldest independent 
 
 Conwy is one of Britain’s best-preserved medieval towns, where ancient stone walls enclose a site full of history. Exploring the amazing thirteenth-century [castle](https://cadw.gov.wales/visit/places-to-visit/conwy-castle), a World Heritage Site, is a must, as is a visit to the [smallest house ](http://www.thesmallesthouse.co.uk/)in the UK! Other attractions include the beautiful riverfront and the [Conwy Suspension Bridge](https://www.visitconwy.org.uk/things-to-do/conwy-suspension-bridge-and-tollkeepers-house-p277631). The town is  located right next to Great Orme’s Head, a massive headland carved out of carboniferous limestone and designated a Special Area of Conservation. Try your hand at [fossil hunting ](https://ukfossils.co.uk/2008/03/22/great-ormes-head/)among the natural exposes and quarry faces, which are packed with brachiopods and corals. 
 
+> "Exploring the amazing thirteenth-century castle, a World Heritage Site, is a must, as is a visit to the smallest house in the UK."
+
 To get to Conwy, take the train and change at Chester. The railway follows the coast through many north Wales beach resorts with fabulous views across the sea. Chester itself is also worth a look around, with a thriving Tudor high street, so we recommend taking extra time for your connection.
 
 ![Conwy Castle](/images/uploads/conwy.jpg "Conwy Castle, image from sykescottages.co.uk")
