@@ -43,7 +43,7 @@ Descriptions of stony hilltops and scented flower gardens serve as metaphors for
 
 No week-long holiday could give you the sense of the changing seasons conveyed by this book. The merciless heat of the six-month summer, as oppressive as a Russian winter, when autumn rains are yearned for. November gales are followed by the St Martin’s summer, ‘weather luminous and blue’.
 
-> No week-long holiday could give you the sense of the changing seasons conveyed by this book.
+> *No week-long holiday could give you the sense of the changing seasons conveyed by this book.*
 
 It’s a novel of a society contemplating overwhelming change. Remind you of anywhere? ‘If we want things to stay as they are,’ the young Tancredi tells his uncle, the Prince of Salina, ‘things will have to change’. A great line to remember when you see your climate-denying relatives again.
 
