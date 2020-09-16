@@ -25,7 +25,7 @@ As the coronavirus pandemic is preventing us from travelling freely, it is a per
 
 There are plenty of places we still want to explore – through books.
 
-## The Leopard, by Giuseppe Tomasi di Lampedusa, translated by Archibald Colqhoun 
+## The Leopard, by Giuseppe Tomasi di Lampedusa, translated by Archibald Colqhoun
 
 #### summarised by Maggie Robertson
 
@@ -37,11 +37,11 @@ No week-long holiday could give you the sense of the changing seasons conveyed b
 
 It’s a novel of a society contemplating overwhelming change. Remind you of anywhere? ‘If we want things to stay as they are,’ the young Tancredi tells his uncle, the Prince of Salina, ‘things will have to change’. A great line to remember when you see your climate-denying relatives again.
 
-> *When the sportsmen reached the top of the hill, there among the tamarisk and scattered cork-trees appeared the real Sicily again, the one compared to which the baroque towns and orange groves are mere trifles: aridly undulating to the horizon in hillock after hillock, comfortless and irrational, with no lines that the mind could grasp, conceived apparently in a delirious moment of creation; a sea suddenly petrified at the instant when a change of wind had flung the waves into a frenzy. Donnafugata lay huddled and hidden in an anonymous fold of the ground, and not a living soul was to be seen; the only signs of the passage of man were scraggy rows of vines. Beyond the hills on one side was the indigo smudge of the sea, more mineral and barren, even, than the land.*
+*When the sportsmen reached the top of the hill, there among the tamarisk and scattered cork-trees appeared the real Sicily again, the one compared to which the baroque towns and orange groves are mere trifles: aridly undulating to the horizon in hillock after hillock, comfortless and irrational, with no lines that the mind could grasp, conceived apparently in a delirious moment of creation; a sea suddenly petrified at the instant when a change of wind had flung the waves into a frenzy. Donnafugata lay huddled and hidden in an anonymous fold of the ground, and not a living soul was to be seen; the only signs of the passage of man were scraggy rows of vines. Beyond the hills on one side was the indigo smudge of the sea, more mineral and barren, even, than the land.*
 
 ![](/images/uploads/theleopard.jpg "The Leopard. Image from bbc.co.uk")
 
-## The Sledge Patrol, by David Haworth 
+## The Sledge Patrol, by David Haworth
 
 #### summarised by Sean Bolton
 
@@ -49,11 +49,11 @@ Few of us will ever travel to such a remote place on earth: a harsh world of ice
 
 The Sledge Patrol tells the true story of wartime survival, with Danish and Norwegian dogsled hunters patrolling the 500-mile sparsely-habited coast of Greenland against unlikely invasion by Nazi forces. The two main characters are the Norwegian Poulsen and the German Ritter. Poulsen is a quiet young man, the son of a Danish bookseller who had experience as a radio operator in the arctic and applied for the post in Greenland for solitude and adventure in the arctic wilderness away from the war. Ritter is a similar character to Poulsen, cast into a war he didn't want and suspicious of his Nazi commanders whom he has little option but to obey and pacify.
 
-> *They travelled as if they were in a dream. One must picture each of them ski-ing beside his sledge on the vast expanses of frozen fjord below the dark loom of mountains which have never been explored, the only moving thing in the ice-bound starlit landscape; the rumble of the sledge, the panting of the dogs, an occasional call from the man or a crack of the whip breaking a whole winter’s silence. When they lay out through blizzards in their tents, they were wholly preoccupied with the details of keeping alive. In the huts, when the weather was still, the dogs howling outside in the crackling frost were their only companions, ten individual likeable personalities. They talked to the dogs because there was nobody else to talk to. The things which occupied their thoughts, the true realities, had nothing to do with war: they were only the weather, the dogs, and the hunting; hunting for food for themselves and the dogs and for fox furs and bear skins which one day they might be able to sell.*
+*They travelled as if they were in a dream. One must picture each of them ski-ing beside his sledge on the vast expanses of frozen fjord below the dark loom of mountains which have never been explored, the only moving thing in the ice-bound starlit landscape; the rumble of the sledge, the panting of the dogs, an occasional call from the man or a crack of the whip breaking a whole winter’s silence. When they lay out through blizzards in their tents, they were wholly preoccupied with the details of keeping alive. In the huts, when the weather was still, the dogs howling outside in the crackling frost were their only companions, ten individual likeable personalities. They talked to the dogs because there was nobody else to talk to. The things which occupied their thoughts, the true realities, had nothing to do with war: they were only the weather, the dogs, and the hunting; hunting for food for themselves and the dogs and for fox furs and bear skins which one day they might be able to sell.*
 
 ![](/images/uploads/greenlandsledge.jpg "Greenland sled dogs. Image from thebark.com")
 
-## The God of Small things, by Arundhati Roy 
+## The God of Small things, by Arundhati Roy
 
 #### summarised by Anna Hughes
 
@@ -63,13 +63,13 @@ Rahel and Estha are twins, finishing each other's sentences in their secret lang
 
 Kerala is known as God's Own Country, on the coast of South India, famous for its spice, natural diversity, food and waterfalls. Roy sprinkles touches of India and its dialect throughout her dark and tragic story – as authentic and realistic as any journey there, and a narrative that will linger in the mind long after the reader has left.
 
-> *May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dustgreen trees. Red bananas ripen. Jackfruits burst. Dissolute bluebottles hum vacuously in the fruity air. Then they stun themselves against clear windowpanes and die, fatly baffled in the sun.*
->
-> *But by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.*
+*May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dustgreen trees. Red bananas ripen. Jackfruits burst. Dissolute bluebottles hum vacuously in the fruity air. Then they stun themselves against clear windowpanes and die, fatly baffled in the sun.*
+
+*But by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways.*
 
 ![](/images/uploads/kerala.jpg "Kerala. Photo from audleytravel.com")
 
-## Half of a Yellow Sun, by Chimamanda Ngozi Adichie 
+## Half of a Yellow Sun, by Chimamanda Ngozi Adichie
 
 #### summarised by Maggie Robertson
 
@@ -79,6 +79,6 @@ Olanna and Kainene are wealthy sisters. They went to a school in Lagos so exclus
 
 Both Ugwu and Olanna struggle with the gulf between the life of educated city dwellers, and the traditional village life, where magic is as real as the earth floor beneath your feet. The divisions of class, identity and nationalism lie heavy in the novel, as increasingly they seem to do in our own politics too.
 
-> *She (Olanna) felt a sense that things were in order, the way they were meant to be, and that even if they tumbled down once in a while, in the end they would come back together again. This was why she came to Kano: this lucid peace. When Aunty Ifeka’s eyes began to dart around the yard, she knew it was in search of a suitable chicken. Aunty Ifeka always killed one when she visited even if it was the last she owned, sauntering around the yard, its feathers marked with a splash or two of red paint to distinguish it from the neighbours’ chickens, which had bits of cloth tied to their wings or paint of a different colour. Olanna no longer protested about the chicken, just as she no longer protested when Uncle Mbaezi and Aunty Ifeka slept on mats, next to the many relatives who always seemed to be staying with them, so that she could have their bed.*
+*She (Olanna) felt a sense that things were in order, the way they were meant to be, and that even if they tumbled down once in a while, in the end they would come back together again. This was why she came to Kano: this lucid peace. When Aunty Ifeka’s eyes began to dart around the yard, she knew it was in search of a suitable chicken. Aunty Ifeka always killed one when she visited even if it was the last she owned, sauntering around the yard, its feathers marked with a splash or two of red paint to distinguish it from the neighbours’ chickens, which had bits of cloth tied to their wings or paint of a different colour. Olanna no longer protested about the chicken, just as she no longer protested when Uncle Mbaezi and Aunty Ifeka slept on mats, next to the many relatives who always seemed to be staying with them, so that she could have their bed.*
 
 ![](/images/uploads/half-a-yello-sun.jpg "Artwork by Antonia Weishaupt on jtofashion.com")
