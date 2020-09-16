@@ -33,11 +33,11 @@ There are plenty of places we want to explore – and we can still do so, throug
 
 ~ summarised by Maggie Robertson
 
-![](/images/uploads/theleopard.jpg "The Leopard. Image from bbc.co.uk")
-
 The Leopard is a deeply thoughtful novel, concerned with change, mortality, and the meaning (or otherwise) of existence. But how well does it substitute for a visit to Sicily? 
 
 Giuseppe Tomasi was himself a Sicilian prince, which gives his book undeniable authority. He describes a society where a legacy of classical Greek and Roman culture collides with Catholic devotion, things that still define Sicily today.
+
+![](/images/uploads/theleopard.jpg "The Leopard. Image from bbc.co.uk")
 
 Descriptions of stony hilltops and scented flower gardens serve as metaphors for the declining power of the aristocracy. Perhaps we should not take them literally. On the other hand, the writer’s cynicism towards political institutions at the birth of the nation is itself an insight into Italy’s political culture.
 
