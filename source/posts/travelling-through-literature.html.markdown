@@ -19,7 +19,7 @@ Instead of taking a long haul flight to India (emissions 2 tonnes of CO2), you c
 
 Instead of an American road trip (emissions 2.8 tonnes of CO2 per person), treat yourself to a journey through the Great American Novel (zero emissions if you borrow them from the library). Tour operators might try to give you an authentic experience of the country, but reading books, especially by someone from that place, will give you a perspective that a holiday cannot possibly match.
 
-> Instead of taking a flight to India (2 tonnes CO2), you could read a novel by an Indian writer (emissions of a paperback book: 1 kg of CO2)
+> Instead of taking a flight to India (2 tonnes CO2), you could read a novel by an Indian writer (1 kg CO2)
 
 In the UK we love our holidays abroad. The places we choose to visit become part of our identity, a form of self expression. That's not new. Ever since wealthy eighteenth century Brits toured Europe and filled their houses with the art they acquired, we have used travel to cement our social status. But the books you have read are also a great way to show where you are coming from, and where you are heading. Books can change you, just as travel can.
 
