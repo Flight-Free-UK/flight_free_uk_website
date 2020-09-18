@@ -10,13 +10,19 @@ summary: "Lockdown has been really difficult for lots of us. But has being
 author: FlightFree UK
 read_time_minute: 3
 ---
-Air travel has given us the whole world at our fingertips. We think of holidays and we book our flight – it is how a whole generation has been brought up. But the coronavirus pandemic has brought an abrupt end to all that, and has taken it to an extreme – not just forced out of the sky, we are confined to the small locality of our own neighbourhoods.
+Air travel has given us the whole world at our fingertips. We think of holidays and we book our flight – it is how a whole generation has been brought up. But the coronavirus pandemic has brought an abrupt end to all that, and has taken it to an extreme – not just forced out of the sky, we are confined to the locality of our own neighbourhoods.
+
+![](/images/uploads/lockdown.jpeg "Discovering bird tracks")
 
 It's hugely difficult for a large number of people. We humans are social creatures and being unable to see friends or family, or reach out and touch and hug them, is hard for most. But there is an unexpected bonus. Forced to stay close to home, we have discovered the delights of our local area. We have learned to enjoy being still. We have got to know our neighbours better.
 
+> *"Forced to stay close to home, we have discovered the delights of our local area. We have learned to enjoy being still."*
+
 Take away the ‘forced’ element, and this is what we encourage at Flight Free UK. Not flying doesn’t mean we can't access excitement and adventure, or discover new cultures or breathtaking landscapes. It just requires a switch in mindset. Could you swap Bali for southern France? Jamaica for the Isles of Scilly? The treasures under our noses are easily missed if we’re constantly jetting off somewhere else.
 
-In order to make that shift, it helps to take some time out in order to re-imagine our world and re-learn what we want. That’s the idea behind our ‘year off’: a way to break a habit and discover what else is out there. And while we haven’t chosen coronavirus, we can choose not to fly, and when we do, a whole world of wonder is opened to us.
+In order to make that shift, it helps to take some time out in order to re-imagine our world and re-learn what we want. That’s the idea behind our ‘year off’: a way to break a habit and discover what else is out there. And while we haven’t chosen coronavirus, we can choose not to fly, and when we do, a whole world is opened to us.
+
+> *"The treasures under our noses are easily missed if we’re constantly jetting off somewhere else."*
 
 Our must-have-everything-now society feeds into the jet set mindset, the 100mph life. Perhaps a positive of the lockdown is that we’ve been forced to have a break. Perhaps something of it will stick.
 
@@ -42,10 +48,10 @@ In this difficult time, it's good to share the positives. What have you found po
 
 *‘Usually, we would just go to the pub. Now we go to the park and go for bike rides and see more and discover more.’*
 
-*'After the ending of a long-term relationship in February, I moved back to a house I’d owned for 25 years but had rented out for the past 12. I’d never liked this place and had thought that I’d sell it and move elsewhere; somewhere ‘better’. Being forced to stay put for 5 months has made me reconsider.*
+*'After the ending of a long-term relationship in February, I moved back to a house I’d owned for 25 years but had rented out for the past 12. I’d never liked this place and had thought that I’d sell it and move elsewhere; somewhere ‘better’. Being forced to stay put for 5 months has made me reconsider.'*
 
-*I created a short stretch of flowerbed from the arid clay and builder’s rubble that forms this property’s front garden. I planted five plants this week and found myself repeatedly looking at them, amazed at how beautiful they are.*
+*'I created a short stretch of flowerbed from the arid clay and builder’s rubble that forms this property’s front garden. I planted five plants this week and found myself repeatedly looking at them, amazed at how beautiful they are.'*
 
-*Perhaps putting energy into this house, street and place can make the place that I need rather than putting energy into yearning for something I haven’t got. Perhaps I can make this ‘somewhere better’?'*
+*'Perhaps putting energy into this house, street and place can make the place that I need rather than putting energy into yearning for something I haven’t got. Perhaps I can make this ‘somewhere better’?'*
 
-Would you like to send us your positive lockdown experiences? Get in touch: [info@flightfree.co.uk](mailto:info@flightfree.co.uk)
+Do you have a positive lockdown experience to share? Get in touch: [info@flightfree.co.uk](mailto:info@flightfree.co.uk)
