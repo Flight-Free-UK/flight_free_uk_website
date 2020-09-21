@@ -23,11 +23,15 @@ By not taking that flight to Japan, you will save 3 tonnes CO2 from your persona
 
 But not taking a flight is about more than carbon. As Greta Thunberg said when she [crossed the Atlantic under sail](https://flightfree.co.uk/post/be-more-greta/), “By stopping flying you don't only reduce your own carbon footprint, you also send a signal to other people that the climate crisis is real.”
 
+> “By stopping flying you don't only reduce your own carbon footprint, you also send a signal to other people that the climate crisis is real.”
+
 Our campaign is about behaviour change, not simply emissions reduction. Movements such as this have already been seen to be effective: in Sweden [domestic flights are down by 9%](https://www.bbc.co.uk/news/world-europe-51067440), some routes have been cancelled, and night trains are being reinstated across Europe. Industry has really responded to the growing trend away from flights, with investment in alternative modes of transport. If we continue to demand flights, we will continue to get them. If we spend our money elsewhere, that is where the investment will go.
 
 ### Reaching the 15% who take the majority of flights
 
 In addition, we must not ignore the effect on those around us. By refusing to take a flight you make a political as well as an environmental statement. Perhaps unsurprisingly, studies have shown that you are more likely to reduce the number of flights you take, or stop flying altogether, [if you know someone](https://theconversation.com/climate-change-yes-your-individual-action-does-make-a-difference-115169) who has done the same. We are social creatures and have a tendency to follow the herd, which means that our behaviour very much depends on what our friends, family or colleagues do.
+
+> "You are more likely to reduce the number of flights you take, or stop flying altogether, if you know someone who has done the same."
 
 Though you might not be one of the [15% who takes 70% of the flights](http://afreeride.org/about/), you might know someone who is. By taking a flight, no matter how occasionally, you are ‘just like them’ – you have common ground. By refusing that flight, and talking about why, you stand out. People take notice. Start to question. They might not themselves cancel a flight any time soon, but you can bet that the next time they sit on a plane, they’ll be thinking about it. This is how movements grow – a significant few bucking a trend, and the trend starting to follow.
 
