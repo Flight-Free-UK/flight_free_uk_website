@@ -45,11 +45,11 @@ Ethically, carbon offsets can seem like a way to avoid taking responsibility for
 
 ## What else can we do?
 
-Of course, not everyone can avoid all flights, and it’s understandable that people who ‘need’ a flight may also want to reduce its environmental harm. But perhaps we ought to view offset schemes as a well-intentioned kind of charity, not a scientific way to be ‘carbon neutral’. If the ultimate goal is to alleviate human suffering, perhaps donating to charities who help victims of climate-related disasters, represents a more effective bang-per-buck.
+Of course, not everyone can avoid all flights, and it’s understandable that people who ‘need’ a flight might also want to reduce its environmental harm. But perhaps we ought to view offset schemes as a well-intentioned kind of charity, not a scientific way to be ‘carbon neutral’. If the ultimate goal is to alleviate human suffering, perhaps donating to charities who help victims of climate-related disasters represents a more effective bang-per-buck.
 
-The problems with offsetting outlined here are complicated, boring even, so people might happily accept industry PR telling them that offsets make their flight is ‘carbon neutral’. Early [signs](https://www.theguardian.com/business/2020/jan/21/easyjet-reports-strong-first-quarter-as-thomas-cook-collapse-attracts-passengers) from Easyjet’s offset scheme suggest, worryingly, this may already be happening.
+The problems with offsetting outlined here are complicated, boring even, so people might happily accept industry PR telling them that offsets make their flight is ‘carbon neutral’. [Early signs](https://www.theguardian.com/business/2020/jan/21/easyjet-reports-strong-first-quarter-as-thomas-cook-collapse-attracts-passengers) from Easyjet’s offset scheme suggest, worryingly, this may already be happening.
 
-So beware of such claims, and remember that the single best way to reduce your carbon footprint remains the most simple one: fly less.
+So beware of such claims, and remember that the single best way to reduce emissions from aviation remains the most simple one: fly less.
 
 *Roger Tyers is an environmental sociologist at the University of Southampton*
 
