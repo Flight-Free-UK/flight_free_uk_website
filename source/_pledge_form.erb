@@ -1,28 +1,68 @@
-<div id="pledgeCard_<%= id %>" class="pledge-card w-full max-w-xs  bg-white shadow-md rounded py-6 px-6 m-auto my-6">
-  <div id="message_<%= id %>" class="pledge-card__message h-16 mb-6 mt-3"></div>
+<div id="pledgeCard_<%= id %>" class="pledge-card w-full max-w-xs shadow-md rounded py-6 px-6 m-auto my-6 bg-white text-blue-dark">
+  <div id="message_<%= id %>" class="pledge-card__message h-8 mb-3 mt-3"></div>
   <form
     id="pledgeForm_<%= id %>"
-    class="pledge-form"
-    action="/.netlify/functions/add-subscriber"
-    method="POST">
+    class="pledge-form">
     
+      <div class="input__radio--pledge mb-4 ml-2 sm:ml-4">
+      <label class="text-blue-dark">
+        <span class="radio__input">
+          <input
+            class=""
+            id="allFlights2021"
+            type="radio"
+            name="pledgeOption" />
+          <span class="radio__control"></span>
+        </span>
+        <span class="radio__label">for all flights in 2021</span>
+      </label>
+      </div>
+      <div class="input__radio--pledge mb-4 ml-2 sm:ml-4">
+      <label class="text-blue-dark">
+        <span class="radio__input">
+          <input
+            class=""
+            id="leisureFlights2021"
+            type="radio"
+            name="pledgeOption" />
+          <span class="radio__control"></span>
+        </span>
+        <span class="radio__label">for all leisure flights in 2021</span>
+      </label>
+      </div>
+      <div class="input__radio--pledge mb-4 ml-2 sm:ml-4">
+      <label class="text-blue-dark">
+        <span class="radio__input">
+        <input
+            class=""
+            id="forLife"
+            type="radio"
+            name="pledgeOption" />
+          <span class="radio__control"></span>
+        </span>
+        <span class="radio__label">for life!</span>
+      </label>
+      </div>
+    
+      <div class="grid grid-cols-2 gap-4">
+        <div class="mb-4">
+        <input
+          class="pledge-form__first-name shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+          id="firstName"
+          type="text"
+          placeholder="First Name" />
+        </div>
+
+        <div class="mb-4">
+        <input
+          class="pledge-form__last-name shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+          id="lastName"
+          type="text"
+          placeholder="Last Name" />
+        </div>
+      </div>
+
     <div class="mb-4">
-      <input
-        class="pledge-form__first-name shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-        id="firstName"
-        type="text"
-        placeholder="First Name"
-      />
-    </div>
-    <div class="mb-4">
-      <input
-        class="pledge-form__last-name shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-        id="lastName"
-        type="text"
-        placeholder="Last Name"
-      />
-    </div>
-    <div class="mb-6">
       <input
         class="pledge-form__email shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
         id="email"
@@ -30,6 +70,19 @@
         placeholder="Email"
       />
     </div>
+
+    <div class="mb-6">
+      <label class="pledge-form__country--label" for="pledge-form__country">Standard Select</label>
+      <div class="pledge-form__country--container shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+        <select id="pledge-form__country" class="">
+          <option>Albania</option>
+          <option selected="selected">United Kingdom</option>
+          <option>Zanzibar</option>
+        </select>
+        <span class="pledge-form__country--focus"></span>
+      </div>
+    </div>
+
     <div class="flex items-center justify-between">
       <button
         class="pledge-form__submit bg-orange hover:bg-orange-shadow w-full text-white text-shadow font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
@@ -38,4 +91,3 @@
     </div>
   </form>
 </div>
-</script>

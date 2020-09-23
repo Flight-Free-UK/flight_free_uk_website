@@ -10,3 +10,6 @@ functions/build
 .netlify
 # Local variables to match environment vars
 .env
+
+# Jake's additions
+flight-free.code-workspace
