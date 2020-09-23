@@ -7,13 +7,6 @@ members:
     name: Anna Hughes
     photo: /images/uploads/sitting-portrait-square.jpeg
     role: Director
-  - name: Faye Barcoe
-    role: North West coordinator
-    photo: /images/uploads/faye.jpg
-    bio: With a degree in wildlife conservation and ecology, Faye has a keen
-      interest in the environment and environmental science. She has previously
-      volunteered as a Student Ambassador and with the RSPCA in Manchester where
-      she lives.
   - name: Joshua Barr
     role: South East coordinator
     bio: For Josh, an adventure lover and gigging musician, the decision to go
@@ -57,9 +50,3 @@ members:
       media as a force for good, London-based Rachel brings her knowledge and
       skills to our social media team. "
     photo: /images/uploads/racheleyles.jpg
-  - name: Toby Usher
-    role: South West coordinator
-    photo: /images/uploads/toby.jpeg
-    bio: A Bristol resident, Toby is well-placed to coordinate our South West
-      activities. After working in the political sector he joined the Flight
-      Free UK team because of a passion for environmental advocacy.

@@ -4,8 +4,7 @@ title: What should the government do?
 category: opinion
 date: 2020-03-24T12:41:42.265Z
 cover_image: /images/uploads/downing-street.jpg
-summary: >-
-  The coronavirus outbreak has caused an unprecedented drop in demand for
+summary: The coronavirus outbreak has caused an unprecedented drop in demand for
   flights. What can the government do to ensure that climate targets are met
   once travel restrictions are lifted?
 author: FlightFree UK
@@ -26,6 +25,8 @@ The recent recommendations against Bristol and Stansted expansions as well as th
 #### 3. A fairer tax system
 
 Currently, there is no tax on kerosene (aviation fuel), meaning that flights are often artificially cheap especially when compared to overland transport such as trains. The playing field needs to be levelled with VAT on plane tickets and a kerosene tax. It has been estimated that a tax on aviation fuel in Europe would cut both [passenger numbers and emissions by 11%](https://www.ft.com/content/1ce24798-733b-11e9-bbfb-5c68069fbd15).
+
+[70% of flights in the UK are taken by just 15% of the population](https://fullfact.org/economy/do-15-people-take-70-flights/). Introducing a frequent flyer levy would both incentivise people to fly less as well as ensuring that the polluter pays.
 
 #### 4. Carbon labelling at time of booking
 
