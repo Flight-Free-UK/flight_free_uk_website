@@ -85,7 +85,7 @@ Globally, transport is responsible for 15% emissions, and even though air travel
 
 #### Flight Free UK:
 
-According to [a study by Lund university](https://www.lunduniversity.lu.se/article/four-lifestyle-choices-most-reduce-your-carbon-footprint) in Sweden, getting rid of your car will take around 2.2 tonnes from your carbon footprint. Driving electric instead will add just over a tonne. So if we want to keep our personal output below that sustainable amount, we should ditch the car completely and use a bike or trains to get around.
+According to **[a study by Lund university](https://www.lunduniversity.lu.se/article/four-lifestyle-choices-most-reduce-your-carbon-footprint)** in Sweden, getting rid of your car will take around 2.2 tonnes from your carbon footprint. Driving electric instead will add just over a tonne. So if we want to keep our personal output below that sustainable amount, we should ditch the car completely and use a bike or trains to get around.
 
 Now let’s look at flights. A domestic flight, such as London to Edinburgh, will add around 170kg CO2 to your footprint. A European destination such as Barcelona would add 364kg. Transatlantic, you’re looking at between 1.6 tonnes to the US east coast and 2.6 tonnes to the west. Flying to Australia, on the other side of the world, will generate 51/2 tonnes carbon, per passenger. Over twice your annual carbon budget.
 
@@ -97,9 +97,9 @@ Ultimately, we have to change everything about the way we live if we are to avoi
 
 *Even if we do make all these changes individually, we’re still not within sustainable limits. This is where we need all our emissions that are outside of our control to reduce, and that’s down to system change.*
 
-You can find out more about Emily on her website [emilygrossman.co.uk](http://emilygrossman.co.uk) or on Twitter [@dremilygrossman](www.twitter.com/dremilygrossman)
+You can find out more about Emily on her website **[emilygrossman.co.uk](http://emilygrossman.co.uk)** or on Twitter **[@dremilygrossman](www.twitter.com/dremilygrossman)**
 
-You can find the document she wrote for Extinction Rebellion, “Emergency on Planet Earth,” here: <https://extinctionrebellion.uk/the-truth/the-emergency/>.
+And we recommend reading the document she wrote for Extinction Rebellion, **[Emergency on Planet Earth](<https://extinctionrebellion.uk/the-truth/the-emergency/>)**.
 
 ## You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
