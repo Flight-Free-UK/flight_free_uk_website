@@ -1,16 +1,15 @@
 ---
 published: true
-title: 'Podcast series episode 3: climate science'
+title: "Podcast series episode 3: climate science"
 category: climate
 date: 2020-03-03T21:13:46.479Z
 cover_image: /images/uploads/mattywinning.jpg
-summary: >-
-  The third episode in our 2020 podcast series features comedian Dr Matt
+summary: The third episode in our 2020 podcast series features comedian Dr Matt
   Winning, who takes us through some climate facts as well as making us laugh
 author: FlightFree UK
 read_time_minute: 4
 ---
-*You can listen to this full podcast by going to our [podcast page](https://flightfree.co.uk/podcast/).*
+## This podcast is episode 3 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 > “Ladies and gentlemen, are you ready to laugh about climate change? Please welcome to the stage Dr Matt Winning!”
 
