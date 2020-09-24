@@ -116,4 +116,6 @@ Now, that is a hard thing to hear if you’re not on that page yet. But that's t
 
 ***Our campaign is designed to inspire that social shift, to create a visible community of people who are willing to take action on the climate, and allow that conversation to be had. Thanks so much to Steve and to you for joining us this month, and we hope you're reassured that your individual action does make a huge and vital difference.***
 
-*You can listen to the podcast [here.](https://flightfree.co.uk/podcast/)*
+## You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+
+*Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
