@@ -5,7 +5,7 @@ category: flight_free_2020
 date: 2020-07-28T14:15:05.083Z
 cover_image: /images/uploads/lego-figure-in-crowd.jpg
 summary: Awareness of climate change is rising, but our behaviour doesn't always
-  reflect that. What can we do to change this? We speak to PhD student Steve
+  reflect that. What can we do to change this? We speak to PhD candidate Steve
   Westlake about the psychology of behaviour change.
 author: FlightFree UK
 read_time_minute: 10
