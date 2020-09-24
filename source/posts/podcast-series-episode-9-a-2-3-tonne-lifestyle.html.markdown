@@ -13,9 +13,11 @@ read_time_minute: 6
 
 ![Dr Emily Grossman](/images/uploads/egrossman.jpg "Dr Emily Grossman who joins us for our podcast this month")
 
+#### Flight Free UK:
+
 In 2018 the IPCC published their report which said in order to be sustainable our personal carbon footprints should not exceed 2.3 tonnes, each, per year. We’re going to explore what that means, and if and how we can reduce our carbon footprints to that sustainable level.
 
-We’re joined by** [Dr Emily Grossman](https://www.emilygrossman.co.uk)** who is an author, broadcaster, science expert and one of the co-founders of Scientists for Extinction Rebellion. Emily is great at explaining sciency things in a way that everybody will understand. So let’s start by asking, what is a carbon footprint, and why is it important to keep our carbon emissions down?
+We’re joined by [Dr Emily Grossman](https://www.emilygrossman.co.uk) who is an author, broadcaster, science expert and one of the co-founders of Scientists for Extinction Rebellion. Emily is great at explaining sciency things in a way that everybody will understand. So let’s start by asking, what is a carbon footprint, and why is it important to keep our carbon emissions down?
 
 #### *Emily:*
 
