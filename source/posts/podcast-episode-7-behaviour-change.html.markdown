@@ -10,7 +10,7 @@ summary: Awareness of climate change is rising, but our behaviour doesn't always
 author: FlightFree UK
 read_time_minute: 10
 ---
-*For our 2020 podcast series we release a new podcast each month. You can see the full series [here](https://flightfree.co.uk/podcast/), along with past interviews with climate activists, politicians and others who have chosen to reduce their carbon footprint by taking the #flightfree2020 pledge.*
+## This podcast is episode 7 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ***Joining us this month is Steve Westlake, and we’ll be exploring the idea of social influence and behaviour change. Do campaigns such as Flight Free UK work? And how? How are we influenced by those around us? Steve is doing a PhD at Cardiff university on leadership with relation to climate change. He focuses on behaviours that will reduce emissions, and the social influence that has, i.e. how leaders might encourage people to copy them to reduce their own carbon footprint. Let’s hear from Steve about where his interest in this subject came from.*** 
 
