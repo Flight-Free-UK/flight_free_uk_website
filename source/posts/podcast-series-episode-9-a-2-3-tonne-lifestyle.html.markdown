@@ -95,12 +95,12 @@ Ultimately, we have to change everything about the way we live if we are to avoi
 
 #### *Emily:*
 
-*Even if we do make all these changes individually, we’re still not within sustainable limits. This is where we need all our emissions generated that our outside of our control to reduce, and that’s down to system change.*
+*Even if we do make all these changes individually, we’re still not within sustainable limits. This is where we need all our emissions that are outside of our control to reduce, and that’s down to system change.*
 
-You can find out more about Emily on her website [emilygrossman.co.uk](http://emilygrossman.co.uk) or on Twitter @dremilygrossman
+You can find out more about Emily on her website [emilygrossman.co.uk](http://emilygrossman.co.uk) or on Twitter [@dremilygrossman](www.twitter.com/dremilygrossman)
 
 You can find the document she wrote for Extinction Rebellion, “Emergency on Planet Earth,” here: <https://extinctionrebellion.uk/the-truth/the-emergency/>.
 
-**You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).**
+## You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 *Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
