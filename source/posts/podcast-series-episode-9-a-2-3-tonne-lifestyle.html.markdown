@@ -29,21 +29,14 @@ So it’s vital that we reduce our carbon emissions and our carbon footprints. W
 
 Our carbon footprints across the globe vary wildly. Let’s put that 2.3 tonne carbon footprint into context:
 
-A country such as Burundi in Africa has a per capita carbon footprint of less than 0.1 tonne.
-
-Pakistan/Nicaragua = 1 tonne
-
-Bolivia/India = 2 tonnes
-
-Chile/France = 5 tonnes
-
-China = 8 tonnes
-
-Russia = 12 tonnes
-
-USA = 16
-
-Oil states like UAE and Kuwait at the top of the list with 20-40+ tonnes
+* A country such as Burundi in Africa has a per capita carbon footprint of less than 0.1 tonne
+* Pakistan/Nicaragua = 1 tonne
+* Bolivia/India = 2 tonnes
+* Chile/France = 5 tonnes
+* China = 8 tonnes
+* Russia = 12 tonnes
+* USA = 16
+* Oil states like UAE and Kuwait top the list with 20-40+ tonnes
 
 #### *Emily:*
 
