@@ -9,7 +9,7 @@ summary: We hear from Dr Alexandra Jellicoe about what the climate crisis and
 author: FlightFree UK
 read_time_minute: 9
 ---
-*For our 2020 podcast series we release a new podcast each month. You can see the full series [here](https://flightfree.co.uk/podcast/), along with past interviews with climate activists, politicians and others who have chosen to reduce their carbon footprint by taking the #flightfree2020 pledge.*
+## This podcast is episode 6 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![Dr Alexandra Jellicoe](/images/uploads/alex-jellico1.jpg "Dr Alexandra Jellicoe")
 
