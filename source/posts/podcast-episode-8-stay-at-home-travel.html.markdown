@@ -9,7 +9,7 @@ summary: "We speak to two travel writers about making the #flightfree2020 pledge
 author: FlightFree UK
 read_time_minute: 8
 ---
-***Listen to the podcast [here](https://flightfreeuk.podbean.com/e/2020-series-episode-8-stay-at-home-travel/)***
+## This podcast is episode 8 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![Helen Coffey and Steph Parker](/images/uploads/helensteph.jpg "Helen Coffey (left) and Steph Parker (right)")
 
