@@ -11,7 +11,7 @@ read_time_minute: 6
 ---
 ## This podcast is episode 9 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![Dr Emily Grossman](/images/uploads/egrossman.jpg "Dr Emily Grossman who joins us for our podcast this month")
+![Dr Emily Grossman](/images/uploads/emgrossman.jpeg "Dr Emily Grossman who joins us for our podcast this month")
 
 #### Flight Free UK:
 
@@ -99,7 +99,7 @@ Ultimately, we have to change everything about the way we live if we are to avoi
 
 You can find out more about Emily on her website **[emilygrossman.co.uk](http://emilygrossman.co.uk)** or on Twitter **[@dremilygrossman](www.twitter.com/dremilygrossman)**
 
-And we recommend reading the document she wrote for Extinction Rebellion, **[Emergency on Planet Earth](<https://extinctionrebellion.uk/the-truth/the-emergency/>)**.
+And we recommend reading the document she wrote for Extinction Rebellion, **[Emergency on Planet Earth](https://extinctionrebellion.uk/the-truth/the-emergency/)**.
 
 ## You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
