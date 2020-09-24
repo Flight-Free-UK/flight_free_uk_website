@@ -17,11 +17,11 @@ In 2018 the IPCC published their report which said in order to be sustainable ou
 
 We’re joined by** [Dr Emily Grossman](https://www.emilygrossman.co.uk)** who is an author, broadcaster, science expert and one of the co-founders of Scientists for Extinction Rebellion. Emily is great at explaining sciency things in a way that everybody will understand. So let’s start by asking, what is a carbon footprint, and why is it important to keep our carbon emissions down?
 
-#### *Emily*
+#### *Emily:*
 
 *A carbon footprint is the amount of carbon emissions we are personally responsible for. Those carbon emissions contribute to what we call greenhouse gases that go into the atmosphere, which also includes methane, nitrous oxide and water vapour. These form a sort of fluffy blanket and keep us warm, which is important for us to be able to live. The problem is we’ve been adding more greenhouse gases to this layer which is getting thicker, meaning that it’s getting warmer. The global temperature has risen by 1ºC which leads to hotter oceans, ice melt and changing weather, for example heat waves, storms and floods. This affects livelihoods and health of people, and the ability to grow crops and drink fresh water.*
 
-#### Flight Free UK
+#### Flight Free UK:
 
 So it’s vital that we reduce our carbon emissions and our carbon footprints. We’re already seeing the effects of a warming climate and these are only going to get worse if we continue to add to the amount of greenhouse gases in the atmosphere. In the last 250 years, i.e. since the industrial revolution, atmospheric levels of CO2 have gone from 280ppm to 410ppm. Our human activity is pushing up this ‘natural' level of carbon dioxide from where it keeps us warm and alive, to where it creates global heating which leads to serious problems for the ecosystems which we depend on to survive.
 
@@ -43,11 +43,11 @@ USA = 16
 
 Oil states like UAE and Kuwait at the top of the list with 20-40+ tonnes
 
-#### *Emily*
+#### *Emily:*
 
 *The global average is 4.8. and here in the UK we are at 5.6 on average. But that’s just our territorial emissions i.e. on our own land. It doesn’t include shipping or international aviation, or embedded/embodied emissions. So our average figure doesn't show the full picture of how important it is to get our emissions down to avoid those dangerous levels of warming.*
 
-#### Flight Free UK
+#### Flight Free UK:
 
 Somewhere like India has a per-capita carbon footprint that is around what we’re told is sustainable. What’s the difference between life there and life here in the UK?
 
@@ -58,13 +58,13 @@ Somewhere like India has a per-capita carbon footprint that is around what we’
 
 We'll be looking at four areas where we can reduce our emissions: clothing, food, energy and transport.
 
-## Clothing:
+## Clothing
 
 A typical outfit of jeans, t-shirt, jacket and trainers would produce around 76kg CO2. So just that one outfit is roughly the equivalent of driving London-Paris. So how can we reduce our carbon footprint from fashion?
 
 *Fast fashion is made cheaply, made to look good, but it falls apart easily. So we should avoid it and buy second hand or buy good quality that will be built to last.*
 
-## Food: 
+## Food
 
 If you eat meat your diet alone could use up your entire sustainable carbon budget for the year, generating around 2.65 tonnes co2.
 
@@ -72,7 +72,7 @@ If you eat meat your diet alone could use up your entire sustainable carbon budg
 
 Going vegan can remove around 1 tonne of carbon from your annual footprint, especially if we make sure we eat seasonal produce that's been locally grown, not air-freighted, and avoid waste.
 
-## Energy: 
+## Energy
 
 Heating your home generates 2.5 tonnes.
 
@@ -80,7 +80,7 @@ Heating your home generates 2.5 tonnes.
 
 So far, if we don’t buy any new clothes or maybe the odd pair of shoes, and some underwear – that would be about 50kg CO2. A vegan diet would still generate around 1.5 tonnes CO2 over the course of a year. If you could go full electric and full renewable you’re looking at a 95% decrease in your carbon emissions – meaning you're only adding kgs to your footprint, not tonnes. So this is all good: we’re still under 2 tonnes with our clothing, diet and energy, so maybe we can reach our 2.3 tonne target. But the last one is a big one, and that’s transport.
 
-## Transport:
+## Transport
 
 Globally, transport is responsible for 15% emissions, and even though air travel 3% global emissions that’s because the majority of people in the world have never been on a plane. Here in the UK we fly a lot and if you do fly, the chances are that those flights will make up the largest part of your carbon footprint.
 
@@ -88,9 +88,9 @@ Globally, transport is responsible for 15% emissions, and even though air travel
 
 *We could also change to an electric vehicle which would reduce emissions by about 2/3rds*
 
-#### Flight Free UK
+#### Flight Free UK:
 
-According to a study by Lund university in Sweden, getting rid of your car will take around 2.2 tonnes from your carbon footprint. Driving electric instead will add just over a tonne. So if we want to keep our personal output below that sustainable amount, we should ditch the car completely and use a bike or trains to get around.
+According to [a study by Lund university](https://www.lunduniversity.lu.se/article/four-lifestyle-choices-most-reduce-your-carbon-footprint) in Sweden, getting rid of your car will take around 2.2 tonnes from your carbon footprint. Driving electric instead will add just over a tonne. So if we want to keep our personal output below that sustainable amount, we should ditch the car completely and use a bike or trains to get around.
 
 Now let’s look at flights. A domestic flight, such as London to Edinburgh, will add around 170kg CO2 to your footprint. A European destination such as Barcelona would add 364kg. Transatlantic, you’re looking at between 1.6 tonnes to the US east coast and 2.6 tonnes to the west. Flying to Australia, on the other side of the world, will generate 51/2 tonnes carbon, per passenger. Over twice your annual carbon budget.
 
@@ -98,7 +98,7 @@ It’s pretty clear that there’s not much room for flying, especially long hau
 
 Ultimately, we have to change everything about the way we live if we are to avoid climate breakdown, and it will take all of us to do it.
 
-#### *Emily*
+#### *Emily:*
 
 *Even if we do make all these changes individually, we’re still not within sustainable limits. This is where we need all our emissions generated that our outside of our control to reduce, and that’s down to system change.*
 
