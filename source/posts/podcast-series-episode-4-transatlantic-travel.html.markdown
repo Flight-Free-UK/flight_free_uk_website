@@ -1,16 +1,15 @@
 ---
 published: true
-title: 'Podcast series episode 4: Transatlantic travel'
+title: "Podcast series episode 4: Transatlantic travel"
 category: travel
 date: 2020-04-06T17:20:59.982Z
 cover_image: /images/uploads/kater.jpg
-summary: >-
-  Author and adventurer Kate Rawles shares the tale of her transatlantic cargo
-  ship voyage and her 8000 mile bike ride through the Andes
+summary: Author and adventurer Kate Rawles shares the tale of her transatlantic
+  cargo ship voyage and her 8000 mile bike ride through the Andes
 author: FlightFree UK
 read_time_minute: 9
 ---
-*This is an outline of the podcast interview we recorded with Kate Rawles. You can listen to the full interview as part of our 2020 podcast series, [here](/podcast).*
+## This podcast is episode 4 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![](/images/uploads/kater.jpg)
 
@@ -50,7 +49,7 @@ When I did the Carbon Cycle journey I flew across the Atlantic. At the time, I j
 
 *So bearing in mind that ration, we asked Kate how she crossed the ocean for her second transatlantic cycling adventure?*
 
-#### KATE: 
+#### KATE:
 
 When I went across the Atlantic for my next adventure, not only was it a non-flying year, I was also very keen to do the journey with as little environmental impact as possible. It troubles me that the adventure and outdoors world often blanks out the problems around flying – a lot of it is about climbing mountains on every continent, or trips of that kind, and in the adventure community we’re not really yet having an open and honest conversation about the impacts of that. Most adventurers are in love with the planet yet we’re having a big impact. Let’s open up that conversation and see what we can do that's positive, because there’s loads that's positive about adventure.
 
@@ -98,7 +97,7 @@ It is a hard sell but it’s fundamentally important to be honest about what we�
 
 *So what does a life with less flying look like? Kate’s keen to communicate that it's win-win all round.*
 
-#### KATE: 
+#### KATE:
 
 One of the things you learn cycle touring is that if you appreciate the basics, and really get joy from a hot shower and a cup of coffee, that’s the secret to happiness and to sustainability. There are so many win-wins. So much of modern life is stressful and we have too much stuff and we are too busy – there’s a lot of stress and unhappiness in modern life. There are ways in which we could have a higher quality of life – more time with each other, with our friends, with our communities, with nature – with a much lower carbon and other environmental footprint. And what’s not to like about that? The current model is failing. It’s a disaster socially as well as a disaster environmentally, and we need to get smart and move beyond it. The solutions are out there. We know how to reconstruct the transport system and the food system and the energy system to make it clean and more equitable and less impactful. We just need to crack on and do it.
 
