@@ -4,8 +4,8 @@ title: "Podcast series episode 9: a 2.3 tonne lifestyle"
 category: climate
 date: 2020-09-24T13:57:38.776Z
 cover_image: /images/uploads/egrossman.jpg
-summary: Scientist communicator Dr Emily Grossman joins us to discuss what
-  action we need to take to reach a sustainable carbon footprint. 
+summary: Science communicator Dr Emily Grossman joins us to discuss what action
+  we need to take to reach a sustainable carbon footprint. 
 author: FlightFree UK
 read_time_minute: 6
 ---
