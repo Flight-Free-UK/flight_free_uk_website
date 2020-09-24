@@ -5,14 +5,14 @@ category: flight_free_2020
 date: 2020-07-28T14:15:05.083Z
 cover_image: /images/uploads/lego-figure-in-crowd.jpg
 summary: Awareness of climate change is rising, but our behaviour doesn't always
-  reflect that. What can we do to change this? We speak to PhD candidate Steve
-  Westlake about the psychology of behaviour change.
+  reflect that. What can we do to change this? We speak to Steve Westlake from
+  Cardiff University about the psychology of behaviour change.
 author: FlightFree UK
 read_time_minute: 10
 ---
 ## This podcast is episode 7 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![](/images/uploads/lego-figure-in-crowd.jpg)
+![]()
 
 ***Joining us this month is Steve Westlake, a PhD candidate at Cardiff university, and we’ll be exploring the idea of social influence and behaviour change. Do campaigns such as Flight Free UK work? And how? How are we influenced by those around us?*** 
 
