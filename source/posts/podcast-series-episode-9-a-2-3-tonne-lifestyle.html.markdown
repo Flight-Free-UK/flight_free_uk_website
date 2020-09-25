@@ -25,7 +25,7 @@ We’re joined by **[Dr Emily Grossman](https://www.emilygrossman.co.uk)** who i
 
 #### Flight Free UK:
 
-So it’s vital that we reduce our carbon emissions and our carbon footprints. We’re already seeing the effects of a warming climate and these are only going to get worse if we continue to add to the amount of greenhouse gases in the atmosphere. In the last 250 years, i.e. since the industrial revolution, atmospheric levels of CO2 have gone from 280ppm to 410ppm. Our human activity is pushing up this ‘natural' level of carbon dioxide from where it keeps us warm and alive, to where it creates global heating which leads to serious problems for the ecosystems which we depend on to survive.
+So it’s vital that we reduce our carbon emissions. We’re already seeing the effects of a warming climate and these are only going to get worse if we continue to add to the amount of greenhouse gases in the atmosphere. In the last 250 years, i.e. since the industrial revolution, atmospheric levels of CO2 have gone from **[280ppm to 410ppm](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)**. Our human activity is pushing up this ‘natural' level of carbon dioxide from where it keeps us warm and alive, to where it creates global heating which leads to serious problems for the ecosystems which we depend on to survive.
 
 Our carbon footprints across the globe vary wildly. Let’s put that 2.3 tonne carbon footprint into context:
 
@@ -36,7 +36,9 @@ Our carbon footprints across the globe vary wildly. Let’s put that 2.3 tonne c
 * China = 8 tonnes
 * Russia = 12 tonnes
 * USA = 16
-* Oil states like UAE and Kuwait top the list with 20-40+ tonnes
+* Oil states like UAE and Kuwait top the list with 20+ tonnes
+
+  *~ figures from 2018, accessed in **[this article](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita)**.*
 
 #### *Emily:*
 
@@ -49,35 +51,47 @@ Somewhere like India has a per-capita carbon footprint that is around what we’
 * meat is not widely eaten
 * clothing is simple – most rural Indians do not wear shoes (or just wear sandals)
 * a lot of the infrastructure uses natural materials, for example, houses made of earth.
-* a lot of the transport is non-motorised, with high bicycles usage or rickshaws, and rowing boats. Only 28 people per 1000 own a car. In the UK that figure is 471.
+* a lot of the transport is non-motorised, with high bicycles usage or rickshaws, and rowing boats. Only 28 people per 1000 own a car. In the UK **[that figure is 471](https://en.wikipedia.org/wiki/List_of_countries_by_vehicles_per_capita)**.
 
 We'll be looking at four areas where we can reduce our emissions: clothing, food, energy and transport.
 
 ## Clothing
 
-A typical outfit of jeans, t-shirt, jacket and trainers would produce around 76kg CO2. So just that one outfit is roughly the equivalent of driving London-Paris. So how can we reduce our carbon footprint from fashion?
+A typical outfit of jeans, t-shirt, jacket and trainers would produce around **[76kg CO2](https://www.ecotricity.co.uk/news/news-archive/2018/the-carbon-footprint-of-getting-dressed)**. So just that one outfit is roughly the equivalent of driving London-Paris. So how can we reduce our carbon footprint from fashion?
+
+#### *Emily:*
 
 *Fast fashion is made cheaply, made to look good, but it falls apart easily. So we should avoid it and buy second hand or buy good quality that will be built to last.*
 
 ## Food
 
-If you eat meat your diet alone could use up your entire sustainable carbon budget for the year, generating around 2.65 tonnes co2.
+If you eat meat your diet alone could use up your entire sustainable carbon budget for the year, generating around **[2.65 tonnes](https://www.vox.com/2014/7/2/5865109/study-going-vegetarian-could-cut-your-food-carbon-footprint-in-half)** CO2.
+
+#### *Emily:*
 
 *Food is a big one. If we cut out all animal products we can reduce global emissions by 28% and would free up 76% of the world’s land for less intensive forms of farming. It’s particularly about meat and dairy, so we should eat plant based, organically-grown vegetables, locally-grown and in season, and try to avoid waste.*
 
-Going vegan can remove around 1 tonne of carbon from your annual footprint, especially if we make sure we eat seasonal produce that's been locally grown, not air-freighted, and avoid waste.
+#### Flight Free UK:
+
+Going vegan can **[remove around 1 tonne](https://www.vox.com/2014/7/2/5865109/study-going-vegetarian-could-cut-your-food-carbon-footprint-in-half)** of carbon from your annual footprint, especially if we make sure we eat seasonal produce that's been locally grown, not air-freighted, and avoid waste.
 
 ## Energy
 
-Heating your home generates 2.5 tonnes.
+Heating your home generates 2.5 tonnes CO2 per year.
+
+#### *Emily:*
 
 *There are obvious things like don’t put your central heating up at full whack all the time. Switch to green/renewable energy. Replace your boiler and make sure your home is well insulated.*
+
+#### Flight Free UK:
 
 So far, if we don’t buy any new clothes or maybe the odd pair of shoes, and some underwear – that would be about 50kg CO2. A vegan diet would still generate around 1.5 tonnes CO2 over the course of a year. If you could go full electric and full renewable you’re looking at a 95% decrease in your carbon emissions – meaning you're only adding kgs to your footprint, not tonnes. So this is all good: we’re still under 2 tonnes with our clothing, diet and energy, so maybe we can reach our 2.3 tonne target. But the last one is a big one, and that’s transport.
 
 ## Transport
 
 Globally, transport is responsible for 15% emissions, and even though air travel 3% global emissions that’s because the majority of people in the world have never been on a plane. Here in the UK we fly a lot and if you do fly, the chances are that those flights will make up the largest part of your carbon footprint.
+
+#### *Emily:*
 
 *It’s really important to reduce the amount we fly because it's not just carbon emissions, it’s water vapour and other greenhouse gases. Flying is much higher in emissions than alternative transport choices.*
 
@@ -87,11 +101,13 @@ Globally, transport is responsible for 15% emissions, and even though air travel
 
 According to **[a study by Lund university](https://www.lunduniversity.lu.se/article/four-lifestyle-choices-most-reduce-your-carbon-footprint)** in Sweden, getting rid of your car will take around 2.2 tonnes from your carbon footprint. Driving electric instead will add just over a tonne. So if we want to keep our personal output below that sustainable amount, we should ditch the car completely and use a bike or trains to get around.
 
-Now let’s look at flights. A domestic flight, such as London to Edinburgh, will add around 170kg CO2 to your footprint. A European destination such as Barcelona would add 364kg. Transatlantic, you’re looking at between 1.6 tonnes to the US east coast and 2.6 tonnes to the west. Flying to Australia, on the other side of the world, will generate 51/2 tonnes carbon, per passenger. Over twice your annual carbon budget.
+Now let’s look at flights. A domestic flight, such as London to Edinburgh, will add around 170kg\* CO2 to your footprint. A European destination such as Barcelona would add 364kg\* return. Transatlantic, you’re looking at between 1.6 tonnes\* to the US east coast and 2.6 tonnes\* to the west. Flying to Australia, on the other side of the world, will generate 5.5 tonnes* carbon, per passenger. Over twice your annual carbon budget.
 
 It’s pretty clear that there’s not much room for flying, especially long haul, if we are to have a sustainable future. The good news is that the short haul and domestic flights we take can mostly be replaced by rail, which gives around a 90% emissions saving. So there can still be travel in a sustainable future – just a different type of travel.
 
 Ultimately, we have to change everything about the way we live if we are to avoid climate breakdown, and it will take all of us to do it.
+
+\*figures for return flights, per passenger, from **[flightemissionmap.org](www.flightemissionmap.org)**
 
 #### *Emily:*
 
