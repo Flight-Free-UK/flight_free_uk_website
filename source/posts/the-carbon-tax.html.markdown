@@ -9,7 +9,9 @@ summary: A proposed carbon tax has hit the headlines this week. Anna Hughes
 author: FlightFree UK
 read_time_minute: 3
 ---
-So the Government is **[proposing a carbon tax on flights](https://www.thetimes.co.uk/article/air-travellers-to-be-hit-by-carbon-charge-on-all-tickets-hz2dnmzfp)**. This sounds promising in many ways: it makes sense for the carbon cost of transport to be reflected in the price of the ticket. And as transport secretary Chris Grayling says, “An offsetting scheme could help inform travellers about how much carbon their journey produces.” Raised awareness of this would be most welcome. As a guide, **[train travel in Europe has roughly a tenth of the emissions of the equivalent flight](https://www.seat61.com/CO2flights.htm)**. Yet currently rail fares are on average three times more expensive.
+So the Government is **[proposing a carbon tax on flights](https://www.thetimes.co.uk/article/air-travellers-to-be-hit-by-carbon-charge-on-all-tickets-hz2dnmzfp)**. This sounds promising in many ways: Flight Free UK has always called for the carbon cost of transport to be reflected in the price of the ticket. And as transport secretary Chris Grayling says, it "could help inform travellers about how much carbon their journey produces.” Raised awareness of this would be most welcome. As a guide, **[train travel in Europe has roughly a tenth of the emissions of the equivalent flight](https://www.seat61.com/CO2flights.htm)**. Yet currently rail fares are on average three times more expensive.
+
+> "The carbon cost of transport should be reflected in the price of the ticket."
 
 ## So why is there such a large gap?
 
