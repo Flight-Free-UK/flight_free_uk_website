@@ -103,7 +103,7 @@ According to **[a study by Lund university](https://www.lunduniversity.lu.se/art
 
 Now let’s look at flights. A domestic flight, such as London to Edinburgh, will add around 170kg\* CO2 to your footprint. A European destination such as Barcelona would add 364kg\* return. Transatlantic, you’re looking at between 1.6 tonnes\* to the US east coast and 2.6 tonnes\* to the west. Flying to Australia, on the other side of the world, will generate 5.5 tonnes* carbon, per passenger. Over twice your annual carbon budget.
 
-It’s pretty clear that there’s not much room for flying, especially long haul, if we are to have a sustainable future. The good news is that the short haul and domestic flights we take can mostly be replaced by rail, which gives around a 90% emissions saving. So there can still be travel in a sustainable future – just a different type of travel.
+It’s pretty clear that there’s not much room for flying, especially long haul, if we are to have a sustainable future. The good news is that the short haul and domestic flights we take can mostly be replaced by rail, which gives around a **[90% emissions saving](https://www.seat61.com/CO2flights.htm)**. So there can still be travel in a sustainable future – just a different type of travel.
 
 Ultimately, we have to change everything about the way we live if we are to avoid climate breakdown, and it will take all of us to do it.
 
