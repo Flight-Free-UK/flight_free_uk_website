@@ -4,9 +4,8 @@ title: Tossing out the bucket list
 category: opinion
 date: 2020-03-03T12:41:04.287Z
 cover_image: /images/uploads/machupicchu.jpg
-summary: >-
-  Ellen Petry Leanse asks what impact our travel ambitions have on the places we
-  visit and on the planet
+summary: Ellen Petry Leanse asks what impact our travel ambitions have on the
+  places we visit and on the planet
 author: FlightFree UK
 read_time_minute: 7
 ---
@@ -14,25 +13,33 @@ read_time_minute: 7
 
 I first saw it in a travel magazine when I was something like seven: Machu Picchu, that breathtaking “Lost City” of the Incas. Emerald green and nestled in craggy peaks unlike any mountain I’d seen before: one awestruck gaze and a dream formed. “I’ll travel there someday,” I told myself, imagining grassy, timeless earth beneath my feet as I reveled in pyramids of Andean granite against a misty blue sky.
 
-![](/images/uploads/macchupiccu.jpg "Photo by Don Woods on Unsplash")
+> *“I’ll travel there someday,” I told myself, imagining grassy, timeless earth beneath my feet as I reveled in pyramids of Andean granite against a misty blue sky.*
+
+![](/images/uploads/macchupiccu.jpg "Machu Picchu. Photo by Don Woods on Unsplash")
 
 Later, as an adult, I planned a journey: 5,000 miles of air travel, a bus to the base of the Inca Trail, and four days of hiking through small villages and open grasslands before reaching my long-imagined destination. In my minds’ eye I envisioned the moment where those incomparable structures, natural and human-made, revealed themselves to me, sun filtering down on the lush grasses surrounding the pyramids.
 
-As I researched I learned about the newly-revealed [Rainbow Mountains](https://www.google.com/search?q=peru%27s+rainbow+mountains&rlz=1C5CHFA_enUS744US744&sxsrf=ACYBGNQKvxXzFwdta8n2Qh9k9EdzHlmirQ:1583115347725&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj028Gf3PrnAhVGI6wKHX_MDG4Q_AUoAXoECBsQAw&biw=1280&bih=550), a surreally beautiful site a few days’ trek from Cusco, and added that as a “must do” to the schedule I planned out.
+As I researched I learned about the newly-revealed **[Rainbow Mountains](https://www.google.com/search?q=peru%27s+rainbow+mountains&rlz=1C5CHFA_enUS744US744&sxsrf=ACYBGNQKvxXzFwdta8n2Qh9k9EdzHlmirQ:1583115347725&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj028Gf3PrnAhVGI6wKHX_MDG4Q_AUoAXoECBsQAw&biw=1280&bih=550)**, a surreally beautiful site a few days’ trek from Cusco, and added that as a “must do” to the schedule I planned out.
 
-![](/images/uploads/rainbowmountains.jpg "Photo by McKayla Crump on Unsplash")
+![](/images/uploads/rainbowmountains.jpg "The Rainbow Mountains. Photo by McKayla Crump on Unsplash ")
 
 Life intervened and I didn’t take the trip. I saved the itinerary, committing that one day it would happen. After all, Machu Picchu had been on my bucket list before I knew what a bucket list was, and in my mind and heart I ached to visit it someday.
 
 Yet recently, at a time when that long-awaited trip was timely and available, I decided to stay home. I struck it from my list, along with several other places where I had once longed to travel. The decision was deliberate: I couldn’t convince myself that my indulgence in an experience like Machu Picchu was worth the impact my getting there would have on the site – and more importantly, on the planet.
 
-More than 1.5 million tourists visited Machu Picchu in 2017, almost double the [limit recommended by UNESCO](http://ie.shafaqna.com/EN/AL/1378835), a [nearly 800% increase since the early ‘80s](https://www.machupicchutrek.net/how-many-tourists-visit-machu-picchu-annually/).
+> *"I couldn’t convince myself that an experience like Machu Picchu was worth the impact my getting there would have on the site – and more importantly, on the planet."*
 
-Foot traffic, road construction, deforestation, air contamination, unorganized and unpermitted development, human waste, and refuse left behind: this is a short list of impacts to which Machu Picchu’s 5,000 daily visitors contribute. The average visitor leaves behind some six pounds of garbage, much of it single-use plastic (water bottles, food packaging, etc.) for which limited recycling options exist. Experts have tracked the [waning health of the site’s unique “Andean alpine” flora and fauna ](https://www.malaymail.com/news/life/2016/07/09/tourists-trashing-machu-picchu-un-says-video/1158539)for decades. Environmentalists, archeologists, and even the UNESCO caretakers who work to protect the site increasingly declare Machu Piccu’s singular [ecology at risk](https://www.telegraph.co.uk/news/worldnews/1557025/Tourist-influx-could-destroy-Machu-Picchu.html).
+More than 1.5 million tourists visited Machu Picchu in 2017, almost double the **[limit recommended by UNESCO](http://ie.shafaqna.com/EN/AL/1378835)**, a **[nearly 800% increase since the early ‘80s](https://www.machupicchutrek.net/how-many-tourists-visit-machu-picchu-annually/)**.
+
+Foot traffic, road construction, deforestation, air contamination, unorganized and unpermitted development, human waste, and refuse left behind: this is a short list of impacts to which Machu Picchu’s 5,000 daily visitors contribute. The average visitor leaves behind some six pounds of garbage, much of it single-use plastic (water bottles, food packaging, etc.) for which limited recycling options exist. Experts have tracked the **[waning health of the site’s unique “Andean alpine” flora and fauna](https://www.malaymail.com/news/life/2016/07/09/tourists-trashing-machu-picchu-un-says-video/1158539)** for decades. Environmentalists, archeologists, and even the UNESCO caretakers who work to protect the site increasingly declare Machu Piccu’s singular **[ecology at risk](https://www.telegraph.co.uk/news/worldnews/1557025/Tourist-influx-could-destroy-Machu-Picchu.html)**.
+
+> *"The average visitor leaves behind some six pounds of garbage."*
 
 Climate change and the influx of non-native microbes have enabled new forms of bio-colonizing lichens, fungi, algae, and insects to flourish, accelerating the “exfoliation” of the historical buildings and even the [granite peaks ](https://curiosmos.com/the-sacred-rock-of-machu-picchu-runs-the-risk-of-disappearing/)surrounding the site.[](https://curiosmos.com/the-sacred-rock-of-machu-picchu-runs-the-risk-of-disappearing/)
 
-And now, with work underway to raze the ground for a [multibillion-dollar international airport](https://www.sciencemag.org/news/2019/02/airport-construction-threatens-unexplored-archaeological-sites-peru) feeding a vision for bringing six million visitors (eight times UNESCO’s recommended traffic) to Machu Picchu and surrounding sites each year, it’s impossible to deny that we’re creating environmental, biological, geographical, and even cultural risk to a site we once thought of as “timeless.”
+And now, with work underway to raze the ground for a **[multibillion-dollar international airport](https://www.sciencemag.org/news/2019/02/airport-construction-threatens-unexplored-archaeological-sites-peru)** feeding a vision for bringing six million visitors (eight times UNESCO’s recommended traffic) to Machu Picchu and surrounding sites each year, it’s impossible to deny that we’re creating environmental, biological, geographical, and even cultural risk to a site we once thought of as “timeless.”
+
+> *"We’re creating an environmental, biological, geographical, and even cultural risk to a site we once thought of as 'timeless'.”*
 
 Similar impact, by the way, has already altered those Rainbow Mountains, even in the less-than-a-decade since they were first visited by tourists. Wetlands that were once a resting grounds for a spectrum of migratory birds have now been [paved into parking lots](https://www.smithsonianmag.com/smart-news/perus-rainbow-mountain-could-be-danger-thanks-recent-popularity-180968962/). Refuse left by hundreds (some say [thousands](https://www.google.com/search?q=crowds+at+rainbow+mountain&safe=strict&rlz=1C5CHFA_enUS744US744&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi-y667h7niAhVSuHEKHbp7DHMQ_AUIDigB&biw=1273&bih=548#imgrc=UxqslwrNKQTdRM:)) of tourists each day increasingly challenges local infrastructure, and foot traffic along the growing number of trails is markedly eroding the colorful – though not as colorful as [Photoshop and Instagram would have you think ](https://www.roamingaroundtheworld.com/why-not-to-trek-rainbow-mountain-peru/)– terrain.
 
