@@ -53,9 +53,9 @@ The Bucket List phenomenon, a FOMO epidemic (one possibly challenged by more rec
 
 Writing this, I feel like a downer. I get it. And I’m asking myself the hard question: what am I going to do instead?
 
-I don’t know. Dumping out my bucket list comes at a cost: I love travel, the slow and deliberate kind that opens up understanding of the world and the people who inhabit it. When I have traveled, especially in recent years, it’s been deliberate and carefully planned with a mind toward minimizing my direct impact.
-
 > *"Dumping out my bucket list comes at a cost: I love travel."*
+
+I don’t know. Dumping out my bucket list comes at a cost: I love travel, the slow and deliberate kind that opens up understanding of the world and the people who inhabit it. When I have traveled, especially in recent years, it’s been deliberate and carefully planned with a mind toward minimizing my direct impact.
 
 Yet I can’t deny that impact. A long-haul flight (such as one from the US to Peru, or to pretty much anywhere else on my original bucket list) can generate **[as many carbon emissions](https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year)** as a year's worth of activity for a person in many parts of the world. Ironically, the emissions of my **[flight to Lima](https://flightemissionmap.org/#San%20Francisco/37.77,-122.42/160/20000)** would be more than the annual carbon footprint of someone **[actually living there](https://www.worldometers.info/co2-emissions/peru-co2-emissions/)**.
 
