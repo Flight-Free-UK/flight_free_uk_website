@@ -53,7 +53,7 @@ Somewhere like India has a per-capita carbon footprint that is around what we’
 * a lot of the infrastructure uses natural materials, for example, houses made of earth.
 * a lot of the transport is non-motorised, with high bicycles usage or rickshaws, and rowing boats. Only 28 people per 1000 own a car. In the UK **[that figure is 471](https://en.wikipedia.org/wiki/List_of_countries_by_vehicles_per_capita)**.
 
-We'll be looking at four areas where we can reduce our emissions: clothing, food, energy and transport.
+Let's look at four areas where we can reduce our emissions: clothing, food, energy and transport.
 
 ## Clothing
 
