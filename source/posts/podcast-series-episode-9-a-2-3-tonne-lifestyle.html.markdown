@@ -107,13 +107,13 @@ It’s pretty clear that there’s not much room for flying, especially long hau
 
 Ultimately, we have to change everything about the way we live if we are to avoid climate breakdown, and it will take all of us to do it.
 
-\*figures for return flights, per passenger, from **[flightemissionmap.org](www.flightemissionmap.org)**
+\*figures for return flights, per passenger, from **[flightemissionmap.org](https://flightemissionmap.org)**
 
 #### *Emily:*
 
 *Even if we do make all these changes individually, we’re still not within sustainable limits. This is where we need all our emissions that are outside of our control to reduce, and that’s down to system change.*
 
-You can find out more about Emily on her website **[emilygrossman.co.uk](http://emilygrossman.co.uk)** or on Twitter **[@dremilygrossman](www.twitter.com/dremilygrossman)**
+You can find out more about Emily on her website **[emilygrossman.co.uk](http://emilygrossman.co.uk)** or on Twitter **[@dremilygrossman](https://twitter.com/dremilygrossman)**
 
 And we recommend reading the document she wrote for Extinction Rebellion, **[Emergency on Planet Earth](https://extinctionrebellion.uk/the-truth/the-emergency/)**.
 
