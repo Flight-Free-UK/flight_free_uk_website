@@ -55,11 +55,13 @@ Writing this, I feel like a downer. I get it. And I’m asking myself the hard q
 
 I don’t know. Dumping out my bucket list comes at a cost: I love travel, the slow and deliberate kind that opens up understanding of the world and the people who inhabit it. When I have traveled, especially in recent years, it’s been deliberate and carefully planned with a mind toward minimizing my direct impact.
 
-Yet I can’t deny that impact. A long-haul flight (such as one from the US to Peru, or to pretty much anywhere else on my original bucket list) can generate [as many carbon emissions](https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year) than a year's worth of activity for a person in many parts of the world. Ironically, the emissions of my [flight to Lima](https://flightemissionmap.org/#San%20Francisco/37.77,-122.42/160/20000) would be more than the annual carbon footprint of someone [actually living there](https://www.worldometers.info/co2-emissions/peru-co2-emissions/).
+> *"Dumping out my bucket list comes at a cost: I love travel."*
 
-Even a short flight has an impact.
+Yet I can’t deny that impact. A long-haul flight (such as one from the US to Peru, or to pretty much anywhere else on my original bucket list) can generate **[as many carbon emissions](https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year)** as a year's worth of activity for a person in many parts of the world. Ironically, the emissions of my **[flight to Lima](https://flightemissionmap.org/#San%20Francisco/37.77,-122.42/160/20000)** would be more than the annual carbon footprint of someone **[actually living there](https://www.worldometers.info/co2-emissions/peru-co2-emissions/)**.
 
-And all of the stuff needed to prepare me for that trip, even if acquired as sustainably as possible, involves the sort of cargo ship [transport that some say contribute 20% of the world’s greenhouse gas emissions](https://phys.org/news/2018-12-cargo-ships-emitting-boatloads-carbon.html), not to mention all of the energy and raw materials required to produce it.
+> *"The emissions of my flight to Lima would be more than the annual carbon footprint of someone actually living there."*
+
+And all of the stuff needed to prepare me for that trip, even if acquired as sustainably as possible, involves the sort of cargo ship **[transport that some say contribute 20% of the world’s greenhouse gas emissions](https://phys.org/news/2018-12-cargo-ships-emitting-boatloads-carbon.html)**, not to mention all of the energy and raw materials required to produce it.
 
 So what to do?
 
@@ -68,6 +70,8 @@ I’m not ready to say I’m landlocked for all of the years ahead, yet writing 
 Yet it’s likely a short-lived one. Given the impact that the surge of choices we all face has created, it’s clear that our impact on the environment in the last few centuries outweighs that of the countless millennia preceding that.
 
 Although I’m wary of committing to a flight ban due to my work, I am avoiding any discretionary air flight, and minimizing car travel when I can. When a few recent invitations have required air travel, I’ve lovingly let the inviters know why I will only be with them in spirit.
+
+> *"When recent invitations have required air travel, I’ve let the inviters know why I will only be with them in spirit."*
 
 What I will do is think more. About my motivations and the tradeoffs associated with them, and the assumptions that have led me to believe that seeing something and wanting something and actually doing something, acquiring it in some way, are not necessarily a linear progression.
 
