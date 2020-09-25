@@ -119,4 +119,4 @@ And we recommend reading the document she wrote for Extinction Rebellion, **[Eme
 
 ## You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-*Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
+*Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: **[L. Sophie Helbig](http://lshelbig.com)**. Sound effects: Josh Hill.*
