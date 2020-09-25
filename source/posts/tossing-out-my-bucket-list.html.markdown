@@ -77,6 +77,8 @@ What I will do is think more. About my motivations and the tradeoffs associated 
 
 It’s wonderful to think of Machu Picchu being spared one set of footprints yet still held as a treasured thought. It’s actually more satisfying to think of what I have NOT done through my decision to stay home: spared the air, spared the impact, spared, maybe, a small little plant on the side of a footpath whose future flowers may attract a future pollinator and spread future seeds.
 
+> *"It’s actually more satisfying to think of what I have NOT done through my decision to stay home."*
+
 That may be an infinitesimal fraction of the demands we’re placing on this fragile and singular planet – the only one we have – yet as countless wise voices have told us, the journey of a thousand miles begins with a single step – or a non-step. In this case, that is the path I’m choosing.
 
-*Ellen Petry Leanse is an author, teacher, and technology pioneer who lives and works in the San Francisco Bay Area. You can follow her on Twitter at [www.twitter.com/chep2m](http://www.twitter.com/chep2m)*
+*Ellen Petry Leanse is an author, teacher, and technology pioneer who lives and works in the San Francisco Bay Area. You can follow her on Twitter at **[www.twitter.com/chep2m](http://www.twitter.com/chep2m)***
