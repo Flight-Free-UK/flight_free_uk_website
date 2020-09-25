@@ -4,17 +4,16 @@ title: The Carbon Tax
 category: opinion
 date: 2019-07-23T12:51:28.116Z
 cover_image: /images/uploads/carbon-tax.jpg
-summary: >-
-  A proposed carbon tax has hit the headlines this week. Anna Hughes looks at
-  what this really means.
+summary: A proposed carbon tax has hit the headlines this week. Anna Hughes
+  looks at what this really means.
 author: FlightFree UK
 read_time_minute: 3
 ---
-So the Government is [proposing a carbon tax on flights](https://www.thetimes.co.uk/article/air-travellers-to-be-hit-by-carbon-charge-on-all-tickets-hz2dnmzfp). This sounds promising in many ways: it makes sense for the carbon cost of transport to be reflected in the price of the ticket. And as transport secretary Chris Grayling says, “An offsetting scheme could help inform travellers about how much carbon their journey produces.” Raised awareness of this would be most welcome. As a guide, [train travel in Europe has roughly a tenth of the emissions of the equivalent flight](https://www.seat61.com/CO2flights.htm). Yet currently rail fares are on average three times more expensive.
+So the Government is **[proposing a carbon tax on flights](https://www.thetimes.co.uk/article/air-travellers-to-be-hit-by-carbon-charge-on-all-tickets-hz2dnmzfp)**. This sounds promising in many ways: it makes sense for the carbon cost of transport to be reflected in the price of the ticket. And as transport secretary Chris Grayling says, “An offsetting scheme could help inform travellers about how much carbon their journey produces.” Raised awareness of this would be most welcome. As a guide, **[train travel in Europe has roughly a tenth of the emissions of the equivalent flight](https://www.seat61.com/CO2flights.htm)**. Yet currently rail fares are on average three times more expensive.
 
-**So why is there such a large gap?**
+## So why is there such a large gap?
 
-At the moment aviation fuel is untaxed, the result of an [international agreement made in 1944 in order to boost a fledgling aviation industry](https://uk.reuters.com/article/us-france-aviation/france-wants-eu-to-seek-end-to-jet-fuel-tax-exemption-to-curb-emissions-idUKKCN1T41HI). The policy has never been overturned, and is unlikely to be: which government would commit political suicide by seemingly increasing the cost of people’s holidays? These tax breaks mean aviation receives a massive leg-up from the government to the tune of around £11bn, as opposed to just £4bn for the rail industry. That is an unfair advantage for an industry that serves less than half of the UK population (typically 50% of UK residents don’t fly at all), especially when just [15% of people qualify as frequent flyers, taking 70% of all flights.](http://afreeride.org/about/)
+At the moment aviation fuel is untaxed, the result of an **[international agreement made in 1944 in order to boost a fledgling aviation industry](https://uk.reuters.com/article/us-france-aviation/france-wants-eu-to-seek-end-to-jet-fuel-tax-exemption-to-curb-emissions-idUKKCN1T41HI)**. The policy has never been overturned, and is unlikely to be: which government would commit political suicide by seemingly increasing the cost of people’s holidays? These tax breaks mean aviation receives a massive leg-up from the government to the tune of around £7bn, as opposed to just £4bn for the rail industry. That is an unfair advantage for an industry that serves less than half of the UK population (typically 50% of UK residents don’t fly at all), especially when just **[15% of people qualify as frequent flyers, taking 70% of all flights.](http://afreeride.org/about/)**
 
 **So is it good news that the government is proposing an introduction of a carbon tax?**
 
