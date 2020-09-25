@@ -11,7 +11,7 @@ read_time_minute: 3
 ---
 So the Government is **[proposing a carbon tax on flights](https://www.thetimes.co.uk/article/air-travellers-to-be-hit-by-carbon-charge-on-all-tickets-hz2dnmzfp)**. This sounds promising in many ways: Flight Free UK has always called for the carbon cost of transport to be reflected in the price of the ticket. And as transport secretary Chris Grayling says, it "could help inform travellers about how much carbon their journey produces.” Raised awareness of this would be most welcome. As a guide, **[train travel in Europe has roughly a tenth of the emissions of the equivalent flight](https://www.seat61.com/CO2flights.htm)**. Yet currently rail fares are on average three times more expensive.
 
-> "The carbon cost of transport should be reflected in the price of the ticket."
+> *"The carbon cost of transport should be reflected in the price of the ticket."*
 
 ## So why is there such a large gap?
 
@@ -25,11 +25,15 @@ Well, in theory yes, but on closer inspection this isn’t a carbon tax at all, 
 
 The trouble is that carbon offsets are too often seen as a free pass: if we pay for the pollution, surely we are entitled to keep producing it? Or they are erroneously seen as undoing the emissions from our flights. Unfortunately, if something seems too good to be true, it probably is. The truth is that the only way to reliably reduce emissions is not to emit them in the first place. 
 
-> "The only way to reliably reduce emissions is not to emit them in the first place."
+> *"The only way to reliably reduce emissions is not to emit them in the first place."*
 
-Offset schemes can range from planting trees to installing solar panels to building flood defences for low-lying communities likely to be flooded owing to sea level rises. But the schemes don’t actually compensate in the way they should – in fact, **[85% of schemes have been shown to be ineffective](https://www.transportenvironment.org/news/85-offsets-failed-reduce-emissions-says-eu-study)**. Many pay into existing schemes rather than fund new projects, so are not a direct compensation for that flight. And trees take a long time to grow, and there’s no guarantee they will reach maturity. We are already battling deforestation at a planet-zapping rate – just think of the acres of rainforest that are cleared so we can grow crops and palm oil (most of which is for biofuel – not very green after all!). So planting a few trees won't offset the forest that's already being lost, let alone compensate for the new emissions that we're sending into the atmosphere from all our flights. 
+Offset schemes can range from planting trees to installing solar panels to building flood defences for low-lying communities likely to be flooded owing to sea level rises. But the schemes don’t actually compensate in the way they should – in fact, **[85% of schemes have been shown to be ineffective](https://www.transportenvironment.org/news/85-offsets-failed-reduce-emissions-says-eu-study)**. Many pay into existing schemes rather than fund new projects, so are not a direct compensation for that flight. And trees take a long time to grow, and there’s no guarantee they will reach maturity. 
+
+We are already battling deforestation at a planet-zapping rate – just think of the acres of rainforest that are cleared so we can grow crops and palm oil (most of which is for biofuel – not very green after all!). So planting a few trees won't offset the forest that's already being lost, let alone compensate for the new emissions that we're sending into the atmosphere from all our flights. 
 
 Offsetting is like bailing out a boat without plugging the hole. We cannot keep pumping CO2 into the atmosphere at the current rate, a rate that will only increase with planned airport expansions. There is simply not enough room on this planet to plant enough trees to compensate.
+
+> *"Offsetting is like bailing out a boat without plugging the hole"*
 
 ## What about alternative forms of transport?
 
