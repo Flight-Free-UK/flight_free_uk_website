@@ -26,7 +26,7 @@ But on an individual level, flights create a far greater impact. If you fly once
 
 The IPCC recommend that for ongoing sustainability we should exceed no more than 2.3 tonnes of carbon each, per year. So one flight could use up that entire allowance. **[You could eat meat for an entire year and generate the same](https://www.vox.com/2014/7/2/5865109/study-going-vegetarian-could-cut-your-food-carbon-footprint-in-half)**. With an average footprint of 10 tonnes per European, a couple of short-haul flights a year could account for around a third of your CO2 output. If you fly long haul, that figure is going to be far higher.
 
-> "One flight could use up your entire annual carbon entire allowance."
+> *"One flight could use up your entire annual carbon allowance."*
 
 Of course, we need need to be addressing all of this. Aviation, food, shipping, fast fashion, all of it. This isn't to prove that flying is ‘the worst’. Massive reductions in all areas are needed in order to bring our emissions down to where they need to be. We all need to be eating far less meat and dairy, as well as flying far, far less. But if you do fly, nothing else you do will increase your carbon footprint so much in so short a space of time, and reducing that can have the greatest impact on how you interact with the planet.
 
