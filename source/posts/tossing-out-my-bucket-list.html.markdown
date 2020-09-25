@@ -21,8 +21,6 @@ Later, as an adult, I planned a journey: 5,000 miles of air travel, a bus to the
 
 As I researched I learned about the newly-revealed **[Rainbow Mountains](https://www.google.com/search?q=peru%27s+rainbow+mountains&rlz=1C5CHFA_enUS744US744&sxsrf=ACYBGNQKvxXzFwdta8n2Qh9k9EdzHlmirQ:1583115347725&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj028Gf3PrnAhVGI6wKHX_MDG4Q_AUoAXoECBsQAw&biw=1280&bih=550)**, a surreally beautiful site a few days’ trek from Cusco, and added that as a “must do” to the schedule I planned out.
 
-![](/images/uploads/rainbowmountains.jpg "The Rainbow Mountains. Photo by McKayla Crump on Unsplash ")
-
 Life intervened and I didn’t take the trip. I saved the itinerary, committing that one day it would happen. After all, Machu Picchu had been on my bucket list before I knew what a bucket list was, and in my mind and heart I ached to visit it someday.
 
 Yet recently, at a time when that long-awaited trip was timely and available, I decided to stay home. I struck it from my list, along with several other places where I had once longed to travel. The decision was deliberate: I couldn’t convince myself that my indulgence in an experience like Machu Picchu was worth the impact my getting there would have on the site – and more importantly, on the planet.
@@ -36,6 +34,8 @@ Foot traffic, road construction, deforestation, air contamination, unorganized a
 > *"The average visitor leaves behind some six pounds of garbage."*
 
 Climate change and the influx of non-native microbes have enabled new forms of bio-colonizing lichens, fungi, algae, and insects to flourish, accelerating the “exfoliation” of the historical buildings and even the [granite peaks ](https://curiosmos.com/the-sacred-rock-of-machu-picchu-runs-the-risk-of-disappearing/)surrounding the site.[](https://curiosmos.com/the-sacred-rock-of-machu-picchu-runs-the-risk-of-disappearing/)
+
+![](/images/uploads/rainbowmountains.jpg "The Rainbow Mountains. Photo by McKayla Crump on Unsplash ")
 
 And now, with work underway to raze the ground for a **[multibillion-dollar international airport](https://www.sciencemag.org/news/2019/02/airport-construction-threatens-unexplored-archaeological-sites-peru)** feeding a vision for bringing six million visitors (eight times UNESCO’s recommended traffic) to Machu Picchu and surrounding sites each year, it’s impossible to deny that we’re creating environmental, biological, geographical, and even cultural risk to a site we once thought of as “timeless.”
 
