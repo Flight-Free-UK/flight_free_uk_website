@@ -3,7 +3,7 @@ published: true
 title: "Podcast series episode 9: a 2.3 tonne lifestyle"
 category: climate
 date: 2020-09-24T13:57:38.776Z
-cover_image: /images/uploads/egrossman.jpg
+cover_image: /images/uploads/emilyspeaking-square.jpeg
 summary: Science communicator Dr Emily Grossman joins us to discuss what action
   we need to take to reach a sustainable carbon footprint. 
 author: FlightFree UK
@@ -11,7 +11,7 @@ read_time_minute: 6
 ---
 ## This podcast is episode 9 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![Dr Emily Grossman](/images/uploads/emgrossman.jpeg "Dr Emily Grossman who joins us for our podcast this month")
+![Dr Emily Grossman](/images/uploads/emilyspeaking.jpeg "Dr Emily Grossman speaking at Extinction Rebellion protests in London")
 
 #### Flight Free UK:
 
