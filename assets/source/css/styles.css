@@ -238,12 +238,6 @@
   appearance: none;
   -moz-appearance: none;
   -webkit-appearance: none;
-  /* Additional resets for further consistency
-  background-color: transparent;
-  border: none;
-  padding: 0 1em 0 0;
-  margin: 0;
-  width: 100%; */
   font-family: inherit;
   font-size: inherit;
   cursor: inherit;
