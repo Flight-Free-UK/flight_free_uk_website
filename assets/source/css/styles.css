@@ -68,10 +68,25 @@ strong {
   @apply text-lg leading-normal text-text-default;
   @apply mb-6;
 }
+
+.blog-post-body ul {
+  @apply list-disc;
+  @apply pl-8;
+}
+
+.blog-post-body ol {
+  @apply list-decimal;
+  @apply pl-8;
+}
+
 @media (min-width: 768px) {
   .blog-post-body h2, .blog-post-body h3, .blog-post-body h4, .blog-post-body h5, .blog-post-body h6, 
   .blog-post-body p, .blog-post-body ul, .blog-post-body ol {
     @apply px-16;
+  }
+
+  .blog-post-body li {
+    @apply ml-8;
   }
 }
 
@@ -91,16 +106,6 @@ strong {
   @apply max-w-full;
   @apply w-full;
   @apply mb-6;
-}
-
-.blog-post-body ul {
-  @apply list-disc;
-  @apply pl-8;
-}
-
-.blog-post-body ol {
-  @apply list-decimal;
-  @apply pl-8;
 }
 
 .blog-post-body h1,
@@ -151,11 +156,6 @@ strong {
 @media (min-width: 768px) {
   .blog-post-body iframe {
     height: 32rem;
-  }
-
-  .blog-post-body ol,
-  .blog-post-body ul {
-    @apply pl-12;
   }
 }
 
