@@ -4,6 +4,14 @@
 
 @tailwind utilities;
 
+/* Default 'normal' font weight for Chrome and Firefox is 400 but we were loading 300 and are now loading 500... */
+html {
+  font-weight: 500;
+}
+strong {
+  font-weight: 600;
+}
+
 /* Don't restrict width for to the xs and sm breakpoints */
 @media (max-width: 640px) {
   .container {
@@ -60,6 +68,24 @@
   @apply text-lg leading-normal text-text-default;
   @apply mb-6;
 }
+@media (min-width: 768px) {
+  .blog-post-body h2, .blog-post-body h3, .blog-post-body h4, .blog-post-body h5, .blog-post-body h6, 
+  .blog-post-body p, .blog-post-body ul, .blog-post-body ol {
+    @apply px-16;
+  }
+}
+
+.blog-post-body blockquote p {
+  @apply text-3xl text-blue-dark;
+  @apply leading-tight;
+  @apply px-0;
+}
+@media (min-width: 768px) {
+  .blog-post-body blockquote p {
+    @apply text-4xl;
+    @apply pl-16 border-l-2 border-gray-200;
+  }
+}
 
 .blog-post-body iframe {
   @apply max-w-full;
@@ -112,7 +138,6 @@
 }
 
 .blog-post-body figure figcaption {
-  @apply text-xs;
   @apply font-bold;
   @apply mt-2;
   @apply text-center;
@@ -141,6 +166,7 @@
 
   .faq-question p {
     @apply text-xl;
+    @apply mb-4;
   }
 
   .blog-post-body p,

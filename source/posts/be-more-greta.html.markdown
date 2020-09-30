@@ -4,11 +4,10 @@ title: Be more Greta
 category: climate
 date: 2019-08-16T11:39:56.265Z
 cover_image: /images/uploads/16631262-7297405-image-a-12_1564408946293.jpg
-summary: >-
-  A look at how teen climate activist Greta Thunberg who gained worldwide
-  recognition through starting the ‘School Strike for climate’ is travelling
-  across the Atlantic by yacht for the upcoming UN Climate Summits in North and
-  South America. 
+summary: "Teen climate activist Greta Thunberg gained worldwide recognition
+  through starting the ‘School Strike for climate’, and is now travelling across
+  the Atlantic by yacht for the upcoming UN Climate Summits in North and South
+  America. "
 author: FlightFree UK
 read_time_minute: 3
 ---
