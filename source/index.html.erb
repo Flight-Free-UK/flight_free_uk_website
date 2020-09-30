@@ -8,7 +8,49 @@ title: FlightFree UK
     <%= partial "header" %>
     <section class="lg:flex mt-0 xs:mt-4 xl:mt-10 mx-4 sm:mx-8 xl:mx-24 xxl:mx-40">
       <div class="lg:w-1/2 xl:w-2/3 xl:pr-8 xs:text-center lg:text-left">
-        <h1 class="text-5xl xl:text-6xl leading-tight mb-4 xs:mb-6 sm:mb-10">Make the pledge to be flight free in 2020</h1>
+        <h1 class="text-5xl xl:text-6xl leading-tight mb-4 xs:mb-6 sm:mb-10 xl:mr-16">Could you take a flight free year?</h1>
+
+        <div class="pledge-progress__container lg:flex mb-4">
+        <div class="w-5/6">
+
+<%# start pledge progress bar %>
+
+<div class="pledge-progress font-body bg-white text-blue-dark px-2 py-1">
+    <h3 class="w-full text-2xl leading-tight mx-3 my-2">
+      6,000 people have pledged
+    </h3>
+</div>
+<style>
+  .pledge-progress {
+    position: relative;
+    z-index: 0;
+  }
+  .pledge-progress h3 {
+    position: relative;
+    z-index: 1;
+  }
+  .pledge-progress::before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    background-color: #f7b38a;
+
+    /*** this variable needs to be set dynamically according to the number of pledges (% of 10,000) ***/
+    width: 60%;
+  }
+  </style>
+
+<%# end progress bar %>
+
+        </div>
+        <div class="w-1/6"><p class="text-2xl leading-tight pl-3 py-3">10k</p></div>
+        </div>
+
+        <p class="text-center text-3xl lg:text-4xl lg:mb-16">Help us reach 10,000!</p>
+
         <h2 class="text-3xl lg:text-4xl xl:mb-8 text-orange">#flightfree2020</h2>
         <div class="flex xs:justify-center lg:justify-start">
           <%= link_to "", "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 mr-8 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/twitter.svg);background-size:60%", target: "_blank" %>
