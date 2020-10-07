@@ -67,7 +67,11 @@ The journey from London to Dublin is calm, enjoyable, and full of a sense of adv
 
 None of the journey needs to be ‘wasted’ time – you can spend it reading, working and making phone calls. You can’t do that on a plane.
 
-Of course, one of the biggest considerations here is emissions. 
+Of course, one of the biggest considerations here is emissions. Flying to Dublin from London would generate 135kg CO2 per passenger. The Rail and Sail option produces just 21.8kg CO2 per passenger. That's an 84% saving on CO2.
+
+> *"Flying generates 135kg CO2 per passenger. Rail and Sail produces just 21.8kg CO2. That's an 84% saving on CO2."*
+
+### Time to change
 
 It’s about reassessing our priorities, not just following the herd. Understanding that yes, we do have time to take the train. And yes, we can afford to travel in more sustainable ways. Overland travel is enriching in a way that flying just isn't. We need the social norm to shift away from flights, not just for the sake of the planet, but for our own sake, too. 
 
