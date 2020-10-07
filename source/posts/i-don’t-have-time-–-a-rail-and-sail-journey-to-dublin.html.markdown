@@ -10,6 +10,8 @@ summary: >
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/i-dont-have-time-screenshot.jpg)
+
 *[Watch our video on Facebook: "I don't have time" – a rail and sail journey to Dublin](https://www.facebook.com/watch/?v=342678609928783)*
 
 ‘I don’t have time!’ – that’s often the reason people give for flying instead of travelling overland. It’s an understandable comment – with our must-have-everything-now society, our time is precious, and we don’t want to spend too much of it getting where we’re going. 
