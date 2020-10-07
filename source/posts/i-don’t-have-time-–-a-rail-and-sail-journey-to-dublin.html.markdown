@@ -20,7 +20,7 @@ read_time_minute: 4
 
 This assumption feeds our behaviour, which then becomes habit. We don’t really take flights because it’s cheaper or quicker, we take flights because that has become the normal way to travel. Unless you live right next to the ferry port, if you’re going to Dublin from the UK, chances are you’ll fly.
 
-> *"We don’t really take flights because it’s cheaper or quicker, we take flights because that has become the normal way to travel."*
+> *"We don’t take flights because it’s cheaper or quicker, we take flights because that has become the normal way to travel."*
 
 **But is it cheaper? And how long does it actually take?**
 
