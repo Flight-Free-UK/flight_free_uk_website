@@ -12,7 +12,7 @@ read_time_minute: 4
 ---
 ![](/images/uploads/i-dont-have-time-screenshot.jpg)
 
-*[Watch our video on Facebook: "I don't have time": a rail and sail journey to Dublin](https://www.facebook.com/watch/?v=342678609928783)*
+*[Watch our video on Facebook: "I don't have time" – a rail and sail journey to Dublin](https://www.facebook.com/watch/?v=342678609928783)*
 
 ‘I don’t have time!’ – that’s often the reason people give for flying instead of travelling overland. It’s an understandable comment – with our must-have-everything-now society, our time is precious, and we don’t want to spend too much of it getting where we’re going. 
 
@@ -22,9 +22,9 @@ This assumption feeds our behaviour, which then becomes habit. We don’t really
 
 > *"We don’t really take flights because it’s cheaper or quicker, we take flights because that has become the normal way to travel."*
 
-But is it cheaper? And how long does it actually take?
+**But is it cheaper? And how long does it actually take?**
 
-### Travel time London to Dublin
+## Travel time London to Dublin
 
 Train and ferry:  8 hours 15 minutes
 
@@ -45,13 +45,13 @@ So on the face of it, flying seems far quicker, but when you factor in the actua
 
 The overland journey time is pretty much what it says, which makes planning anything around your travel a lot easier.
 
-### How about cost?
+## How about cost?
 
 If you buy a train ticket to Holyhead, then another ticket for the ferry, it will cost you upwards of £100. But with [‘Rail and Sail’](https://www.irishferries.com/uk-en/special-offers-from-britain-to-ireland/rail-sail/) you can travel from any UK station all the way to Dublin, on a single ticket.
 
 A rail and sail ticket typically costs £49 each way. The air fare is £40 each way on Ryanair, but that doesn’t include ANYTHING, not least getting to the airport in the first place – which is £13.60 from London to Southend. To travel via Heathrow on Aer Lingus it’s £83 each way plus the Heathrow express (£20)  or a tube fare. So, flying is not actually that cheap. In fact, it’s cheaper not to fly – sometimes far cheaper!
 
-### Time well spent
+## Time well spent
 
 So we come back to the issue of time. In order to catch a 20:05 Ryanair flight you can head straight to the airport after work. For Aer Lingus (18:10 flight) you’ll need to take the afternoon off. Rail and sail (0910 from London Euston), requires a full day off work. 
 
@@ -71,7 +71,7 @@ Of course, one of the biggest considerations here is emissions. Flying to Dublin
 
 > *"Flying generates 135kg CO2 per passenger. Rail and Sail produces just 21.8kg CO2. That's an 84% saving on CO2."*
 
-### Time to change
+## Time to change
 
 It’s about reassessing our priorities, not just following the herd. Understanding that yes, we do have time to take the train. And yes, we can afford to travel in more sustainable ways. Overland travel is enriching in a way that flying just isn't. We need the social norm to shift away from flights, not just for the sake of the planet, but for our own sake, too. 
 
