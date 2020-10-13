@@ -74,6 +74,8 @@ It was certainly the right decision. We all loved it. The journey was an adventu
 
 After travelling from our home in Sheffield to Hull, we took the overnight ferry crossing from Hull to Europoort. It has plenty of space for bikes and clean and comfortable cabins, and the children loved it.
 
+![The Clines family by the ferry from Hull to Rotterdam](/images/uploads/clinesfamily_hull_rotterdam.jpg "Waiting to board the Pride of Hull to Rotterdam")
+
 Cycling in the Netherlands is a joy, especially with children, and we reached our first camping spot near Den Haag with little trouble. Less than 24 hours after we left home we had the tent up and the children were swimming and canoeing in a canal about 50 metres from the tent. The holiday had definitely begun.
 
 > *"Cycling in the Netherlands is a joy."*
