@@ -12,7 +12,7 @@ read_time_minute: 10
 ---
 The beauty of Scandinavia attracts wilderness enthusiasts and urban dwellers alike. With snow-scapes, fjords, vibrant cities, cycle-friendly culture, welcoming locals and of course the breathtaking Northern Lights, Scandinavia has huge variety, and it’s accessible overland from the UK in little more than a day. Here are four accounts of getting to Sweden, Norway, Finland and Denmark flight free.
 
-## Sweden by train
+# Sweden by train
 
 ### – Anca Rusu
 
@@ -36,7 +36,7 @@ The highlight of the trip was an extended stop in Hamburg. I got to see this sur
 
 I’m hoping that the proposed Swedish Rail [sleeper](https://www.independent.co.uk/travel/news-and-advice/sweden-london-train-sleeper-malmo-amsterdam-cologne-munich-rail-a9288206.html) train could be an option for a future trip, leaving Malmö in the evening and arriving in London late the following morning. But either way I’m hooked – I can’t wait to be on this journey again.
 
-## Norway by ferry and train (and rail replacement bus)
+# Norway by ferry and train (and rail replacement bus)
 
 ### – Ian and Gilly Charters
 
@@ -62,7 +62,7 @@ On returning to Bergen, 12 days and 2500 miles later, the flight passengers dash
 
 It was obviously much more expensive to travel by rail (£800 pp) compared to flying (£200 pp, plus transfers). Of course, it wouldn’t be such a difference if air travel were priced appropriately for the damage it does, and not heavily subsidised. However, if you consider the travel as part of the holiday, an extra week in our case, then it was good value and gave us wonderful experiences and memories.
 
-## Finland by bicycle, train and ferry
+# Finland by bicycle, train and ferry
 
 ### – the Clines family
 
@@ -90,7 +90,7 @@ The 30-hour journey seemed to fly by with cabin picnics, games of Uno, and frequ
 
 There are quicker ways to travel to Finland and back, and cheaper ones too, but we’ve no regrets about our trip. It was a low-carbon journey that had a sense of adventure about it, with plenty of interesting places along the way.
 
-## Denmark by train
+# Denmark by train
 
 ### – Anna Hughes
 
