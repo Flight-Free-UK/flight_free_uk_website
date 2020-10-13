@@ -44,6 +44,8 @@ When we booked a Hurtigruten sailing trip along the coast of Norway, all the inf
 
 The first hiccup came before we’d even left the house, with our Eurostar from London to Brussels cancelled because of Storm Ciara. Luckily a quick call to P&O got us booked on the ferry from Hull to Rotterdam that evening. The crossing was rather rough but the good cabin and catering made up for it.
 
+![The Norway coastline with clear water and snow on the mountains](/images/uploads/norway-coastline.jpg "Heading for the Norway coastline...")
+
 Normally the trip from Rotterdam to Hamburg is quite straightforward but the storm was causing disruption here too. A Deutsche Bahn (DB) rail replacement bus was offered as an alternative to a cancelled train at Eindhoven and we arrived in Hamburg only four hours later than scheduled.
 
 After a good nights’ sleep in one of the many cheap hotels near Hamburg station we set off for Copenhagen – back on our original schedule but with another detour caused by engineering works. A highlight of this section is the Rendsburg High Bridge and loop, where the line crosses the Kiel Canal then spirals down in a 360º loop to the station – an experience resembling a slow helter skelter. Then it was over the various islands of Denmark to Copenhagen, from where we would catch the comfortable and quite luxurious DFDS overnight ferry to Oslo.
