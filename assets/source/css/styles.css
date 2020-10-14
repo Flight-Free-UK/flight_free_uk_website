@@ -56,7 +56,20 @@ strong {
   @apply text-text-default text-base leading-tight;
 }
 
+<<<<<<< HEAD
 /* blog posts */
+=======
+@media (min-width: 1280px) {
+  .faq-question {
+    @apply bg-auto;
+  }
+
+  .faq-question p {
+    @apply text-xl;
+    @apply mb-4;
+  }
+}
+>>>>>>> master
 
 .blog-post-body a {
   @apply text-orange;
@@ -89,7 +102,10 @@ strong {
   }
 
   .blog-post-body li {
-    @apply ml-8;
+    @apply ml-12;
+  }
+  .blog-post-body li p {
+    @apply px-0;
   }
 }
 
@@ -170,16 +186,7 @@ strong {
 }
 
 @media (min-width: 1280px) {
-  .faq-question {
-    @apply bg-auto;
-  }
-
-  .faq-question p {
-    @apply text-xl;
-    @apply mb-4;
-  }
-
-  .blog-post-body p,
+  .blog-post-body > p,
   .blog-post-body ul,
   .blog-post-body ol,
   .blog-post-body iframe {
