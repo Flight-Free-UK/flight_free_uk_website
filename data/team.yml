@@ -7,14 +7,6 @@ members:
     name: Anna Hughes
     photo: /images/uploads/sitting-portrait-square.jpeg
     role: Director
-  - name: Joshua Barr
-    role: South East coordinator
-    bio: For Josh, an adventure lover and gigging musician, the decision to go
-      flight free means travelling by train which is an adventure in itself.
-      He’s a keen member of Merton Friends of the Earth and is excited to get
-      the flight-free campaign into the mainstream across the South East of
-      England
-    photo: /images/uploads/joshbarr.jpg
   - name: Luke Rose
     role: Sound and visual media
     bio: Studying for an MSc in Sustainability and Ecology at the Centre for
@@ -22,13 +14,6 @@ members:
       issues. He is also a musician and brings his skills and experience in
       sound recording and editing to our media team.
     photo: /images/uploads/luke.jpg
-  - bio: Maria lives in San Sebastian in northern Spain, and stopped flying several
-      years ago because of concern for the type of world her son would inherit.
-      She now travels by train to see family and friends in Buckinghamshire, and
-      manages our Facebook page.
-    name: Maria Ardley
-    photo: /images/uploads/img-20181230-wa0002-2-.jpg
-    role: Social media
   - bio: Now based in Bristol with her family, Maggie has had many managerial roles
       at universities all over the UK. Her excellent writing skills, together
       with her passion for environmental issues, climate change communication
@@ -37,16 +22,10 @@ members:
     name: Maggie Robertson
     photo: /images/uploads/maggie-and-family-2019.jpg
     role: Blog
-  - bio: A keen traveller, Pippi recently made the connection between flights and
-      her carbon footprint, and is now passionate about raising awareness of the
-      impact of flying with others. She’s involved with her local Extinction
-      Rebellion group and fits in Flight Free admin around her studies.
-    name: Pippi Durie
-    photo: /images/uploads/67117446_2290854451163388_9058890315724750848_n.jpg
+  - photo: /images/uploads/ruby.jpg
+    name: Ruby Puckering
     role: Admin
-  - name: Rachel Eyles
-    role: Social media
-    bio: "With a degree in natural sciences and extensive experience of using social
-      media as a force for good, London-based Rachel brings her knowledge and
-      skills to our social media team. "
-    photo: /images/uploads/racheleyles.jpg
+    bio: Based in Brighton, Ruby has just finished her MA in Globalisation, Business
+      and Development. Through this she realised the damage the airline industry
+      inflicts on the environment. With experience assisting research in
+      sustainable transport, Ruby helps with admin for Flight Free UK
