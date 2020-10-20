@@ -11,5 +11,5 @@ functions/build
 # Local variables to match environment vars
 .env
 
-# Other local files
+# Jake's additions
 flight-free.code-workspace
