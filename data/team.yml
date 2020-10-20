@@ -7,6 +7,10 @@ members:
     name: Anna Hughes
     photo: /images/uploads/sitting-portrait-square.jpeg
     role: Director
+  - name: Armelle Ferguson
+    role: Social media officer
+    bio: Journalist and sustainable fashion advocate
+    photo: /images/uploads/armelle2.jpeg
   - name: Luke Rose
     role: Sound and visual media
     bio: Studying for an MSc in Sustainability and Ecology at the Centre for
@@ -29,7 +33,3 @@ members:
       and Development. Through this she realised the damage the airline industry
       inflicts on the environment. With experience assisting research in
       sustainable transport, Ruby helps with admin for Flight Free UK.
-  - name: Armelle Ferguson
-    role: Social media officer
-    bio: Journalist and sustainable fashion advocate
-    photo: /images/uploads/armelle2.jpeg
