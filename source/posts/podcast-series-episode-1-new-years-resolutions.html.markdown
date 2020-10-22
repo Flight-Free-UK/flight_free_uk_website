@@ -1,13 +1,13 @@
 ---
 published: true
-title: 'Podcast series episode 1: New Year''s Resolutions'
+title: "#FlightFree2020 podcast episode 1: New Year's Resolutions"
 category: flight_free_2020
 date: 2020-01-06T07:19:20.405Z
 cover_image: /images/uploads/maja-rosen.jpg
-summary: >-
-  The first episode of our new podcast series features an interview with Maja
-  Rosén, whose New Year's Resolution two years ago to talk about flying and the
-  climate crisis led to the creation of Flight Free campaigns around the world
+summary: The first episode of our new podcast series features an interview with
+  Maja Rosén, whose New Year's Resolution two years ago to talk about flying and
+  the climate crisis led to the creation of Flight Free campaigns around the
+  world
 author: FlightFree UK
 read_time_minute: 6
 ---
