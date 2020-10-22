@@ -1,13 +1,12 @@
 ---
 published: true
-title: 'Podcast series episode 2: skiing by train'
+title: "#FlightFree2020 podcast episode 2: skiing by train"
 category: travel
 date: 2020-02-04T14:23:39.820Z
 cover_image: /images/uploads/danielelkan.jpg
-summary: >-
-  In the second episode of our 2020 podcast series we talk to SnowCarbon founder
-  Daniel Elkan about why travelling to the slopes by train is always better than
-  flying
+summary: In the second episode of our 2020 podcast series we talk to SnowCarbon
+  founder Daniel Elkan about why travelling to the slopes by train is always
+  better than flying
 author: FlightFree UK
 read_time_minute: 7
 ---
