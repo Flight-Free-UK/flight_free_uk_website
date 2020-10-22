@@ -1,6 +1,6 @@
 ---
 published: true
-title: "#FlightFree2020 podcast episode 4: Transatlantic travel"
+title: "#FlightFree2020 podcast episode 4: transatlantic travel"
 category: travel
 date: 2020-04-06T17:20:59.982Z
 cover_image: /images/uploads/kater.jpg
