@@ -11,7 +11,7 @@ title: Take action
       </div>
       <div class="lg:w-2/3 lg:pl-20 lg:pt-16">
         <img src="/svg/one_white_bg.svg" class="mb-6" />
-        <h1 class="text-4xl xl:text-5xl leading-tight mb-2 xs:mb-4">Make the pledge to be flight free in 2020</h1>
+        <h1 class="text-4xl xl:text-5xl leading-tight mb-2 xs:mb-4">Make the pledge to be flight free in 2021</h1>
         <p class="text-xl xl:text-2xl leading-tight">More and more people are choosing not to fly for climate reasons. Could you join them?</p>
         <button class="bg-orange text-blue-dark text-lg mt-4 xs:mt-10 mb-0 sm:mb-8 w-full py-4 lg:hidden" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
       </div>
@@ -25,7 +25,7 @@ title: Take action
       <h2 class="text-4xl xl:text-5xl">Share the pledge</h2>
     </div>
     <div class="xl:flex justify-between text-2xl xl:px-20">
-      <% link_to "https://twitter.com/intent/tweet", query: { text: "Fight climate change by signing the flight free pledge at", url: "https://flightfree.co.uk" }, class: "block relative mb-8 xl:mb-0 leading-tight pl-20", target: "_blank" do %>
+      <% link_to "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "block relative mb-8 xl:mb-0 leading-tight pl-20", target: "_blank" do %>
         <%= image_tag "/svg/twitter_with_bg.svg", class: "absolute top-0 left-0 w-16" %>
         Share on <span class="block">Twitter</span>
       <% end %>
