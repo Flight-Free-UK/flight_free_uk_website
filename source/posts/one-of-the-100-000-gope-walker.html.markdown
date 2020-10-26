@@ -1,14 +1,13 @@
 ---
 published: true
-title: 'One of the 100,000: Gope Walker'
-category: one_of_the_100000
+title: "One of the 100,000: Gope Walker"
+category: opinion
 date: 2019-08-15T12:02:45.144Z
 cover_image: /images/uploads/10462804_10152111403236513_5868633022286124390_n.jpg
-summary: >-
-  Gope Walker runs an IT consultancy and has clients and staff across three
-  continents. He is also a triathlete and British Triathlon coach, and usually
-  flies for work or for sporting events. We caught up with Gope and asked him
-  what led to him signing the #flightfree2020 pledge. 
+summary: "Gope Walker runs an IT consultancy and has clients and staff across
+  three continents. He is also a triathlete and British Triathlon coach, and
+  usually flies for work or for sporting events. We caught up with Gope and
+  asked him what led to him signing the #flightfree2020 pledge. "
 author: FlightFree UK
 read_time_minute: 3
 ---
@@ -24,7 +23,7 @@ My clients and staff are everywhere from the UK, Ireland and Spain to Sri Lanka 
 
 This year (sorry) I've done a tri camp in Denia in Spain (Alicante), a cycling camp in Mallorca (Palma), a cycling holiday with friends in the Alps (Geneva) and a charity bike ride (Action Medical Research) in northern Spain (Bilboa). 
 
-Next year I want to be able to do similar holidays but just without flying i.e. by driving to France and the Alps, with a stop for a bike ride on the way in Northern France. The Action Medical Research Charity bike ride is in the Black Forest next year, and I'm looking to drive there. I've also entered the Alpe D'Huez triathlon in July which will require driving. 
+Next year I want to be able to do similar holidays but just without flying i.e. by driving to France and the Alps, with a stop for a bike ride on the way in Northern France. The Action Medical Research Charity bike ride is in the Black Forest next year, and I'm looking to cycle there. I've also entered the Alpe D'Huez triathlon in July which will require driving. 
 
 I'm also thinking of doing a lot more UK based cycling/triathlon trips. I've been to Mallorca 15 times but never actually been to Cornwall….
 
