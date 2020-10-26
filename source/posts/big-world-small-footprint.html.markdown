@@ -1,13 +1,12 @@
 ---
 published: true
 title: Big World Small Footprint
-category: flight_free_2020
+category: travel
 date: 2020-02-24T10:41:09.873Z
 cover_image: /images/uploads/Stephanie.jpg
-summary: >-
-  Full time traveller Steph at Big World Small Pockets has taken the
+summary: "Full time traveller Steph at Big World Small Pockets has taken the
   #flightfree2020 pledge, meaning not only will her pockets stay small this
-  year, so will her carbon footprint.
+  year, so will her carbon footprint."
 author: FlightFree UK
 read_time_minute: 3
 ---
