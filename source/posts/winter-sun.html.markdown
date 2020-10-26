@@ -1,11 +1,10 @@
 ---
 published: true
 title: Winter Sun
-category: flight_free_2020
+category: travel
 date: 2019-12-23T01:00:00.000Z
 cover_image: /images/uploads/edxn1guu0aa_zva.jpeg
-summary: >-
-  Paul Powlesland, founder of Lawyers for Nature and once-frequent winter
+summary: Paul Powlesland, founder of Lawyers for Nature and once-frequent winter
   sun-seeker, shares his experience of spending winter in the UK
 author: FlightFree UK
 read_time_minute: 3
