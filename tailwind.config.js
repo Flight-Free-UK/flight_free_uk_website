@@ -30,6 +30,10 @@ module.exports = {
       fontFamily: {
         body: ["Quicksand", "sans-serif"]
       },
+    },
+    rotate: {
+      '-6': '-6deg',
+      '-12': '-12deg'
     }
   },
   variants: {},
