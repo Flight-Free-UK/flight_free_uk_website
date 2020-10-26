@@ -1,13 +1,12 @@
 ---
 published: true
 title: How to write to your MP
-category: flight_free_2020
+category: opinion
 date: 2019-02-15T17:11:48.218Z
 cover_image: /images/uploads/mp.jpg
-summary: >-
-  Having our politicians lead by example will demonstrate that they are serious
-  about climate change. Use this draft text to write an email to your MP, asking
-  them to take part in the #flightfree2020 campaign
+summary: "Having our politicians lead by example will demonstrate that they are
+  serious about climate change. Use this draft text to write an email to your
+  MP, asking them to take part in the #flightfree2020 campaign"
 author: FlightFree UK
 read_time_minute: 2
 ---
