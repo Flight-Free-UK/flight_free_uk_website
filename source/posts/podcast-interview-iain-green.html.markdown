@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Podcast interview: Iain Green"
-category: travel
+category: opinion
 date: 2019-12-10T13:31:57.052Z
 cover_image: /images/uploads/iain-green.jpg
 summary: Wildlife photographer Iain Green tells us what led to his decision to
