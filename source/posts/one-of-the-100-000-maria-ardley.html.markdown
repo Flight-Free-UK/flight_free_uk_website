@@ -1,7 +1,7 @@
 ---
 published: true
-title: "One of the 100,000: Maria Ardley"
-category: opinion
+title: "Flight Free for 2020: Maria Ardley"
+category: testimonials
 date: 2019-07-26T12:41:29.516Z
 cover_image: /images/uploads/file.jpg
 summary: "We hear from our pledgers about why they've chosen to be #flightfree in 2020"
