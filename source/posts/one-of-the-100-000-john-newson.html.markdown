@@ -1,7 +1,7 @@
 ---
 published: true
-title: "One of the 100,000: John Newson"
-category: opinion
+title: "Flight Free for 2020: John Newson"
+category: testimonials
 date: 2019-02-12T17:44:17.413Z
 cover_image: /images/uploads/red-nailvarnish-small.jpg
 summary: "We hear from our pledgers about why they've chosen to be #flightfree in 2020"
