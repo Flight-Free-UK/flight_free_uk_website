@@ -16,7 +16,7 @@ It’s easy to overlook a situation when you haven’t experienced it first hand
 
 Throughout my teens, I was fairly passive with my environmentalism. Despite being made aware of pressing issues by my family, things like global warming felt a million miles away, the stuff of documentaries and articles, not an imminent threat that required drastic action.
 
-> ## "Global warming felt a million miles away, not an imminent threat"
+> "Global warming felt a million miles away, not an imminent threat"
 
 My hippie parents were once worldly, but after they’d had me they wanted to stay in one place. Naturally, I wanted to do the exact opposite. As soon as I was able to earn money as a teen, my existence became working to save and then travelling the world. And I did it well. Travelling was my passion and by the time I hit 20 I’d hiked the Atlas Mountains, followed elephant tracks through the jungles of Borneo, tried to cross the Darien Gap solo and countless other ventures.
 
@@ -24,7 +24,7 @@ I was truly blown away by vibrant cultures and new experiences. Seeing landscape
 
 For the most part, these global experiences didn’t expose me to the environmental horrors which seem impossible to overlook now. In the 2000s, as a teenager, it was very easy to swing gung-ho through life and not think of the consequences.
 
-> ## "As a teenager, it was very easy to swing gung-ho through life and not think of the consequences."
+> "As a teenager, it was very easy to swing gung-ho through life and not think of the consequences."
 
 Thanks to the hippie parents, I was brought up a veggie and relatively aware of my individual impact. When I met my partner Sarah seven years ago we both spurred each other to lead more eco-friendly lifestyles, quickly becoming vegan and more active with our environmentalism. Still, we had the travel bug, and after a year of saving, booked flights to Sri Lanka and then to South East Asia.
 
@@ -40,7 +40,7 @@ My journey then took me to Hanoi, Vietnam. I worked there for almost a year and 
 
 The air pollution was often so thick you’d be lucky to see 100 metres ahead, your eyes and ears black with all the chemical and organic matter just floating around. Your hair fell out because of the polluted water and the lakes bobbed with bloated, dead fish. There was virtually nothing wild and living inside the city so the closest national park received a constant exodus of city-dwellers, resulting in piles of rubbish every 5 metres, like termite mounds, and the whole ecosystem on verge of collapse.
 
-> ## "The air pollution was often so thick you’d be lucky to see 100 metres ahead"
+> "The air pollution was often so thick you’d be lucky to see 100 metres ahead"
 
 It was impossible to ignore the impact humankind was having.
 
@@ -50,7 +50,7 @@ I got back from this trip sobered and open-eyed. Whilst it was virtually impossi
 
 It was 2017, and, though there was far less information than there is now, I understood that flying to South East Asia produced more carbon emissions than whole villages in developing countries would produce in a year. The answer seemed obvious and so I decided to clip my wings. It actually had a greater impact than I could have ever imagined.
 
-> ## "The answer seemed obvious and so I decided to clip my wings"
+> "The answer seemed obvious and so I decided to clip my wings"
 
 With a constant hunger for adventure and new experiences, my energy took me outside and with that blossomed a mad passion for outdoor pursuits. I’d always loved hiking and camping but ditching planes really encouraged me to embrace local surroundings. You quickly realise that, with a little imagination, there are outdoor experiences around every corner, and so I was quickly hooked.
 
@@ -64,7 +64,7 @@ I’ve not flown for more than three years, but in that time I feel like I’ve 
 
 My personal experience has taught me that we really don’t need to fly so much. In the UK we are blessed to be surrounded by awesome landscapes and opportunities that many of us overlook. Now is the time to embrace them because it’s our responsibility to look at our individual lifestyles and make choices which prioritise the environment.
 
-> ## "My personal experience has taught me that we really don’t need to fly so much"
+> "My personal experience has taught me that we really don’t need to fly so much"
 
 Whether it’s Vietnamese lakes, Indonesian corals or UK greenbelts, we’re damned lucky to have our natural world. It’s something which absolutely needs fighting to preserve, and I for one will be driving all my energy into doing exactly that.
 
