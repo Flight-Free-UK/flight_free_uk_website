@@ -1,7 +1,7 @@
 ---
 published: true
 title: "One of the 100,000: Dave Wynn"
-category: opinion
+category: testimonials
 date: 2019-07-17T13:32:10.039Z
 cover_image: /images/uploads/file.jpg
 summary: "We hear from our pledgers about why they've chosen to be #flightfree in 2020"
