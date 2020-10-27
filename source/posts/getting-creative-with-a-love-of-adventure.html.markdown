@@ -5,7 +5,7 @@ category: travel
 date: 2020-10-27T11:30:59.433Z
 cover_image: /images/uploads/thumbnail_josh_yorkshire-dales.jpg
 summary: "Josh spent the majority of his life with a serious taste for long-haul
-  travel, now he shares how him and his partner Sarah find adventure through
+  travel – now he shares how he and his partner Sarah find adventure through
   embracing a flight-free lifestyle.  "
 author: FlightFree UK
 read_time_minute: 4
@@ -50,7 +50,7 @@ From cycling, climbing and scrambling to outdoor swimming and wild camping, I de
 
 Over the next few years Sarah and I became one of the few mixed-sex couples to complete the gruelling [UK Three Peaks Challenge by Bike](https://www.threepeakschallenge.uk/national-three-peaks-challenge/cycling-the-three-peaks-challenge) and before COVID showed its face we were 1,000 miles into a UK to India cycling challenge.
 
-![Josh and Sarah are on bikes with many panniers. It is a sunny day and they are on a pale cycle track in the middle of large rolling green fields](/images/uploads/thumbnail_josh_sarah_northern_france.jpg "Josh and Sarah on a cycling holiday in Northern France")
+![Josh and Sarah are on bikes with many panniers. It is a sunny day and they are on a pale cycle track in the middle of large rolling green fields](/images/uploads/thumbnail_josh_sarah_northern_france.jpg "Josh and Sarah cycling through Northern France")
 
 I’ve not flown for more than three years, but in that time I feel like I’ve discovered more than during the nearly two decades of flying previously. It really did change my life but, much like with veganism, I understand it might not be so easy for others to do the same.
 
