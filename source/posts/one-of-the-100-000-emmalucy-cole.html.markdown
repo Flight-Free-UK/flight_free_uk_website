@@ -1,6 +1,6 @@
 ---
 published: true
-title: "I will be flight free in 2020: EmmaLucy Cole"
+title: "Flight free for 2020: EmmaLucy Cole"
 category: opinion
 date: 2020-02-10T17:43:34.113Z
 cover_image: /images/uploads/EmmaLucy.jpg
