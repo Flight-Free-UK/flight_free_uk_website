@@ -10,6 +10,8 @@ summary: "Josh spent the majority of his life with a serious taste for long-haul
 author: FlightFree UK
 read_time_minute: 4
 ---
+![Josh stands with his back to the camera, wearing a bright red backpack. He is surrounded by trees and pale green light shines through the leaves.](/images/uploads/thumbnail_josh_yorkshire-dales.jpg "Josh exploring the Yorkshire Dales ")
+
 It’s easy to overlook a situation when you haven’t experienced it first hand. For us living in the UK, we’re pretty sheltered from what is going on around the world, particularly when the environment is concerned. Climate change can easily feel like only warmer summers and the ‘oh, it doesn’t snow like it used to’ conversations. It definitely did for me.
 
 Throughout my teens, I was fairly passive with my environmentalism. Despite being made aware of pressing issues by my family, things like global warming felt a million miles away, the stuff of documentaries and articles, not an imminent threat that required drastic action.
@@ -36,6 +38,8 @@ The air pollution was often so thick you’d be lucky to see 100 metres ahead, y
 
 It was impossible to ignore the impact humankind was having.
 
+![Josh stands on the side of a snowy mountain, with pine trees behind him and a clear view of a neighbouring peak. The sky is bright blue and it matches the colour of Josh's blue fleece. ](/images/uploads/thumbnail_josh_french-alps-vallorcine.jpg "Josh in Vallorcine, in the French Alps ")
+
 I got back from this trip sobered and open-eyed. Whilst it was virtually impossible to find scenes like that of Asia back at home, I understood that it was all the circumstances of our own personal choices.
 
 It was 2017, and, though there was far less information than there is now, I understood that flying to South East Asia produced more carbon emissions than whole villages in developing countries would produce in a year. The answer seemed obvious and so I decided to clip my wings. It actually had a greater impact than I could have ever imagined.
@@ -45,6 +49,8 @@ With a constant hunger for adventure and new experiences, my energy took me outs
 From cycling, climbing and scrambling to outdoor swimming and wild camping, I developed a massive interest in human-powered adventures – activities with virtually no impact that can be done in pretty much every country around the world – and knew it was something I wanted to explore and promote.
 
 Over the next few years Sarah and I became one of the few mixed-sex couples to complete the gruelling [UK Three Peaks Challenge by Bike](https://www.threepeakschallenge.uk/national-three-peaks-challenge/cycling-the-three-peaks-challenge) and before COVID showed its face we were 1,000 miles into a UK to India cycling challenge.
+
+![Josh and Sarah are on bikes with many panniers. It is a sunny day and they are on a pale cycle track in the middle of large rolling green fields](/images/uploads/thumbnail_josh_sarah_northern_france.jpg "Josh and Sarah on a cycling holiday in Northern France")
 
 I’ve not flown for more than three years, but in that time I feel like I’ve discovered more than during the nearly two decades of flying previously. It really did change my life but, much like with veganism, I understand it might not be so easy for others to do the same.
 
