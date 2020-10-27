@@ -1,13 +1,12 @@
 ---
 published: true
 title: Money Talks
-category: flight_free_2020
+category: opinion
 date: 2019-10-02T07:10:15.720Z
 cover_image: /images/uploads/money-talks.jpeg
-summary: >-
-  We all know there are some eye-catchingly cheap air fares out there, but do
-  the alternatives really cost that much more? And is there really any such
-  thing as a cheap flight?
+summary: We all know there are some eye-catchingly cheap air fares out there,
+  but do the alternatives really cost that much more? And is there really any
+  such thing as a cheap flight?
 author: FlightFree UK
 read_time_minute: 2
 ---

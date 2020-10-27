@@ -1,12 +1,11 @@
 ---
 published: true
 title: The fear of missing out
-category: flight_free_2020
+category: opinion
 date: 2019-01-22T17:41:40.279Z
 cover_image: /images/uploads/isle-of-skye.jpg
-summary: >-
-  Flight Free Director Anna Hughes explains the importance of living to our
-  values
+summary: Flight Free Director Anna Hughes explains the importance of living to
+  our values
 author: FlightFree UK
 read_time_minute: 2
 ---

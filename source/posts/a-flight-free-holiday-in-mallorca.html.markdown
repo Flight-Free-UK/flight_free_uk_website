@@ -1,7 +1,7 @@
 ---
 published: true
 title: A flight free holiday in Mallorca
-category: travel
+category: testimonials
 date: 2020-02-25T16:45:19.386Z
 cover_image: /images/uploads/Mallorca.jpg
 summary: >-

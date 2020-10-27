@@ -1,12 +1,11 @@
 ---
 published: true
-title: 'One of the 100,000: Jusep Moreno'
-category: one_of_the_100000
+title: "One of the 100,000: Jusep Moreno"
+category: opinion
 date: 2019-12-23T09:17:41.536Z
 cover_image: /images/uploads/jusep.jpeg
-summary: >-
-  Read from some of our pledgers about why they've signed the #flightfree2020
-  pledge
+summary: "Read from some of our pledgers about why they've signed the
+  #flightfree2020 pledge"
 author: FlightFree UK
 read_time_minute: 2
 ---

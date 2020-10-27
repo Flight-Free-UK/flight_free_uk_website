@@ -21,7 +21,7 @@ collections:
     fields:
       - {label: Published, name: published, widget: boolean, default: true}
       - {label: Title, name: title, widget: string}
-      - {label: Category, name: category, widget: select, options: [{label: "Climate", value: climate}, {label: "Opinion", value: opinion},  {label: "Travel", value: travel}, {label: "One of the 100,000", value: one_of_the_100000}, {label: "Flight Free 2020", value: flight_free_2020}] }
+      - {label: Category, name: category, widget: select, options: [{label: "Climate", value: climate}, {label: "Opinion", value: opinion},  {label: "Travel", value: travel}, {label: "One of the 100,000", value: one_of_the_100000}, {label: "Flight Free 2020", value: flight_free_2020}, {label: "Testimonials", value: testimonials}] }
       - {label: Publish Date, name: date, widget: datetime}
       - {label: Cover image, name: cover_image, widget: image}
       - {label: Summary, name: summary, widget: text}

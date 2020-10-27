@@ -1,7 +1,7 @@
 ---
 published: true
 title: Let's not fly the plane!
-category: flight_free_2020
+category: climate
 date: 2019-04-25T15:01:03.846Z
 cover_image: /images/uploads/screen-shot-2019-10-22-at-10.02.38.png
 summary: Flight Free UK teams up with Disney for some lyrical fun

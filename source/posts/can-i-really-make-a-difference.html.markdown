@@ -1,7 +1,7 @@
 ---
 published: true
 title: Can I really make a difference?
-category: flight_free_2020
+category: opinion
 date: 2020-01-27T16:52:14.291Z
 cover_image: /images/uploads/snowflake.jpg
 summary: Cancelling one flight won’t save the planet. But what effect do our

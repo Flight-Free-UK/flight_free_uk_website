@@ -1,11 +1,10 @@
 ---
 published: true
 title: A Champion for Earth
-category: one_of_the_100000
+category: climate
 date: 2019-07-29T12:34:18.778Z
 cover_image: /images/uploads/67608452_2299356613646505_2861116666371112960_n.jpg
-summary: >-
-  Listen to our podcast interview with Etienne Stott, gold medal-winning
+summary: Listen to our podcast interview with Etienne Stott, gold medal-winning
   canoeist and environmental activist
 author: FlightFree UK
 read_time_minute: 6

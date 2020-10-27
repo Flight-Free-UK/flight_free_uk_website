@@ -1,12 +1,11 @@
 ---
 published: true
 title: From eight flights to one
-category: flight_free_2020
+category: climate
 date: 2019-11-26T09:29:25.930Z
 cover_image: /images/uploads/christinebell.jpg
-summary: >-
-  Christine Bell took eight flights in 2018, down to just one in 2019. Here's
-  how she did it.
+summary: Christine Bell took eight flights in 2018, down to just one in 2019.
+  Here's how she did it.
 author: FlightFree UK
 read_time_minute: 4
 ---

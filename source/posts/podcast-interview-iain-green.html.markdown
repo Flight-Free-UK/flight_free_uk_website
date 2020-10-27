@@ -1,13 +1,12 @@
 ---
 published: true
-title: 'Podcast interview: Iain Green'
-category: flight_free_2020
+title: "Podcast interview: Iain Green"
+category: opinion
 date: 2019-12-10T13:31:57.052Z
 cover_image: /images/uploads/iain-green.jpg
-summary: >-
-  Wildlife photographer Iain Green tells us what led to his decision to stop
-  flying 14 years ago, and how he found the wildlife experience of his career in
-  his own back garden.
+summary: Wildlife photographer Iain Green tells us what led to his decision to
+  stop flying 14 years ago, and how he found the wildlife experience of his
+  career in his own back garden.
 author: FlightFree UK
 read_time_minute: 4
 ---

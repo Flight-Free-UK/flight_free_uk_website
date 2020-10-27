@@ -1,10 +1,10 @@
 ---
 published: true
 title: The elephant on the travel desk
-category: flight_free_2020
+category: travel
 date: 2019-10-16T06:40:48.273Z
 cover_image: /images/uploads/gavin-haines.jpg
-summary: 'by Gavin Haines, travel writer (BBC, Telegraph, Positive News)'
+summary: by Gavin Haines, travel writer (BBC, Telegraph, Positive News)
 author: FlightFree UK
 read_time_minute: 2
 ---

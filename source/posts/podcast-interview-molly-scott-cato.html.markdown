@@ -1,12 +1,11 @@
 ---
 published: true
-title: 'Podcast interview: Molly Scott Cato'
-category: one_of_the_100000
+title: "Podcast interview: Molly Scott Cato"
+category: climate
 date: 2019-03-07T16:43:00.048Z
 cover_image: /images/uploads/mollytalking.jpg
-summary: >-
-  The Green MEP for South-West England and Gibraltar talks to us about her
-  political past, her anti-airport activism and why she doesn't fly.
+summary: The Green MEP for South-West England and Gibraltar talks to us about
+  her political past, her anti-airport activism and why she doesn't fly.
 author: FlightFree UK
 read_time_minute: 6
 ---

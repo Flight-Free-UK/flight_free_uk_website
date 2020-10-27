@@ -1,10 +1,10 @@
 ---
 published: true
-title: 'One of the 100,000: Dave Wynn'
-category: one_of_the_100000
+title: "One of the 100,000: Dave Wynn"
+category: opinion
 date: 2019-07-17T13:32:10.039Z
 cover_image: /images/uploads/file.jpg
-summary: 'We hear from our pledgers about why they''ve chosen to be #flightfree in 2020'
+summary: "We hear from our pledgers about why they've chosen to be #flightfree in 2020"
 author: FlightFree UK
 read_time_minute: 3
 ---

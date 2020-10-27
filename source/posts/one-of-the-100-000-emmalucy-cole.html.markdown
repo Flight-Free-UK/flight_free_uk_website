@@ -1,12 +1,11 @@
 ---
 published: true
-title: 'One of the 100,000: EmmaLucy Cole'
-category: one_of_the_100000
+title: "One of the 100,000: EmmaLucy Cole"
+category: opinion
 date: 2020-02-10T17:43:34.113Z
 cover_image: /images/uploads/EmmaLucy.jpg
-summary: >-
-  Speaker, writer, explorer and biker EmmaLucy shares her motivation for signing
-  the Flight Free 2020 pledge
+summary: Speaker, writer, explorer and biker EmmaLucy shares her motivation for
+  signing the Flight Free 2020 pledge
 author: FlightFree UK
 read_time_minute: 5
 ---

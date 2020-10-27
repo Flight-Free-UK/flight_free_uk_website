@@ -1,14 +1,13 @@
 ---
 published: true
 title: My no-fly year
-category: flight_free_2020
+category: opinion
 date: 2019-01-28T17:30:24.567Z
 cover_image: /images/uploads/viviana-camper.jpeg
-summary: >-
-  In June 2017, Viviana Jiménez took a year off flying. With family scattered
-  across a few countries, it would mean not seeing them for more than a year.
-  But motivated by the environment and prompted by changed circumstances at
-  work, she took on the challenge – with surprising results.
+summary: In June 2017, Viviana Jiménez took a year off flying. With family
+  scattered across a few countries, it would mean not seeing them for more than
+  a year. But motivated by the environment and prompted by changed circumstances
+  at work, she took on the challenge – with surprising results.
 author: FlightFree UK
 read_time_minute: 6
 ---
