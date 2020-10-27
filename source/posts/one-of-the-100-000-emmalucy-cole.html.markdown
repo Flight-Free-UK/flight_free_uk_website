@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Flight free for 2020: EmmaLucy Cole"
-category: opinion
+category: testimonials
 date: 2020-02-10T17:43:34.113Z
 cover_image: /images/uploads/EmmaLucy.jpg
 summary: Speaker, writer, explorer and biker EmmaLucy shares her motivation for
