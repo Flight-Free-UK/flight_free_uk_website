@@ -11,7 +11,7 @@ read_time_minute: 5
 ---
 ![The picture shows an information board in an airport showing flights to destinations such as Sydney, Tokyo and Berlin. All of the flights are either cancelled or delayed. ](/images/uploads/cancelled-flights.jpg)
 
-## It’s January 2009 and I’m trekking through the wild snow-bound wastelands of Luton. 
+# It’s January 2009 and I’m trekking through the wild snow-bound wastelands of Luton.
 
 There’s a pack on my back and every step I take sinks my sodden shoes into the grey mush that has coated the dual carriageway to the airport. I know my flight is cancelled, but I also know that, if I’m to have even a slim chance of claiming my money back, I need to present myself in person at the check-in desk. 
 
@@ -21,7 +21,7 @@ All I wanted was to visit my friend Dan and all I got was wet feet and a BLT on 
 
 \*\*\*\**
 
-### In April 2009, I wasn’t much of a cyclist. 
+## In April 2009, I wasn’t much of a cyclist.
 
 I didn’t even have a bike. Over that winter, I’d been borrowing my dad’s for the nine mile cycle to work (when it wasn't snowing). But those couple of months were the full extent of my cycling experience in the twelve years since I turned fifteen and discovered first laziness, then the motor car. I’d been to Bordeaux a few times before, each time loading myself up onto an EasyJet flight in Luton and unpacking myself an hour or two later onto the resplendent tarmac of finest French wine country. This time would certainly be different. I borrowed my friend’s bike, packed tubes, tools and tape into my panniers and wobbled off down the road alone, into the overcast sweat of a ninety mile cycle to Portsmouth, for the ferry to St Malo. 
 
@@ -35,13 +35,13 @@ Yet you could be forgiven for thinking that they are essentially equivalent – 
 
 There are some obvious and not-so-obvious answers to that question. I’ll start with the obvious: it’s quicker to fly (unless you're lucky enough to live near and are travelling somewhere with a high speed train terminus). Incredibly, but no less obviously, it’s also cheaper to fly. One way to Bordeaux by bike cost me near enough £240 in calorific fuel alone; a flight would have been £60. Ridiculous. But here’s the not-so-obvious answer to my question: everyone flies because everyone flies. Aeroplanes aren’t the only things that can run on autopilot. 
 
-### I haven’t taken a flight in over six years. But before you throw your hands up in horror, I have to reassure you: giving up aeroplanes doesn’t mean giving up travel. 
+## I haven’t taken a flight in over six years. But before you throw your hands up in horror, I have to reassure you: giving up aeroplanes doesn’t mean giving up travel.
 
 Since going planeless, I have travelled further and more often than ever before. I’ve hitch-hiked the length and breadth of Britain, cycled to the Sahara, sailed the Jurassic Coast, taken buses to Vienna and Amsterdam and trains through France, Germany and Spain, made Christmas pilgrimages to the great cathedrals of Winchester and Canterbury and driven to Calais to play cricket against Afghans. I’m confident none of these adventures would have happened if I’d carried on using aeroplanes. 
 
 If these land-bound escapades have taught me anything it is the grateful humility to entrust myself - my health, happiness and humanity - to the kindness of strangers. In contrast, aeroplane tickets seem to make us believe that we have a god-given right to travel (St Thomas of Cook, perhaps). That’s why I got so angry when my flight was cancelled: aeroplanes encourage an acquisitive attitude towards travel. We buy a plane ticket and expect to be there now. Not only is this unrealistic, but it also makes us ungrateful travellers. Our choice of transport is about much more than how we get from A to B. Rather, our choice of transport is the decisive factor in the kinds of situations we get into, how we behave in those situations and, as a result, the type of person we become. 
 
-### Aeroplanes cruise at 10 kilometres above the surface of the earth. From that altitude you might get the gist, skimming over the big picture, but you miss the details.  The way that we do things becomes who we are.
+## Aeroplanes cruise at 10 kilometres above the surface of the earth. From that altitude you might get the gist, skimming over the big picture, but you miss the details.  The way that we do things becomes who we are.
 
  If we choose to use aeroplanes, then we must realise that aeroplanes will influence who we are becoming. I'll leave it up to you to think about whether that influence is, on balance, positive or negative, but I would urge you to at least explore its opposite, No Aeroplanes. You literally don’t know where you’ll end up. 
 
