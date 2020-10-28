@@ -28,19 +28,19 @@ Don't take your local area for granted – exchange what we might think of as �
 
 Take a leaf out of the travellers of old who walked everywhere – or could you opt to cycle instead? This doesn’t just reduce your emissions, but is great for your physical and mental health as well. Get inspired by the wealth of travel walking literature, including the work of [Rebecca Solnit](http://rebeccasolnit.net/books/) and [Robert MacFarlane](https://www.penguin.co.uk/authors/32424/robert-macfarlane.html). 
 
-### Swap out the photo op for something close by 
+### Swap out the photo op for something close by.
 
  I still love this Swiss idea showing that we often miss picturesque spots much closer to home: find your local spots with the closeBy website [here](https://closeby.ch/). 
 
-### Feel good about your emissions reduction 
+### Feel good about your emissions reduction.
 
  How many flights would you take in a typical year? Work out the carbon footprint of those journeys using [Flight Emission Map](https://flightemissionmap.org/) and celebrate the carbon savings.
 
-### Pay your dues
+### Pay your dues.
 
  After tracking how much carbon you've saved, consider making a donation to an organisation working to drawdown more carbon. 
 
-### Be intentional about who influences you 
+### Be intentional about who influences you.
 
 Tackle your flight FOMO head on by following slow-travellers on your instagram feed, or #vanlife on Facebook. Join the subculture of people keeping their feet on the ground.
 
