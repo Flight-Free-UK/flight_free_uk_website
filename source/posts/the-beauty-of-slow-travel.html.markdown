@@ -13,7 +13,7 @@ read_time_minute: 3
 
 We emerge from the Channel tunnel into hills that roll just as they do in Kent. The rain still falls. Graffiti adorns trackside walls. People stand on station platforms clutching mugs of coffee as we flash by. By being on the ground we see others, the homes they have built, the infrastructure that facilitates their lives, the land they farm. The roofs are different shapes, but they are roofs. The bricks are different colours, but they are bricks. Folk carving a living from the country in which they live. It reminds us that we are all the same.
 
-> By being on the ground we see others
+> "By being on the ground we see others"
 
 As we roll from Belgium to Germany the landscape shifts subtly. There is not much to separate the lowlands - this corner of western Europe is small enough to be topographically similar. What shifts more noticeably is the culture. We are greeted in French, then Flemish, then German, the compulsory English translation that follows an uncomfortable reminder that we are far more lazy than our continental neighbours. Futuristic radio towers adorn distant hills. Cathedrals stretch elaborately towards the sky.
 
@@ -23,7 +23,7 @@ As passengers alight and depart, the make-up of our train carriage changes, one 
 
 The continental landmass is huge. It’s important to remember that. We take for granted that we can traverse the globe in a matter of days, but to be travelling overland reveals its true size. We have populated the sky in a way that disregards the true scale of our earth. Surface-level travel takes time, as it should. Air travel is time travel. Our bodies resist it; jet-lag is a rebellion of our being extracted from one location and moved to another at a rate significantly higher than that at which the earth spins.
 
-> We have populated the sky in a way that disregards the true scale of our earth
+> "We have populated the sky in a way that disregards the true scale of our earth"
 
 It’s human nature to focus on the destination, a trait perpetuated by air travel. We want to be there as quickly as possible; we demand instant gratification. Life is too short to waste time in stasis, transiting between places. Such is the message of our non-stop lifestyles. But the journey is how we grow, how we learn. In focussing purely on the destination we miss out on a huge chunk of life.
 
