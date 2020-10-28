@@ -53,5 +53,3 @@ Tackle your flight FOMO head on by following slow-travellers on your instagram f
 **4.** Keep count of all the carbon you’ve saved as you go along.
 
 **5.** Unsubscribe from all those airline newsletters...
-
-![Photo shows Sophia sitting on a ferry showing the sign, Are you one of the 100,000 who will be flight free in 2020?](/images/uploads/sophia-cheng.jpg "Sophia Cheng on the ferry to Guernsey")
