@@ -42,7 +42,7 @@ After tracking how much carbon you've saved, consider making a donation to an or
 
 Tackle your flight FOMO head on by following slow-travellers on your instagram feed, or #vanlife on Facebook. Join the subculture of people keeping their feet on the ground.
 
-## Now that our pledge for 2021 is soon to launch, here are some tips for starting out as you mean to go on:
+# Now that our pledge for 2021 is soon to launch, here are some tips for starting out as you mean to go on:
 
 **1.** Book your leave in advance and plan your holidays seasonally. 
 
