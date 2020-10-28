@@ -9,9 +9,11 @@ summary: "Flight Free UK Director Anna Hughes travels from London to Copenhagen
 author: FlightFree UK
 read_time_minute: 3
 ---
-![View of a train window from inside the train. Four blue train seats sit across from each other, with a table between them. The view out the window shows blurred pine trees, with fields and tall hills in the background. The sky is pale blue. ](/images/uploads/train-window.jpg)
+![View of a train window from inside the train. Four blue train seats sit across from each other, with a table between them. The view out the window shows blurred pine trees, with fields and tall hills in the background. The sky is pale blue. ](/images/uploads/kids-on-train.jpg)
 
-We emerge from the Channel tunnel into hills that roll just as they do in Kent. The rain still falls. Graffiti adorns trackside walls. People stand on station platforms clutching mugs of coffee as we flash by. **By being on the ground we see others**, the homes they have built, the infrastructure that facilitates their lives, the land they farm. The roofs are different shapes, but they are roofs. The bricks are different colours, but they are bricks. Folk carving a living from the country in which they live. **It reminds us that we are all the same.**
+We emerge from the Channel tunnel into hills that roll just as they do in Kent. The rain still falls. Graffiti adorns trackside walls. People stand on station platforms clutching mugs of coffee as we flash by. By being on the ground we see others, the homes they have built, the infrastructure that facilitates their lives, the land they farm. The roofs are different shapes, but they are roofs. The bricks are different colours, but they are bricks. Folk carving a living from the country in which they live. It reminds us that we are all the same.
+
+> By being on the ground we see others
 
 As we roll from Belgium to Germany the landscape shifts subtly. There is not much to separate the lowlands - this corner of western Europe is small enough to be topographically similar. What shifts more noticeably is the culture. We are greeted in French, then Flemish, then German, the compulsory English translation that follows an uncomfortable reminder that we are far more lazy than our continental neighbours. Futuristic radio towers adorn distant hills. Cathedrals stretch elaborately towards the sky.
 
@@ -25,4 +27,4 @@ The continental landmass is huge. It’s important to remember that. We take for
 
 It’s human nature to focus on the destination, a trait perpetuated by air travel. We want to be there as quickly as possible; we demand instant gratification. Life is too short to waste time in stasis, transiting between places. Such is the message of our non-stop lifestyles. But the journey is how we grow, how we learn. In focussing purely on the destination we miss out on a huge chunk of life.
 
-By the time I reach Copenhagen I have learned, experienced, seen so much more than I would in the inside of an airport lounge and a 35,000ft high metal tube. The experience of that journey has changed me. And as my good friend David Charles once wrote, the only interesting thing that happens on a flight is that it might crash. And you definitely don’t want to be on that one.
+**By the time I reach Copenhagen I have learned, experienced, seen so much more than I would in the inside of an airport lounge and a 35,000ft high metal tube. The experience of that journey has changed me. And as my good friend David Charles once wrote, the only interesting thing that happens on a flight is that it might crash. And you definitely don’t want to be on that one.**
