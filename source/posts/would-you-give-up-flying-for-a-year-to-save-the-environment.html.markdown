@@ -10,7 +10,7 @@ read_time_minute: 3
 ---
 ![A plane lands over low tree-covered hills. It is dusk and the sky is pink, purple and blue. ](/images/uploads/landing.jpg)
 
-## 365 days without getting on a plane. Would you do it? Could you? *Should* you? 
+# 365 days without getting on a plane. Would you do it? Could you? *Should* you? 
 
 That’s what we at Flight Free UK are asking, and we have an ambitious target: we want 100,000 people to make the same pledge.
 
