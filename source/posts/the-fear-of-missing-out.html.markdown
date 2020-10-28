@@ -9,6 +9,8 @@ summary: Flight Free Director Anna Hughes explains the importance of living to
 author: FlightFree UK
 read_time_minute: 2
 ---
+![Anna stands next to a lake in the Isle of Skye. Behind her are two modern houses, green fields and faraway mountains. The sky is blue with large clouds. ](/images/uploads/isle-of-skye.jpg "Anna in the Isle of Skye ")
+
 A close friend got married last year, and I didn’t go to her hen night. It would have meant getting on a plane for the first time in ten years. 
 
 Usually this wouldn’t have stopped me: since I gave up flying I have still travelled, just by other means, by boat, train, car or bike, going to The Netherlands, France, Germany, Denmark, Belgium, Ireland and all over the UK.
