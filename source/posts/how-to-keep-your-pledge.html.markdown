@@ -50,6 +50,6 @@ Tackle your flight FOMO head on by following slow-travellers on your instagram f
 
 **3.** Read the inspiring blogs on the [Flight Free website](https://flightfree.co.uk/be_inspired/) to show that you’re not missing out.
 
-**4.** Keep count of all the carbon you’ve saved as you go along
+**4.** Keep count of all the carbon you’ve saved as you go along.
 
 **5.** Unsubscribe from all those airline newsletters...
