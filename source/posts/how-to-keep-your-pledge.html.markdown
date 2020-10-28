@@ -3,12 +3,12 @@ published: false
 title: "How to keep your pledge "
 category: opinion
 date: 2020-10-28T19:07:14.037Z
-cover_image: /images/uploads/lan-deng-kxgdl_y7iiw-unsplash.jpg
+cover_image: /images/uploads/jonas-thijs-unsplash.jpg
 summary: "Tips on staying grounded for twelve months "
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Picture shows a stationary train in a station with its doors open. The train is striped white, black and red. ](/images/uploads/lan-deng-kxgdl_y7iiw-unsplash.jpg)
+![Image shows young lady on a beach looking out to sea](/images/uploads/jonas-thijs-unsplash.jpg "Image by Jonas Thijs on Unsplash")
 
 # How to keep your pledge
 
