@@ -49,4 +49,4 @@ If these land-bound escapades have taught me anything it is the grateful humilit
 
 *\* stats from* *<https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/ukresidentsvisitsabroad>*
 
-*You can read more from David at* *[www.davidcharles.info](https://davidcharles.info/)*__
+*You can read more from David at* *[www.davidcharles.info](https://davidcharles.info/)*
