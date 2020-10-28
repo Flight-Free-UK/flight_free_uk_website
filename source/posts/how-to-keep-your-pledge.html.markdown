@@ -28,7 +28,7 @@ Take a leaf out of the travellers of old who walked everywhere – or could you 
 
 ### 4. Swap out the photo op for something close by
 
-I still love this Swiss idea showing that we often miss picturesque spots much closer to home: find your local spots with the [closeBY website](https://closeby.ch/). 
+I love this Swiss idea showing that we often miss picturesque spots much closer to home: find your local spots with the [closeBY website](https://closeby.ch/). 
 
 ### 5. Feel good about your emissions reduction
 
