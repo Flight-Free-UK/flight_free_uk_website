@@ -11,7 +11,7 @@ read_time_minute: 5
 ---
 ![The picture shows an information board in an airport showing flights to destinations such as Sydney, Tokyo and Berlin. All of the flights are either cancelled or delayed. ](/images/uploads/cancelled-flights.jpg)
 
-### It’s January 2009 and I’m trekking through the wild snow-bound wastelands of Luton. 
+## It’s January 2009 and I’m trekking through the wild snow-bound wastelands of Luton. 
 
 There’s a pack on my back and every step I take sinks my sodden shoes into the grey mush that has coated the dual carriageway to the airport. I know my flight is cancelled, but I also know that, if I’m to have even a slim chance of claiming my money back, I need to present myself in person at the check-in desk. 
 
