@@ -10,8 +10,6 @@ read_time_minute: 2
 ---
 ![Image shows young lady on a beach looking out to sea](/images/uploads/jonas-thijs-unsplash.jpg "Image by Jonas Thijs on Unsplash")
 
-# How to keep your pledge
-
 Twelve months without flying can be pretty tough if you’re usually on a plane every few weeks or months. As we come into autumn and winter with grey skies and short days, those adverts for city getaways or cheap flights might be more tempting than ever. 
 
 ## Here are some tips to help you not to break your pledge, from one of our pledgers [Sophia Cheng](http://www.withmanyroots.com):
