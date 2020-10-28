@@ -29,6 +29,8 @@ It’s always easier to keep on doing what you’ve always done than to make a c
 
 Ten days and 547 miles later, I arrived in Bordeaux covered in blood, oil, rain and sweat. We drank the night away, playing pool in a giddy haze of back-slapping and congratulatory crêpes. I’d proved to myself that I can live without aeroplanes – no, that's not right – I *thrive* without aeroplanes. 
 
+> I’d proved to myself that I can live without aeroplanes – no, that's not right – I *thrive* without aeroplanes. 
+
 My parents are great travellers, once hitch-hiking all the way from London to Sydney, Australia. They’ve been a little more tied down since me and my sister were born, but I took my first flight aged just three months. Since then, I’ve flown to 33 different countries on 77 aeroplane flights. But finally – after plodding through 77 passport controls, 77 departure lounges, 77 immigration queues, 77 customs halls, 77 baggage carousels and 77 arrival halls – cycling to Bordeaux has taught me that flights aren’t holidays. 
 
 Yet you could be forgiven for thinking that they are essentially equivalent – if you’ve only got two weeks in July, then you probably don’t want to spend it in the Ramsgate rain, so you go to Spain, mainly on the plane. Since the 1970s, sunshine-seeking British holiday-makers have transformed the foreign holiday, complete with return flights, from a luxury into a basic necessity of modern life. In 2017, UK residents took 46.6 million holidays abroad, up ten-fold from 1971, and we flew for 39.7 million of them, over 85%*. The proportion of holiday-makers who fly is rising. Conclusion: everyone wants to holiday abroad and, to get there, nearly everyone flies. But why? 
@@ -46,8 +48,5 @@ If these land-bound escapades have taught me anything it is the grateful humilit
  If we choose to use aeroplanes, then we must realise that aeroplanes will influence who we are becoming. I'll leave it up to you to think about whether that influence is, on balance, positive or negative, but I would urge you to at least explore its opposite, No Aeroplanes. You literally don’t know where you’ll end up. 
 
 *\* stats from* *<https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/ukresidentsvisitsabroad>*
-__
-
-__
 
 *You can read more from David at* *[www.davidcharles.info](https://davidcharles.info/)*__
