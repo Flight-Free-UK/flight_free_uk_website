@@ -1,7 +1,7 @@
 ---
 published: true
-title: "One of the 100,000: Jusep Moreno"
-category: opinion
+title: "Flight Free for 2020: Jusep Moreno"
+category: testimonials
 date: 2019-12-23T09:17:41.536Z
 cover_image: /images/uploads/jusep.jpeg
 summary: "Read from some of our pledgers about why they've signed the
