@@ -2,11 +2,11 @@ import renderShareMessage from './templates/pledge_form/share.template.js';
 import renderCurrentPledges from './templates/pledge_form/current_pledges.template.js';
 
 const share_text =
-    "I have pledged not to take any flights in 2020 to avert climate breakdown #flightfree2020 @flightfree2020 https://www.flightfree.co.uk/pledge"
+    "I have pledged not to take any flights in 2020 to avert climate breakdown #1 @flightfree2021 https://www.flightfree.co.uk/pledge"
 
 const twitter_link = `https://twitter.com/intent/tweet?text=${encodeURIComponent(share_text)}`;
 const whatsapp_link = `whatsapp://send?text=${encodeURIComponent(share_text)}`;
-const instagram_link = 'https://www.instagram.com/flightfree2020/';
+const instagram_link = 'https://www.instagram.com/flightfreeUK/';
 const facebook_link = 'https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.flightfree.co.uk%2Fpledge';
 
 const response_html = renderShareMessage({
