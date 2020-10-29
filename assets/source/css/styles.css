@@ -78,7 +78,8 @@ strong {
 }
 
 .blog-post-body > p, .blog-post-body ul, .blog-post-body ol, .blog-post-body blockquote {
-  @apply font-sans font-light leading-normal text-text-default;
+  font-family: Helvetica, Arial, sans-serif;
+  @apply font-light leading-normal text-text-default;
   @apply mb-6;
 }
 
