@@ -20,7 +20,7 @@ title: About us
 	      <div class="md:flex-shrink-0">
           <%= image_tag member.photo, class: "inline-block mb-6 rounded", style: "width: 19rem" %>
 	      </div>
-        <div class="lg:mt-8 mx-4 sm:mx-8 mb-12 xl:mb-0">
+        <div class="lg:mt-8 sm:mx-8 mb-12 xl:mb-0">
           <h3 class="text-2xl xl:text-3xl text-blue-dark"><%= member.name %></h3>
           <h3 class="text-xl xl:text-2xl text-blue-dark mb-4"><%= member.role %></h3>
           <p class="text-text-default text-lg xl:text-xl mb-4 xl:mb-8 leading-tight"><%= member.bio %></p>
@@ -36,8 +36,8 @@ title: About us
     <h2 class="text-4xl xl:text-5xl text-blue-dark mb-6">Advisory Group</h2>
     <div class="xl:flex flex-wrap justify-center mb-12 xl:mb-24">
       <% data.advisorygroup.members.each do |member| %>
-        <div class="md:flex">
-          <div class="flex-shrink-0 w-1/4">
+        <div class="xl:flex">
+          <div class="flex-shrink-0 xl:w-1/4">
             <h3 class="text-xl xl:text-2xl text-blue-dark underline"><a href="<%= member.url %>" target="_blank"><%= member.name %></a></h3>
             <h3 class="text-lg xl:text-xl text-blue-dark mb-4"><%= member.description %></h3>
           </div>
