@@ -8,7 +8,7 @@ summary: "Tips on staying grounded for twelve months "
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Image shows young lady on a beach looking out to sea](/images/uploads/jonas-thijs-unsplash.jpg "Image by Jonas Thijs on Unsplash")
+![Image shows three friends on a beach looking out to sea](/images/uploads/credit-jayme_elkins-with_many_roots-holiday_in_scotland.jpg "Scotland holiday. Image credit: Jayme Elkins-With Many Roots")
 
 Twelve months without flying can be pretty tough if you’re usually on a plane every few weeks or months. As we come into autumn and winter with grey skies and short days, those adverts for city getaways or cheap flights might be more tempting than ever. 
 
