@@ -3,7 +3,7 @@ published: true
 title: "How to keep your pledge "
 category: opinion
 date: 2020-10-28T19:07:14.037Z
-cover_image: /images/uploads/jonas-thijs-unsplash.jpg
+cover_image: /images/uploads/credit-jayme_elkins-with_many_roots-holiday_in_scotland.jpg
 summary: "Tips on staying grounded for twelve months "
 author: FlightFree UK
 read_time_minute: 2
