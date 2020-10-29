@@ -70,7 +70,8 @@ strong {
 /* blog posts */
 
 .blog-post-body a {
-  @apply text-orange;
+  @apply underline;
+  text-decoration-color: #f7b38a;
 }
 
 .blog-post-body a:hover {
@@ -78,7 +79,7 @@ strong {
 }
 
 .blog-post-body > p, .blog-post-body ul, .blog-post-body ol, .blog-post-body blockquote {
-  font-family: Helvetica, Arial, sans-serif;
+  @apply font-blog;
   @apply font-light leading-normal text-text-default;
   @apply mb-6;
 }
@@ -207,15 +208,15 @@ strong {
   }
 
   .blog-post-body h2 {
-    @apply text-3xl;
+    @apply text-4xl;
   }
 
   .blog-post-body h3 {
-    @apply text-2xl;
+    @apply text-3xl;
   }
 
   .blog-post-body h4 {
-    @apply text-3xl;
+    @apply text-2xl;
   }
 }
 
