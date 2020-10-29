@@ -1,7 +1,7 @@
 ---
 published: true
-title: "One of the 100,000: Michael Crossland"
-category: opinion
+title: "Flight Free for 2020: Michael Crossland"
+category: testimonials
 date: 2019-11-04T11:14:04.220Z
 cover_image: /images/uploads/red-nailvarnish-small.jpg
 summary: "We hear from our pledgers about why they've chosen to be #flightfree in 2020"

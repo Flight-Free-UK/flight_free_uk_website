@@ -4,9 +4,8 @@ title: A flight free holiday in Mallorca
 category: travel
 date: 2020-02-25T16:45:19.386Z
 cover_image: /images/uploads/Mallorca.jpg
-summary: >-
-  Mallorca is the ultimate package holiday, but there is another side to the
-  island and there is no need to take to the air to discover it, says Rowena
+summary: Mallorca is the ultimate package holiday, but there is another side to
+  the island and there is no need to take to the air to discover it, says Rowena
   Quantrill
 author: FlightFree UK
 read_time_minute: 4
