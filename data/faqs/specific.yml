@@ -5,6 +5,11 @@ faqs:
       those who are further along their flight free journey, there's the option
       to stay grounded for life.
     question: Why three different pledge options?
+  - question: Can I change my pledge category?
+    answer: If you want to change your pledge category you can do by signing again
+      with the same email address and name that you used the first time, but
+      with your new category choice. The database will be updated to reflect
+      your new category.
   - answer: Asking people to stop flying forever is unlikely to appeal. But an
       air-free year can be a good way to break an established habit and enable
       people to start to see other alternatives. Having a time limit focuses the
@@ -55,8 +60,3 @@ faqs:
       significant lifestyle change, which is more likely to promote greener
       transport choices in the future.
     question: Can’t I just fly less?
-  - question: Can I change my pledge category?
-    answer: If you want to change your pledge category you can do by signing again
-      with the same email address and name that you used the first time, but
-      with your new category choice. The database will be updated to reflect
-      your new category.
