@@ -63,6 +63,8 @@ Let's look at four areas where we can reduce our emissions: clothing, food, ener
 
 A typical outfit of jeans, t-shirt, jacket and trainers would produce around [76kg CO2](https://www.ecotricity.co.uk/news/news-archive/2018/the-carbon-footprint-of-getting-dressed). So just that one outfit is roughly the equivalent of driving London-Paris. So how can we reduce our carbon footprint from fashion?
 
+> "A typical outfit of jeans, t-shirt, jacket and trainers would produce around 76kg CO2."
+
 #### Emily:
 
 *Fast fashion is made cheaply, made to look good, but it falls apart easily. So we should avoid it and buy second hand or buy good quality that will be built to last.*
@@ -74,6 +76,8 @@ If you eat meat your diet alone could use up your entire sustainable carbon budg
 #### Emily:
 
 *Food is a big one. If we cut out all animal products we can reduce global emissions by 28% and would free up 76% of the world’s land for less intensive forms of farming. It’s particularly about meat and dairy, so we should eat plant based, organically-grown vegetables, locally-grown and in season, and try to avoid waste.*
+
+> *"We should eat plant based, eat organic, locally-grown and in season, and avoid waste."*
 
 #### Flight Free UK:
 
@@ -91,6 +95,8 @@ So far, if we don’t buy any new clothes or maybe the odd pair of shoes, and so
 
 Globally, transport is responsible for 15% emissions, and even though air travel 3% global emissions that’s because the majority of people in the world have never been on a plane. Here in the UK we fly a lot and if you do fly, the chances are that those flights will make up the largest part of your carbon footprint.
 
+> "Here in the UK we fly a lot and if you do fly, the chances are that those flights will make up the largest part of your carbon footprint."
+
 #### Emily:
 
 *It’s really important to reduce the amount we fly because it's not just carbon emissions, it’s water vapour and other greenhouse gases. Flying is much higher in emissions than alternative transport choices.*
@@ -103,6 +109,8 @@ According to [a study by Lund university](https://www.lunduniversity.lu.se/artic
 
 Now let’s look at flights. A domestic flight, such as London to Edinburgh, will add around 170kg\* CO2 to your footprint. A European destination such as Barcelona would add 364kg\* return. Transatlantic, you’re looking at between 1.6 tonnes\* to the US east coast and 2.6 tonnes\* to the west. Flying to Australia, on the other side of the world, will generate 5.5 tonnes* carbon, per passenger. Over twice your annual carbon budget.
 
+> "Flying to Australia will generate 5.5 tonnes* carbon, per passenger. Over twice your annual carbon budget."
+
 It’s pretty clear that there’s not much room for flying, especially long haul, if we are to have a sustainable future. The good news is that the short haul and domestic flights we take can mostly be replaced by rail, which gives around a [90% emissions saving](https://www.seat61.com/CO2flights.htm). So there can still be travel in a sustainable future – just a different type of travel.
 
 Ultimately, we have to change everything about the way we live if we are to avoid climate breakdown, and it will take all of us to do it.
@@ -113,10 +121,12 @@ Ultimately, we have to change everything about the way we live if we are to avoi
 
 *Even if we do make all these changes individually, we’re still not within sustainable limits. This is where we need all our emissions that are outside of our control to reduce, and that’s down to system change.*
 
+### Thank you Emily for speaking with us and to you for listening!
+
 You can find out more about Emily on her website [emilygrossman.co.uk](http://emilygrossman.co.uk) or on Twitter [@dremilygrossman](https://twitter.com/dremilygrossman)
 
 And we recommend reading the document she wrote for Extinction Rebellion, [Emergency on Planet Earth](https://extinctionrebellion.uk/the-truth/the-emergency/).
 
-### You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+#### You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 *Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
