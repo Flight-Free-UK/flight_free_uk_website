@@ -36,6 +36,10 @@ The highlight of the trip was an extended stop in Hamburg. I got to see this sur
 
 I’m hoping that the proposed Swedish Rail [sleeper](https://www.independent.co.uk/travel/news-and-advice/sweden-london-train-sleeper-malmo-amsterdam-cologne-munich-rail-a9288206.html) train could be an option for a future trip, leaving Malmö in the evening and arriving in London late the following morning. But either way I’m hooked – I can’t wait to be on this journey again.
 
+```
+<hr>
+```
+
 ## 🇳🇴 Norway by ferry and train (and rail replacement bus)
 
 ### – Ian and Gilly Charters
