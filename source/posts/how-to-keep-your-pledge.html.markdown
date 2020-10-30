@@ -12,9 +12,9 @@ read_time_minute: 2
 
 Twelve months without flying can be pretty tough if you’re usually on a plane every few weeks or months. As we come into autumn and winter with grey skies and short days, those adverts for city getaways or cheap flights might be more tempting than ever. 
 
-## Here are some tips to help you not to break your pledge, from one of our pledgers, [Sophia Cheng](http://www.withmanyroots.com):
+### Here are some tips to help you not to break your pledge, from one of our pledgers, [Sophia Cheng](http://www.withmanyroots.com):
 
-### 1. Pledge with a buddy
+#### 1. Pledge with a buddy
 
 Remember the old adage, “If you want to go fast go alone but if you want to go far go together.” Pledging with a buddy can help temper the flight sales emails and the social media targeting directed at you.
 
