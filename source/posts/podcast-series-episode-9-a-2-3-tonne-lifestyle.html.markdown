@@ -9,7 +9,7 @@ summary: Science communicator Dr Emily Grossman joins us to discuss what action
 author: FlightFree UK
 read_time_minute: 6
 ---
-## This podcast is episode 9 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+### This podcast is episode 9 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![Dr Emily Grossman](/images/uploads/emilyspeaking.jpeg "Dr Emily Grossman speaking at Extinction Rebellion protests in London")
 
@@ -17,15 +17,19 @@ read_time_minute: 6
 
 In 2018 the IPCC published their report which said in order to be sustainable our personal carbon footprints should not exceed 2.3 tonnes, each, per year. We’re going to explore what that means, and if and how we can reduce our carbon footprints to that sustainable level.
 
-We’re joined by **[Dr Emily Grossman](https://www.emilygrossman.co.uk)** who is an author, broadcaster, science expert and one of the co-founders of Scientists for Extinction Rebellion. Emily is great at explaining sciency things in a way that everybody will understand. So let’s start by asking, what is a carbon footprint, and why is it important to keep our carbon emissions down?
+We’re joined by [Dr Emily Grossman](https://www.emilygrossman.co.uk) who is an author, broadcaster, science expert and one of the co-founders of Scientists for Extinction Rebellion. Emily is great at explaining sciency things in a way that everybody will understand. So let’s start by asking, what is a carbon footprint, and why is it important to keep our carbon emissions down?
 
-#### *Emily:*
+#### Emily:
 
-*A carbon footprint is the amount of carbon emissions we are personally responsible for. Those carbon emissions contribute to what we call greenhouse gases that go into the atmosphere, which also includes methane, nitrous oxide and water vapour. These form a sort of fluffy blanket and keep us warm, which is important for us to be able to live. The problem is we’ve been adding more greenhouse gases to this layer which is getting thicker, meaning that it’s getting warmer. The global temperature has risen by 1ºC which leads to hotter oceans, ice melt and changing weather, for example heat waves, storms and floods. This affects livelihoods and health of people, and the ability to grow crops and drink fresh water.*
+*A carbon footprint is the amount of carbon emissions we are personally responsible for. Those carbon emissions contribute to what we call greenhouse gases that go into the atmosphere, which also includes methane, nitrous oxide and water vapour. These form a sort of fluffy blanket and keep us warm, which is important for us to be able to live.* 
+
+*The problem is we’ve been adding more greenhouse gases to this layer which is getting thicker, meaning that it’s getting warmer. The global temperature has risen by 1ºC which leads to hotter oceans, ice melt and changing weather, for example heat waves, storms and floods. This affects livelihoods and health of people, and the ability to grow crops and drink fresh water.*
 
 #### Flight Free UK:
 
-So it’s vital that we reduce our carbon emissions. We’re already seeing the effects of a warming climate and these are only going to get worse if we continue to add to the amount of greenhouse gases in the atmosphere. In the last 250 years, i.e. since the industrial revolution, atmospheric levels of CO2 have gone from **[280ppm to 410ppm](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)**. Our human activity is pushing up this ‘natural' level of carbon dioxide from where it keeps us warm and alive, to where it creates global heating which leads to serious problems for the ecosystems which we depend on to survive.
+So it’s vital that we reduce our carbon emissions. We’re already seeing the effects of a warming climate and these are only going to get worse if we continue to add to the amount of greenhouse gases in the atmosphere. In the last 250 years, i.e. since the industrial revolution, atmospheric levels of CO2 have gone from [280ppm to 410ppm](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide). Our human activity is pushing up this ‘natural' level of carbon dioxide from where it keeps us warm and alive, to where it creates global heating which leads to serious problems for the ecosystems which we depend on to survive.
+
+> "It’s vital that we reduce our carbon emissions."
 
 Our carbon footprints across the globe vary wildly. Let’s put that 2.3 tonne carbon footprint into context:
 
@@ -38,7 +42,7 @@ Our carbon footprints across the globe vary wildly. Let’s put that 2.3 tonne c
 * USA = 16
 * Oil states like UAE and Kuwait top the list with 20+ tonnes
 
-  *~ figures from 2018, accessed in **[this article](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita)**.*
+  *~ figures from 2018, accessed in [this article](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita).*
 
 #### *Emily:*
 
