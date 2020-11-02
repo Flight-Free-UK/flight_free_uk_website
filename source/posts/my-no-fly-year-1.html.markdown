@@ -17,7 +17,7 @@ read_time_minute: 6
 
 For at least a decade, I had wanted to challenge myself to a ‘no-fly year’, primarily for environmental reasons. However, there always seemed to be a good enough excuse to just buy that plane ticket (to a conference, a vacation, visit friends or family). And there always will be, I soon realised. 
 
-> "There always seemed to be a good enough excuse to just buy that plane. And there always will be, I soon realised."
+> "There always seemed to be a good enough excuse to just buy that plane ticket. And there always will be, I soon realised."
 
 Most importantly, it had been difficult to get my head around limiting the possibility of meeting up with my family unless they decided to visit me. My immediate family, originally from Colombia, was now living in the US and I had settled in the UK seven years before. My extended family is scattered across even more countries. An entire ocean was separating me from my loved ones, and the only realistic way to see them was to get on a plane. 
 
