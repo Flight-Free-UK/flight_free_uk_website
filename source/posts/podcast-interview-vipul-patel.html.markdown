@@ -9,7 +9,7 @@ summary: "In episode four of the Flight Free podcast we talk to Vipul Patel, an
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/vipul-patel.jpg)
+![Vipul is holding a piece of paper with his Flight Free 2020 pledge on it. He is standing in the courtyard of an old limestone building. He is wearing a black v neck jumper. ](/images/uploads/vipul-patel.jpg "Vipul holding his Flight Free 2020 pledge")
 
 ## Our conversation focusses on bringing the climate crisis into the public conscious simply by talking about it more, and also by being a role model.
 
