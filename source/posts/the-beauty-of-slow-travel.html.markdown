@@ -13,7 +13,7 @@ read_time_minute: 3
 
 We emerge from the Channel tunnel into hills that roll just as they do in Kent. The rain still falls. Graffiti adorns trackside walls. People stand on station platforms clutching mugs of coffee as we flash by. By being on the ground we see others, the homes they have built, the infrastructure that facilitates their lives, the land they farm. The roofs are different shapes, but they are roofs. The bricks are different colours, but they are bricks. Folk carving a living from the country in which they live. It reminds us that we are all the same.
 
-> "By being on the ground we see others"
+> "By being on the ground we see others, the homes they have built and infrastructure that facilitates their lives."
 
 As we roll from Belgium to Germany the landscape shifts subtly. There is not much to separate the lowlands - this corner of western Europe is small enough to be topographically similar. What shifts more noticeably is the culture. We are greeted in French, then Flemish, then German, the compulsory English translation that follows an uncomfortable reminder that we are far more lazy than our continental neighbours. Futuristic radio towers adorn distant hills. Cathedrals stretch elaborately towards the sky.
 
