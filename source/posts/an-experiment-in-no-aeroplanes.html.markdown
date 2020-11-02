@@ -31,7 +31,7 @@ It’s always easier to keep on doing what you’ve always done than to make a c
 
 Ten days and 547 miles later, I arrived in Bordeaux covered in blood, oil, rain and sweat. We drank the night away, playing pool in a giddy haze of back-slapping and congratulatory crêpes. I’d proved to myself that I can live without aeroplanes – no, that's not right – I *thrive* without aeroplanes. 
 
-> *"I’d proved to myself that I can live without aeroplanes – I thrive without aeroplanes."* 
+> "I’d proved to myself that I can live without aeroplanes – I thrive without aeroplanes." 
 
 My parents are great travellers, once hitch-hiking all the way from London to Sydney, Australia. They’ve been a little more tied down since me and my sister were born, but I took my first flight aged just three months. Since then, I’ve flown to 33 different countries on 77 aeroplane flights. But finally – after plodding through 77 passport controls, 77 departure lounges, 77 immigration queues, 77 customs halls, 77 baggage carousels and 77 arrival halls – cycling to Bordeaux has taught me that flights aren’t holidays. 
 
