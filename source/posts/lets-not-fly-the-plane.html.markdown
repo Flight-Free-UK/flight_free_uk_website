@@ -8,50 +8,50 @@ summary: Flight Free UK teams up with Disney for some lyrical fun
 author: FlightFree UK
 read_time_minute: 1
 ---
-After our attempted flashmob at Stansted Airport was thwarted (apparently they don't take kindly to singing in the airport terminal) we took to the far less lofty setting of Sarah's Back Garden and recorded the song anyway. Not quite as slick but just as silly!
+![]()
 
-_With climate change happ'ning so fast,_ 
+### After our attempted flashmob at Stansted Airport was thwarted (apparently they don't take kindly to singing in the airport terminal) we took to the far less lofty setting of Sarah's Back Garden and recorded the song anyway. Not quite as slick but just as silly!
 
-_You all might very well ask:_ 
+*With climate change happ'ning so fast,* 
 
-_'Oh what can I do? There's no cure in sight!'_ 
+*You all might very well ask:* 
 
-_But have you ever thought of not taking that flight?_  
+*'Oh what can I do? There's no cure in sight!'* 
 
-__
-
-_Let's not fly the plane up in the air again!_ 
-
-_Let's not fly the plane or send it soaring_ 
-
-_Up! It's so damaging!_ 
-
-_Up! It's the darnedest thing!_ 
-
-_Oh, let's not fly the plane._  
+*But have you ever thought of not taking that flight?*  
 
 __
 
-_When you send it flying up there_ 
+*Let's not fly the plane up in the air again!* 
 
-_All it does is pollute the air,_ 
+*Let's not fly the plane or send it soaring* 
 
-_With our climate so fragile we need to fight_ 
+*Up! It's so damaging!* 
 
-_With our endless desire to take all of these flights._  
+*Up! It's the darnedest thing!* 
+
+*Oh, let's not fly the plane.*  
 
 __
 
-_Let's not take that flight up to the highest height!_ 
+*When you send it flying up there* 
 
-_Let's not take that flight, just heed the warning,_ 
+*All it does is pollute the air,* 
 
-_Up goes the CO2!_  
+*With our climate so fragile we need to fight* 
 
-_Up, yes it's up to you_ 
+*With our endless desire to take all of these flights.*  
 
-_To say 'No!' to the flight!_
+__
 
+*Let's not take that flight up to the highest height!* 
 
+*Let's not take that flight, just heed the warning,* 
+
+*Up goes the CO2!*  
+
+*Up, yes it's up to you* 
+
+*To say 'No!' to the flight!*
 
 Watch the video here: [https://youtu.be/8Mpg6Bzz73Y](https://www.youtube.com/watch?v=8Mpg6Bzz73Y&feature=youtu.be)__
