@@ -10,7 +10,7 @@ summary: For low-carbon travel, you can't beat the humble bicycle. We speak to
 author: FlightFree UK
 read_time_minute: 6
 ---
-## This podcast is episode 9 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+## This podcast is episode 10 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![A bicycle is leaned against a white brick wall. The frame of the bike is blue, but the wheels are bright orange. ](/images/uploads/bicycle-against-wall-.jpg)
 
