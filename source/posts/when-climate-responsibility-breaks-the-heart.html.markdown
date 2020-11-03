@@ -11,7 +11,7 @@ read_time_minute: 4
 ---
 ![A black and white picture of a girl giving a piggyback to a little boy. They are surrounded by grass and trees. ](/images/uploads/blog-2.jpg)
 
-## It was 2005 when my two sons left for New Zealand with their father. They were aged 13 and 10. That same year I moved to Donegal in rural Ireland. 
+## It was 2005 when my two sons left for New Zealand with their father. They were aged 13 and 10. That same year I moved to Donegal in rural Ireland.
 
 I've been aware of the impact of flights for a long time, having been involved in environmental causes and campaigns since the late 80s. Flying just doesn’t sit well with me. But with such young boys now living half a world away, that Christmas I bought a plane ticket. It was awesome to visit. New Zealand is a really beautiful country with very friendly people and a laid back culture. And it was great to see my kids. After 12 months my ex-husband and I reviewed whether they would stay. Having settled in well, they were keen, as they enjoyed the relaxed atmosphere and the more outdoor life.
 
@@ -31,6 +31,8 @@ I flew to UK for a funeral a few years ago, but other than that I've not flown, 
 
 I know that some believe that taking decisions like this are martyrdom. I don't see it that way. I believe we all have a responsibility to face the hard stuff and make challenging decisions. Yes, it sucks. But that or extinction? If we all keep flying for winter sun, we're never going to achieve carbon neutral let alone negative. The era of the cheap flight needs to stop so that our children actually have a life to lead. Growing up in the 70s, no-one I knew travelled by plane. Now it's hen parties in Barcelona!
 
+> "The era of the cheap flight needs to stop so that our children actually have a life to lead."
+
 The climate breakdown we are in, the 6th mass extinction, means that we need to stop the exceptionalism and tackle the really hard things. 
 
 We need a systems change away from our capitalist society. We need the governments to step up. It just cannot be Business as Usual. No-one gets a free pass. I'm nearly 50 now; if we don't do what it takes, our own children may not even see that age.
@@ -39,4 +41,6 @@ My boys are young adults now and getting on with their lives in New Zealand. The
 
 I've boxed it up and shelved it all in many ways. I don’t talk about them much. I’ve removed loads of pictures from the walls. I don’t dwell too much on the past and I haven’t moved back to the UK. It’s painful to revisit old memories. But you do learn to live with the grief; it changes over time though never goes away.
 
-Am I afraid it's all in vain? Should I say to hell with it? I just can't. My conscience won't allow it. I’m taking climate action wherever I can to protect my children's futures. At least I want to be able to say that I did what I believed to be the right thing.
+Am I afraid it's all in vain? Should I say to hell with it? I just can't. My conscience won't allow it.
+
+####  I’m taking climate action wherever I can to protect my children's futures. At least I want to be able to say that I did what I believed to be the right thing.
