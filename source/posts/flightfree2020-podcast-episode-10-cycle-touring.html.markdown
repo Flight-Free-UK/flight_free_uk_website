@@ -16,6 +16,8 @@ read_time_minute: 6
 
 #### As a mode of transport you can’t get much lower carbon, and it’s a fantastic leveller – it’s used by all sorts of people across the globe and it doesn’t require a huge budget to be able to go exploring by bike. We’ve lined up two passionate cycle tourers, Jo and Debs, to talk to us about travelling by bicycle.
 
+You can listen to the podcast, and access the rest of the series, at our [podcast page.](https://flightfree.co.uk/podcast/)
+
 **Jo:** We started travelling by bike about 8 years ago – we thought it would be really cool to ride our bikes to France and ride around France for ten days. 
 **Debs:** Jo thought it would be a good trip. I didn’t like cycling very much! I tried to ride my bike to school but I was a rubbish cyclist. So Jo was very excited about this trip cheese/wine/cycling holiday in France. A few months before I got a road bike which changed everything – it became less about my leg strength and more about my cardio-vascular fitness so it was an enjoyable holiday despite my serious misgivings in advance.
 
