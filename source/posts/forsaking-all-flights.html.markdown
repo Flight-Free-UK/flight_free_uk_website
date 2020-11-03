@@ -12,11 +12,9 @@ read_time_minute: 3
 ---
 ![Picture shows Rebecca and Marc on their wedding day. Marc is helping Rebecca out of an old fashioned car. She is wearing a classic wedding dress with lace detail and a veil, he is wearing a dark blue suit with a purple tie. ](/images/uploads/rebecca-wedding.jpg "Rebecca and Marc on that special day!")
 
-## There is a lot of tradition wrapped up around weddings. The honeymoon is no exception. 
+#### There is a lot of tradition wrapped up around weddings. The honeymoon is no exception.
 
-#### The ‘moon’ part relates to the month that a newly wed couple would spend together almost in isolation. The ‘honey’ perhaps represents the sweetness of this time. 
-
-Some couples apparently ate a spoon of honey every day during the first month. (Maybe they needed the energy!).
+The ‘moon’ part relates to the month that a newly wed couple would spend together almost in isolation. The ‘honey’ perhaps represents the sweetness of this time. Some couples apparently ate a spoon of honey every day during the first month. (Maybe they needed the energy!).
 
 When Marc and I planned our honeymoon, it was hardly going to be the first time we were going to be alone - we had already lived together for two years. It certainly wasn’t going to be our first holiday together either. We had already holidayed across Europe, including some flying holidays. Was it perhaps time to break with tradition for the first holiday of our married life? We decided we would travel to Paris by train, and announced our modest flight-free honeymoon destination to friends and family with some trepidation. 
 
@@ -24,7 +22,7 @@ To our surprise, our decision was met with almost universal approval. It was ‘
 
 It amused me that what we were doing was seen as old fashioned, when what I was actually doing was looking very firmly to the future. We loved each other, of course, and fully intended, as most married couples do, to spend the rest of our lives together. Would we, in our married lifetime, see the horrific consequences of unrestricted flying? Not if I had anything to do with it.
 
-> "It amused me that what we were doing was seen as old fashioned, when what I was actually doing was looking very firmly to the future."
+> "What we were doing was seen as old fashioned, when actually we were looking very firmly to the future."
 
 As many non-flyers discover, a flight free holiday becomes much more about the journey. Going to Paris was clichéd perhaps, but undeniably romantic. Setting off from Yorkshire, we travelled first class on the train to London. It is much cheaper and easier to lux up your travel when you are not flying. We had a night in London, which we would not have had otherwise, and visited the recently-opened Shard, which was quite spectacular.
 
