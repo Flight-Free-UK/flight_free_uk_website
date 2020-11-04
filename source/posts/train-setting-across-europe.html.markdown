@@ -10,15 +10,15 @@ summary: Arts and sustainability group Creative Carbon Scotland has a general
 author: FlightFree UK
 read_time_minute: 5
 ---
-![Picture shows a eurostar train parked at a platform. It is dark blue with yellow stripes running down the side and a yellow eurostar logo. ](/images/uploads/train-setting-across-europe-.jpg)
+![Picture shows two stationary trains wither side of platform at a train station in Portugal. Theres a bench in the middle of the platform and the roof has large rectangular windows.](/images/uploads/train-portugal-.jpg)
 
 I’ve seldom flown in the last few years so it’s no big deal for me, but people are amazed that you can travel – even live! – without flying. So here are a few thoughts about how to do it. 
 
-### **Don’t travel at all!** 
+### **Don’t travel at all!**
 
 Of course the first thing to do is question whether you need to travel at all: would a phone call, video conference or email do the trick? Or a holiday nearer to home? To coin a phrase, ‘Is your journey really necessary?’ 
 
-### **Cost**  
+### **Cost**
 
 It’s not necessarily the case that trains are more expensive compared to flying or driving. Depending on where you’re going and when, you may need to do a bit more planning, but not always. However, you do need to know some tricks. 
 
@@ -32,11 +32,11 @@ When travelling in the UK, splitting the journey can make it much cheaper. The w
 
 Booking straight through to London needn’t be so pricey either. Edinburgh to London trains booked just a few days in advance go from £70 upwards with city centre to city centre journey times of about 4 ½ hours, and trains every 30 minutes. Air travel (which involves transfers at both ends, plus time for security and boarding) will take you about the same time and at today’s price, Easyjet will cost you £61 at the lowest, flying to Stansted, so you’ll have to pay to get to/from the airport at each end, plus any baggage costs. 
 
-### **Get a railcard** 
+### **Get a railcard**
 
 If you are travelling in the UK regularly with someone else, or sometimes even for one long journey, get a Two Together Railcard. £30 for two for a year gets you 33% off most tickets. You need to travel together but you don’t have to have the card when you buy, as long as you have it when you travel.
 
-### **Europe** 
+### **Europe**
 
 The website you need for travelling in Europe is [www.seat61.com](https://www.seat61.com/). It’s a bit dense, but it’s worth the read. Choose the country you’re going to and it will tell you about the routes, the timings, the prices and where to buy tickets etc. 
 
@@ -44,7 +44,7 @@ The site for buying tickets to most places is [Rail Europe](https://raileurope.c
 
 Eurostar tickets can be expensive, but can be purchased in advance more cheaply. The advantage of buying a through ticket to your final destination here is that if your Eurostar is late, you’ll be put on to the next one at no cost, whereas if you have separate tickets they may not be so obliging. Use the ‘[booking alert](https://help.loco2.com/article/316-how-far-in-advance-can-i-book#reminder)’ system on [Rail Europe](https://raileurope.co.uk) to hear when tickets are available.
 
-### **Stopovers** 
+### **Stopovers**
 
 One thing to think about is whether it makes sense to do a stopover. When one of the Creative Carbon Scotland team and I had to go to Brussels for our EU project, she stopped over in London and saw an old friend while I went to see some family in Kent and got the Eurostar from Ebbsfleet. We both did a full day’s work on Tuesday, had a good evening and a good sleep and arrived in Brussels on time and relaxed. Colleagues from another Scottish company got up at 3:30am to catch the early flight, slept badly, were knackered at the meeting and had a lot less fun! 
 
@@ -67,7 +67,7 @@ InterRail, that thing you did when you were young and impoverished, has modernis
 * You can get passes that cover 3 or 5 days, so they may be good for longer and more complicated journeys, like the ones we’re taking to Sweden in November for our EU project Cultural Adaptations
 * You can get a first class one if it takes your fancy! 
 
-### **Summary** 
+### **Summary**
 
 To sum up, here are a few things to think about: 
 
@@ -80,7 +80,7 @@ To sum up, here are a few things to think about:
 * Consider timings – trains may be more frequent so no extra overnights etc 
 * Would an InterRail pass be better value or more convenient for complicated journeys? 
 
-### **Time** 
+### **Time**
 
 * Consider all time-costs: getting to and from airports; check in, hanging around uselessly
 * Consider timings – with fewer flights you may need to arrive or leave too early or be hanging around until late 
