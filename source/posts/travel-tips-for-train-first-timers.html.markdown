@@ -32,7 +32,7 @@ While most European rail systems are nothing like Britain’s, they are usually 
 7. Also printed and posted up on platforms at many major stations are guides to the carriage layout of express trains due. They literally tell you where on the platform you should stand.
 8. The train operators know about the key connections. Often they just involve walking across a platform to a train already waiting for you. At the very least, the train staff will announce which platform you need before you pull in and will point you in the right direction if you just say “Hamburg???” with enough implied question marks on your face.
 
-![](/images/uploads/bulgaria.jpg "Bulgaria ")
+![Picture shows a view of train tracks cutting through tree covered hills. The sky is overcast. ](/images/uploads/bulgaria.jpg "Bulgaria ")
 
 #### **But watch out for**
 
