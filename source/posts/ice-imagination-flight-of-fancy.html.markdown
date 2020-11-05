@@ -21,7 +21,7 @@ It makes me sad to contemplate the shrinkage and emaciation of our ice landscape
 
 > "The accelerating loss of these magical worlds robs us of one of our richest imaginative resources."
 
-![](/images/uploads/ice-imagination-blog-image-.jpg "Photo courtesy of Noel Bauza ")
+![The picture shows the Northern Lights. To figures crouch near  shallow pool wearing many layers. It is night and there are great waves of green light in the sky. ](/images/uploads/ice-imagination-blog-image-.jpg "Photo courtesy of Noel Bauza ")
 
 I also feel that a certain paucity of imagination is partly what impels us to fly as much as we do. To frame it positively, a revival of this wonderful human gift – imagination – could be a key that inspires us to explore and relish scenes and places closer to home. Perhaps we need to rediscover and rekindle our capacity for wonder – and contentment. What makes us hanker so much to see faraway places, often to the neglect of nearer but equally marvellous environs? I wonder if in the developing world we have not developed a certain greed and rapaciousness of the mind and spirit, and a concomitant loss of sensitivity – and patience.
 
