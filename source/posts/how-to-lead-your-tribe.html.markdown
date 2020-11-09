@@ -16,7 +16,7 @@ read_time_minute: 5
 
 When everyone at a party is chatting about the latest TV drama or the colour of their new curtains, it can be difficult to steer the conversation towards the elephant in the room. If the party were a metaphor for the earth, the entire kitchen would be in flames with the majority of people assuming somebody had left the cake in the oven too long. 
 
-![](/images/uploads/lead-your-tribe.jpg)
+![Picture show four stick figures standing in a kitchen that is on fire. One of the stick figures is saying "Has anyone seen the latest episode of Peaky Blinders?". The fourth stickman is holding a fire extinguisher and in a thought bubble is exclaiming "What is wrong with these people?"](/images/uploads/lead-your-tribe.jpg)
 
 So how do we influence those around us? How do we get the people we care about to care about what we care about as much as we care about it? 
 
@@ -24,7 +24,7 @@ Well, we could start tutting every time we see someone with a plastic bottle, si
 
 We like to think that everyone will act on well-reasoned logic, constantly questioning their actions, but this simply isn’t the case. Humans are social and emotional creatures.
 
-![](/images/uploads/lead-your-tribe-2.jpg)
+![Two stick figures are talking, one is wearing a pink skirt. This stick figure is saying to the other one "£5.99! Do you like it?", the other stick figure is saying "Tut tut tut".](/images/uploads/lead-your-tribe-2.jpg)
 
 In evolutionary timescales, homo sapiens were recently still roaming the savannah, and in that time, parts of our brains haven’t evolved at anywhere near the pace of the society around us. We spend every day trying to use primitive instincts to navigate an increasingly complex world. 
 
@@ -32,7 +32,7 @@ In evolutionary timescales, homo sapiens were recently still roaming the savanna
 
 Anxiety is a feeling we all experience, some more than others. But this isn’t a surprise: our brains are still tuned to be on guard for what we perceive as ‘danger’. In the wilderness this might have been a large animal that saw us as prey, or a neighbouring tribe trying to invade our camp. This has now transferred to worries about anything from our health to the thought of being in certain situations which the brain interprets as dangerous. In the wild this would have been extremely useful and often life-saving but the chances of you getting killed at a job interview are usually fairly low. 
 
-![](/images/uploads/lead-your-tribe-3.jpg)
+![Picture shows 4 stick figures. 3 sit behind a table as job interviewers and the other one is standing nearby being interviews. One of the seated stick figures says "Welcome to the interview, why are you shaking?". The stick figure being interviewed is thinking of an image of him being chased by a lion in a thought bubble. ](/images/uploads/lead-your-tribe-3.jpg)
 
 Other behavioural traits that still manifest themselves today are tribalism and social proof. In the distant past, a tribe might consist of around 50 people and within that 50 we would look to leaders within the group for cues on how to behave. The risk of not following the behaviour of others was high, with the potential of being cast out and left to survive alone, the odds of which were not good. 
 
