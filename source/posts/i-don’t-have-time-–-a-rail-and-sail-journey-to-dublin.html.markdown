@@ -10,9 +10,9 @@ summary: >
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/i-dont-have-time-screenshot.jpg)
+![The image is a screenshot from the video on facebook mentioned below. Anna Hughes is turning around to the camera and smiling, wearing an orange puffer coat and carrying a cup of coffee. She is in a station. ](/images/uploads/i-dont-have-time-screenshot.jpg)
 
-*[Watch our video on Facebook: "I don't have time" – a rail and sail journey to Dublin](https://www.facebook.com/watch/?v=342678609928783)*
+#### *[Watch our video on Facebook: "I don't have time" – a rail and sail journey to Dublin](https://www.facebook.com/watch/?v=342678609928783)*
 
 ‘I don’t have time!’ – that’s often the reason people give for flying instead of travelling overland. It’s an understandable comment – with our must-have-everything-now society, our time is precious, and we don’t want to spend too much of it getting where we’re going. 
 
@@ -20,7 +20,7 @@ read_time_minute: 4
 
 This assumption feeds our behaviour, which then becomes habit. We don’t really take flights because it’s cheaper or quicker, we take flights because that has become the normal way to travel. Unless you live right next to the ferry port, if you’re going to Dublin from the UK, chances are you’ll fly.
 
-> *"We don’t take flights because it’s cheaper or quicker, we take flights because that has become the normal way to travel."*
+> "We don’t take flights because it’s cheaper or quicker, we take flights because that has become the normal way to travel."
 
 **But is it cheaper? And how long does it actually take?**
 
@@ -41,7 +41,7 @@ Flight: 1.5 hours publicised journey time, actual journey time 4.5 - 5 hours
 
 So on the face of it, flying seems far quicker, but when you factor in the actual journey time, it’s not quite so much. When you fly short distance, more of your time is spent on the ground than in the air. So for this particular trip, your journey time is at least tripled from the advertised flight time.
 
-> *"When you fly short distance, most of your time is spent on the ground."*
+> "When you fly short distance, most of your time is spent on the ground."
 
 The overland journey time is pretty much what it says, which makes planning anything around your travel a lot easier.
 
@@ -57,11 +57,11 @@ So we come back to the issue of time. In order to catch a 20:05 Ryanair flight y
 
 But here’s where you can get creative. On a three-hour rail journey, with power sockets and WIFI, you can get some serious work done. Then lunch while you’re changing to the ferry, then another three hours uninterrupted work time with plug sockets and WIFI. If you can convince your employer that’s ‘working from home’, you don’t need that day off. 
 
-> *"On a three-hour rail journey, with power sockets and WIFI, you can get some serious work done."*
+> "On a three-hour rail journey, with power sockets and WIFI, you can get some serious work done."
 
 Of course, you don’t need to do any of that stuff – travel time can be spent reading, catching up on Netflix, gazing out of the window, enjoying a beer. More of your time is spent on holiday, too – if you chose not to work on the way, your holiday begins the minute you sit down on the train, and you’ll arrive in Dublin in time to have a proper evening out. For a flight to get you there at that time, you’re looking at almost twice the price, and an afternoon off. Is that really that much of a better deal?
 
-> *"Your holiday begins the minute you sit down on the train."*
+> "Your holiday begins the minute you sit down on the train."
 
 The journey from London to Dublin is calm, enjoyable, and full of a sense of adventure. Spying the wide expanse of the sea when the train turns onto the north coast of Wales is always spectacular, and the castle at Conwy and the Menai Bridge are treasures of architecture that people come specifically to visit – so being able to enjoy them from your train seat is a massive bonus. The ferry is spacious with plenty to keep you entertained: good food, comfortable seating, a plug for your phone and free WIFI. 
 
@@ -69,7 +69,7 @@ None of the journey needs to be ‘wasted’ time – you can spend it reading, 
 
 Of course, one of the biggest considerations here is emissions. Flying to Dublin from London would generate 135kg CO2 per passenger. The Rail and Sail option produces just 21.8kg CO2 per passenger. That's an 84% saving on CO2.
 
-> *"Flying generates 135kg CO2 per passenger. Rail and Sail produces just 21.8kg CO2. That's an 84% saving on CO2."*
+> "Flying generates 135kg CO2 per passenger. Rail and Sail produces just 21.8kg CO2. That's an 84% saving on CO2."
 
 ## Time to change
 
