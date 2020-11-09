@@ -10,11 +10,11 @@ summary: A keen traveller, it was difficult for Lewis to reconcile his desire to
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows a cargo ship moored at a harbour. It's black with the word Panama painted on the back in white letters. It has a bright blue chimney and the sky is cloudy.](/images/uploads/cargo-ship.jpg)
+![Picture shows a cargo ship moored at a harbour. It's black with the word Panama painted on the back in white letters. It has a bright blue chimney and the sky is cloudy.](/images/uploads/cargo-ship.jpg "Photo credit: Camille San Vincente ")
 
 *We recorded an interview with Lewis which is summarised here. For the full audio interview go to our* *[podcast](https://www.flightfree.co.uk/podcast)* *page.*
 
-### It was George Monbiot’s book [‘Heat’ ](https://www.monbiot.com/books/heat/)that switched Lewis on to the idea of not flying. 
+### It was George Monbiot’s book [‘Heat’ ](https://www.monbiot.com/books/heat/)that switched Lewis on to the idea of not flying.
 
 That and attending Camp for Climate Action, a place where it really hit home that climate change activism meant a complete lifestyle change. 
 
