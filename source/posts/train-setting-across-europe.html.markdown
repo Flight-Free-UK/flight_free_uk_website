@@ -12,7 +12,7 @@ read_time_minute: 5
 ---
 ![Picture shows two stationary trains wither side of platform at a train station in Portugal. Theres a bench in the middle of the platform and the roof has large rectangular windows.](/images/uploads/train-portugal-.jpg "Photo credit: Claudio Schwarz")
 
-## I’ve seldom flown in the last few years so it’s no big deal for me, but people are amazed that you can travel – even live! – without flying. So here are a few thoughts about how to do it.
+### I’ve seldom flown in the last few years so it’s no big deal for me, but people are amazed that you can travel – even live! – without flying. So here are a few thoughts about how to do it.
 
 Of course the first thing to do is question whether you need to travel at all: would a phone call, video conference or email do the trick? Or a holiday nearer to home? To coin a phrase, ‘Is your journey really necessary?’ 
 
