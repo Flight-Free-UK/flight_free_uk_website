@@ -44,7 +44,7 @@ We travel to Juan Les Pins at least once a year as our family has a place there.
 
 We thought about driving but our youngest daughter (6 months) really does not deal with driving well. Therefore we decided train would be best: I'm originally from Scotland but live in London, and in the past we have found the train up to Scotland to be great with a young family. The toddler can walk up and down the carriage and it means both parents are free to entertain. So we found the direct St Pancras-Marseille train and booked that.
 
-![](/images/uploads/sandy-pics.jpeg "Sandy and family on their travels")
+![Picture shows a collage of pictures of Sandy and her small children on their travels. Some pictures are of the family on trains, others include eating at cafes and exploring cities. ](/images/uploads/sandy-pics.jpeg "Sandy and family on their travels")
 
 The queue for the Eurostar was a bit of a crush but we were through passport control relatively quickly – much easier than at an airport. It was very comfortable on the Eurostar even though we didn’t get a table seat, and it’s lovely to be able to walk to the cafe car. Changing at Marseille was easy, and we boarded a spacious and air conditioned Thello train. It’s a great way to travel and our toddler loves it, and it still feels like a bit of an adventure as well.
 
@@ -68,7 +68,7 @@ As it was, travelling overland cost less than the flights would have done, but d
 
 The seats on the Eurostar were large and comfortable, and with a table between us we could play cards or do craft activities. The children could get up and down and go to the loo as many times as they wanted. Despite the channel tunnel not being the experience our five year old had hoped for, there was lots to look at and everyone was remarkably happy. We’d spent far less than we would have done on five flights, and we’d had an adventure!
 
-![](/images/uploads/eve-hart.jpg "Eve Hart and family in Avignon")
+![Eve and her three children are smiling and sitting on a wall overlooking Avignon. ](/images/uploads/eve-hart.jpg "Eve Hart and family in Avignon")
 
 It’s only 27 miles from Ramsbottom to Manchester Airport and whilst we could still have seen the amazing Roman Pont du Gard, jumped in the pool, climbed up to Cathar Castles and paddled in the Herault river, we didn’t want to fly when there was an exciting alternative on offer. We so enjoyed our family time en route to France, and even with cancellations and delays on the way home, we’d certainly do it again.
 
@@ -120,7 +120,7 @@ After walking, cycling is the purest form of travel. I do a lot of thinking on t
 
 In Hendaye I rented an apartment for a week to rest before the mountain challenge. After finishing on the Mediterranean coast (459 miles completed in 86 hours!) I was dropped off in mid France and spent a week in a rented house with some friends. From there I took the train to Paris, another to Caen, then cycled to the overnight ferry back to the UK.
 
-![](/images/uploads/steve-masters-bike.jpg)
+![Picture shows a bike from ground level. Through the frame of the bike you can see the sunsetting in the background. ](/images/uploads/steve-masters-bike.jpg)
 
 *For tips on travelling by train across Europe, see our blogs [here](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/) and [here](https://flightfree.co.uk/post/train-setting-across-europe/).* 
 
