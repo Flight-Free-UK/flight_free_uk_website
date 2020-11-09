@@ -21,6 +21,7 @@ Go to our [Facebook videos page](https://www.facebook.com/flightfreeUK/videos/) 
 *You all might very well ask:* 
 
 *'Oh what can I do? There's no cure in sight!'* 
+
 *But have you ever thought of not taking that flight?*  
 
 (oh, oh, oh)
