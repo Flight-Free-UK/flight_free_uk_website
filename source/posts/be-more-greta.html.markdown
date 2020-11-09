@@ -13,7 +13,7 @@ read_time_minute: 3
 ---
 > *“Our House is on fire. I am here to say, our house is on fire. I want you to act as you would in a crisis. I want you to act as if our house is on fire. Because it is.”* 
 
-#### These words didn’t come from a seasoned philosopher or politician. 
+#### These words didn’t come from a seasoned philosopher or politician.
 
 They came from Greta Thunberg, a teenage environmentalist, speaking to a crowd of seasoned politicians and business people at the [World Economic Forum. ](https://www.youtube.com/watch?v=M7dVF9xylaw)
 
@@ -25,7 +25,7 @@ That lone protest sparked a global youth movement. Hundreds of thousands of chil
 
 Greta’s reputation and actions have only grown since then. Whether attending [COP24](https://www.youtube.com/watch?v=VFkQSGyeCWg), the World Economic Forum, or giving [TEDx talks](https://www.youtube.com/watch?v=EAmmUIEsN9A) she is speaking truth to the powerful. Not satisfied with speeches and conferences she has now published a book with Penguin and collaborated on a song with British band [The 1975. ](https://www.youtube.com/watch?v=_5z7k9ruxlU)
 
-> "Hundreds of thousands of children are demanding greater action on climate change. The impacts of these actions cannot be overstated."
+> "Hundreds of thousands of children are demanding greater action on climate change."
 
 ![Picture shows Greta Thunberg making a speech at the World Economic Forum. She is seated in a grey chair in front of a white background, he holds a white folder of notes and is speaking into a microphone. ](/images/uploads/ap_19025323973604-6f74e57eeb222e5f149610c79ba5a75b58a3227b.jpg "Thunberg speaking at the World Economic Forum (Source: capradio)")
 
@@ -35,7 +35,7 @@ But this year's climate summits are in New York and Chile, an ocean away. Even t
 
 Racing yachts are built for speed, not comfort. Aboard Malizia II there is no toilet, no cooking equipment, and no shower. The bunks are small fold-down platforms with straps to wedge you in against the hull in case of particularly rough seas. 
 
-> "Greta will cross the Atlantic on a high-speed racing yacht. In her own words, “I think this will be a trip to remember.”"
+> "In her own words, “I think this will be a trip to remember.”"
 
 ![Picture shows the small racing boat Malizia II. It is small, narrow and white with dark navy sails. The sea around it is a deep indigo blue. ](/images/uploads/16631262-7297405-image-a-12_1564408946293.jpg "The racing boat Malizia II (Source: Daily Mail)   ")
 
@@ -51,4 +51,4 @@ Low impact boat travel might not become the norm for ocean crossings any time so
 
 In choosing not to fly, to live appreciating our crisis and its solutions, we can become an example to others.
 
-####  As Greta shows, the power is in our hands and the planet cannot wait. ‘The rules have to be changed. Everything needs to change, and it has to start today.’
+#### As Greta shows, the power is in our hands and the planet cannot wait. ‘The rules have to be changed. Everything needs to change, and it has to start today.’
