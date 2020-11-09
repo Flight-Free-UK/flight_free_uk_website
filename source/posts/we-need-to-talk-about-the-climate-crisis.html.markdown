@@ -53,8 +53,6 @@ And what's being done about all of this? Well, global investments in fossil fuel
 
 My best guess is that we are not panicking because we are not being made to confront the reality of our situation on an everyday basis. In the UK we have a few exceptionally hot days a year, a bit of flooding and some failed cauliflower harvests to deal with. We can even joke about how there won't be any sprouts for Christmas this year (my family did). I choose to believe that this is the main reason for the lack of panic, because it is the one we can actually do something about.
 
-> "We are not being made to confront the reality of our situation on an everyday basis."
-
 ## So, what can we do about this lack of panic?
 
 When I say 'we' I am referring to those of us who fully understand the scale and depth of this crisis. And what 'we' can do is to make everyone else confront reality all the time.
