@@ -42,7 +42,7 @@ This tribalism can be particularly frustrating in a world which is increasingly 
 
 Therefore, the only way to inspire behaviour change is to become a leader. But most importantly, a leader who is liked, respected and who sets the example.
 
-![](/images/uploads/lead-your-tribe-4.jpg)
+![Picture shows a drawing of a social network comment section from a fictional website called 'Friendspace'. One user has commented "What if the hokey cokey isn't what it's all about...?". Other users have commented underneath this post saying things like "unfollowed", "welcome to the blocked list", and "so you're switching sides?! I thot you woz cleverer than that". ](/images/uploads/lead-your-tribe-4.jpg)
 
 Marketers and advertisers have been exploiting this tactic for decades, with libraries worth of literature dedicated to it. A particular favourite in recent times is social proof, which you can observe in the rise of social media ‘influencers’, who might be paid to wear a new pair of trainers or sunglasses so that their millions of followers who look to them for guidance will follow suit. 
 
@@ -54,7 +54,7 @@ One great way to do this is by signing a pledge, such as the [Flight Free pledge
 
 A pledge is great for making you stick to your promise – studies have shown this to be the case many times. But perhaps an even greater benefit is its use as a conversation starter, a way of saying, “I care about this issue and this is a step I am taking.” 
 
-![](/images/uploads/lead-your-tribe-5.jpg)
+![Picture shows a stick figure holding a piece of paper with the Flight Free 2020 pledge on it. ](/images/uploads/lead-your-tribe-5.jpg)
 
 You’d be surprised at the impact this can have. You don’t need to start shouting from the rooftops for the conversations to begin. 
 
