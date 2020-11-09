@@ -23,9 +23,7 @@ Yet I wanted to cross oceans and in the end I chose to do that by aeroplane. On 
 
 That is one heavy carbon footprint.
 
-#### **Was it worth it?**
-
-I wonder, was my journey really worth all that resource use? Is the world at least a little happier for it? It was after all a [journey about happiness](https://theconversation.com/why-i-quit-my-day-job-researching-happiness-and-started-cycling-to-bhutan-105531). . .
+### I wonder, was my journey really worth all that resource use? Is the world at least a little happier for it? It was after all a [journey about happiness](https://theconversation.com/why-i-quit-my-day-job-researching-happiness-and-started-cycling-to-bhutan-105531). . .
 
 Perhaps I could justify my journey based solely on my personal happiness, of which there was a great deal. I fulfilled important human needs (such as physical well-being, connectivity, meaning, and autonomy), I had experiences that were not only awe-inspiring in the moment but can be recounted for many years to come, and I experienced challenge that led to personal growth.
 
@@ -39,8 +37,8 @@ Yet I have to balance all this with the wider environmental impact of my travel.
 
 What I’ve learnt is that real travel isn’t about distance. It is more about how we approach and interact with the world around us. Rarely does one need to go very far to find something wondrous that will challenge all perceptions of the self. Everywhere there is beauty, but sometimes to see and feel that beauty we may have to go much slower, sometimes we might need to stop completely. That is the real key to happy travelling.
 
-#### I can’t see any good reason for me to fly again.
+### I can’t see any good reason for me to fly again.
 
- And so once I am back in the UK I am committing to not flying for at least the next 5 years, and it may even end up being for the rest of my life unless I can see a good case for it. Anyone else want to come with me, or indeed stay with me and be happy looking at the flowers. . .
+And so once I am back in the UK I am committing to not flying for at least the next 5 years, and it may even end up being for the rest of my life unless I can see a good case for it. Anyone else want to come with me, or indeed stay with me and be happy looking at the flowers. . .
 
 ![](/images/uploads/happy-boyce-2.jpg "Chris ('Mr Happiness') and his brother ('Mr Nick') on the beach with Nick's permaculture students")
