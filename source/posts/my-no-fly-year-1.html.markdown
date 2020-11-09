@@ -81,7 +81,7 @@ Most importantly, I realised personal change is not as difficult as I had made i
 
 ![A white campervan has its back door open. It is parked in the clearing of a forest of tall pine trees. Shade is dappled on the forest floor.](/images/uploads/viviana-camper.jpeg "Vivianas solar-powered van ")
 
-# **Moving Forward**
+## **Moving Forward**
 
 Without planning, or even expecting, this experiment had a lasting effect on me. 
 
