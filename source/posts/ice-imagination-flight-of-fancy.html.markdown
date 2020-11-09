@@ -9,9 +9,9 @@ summary: Pondering the looming possibility of an ice free world, Bruce Gulland
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Penguin stands on a thin slanted sheet of ice jutting up from the snow. The sky is overcast and bright white. ](/images/uploads/penguin.jpg)
+![Penguin stands on a thin slanted sheet of ice jutting up from the snow. The sky is overcast and bright white. ](/images/uploads/penguin.jpg "Photo credit: Danielle Barnes ")
 
-### Picture the scene: softly falling snow in a fir forest; a faun juggling wrapped presents in the warm pool of light cast by an old gas lamp. 
+### Picture the scene: softly falling snow in a fir forest; a faun juggling wrapped presents in the warm pool of light cast by an old gas lamp.
 
 Or more contemporary and real: TV nature documentary footage of an achingly beautiful Arctic landscape, subtle colours playing across it… while, caught in the low sunlight, steam rises from the nostrils of a magnificent polar bear, shaggy behemoth of the north. While at the south pole, a dinner-suited penguin waddles comically across the ice before diving with torpedo speed into frigid seas… 
 
@@ -21,7 +21,7 @@ It makes me sad to contemplate the shrinkage and emaciation of our ice landscape
 
 > "The accelerating loss of these magical worlds robs us of one of our richest imaginative resources."
 
-![The picture shows the Northern Lights. To figures crouch near  shallow pool wearing many layers. It is night and there are great waves of green light in the sky. ](/images/uploads/ice-imagination-blog-image-.jpg "Photo courtesy of Noel Bauza ")
+![The picture shows the Northern Lights. To figures crouch near  shallow pool wearing many layers. It is night and there are great waves of green light in the sky. ](/images/uploads/ice-imagination-blog-image-.jpg "Photo credit: Noel Bauza ")
 
 I also feel that a certain paucity of imagination is partly what impels us to fly as much as we do. To frame it positively, a revival of this wonderful human gift – imagination – could be a key that inspires us to explore and relish scenes and places closer to home. Perhaps we need to rediscover and rekindle our capacity for wonder – and contentment. What makes us hanker so much to see faraway places, often to the neglect of nearer but equally marvellous environs? I wonder if in the developing world we have not developed a certain greed and rapaciousness of the mind and spirit, and a concomitant loss of sensitivity – and patience.
 
@@ -33,6 +33,6 @@ I’ve heard friends talk about catching a flight to a European or other souther
 
 On the theme of contentment… it’s an oft-remarked fact that as a society and culture we’re ‘losing our religion’ – though many are happy to identify as being ‘spiritual’. I won’t be shy of saying that I identify broadly with the Christian path, which I’d add is at its heart more radical than it’s often given credit for. And besides a care for creation (environment) ethic, I’d go so far as to say that the ‘perspective of eternity’ dimension also impacts my attitude to travel. Bucket lists of fifty or a hundred things to do before you die are all well and good, but here’s a question to ponder: how far is your determination to tick off everything driven by a conviction that this life is it and you’d therefore better pack in as much as possible? With all the flying some of those items may entail? A left-field thought I grant you – but hopefully not a totally bizarre one. 
 
-#### I would urge imagination, and the nurture of contentment, patience and perceptivity to the wonder of ordinary places and things. Spiritual qualities you might say. I wouldn’t give them up, even for a world of flying. 
+#### I would urge imagination, and the nurture of contentment, patience and perceptivity to the wonder of ordinary places and things. Spiritual qualities you might say. I wouldn’t give them up, even for a world of flying.
 
 *Bruce posts articles & poems on faith, culture & the environment on his blog* *[www.brucegulland.wordpress.com](https://brucegulland.wordpress.com/)*__
