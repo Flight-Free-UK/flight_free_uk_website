@@ -22,15 +22,15 @@ Of course the first thing to do is question whether you need to travel at all: w
 
 It’s not necessarily the case that trains are more expensive compared to flying or driving. Depending on where you’re going and when, you may need to do a bit more planning, but not always. However, you do need to know some tricks. 
 
-### **1. Split your ticket**
+#### **1. Split your ticket**
 
 When travelling in the UK, splitting the journey can make it much cheaper. The website [splityourticket.co.uk](https://www.splityourticket.co.uk/) will do this  for you but it’s easy to do yourself: most rail company websites invite you to ‘book another ticket’ after you’ve booked the first one, so you get it all in one transaction. I always use [LNER](https://www.lner.co.uk/) to book my tickets as it doesn’t charge fees and is pretty straightforward. 
 
-### **2. Book in advance**
+#### **2. Book in advance**
 
 Booking straight through to London needn’t be so pricey either. Edinburgh to London trains booked just a few days in advance go from £70 upwards with city centre to city centre journey times of about 4 ½ hours, and trains every 30 minutes. Air travel (which involves transfers at both ends, plus time for security and boarding) will take you about the same time and at today’s price, Easyjet will cost you £61 at the lowest, flying to Stansted, so you’ll have to pay to get to/from the airport at each end, plus any baggage costs. 
 
-### **3. Get a railcard**
+#### **3. Get a railcard**
 
 If you are travelling in the UK regularly with someone else, or sometimes even for one long journey, get a Two Together Railcard. £30 for two for a year gets you 33% off most tickets. You need to travel together but you don’t have to have the card when you buy, as long as you have it when you travel.
 
@@ -69,7 +69,7 @@ InterRail, that thing you did when you were young and impoverished, has modernis
 
 To sum up, here are a few things to think about: 
 
-### **Cost**
+#### **Cost**
 
 * Planning – book early
 * Planning – check whether it’s really more expensive  
@@ -78,7 +78,7 @@ To sum up, here are a few things to think about:
 * Consider timings – trains may be more frequent so no extra overnights etc 
 * Would an InterRail pass be better value or more convenient for complicated journeys? 
 
-### **Time**
+#### **Time**
 
 * Consider all time-costs: getting to and from airports; check in, hanging around uselessly
 * Consider timings – with fewer flights you may need to arrive or leave too early or be hanging around until late 
