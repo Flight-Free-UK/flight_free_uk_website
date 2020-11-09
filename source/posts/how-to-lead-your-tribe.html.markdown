@@ -12,7 +12,7 @@ summary: >
 author: FlightFree UK
 read_time_minute: 5
 ---
-It can be tricky to bring up the subject of climate change. 
+### It can be tricky to bring up the subject of climate change. 
 
 When everyone at a party is chatting about the latest TV drama or the colour of their new curtains, it can be difficult to steer the conversation towards the elephant in the room. If the party were a metaphor for the earth, the entire kitchen would be in flames with the majority of people assuming somebody had left the cake in the oven too long. 
 
@@ -27,6 +27,8 @@ We like to think that everyone will act on well-reasoned logic, constantly quest
 ![](/images/uploads/lead-your-tribe-2.jpg)
 
 In evolutionary timescales, homo sapiens were recently still roaming the savannah, and in that time, parts of our brains haven’t evolved at anywhere near the pace of the society around us. We spend every day trying to use primitive instincts to navigate an increasingly complex world. 
+
+> "How do we get the people we care about to care about what we care about as much as we care about it?"
 
 Anxiety is a feeling we all experience, some more than others. But this isn’t a surprise: our brains are still tuned to be on guard for what we perceive as ‘danger’. In the wilderness this might have been a large animal that saw us as prey, or a neighbouring tribe trying to invade our camp. This has now transferred to worries about anything from our health to the thought of being in certain situations which the brain interprets as dangerous. In the wild this would have been extremely useful and often life-saving but the chances of you getting killed at a job interview are usually fairly low. 
 
@@ -47,6 +49,8 @@ Marketers and advertisers have been exploiting this tactic for decades, with lib
 You might say, “I don’t have a million Instagram followers, who is going to listen to me?” But that is modern day ‘instant gratification’ thinking. We think that if something we say doesn’t go ‘viral’ we might as well not bother. Although there is exciting potential in being able to influence a global audience (as Greta Thunberg is currently doing so well), we can all start small and influence from within our tribe, even if it is just your immediate family. 
 
 One great way to do this is by signing a pledge, such as the [Flight Free pledge](https://www.flightfree.co.uk/pledge). Flying has become so normalised and a permanent fixture in so many lives in the developed world that to pledge to give it up, even for one year, is a big statement. 
+
+> "We can all start small and influence from within our tribe, even if it is just your immediate family."
 
 A pledge is great for making you stick to your promise – studies have shown this to be the case many times. But perhaps an even greater benefit is its use as a conversation starter, a way of saying, “I care about this issue and this is a step I am taking.” 
 
@@ -76,6 +80,6 @@ And yes, you can share the pledge on social media too and that may have influenc
 
 Don’t get me wrong, I don’t think we can rely on individual change alone to save us from the biggest environmental problems we face. [I started a podcast for this exact reason.](https://disruptiveenvironmentalist.com/podcast-2/) But I do believe that if we have enough leaders who are influencing enough of their ‘tribes’ then the impact can be huge. 
 
-Individual change is something we can control, and the choices we make are all votes for the world we want to see. 
+#### Individual change is something we can control, and the choices we make are all votes for the world we want to see. 
 
-Rob Wreglesworth blogs and podcasts as 'The Disruptive Environmentalist’. For more stickman based pieces about the environment head to [www.disruptiveenvironmentalist.com](https://disruptiveenvironmentalist.com)
+*Rob Wreglesworth blogs and podcasts as 'The Disruptive Environmentalist’. For more stickman based pieces about the environment head to his [website](https://disruptiveenvironmentalist.com/). [](https://disruptiveenvironmentalist.com)*
