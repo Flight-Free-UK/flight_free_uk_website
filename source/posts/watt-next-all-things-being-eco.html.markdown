@@ -31,7 +31,7 @@ This is a guide to the conversation between Dave and Anna, with details of the s
 
 **12.33** Dave: ‘The power of example is the only way we’ve got to peacefully change the world’ e.g. the youth strike – that started with one girl quietly protesting, and now look how that’s caught on.
 
-> "The power of example is the only way we’ve got to peacefully change the world"
+> "The power of example is the only way we’ve got to peacefully change the world."
 
 **17:49** We play 'Holding On' by Gregory Porter/Disclosure. This is for Anna's twin sister Sarah, who sings jazz and loves Gregory Porter. This is the 'hit parade' version.
 
