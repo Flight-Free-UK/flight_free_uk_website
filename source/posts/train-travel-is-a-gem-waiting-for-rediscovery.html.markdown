@@ -23,7 +23,7 @@ Perhaps this is the right time to mention that Ryan Air has recently joined the 
 
 Slow travel is set to make a comeback. Travel that reconnects you with place and culture. If I didn’t have to whizz back to the UK to be with my young children, I would have stopped a day or two in all the places I’ve had to catch connecting trains – Paris, Turin, Milan, Bologna. Lingering to imbibe each cities’ culture, welcoming uncertainty as I navigate my way through unmapped streets and stumble over half understood conversations. Each city entices me to stay longer. 
 
-> This is not a holiday, this is akin to being the protagonist of a Hemmingway novel.
+> "This is not a holiday, this is akin to being the protagonist of a Hemmingway novel."
 
 The booking engine [Rail Europe](https://raileurope.co.uk) (formerly Loco2) offer a simple Europe-wide city to city search of alternative travel routes including overnight sleepers (expensive), high speed day trains (cheap) and every alternative you can think of in-between. 
 
@@ -37,7 +37,7 @@ Reduction in carbon emissions is critical to reduce global heating and whilst ai
 
 I have to cross Paris from the Gare du Lyon to the Gare du Nord to catch my connecting train to London. Europe is experiencing a freak heatwave. I step down from the TGV and the 45-degree heat brings back memories of working in Sub-Saharan Africa. This oppressive weather makes it impossible to think and the city isn’t designed to withstand desert temperatures. As an environmental scientist my expertise is the provision of safe water to remote global communities. I’ve worked with indigenous tribes and small island developing states, both of which have been battling the consequences of climate change for decades. Yet little has been done to protect these vulnerable communities. Many have lost their homes and become aid dependent. As the consequences of unpredictable weather systems now threaten my own children, I feel that it is my duty to dedicate my life to protecting them – I may make little difference but I’m essentially an optimist, and hope is catching. 
 
-> "Modern travel lacks soul and adventure – not engaging with the local people and culture deprives not only the traveller but also the destination community.
+> "Modern travel lacks soul and adventure – not engaging with the local people and culture deprives not only the traveller but also the destination community."
 
 This summer we’re spending a month in France. We’ll take the kids by train, stop off in Paris, Lyon and Annecy. My eldest is always questioning the difference in local customs to ours and it’s this breadth of understanding and enquiry that I hope to inspire in all of my children.
 
