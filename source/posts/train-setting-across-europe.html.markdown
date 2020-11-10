@@ -16,8 +16,6 @@ read_time_minute: 5
 
 Of course the first thing to do is question whether you need to travel at all: would a phone call, video conference or email do the trick? Or a holiday nearer to home? To coin a phrase, ‘Is your journey really necessary?’ 
 
-> "Would a phone call or email do the trick? To coin a phrase, ‘Is your journey really necessary?’"
-
 ## **Cost**
 
 It’s not necessarily the case that trains are more expensive compared to flying or driving. Depending on where you’re going and when, you may need to do a bit more planning, but not always. However, you do need to know some tricks. 
