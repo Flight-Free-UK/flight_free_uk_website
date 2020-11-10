@@ -13,7 +13,7 @@ read_time_minute: 3
 ---
 > *“Our House is on fire. I am here to say, our house is on fire. I want you to act as you would in a crisis. I want you to act as if our house is on fire. Because it is.”* 
 
-#### These words didn’t come from a seasoned philosopher or politician.
+### These words didn’t come from a seasoned philosopher or politician.
 
 They came from Greta Thunberg, a teenage environmentalist, speaking to a crowd of seasoned politicians and business people at the [World Economic Forum. ](https://www.youtube.com/watch?v=M7dVF9xylaw)
 
