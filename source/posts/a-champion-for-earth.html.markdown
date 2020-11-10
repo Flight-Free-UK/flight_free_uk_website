@@ -17,11 +17,11 @@ We interview Etienne Stott, Olympian and gold medallist in the London 2012 Olymp
 
 We meet at Green’s Mill in Sneinton, Nottingham. 
 
-#### Flight Free UK: 
+#### Flight Free UK:
 
 Hi Etienne – nice to meet you! Can you tell us a bit about yourself?
 
-#### Etienne: 
+#### Etienne:
 
 I won a gold medal in the white water slalom in London 2012 with my team mate Tim Baillie. I had a really long career as an athlete, from around 10 or 11 years old to retiring after the Rio cycle in 2016 when I was 37. Since retiring I’ve been learning about the climate emergency and the situation we’re facing, and what I can do to act accordingly. 
 
@@ -33,31 +33,35 @@ And that’s led you to sign our flight free pledge – thank you! Can you tell 
 
  I’ve signed because it’s a good way to take massive chunks out of my carbon footprint. Learning about your carbon footprint and how to reduce it is really interesting, for example by going more plant-based with your diet, changing how much you drive and how much you consume. Choosing not to fly can be one single decision that can take a massive lump out of your footprint. So for me it’s a practical step that reduces my impact on the world and reduces my contribution to runaway climate change. It makes me feel good that I’m acting according to my beliefs.
 
-It’s also a symbolic act. As someone with a modest public platform, I can add some weight to this argument, that we should be talking about the impact of aviation. We don’t talk about it enough as it's a bit of a sacred cow, a taboo subject, but I’m engaging with this question and hoping others will do the same.
+> "Choosing not to fly can be one single decision that can take a massive lump out of your footprint."
 
-> "As someone with a modest public platform, I can add some weight to this argument, that we should be talking about the impact of aviation."
+It’s also a symbolic act. As someone with a modest public platform, I can add some weight to this argument, that we should be talking about the impact of aviation. We don’t talk about it enough as it's a bit of a sacred cow, a taboo subject, but I’m engaging with this question and hoping others will do the same.
 
 #### Flight Free UK:
 
 We are asking 100,000 to sign the pledge, so it’s a collective action rather than one person feeling that they can’t make a difference. What do you think we need to do to reach the 100,000?
 
-#### Etienne: 
+#### Etienne:
 
-I think it’s a really nice idea, because people could say, you stopping flying doesn’t make a difference, but if we get 100,000 that’s a significant number, and perhaps in the future we can get more than 100,000. So it’s a powerful thing to be involved in and I’m happy to contribute to the 100,000. I think we’ll reach people by being a bit bolder. It is challenging, and it’s a challenge for me to explain to people in a compassionate and understanding way that my choices might be different, and why. And explaining to people so they understand, then trust them to act in a way they see fit. 
+I think it’s a really nice idea, because people could say, you stopping flying doesn’t make a difference, but if we get 100,000 that’s a significant number, and perhaps in the future we can get more than 100,000. So it’s a powerful thing to be involved in and I’m happy to contribute to the 100,000. I think we’ll reach people by being a bit bolder. 
 
 > "I think we’ll reach people by being a bit bolder. It is challenging."
+
+It is challenging, and it’s a challenge for me to explain to people in a compassionate and understanding way that my choices might be different, and why. And explaining to people so they understand, then trust them to act in a way they see fit. 
 
 #### Flight Free UK:
 
 Something that we’re really keen to show is that this is not a sacrifice, it’s not saying don’t go on holiday – just perhaps travel closer to home or choose different means. But for you it is a sacrifice because you have family and friends in Canada.
 
-#### Etienne: 
+#### Etienne:
 
 Yes, my mum is French-Canadian and half my family lives in Canada, and my best friend and crew mate Tim who I won the Olympics with lives on the other side of Canada, in Vancouver. I have to wrestle with this because I know that when I fly to see these people that I care deeply about I am partly affecting their future. I believe the future that awaits them if we don’t take these steps will be very destabilised, dangerous and unpleasant. 
 
-And it goes further – these beautiful places that we go to visit are becoming damaged because we fly to see them. This is a tough reality. So there is a sacrifice element here – I’m not saying I’m never going to fly again, but at this point, it’s very doable to not fly for a year. Britain is a beautiful place – we have Scotland, the Peak District and the Lake District, Devon, and loads of other places. So I don’t feel I need to travel somewhere that’s thousands of miles away to satisfy my urge to roam – I can even go somewhere here in Nottingham. Like this windmill – it’s the first time I’ve been here, even though I’ve lived here for 20 years! So yes, there is a sacrifice but there’s also a reward.
+And it goes further – these beautiful places that we go to visit are becoming damaged because we fly to see them. This is a tough reality. So there is a sacrifice element here – I’m not saying I’m never going to fly again, but at this point, it’s very doable to not fly for a year. Britain is a beautiful place – we have Scotland, the Peak District and the Lake District, Devon, and loads of other places. 
 
 > "At this point, it’s very doable to not fly for a year. Britain is a beautiful place."
+
+So I don’t feel I need to travel somewhere that’s thousands of miles away to satisfy my urge to roam – I can even go somewhere here in Nottingham. Like this windmill – it’s the first time I’ve been here, even though I’ve lived here for 20 years! So yes, there is a sacrifice but there’s also a reward.
 
 #### Flight Free UK:
 
@@ -73,7 +77,7 @@ __
 
 What about those people who say you have flown a lot, so who are you to tell us we can’t?
 
-#### Etienne: 
+#### Etienne:
 
 First of all I’m not saying that you can’t – I hold my hands up and say yes, I have flown a huge amount. I did a back-of-the-envelope calculation the other day and worked out my flights in an international season basically doubled my carbon footprint. But now I have a different understanding of the facts and we are in an emergency situation. We’re talking about the collapse of civilisation – I’m not making this up, this is Sir David Attenborough saying this! This isn’t about shaming people or making them feel bad, it’s saying, find out, investigate the facts, and come to your own conclusion.
 
@@ -81,7 +85,7 @@ First of all I’m not saying that you can’t – I hold my hands up and say ye
 
 It’s a beautiful day, gorgeous weather, and nice as it is to be sitting here in the heat, it’s a sign of things to come and that’s quite scary*.*
 
-#### Etienne: 
+#### Etienne:
 
 Yes, it’s the hottest day of the year, perhaps even the hottest day in the UK ever, and that’s a cause for concern. There will be vulnerable people dying because of this hot weather. It’s not a matter of belief – this is fact and science. This is a man-made phenomenon. And yes, it might make staycations a bit more attractive to have nice weather here in the UK but it’s going to make life much more difficult. 
 
