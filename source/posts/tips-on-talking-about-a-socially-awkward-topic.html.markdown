@@ -26,13 +26,13 @@ People relate to personal stories and are likely to be engaged by your passion f
 
 Try to avoid negative or guilt-inducing language. Talk about how taking action on issues such as this can make a positive impact: we can make a difference with our actions; we will leave a better world for our children if we take action now; not flying doesn't mean not travelling; this isn't about giving something up, it's about doing things differently for the benefit of future generations; being one of 100,000 making a change is very empowering.
 
-> "Talk about how taking action on issues such as this can make a positive impact"
+> "Talk about how taking action on issues such as this can make a positive impact."
 
 ## **Ask questions rather than challenge**
 
 Someone has just mentioned their forthcoming trip to Lanzarote. You could stay quiet while others ooh and aah about the holiday. You could say, ‘But flying is really bad for the environment’. How about asking, ‘Do you know the carbon footprint of the flight?' or 'Would you give up flying for a year for the sake of the environment?’ It opens the debate without causing hackles to rise. It doesn't attack the planned holiday, but talks about future travel. It could lead people to ask, ‘Why?’ which allows further conversation, can open the concept of a flight-free year, and gives the opportunity to talk about environmental issues.
 
-> "It could lead people to ask, ‘Why?’ which allows further conversation"
+> "It could lead people to ask, ‘Why?’ which allows further conversation."
 
 ## **Have a few facts up your sleeve**
 
