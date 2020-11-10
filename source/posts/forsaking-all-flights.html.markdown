@@ -12,7 +12,7 @@ read_time_minute: 3
 ---
 ![Picture shows Rebecca and Marc on their wedding day. Marc is helping Rebecca out of an old fashioned car. She is wearing a classic wedding dress with lace detail and a veil, he is wearing a dark blue suit with a purple tie. ](/images/uploads/rebecca-wedding.jpg "Rebecca and Marc on that special day!")
 
-#### There is a lot of tradition wrapped up around weddings. The honeymoon is no exception.
+### There is a lot of tradition wrapped up around weddings. The honeymoon is no exception.
 
 The ‘moon’ part relates to the month that a newly wed couple would spend together almost in isolation. The ‘honey’ perhaps represents the sweetness of this time. Some couples apparently ate a spoon of honey every day during the first month. (Maybe they needed the energy!).
 
