@@ -53,6 +53,13 @@ members:
     name: Maggie Robertson
     photo: /images/uploads/maggie-and-family-2019.jpg
     role: Blog
+  - name: "Rachel Millar "
+    bio: Rachel is a documentary producer who lives and works in Bristol. She is a
+      keen cyclist and loves nature and being outdoors.  She has two young
+      children and is passionate about protecting the environment for future
+      generations so that they can enjoy the natural world as she has.
+    role: "Podcast "
+    photo: /images/uploads/rachel-headshot-.jpg
   - photo: /images/uploads/ruby.jpg
     name: Ruby Puckering
     role: Admin
