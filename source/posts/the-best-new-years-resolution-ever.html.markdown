@@ -18,7 +18,7 @@ That’s a question I’ve asked myself many times, but I’ve rarely dared to a
 
 > "I’ve had many sleepless nights wondering why I am more concerned about destroying the mood than about climate collapse."
 
-Last year I had had enough, and decided that my New Year’s resolution was to dare to be **“socially inconvenient”**, and start asking people questions about the climate when people tell me about their flights. 
+Last year I had had enough, and decided that my New Year’s resolution was to dare to be “socially inconvenient”, and start asking people questions about the climate when people tell me about their flights. 
 
 That turned out to be the best New Year’s resolution I’ve ever made (and probably the only one I’ve managed to keep). It has taught me so much about people’s thoughts about climate change, and above all it has given me hope that change is possible. 
 
@@ -32,9 +32,9 @@ Ever since, I’ve barely talked about anything but flying and climate change, a
 
 Media often creates the picture that we all know exactly what is about to happen, but that we don’t care about it. That is not my picture of reality. When I ask people if they are worried about climate change most people do say yes, but if I ask what they are worried about it is very clear that most people aren’t aware of how serious the situation is. 
 
-Hardly anyone knows that the IPCC has given us just ten years to cut global emissions in half if we are to have a chance to limit the temperature rise at a manageable level. Many people still believe that climate change is something that will affect others, somewhere else, sometime in a distant future. Few realise that the climate crisis is happening here and now, and that it is themselves, and us all, that will be affected. 
+> "Most people are worried about climate change but aren’t aware of how serious the situation is."
 
-> "Many people still believe that climate change is something that will affect others, somewhere else, sometime in a distant future."
+Hardly anyone knows that the IPCC has given us just ten years to cut global emissions in half if we are to have a chance to limit the temperature rise at a manageable level. Many people still believe that climate change is something that will affect others, somewhere else, sometime in a distant future. Few realise that the climate crisis is happening here and now, and that it is themselves, and us all, that will be affected. 
 
 ### Many people feel that they fly so rarely, that it can’t do that much damage.
 
@@ -42,9 +42,9 @@ Hardly anyone knows that the IPCC has given us just ten years to cut global emis
 
 When I tell people this, a lot of them feel shocked; very few are aware of what an enormous impact flying has on the climate. My neighbour Magnus went home and Googled it after our conversation, and to his surprise found that his trip to Vietnam created as many emissions as if he had driven one lap around the globe in his car. 
 
-This past year has been one of the best years of my life. I have had so many interesting meetings and I feel more hopeful than I have done in a really long time. I have realised that it is possible to affect people, and that many are willing to fly less once they realise how important it is. 
+> "Our annual holiday uses up our entire carbon dioxide budget!"
 
-> "I have realised that it is possible to affect people, and that many are willing to fly less once they realise how important it is."
+This past year has been one of the best years of my life. I have had so many interesting meetings and I feel more hopeful than I have done in a really long time. I have realised that it is possible to affect people, and that many are willing to fly less once they realise how important it is. 
 
 ### Something that I find really fascinating is that people, once they have made the decision to stop flying, also want everyone else to do the same.
 
