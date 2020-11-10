@@ -10,17 +10,17 @@ read_time_minute: 4
 ---
 ![A piece of paper with the Flight Free 2020 pledge on it is resting on a copy table next to a mug. In the blurred background stand two women drinking coffee and chatting. ](/images/uploads/file.jpg)
 
-#### **Thank you for signing up to be Flight Free in 2020, Sophia! Can you sum up what motivated you to sign the pledge?**
+### **Thank you for signing up to be Flight Free in 2020, Sophia! Can you sum up what motivated you to sign the pledge?**
 
 I’ve been trying to cut down on flying for the last couple of years, and knowing I could join a growing political and cultural statement was the added incentive I needed. I took my last flight on June 20th 2019, I am challenging myself to not fly until the end of 2020, so that’s 18 months without flying.
 
 I expand more on why in this blog post: [Embedding Deep Adaptation](http://www.withmanyroots.com/blog/embedding-deep-adaptation)
 
-> "Knowing I could join a growing political and cultural statement was the added incentive I needed."
-
 #### **How long have you been aware of climate issues?**
 
 I’ve been aware for a long time but it’s taken too long for me to really embed what it means. Digesting the IPCC report released in October 2018 and Jem Bendall’s Deep Adaptation paper forced the issue home for me. I finally felt the climate crisis.
+
+> "Knowing I could join a growing political and cultural statement was the added incentive I needed."
 
 I have been supporting indigenous activists for the last four years in my work for [If Not Us Then Who](https://ifnotusthenwho.me/)? They have been fighting all their lives for their survival, often with fatal consequences. With the climate crisis we are facing, it was time I at least attempted to follow their lead.
 
@@ -38,11 +38,11 @@ I acknowledge, I have a huge carbon debt.
 
 I think this is very difficult to answer: stressful jobs, artificially cheap flights and highlight filtered photos on social media have culminated in a culture where we feel entitled to fly somewhere to take a break. 
 
+> "Filtered photos on social media have culminated in a culture where we feel entitled to fly somewhere to take a break."
+
 Being one of those very frequent UK fliers I don’t feel I can suggest what would be effective in encouraging people to reduce flying. I do however think a tax could be a way of halting a lot of additional flights.
 
 Really it’s going to need a cultural shift in what we value in our society. Or draconian top-down measures.
-
-> "Filtered photos on social media have culminated in a culture where we feel entitled to fly somewhere to take a break."
 
 #### **How will being flight-free next year affect your life? Do you have any plans for holidays or travel?**
 
@@ -50,19 +50,19 @@ It’s a big change of pace for our lifestyle; we have lived an international no
 
 I am curious to discover gems closer to home, with a trip to Guernsey coming up and multi-day hikes in the calendar. I’ve always loved trains and so once again I’ll be prioritising the journey over the destination.
 
-#### **Is it daunting or exciting to have taken the pledge?** 
+#### **Is it daunting or exciting to have taken the pledge?**
 
 Initially daunting but now it’s a balance of ready to travel less and excited to travel more creatively when I do. I want to apply my nomadic lens more locally and stay curious in my own country, and explore my own Celtic roots.
 
-NB: I acknowledge my good fortune participating in this challenge; for example, I will not be fired by my boss for making this decision, and I do not have relatives living in far flung places.
-
 > "I’ve always loved trains and so once again I’ll be prioritising the journey over the destination."
+
+NB: I acknowledge my good fortune participating in this challenge; for example, I will not be fired by my boss for making this decision, and I do not have relatives living in far flung places.
 
 #### **What reaction do your friends and family have to you going flight free?**
 
 In no way is my flight free pledge supposed to shame others into following suit. Yes, I have been offsetting, but my flight shame is my own and I am acting on it. It’s time to start repaying, or at least not adding to my huge carbon debt.
 
-#### **What might you do to influence others to go flight free in 2020?** 
+#### **What might you do to influence others to go flight free in 2020?**
 
 [I’m going to talk about it.](http://www.withmanyroots.com/blog/three-strikes-and-i-m-out) Anyone who knows me knows that I love to travel, explore, and see the world. I value experiences over stuff. When I tell people I am no longer flying, and I have returned back to the UK because of the climate and ecological crisis, it can help bring home the urgency of this situation.
 
