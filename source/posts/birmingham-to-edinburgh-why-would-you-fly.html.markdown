@@ -1,16 +1,17 @@
 ---
 published: true
-title: 'Birmingham to Edinburgh: why would you fly?'
+title: "Birmingham to Edinburgh: why would you fly?"
 category: opinion
 date: 2019-09-26T17:12:07.032Z
 cover_image: /images/uploads/gettyimages-863000220.jpg
-summary: >-
-  Easyjet has announced that from March 2020 it will be flying twice a day from
-  Birmingham to Edinburgh. Is there a place for short domestic routes in our
-  transport infrastructure?
+summary: Easyjet has announced that from March 2020 it will be flying twice a
+  day from Birmingham to Edinburgh. Is there a place for short domestic routes
+  in our transport infrastructure?
 author: FlightFree UK
 read_time_minute: 2
 ---
+![Picture shows a cityscape of Edinburgh. Its dusk and the sky is gloomy. ](/images/uploads/edinburgh-peter-cordes-h-qx6kayujq-unsplash.jpg.crdownload.jpg "Edinburgh - Photo credit: Peter Cordes")
+
 Easyjet’s [new route from Birmingham to Edinburgh](https://www.independent.co.uk/travel/news-and-advice/easyjet-birmingham-edinburgh-plane-flight-flybe-virgin-trains-climate-change-a9110166.html) will be its shortest route in the UK, a mere 250 miles. Of course there are shorter routes in the UK. The shortest scheduled route in the world is between Westray and Papa Westray in the Orkney Islands, [which is 1.7 miles](https://www.loganair.co.uk/travel-information/orkney-inter-island-services/), about the same length as the runway at Edinburgh Airport. In fact the flights between the Orkney Islands are so short, [they could be the first passenger routes to be served by an electric plane. ](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-45876604)
 
 Easyjet’s service hasn’t started yet, but if you search for flights from Birmingham to Edinburgh this autumn, you will find they take around 1 hour 15 minutes and cost £128 return. Supposing you want to travel from city centre to city centre, and arrive at the airport an hour or more before departure, the total journey will be at least three to four hours.
