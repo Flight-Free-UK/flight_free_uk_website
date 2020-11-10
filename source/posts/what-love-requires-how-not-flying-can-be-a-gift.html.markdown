@@ -11,7 +11,7 @@ read_time_minute: 4
 ---
 Sue Hampton has more than 30 books to her name, and is currently publishing new novella '*For Life*' in weekly instalments on [her website](https://www.suehamptonauthor.co.uk/). Her works are for both children and adults, and incorporate well-developed characters with a social and environmental narrative. Sue is a trustee for People not Borders, supporting refugees, and an activist with Campaign Against the Arms Trade. She is also an ambassador for Alopecia UK.
 
-![Picture of Sue Hampton, she's wearing pink and blue earrings and a white lace top. She is smiling and sat in front of a blurred white background. ](/images/uploads/sue.jpg "Credit: Mikaela Morgan photography")
+![Picture of Sue Hampton, she's wearing pink and blue earrings and a white lace top. She is smiling and sat in front of a blurred white background. ](/images/uploads/sue-small-pic-.jpeg "Credit: Mikaela Morgan photography")
 
 ### **Tell us a bit about your past travel habits.**
 
