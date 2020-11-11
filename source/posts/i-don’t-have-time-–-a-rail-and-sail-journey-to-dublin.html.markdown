@@ -18,11 +18,11 @@ read_time_minute: 4
 
 ‘It’s cheaper to fly,’ is another reason – equally understandable when we consider that rail travel costs seem to be ever increasing, and [zero tax on aviation fuel ](https://eci.ec.europa.eu/008/public/#/initiative)allows artificially cheap flights.
 
-This assumption feeds our behaviour, which then becomes habit. We don’t really take flights because it’s cheaper or quicker, we take flights because that has become the normal way to travel. Unless you live right next to the ferry port, if you’re going to Dublin from the UK, chances are you’ll fly.
+This assumption feeds our behaviour, which then becomes habit. We don’t really take flights because it’s cheaper or quicker, we take flights because that has become the normal way to travel.
 
 > "We don’t take flights because it’s cheaper or quicker, we take flights because that has become the normal way to travel."
 
-**But is it cheaper? And how long does it actually take?**
+ Unless you live right next to the ferry port, if you’re going to Dublin from the UK, chances are you’ll fly. But is it cheaper? And how long does it actually take?
 
 ## Travel time London to Dublin
 
