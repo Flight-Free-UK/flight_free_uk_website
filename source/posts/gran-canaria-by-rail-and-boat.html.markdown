@@ -9,7 +9,7 @@ summary: Professor Trevor Dale shares his experience of an overland trip to Gran
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows a rocky mountain top in Gran Canaria. White and terracotta buildings line the right side of the frame. ](/images/uploads/gran-canaria.jpg "Photo credit: Patricia Caro Ruiz (Unsplash)")
+![Picture shows a rocky mountain top in Gran Canaria. White and terracotta buildings line the right side of the frame. ](/images/uploads/gran-canaria.jpg "Photo credit: Patricia Caro Ruiz (Source: Unsplash) ")
 
 ### I’d promised my Dad I'd visit him in Gran Canaria, where he moved over 20 years ago, to celebrate his 80th birthday. On previous visits we’ve always flown, but this time we were determined to travel without flying.
 
