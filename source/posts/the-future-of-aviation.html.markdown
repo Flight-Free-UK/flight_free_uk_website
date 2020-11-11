@@ -4,8 +4,8 @@ title: The legacy of lockdown
 category: opinion
 date: 2020-04-29T15:57:54.677Z
 cover_image: /images/uploads/closed-sign.jpg
-summary: An analysis of the impact of the current lockdown on people, planet and
-  the future of the aviation industry.
+summary: An analysis of the impact of the coronavirus lockdown on people, planet
+  and the future of the aviation industry.
 author: FlightFree UK
 read_time_minute: 5
 ---
