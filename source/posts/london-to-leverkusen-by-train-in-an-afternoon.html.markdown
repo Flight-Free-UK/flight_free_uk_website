@@ -48,4 +48,4 @@ Price-wise, it was fairly comparable. £200 for Eurostar. £90 for Cologne train
 
 *For tips on booking overland travel in Europe, check out our blogs "[Trainsetting across Europe](https://flightfree.co.uk/post/train-setting-across-europe/)" and "[Travel tips for train first-timers](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/)"*
 
-![](/images/uploads/martin-at-cologne-cathedral.jpg "A touch of sightseeing: Martin in Cologne")
+![Picture shows a selfie taken by Martin, in the background is a large cathedral in Cologne. Martin is in the foreground smiling, wearing a coat and scarf. ](/images/uploads/martin-at-cologne-cathedral.jpg "A touch of sightseeing: Martin in Cologne")
