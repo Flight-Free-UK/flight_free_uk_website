@@ -9,7 +9,7 @@ summary: Pondering the looming possibility of an ice free world, Bruce Gulland
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Penguin stands on a thin slanted sheet of ice jutting up from the snow. The sky is overcast and bright white. ](/images/uploads/penguin.jpg "Photo credit: Danielle Barnes ")
+![Penguin stands on a thin slanted sheet of ice jutting up from the snow. The sky is overcast and bright white. ](/images/uploads/penguin.jpg "Photo credit: Danielle Barnes (Unsplash)")
 
 ### Picture the scene: softly falling snow in a fir forest; a faun juggling wrapped presents in the warm pool of light cast by an old gas lamp.
 
