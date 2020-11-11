@@ -29,7 +29,7 @@ Although I did have funding to cover research expenses as part of my fellowship,
 
 That stance is that I believe that flying is highly polluting and criminally under-taxed, and much flying is avoidable and unnecessary. I believe that until low-carbon flight becomes feasible we should all fly much, much less. It would therefore be hypocritical of me to advocate changes for other people that I would not follow myself. 
 
-![A passenger is walking across a rail platform in a Chinese train station. It is dusk and the sun is shining through the structure of the platform roof. ](/images/uploads/china-train.jpg "Photo credit: Lau Keith (Unsplash)")
+![A passenger is walking across a rail platform in a Chinese train station. It is dusk and the sun is shining through the structure of the platform roof. ](/images/uploads/china-train.jpg "Photo credit: Lau Keith (Source: Unsplash) ")
 
 As part of my justification, I pointed to [research ](https://link.springer.com/article/10.1007/s10584-016-1713-2)that shows that climate researchers are taken more seriously if they practice what they preach (who knew!?). If you hear a climate scientist lecturing that we need to reduce our carbon footprint, and then learn that he/she personally flies multiple times per year, you are likely to think that (a) it can’t be all that important; and (b) that your own good behaviour is irrelevant as it will be cancelled out by others’ poor behaviour. That is the classic ‘free-rider’ excuse for maintaining the status quo.
 
