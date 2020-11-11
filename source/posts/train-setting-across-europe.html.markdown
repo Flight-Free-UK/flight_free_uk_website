@@ -10,7 +10,7 @@ summary: Arts and sustainability group Creative Carbon Scotland has a general
 author: FlightFree UK
 read_time_minute: 5
 ---
-![Picture shows two stationary trains wither side of platform at a train station in Portugal. Theres a bench in the middle of the platform and the roof has large rectangular windows.](/images/uploads/train-portugal-.jpg "Photo credit: Claudio Schwarz")
+![Picture shows two stationary trains wither side of platform at a train station in Portugal. Theres a bench in the middle of the platform and the roof has large rectangular windows.](/images/uploads/train-portugal-.jpg "Photo credit: Claudio Schwarz (Unsplash)")
 
 ### I’ve seldom flown in the last few years so it’s no big deal for me, but people are amazed that you can travel – even live! – without flying. So here are a few thoughts about how to do it.
 
