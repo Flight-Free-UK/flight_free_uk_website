@@ -10,9 +10,9 @@ summary: Sarah Clayton from AirportWatch travelled by train and coach for a
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Old Italian buildings cover a tree-covered hill. There is an ancient church at the very peak. In the foreground are fields covered in poppies and a few small trees. The sky is blue. ](/images/uploads/sterling-lanier-umbria-italy-.jpg "Perugia, Umbria. Photo credit: Sterling Lanier (Unsplash)")
+![Old Italian buildings cover a tree-covered hill. There is an ancient church at the very peak. In the foreground are fields covered in poppies and a few small trees. The sky is blue. ](/images/uploads/sterling-lanier-umbria-italy-.jpg "Perugia, Umbria. Photo credit: Sterling Lanier (Source: Unsplash)")
 
-### The medieval city of Perugia in Umbria, Italy, lies partway between Florence and Rome, in the foothills of the Apennine mountains. 
+### The medieval city of Perugia in Umbria, Italy, lies partway between Florence and Rome, in the foothills of the Apennine mountains.
 
 Our holiday this year was to be a self-guided walking tour through Umbria, the first we had ever tried, with gentle 10-mile days, regular rest days, and our suitcases whisked to our next hotel, leaving us to walk unencumbered.
 
