@@ -11,13 +11,13 @@ read_time_minute: 3
 ---
 ![Picture shows the side of a sailboat from foot height. You can see some chairs and the wood of the boat. To the right of the boat is dark blue seas and the sky is overcast and gloomy. ](/images/uploads/pablo-garcia-saldana-sailboat.jpg "Photo credit: Pablo García Saldaña (Source: Unsplash)")
 
-### Greta Thunberg famously [crossed the Atlantic ocean on a racing yacht](https://flightfree.co.uk/post/be-more-greta/) this summer to attend climate talks in the US. 
+### Greta Thunberg famously [crossed the Atlantic ocean on a racing yacht](https://flightfree.co.uk/post/be-more-greta/) this summer to attend climate talks in the US.
 
 She is currently coming back across the ocean again, aboard the 48 foot catamaran La Vagabonde, now that COP25 has been re-located to Madrid. As Greta said during her initial trip, ‘By stopping flying, you don’t only reduce your own carbon footprint, you also send a signal to other people that the climate crisis is real.’ But most other attendees at the summit will be travelling there by plane. Could sailing the Atlantic ever be an option for the rest of us?
 
 Ross Porter from [VoyageVert](https://www.voyagevert.org) certainly thinks so. His idea is to build an enterprise that offers fare-paying passengers a way to sail across the Atlantic, not on energy-hungry cruise ships, but on a fast sailing vessel. The sailing passenger ship will be like nothing we’ve seen before: big, comfortable, multi-hulled, powered by sail, and with a sustainably-fuelled auxiliary engine.
 
-> Ross Porter from [VoyageVert](https://www.voyagevert.org) has an idea is to build an enterprise that offers fare-paying passengers a way to sail across the Atlantic.""
+> "Ross Porter from [VoyageVert](https://www.voyagevert.org) has an idea is to build an enterprise that offers fare-paying passengers a way to sail across the Atlantic."
 
 Flying to America from the UK involves a huge amount of greenhouse gases. For a return flight to Boston the emissions stand at about 1.8 tonnes of CO2-equivalent per passenger. Touching down in New York will be 1.9 tonnes, Miami 2.4, and San Francisco a whopping 2.9 tonnes. With recommendations for our personal carbon footprints not to exceed 3 tonnes each per year, we can see that there is really no room in the budget for a transatlantic flight.* 
 
