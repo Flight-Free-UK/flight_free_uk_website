@@ -37,7 +37,7 @@ While most European rail systems are nothing like Britain’s, they are usually 
 
 * On departure boards and often on the train itself, they *all* use unique and consistent train numbers to identify every service, so even Cyrillic script needn’t be a issue. This is way more useful than “the 1103 to Exeter St Davids” that Brits talk of. That train number never changes along the route, although a service can have more than one. Really long distance trains often have names as well (composers and authors seem popular).
 
->
+> "European rail systems are usually way better than Britain's. Once you’ve cracked how the system works, you’re set!"
 
 * In addition to live screens, printed departure tables are very common, listed in time order and showing every calling point. So far as I can tell they’re always on a bright yellow background. Printed arrivals tables are *always* on white. So again, language seldom a problem.
 
@@ -73,13 +73,11 @@ Travels turning a bit random can be part of the fun, but a trip unravelling comp
 
 ![Picture shows Michael Portillo walking along next to train tracks. In the background are people walking in and out of a cafe. ](/images/uploads/cropped-michael-portillo-occupational-hazard.jpg "Michael Portillo on the loose: there are no precautions against unexpectedly meeting a walking, talking paint chart boarding a train in central Sweden")
 
-> "Travels turning a bit random can be part of the fun, but a trip unravelling completely may be no fun at all."
-
 * Then, to print or not to print? Electronic tickets are convenient but leave you totally dependent on whatever device. It is a huge risk to rely on WIFI, 3G/4G signal or train power sockets working. So at least download the files to your phone’s own memory (or store them in an app), and don’t fritter your battery away watching panda videos before the ticket check. 
 
   On trains that cross any non-Schengen border you’d be crazy not to carry a physical ticket, and indeed may not be allowed to board. Likewise on sleeper trains – it is common practice to hand your paper ticket to the conductor and get it back when they wake you before you disembark. 
 
->
+> "Travels turning a bit random can be part of the fun, but a trip unravelling completely may be no fun at all."
 
 * Information. It’s geeky for sure, but a printed or electronic copy of the European Rail Timetable is invaluable if things go awry. Place names, times and routes written down are easy to point at, to overcome a language barrier. Plus it’s a hoard of handy info: transcontinental and city centre maps, useful phrases in German, French, Italian and Spanish, etc. 
 
