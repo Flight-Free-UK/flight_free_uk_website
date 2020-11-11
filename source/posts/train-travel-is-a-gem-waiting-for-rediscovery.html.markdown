@@ -9,7 +9,7 @@ summary: "Slow travel makes the whole experience far richer, as discovered by
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows two stationary trains parked in a French train station. The trains are red and yellow and the sky is cloudy and sunny. ](/images/uploads/train-france.jpg "Photo credit: Christopher @seatsea")
+![Picture shows two stationary trains parked in a French train station. The trains are red and yellow and the sky is cloudy and sunny. ](/images/uploads/train-france.jpg "Photo credit: Christopher @seatsea (Unsplash)")
 
 ### It’s not often you get bumped up to first class for a tenner. I can’t believe my luck.
 
