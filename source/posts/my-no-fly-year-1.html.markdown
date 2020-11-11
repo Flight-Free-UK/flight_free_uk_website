@@ -11,7 +11,7 @@ summary: In June 2017, Viviana Jiménez took a year off flying. With family
 author: FlightFree UK
 read_time_minute: 6
 ---
-![Picture shows a white campervan parked in a dusty clearing over-looking mountain tops far away. The sky is pale blue with sparse clouds. ](/images/uploads/white-campervan-landscape.jpg "Photo credit: Mark Mialik (Unsplash) ")
+![Picture shows a white campervan parked in a dusty clearing over-looking mountain tops far away. The sky is pale blue with sparse clouds. ](/images/uploads/white-campervan-landscape.jpg "Photo credit: Mark Mialik (Source: Unsplash)")
 
 ## **The Challenge**
 
