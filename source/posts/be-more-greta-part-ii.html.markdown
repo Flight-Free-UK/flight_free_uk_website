@@ -17,7 +17,7 @@ She is currently coming back across the ocean again, aboard the 48 foot catamara
 
 Ross Porter from [VoyageVert](https://www.voyagevert.org) certainly thinks so. His idea is to build an enterprise that offers fare-paying passengers a way to sail across the Atlantic, not on energy-hungry cruise ships, but on a fast sailing vessel. The sailing passenger ship will be like nothing we’ve seen before: big, comfortable, multi-hulled, powered by sail, and with a sustainably-fuelled auxiliary engine.
 
-> "Ross Porter from [VoyageVert](https://www.voyagevert.org) has an idea is to build an enterprise that offers fare-paying passengers a way to sail across the Atlantic."
+> "Ross Porter from [VoyageVert](https://www.voyagevert.org) wants to build an enterprise that offers fare-paying passengers a way to sail across the Atlantic."
 
 Flying to America from the UK involves a huge amount of greenhouse gases. For a return flight to Boston the emissions stand at about 1.8 tonnes of CO2-equivalent per passenger. Touching down in New York will be 1.9 tonnes, Miami 2.4, and San Francisco a whopping 2.9 tonnes. With recommendations for our personal carbon footprints not to exceed 3 tonnes each per year, we can see that there is really no room in the budget for a transatlantic flight.* 
 
