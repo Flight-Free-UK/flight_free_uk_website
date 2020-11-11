@@ -32,7 +32,7 @@ While most European rail systems are nothing like Britain’s, they are usually 
 7. Also printed and posted up on platforms at many major stations are guides to the carriage layout of express trains due. They literally tell you where on the platform you should stand.
 8. The train operators know about the key connections. Often they just involve walking across a platform to a train already waiting for you. At the very least, the train staff will announce which platform you need before you pull in and will point you in the right direction if you just say “Hamburg???” with enough implied question marks on your face.
 
-![Picture shows a view of train tracks cutting through tree covered hills. The sky is overcast. ](/images/uploads/bulgaria.jpg "Bulgaria ")
+![Picture shows a view of train tracks cutting through tree covered hills.](/images/uploads/cropped-bulgaria.jpg "Bulgaria ")
 
 #### **But watch out for**
 
@@ -47,7 +47,7 @@ Travels turning a bit random can be part of the fun, but a trip unravelling comp
 
 1. Tickets. Before you buy, think about the assurances that come from holding one through ticket, which may cost more than several “split” tickets. Swot up on the rights you gain via CIV and RailTeam – and find out what HOTNAT and AJC stand for – at the encyclopaedic [seat61.com](https://www.seat61.com/Europe-train-travel.htm#The_CIV) website. 
 
-![Picture shows Michael Portillo walking along next to train tracks. In the background are people walking in and out of a cafe. ](/images/uploads/occupational-hazard.jpg "Michael Portillo on the loose: there are no precautions against unexpectedly meeting a walking, talking paint chart boarding a train in central Sweden")
+![Picture shows Michael Portillo walking along next to train tracks. In the background are people walking in and out of a cafe. ](/images/uploads/cropped-michael-portillo-occupational-hazard.jpg "Michael Portillo on the loose: there are no precautions against unexpectedly meeting a walking, talking paint chart boarding a train in central Sweden")
 
 > "Travels turning a bit random can be part of the fun, but a trip unravelling completely may be no fun at all."
 
