@@ -25,9 +25,15 @@ The article argues that:
 
 **...so it can’t be that bad.**
 
-This common statistic is often used to demonstrate that the impact of flying is lower than other parts of our lifestyles. But it's misleading. The stats are such because we all feed ourselves, heat our homes and clothe ourselves, but not everyone flies. Indeed, earlier in the article it's acknowledged that only a small proportion of the world’s population actually flies – [less than 10%](http://afreeride.org/about/), according to most sources. In the UK, [less than half of us fly in any given year](http://afreeride.org/about/). But for those who do fly, the effect on your carbon footprint is massive. 
+This common statistic is often used to demonstrate that the impact of flying is lower than other parts of our lifestyles. But it's misleading. The stats are such because we all feed ourselves, heat our homes and clothe ourselves, but not everyone flies. 
 
-#### Let’s start with food. 
+Indeed, earlier in the article it's acknowledged that only a small proportion of the world’s population actually flies – [less than 10%](http://afreeride.org/about/), according to most sources. In the UK, [less than half of us fly in any given year](http://afreeride.org/about/). But for those who do fly, the effect on your carbon footprint is massive. 
+
+> "Only a small proportion of the world’s population actually flies. For those who do fly, the effect on your carbon footprint is massive."
+
+So how does aviation really relate to our other lifestyle choices?
+
+#### Let's start with food.
 
 Eating a plant-based diet saves around 0.8 tonnes carbon a year, according to [Lund University stats](https://www.lunduniversity.lu.se/article/the-four-lifestyle-choices-that-most-reduce-your-carbon-footprint). We calculate it as around 1.5 tonnes, based on [this article](https://www.vox.com/2014/7/2/5865109/study-going-vegetarian-could-cut-your-food-carbon-footprint-in-half) *(meat-heavy diet = 15.8 lbs/7.11kg CO2-eq per day, which is 2.595 tonnes per year. Vegan diet = 6.4lb/2.88kg CO2-eq per day, so 1.051 tonnes per year, giving a 1.544 tonne saving)*
 
