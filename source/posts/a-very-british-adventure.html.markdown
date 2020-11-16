@@ -11,7 +11,7 @@ read_time_minute: 4
 ---
 ![Anna sits with her back to the camera on a low wall separating the beach from the promenade. The beach is sandy and the waves and sky are moody and grey. Next to Anna resting against the wall is her bike. ](/images/uploads/roundbritainbike.jpg "The wild sea on the Ayrshire coast")
 
-### What does it mean to have the adventure of a lifetime? 
+### What does it mean to have the adventure of a lifetime?
 
 You might think of ‘finding yourself’ on a Thai beach, or backpacking around southern India, or canoeing the length of Brazil. But does adventure only count if you go somewhere far away?
 
@@ -33,6 +33,8 @@ We often hear about the kindness of strangers in far off lands, but that kindnes
 
 I arrived back in London after two and a half months on the road and more than 4000 miles pedalled. The journey had ticked all the boxes of what adventure should be: discovering new places and experiencing new things, taking on a challenge (and getting a great tan). More than that, I learned a huge amount about myself. Those endless days on the road with only the buzzards or perhaps a deer for company were precious time alone with my thoughts, and I had the mental space to reassess what was important. Even though I had never been more than a train ride away from home, I felt absolutely removed from real life. 
 
-Most significantly, it cemented the idea that adventure is what you make of it, not where you go. It doesn’t have to involve somewhere far away. Adventure is about broadening our horizons, but that can mean anywhere – even in the country in which we were born. For me, it was about finding the extraordinary in the ordinary, and it certainly did that; I absolutely fell in love with Britain, and know that there is still as much to discover as I have already seen. We tend to overlook what's under our noses, but it's a truly fascinating, varied and exciting island we live on. 
+Most significantly, it cemented the idea that adventure is what you make of it, not where you go. It doesn’t have to involve somewhere far away. Adventure is about broadening our horizons, but that can mean anywhere – even in the country in which we were born. 
+
+#### For me, it was about finding the extraordinary in the ordinary, and it certainly did that; I absolutely fell in love with Britain, and know that there is still as much to discover as I have already seen. We tend to overlook what's under our noses, but it's a truly fascinating, varied and exciting island we live on. 
 
 *Anna Hughes is author of Eat Sleep Cycle: a bike ride around the coast of Britain. Read more on her website:* *[annacycles.co.uk](http://annacycles.co.uk)*
