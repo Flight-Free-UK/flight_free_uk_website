@@ -59,6 +59,8 @@ When we’re faced with an immediate threat, we are willing to change our behavi
 
 *It’s going to affect different people in different countries to different degrees. We need to focus on that human aspect of things. For a long time climate change in general has been seen as something that affects polar bears, but people in general care about people around them.*
 
+> "For a long time climate change in general has been seen as something that affects polar bears, but people in general care about people around them."
+
 *Western countries and people from the west tend to have the most impact, but are only just being hit, and we can do the most about it. So it’s important that we care about it. That’s what Paris was about, to try to get people to commit to solving this.*
 
 #### Flight Free UK:
@@ -78,6 +80,8 @@ So what role does aviation have in all this? Why is addressing flying so importa
 *Compared to other types of travel, flying has the highest impact. For many people it's become essential, and we need to have a conversation about what it's essential for, given how harmful it is.*
 
 *It’s not just CO2 – flights also produce water vapour in the form of contrails, Nitrous Oxide, and air pollution. Radiative forcing means that these greenhouse gases have roughly double the warming effect.*
+
+> "Compared to other types of travel, flying has the highest impact."
 
 *Globally, flying is responsible for around 5% of global emissions, but it’s increasing. In other industries, emissions are falling. With industries such as energy, you can switch from coal to renewables, but for aviation, the alternatives aren’t really there just now.*
 
@@ -105,6 +109,6 @@ And that’s a message we’re also trying to push – that we should *talk* abo
 
 You can find out more about Matt and his tour dates [on his website](http://www.mattwinning.com). He also has his own podcast, [Operation Earth](http://www.mattwinning.com/opearthpod), where he interviews comedians about what’s going on. 
 
-***You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).***
+#### ***You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).***
 
 *Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
