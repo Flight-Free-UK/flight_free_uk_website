@@ -147,9 +147,7 @@ Of course, we want political solutions but if we are to solve the climate crisis
 
 #### Flight Free UK:
 
-So, the message is, get out there and talk to people, and try and have those climate conversations. You might be surprised at the responses you receive. 
-
-*Thanks to Maja for speaking to us. We hope you enjoyed hearing what she had to say and are inspired to make a New Year’s resolution. Could you dare to be socially inconvenient and start having climate conversations? Could your resolution be to take the flight free 2020 pledge?* 
+So, the message is, get out there and talk to people, and try and have those climate conversations. You might be surprised at the responses you receive. Thanks to Maja for speaking to us. We hope you enjoyed hearing what she had to say and are inspired to make a New Year’s resolution. Could you dare to be socially inconvenient and start having climate conversations? Could your resolution be to take the flight free 2020 pledge? 
 
 *Listen to the full interview on our [podcast](https://flightfree.co.uk/podcast/) page.*
 
