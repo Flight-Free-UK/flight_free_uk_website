@@ -29,6 +29,8 @@ We’ve worked closely with Maja throughout the past year and we’re always so 
 
 One of my first conversations was with my neighbour, because he had asked us to look after his cat while he went to Vietnam. I felt really awkward about bringing it up but I said to him, "I've promised myself to talk about this", and I asked him if he knew much about the climate crisis and if he had considered the climate impact of his flight. To my surprise he wasn't offended and we had a really good conversation. It made me realise that I could and should talk about this, and that I can make a difference in this way.
 
+> "I wondered why so many people kept flying, but I usually stayed quiet. So I gave myself a NY resolution to be brave and ask people questions."
+
 Since then I haven’t talked about anything else! So many people have told me they feel really inspired by the campaign, and everyone I’ve spoken to has said they are really glad that I said something, and that they wish they’d realised this sooner. And that’s why this is the best NY resolution I’ve ever made.
 
 #### Flight Free UK:
@@ -42,6 +44,8 @@ What a great resolution, and what great results. But it takes a lots of bravery 
 The reason I’m doing this is that I want us all to do everything we can to solve the climate crisis.
 
 But yes, it's much easier to speak to strangers than those close to you because it doesn’t involve emotions. So I would really encourage people to be brave and go out and speak to people that they don't know. Take our fliers and go in a group, so it's clear that you’re representing an organisation.
+
+> "The reason I’m doing this is that I want us all to do everything we can to solve the climate crisis."
 
 We go out into town, or to train stations, or to universities, and speak to people. I've been surprised at how many people are willing to stop and talk to us – most people do, once they realise we're not asking for money! 
 
@@ -60,6 +64,8 @@ There's a blog about this on our website, called [We need to talk about the clim
 I think that if we are to solve the climate crisis we need to become more aware of how serious the situation is. If you look at the people around you and they don’t seem concerned I think it's difficult to get just how urgent this is.
 
 Some people, like experts in the media, say, "We know what’s going on but we’re not doing anything about it," but I don’t think that’s true. There are so many people not aware yet, and they would be if they knew what was at stake.
+
+> "There are so many people not aware yet, and they would be if they knew what was at stake."
 
 Many of the people active in our campaign had been frequent fliers until recently. Now they understand what's going on, they want lots of other people to know as well.
 
@@ -90,6 +96,8 @@ A large part of the campaign is to create a social shift, a mindset shift. So as
 #### Maja: 
 
 Many people think of giving up flying as a huge sacrifice before they make the decision. But once the decision is made it's like they change their perspective straight away. Instead of focussing on what they can no longer do, they focus on how good it is for the climate, and on everything they still can do. Everyone I know is so happy about making the pledge to stop flying and think it’s the best decision they’ve ever made.
+
+ "People think giving up flying is a huge sacrifice before they do it. But once the decision is made they change their perspective straight away."
 
 The Flight Free 2020 campaign is a good way to encourage people to try it for one year. I started this campaign here last year and once people had stopped flying for a year, they were more likely to stop flying completely until we’ve solved the climate crisis. So it's a good way to get people thinking in another way about this.
 
@@ -141,13 +149,17 @@ This should be obvious but it's also the part people struggle with, and it is ju
 
 Also be understanding that they don't think the way you do. Show them that you don't think they are selfish or they don't care, but show them that it’s completely normal not to do everything they can to solve the climate crisis, because we act like people around us, and if we see other people not changing their lives, it's difficult to understand what that means for the climate crisis. But if you show that you understand that they don’t get it yet, but they would if they knew, you are more likely to reach them.
 
+>  "Many say, I can't talk about the climate crisis because I get frustrated and angry. That's the worst thing you can do because people shut down."
+
 Also, ask questions and listen to their answers. I've been surprised to understand how little most people think about this. When people say they don’t want to give up flying it’s not because they don’t care, it’s because they don’t realise how important it is to do it.
 
 Of course, we want political solutions but if we are to solve the climate crisis, we can’t just force people to do it, we have to get people to care about it and want to solve it. It’s not possible to reach everyone, but there are so many people out there who would do everything in their power to solve the climate crisis if they knew this isn't something that will happen to someone else in the distant future, it will affect us and the people we know. I really think that more people would fight for the climate if they understood this.
 
 #### Flight Free UK:
 
-So, the message is, get out there and talk to people, and try and have those climate conversations. You might be surprised at the responses you receive. Thanks to Maja for speaking to us. We hope you enjoyed hearing what she had to say and are inspired to make a New Year’s resolution. Could you dare to be socially inconvenient and start having climate conversations? Could your resolution be to take the flight free 2020 pledge? 
+So, the message is, get out there and talk to people, and try and have those climate conversations. You might be surprised at the responses you receive. Thanks to Maja for speaking to us. We hope you enjoyed hearing what she had to say and are inspired to make a New Year’s resolution. 
+
+#### Could you dare to be socially inconvenient and start having climate conversations? Could your resolution be to take the flight free 2020 pledge? 
 
 *Listen to the full interview on our [podcast](https://flightfree.co.uk/podcast/) page.*
 
