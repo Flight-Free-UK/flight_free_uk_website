@@ -32,6 +32,8 @@ When I got home I went into my loft and found an old European rail timetable fro
 
 In our modern society, the default is to fly, so it doesn’t even cross our minds that we can travel by other means. Everything is skewed towards that flight when we book holidays, from adverts to the booking systems to the information given to you by your package provider. This all contributes to the social norm to fly, which is what we’re challenging with the Flight Free 2020 campaign.
 
+> "In our society, the default is to fly, it doesn’t even cross our minds that we can travel by other means. Everything is skewed towards that flight."
+
 The Interrail map had shown Daniel that train was an option, and had inspired him to start organising ski trips by train for him and his mates. But finding out the how to book the journey was the difficult part. Nothing was joined up. That’s what led to him setting up the website [SnowCarbon](www.snowcarbon.co.uk), a guide to how to travel to the ski resorts by train.[](http://www.snowcarbon.co.uk)
 
 #### Daniel:
@@ -54,6 +56,8 @@ Picture the scene: you're on the train, with your mates, and you’ve got this h
 
 There's a good vibe on the train. When you see kids on board they're not screaming, they're engaged and having a good time. Every year I go with a big group and by the time we get to the chalet, everyone’s bonded and everyone’s had a great time.
 
+> "There's a good vibe on the train. When you see kids on board they're not screaming, they're engaged and having a good time."
+
 When you travel by plane it’s just one long conveyor belt of stop/starts, queuing, baggage, cramped flight, cramped transfer. There’s no time for you to do anything, certainly not for it to feel like part of the holiday.
 
 #### Flight Free UK:
@@ -63,6 +67,8 @@ Back to the environmental impact: The [SnowCarbon](www.snowcarbon.co.uk) website
 #### Daniel:
 
 Carbon emissions by plane are about 110kg CO2 and about 12 or 13kg by train. So that's a 90% average reduction. Studies show that 57 - 63% of the emissions of the entire ski resort are created by the journey there, so the thing that transforms your carbon footprint the most is to change the way you travel.
+
+> "Studies show that 57 - 63% of the emissions of the entire ski resort are created by the journey there."
 
 Everything you do creates carbon. Skiing is an amazing activity, to get out into nature and be active. For the pleasure that it gives, it isn’t particularly carbon intensive vs other kinds of holidays.
 
@@ -96,6 +102,8 @@ Can we as consumers drive this change? It seems recently the conversation is rea
 
 Over the past year I’ve seen a real transformation in the reasons that people give for wanting to go by train. The train has always made sense, from a practical point of view and an experience point of view, but now people are talking about how they don’t want to fly anymore and the environment is a big motivation. That gives great hope, but the supply of available trains & tickets can’t meet the number of skiers that would want to go by train, unless the industry sorts itself out.
 
+> "People are talking about how they don’t want to fly anymore and the environment is a big motivation. That gives great hope."
+
 Demand by consumers is an absolutely vital part of the picture, but we haven’t got time to wait for consumer pressure to make the changes people need. There’s got to be action from government, there's got to be action from industry, and there have got to be players being very active in saying that the system needs to change. We know that lots of people want to travel this way and lots more would given the option. We can’t wait for market pressure to change things – that’s not quick enough, given the environmental challenges we face.
 
 #### Flight Free UK:
@@ -114,7 +122,7 @@ And there we have it! A thorough examination of a ski journey by train, which vs
 
 You can find out more at [www.snowcarbon.co.uk](http://www.snowcarbon.co.uk), which has all those things Daniel talked about, including a ticketing tool to help you book, and stories from fellow skiers. Top tips are to start your planning early, so you really know what you’re doing, and you can get the best fares. You can also find relevant information on the website [seat61.com](http://seat61.com), and there’s also the website [Ski Flight Free.](http://skiflightfree.org)
 
-Daniel’s personal recommendation is to get a rail map of Europe and put it up on the wall. They’re beautiful and inspiring, and make a great present. Thanks again to Daniel, and thanks for listening!
+#### Daniel’s personal recommendation is to get a rail map of Europe and put it up on the wall. They’re beautiful and inspiring, and make a great present. Thanks again to Daniel, and thanks for listening!
 
 ***You can listen to the podcast, and access the rest of the series, [here](https://flightfree.co.uk/podcast/).***
 
