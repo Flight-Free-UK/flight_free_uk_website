@@ -11,6 +11,8 @@ read_time_minute: 4
 ---
 ## This podcast is episode 3 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
+![Picture shows Matt staring into the camera with a panicked expression. He is standing in front of a blue background. ](/images/uploads/mattywinning.jpg)
+
 > *“Ladies and gentlemen, are you ready to laugh about climate change? Please welcome to the stage Dr Matt Winning!”*
 
 This month our podcast chat is with Dr Matt Winning, a climate change policy researcher at University College London, and a stand-up comedian. He started doing comedy as ‘light relief’ from his day job, but then decided to start doing comedy *about* climate change.
@@ -19,9 +21,11 @@ Matt’s currently touring his show, “It’s the End of the World as we Know i
 
 First question: What is climate change? And why is it a crisis?
 
-#### Matt: 
+#### Matt:
 
 *The climate is warming faster than ever before. The temperature of the planet has increased by roughly 1ºC since the industrial revolution and most of that increase has happened over the last 40 years. It’s a crisis in the sense that we’ve never had to cope with this before. All of our planning and infrastructure and where we live is based upon a world in which the temperature was very stable for 20,000 years – as long as humans have had civilisation.*
+
+> "All of our planning and infrastructure and where we live is based upon a world in which the temperature was very stable for 20,000 years."
 
 *We now have more people on the planet than ever before, and most of that’s happened in the last 50 years. So being able to deal with this rapid change in our environment and how it's affecting people has become a bit of a crisis.*
 
