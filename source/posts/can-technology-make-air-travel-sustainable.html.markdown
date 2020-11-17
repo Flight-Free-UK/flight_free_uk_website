@@ -8,7 +8,7 @@ summary: We ask if techno-fixes are a viable solution to aviation's harmful emis
 author: FlightFree UK
 read_time_minute: 4
 ---
-Public awareness around the negative environmental impacts of flying has risen considerably over the last few years. However, the aviation industry continues to grow, and more people are flying now than ever before. 
+### Public awareness around the negative environmental impacts of flying has risen considerably over the last few years. However, the aviation industry continues to grow, and more people are flying now than ever before. 
 
 There’s hope that new advancements in aviation technology will allow us to continue our flying habits while bringing carbon emissions down, making the business of air travel more environmentally friendly. But is the prospect of sustainable flights something we can count on, or just a lot of hot air?
 
@@ -22,7 +22,7 @@ For mid-range flights, hybrid engines are a less carbon-intensive possibility �
 
 Unless there is a breakthrough in designing rechargeable batteries that are lighter and more durable, long-haul flights won’t benefit from this technology at all. According to the Air Transport Action Group, [80% of the aviation industry's emissions](https://www.atag.org/facts-figures.html) come from passenger flights longer than 1,500km.
 
-![](/images/uploads/dasdsad.jpg)
+![Picture shows a small twelve-seater plane flying over thick fluffy clouds. The sun appears to be setting somewhere out of frame so the clouds in the distance look pale pink and orange. ](/images/uploads/dasdsad.jpg)
 
 #### **Alternative Fuels**
 
@@ -32,7 +32,7 @@ Biofuels are currently the most promising alternative to fossil fuels, but biofu
 
 While recycling all of our waste materials into energy sounds ideal, it isn’t without its drawbacks. Fossil fuels are still needed to create waste materials to begin with, and the process of making biofuel produces its own emissions. Additionally, synthetic fuels don’t behave in exactly the same way that fossil fuels do, so can’t be more than 50% of fuel used on a flight. As these biofuels are up to four times the price of fossil fuels, they are also fairly unpopular with airlines. Alternative fuels currently make up [less than 1% of fuel](https://www.economist.com/the-economist-explains/2018/03/15/why-arent-all-commercial-flights-powered-by-sustainable-fuel) used in the industry, so scaling up would be a massive challenge.
 
-![](/images/uploads/palm-800x450.jpg "Palm oil plantation")
+![Picture shows a palm oil plantation. Straight rows of palm trees are growing tightly together. They are bright green. ](/images/uploads/palm-800x450.jpg "Palm oil plantation")
 
 #### **Carbon Capturing**
 
@@ -44,7 +44,7 @@ DAC is still in its early stages of development, and [scaling up to make a globa
 
 One of the biggest problems with relying on carbon capture to offset the effects of flying is that CO2 isn’t the only harmful emission planes release into the air. [Nitrogen oxide (NOx) is another greenhouse gas](https://www.biologicaldiversity.org/programs/climate_law_institute/transportation_and_global_warming/airplane_emissions/), as are the vapour contrails left behind by planes. These emissions are more harmful at high-altitude than if they were released at ground level, with roughly double the warming effect.
 
-![](/images/uploads/ccs.gif "Image from energywatch-inc.com")
+![Picture shows a diagram of proposed carbon capture techniques. ](/images/uploads/ccs.gif "Image from energywatch-inc.com")
 
 #### **Time is Running Out**
 
@@ -52,4 +52,4 @@ We’re just scratching the surface here of a whole industry devoted to decreasi
 
 The problem shared by all of these technologies is that they are in the early stages of development and are relatively small-scale. At the current rate of air travel expansion and with the lack of any cheap, quick fixes on the horizon, it seems as though an increase in aviation emissions is inevitable. As we have been given 10 years to make significant reductions to our carbon emissions [before the effects of climate change become irreversible](https://www.theguardian.com/environment/2018/oct/08/global-warming-must-not-exceed-15c-warns-landmark-un-report), we really can’t afford to let this happen.
 
-Currently, there is no silver bullet technology that will reduce air travel carbon emissions to zero by 2050. The only way to significantly and realistically reduce emissions is if we all make the decision to fly less.
+Currently, there is no silver bullet technology that will reduce air travel carbon emissions to zero by 2050. The only way to significantly and realistically reduce emissions is if we all make the decision to **fly less.**
