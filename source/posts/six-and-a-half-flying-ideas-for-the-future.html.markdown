@@ -9,7 +9,7 @@ summary: Flight free 2020 pledger Sophia Cheng attended the ChangeNOW Summit in
 author: FlightFree UK
 read_time_minute: 8
 ---
-*Cover image: Change NOW International Summit © Sortiraparis*
+![](/images/uploads/grandpalais.jpeg)
 
 I'm what you might call a recovering flying addict. I love to travel and invariably enjoyed air travel too. I have opinions on where exactly to best sit on the plane (always window), which airlines do better food, and when it's worth paying for priority boarding or not. I am also the perfect size for flying: my legs aren't too long, and as a bit of a contortionist with a super power for sleep, I have a suite of positions to get comfy. I built my identity and more recently my life around flying as a digital nomad. So taking [the flight free pledge](https://flightfree.co.uk) has meant a major overhaul in my lifestyle.
 
