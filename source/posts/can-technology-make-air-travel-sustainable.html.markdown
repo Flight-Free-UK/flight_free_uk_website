@@ -18,6 +18,8 @@ Electric engines are scheduled to start replacing gas engines on some [short-hau
 
 However, the battery needed to fly an electric plane is much heavier than fuel and takes up much more space, significantly limiting the load that can be carried and the distance that can be travelled. This technology could only be used for flights of up to 1000 kilometres, as the battery would need to be re-charged after that. 
 
+> "The battery needed to fly an electric plane is heavier than fuel and takes up more space, limiting the load that can be carried and the distance travelled."
+
 For mid-range flights, hybrid engines are a less carbon-intensive possibility – but they would still have to use polluting jet fuel to operate.
 
 Unless there is a breakthrough in designing rechargeable batteries that are lighter and more durable, long-haul flights won’t benefit from this technology at all. According to the Air Transport Action Group, [80% of the aviation industry's emissions](https://www.atag.org/facts-figures.html) come from passenger flights longer than 1,500km.
@@ -29,6 +31,8 @@ Unless there is a breakthrough in designing rechargeable batteries that are ligh
 So if planes have to burn fuel to complete longer journeys, are there any ways to make it more sustainable?
 
 Biofuels are currently the most promising alternative to fossil fuels, but biofuels made from plants are typically monoculture crops, which are a disaster for biodiversity, and are a key driver of deforestation. Several airlines are now pursuing biofuel made from waste products, such as [ethanol captured from the waste gases of steel mills](https://skynrg.com/sustainable-aviation-fuel/saf/).
+
+> "Biofuels are a promising alternative to fossil fuels, but biofuels made from plants are typically monoculture crops, which are a disaster for biodiversity."
 
 While recycling all of our waste materials into energy sounds ideal, it isn’t without its drawbacks. Fossil fuels are still needed to create waste materials to begin with, and the process of making biofuel produces its own emissions. Additionally, synthetic fuels don’t behave in exactly the same way that fossil fuels do, so can’t be more than 50% of fuel used on a flight. As these biofuels are up to four times the price of fossil fuels, they are also fairly unpopular with airlines. Alternative fuels currently make up [less than 1% of fuel](https://www.economist.com/the-economist-explains/2018/03/15/why-arent-all-commercial-flights-powered-by-sustainable-fuel) used in the industry, so scaling up would be a massive challenge.
 
@@ -43,6 +47,8 @@ Carbon capture devices are already used on submarines and spacecraft. They rely 
 DAC is still in its early stages of development, and [scaling up to make a global impact ](https://www.theguardian.com/science/2019/nov/24/can-we-fly-and-have-net-zero-emissions-air-industry-e-fan-x-rolls-royce-engines-kerosine-carbon-2050)on flying emissions would require a huge amount of investment. Plus, the energy required to run such operations would be massive.
 
 One of the biggest problems with relying on carbon capture to offset the effects of flying is that CO2 isn’t the only harmful emission planes release into the air. [Nitrogen oxide (NOx) is another greenhouse gas](https://www.biologicaldiversity.org/programs/climate_law_institute/transportation_and_global_warming/airplane_emissions/), as are the vapour contrails left behind by planes. These emissions are more harmful at high-altitude than if they were released at ground level, with roughly double the warming effect.
+
+> "A big problem with relying on carbon capture to offset the effects of flying is that CO2 isn’t the only harmful emission planes release into the air."
 
 ![Picture shows a diagram of proposed carbon capture techniques. ](/images/uploads/ccs.gif "Image from energywatch-inc.com")
 
