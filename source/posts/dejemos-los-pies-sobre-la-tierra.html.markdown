@@ -35,6 +35,8 @@ While tourism does bring economic benefit for some, it produces hardship for oth
 
 In many ways, mass tourism is an extractive industry: it seeks to extract economic value from some attraction, whether natural or historic or cultural, and in doing so it modifies the resource in ways which make it unrecognisable. Monuments crumble from the constant passage of hands and feet; cityscapes are dismantled to build hotels and fast food outlets; wilderness is overrun by hordes of travellers who trample the vegetation and discard their garbage and waste products.
 
+> "In many ways, mass tourism is an extractive industry: it seeks to extract economic value from some attraction, and in doing so it modifies the resource in ways which make it unrecognisable."
+
 Tourism can certainly contribute to a local economy, but the Peruvian economy would benefit more from a traveller who spent a month in Perú than from three travellers who spent one week each. Part of the solution needs to be finding economic activities other than tourism, so that places like Cusco can prosper without having to suffer from extractive tourism.
 
 #### It's actually very hard to make the argument that no-one should fly inside Perú, and we don't try to deny it.
@@ -48,6 +50,8 @@ Our response to that is to promote what we call "travel with dignity". If we're 
 #### The improvement in the Peruvian economy over the past 20 years has been reflected in a constant increase in the number of Peruvians who take domestic flights.
 
 Even so, half of the population has never flown, and much of the rest fly only very occasionally. That's not a political or environmental decision, it's a purely economic decision, and reflects the enormous gap between rich and poor in the country.
+
+> "Half of the population has never flown, and much of the rest fly only very occasionally. It's a purely economic decision, and reflects the enormous gap between rich and poor in the country."
 
 For decades, the entire continent of Latin America has been at the top of world inequality measures. Economic inequality means inequality in energy consumption and carbon emissions, too. The "average" Peruvian is not high on the list of carbon emitters, which gives the not-so-average Peruvians – the ones whose budget or employment allows them to fly many times per year – a convenient excuse for not worrying about their own carbon footprint.
 
