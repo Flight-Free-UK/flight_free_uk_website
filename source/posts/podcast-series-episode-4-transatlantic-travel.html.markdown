@@ -11,7 +11,7 @@ read_time_minute: 9
 ---
 ## This podcast is episode 4 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![](/images/uploads/kater.jpg)
+![Picture shows Kate biking through mountainous terrain. She is turning back to the camera whilst wearing a scarf over her mouth. In the background are snowy mountain peaks. ](/images/uploads/kater.jpg)
 
 *This month we're talking to [Kate Rawles](https://www.outdoorphilosophy.co.uk), an author and adventurer who uses her adventures to be an ambassador for the environment. In 2006, Kate cycled the length of the Rocky mountains from Texas to Alaska, a journey called the [Carbon Cycle](https://www.outdoorphilosophy.co.uk/carbon-cycle/) in which she explored North American attitudes towards climate change. Then in 2016, she undertook the [Life Cycle](https://www.outdoorphilosophy.co.uk/life-cycle/), which was an exploration of biodiversity along the Andes mountain range in South America, cycling more than 8000 miles from Colombia to Cape Horn. We start by asking Kate what her motivations were and why she came up with the idea of what she calls ‘Adventure Plus’*
 
@@ -33,6 +33,8 @@ The first 'Adventure Plus' trip was the [Carbon Cycle](https://www.outdoorphilos
 
 10 years later I was still giving the Carbon Cycle slide show – combining adventure and big environmental issues was working. I also noticed that the climate change agenda was getting loads of attention which is great, but it was starting to eclipse other environmental issues, particularly biodiversity loss. We are wiping out species at around 1000 times faster than the background rate of extinction. About 1 million species are heading for extinction, and we've lost around 60% of our wild animal populations in less than my lifetime. Scientists are saying that biodiversity and the ecosystem crisis is every bit as challenging as climate change, but it's getting much less attention and less press, even though the two are intertwined.
 
+> "We are wiping out species at around 1000 times faster than the background rate of extinction. About 1 million species are heading for extinction."
+
 Paul Erlich came up a neat equation, which is environmental impact = population x consumption x technology. The impacts that we are seeing are a side effect of our growth-based economics and our growth-based approach to life in general. The impacts are: climate change, biodiversity loss, and the shocking amount of plastic pollution and other kinds of pollution. They all have a common root and are interconnected. E.g. if you lose trees, you’re losing biodiversity as well as a carbon sink.
 
 A lot of the language around the environmental crisis is the language of climate change, and while that’s a hugely important emergency, if we only talk about that and don’t link it to the ecological and biodiversity emergency then that becomes dangerous. So-called solutions to climate change can be very bad for biodiversity. An obvious example is using bio fuel rather than fossil fuel to power transport, but then you’re clearing lush, very bio-diverse areas, to grow monocultures of palm oil which is a biodiversity catastrophe. 
@@ -53,11 +55,13 @@ When I did the Carbon Cycle journey I flew across the Atlantic. At the time, I j
 
 When I went across the Atlantic for my next adventure, not only was it a non-flying year, I was also very keen to do the journey with as little environmental impact as possible. It troubles me that the adventure and outdoors world often blanks out the problems around flying – a lot of it is about climbing mountains on every continent, or trips of that kind, and in the adventure community we’re not really yet having an open and honest conversation about the impacts of that. Most adventurers are in love with the planet yet we’re having a big impact. Let’s open up that conversation and see what we can do that's positive, because there’s loads that's positive about adventure.
 
+> "Most adventurers are in love with the planet yet we’re having a big impact. Let’s open up that conversation and see what we can do that's positive."
+
 So I wanted to keep my impact down as low as possible, but I also really wanted to go to South America, because I wanted to focus on biodiversity and I love cycling in mountains, and where can you get both of those things in spades but in S. America? I decided the best way to get there was on a cargo ship. Carbon footprint specialist [Mike Berners Lee](https://www.theguardian.com/profile/mike-berners-lee) did the number crunching and worked out that had I gone by plane the carbon footprint would have been roughly 2 tonnes CO2 equivalent, but per passenger for the cargo ship it’s 50kg. A huge, huge saving, and a fascinating way to travel.
 
 It took 11 days from France to Colombia, and a month on the return leg, coming up the west coast of S.America then through the Panama canal and across the Atlantic. It’s a fantastic way to travel because it gives you time to change gear, both on the way there, and on the way back. Of course, you need time and money to travel in this way, but I would wholeheartedly recommend it.
 
-![](/images/uploads/cargoshipbike.jpg "Woody the bicycle being loaded onto the cargo ship")
+![Picture shows a man in a orange hazard suit and yellow hard-hat lifting Kate's bike Woody into a cargo ship. You can see the red steel side of the boat. ](/images/uploads/cargoshipbike.jpg "Woody the bicycle being loaded onto the cargo ship")
 
 #### FLIGHT FREE UK:
 
@@ -82,6 +86,8 @@ Travelling by cargo ship is a bit of a paradox – while, per passenger mile, it
 #### KATE:
 
 We have to put the whole concept of travel, especially holiday travel, firmly into context and perspective. We’re talking about a major climate change and ecological emergency. We’re talking about a serious threat to human civilisation and to many other forms of life on earth who are every bit as entitled to be here as we are, and who we utterly depend on. This is the key things about biodiversity – it's not luxury, or nice to have, it’s our life support system! We cannot live without biodiversity yet we’re currently decimating it. 
+
+> "We have to put the concept of travel, especially holiday travel, firmly into perspective. We’re talking about a major climate change and ecological emergency."
 
 And we all know the stats about climate change. We’re talking about major crises here, and that’s the context within which we have to put our travelling and our holiday plans. Most people will not be able to cross the Atlantic on a cargo ship – I will never be able to do that again in my lifetime. I have many friends in the USA and I just won’t see them regularly, and that's how it is. We can turn this into a positive by celebrating where we do live and going on holiday more locally, travelling by train and bike. When I cut back on flying I spent a lot more time sea kayaking in Scotland instead. Scotland is a hard place to beat for sea kayaking! There’s no easy way around it. We can’t just go to NY for our hen nights and stag dos any longer – that just isn’t the world we live in any more. And it’s tragic – I feel cheated in a way, that just as the cheap flight world is opening up travel for people like me who love travel, I was learning about climate change and realising that I couldn’t justify that kind of behaviour. So it's about perspective: my holiday plans and desires can't possibly take priority over the future of life on earth.
 
@@ -111,7 +117,7 @@ I would love to think that was the future – wouldn’t that be wonderful? Sail
 
 So yes, an increase in sailing. It’s not going to be the equivalent of the jumbo jet bus in the sky, because it is always going to take longer and be more limited in terms of availability, but that's going to be part of a bigger social change. We are going to have to travel less in the future and enjoy where we are more, and spend more time exploring close to home. Certainly my next journeys are going to be within the UK and Europe and I’m really looking forward to that.
 
-![](/images/uploads/katechris-candid.jpg "Kate built Woody the bamboo bike herself from bamboo grown at the Eden project in Cornwall")
+![Picture shows Kate and another man inspecting Kate's bike Woody. In the background you can see the blurred domed shape of the Eden Project. ](/images/uploads/katechris-candid.jpg "Kate built Woody the bamboo bike herself from bamboo grown at the Eden project in Cornwall")
 
 *Thank you so much to Kate for speaking to us. Please do look her up online, at [outdoorphilosophy.co.uk](http://outdoorphilosophy.co.uk), and see if you can get your hands on one of her books, or even catch one of her excellent talks.* 
 
