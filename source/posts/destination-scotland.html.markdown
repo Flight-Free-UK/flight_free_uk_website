@@ -95,7 +95,7 @@ After a night in Inverness we continued with [ScotRail](https://www.scotrail.co.
 
 Thurso welcomed us with sunshine and a very friendly [backpackers](https://sandras-backpackers.co.uk/) host who had organised a family room with en-suite bathroom for us. Glancing at our heavy rucksacks, he shook his head at our plan to walk to the ferry port, and organised a cab to take us to Scrabster the following morning. We arrived at the harbour under light blue skies with the gentle looking sea bashing against glowing rock formations with noticeable force. It was one of those moments you’re likely to remember for the rest of your life.
 
-![](/images/uploads/img_1886.jpg "Noup Head, Westray")
+![Picture shows a white lighthouse on the edge of a green grassy cliff. The sea behind looks a deep indigo and the sky is clear except for some small fluffy clouds. ](/images/uploads/img_1886.jpg "Noup Head, Westray")
 
 The ferry journey from Scrabster to Stromness ranks among the most beautiful experiences of the trip; we glided away from the mainland towards Hoy, passing ‘The Old Man’ sea stack and glimpsing porpoises, with everyone on board excited at the prospect of spotting dolphins or even better, orcas! As we rounded the tip of Hoy the view opened up, with several of the islands and the Norse architecture of Stromness coming into view. The town found a place in our hearts the minute we stepped ashore.
 
@@ -107,7 +107,7 @@ An early morning walk through misty landscape full of low flying birds and archa
 
 We will definitely be back one day; there are plenty of islands still to discover, and plenty of places we missed. And of course, perhaps next time we will see those elusive Northern Lights or finally spot some orcas.
 
-![](/images/uploads/img_1874.jpg "Westray, near the Links of Noltland")
+![Picture shows two figures walking along a sandy beach with the tide very far out. The sea looks deep blue and turquoise and the sky is clear blue with few clouds. The sand is pale yellow and there is shallow pools and streams running through it. ](/images/uploads/img_1874.jpg "Westray, near the Links of Noltland")
 
 ### Ali Hood, hiking in Glen Coe
 
@@ -117,11 +117,13 @@ Not flying hasn’t felt like a restriction: the more flight-free trips I do, th
 
 Travelling by car is the best option for me – having the condition M.E., or Chronic Fatigue Syndrome, means that public transport can be exhausting (all those changes) and I often need to lie down, which I can do in the car.
 
+> "Not flying hasn’t felt like a restriction: the more flight-free trips I do, the more I want to do."
+
 After spending nearly a week meandering up the country via the Lake District and [Loch Awe](https://www.visitscotland.com/info/towns-villages/loch-awe-p239961) in Argyll, we arrived in Glencoe, a place of dramatic proportions. Sculpted by volcanic eruptions and ancient glaciers, the scenery was guaranteed to be breathtaking, and driving along the edge of [Loch Linnhe](https://www.scotlandinfo.eu/loch-linnhe-scotland/), a vast sea loch that leads to the Great Glen, with mountains on both sides and thick woodlands at the foot of Glen Coe, did not disappoint. We pitched our tents among gnarled trees and lush ferns in the heart of the Glen as dusk fell, discovering the true magnitude of our surroundings the next morning as the mist lifted to reveal the River Coe a stone’s throw away and mountains looming either side.
 
 It promised to be the ultimate adventure, with plenty of hiking, climbing and kayaking, though I knew my friends would be doing more of everything than I could. But in the end, one of the highlights for everyone was a gentle walk along the [Lochan trails](https://www.walkhighlands.co.uk/fortwilliam/glencoelochan.shtml) – a forest walk at the foot of the Glen – where we strolled among trees dripping with moss and moisture, ferns, fungi and streams, and found a vast colony of tiny frogs in the undergrowth.
 
-![](/images/uploads/lochan-trail-2-min.jpg "Lochan trails")
+![Picture shows a tiny frog resting on someones hand. In the background is blurred greenery. ](/images/uploads/lochan-trail-2-min.jpg "Lochan trails")
 
 No trip to Glencoe is complete without visiting Ben Nevis. After hiking the first half an hour I left my friends to tackle the rest of the climb and drove with my boyfriend along Glen Nevis for a quieter walk to the [Steall Falls](https://visitfortwilliam.co.uk/about-ben-nevis-in-fort-william-and-ben-nevis-webcam/steall-falls-walk-in-glen-nevis-gorge-ben-nevis). We’d escaped the crowds at Ben Nevis to discover a beautiful valley filled with gorse, wild flowers and cascading streams. I rested and took in the views of the waterfall, leaving the precarious high-wire bridge to my boyfriend.
 
@@ -135,6 +137,6 @@ There are many parallels between living with a chronic illness and choosing not 
 
 Equally, travel doesn’t mean going the furthest, climbing the highest, or ticking off the most sights – it’s about exploring, learning, being present, and ultimately having fun wherever you are. Perhaps this is something my illness is teaching me, and it applies to my interest in environmentalism too. It’s about reframing expectations to enjoy what IS possible without resenting the restrictions.
 
-After all, what could be better than the beauty of nature in the company of friends?
+#### After all, what could be better than the beauty of nature in the company of friends?
 
-![](/images/uploads/lochan-trail-min.jpg "Lochan trails")
+![Picture shows one person sitting on a log and three others standing. They are smiling to pose for the picture. Behind the log is a forest of thin trees. ](/images/uploads/lochan-trail-min.jpg "Lochan trails")
