@@ -9,11 +9,15 @@ summary: Flight free 2020 pledger Sophia Cheng attended the ChangeNOW Summit in
 author: FlightFree UK
 read_time_minute: 8
 ---
-![](/images/uploads/grandpalais.jpeg)
+![Picture shows the entrance to the ChangeNOW Summit in Paris. An engraved arch reads "Welcome Heroes of Change". The roof is glass and domed and there are many colourful stalls dotted around. ](/images/uploads/grandpalais.jpeg "Change NOW International Summit Sortiraparis ")
 
-I'm what you might call a recovering flying addict. I love to travel and invariably enjoyed air travel too. I have opinions on where exactly to best sit on the plane (always window), which airlines do better food, and when it's worth paying for priority boarding or not. I am also the perfect size for flying: my legs aren't too long, and as a bit of a contortionist with a super power for sleep, I have a suite of positions to get comfy. I built my identity and more recently my life around flying as a digital nomad. So taking [the flight free pledge](https://flightfree.co.uk) has meant a major overhaul in my lifestyle.
+### I'm what you might call a recovering flying addict. 
+
+I love to travel and invariably enjoyed air travel too. I have opinions on where exactly to best sit on the plane (always window), which airlines do better food, and when it's worth paying for priority boarding or not. I am also the perfect size for flying: my legs aren't too long, and as a bit of a contortionist with a super power for sleep, I have a suite of positions to get comfy. I built my identity and more recently my life around flying as a digital nomad. So taking [the flight free pledge](https://flightfree.co.uk) has meant a major overhaul in my lifestyle.
 
 While I'm attempting to stay still more, when the [ChangeNOW Summit](https://www.changenow-summit.com) was announced, with the by-line ‘the World Expo of solutions for the planet,’ I couldn't ignore that itch – either to travel to Paris (by train) or for the opportunity to find out how we might be able to travel by air in a sustainable way. Is it even possible?
+
+> "I couldn't ignore the opportunity to find out how we might be able to travel by air in a sustainable way. Is it even possible?"
 
 ‘The Aviation Footprint’ was an 80 min discussion headed up by Michael Gill, Executive Director of ATAG the Aviation Travel Action Group.
 
@@ -90,7 +94,7 @@ The curiously named [Flying Whales](http://flying-whales.com/en) presented their
 
 Production of these 154m long airships is taking place in Canada, France and China. Lift off is expected in 2021 and 150 of them are expected by the end of the decade. 
 
-![](/images/uploads/flyingwhales.jpg "Credit: Flying Whales")
+![Picture shows a massive rugby-ball-shaped airship with the words 'flying whale' written on the side. Beneath the ship you can see a pine forest and hills.](/images/uploads/flyingwhales.jpg "Credit: Flying Whales")
 
 Further research led me to discover [Ocean SkyCruises](https://www.oceanskycruises.com/) already establishing itself in the luxury eco-travel space. Unlike Flying Whales these Airlanders are aimed at carrying passengers. First routes are planned for 2023, from Svalbard to the Arctic. Tickets are currently $80,000 each. Find out more about it on [BBC Future](https://www.bbc.com/future/article/20191107-how-airships-could-return-to-our-crowded-skies).
 
