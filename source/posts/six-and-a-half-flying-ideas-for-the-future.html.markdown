@@ -123,6 +123,8 @@ These prototypes, early concepts and ideas are aimed at making flying more susta
 
 The aviation industry is projected to [double in 20 years](https://www.forbes.com/sites/marisagarcia/2018/10/24/iata-raises-20-year-projections-to-8-2-billion-passengers-warns-against-protectionism/). Even if all this new technology was ready now, the combined savings in emissions would not be enough to counter that growth.
 
+> "The aviation industry will [double in 20 years](https://www.forbes.com/sites/marisagarcia/2018/10/24/iata-raises-20-year-projections-to-8-2-billion-passengers-warns-against-protectionism/). Even if this new technology was ready now, the combined savings in emissions would not be enough to counter that growth."
+
 Because the science says that to stay below 1.5 degrees Celsius of warming, we have to leave 80% of the fossil fuels we know about in the ground. [That leaves us with only 12 to 31 years of current emissions left](https://www.carbonbrief.org/analysis-how-much-carbon-budget-is-left-to-limit-global-warming-to-1-5c).
 
 Covid-19 has abruptly brought flying to a halt and the longer the lockdown continues the more impact it will have on the industry, and of course the vast number of people the industry employs. But a reduction in flights has inevitably led to a [reduction in carbon emissions](https://www.theguardian.com/environment/2020/apr/12/global-carbon-emisions-could-fall-by-record-25bn-tonnes-in-2020). Perhaps this shows us that the issue isn't how we grow more sustainably but with the idea of growth itself?
@@ -137,4 +139,4 @@ In fact I think the most radical idea I discovered throughout the whole conferen
 
 *You can read a longer version of this article [on Sophia's blog](http://www.withmanyroots.com/blog/six-and-a-half-flying-ideas-for-the-future), and you can read our 'One of the 100,000' interview with her [here](https://flightfree.co.uk/post/one-of-the-100-000-sophia-cheng/).*
 
-![](/images/uploads/sophiacheng.jpg)
+![Picture shows Sophia walking down a street. She is smiling and carrying a notebook. ](/images/uploads/sophiacheng.jpg)
