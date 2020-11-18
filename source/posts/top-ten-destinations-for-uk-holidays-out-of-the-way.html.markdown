@@ -96,7 +96,7 @@ Tenby is a picture-postcard harbour town known for its pastel-coloured houses, m
 
 Tenby has plenty of attractions and amenities, including the oldest independent [museum](https://www.visitwales.com/product/675215) in Wales, and the pubs, shops, cafes and eateries are all linked by quaint cobbled streets. Tenby can be easily reached by train and coach, with both stations situated close to the town centre.
 
-![North Beach at Tenby](/images/uploads/tenby.jpg "North Beach at Tenby, Pembrokeshire. Image from bluestonewales.com.")
+![North Beach at Tenby. Picture shows a wide sandy beach with the tide out. Trees cover the short cliffs behind the beach and there is a large boulder in the middle of the beach. People are dotted around the beach with towels and small tents. The sea and the sky are clear blue. ](/images/uploads/tenby.jpg "North Beach at Tenby, Pembrokeshire. Image from bluestonewales.com.")
 
 ## Conwy, North Wales
 
@@ -106,4 +106,4 @@ Conwy is one of Britain’s best-preserved medieval towns, where ancient stone w
 
 To get to Conwy, take the train and change at Chester. The railway follows the coast through many north Wales beach resorts with fabulous views across the sea. Chester itself is also worth a look around, with a thriving Tudor high street, so we recommend taking extra time for your connection.
 
-![Conwy Castle](/images/uploads/conwy.jpg "Conwy Castle, image from sykescottages.co.uk")
+![Conwy Castle. Picture shows a river leading up to a large castle. There is a bridge before the castle an a small sail boat is moored on the river. ](/images/uploads/conwy.jpg "Conwy Castle, image from sykescottages.co.uk")
