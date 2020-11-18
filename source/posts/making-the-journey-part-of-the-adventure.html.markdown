@@ -9,7 +9,9 @@ summary: In deciding not to fly, Athlyn Cathcart-Keays discovers how the journey
 author: FlightFree UK
 read_time_minute: 4
 ---
-Since my birth in 1991, my mother has kept a diary of the trips and holidays I’ve been on. Starting with a trip from Canada (my birthplace) to Germany (where my aunt lives) in February 1992 as a 6 month old baby, I’ve been to a lot of different places.
+### Since my birth in 1991, my mother has kept a diary of the trips and holidays I’ve been on. 
+
+Starting with a trip from Canada (my birthplace) to Germany (where my aunt lives) in February 1992 as a 6 month old baby, I’ve been to a lot of different places.
 
 We moved to the UK when I was 5 years old, and with an extended family that, at times, has been spread over Canada, US, Germany, China, Japan and the UK, I was no stranger to long-haul flights and adventures in all four corners of the earth. The diary was handed over to me when I was a teenager, and I’ve updated it every year or so since with the trips I’ve taken, whether international or close to home. Since that first trip to Germany in 1992, I’ve taken 64 return flights – an average of 2.2 flights per year. While I couldn’t find an average comparison, it’s estimated that [57% of the UK population](https://neweconomics.org/uploads/files/58e9fad2705500ed8d_hzm6yx1zf.pdf) took no flights abroad whatsoever in 2013.
 
