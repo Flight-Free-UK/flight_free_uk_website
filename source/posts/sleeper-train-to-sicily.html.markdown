@@ -9,15 +9,17 @@ summary: Peter Gilbert travels deep into the Mediterranean by rail, and finds
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/view-from-enna-2.jpg "View from Enna")
+![Picture shows a hill covered in buildings and structures. An evening sun is shining on the hill and the other side is in shade. In the background is an expanse of green hilly terrain with a small layer of cloud covering to tops of the hills. The sky above is blue. In the bottom left corner of the picture are the tops of trees silhouetted against the view. ](/images/uploads/view-from-enna-2.jpg "View from Enna")
 
-I’d often dreamed of European train adventures, but courage never matched imagination until I discovered the website [seat61.com](https://www.seat61.com/). Trips to Germany and the Netherlands (how easy that was!) were followed by an expedition to Transylvania – I returned without experiencing too many horror stories. And that’s how I built up my confidence to take on Sicily, famous for volcanoes and classical civilisation, but also notorious for pickpockets and *mafiosi*.
+### I’d often dreamed of European train adventures, but courage never matched imagination until I discovered the website [seat61.com](https://www.seat61.com/).
+
+ Trips to Germany and the Netherlands (how easy that was!) were followed by an expedition to Transylvania – I returned without experiencing too many horror stories. And that’s how I built up my confidence to take on Sicily, famous for volcanoes and classical civilisation, but also notorious for pickpockets and *mafiosi*.
 
 The romantic in me chose the night sleeper from Paris, dining on board with a half bottle of *chianti.* The train follows the same route under the Alps as the Orient Express. In the morning, after an excellent barista-prepared *macchiato,* I alighted at Padua, and as I was in no rush, stayed there for a day and a night before heading to Rome for an afternoon and evening. From there I boarded a night train to Sicily.
 
 One oddity about travelling to Sicily by train is that some of it is by train ferry. Long-distance day and night trains get shunted on board, cross the strait of Messina, and then continue, one half of the train hugging the north coast to Palermo, the other heading south to Taormina and Siracusa. Even though I deliberately caught the later of the two night trains, it was still far too early for me to rise on a dampish morning, so I experienced the crossing from the inside of the train deck.
 
-![](/images/uploads/italy-sicily.jpg)
+![The picture shows a closeup shot of a map of Italy, with Sicily at the bottom. ](/images/uploads/italy-sicily.jpg)
 
 That first Sicilian oddity was followed by others. Its desserts for starters. I made the mistake on my morning of arrival of ordering *granita* (thinking granola) to discover that Sicilians habitually feast on ice cream for breakfast. *Cannoli* is another strange one, a hot dog shaped pastry containing whipped ricotta and pistachio. The wise practice social distancing *before* taking a bite (oops!). And then there’s the garish green Sicilian*cassata*, famous throughout Italy. For a hemispherical bun it takes some beating. The Catanian version, in an indelicate but popular memorial to their patron saint, is iced white then topped with a glacé cherry. I’ll spare you the gory details; suffice to say that Saint Agatha came to a sticky end.
 
