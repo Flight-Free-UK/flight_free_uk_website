@@ -40,6 +40,8 @@ The idea of social influence cuts across psychology, anthropology, sociology, po
 
 Most of what we learn comes from other people. And we’re highly influenced by our social group. So if we identify with people, we copy them.
 
+> "Most of what we learn comes from other people. And we’re highly influenced by our social group. So if we identify with people, we copy them."
+
 I did a survey to find people who knew somebody who’d given up flying. So probably the people who answered that survey were more likely to be environmentally conscious. But having said that, there were lots of people who fly a lot, i.e. more than 10 return flights a year. About 75% of the people who knew someone who’d given up flying said their attitudes had changed, and more than half said they fly less as a result.
 
 One person in particular had a boss who didn’t fly – Katie Mitchell, a theatre director – and was very impressed that she was willing to put herself out and potentially damage her career by choosing not to fly. So there was some level of seniority and admiration. So if there’s someone you admire for any reason, the influence is more as you might expect.
@@ -55,6 +57,8 @@ One reason is because it’s the right thing to do. If you’re concerned about 
 That’s on an individual basis, to try and reduce our emissions as much as practically possible, now.
 
 Then wrapped up in that is the social influence element, which is what I’m interested in, which says that if you do something then other people see you doing it – your friends, family, colleagues – there is a communicative effect from what we do. We are social creatures. A huge amount of research and evidence shows that we look to reference people and see what they’re doing and we compare what they’re doing to what we’re doing and we work out what we should be doing from that. So it goes beyond a personal decision to cut one’s own carbon footprint by x kgs or tonnes of CO2, it’s also part of the social mix, and that feeds into politics as well. So the personal is the political. That’s where I think the debate is really limited at the moment, because you will see quite a lot of climate scientists, most of them atmospheric scientists, saying, you shouldn't worry about individual emissions, because they add up to nothing, each persons’ emissions don’t really count, so focus on the system change, which is very important, but actually personal change feeds into system change.
+
+>  "It goes beyond a personal decision to cut one’s own carbon footprint by x kgs or tonnes of CO2, it’s also part of the social mix, that feeds into politics. So the personal is the political."
 
 What they tend to ignore is the social influence. The policies that we need, i.e. the systems change that they argue for is wrapped up in what people are prepared to do, public attitudes and social norms, and that is highly dependent on what we do and what we talk about.
 
@@ -85,6 +89,8 @@ Yes it is up to the government. This has been referred to as the governance trap
 The public thinks, yes I want to tackle climate change, but the government needs to do stuff to make that happen. And the government says, well, we’ve got a free society, the markets will sort things out, so if consumers choose it, they can make market decisions. So there’s a trap where they both allocate responsibility to each other.
 
 So, the government does need to do stuff, and it’s not doing enough, and the problem is political ideology and fossil fuel lobbying and corporate lobbying which tries to maintain the status quo.
+
+> "The government does need to do stuff, and it’s not doing enough, and the problem is political ideology and fossil fuel lobbying."
 
 What we can do is put pressure on government by showing that this is what citizens want, and that it’s possible, and that we will make sacrifices if that's what you want to call them because of climate change, because it’s so important. There’s a narrative that nobody wants to make sacrifices and that we’re all selfish, but that’s not realistic. We’ve seen it with Covid – people are willing to make sacrifices, and in some cases really hard sacrifices, for the social good. It’s part of our social and cultural evolution – we make small and large sacrifices all the time, and people will do it. Part of the narrative against behaviour change when it comes to climate change is that people won’t make sacrifices. That’s something I’m interested in exploring a bit more, because I think people will, if it’s perceived as fair and just. We don’t want to be taken for a ride but people will give things up for the good of their community and their country.
 
