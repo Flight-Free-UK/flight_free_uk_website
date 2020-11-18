@@ -22,7 +22,7 @@ Known as “Wiltshire’s hidden gem”, Devizes is a medieval market town with 
 
 Not only is the canal a remarkable feat of engineering, with tunnels, aqueducts and the famous lock flight at [Caen Hill](https://canalrivertrust.org.uk/places-to-visit/caen-hill-locks) (29 locks in a row!), floating at an average 5 mph is a truly relaxing way to pass the time. There are plenty of canalside pubs along the way; we particularly like the [Black Horse](https://www.tripadvisor.co.uk/Attraction_Review-g528767-d5918051-Reviews-Black_Horse-Devizes_Wiltshire_England.html) at Devizes, near the top of the Caen Hill flight. By public transport, take the train to Swindon or Salisbury and then catch a bus to Devizes.
 
-![Caen Hil locks](/images/uploads/caen.jpg "Caen Hill Locks. Image from insure4boats.co.uk")
+![Caen Hil locks. Picture shows a hill ascending from a canal with many locks stacked up behind each other to allow small boats to climb the hill. Greenery surrounds the locks and some small houses sit at the top. Its a sunny and bright day. ](/images/uploads/caen.jpg "Caen Hill Locks. Image from insure4boats.co.uk")
 
 ## Sheringham, Norfolk
 
@@ -30,7 +30,7 @@ The traditional seaside town of Sheringham is known for its beautiful sandy beac
 
 The town is accessible by train, and if you have time, stop off at Cromer on the way - another Norfolk seaside town rich in fishing heritage.
 
-![Norfolk coast path at Sheringham](/images/uploads/sheringham.jpg "Sheringham, image from sheringhamtowncouncil.gov.uk")
+![Norfolk coast path at Sheringham. Picture shows a sandy path surrounded by thick grassy dunes. A wooden railing marks the path and a wooden sign reads "Norfolk Coast Path: Public Footpath. Weybourne 2,3/4 miles". The beach behind the dunes is sandy and the sea is clear blue. ](/images/uploads/sheringham.jpg "Sheringham, image from sheringhamtowncouncil.gov.uk")
 
 ## Edale, Peak District
 
