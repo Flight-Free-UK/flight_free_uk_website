@@ -10,7 +10,7 @@ summary: Scottish artist Leo du Feu has spent much of the past 15 years
 author: FlightFree UK
 read_time_minute: 5
 ---
-![Leo, Jennifer and Oren](/images/uploads/leo-jennifer-oren.jpg "Leo, Jennifer and Oren")
+![Picture shows Leo and Jennfier holding their baby Oren while sitting on a train. All three are looking at the camera and Leo and Jennifer are smiling. ](/images/uploads/leo-jennifer-oren.jpg "Leo, Jennifer and Oren")
 
 I was brought up in the 80s & 90s in a no-car family. Everything we needed was within walking and cycling distance: school, a thriving High Street, and the railway station which connected us in 20 minutes to Edinburgh and 40 minutes to Glasgow.
 
