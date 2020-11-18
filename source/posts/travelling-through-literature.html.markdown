@@ -9,17 +9,19 @@ summary: Trapped at home by the pandemic? We investigate whether books can stand
 author: FlightFree UK
 read_time_minute: 7
 ---
-Have you ever worried that not flying might make you a little bit boring? When friends are boasting about their holidays as if they were expeditions, talking about the places they explored, the people they encountered, sometimes you might feel left out, as if you have little to contribute to the conversation.
+### Have you ever worried that not flying might make you a little bit boring? 
+
+When friends are boasting about their holidays as if they were expeditions, talking about the places they explored, the people they encountered, sometimes you might feel left out, as if you have little to contribute to the conversation.
 
 Well, there is a way to be curious about the world without harming it: read a book. 
 
-![](/images/uploads/world-globe-book.jpg)
+![Picture shows a close-up of an open book on a table within a library. In the middle of the open pages rests a small toy globe. ](/images/uploads/world-globe-book.jpg)
 
 Instead of taking a long haul flight to India (emissions 2 tonnes of CO2), you could read one of the many fabulous novels in English by Indian writers (emissions of a paperback book: 1 kg of CO2). They will give you an insight into Indian society and a feeling of connection that would be missing from most holiday visits. 
 
 Instead of an American road trip (emissions 2.8 tonnes of CO2 per person), treat yourself to a journey through the Great American Novel (zero emissions if you borrow them from the library). Tour operators might try to give you an authentic experience of the country, but reading books, especially by someone from that place, will give you a perspective that a holiday cannot possibly match.
 
-> *"Instead of taking a flight to India (2 tonnes CO2), you could read a novel by an Indian writer (1 kg CO2)"*
+> "Instead of taking a flight to India (2 tonnes CO2), you could read a novel by an Indian writer (1 kg CO2)"
 
 In the UK we love our holidays abroad. The places we choose to visit become part of our identity, a form of self expression. That's not new. Ever since wealthy eighteenth century Brits toured Europe and filled their houses with the art they acquired, we have used travel to cement our social status. But the books you have read are also a great way to show where you are coming from, and where you are heading. Books can change you, just as travel can.
 
@@ -37,7 +39,7 @@ The Leopard is a deeply thoughtful novel, concerned with change, mortality, and 
 
 Giuseppe Tomasi was himself a Sicilian prince, which gives his book undeniable authority. He describes a society where a legacy of classical Greek and Roman culture collides with Catholic devotion, things that still define Sicily today.
 
-![](/images/uploads/theleopard.jpg "The Leopard by Giuseppe Tomasi di Lampedusa. Image from bbc.co.uk")
+![Picture shows a paining of a leopard with a bright red background. Underneath the leopard is a blue dish with red fruit in it. One piece of fruit has rolled out of the dish. ](/images/uploads/theleopard.jpg "The Leopard by Giuseppe Tomasi di Lampedusa. Image from bbc.co.uk")
 
 Descriptions of stony hilltops and scented flower gardens serve as metaphors for the declining power of the aristocracy. Perhaps we should not take them literally. On the other hand, the writer’s cynicism towards political institutions at the birth of the nation is itself an insight into Italy’s political culture.
 
