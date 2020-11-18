@@ -11,9 +11,7 @@ read_time_minute: 2
 ---
 ![An open box of sweets](/images/uploads/box-of-sweets.jpg)
 
-> ***“The crisis is acute…”***
->
-> ***“Covid-19 has given us all a wake-up call \[on] the immediate and long-term risks of being overweight.”***
+> ***“The crisis is acute…Covid-19 has given us all a wake-up call \[on] the immediate and long-term risks of being overweight.”***
 
 These are messages from the government about the urgent need to take action on obesity. Proposed solutions include banning advertising, providing calorie labels in restaurants, and limiting in-store promotions or food deals.
 
@@ -29,6 +27,8 @@ These very same arguments can be applied to aviation. Burning kerosene contribut
 
 The proposed measures to address the obesity crisis could almost exactly be applied to flights. Calorie labelling would become carbon labelling, with information about the emissions of your flight given at the time of booking, or specified on your ticket. An advertising ban would mean no more being bombarded with cheap flight deals. Limiting incentives and deals would draw to a close reward schemes such as Air Miles or Frequent Flyer perks.
 
+> "The proposed measures to address the obesity crisis could almost exactly be applied to flights. Calorie labelling would become carbon labelling."
+
 There will be plenty of push back against the government’s obesity plan. The food industry has already said, "The introduction of such a draconian measure at this time could have deep repercussions for agencies and the advertising sector, generally, in terms of jobs and creative output, for very little end result.”
 
 This sounds remarkably similar to what the aviation industry might say if the same measures were applied to flights. Rolling out the ‘2% of global emissions’ claim would certainly be part of the argument (the true figure is [more like 5%](https://www.transportenvironment.org/what-we-do/flying-and-climate-change), but that's [only part of the story](https://flightfree.co.uk/post/is-the-rising-social-stigma-around-flying-misplaced/)…), and there would be similar warnings about loss of jobs and loss of freedom.
@@ -37,4 +37,4 @@ Of course, we shouldn't take loss of jobs and loss of freedom lightly. But there
 
 The National obesity forum chair says, “The consequence of obesity is so great that risks and daring measures have to be put in place.” Swap ‘obesity’ for ‘climate crisis’ and we’re getting there.
 
-Obesity has been seen as a national health crisis for many years. Coronavirus has finally woken up our politicians to do something about it. Will the same soon be the case for the climate crisis?
+#### Obesity has been seen as a national health crisis for many years. Coronavirus has finally woken up our politicians to do something about it. Will the same soon be the case for the climate crisis?
