@@ -23,7 +23,9 @@ One oddity about travelling to Sicily by train is that some of it is by train fe
 
 ![The picture shows a closeup shot of a map of Italy, with Sicily at the bottom. ](/images/uploads/italy-sicily.jpg)
 
-That first Sicilian oddity was followed by others. Its desserts for starters. I made the mistake on my morning of arrival of ordering *granita* (thinking granola) to discover that Sicilians habitually feast on ice cream for breakfast. *Cannoli* is another strange one, a hot dog shaped pastry containing whipped ricotta and pistachio. The wise practice social distancing *before* taking a bite (oops!). And then there’s the garish green Sicilian *cassata*, famous throughout Italy. For a hemispherical bun it takes some beating. The Catanian version, in an indelicate but popular memorial to their patron saint, is iced white then topped with a glacé cherry. I’ll spare you the gory details; suffice to say that Saint Agatha came to a sticky end.
+#### That first Sicilian oddity was followed by others. Its desserts for starters.
+
+ I made the mistake on my morning of arrival of ordering *granita* (thinking granola) to discover that Sicilians habitually feast on ice cream for breakfast. *Cannoli* is another strange one, a hot dog shaped pastry containing whipped ricotta and pistachio. The wise practice social distancing *before* taking a bite (oops!). And then there’s the garish green Sicilian *cassata*, famous throughout Italy. For a hemispherical bun it takes some beating. The Catanian version, in an indelicate but popular memorial to their patron saint, is iced white then topped with a glacé cherry. I’ll spare you the gory details; suffice to say that Saint Agatha came to a sticky end.
 
 Sicily is almost Tunisia, so it’s no surprise that there are north African influences mixed with those of other seafaring cultures – Greek, Roman, Spanish, Norman even. They are to be seen in the superb array of UNESCO registered temples, amphitheatres, castles, and basilicas dotted around the long coastline, many of them clinging precariously to improbably steep rocks. And you feel Africa is present in today’s street markets, in which a Moorish trader of the past would surely be quite at home. The morning fish markets are alive with noise and activity, guts and fish heads miring ancient cobbles as the morning proceeds. They are a spectacle (in Catania you can view the market at a safe distance, from atop its surrounding walls), but they are less appealing if you happened to have hit the *marsala* the night before.
 
@@ -39,6 +41,6 @@ If you prefer to travel by day and savour the view, take a high speed TGV train 
 
 Overnight engineering works can result in trains being cancelled so it is worth booking the Italian trains before buying Eurostar tickets. Thello, Trenitalia and Italo start selling around the same time as Eurostar (about six months before you travel) and, if you get in early, you can travel to Sicily and back for around £300 sharing compartments. I did it for £500 with single occupancy throughout, and I had a day each in Padua and Naples along the way, as well as an afternoon and evening in Rome.
 
-So I got my adventure – and without any sign of a pickpocket or *mafioso*!
+#### So I got my adventure – and without any sign of a pickpocket or *mafioso*!
 
-![](/images/uploads/view-from-enna-1.jpg)
+![Picture shows the view down a street between two buildings. Railings at the end of the street protect from the sheer drop. In the distance are foggy green hills with houses clustered on them and rolling clouds further back. The town is in the sun and the close up buildings are silhouetted in contrast to the bright view. ](/images/uploads/bd057382-d834-448a-a1dd-a0ba9b9b0fd0.jpeg)
