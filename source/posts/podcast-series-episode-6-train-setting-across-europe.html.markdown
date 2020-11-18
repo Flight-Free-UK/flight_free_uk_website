@@ -11,9 +11,9 @@ read_time_minute: 9
 ---
 ## This podcast is episode 6 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![Dr Alexandra Jellicoe](/images/uploads/alex-jellico1.jpg "Dr Alexandra Jellicoe")
+![Picture shows Alexandra taking a selfie in the interior of a station. She is smiling and has a rucksack and a suitcase with her. ](/images/uploads/alex-jellico1.jpg "Dr Alexandra Jellicoe")
 
-*This month's [podcast](https://flightfree.co.uk/podcast/) is an interview with Dr Alexandra Jellicoe, a once frequent flier now turned train enthusiast, so we will be waxing lyrical about the wonders of train travel across Europe.*
+#### *This month's [podcast](https://flightfree.co.uk/podcast/) is an interview with Dr Alexandra Jellicoe, a once frequent flier now turned train enthusiast, so we will be waxing lyrical about the wonders of train travel across Europe.*
 
 *However, Europe has been in lockdown for the past couple of months, and even though borders seem to be opening up again, train travel might be difficult for some time. So we will also be talking about the value staying put, and how that might actually be a good thing for us and for the planet.*
 
@@ -26,6 +26,8 @@ read_time_minute: 9
 I was still flying frequently for work and for holidays up until the IPCC report was published in 2018, and I was so horrified by the contents. There was a huge transformation in me and a lot of people because of that report. I’d been trying to live sustainably in various other ways but hadn’t accounted for flying as being a huge part of my carbon footprint. I felt like couldn’t not talk about it any more, so I started to speak out and decided that if I was going to be talking about this I needed to be walking the talk as well. Flying is quite an easy and immediate change you can make, especially if you only fly for holidays.
 
 I decided to start taking the train to travel to Europe, and I took a train down to Bologne and absolutely loved it. I loved it! The journey was one of the most meaningful parts of the holiday. Meeting people, seeing the countryside go by, and having productive working time were all a very positive part of the experience, and the idea of going back onto cattle class Ryanair/Easyjet sounds awful.
+
+> "The journey was one of the most meaningful parts of the holiday. I loved meeting people, seeing the countryside go by, and having productive working time."
 
 ### Flight Free UK:
 
@@ -71,6 +73,8 @@ I would like to go to Scandinavia, especially when Sweden starts their new sleep
 
 With Covid-19, going on public transport is a health risk so it makes it difficult. But maybe staying at home is a good thing. It might not be for a year or two until people can feel that they can go off and explore the world again.
 
+> "Maybe staying at home is a good thing. It might not be for a year or two until people can feel that they can go off and explore the world again."
+
 Covid-19 has been interesting from a data analysis of emissions, which will have dropped by 4-7% this year, but in April it was more like 17%, which is a huge drop. The majority of that has come from a reduction in transport. So how do we take this decarbonisation and take it forward in a sustainable way? Obviously we can’t continue with the current situation but how are we going to build back better and how are we going to travel better?
 
 ### Flight Free UK:
@@ -87,4 +91,6 @@ There’s so much to see and do here in England, and I’ve slightly under appre
 
 ### Flight Free UK:
 
-*We’ll explore these ideas a little more in a future episode, where we’ll focus on travelling within the UK, or appreciating the value of not travelling. For now we'll say thanks very much to Dr Alexandra Jellicoe for joining us, and do check out those blog posts about travelling across Europe by train. There are even some tips on there for people who’ve not done it before. It’s all on the Be Inspired tab of our website, [flightfree.co.uk](http://flightfree.co.uk). Thanks for listening, and see you next month.*
+*We’ll explore these ideas a little more in a future episode, where we’ll focus on travelling within the UK, or appreciating the value of not travelling. For now we'll say thanks very much to Dr Alexandra Jellicoe for joining us, and do check out those blog posts about travelling across Europe by train. There are even some tips on there for people who’ve not done it before. It’s all on the Be Inspired tab of our [website](https://flightfree.co.uk/). Thanks for listening, and see you next month.*
+
+#### You can listen to this full podcast, and access the rest of the series, at our [podcast page.](https://flightfree.co.uk/podcast/)
