@@ -99,11 +99,11 @@ Kerala is known as God's Own Country, on the coast of South India, famous for it
 
 ~ summarised by Maggie Robertson
 
-![](/images/uploads/half-a-yello-sun.jpg "Artwork by Antonia Weishaupt on jtofashion.com")
+![Picture shows a piece of artwork depicting two Nigerian sisters facing away from eachother. One is wearing a headscarf, the other wears her natural hair out. The background is half of a bright yellow sun.  ](/images/uploads/half-a-yello-sun.jpg "Artwork by Antonia Weishaupt on jtofashion.com")
 
 If you holidayed in Nigeria for a month, I wonder if you would learn more about the country than in this sweeping story of love and brutal civil war set in the 1960s. It takes you from orchards and forests near Port Harcourt in the south, where the rain falls sideways and the air is heavy with moisture from the Atlantic, to the north of the country, where the sun-seared land merges with the silver-and-white sky, and the fine grey sand gets into everything.
 
-> *"If you holidayed in Nigeria for a month, I wonder if you would learn more about the country than in this sweeping story of love and brutal civil war."*
+> "If you holidayed in Nigeria for a month, I wonder if you would learn more about the country than in this sweeping story of love and brutal civil war."
 
 Olanna and Kainene are wealthy sisters. They went to a school in Lagos so exclusive most people don’t know it exists. But they share the narrative with Ugwu, Olanna’s house boy. It is Ugwu who notices that Olanna speaks the kind of English you hear on the radio. It is Ugwu who cooks the foods of the place – jollof rice, pepper soup, chicken boiled in bitter herbs; Ugwu who forages for those herbs among the pawpaws and lemon trees in the yard.
 
