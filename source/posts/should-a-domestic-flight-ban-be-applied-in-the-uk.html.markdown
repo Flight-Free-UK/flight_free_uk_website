@@ -14,13 +14,17 @@ read_time_minute: 5
 
 ![Flight radar image showing flights across UK](/images/uploads/flight-radar.jpg "Flight radar image showing flights across UK")
 
-According to UK Government figures, domestic flights generate approximately six times the emissions of National Rail services per passenger km \[i]. At a time when we must make large-scale emissions reductions if we are to stay close to 1.5°C warming and limit catastrophic climate change, replacing aviation with rail on shorter journeys has the potential to have a significant impact.
+### According to UK Government figures, domestic flights generate approximately six times the emissions of National Rail services per passenger km \[i]. 
+
+At a time when we must make large-scale emissions reductions if we are to stay close to 1.5°C warming and limit catastrophic climate change, replacing aviation with rail on shorter journeys has the potential to have a significant impact.
 
 In response to the Covid-19-induced drop in demand, the French government has imposed green conditions on its bailout of Air France-KLM, most notably, requiring that the airline does not compete with rail on journeys achievable in 2.5 hours by train — approximately 550km.
 
 ## Could this policy be applied to UK domestic flights?
 
 The aviation sector accounted for about 7% of the UK’s total greenhouse gas emissions in 2017 \[iii] and is projected to be the single biggest source of emissions in the UK by 2050 \[iv]. This is due to a steadily increasing demand for flights, a lack of viable technological fixes, and low political will to stem the growth of the industry despite the climate crisis.
+
+> "The aviation sector accounted for 7% of the UK’s greenhouse gas emissions in 2017, and is projected to be the biggest source of UK emissions by 2050."
 
 The UK’s domestic market makes up around 5% of our total aviation emissions, and is made up predominantly of routes which take more than 2.5 hours by rail. Applying France’s policy directly is therefore only likely to reduce UK aviation emissions by 0.3% \[v]. However, extending the policy could make some meaningful reductions.
 
