@@ -40,7 +40,7 @@ For local amenities, Edale has two pubs, two cafes, a few local shops, several B
 
 > "Edale train station is on the Hope Valley Line, one of England’s most beautiful railway routes."
 
-![Edale and the High Peak](/images/uploads/edale.jpg "Edale and the High Peak, image from beautifulenglandphotos.uk")
+![Edale and the High Peak. Picture shows craggy rocks at the top of a steep grassy valley. In the background is a hilly landscape of divided farming fields and trees. The sky is cloudy but some of the valley is in sunshine. ](/images/uploads/edale.jpg "Edale and the High Peak, image from beautifulenglandphotos.uk")
 
 ## Hexham, Northumberland
 
@@ -48,7 +48,7 @@ Voted England’s favourite market town, Hexham is perfect for shoppers with man
 
 Hexham is on the [mainline](https://www.northernrailway.co.uk/stations/HEX) between Newcastle and Carlisle, with the vibrant city of Newcastle just 40 minutes by train.
 
-![Haxham Abbey](/images/uploads/hexham.jpg "Hexham Abbey, image from visithexham.net")
+![Haxham Abbey. The picture shows a pale sand-coloured abbey behind a low brick wall. In front of the wall is a row of hedges and flowers and red benches next to footpath within a walled garden. ](/images/uploads/hexham.jpg "Hexham Abbey, image from visithexham.net")
 
 ## Grange-over-Sands, Cumbria
 
@@ -56,7 +56,7 @@ Grange-over-Sands is a small coastal town located on the fascinating Morecambe B
 
 Grange-over-Sands is on the branch line from Lancaster – stop off in this charming, historical town if you have time.
 
-![](/images/uploads/grange.jpg "Grange-over-Sands countryside, image from holidaycottages.co.uk")
+![Picture shows a rough stone wall with a wooden fence. Behind the wall is an expanse of misty hilly terrain with grass and short trees. The sun is low in the sky and casting sunlight on the wall and fence. ](/images/uploads/grange.jpg "Grange-over-Sands countryside, image from holidaycottages.co.uk")
 
 ## Isles of Scilly, Cornwall
 
@@ -68,7 +68,7 @@ Each island offers a unique experience, but the Isles are well known for their c
 
 Travelling to the Isles flight-free is easy and a perfect way to view the Cornish coastline: take the train to Penzance then the ferry to St Mary's, the largest island of the group.
 
-![](/images/uploads/stmartins.jpeg "St. Martin’s, Isles of Scilly. Image from visitislesofscilly.com")
+![Picture shows a wide sandy bay with small fishing boats within it. The bay is surrounded by greenery and shrubs. The sun is setting over the horizon and the sky is bright orange and pale blue. ](/images/uploads/stmartins.jpeg "St. Martin’s, Isles of Scilly. Image from visitislesofscilly.com")
 
 # Scotland
 
@@ -78,7 +78,7 @@ The colourful buildings on Tobermory's waterfront give this little harbour town 
 
 To get to Tobermory, take the train to Oban from Glasgow Queen Street and enjoy the spectacular mountainous scenery, then take the [ferry](https://www.calmac.co.uk/) to Mull. There is a regular [bus](https://www.tobermory.co.uk/information/travel-2/bus/) service to Tobermory from Craignure ferry terminal.
 
-![Tobermory](/images/uploads/tobermory.jpg "Tobermory, image from smartertravel.com")
+![Tobermory. The picture shows bright coloured houses next to the sea. Behind them are the tops of large green trees. ](/images/uploads/tobermory.jpg "Tobermory, image from smartertravel.com")
 
 ## Pitlochry, Highlands
 
@@ -86,7 +86,7 @@ The town of Pitlochry is located in the southern corner of the beautiful Cairngo
 
 The [Caledonian Sleeper train](https://www.sleeper.scot/) goes from London Euston to six destinations in the Cairngorms National Park: Pitlochry, Blair Atholl, Dalwhinnie, Newtonmore, Kingussie and Aviemore. Pitlochry station is also served by Scot Rail.
 
-![Cairngorms](/images/uploads/cairngorms.jpg "The Cairngorms")
+![Cairngorms. Picture shows a stream with grey rocks on either side. Surrounding it is marshy grassland which is green and yellow with purple flowering shrubs. In the distance are large rolling hills. The sky is moody with small patches of blue. ](/images/uploads/cairngorms.jpg "The Cairngorms")
 
 # Wales
 
