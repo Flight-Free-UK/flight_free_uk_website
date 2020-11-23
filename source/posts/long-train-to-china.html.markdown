@@ -43,4 +43,6 @@ Thankfully I won approval for my train travel, and was left with the minor task 
 
 But I am far from the first ever climate-concerned academic to quit flying either. Within the broader flight-free movement, there is an academic [community ](https://academicflyingblog.wordpress.com/)challenging the assumption that flying should always be the first choice travel mode, especially for well-informed academics who perhaps ought to know better. We hope that universities will publish records of all staff flights, build low-carbon travel modes into research grant applications as a default option, and build fantastic videoconferencing facilities. Academics should be able to demonstrate to their students, the public, and people in [other professions](https://theconversation.com/researchers-set-an-example-fly-less-111046) that you don’t always need to fly to be a high-flier. 
 
+> "You don’t always need to fly to be a high-flier." 
+
 [@RogerTyersUK](https://twitter.com/RogerTyersUK)
