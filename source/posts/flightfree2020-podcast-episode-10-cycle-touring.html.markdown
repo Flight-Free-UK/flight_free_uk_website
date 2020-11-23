@@ -42,7 +42,7 @@ We thought, we could have a bash at that. So we put some panniers on our bikes, 
 
 #### **Flight Free UK:**
 
- So that meant you were catapulted into the category of crazy people!
+ *So that meant you were catapulted into the category of crazy people!*
 
 #### **Jo:**
 
@@ -54,7 +54,7 @@ And we've never had frost in our beards.
 
 #### **Flight Free UK:**
 
-So what are the advantages of travelling by bicycle?
+*So what are the advantages of travelling by bicycle?*
 
 #### **Jo:**
 
@@ -67,7 +67,7 @@ The more you travel in this way the more it feels weird to fly somewhere and be 
 
 #### **Flight Free UK:**
 
-One thing I like about bicycle travel is that it's fast enough to get somewhere but it’s slow enough to see everything. The physicality is included as well. 
+*One thing I like about bicycle travel is that it's fast enough to get somewhere but it’s slow enough to see everything. The physicality is included as well.* 
 
 #### **Jo:**
 
@@ -81,7 +81,7 @@ There's a great sense of accomplishment.
 
 #### Flight Free UK:
 
-So given that international travel is so tricky at the moment, could the bicycle be the way we access travel and adventure while more conventional types of travel are difficult? It’s in our nature to get out and explore. As we've said, it’s a very accessible form of transport – we saw it during the lockdown in March this year when everyone was getting out on their bikes. Now of course, Debs and Jo’s France tour led to them cycling all the way around the world. But it doesn't have to be long distance – one of the things Debs said during our chat was if you keep the mileage down you can keep the comfort high. You don't even have to camp – you can stay in hotels, do whatever makes you feel happy. There’s so much to explore here in the UK and you can really get to know places if you go there by bike.
+*So given that international travel is so tricky at the moment, could the bicycle be the way we access travel and adventure while more conventional types of travel are difficult? It’s in our nature to get out and explore. As we've said, it’s a very accessible form of transport – we saw it during the lockdown in March this year when everyone was getting out on their bikes. Now of course, Debs and Jo’s France tour led to them cycling all the way around the world. But it doesn't have to be long distance – one of the things Debs said during our chat was if you keep the mileage down you can keep the comfort high. You don't even have to camp – you can stay in hotels, do whatever makes you feel happy. There’s so much to explore here in the UK and you can really get to know places if you go there by bike.*
 
 #### **Debs:**
 
@@ -91,7 +91,7 @@ So given that international travel is so tricky at the moment, could the bicycle
 
 #### **Flight Free UK:**
 
-What is your essential piece of kit?
+*What is your essential piece of kit?*
 
 #### **Jo:**
 
@@ -105,7 +105,7 @@ We always take a real pillow. They’re pretty bulky but they don’t weigh much
 
 #### **Flight Free UK:**
 
-We often talk about how travel opens our eyes to new cultures and helps us understand each other, and is a really important part of our globalised society. But at Flight Free UK we question whether air travel gives us that? Are we really conscious travellers when we fly? Or are other modes of travel more effective in teaching us about the world? Do you think that riding a bicycle makes you a more conscious traveller?
+*We often talk about how travel opens our eyes to new cultures and helps us understand each other, and is a really important part of our globalised society. But at Flight Free UK we question whether air travel gives us that? Are we really conscious travellers when we fly? Or are other modes of travel more effective in teaching us about the world? Do you think that riding a bicycle makes you a more conscious traveller?*
 
 #### **Debs:**
 
@@ -127,7 +127,7 @@ It’s more realistic. If you want an authentic travel experience, it’s that a
 
 **Flight Free UK:** 
 
-So let's finish by talking about the climate. Now we’re at this point in our planet's history where emissions have to fall and fast. Do you think this is part of the answer? Reimagining travel and using flights very sparingly?
+*So let's finish by talking about the climate. Now we’re at this point in our planet's history where emissions have to fall and fast. Do you think this is part of the answer? Reimagining travel and using flights very sparingly?*
 
 #### **Debs:**
 
@@ -139,7 +139,7 @@ And it is hard. It takes people to reassess what a holiday is. For most people, 
 
 #### Flight Free UK:
 
-That’s a great sentiment to finish with, so thank you to Debs and Jo for joining us this month. You can follow their adventures at [@brakesandcakes](https://twitter.com/brakesandcakes?lang=en) on twitter. Thanks for listening and see you next month.
+*That’s a great sentiment to finish with, so thank you to Debs and Jo for joining us this month. You can follow their adventures at [@brakesandcakes](https://twitter.com/brakesandcakes?lang=en) on twitter. Thanks for listening and see you next month.*
 
 #### You can listen to this full podcast, and access the rest of the series, at our [podcast page.](https://flightfree.co.uk/podcast/)
 
