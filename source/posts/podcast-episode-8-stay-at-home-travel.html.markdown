@@ -11,7 +11,7 @@ read_time_minute: 8
 ---
 ## This podcast is episode 8 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![Helen Coffey and Steph Parker](/images/uploads/helensteph.jpg "Helen Coffey (left) and Steph Parker (right)")
+![Helen Coffey and Steph Parker are shown here both holding pieces of paper with Flight Free 2020 pledges on them, they are both smiling. ](/images/uploads/helensteph.jpg "Helen Coffey (left) and Steph Parker (right)")
 
 For this months’ podcast ([listen here](https://flightfreeuk.podbean.com/e/2020-series-episode-8-stay-at-home-travel/)), we’re speaking to Steph Parker and Helen Coffey. Steph runs the travel website [Big World Small Pockets](https://www.bigworldsmallpockets.com), and Helen is the [Deputy Travel Editor at the Independent](https://www.independent.co.uk/author/helen-coffey), so they both make a living from travel. They’ve signed up to Flight Free 2020, and we love having travel writers on our pledge, because if they can take a flight free year, anybody can.
 
