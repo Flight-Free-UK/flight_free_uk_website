@@ -33,7 +33,11 @@ So that’s an incredible adventure, obviously not now going ahead. So what abou
 
 ### *Helen:*
 
-*I pass the Serpentine twice a day, five days a week on the way to work. But I'd never really gone there. There's a man made lake and a small part that’s a bit like a lido, but this was the first time I'd swum in the lake proper. Maybe it's because we’ve been cooped up so long but it just felt really magical – cycling through London on a beautiful day, pushing off and swimming in this big space, and looking around and thinking, if this was happening in a different country, there’d be no question that I’d think it was a magnificent experience! It shouldn't make a difference that it's not somewhere far flung – it's just about changing your perspective.*
+*I pass the Serpentine twice a day, five days a week on the way to work. But I'd never really gone there. There's a man made lake and a small part that’s a bit like a lido, but this was the first time I'd swum in the lake proper.* 
+
+> "You need to learn to see the journey as part of the experience and the journey as part of the travel and it's not just a race to get to your destination."
+
+*Maybe it's because we’ve been cooped up so long but it just felt really magical – cycling through London on a beautiful day, pushing off and swimming in this big space, and looking around and thinking, if this was happening in a different country, there’d be no question that I’d think it was a magnificent experience! It shouldn't make a difference that it's not somewhere far flung – it's just about changing your perspective.*
 
 ### Flight Free UK:
 
@@ -52,6 +56,8 @@ So of course sometimes we do want to travel further afield and have those experi
 ### *Helen:*
 
 *There's so much beauty here and I feel like I haven't scratched the surface. I’m going to the Isles of Scilly and I’m so excited. I wouldn't be any more excited to be going abroad because it's a place I haven’t been with its own climate and its own traditions. It's not a matter of distance, it's more a matter of something you haven't experienced before.*
+
+> "There's so much beauty here in the UK, and I feel like I haven't scratched the surface."
 
 *Going to the Channel Islands to me feels so much like going properly on holiday. It’s got all these amazing beaches and cliffs to jump off, and swimming in the sea. Every time I've been there it gives me those vibes. One of my friends got married on Alderney and it was so magical floating in the sea. I didn’t feel like I was at home at all – there's nothing familiar about this.*
 
