@@ -35,7 +35,7 @@ So one of the big ones which I'm still hopefully doing in March next year is goi
 
 I pass the Serpentine twice a day, five days a week on the way to work. But I'd never really gone there. There's a man made lake and a small part that’s a bit like a lido, but this was the first time I'd swum in the lake proper. 
 
-> "You need to learn to see the journey as part of the experience and the journey as part of the travel and it's not just a race to get to your destination."
+> "You need to learn to see the journey as part of the experience and the travel - it's not just a race to get to your destination."
 
 Maybe it's because we’ve been cooped up so long but it just felt really magical – cycling through London on a beautiful day, pushing off and swimming in this big space, and looking around and thinking, if this was happening in a different country, there’d be no question that I’d think it was a magnificent experience! It shouldn't make a difference that it's not somewhere far flung – it's just about changing your perspective.
 
