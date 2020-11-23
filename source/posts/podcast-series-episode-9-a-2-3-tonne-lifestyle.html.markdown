@@ -77,7 +77,7 @@ If you eat meat your diet alone could use up your entire sustainable carbon budg
 
 *Food is a big one. If we cut out all animal products we can reduce global emissions by 28% and would free up 76% of the world’s land for less intensive forms of farming. It’s particularly about meat and dairy, so we should eat plant based, organically-grown vegetables, locally-grown and in season, and try to avoid waste.*
 
-> *"We should eat plant based, eat organic, locally-grown and in season, and avoid waste."*
+> "We should eat plant based, eat organic, locally-grown and in season, and avoid waste."
 
 #### Flight Free UK:
 
