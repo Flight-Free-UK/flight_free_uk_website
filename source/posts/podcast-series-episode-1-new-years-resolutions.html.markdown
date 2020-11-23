@@ -15,13 +15,13 @@ read_time_minute: 6
 
 ![Picture shows Maja holding a piece of paper with her Flight Free 2020 pledge on it. She is standing in front of some bare trees in the sun. She is smiling and wearing a coat and scarf. ](/images/uploads/maja-rosen.jpg "Maja with her Flight Free 2020 pledge")
 
-*Our [January episode](https://flightfree.co.uk/podcast/) is all about New Year’s Resolutions, so our conversation is with Maja Rosén, whose New Year's resolution two years ago inspired her to start the flight free campaign in Sweden, which asked 100,000 Swedes to take a year off flying, and led to the creation of flight free campaigns here in the UK and beyond. You can listen to the full interview on our [podcast](https://flightfree.co.uk/podcast/) page.*
+Our [January episode](https://flightfree.co.uk/podcast/) is all about New Year’s Resolutions, so our conversation is with Maja Rosén, whose New Year's resolution two years ago inspired her to start the flight free campaign in Sweden, which asked 100,000 Swedes to take a year off flying, and led to the creation of flight free campaigns here in the UK and beyond. You can listen to the full interview on our [podcast](https://flightfree.co.uk/podcast/) page.
 
-*Maja wrote a [blog](https://flightfree.co.uk/post/the-best-new-years-resolution-ever/) for us explaining how her New Year’s resolution to dare to be socially inconvenient and talk about flying and the climate crisis was the best resolution she ever made, and the only one she’s ever kept.* 
+Maja wrote a [blog](https://flightfree.co.uk/post/the-best-new-years-resolution-ever/) for us explaining how her New Year’s resolution to dare to be socially inconvenient and talk about flying and the climate crisis was the best resolution she ever made, and the only one she’s ever kept. 
 
 #### Flight Free UK:
 
-We’ve worked closely with Maja throughout the past year and we’re always so inspired to speak to her and hear how the whole thing started.
+*We’ve worked closely with Maja throughout the past year and we’re always so inspired to speak to her and hear how the whole thing started.*
 
 #### Maja:
 
@@ -35,7 +35,7 @@ Since then I haven’t talked about anything else! So many people have told me t
 
 #### Flight Free UK:
 
-What a great resolution, and what great results. But it takes a lots of bravery to do it. We’ve been campaigning on this issue for a year now, and we’ve found that it’s much easier to speak to people we don't know than it is to talk to our friends, especially our friends who fly a lot. We asked Maja if she'd had the same experience.
+*What a great resolution, and what great results. But it takes a lots of bravery to do it. We’ve been campaigning on this issue for a year now, and we’ve found that it’s much easier to speak to people we don't know than it is to talk to our friends, especially our friends who fly a lot. We asked Maja if she'd had the same experience.*
 
 #### Maja:
 
@@ -53,13 +53,13 @@ I spoke to a group of young students and asked them if they would consider flyin
 
 #### Flight Free UK:
 
-So, we can see that having these conversations is really important but it tends not to happen, probably because you don’t want to be ‘that person’ who just goes on about the climate crisis all the time.
+*So, we can see that having these conversations is really important but it tends not to happen, probably because you don’t want to be ‘that person’ who just goes on about the climate crisis all the time.*
 
-But \*not\* talking about it seems to be how we’ve got into this climate mess. If it's not on most people's radars, it’s certainly not going to be on the political radar, even though we’ve known about this for decades.
+*But \*not\* talking about it seems to be how we’ve got into this climate mess. If it's not on most people's radars, it’s certainly not going to be on the political radar, even though we’ve known about this for decades.*
 
-There's a blog about this on our website, called [We need to talk about the climate crisis](https://flightfree.co.uk/post/we-need-to-talk-about-the-climate-crisis/), written by one of our activists, Maria. 
+*There's a blog about this on our website, called [We need to talk about the climate crisis](https://flightfree.co.uk/post/we-need-to-talk-about-the-climate-crisis/), written by one of our activists, Maria.* 
 
-#### Maja: 
+#### Maja:
 
 I think that if we are to solve the climate crisis we need to become more aware of how serious the situation is. If you look at the people around you and they don’t seem concerned I think it's difficult to get just how urgent this is.
 
@@ -71,17 +71,17 @@ Many of the people active in our campaign had been frequent fliers until recentl
 
 #### Flight Free UK:
 
-Maja has written a guide to help others talk about this. It's called We Need to Talk About Aviation, and you can find it at [weneedtotalkaboutaviation.org](http://weneedtotalkaboutaviation.org)
+*Maja has written a guide to help others talk about this. It's called We Need to Talk About Aviation, and you can find it at [weneedtotalkaboutaviation.org](http://weneedtotalkaboutaviation.org)*
 
-#### Maja: 
+#### Maja:
 
 The best thing is when someone writes to me and says I’ve read your guide, which contains my best advice about talking to people, and also has responses to the most common counter-arguments. 
 
 #### Flight Free UK:
 
-Our campaign here in the UK is quite reliant on social media, which can be a really good way to spread the message. But there’s a risk that you get trapped in the social media bubble, where you end up only talking to people who already agree with you. Still, sharing the pledge on Facebook is good, because lots of your friends would see it, even those who might not be aware of the climate impact of flights. There’s loads of information on our [Facebook](https://facebook.com/flightfreeUK/) page, including testimonials from some of the people who've pledged.
+*Our campaign here in the UK is quite reliant on social media, which can be a really good way to spread the message. But there’s a risk that you get trapped in the social media bubble, where you end up only talking to people who already agree with you. Still, sharing the pledge on Facebook is good, because lots of your friends would see it, even those who might not be aware of the climate impact of flights. There’s loads of information on our [Facebook](https://facebook.com/flightfreeUK/) page, including testimonials from some of the people who've pledged.*
 
-#### Maja: 
+#### Maja:
 
 Through social media we try to encourage everyone to talk about this, because if we can encourage them to be brave, then I think this could spread quite quickly and change could happen fast.
 
@@ -89,11 +89,11 @@ We’re trying to encourage everyone to write a story about why they’ve pledge
 
 #### Flight Free UK:
 
-We've also found that the [testimonials](https://www.facebook.com/pg/flightfreeUK/photos/?tab=album&album_id=2186930268222474) are a great way to share the campaign. Our testimonials are photos of people with the pledge card, and a sentence or two about why they’ve signed. It makes it so much more personal and powerful when you can see the people who are taking part, because it's not just about numbers, it’s about people, and it shows why they care about this.
+*We've also found that the [testimonials](https://www.facebook.com/pg/flightfreeUK/photos/?tab=album&album_id=2186930268222474) are a great way to share the campaign. Our testimonials are photos of people with the pledge card, and a sentence or two about why they’ve signed. It makes it so much more personal and powerful when you can see the people who are taking part, because it's not just about numbers, it’s about people, and it shows why they care about this.*
 
-A large part of the campaign is to create a social shift, a mindset shift. So asking people to give up something for a year is a good way to inspire them to try something, without saying, you can never fly again. But Maja has found the impact has gone beyond just that year.
+*A large part of the campaign is to create a social shift, a mindset shift. So asking people to give up something for a year is a good way to inspire them to try something, without saying, you can never fly again. But Maja has found the impact has gone beyond just that year.*
 
-#### Maja: 
+#### Maja:
 
 Many people think of giving up flying as a huge sacrifice before they make the decision. But once the decision is made it's like they change their perspective straight away. Instead of focussing on what they can no longer do, they focus on how good it is for the climate, and on everything they still can do. Everyone I know is so happy about making the pledge to stop flying and think it’s the best decision they’ve ever made.
 
@@ -103,15 +103,15 @@ The Flight Free 2020 campaign is a good way to encourage people to try it for on
 
 #### Flight Free UK:
 
-For many people, 2019 was the year we woke up to the climate crisis. So we asked Maja if she thought there was a difference between people's reactions this year and when she started the campaign.
+*For many people, 2019 was the year we woke up to the climate crisis. So we asked Maja if she thought there was a difference between people's reactions this year and when she started the campaign.*
 
-#### Maja: 
+#### Maja:
 
 Comparing this year to last year, there's a huge difference. Before, the focus was on political solutions. But there's been a huge change. Now, people are much more willing to make personal changes because they are aware of the climate impact of flying and they have been considering flying less.
 
 #### Flight Free UK:
 
-We asked Maja about whether she sees the campaign as a success.
+*We asked Maja about whether she sees the campaign as a success.*
 
 #### Maja:
 
@@ -119,9 +119,9 @@ We asked Maja about whether she sees the campaign as a success.
 
 #### Flight Free UK:
 
-We totally agree, and it goes back to that great resolution. Just one person taking action can make so much difference. It’s very easy to feel that you as an individual can’t do anything, and to not try. But Maja has shown that what seemed like a tiny decision simply to start talking about this has turned into a global campaign.
+*We totally agree, and it goes back to that great resolution. Just one person taking action can make so much difference. It’s very easy to feel that you as an individual can’t do anything, and to not try. But Maja has shown that what seemed like a tiny decision simply to start talking about this has turned into a global campaign.*
 
-Now, we’re often asked why flying is even that much of a big deal? So we asked Maja: why are we specifically talking about flights?
+*Now, we’re often asked why flying is even that much of a big deal? So we asked Maja: why are we specifically talking about flights?*
 
 #### Maja:
 
@@ -131,7 +131,7 @@ It gets more people understanding that it really is a climate crisis and we can'
 
 #### Flight Free UK:
 
-And that’s the thing – there are many things we can do to reduce our emissions, but flying is the big one, and if we accept that, everything else follows more easily. But behaviour change campaigning is really hard, because we can feel totally overwhelmed with the scale of the task, and when we feel like we’re the only ones who care it’s easy to give up. But for Maja the opposite has been true – the campaign has given her a sense of purpose and has shown her that she’s not alone.
+*And that’s the thing – there are many things we can do to reduce our emissions, but flying is the big one, and if we accept that, everything else follows more easily. But behaviour change campaigning is really hard, because we can feel totally overwhelmed with the scale of the task, and when we feel like we’re the only ones who care it’s easy to give up. But for Maja the opposite has been true – the campaign has given her a sense of purpose and has shown her that she’s not alone.*
 
 #### Maja:
 
@@ -139,11 +139,11 @@ And that’s the thing – there are many things we can do to reduce our emissio
 
 #### Flight Free UK:
 
-Well we’ve found Maja to be one of those inspiring people and we’re grateful to her for being brave and getting this issue out there.
+*Well we’ve found Maja to be one of those inspiring people and we’re grateful to her for being brave and getting this issue out there.*
 
-Our final question to Maja was what were her top tips for talking to people about the climate crisis?
+*Our final question to Maja was what were her top tips for talking to people about the climate crisis?*
 
-#### Maja: 
+#### Maja:
 
 This should be obvious but it's also the part people struggle with, and it is just to be nice. Most people say, I can't talk about the climate crisis because I get so frustrated and angry. That's the worst thing you can do because people shut off and you won’t be able to reach them with your message.
 
@@ -157,9 +157,9 @@ Of course, we want political solutions but if we are to solve the climate crisis
 
 #### Flight Free UK:
 
-So, the message is, get out there and talk to people, and try and have those climate conversations. You might be surprised at the responses you receive. Thanks to Maja for speaking to us. We hope you enjoyed hearing what she had to say and are inspired to make a New Year’s resolution. 
+*So, the message is, get out there and talk to people, and try and have those climate conversations. You might be surprised at the responses you receive. Thanks to Maja for speaking to us. We hope you enjoyed hearing what she had to say and are inspired to make a New Year’s resolution.* 
 
-#### Could you dare to be socially inconvenient and start having climate conversations? Could your resolution be to take the flight free 2020 pledge? 
+#### Could you dare to be socially inconvenient and start having climate conversations? Could your resolution be to take the flight free 2020 pledge?
 
 *Listen to the full interview on our [podcast](https://flightfree.co.uk/podcast/) page.*
 
