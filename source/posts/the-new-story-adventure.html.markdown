@@ -19,9 +19,7 @@ Rosie has been on the road since August 2019, Mike since November 2019. We caugh
 
 ![Picture shows Rosie jumping energetically over craggy and mossy grey rocks. The view behind her is completely obscured by a wall of fog and nothing else is visible. She's wearing sporty clothes and carrying  large rucksack. ](/images/uploads/newstory-rosie1.jpg "Rosie on the Via Adriatica trail in Croatia, January 2020")
 
-#### Flight Free:
-
-#### Why have you decided to run/bike across the continent? What is it about running/biking that you love so much?
+#### Flight Free UK: Why have you decided to run/bike across the continent? What is it about running/biking that you love so much?
 
 #### **Rosie:** 
 
@@ -33,9 +31,7 @@ By travelling slowly you encounter a country or continent authentically. I like 
 
 ![Picture shows a bicycle leaning on its stand packed with camping equipment. Behind it is a grassy and gravelly landscape with rolling hills in the background. ](/images/uploads/newstory-bike.jpg "Mike's bicycle at Lake Mladost in North Macedonia, August 2020")
 
-#### Flight Free:
-
-#### You’re undertaking what you call the New Story Ride/New Story Run. What do you mean by ‘New Story’?
+#### Flight Free UK: You’re undertaking what you call the New Story Ride/New Story Run. What do you mean by ‘New Story’?
 
 #### **Rosie:** 
 
@@ -49,9 +45,7 @@ As the ride has gone on I've become more and more clear on the New Story being a
 
 ![Picture shows Rosie hiking through tall grass on a sunny hillside. She is wearing activewear and carrying a large rucksack. There are tall hills in the background and the sky is bright blue. ](/images/uploads/newstory-rosie2.jpg "Rosie in Austria, end of 2019")
 
-#### Flight Free:
-
-#### Which countries have you been through?
+#### Flight Free UK: Which countries have you been through?
 
 #### **Rosie:** 
 
@@ -61,9 +55,7 @@ The Netherlands, Germany, Switzerland, Austria, Slovenia, Croatia, Montenegro, A
 
 So far I've ridden through Austria, touched into Slovakia and Hungary, then Italy, Slovenia, Croatia, Bosnia and Herzegovina, Serbia, Kosovo, Albania and Macedonia.
 
-#### Flight Free:
-
-#### What have been your most memorable encounters?
+#### Flight Free UK: What have been your most memorable encounters?
 
 #### **Rosie:** 
 
@@ -79,9 +71,7 @@ The 3rd of January, Rosie and I spent a whole day at an incredible completely of
 
 ![Picture shows Mike sat down on the ground in front of some shrubs. It appeard to be dusk and his bike is laying down in front of him. He's smiling. ](/images/uploads/newstory-mike.jpg "Mike near Komani Lake in Albania, July 2020")
 
-#### Flight Free:
-
-#### Why is it important to talk to people about climate change?
+#### Flight Free UK: Why is it important to talk to people about climate change?
 
 #### **Rosie:** 
 
@@ -91,9 +81,7 @@ I would say this adventure is more about listening and telling other people's st
 
 The climate crisis is a focus of this journey because it is the most pressing challenge of our time. Showing that there are people in all sorts of places working in their own ways to tackle parts of the climate crisis will encourage those watching the journey to act how they can, I hope.
 
-#### Flight Free UK:
-
-#### Have you always been aware of climate issues?
+#### Flight Free UK: Have you always been aware of climate issues?
 
 #### **Rosie:** 
 
@@ -105,9 +93,7 @@ I feel like I've always been roughly aware of climate issues – my parents are 
 
 ![Picture shows Rosie and Mike with their arms around each other, smiling. They are in a city centre and mike is holding his bike.](/images/uploads/newstory-rosieandmike.jpg "Rosie and Mike in Villach, Austria after meeting up for the first time in 4 months")
 
-#### Flight Free UK:
-
-#### What do you hope to achieve from your journeys?
+#### Flight Free UK: What do you hope to achieve from your journeys?
 
 #### **Rosie:** 
 
@@ -119,9 +105,7 @@ The story that has led us to where we are now is just that, a story. Time and ti
 
 ![Picture shows Rosie running down a hillside near a chairlift. There are many shrubs around and the sun is shining. ](/images/uploads/newstory-rosie3.jpg "Rosie on the Rheinburgenweg in Germany, September 2019")
 
-#### Flight Free UK:
-
-#### There are some adventurers who are trying to raise awareness of the carbon footprint of adventuring, but many people just don’t want to hear it. What do you think is our role as adventurers? Sustainable is such a buzz word, but does it really mean much in reality?
+#### Flight Free UK: There are some adventurers who are trying to raise awareness of the carbon footprint of adventuring, but many people just don’t want to hear it. What do you think is our role as adventurers? Sustainable is such a buzz word, but does it really mean much in reality?
 
 #### **Rosie:** 
 
@@ -129,13 +113,13 @@ I think there's actually a lot of collective denial in the outdoor community as 
 
 Re the word 'sustainability'... Yep, I think it's potentially a bit outdated now. I use the term 'tackling the climate crisis' a lot as it emphasises that action needed, as well as the fact that it's a crisis (as opposed to climate change, which sounds like it could be natural).
 
-#### Flight Free UK:
-
-#### And... when you reach Mongolia, how will you be getting back?
+#### Flight Free UK: And... when you reach Mongolia, how will you be getting back?
 
 #### **Mike:** 
 
 By train of course :)
+
+
 
 ### Thanks Rosie and Mike for talking to us – good luck with the rest of your travels!
 
