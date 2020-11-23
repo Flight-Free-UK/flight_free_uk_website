@@ -12,7 +12,9 @@ read_time_minute: 4
 ---
 ![Josh stands with his back to the camera, wearing a bright red backpack. He is surrounded by trees and pale green light shines through the leaves.](/images/uploads/thumbnail_josh_yorkshire-dales.jpg "Josh exploring the Yorkshire Dales ")
 
-It’s easy to overlook a situation when you haven’t experienced it first hand. For us living in the UK, we’re pretty sheltered from what is going on around the world, particularly when the environment is concerned. Climate change can easily feel like only warmer summers and the, ‘Oh, it doesn’t snow like it used to,’ conversations. It definitely did for me.
+### It’s easy to overlook a situation when you haven’t experienced it first hand. 
+
+For us living in the UK, we’re pretty sheltered from what is going on around the world, particularly when the environment is concerned. Climate change can easily feel like only warmer summers and the, ‘Oh, it doesn’t snow like it used to,’ conversations. It definitely did for me.
 
 Throughout my teens, I was fairly passive with my environmentalism. Despite being made aware of pressing issues by my family, things like global warming felt a million miles away, the stuff of documentaries and articles, not an imminent threat that required drastic action.
 
@@ -66,6 +68,6 @@ My personal experience has taught me that we really don’t need to fly so much.
 
 > "My personal experience has taught me that we really don’t need to fly so much."
 
-Whether it’s Vietnamese lakes, Indonesian corals or UK greenbelts, we’re damned lucky to have our natural world. It’s something which absolutely needs fighting to preserve, and I for one will be driving all my energy into doing exactly that.
+#### Whether it’s Vietnamese lakes, Indonesian corals or UK greenbelts, we’re damned lucky to have our natural world. It’s something which absolutely needs fighting to preserve, and I for one will be driving all my energy into doing exactly that.
 
 *Read more from Josh and Sarah at their website, [Veggie Vagabonds](https://veggievagabonds.com/).*
