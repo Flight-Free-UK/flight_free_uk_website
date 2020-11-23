@@ -77,57 +77,67 @@ The very first day of arriving off the train in Vienna before I'd ridden an inch
 
 The 3rd of January, Rosie and I spent a whole day at an incredible completely off-grid solar powered mountain hut in Croatia above 1000m. It was a really special place of peace. The first night that a complete stranger invited me in to their house after I asked if I might camp in their garden. That was incredibly humbling and has been almost the rule along the way where I've experienced so much generosity.
 
-![](/images/uploads/newstory-mike.jpg "Mike near Komani Lake in Albania, July 2020")
+![Picture shows Mike sat down on the ground in front of some shrubs. It appeard to be dusk and his bike is laying down in front of him. He's smiling. ](/images/uploads/newstory-mike.jpg "Mike near Komani Lake in Albania, July 2020")
 
-### *Why is it important to talk to people about climate change?*
+#### Flight Free:
 
-**Rosie:** 
+#### Why is it important to talk to people about climate change?
+
+#### **Rosie:** 
 
 I would say this adventure is more about listening and telling other people's stories. But the more we all talk about the issues, *and* listen to each other, embracing ideas, disagreements, working stuff out, the quicker change will happen.
 
-**Mike:** 
+#### **Mike:** 
 
 The climate crisis is a focus of this journey because it is the most pressing challenge of our time. Showing that there are people in all sorts of places working in their own ways to tackle parts of the climate crisis will encourage those watching the journey to act how they can, I hope.
 
-### *Have you always been aware of climate issues?*
+#### Flight Free UK:
 
-**Rosie:** 
+#### Have you always been aware of climate issues?
+
+#### **Rosie:** 
 
 I became interested in it just in time to apply for my degree, which was in Environment and Business. There was no 'big moment of realisation', just that I wanted to do something with my life that had a positive impact – then I realised that the climate crisis was a main issue we were facing. I believe that one of the main purposes in life is to leave the world a better place than what you were born into! I also had a very outdoorsy upbringing so that probably had an impact (although at one point I wanted to be a fashion designer).
 
-**Mike:** 
+#### **Mike:** 
 
 I feel like I've always been roughly aware of climate issues – my parents are both hippies and the issues of the world were always topics of conversation. I studied Geography and International Relations with the aim of working to end human suffering with a particular interest in peace studies. It wasn't until later that getting my first job I had the realisation that none of that work would mean shit without a stable environment.
 
-![](/images/uploads/newstory-rosieandmike.jpg "Rosie and Mike in Villach, Austria after meeting up for the first time in 4 months")
+![Picture shows Rosie and Mike with their arms around each other, smiling. They are in a city centre and mike is holding his bike.](/images/uploads/newstory-rosieandmike.jpg "Rosie and Mike in Villach, Austria after meeting up for the first time in 4 months")
 
-### *What do you hope to achieve from your journeys?*
+#### Flight Free UK:
 
-**Rosie:** 
+#### What do you hope to achieve from your journeys?
+
+#### **Rosie:** 
 
 From the run I want to be able to show a big diversity of versions of the 'new story', in a way that people connect to emotionally and personally, and sparks their imaginations (and action!) for how they can bring about a better world in their own context. I want to show that that world will be more positive and fun, not one of gloom and restriction. I want to explain big, complex issues in a way that the average person can understand and enjoy reading about. I want to show the universal nature of needing and creating a new story, not just focused on 'developed' countries. And after the run, hopefully link these all up into talks, maybe a book, maybe a film!
 
-**Mike:** 
+#### **Mike:** 
 
 The story that has led us to where we are now is just that, a story. Time and time again we see how stories are what drive both good and bad outcomes. My aim is that the ride helps bring to life the new and better story that is happening. Not to create a How-to guide, but a Why-to guide. Whether that remains just on the New Story Ride website or becomes something more polished is going to depend on tapping into the skills and interests of others.
 
 ![](/images/uploads/newstory-rosie3.jpg "Rosie on the Rheinburgenweg in Germany, September 2019")
 
-### *There are some adventurers who are trying to raise awareness of the carbon footprint of adventuring, but many people just don’t want to hear it. What do you think is our role as adventurers? Sustainable is such a buzz word, but does it really mean much in reality?*
+#### Flight Free UK:
 
-**Rosie:** 
+#### There are some adventurers who are trying to raise awareness of the carbon footprint of adventuring, but many people just don’t want to hear it. What do you think is our role as adventurers? Sustainable is such a buzz word, but does it really mean much in reality?
+
+#### **Rosie:** 
 
 I think there's actually a lot of collective denial in the outdoor community as a whole right now, that's really holding change back. Which is a shame, as I think it could be a massive force for good on a much wider scale, if people faced the facts and applied some creativity to the issues. [An article I wrote recently](https://adventureuncovered.com/stories/building-a-sustainable-outdoor-community-after-covid-19/) covers most of this. 
 
 Re the word 'sustainability'... Yep, I think it's potentially a bit outdated now. I use the term 'tackling the climate crisis' a lot as it emphasises that action needed, as well as the fact that it's a crisis (as opposed to climate change, which sounds like it could be natural).
 
-### *And... when you reach Mongolia, how will you be getting back?*
+#### Flight Free UK:
 
-**Mike:** 
+#### And... when you reach Mongolia, how will you be getting back?
+
+#### **Mike:** 
 
 By train of course :)
 
-### *Thanks Rosie and Mike for talking to us – good luck with the rest of your travels!*
+### Thanks Rosie and Mike for talking to us – good luck with the rest of your travels!
 
 *You can follow Rosie's journey [here](https://newstoryrun.wordpress.com/) and Mike's [here](https://newstoryride.wordpress.com/).*
 
