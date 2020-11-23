@@ -6,7 +6,7 @@ date: 2020-07-07T15:28:04.939Z
 cover_image: /images/uploads/flight-radar.jpg
 summary: "Tom Smallwood asks if the French bailout condition of Air France-KLM
   could be viable in the UK: that the airline does not compete with rail on
-  journeys achievable in 2.5 hours by train"
+  journeys achievable in 2.5 hours by train."
 author: FlightFree UK
 read_time_minute: 5
 ---
