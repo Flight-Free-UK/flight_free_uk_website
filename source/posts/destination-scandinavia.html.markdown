@@ -10,7 +10,9 @@ summary: How can we experience the magic of Scandinavia without damaging its
 author: FlightFree UK
 read_time_minute: 10
 ---
-The beauty of Scandinavia attracts wilderness enthusiasts and urban dwellers alike. With snow-scapes, fjords, vibrant cities, cycle-friendly culture, welcoming locals and of course the breathtaking Northern Lights, Scandinavia has huge variety, and it’s accessible overland from the UK in little more than a day. Here are four accounts of getting to Sweden, Norway, Finland and Denmark flight free.
+### The beauty of Scandinavia attracts wilderness enthusiasts and urban dwellers alike. 
+
+With snow-scapes, fjords, vibrant cities, cycle-friendly culture, welcoming locals and of course the breathtaking Northern Lights, Scandinavia has huge variety, and it’s accessible overland from the UK in little more than a day. Here are four accounts of getting to Sweden, Norway, Finland and Denmark flight free.
 
 ## 🇸🇪 Sweden by train
 
@@ -108,4 +110,6 @@ Sitting still for a day and a half on the return journey was not quite what my l
 
 This part was definitely a highlight – the boarding of the train onto a ferry, something that used to be quite common in the days before the Channel Tunnel and cheap air travel. I would have been one of the last passengers on this unique travel experience: the train now takes the longer but more efficient route overland via Flensburg on the German/Danish border.
 
-I haven’t flown for more than a decade so when deciding how to travel to Copenhagen, taking a plane wasn’t ever an option. I find that helps – I have no idea of the cost comparison, or the time comparison, because it makes no odds – I don’t fly, and that’s that. The outcome is low-carbon, guilt-free travel, which is not only good for the environment, but enriches my experience as a traveller – and that’s something you can’t put a price on.
+I haven’t flown for more than a decade so when deciding how to travel to Copenhagen, taking a plane wasn’t ever an option. I find that helps – I have no idea of the cost comparison, or the time comparison, because it makes no odds – I don’t fly, and that’s that. 
+
+#### The outcome is low-carbon, guilt-free travel, which is not only good for the environment, but enriches my experience as a traveller – and that’s something you can’t put a price on.
