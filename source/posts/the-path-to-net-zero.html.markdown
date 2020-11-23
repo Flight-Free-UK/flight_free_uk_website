@@ -10,7 +10,7 @@ summary: The citizens speak! The Climate Assembly UK has published its report,
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/climateassemblyuk.png)
+![Picture shows three people on a panel with an audience watching. Behind them is a background saying "Climate Assembly UK: The Path to Net Zero". ](/images/uploads/climateassemblyuk.png)
 
 ## What’s a Climate Assembly? Is that like a citizens’ jury?
 
