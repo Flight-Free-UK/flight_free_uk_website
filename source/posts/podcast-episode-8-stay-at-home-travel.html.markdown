@@ -75,7 +75,11 @@ Now let’s bring in Steph, who actually grew up in the Channel Islands, so for 
 
 This is turning into a bit of an advert for Jersey! – it's a great flight free destination for anyone wanting a bit of a foreign feel to their holiday, but without needing a passport. Ferries go from Poole or Portsmouth and there are high speed options as well as slower ones – just remember to take some Kwells because the Channel can be quite rough.
 
-Travelling locally is going to be really key in addressing the climate crisis, because there just isn’t room for taking lots of flights in a low-carbon future. We've already seen we can have those authentic, exciting travel experiences without going very far. And as lockdown has forced us to stay still and appreciate what’s on our doorstep, maybe this is the mindset we need to take forwards, in order to still have those experiences, without it costing the earth.
+Travelling locally is going to be really key in addressing the climate crisis, because there just isn’t room for taking lots of flights in a low-carbon future. 
+
+> "Travelling locally is really key in addressing the climate crisis - there just isn’t room for taking lots of flights in a low-carbon future."
+
+We've already seen we can have those authentic, exciting travel experiences without going very far. And as lockdown has forced us to stay still and appreciate what’s on our doorstep, maybe this is the mindset we need to take forwards, in order to still have those experiences, without it costing the earth.
 
 ### *Steph:*
 
@@ -103,6 +107,6 @@ So will our intrepid travellers keep up the flight free challenge, even though t
 
 And that’s a really nice place to leave it. It’s been great to speak to two people who are so passionate about travel, and who have fully embraced the flight free challenge. Do find out more about them both online: Helen writes brilliantly [for the Independent](https://www.independent.co.uk/author/helen-coffey), and Steph’s website [Big World Small Pockets](https://www.bigworldsmallpockets.com) has some excellent content about travelling on a budget. Thank you Steph, and thanks Helen, for speaking to us, and thanks for listening.
 
-**You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).**
+#### **You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).**
 
 *Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
