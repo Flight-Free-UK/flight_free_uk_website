@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "#FlightFree2020 podcast episode 10: cycle touring"
 category: opinion
 date: 2020-11-03T16:01:06.361Z
@@ -12,20 +12,17 @@ read_time_minute: 6
 ---
 ## This podcast is episode 10 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![A bicycle is leaned against a white brick wall. The frame of the bike is blue, but the wheels are bright orange. ](/images/uploads/bicycle-against-wall-.jpg)
+![A bicycle is leaned against a white brick wall. The frame of the bike is blue, but the wheels are bright orange. ](/images/uploads/bicycle-against-wall-.jpg "Photo credit: Tiffany Nutt (Source: Unsplash)")
 
 #### In our flight free 2020 podcast series we've talked a lot about travel. We’ve told you how to get to the Alps and various other European destinations by train, we've looked at the home grown tourism here in the British Isles – we’ve even explored how to cross an ocean without flying. But how about taking it back to basics with the humble bicycle?
 
 As a mode of transport you can’t get much lower carbon, and it’s a fantastic leveller – it’s used by all sorts of people across the globe and it doesn’t require a huge budget to be able to go exploring by bike. We’ve lined up two passionate cycle tourers, Jo and Debs, to talk to us about travelling by bicycle.
 
-
-
-####  Jo: 
+#### Jo:
 
 We started travelling by bike about 8 years ago – we thought it would be really cool to ride our bikes to France and ride around France for ten days. 
 
-
-#### **Debs:** 
+#### **Debs:**
 
 Jo thought it would be a good trip. I didn’t like cycling very much! I tried to ride my bike to school but I was a rubbish cyclist. So Jo was very excited about this trip cheese/wine/cycling holiday in France. A few months before I got a road bike which changed everything – it became less about my leg strength and more about my cardio-vascular fitness so it was an enjoyable holiday despite my serious misgivings in advance.
 
@@ -35,11 +32,11 @@ Jo thought it would be a good trip. I didn’t like cycling very much! I tried t
 
 > "We’d always driven places before and the bike opened up a new kind of holiday and it went from there."
 
-#### **Debs:** 
+#### **Debs:**
 
 The cheese/wine/France tour was a gateway drug. For us it led to cycling around New Zealand and then, when we were working in Canada later that year and cycled from Toronto to Vancouver. Once we’d done that, the whole idea of setting off and cycling around the world becomes much more of a reality and not just something that you read in books. 
 
-#### **Jo:** 
+#### **Jo:**
 
 We thought, we could have a bash at that. So we put some panniers on our bikes, quit our jobs and set off and see how far we get. If we’d just got three months down the road and decided we were fed up we would just go home but we had a really great time and just kept on going. If you ride 50 miles and 50 miles the next day before you know it you're quite a long way from home. Before we knew it we were on the other side of the world and it had only taken about a year…
 
@@ -47,12 +44,11 @@ We thought, we could have a bash at that. So we put some panniers on our bikes, 
 
  So that meant you were catapulted into the category of crazy people!
 
-#### **Jo:** 
+#### **Jo:**
 
 Yeah, we never thought of ourselves as those kind of crazy people you read about
 
-
-#### **Debs:** 
+#### **Debs:**
 
 And we've never had frost in our beards. 
 
@@ -64,12 +60,12 @@ So what are the advantages of travelling by bicycle?
 
  Eating lots of cake! That's number one for me. Not worrying about going to three bakeries a day and having all kinds of different treats. It’s essential in terms of calories and energy. That’s one of the biggest draws! Now if we ever drive anywhere I feel like we haven’t earned our treat. 
 
-#### **Debs:** 
+#### **Debs:**
 
 You see everything at a good pace – nothing ever goes past too quickly. You see landscapes change, people change, culture change, food change etc. 
 The more you travel in this way the more it feels weird to fly somewhere and be dumped there and not see these changes happen.
 
-#### **Flight Free UK:** 
+#### **Flight Free UK:**
 
 One thing I like about bicycle travel is that it's fast enough to get somewhere but it’s slow enough to see everything. The physicality is included as well. 
 
@@ -77,8 +73,7 @@ One thing I like about bicycle travel is that it's fast enough to get somewhere 
 
  Cycling is the perfect pace. We like walking but it takes a long time to get anywhere. By bicycle, distances are achievable. 
 
-
-#### **Debs:** 
+#### **Debs:**
 
 There's a great sense of accomplishment.
 
@@ -94,14 +89,13 @@ So given that international travel is so tricky at the moment, could the bicycle
 
 ![Jo and Debs are sitting side-by-side holding a piece of paper with the Flight Free 2020 pledge on it. They are both smiling and there is a grassy park in the background. ](/images/uploads/debsjo.jpg "Jo and Debs with their Flight Free 2020 pledge ")
 
-#### **Flight Free UK:** 
+#### **Flight Free UK:**
 
 What is your essential piece of kit?
 
-#### **Jo:** 
+#### **Jo:**
 
 We always take a real pillow. They’re pretty bulky but they don’t weigh much. Life’s so much better when you’ve had a decent night’s sleep.
-
 
 #### **Debs:**
 
@@ -109,26 +103,25 @@ We always take a real pillow. They’re pretty bulky but they don’t weigh much
 
 > "Whatever you’re interested in you can find those things and join them up by bicycle."
 
-#### **Flight Free UK:** 
+#### **Flight Free UK:**
 
 We often talk about how travel opens our eyes to new cultures and helps us understand each other, and is a really important part of our globalised society. But at Flight Free UK we question whether air travel gives us that? Are we really conscious travellers when we fly? Or are other modes of travel more effective in teaching us about the world? Do you think that riding a bicycle makes you a more conscious traveller?
 
-#### **Debs:** 
+#### **Debs:**
 
 Yes
 
-
-#### **Jo:** 
+#### **Jo:**
 
 One thing that you can’t grasp when you travel by plane is distance. You get on a plane and a set amount of hours later you’re deposited in a new place. To appreciate how different it is and how far away from home it is, to be transported there in a box takes that away completely. The other thing about travelling by bike is that you have to be aware of the places that you travel through. You need to get supplies, you need to stop for a break. We’ve met people in Asia who've been flying from site to tourist site to tourist site and you miss out all the rest of the country – you don’t appreciate what else there is and what a country is really like. Although you only ever get a glimpse of what a country is like, even by bike, you can’t see it all, but what you do see is a really good cross section because you have to travel through places where people live rather than just places where people visit as a tourist. You feel connected because your wheels are on the ground for a start but also people come and talk to you, interact, rather than just zooming over or through. 
 
 > "You feel connected because people come and talk to you, interact, rather than just zooming over or through."
 
-#### **Debs:** 
+#### **Debs:**
 
 Everyone wants to talk to you when you ride a bike. It’s also a great way to feel your surroundings, e.g. your wheels on the ground but also the weather, the temperature, encounters with wildlife, or with traffic etc.
 
-#### **Jo:** 
+#### **Jo:**
 
 It’s more realistic. If you want an authentic travel experience, it’s that and more because you get the bad stuff as well as the good stuff. If you fly over stuff you miss all the stuff in between.
 
@@ -136,12 +129,11 @@ It’s more realistic. If you want an authentic travel experience, it’s that a
 
 So let's finish by talking about the climate. Now we’re at this point in our planet's history where emissions have to fall and fast. Do you think this is part of the answer? Reimagining travel and using flights very sparingly?
 
-#### **Debs:** 
+#### **Debs:**
 
 Anything that reduces the reliance on other transport for journeys is super important. Not using your car for a two mile journey is just as important as not taking an unnecessary flight. I find it strange that people don't seem to associate their own trips with the carbon problem. 
 
-
-#### Jo: 
+#### Jo:
 
 And it is hard. It takes people to reassess what a holiday is. For most people, you don’t get much annual leave, you want to feel like you’re getting a suntan, and the way to do that is to get on a plane and go somewhere sunny for a week, and for so many people that is what a holiday is, and that’s what I used to do when I was younger. But this way, your holiday starts when you leave, rather than the holiday starting when you get off the plane. 
 
@@ -149,9 +141,6 @@ And it is hard. It takes people to reassess what a holiday is. For most people, 
 
 That’s a great sentiment to finish with, so thank you to Debs and Jo for joining us this month. You can follow their adventures at [@brakesandcakes](https://twitter.com/brakesandcakes?lang=en) on twitter. Thanks for listening and see you next month.
 
-
-
 #### You can listen to this full podcast, and access the rest of the series, at our [podcast page.](https://flightfree.co.uk/podcast/)
-
 
 *Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: L. Sophie Helbig. Sound effects: Josh Hill.*
