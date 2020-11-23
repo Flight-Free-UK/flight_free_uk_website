@@ -11,7 +11,7 @@ read_time_minute: 4
 ---
 ![Picture shows a women wearing a purple jumper and a purple scarf. She is on the beach looking out to the sea and she has her back to the camera. ](/images/uploads/linda-thomas.jpg)
 
-## It’s been a journey. 
+## It’s been a journey.
 
 When we fell in love, we both worked hard in ‘caring’ professions, and going on adventures to the other side of the world was one of our treats. We thought we’d earned it. We felt like responsible tourists, keen to explore local cultures and wildlife. Happy to tip local guides and to buy hand crafted items direct from local artisans without unscrupulous bargaining. 
 
@@ -35,9 +35,9 @@ We have also given up work flying too. This was not such a big deal for us compa
 
 #### There are three important questions to ask yourself:
 
-1. **Do I believe climate change is real?**
-2. **Do I want to respond to it?**
-3. **Am I prepared to stop flying?**
+1. Do I believe climate change is real?
+2. Do I want to respond to it?
+3. Am I prepared to stop flying?
 
 If the answer is yes, then educate yourself so that you really know why you are making this change, it will really help. Then look at what you’re going to add in and not just what you’re going to take away. Have you always wanted to walk around the Cornish coast path, or immerse yourself in the Welsh mountains or escape to a Scottish loch? Explore new ways to travel. I thoroughly recommend [www.seat61.org](https://www.seat61.com/) for train travel as he gives every route option imaginable as well as easy links for buying tickets.
 
