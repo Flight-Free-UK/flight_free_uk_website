@@ -28,7 +28,7 @@ My family and friends say that I've become an environmental activist but I don't
 
 To be completely honest, I don't like flying and had stopped in 2015 for this reason. However, when I found out about the environmental impact earlier this year, I decided not to do it again.
 
-> "I found out about the environmental impact of flying earlier this year, I decided not to do it again."
+> "When I found out about the environmental impact of flying, I decided not to do it again."
 
  Before 2015, despite feeling nervous about flying, I'd done it on quite a regular basis, flying to other countries in Europe and further afield, to Mexico and Cuba, Japan and South Korea. My husband and I flew to Morocco on our honeymoon. 
 
