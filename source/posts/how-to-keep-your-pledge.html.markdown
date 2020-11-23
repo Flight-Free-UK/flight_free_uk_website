@@ -22,7 +22,7 @@ Remember the old adage, “If you want to go fast go alone but if you want to go
 
 Don't take your local area for granted – exchange what we might think of as “new” experiences elsewhere for “deeper” ones close to home.  During lockdown we were forced to hone down our worlds, and new travel experiences were replaced with repeat walks in familiar green spaces. We can still learn a lot from having a more thorough knowledge of our local wood or National Park.
 
-![Image shows a wide view of the Lake District mountains](/images/uploads/credit-jayme-elkins-with-many-roots-sophia-lake-disctrict.jpg "Sophia in the Lake District. Image credit: Jayme Elkins-With Many Roots")
+![Image shows a wide view of the Lake District mountains. The grass is green with purple and red shrubs. Deep valleys are visible and the sun is shining in spots around the hills. You can see Sophia sitting on a rock. ](/images/uploads/credit-jayme-elkins-with-many-roots-sophia-lake-disctrict.jpg "Sophia in the Lake District. Image credit: Jayme Elkins-With Many Roots")
 
 #### 3. Go under your own steam
 
@@ -44,7 +44,7 @@ After tracking how much carbon you've saved, consider making a donation to an or
 
 Tackle your flight FOMO head on by following slow-travellers on your instagram feed, or #vanlife on Facebook. Join the subculture of people keeping their feet on the ground.
 
-![A tiny stone statue in an autumn park is covered in moss](/images/uploads/credit-sophia-cheng-photo-walk-local-area.jpeg "Can you get much more local? A discovery on a local walk. Image credit: Sophia Cheng")
+![A tiny stone statue of buddha in an autumn park is covered in moss. ](/images/uploads/credit-sophia-cheng-photo-walk-local-area.jpeg "Can you get much more local? A discovery on a local walk. Image credit: Sophia Cheng")
 
 ## Now that we've launched our pledge for 2021, here are our tips for starting out as you mean to go on:
 
