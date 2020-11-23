@@ -9,7 +9,7 @@ summary: Trapped at home by the pandemic? We investigate whether books can stand
 author: FlightFree UK
 read_time_minute: 7
 ---
-### Have you ever worried that not flying might make you a little bit boring? 
+### Have you ever worried that not flying might make you a little bit boring?
 
 When friends are boasting about their holidays as if they were expeditions, talking about the places they explored, the people they encountered, sometimes you might feel left out, as if you have little to contribute to the conversation.
 
@@ -21,7 +21,7 @@ Instead of taking a long haul flight to India (emissions 2 tonnes of CO2), you c
 
 Instead of an American road trip (emissions 2.8 tonnes of CO2 per person), treat yourself to a journey through the Great American Novel (zero emissions if you borrow them from the library). Tour operators might try to give you an authentic experience of the country, but reading books, especially by someone from that place, will give you a perspective that a holiday cannot possibly match.
 
-> "Instead of taking a flight to India (2 tonnes CO2), you could read a novel by an Indian writer (1 kg CO2)"
+> "Instead of taking a flight to India (2 tonnes CO2), you could read a novel by an Indian writer (1 kg CO2)."
 
 In the UK we love our holidays abroad. The places we choose to visit become part of our identity, a form of self expression. That's not new. Ever since wealthy eighteenth century Brits toured Europe and filled their houses with the art they acquired, we have used travel to cement our social status. But the books you have read are also a great way to show where you are coming from, and where you are heading. Books can change you, just as travel can.
 
@@ -87,7 +87,7 @@ Rahel and Estha are twins, finishing each other's sentences in their secret lang
 
 Kerala is known as God's Own Country, on the coast of South India, famous for its spice, natural diversity, food and waterfalls. Roy sprinkles touches of India and its dialect throughout her dark and tragic story – as authentic and realistic as any journey there, and a narrative that will linger in the mind long after the reader has left.
 
-> "Roy sprinkles touches of India throughout her story as authentic and realistic as any journey there"
+> "Roy sprinkles touches of India throughout her story as authentic and realistic as any journey there."
 
 *"May in Ayemenem is a hot, brooding month. The days are long and humid. The river shrinks and black crows gorge on bright mangoes in still, dustgreen trees. Red bananas ripen. Jackfruits burst. Dissolute bluebottles hum vacuously in the fruity air. Then they stun themselves against clear windowpanes and die, fatly baffled in the sun.*
 
