@@ -9,7 +9,9 @@ summary: "Air travel is accessed by a tiny proportion of the global population �
 author: FlightFree UK
 read_time_minute: 2
 ---
-For those who live in the Western world, we might suppose that flying is pretty common. Our newspapers are full of adverts for cheap flights, the subject of dinner table conversations is often where we last went on holiday, and a stag or hen do is a quick weekend in a far-flung location. Even if we don’t fly that much, the impression that society gives us is that most people do.
+### For those who live in the Western world, we might suppose that flying is pretty common. 
+
+Our newspapers are full of adverts for cheap flights, the subject of dinner table conversations is often where we last went on holiday, and a stag or hen do is a quick weekend in a far-flung location. Even if we don’t fly that much, the impression that society gives us is that most people do.
 
 The truth is, the [vast majority of the world’s population has never set foot on a plane](http://www.worldwatch.org/node/4346). Even here in Britain, where [we fly more than any other nation](https://www.independent.co.uk/travel/news-and-advice/british-travellers-iata-world-air-transport-statistics-a9029366.html), only around half of us board a flight in any given year.
 
@@ -33,4 +35,6 @@ There are parallels with the current coronavirus pandemic. The Covid-19 outbreak
 
 > "Not all of us fly, but we all pay the price." 
 
-Now, more than ever, we need to seriously consider our use of flights. Yes, for the emissions. Yes, to curb the spread of coronavirus. But mostly because we should understand how privileged we are to access air travel in the first place. To mis-quote a phrase, with great privilege comes great responsibility, and now would be a good time to start demonstrating that responsibility to the planet, and to each other.
+Now, more than ever, we need to seriously consider our use of flights. Yes, for the emissions. Yes, to curb the spread of coronavirus. But mostly because we should understand how privileged we are to access air travel in the first place. 
+
+#### To mis-quote a phrase, with great privilege comes great responsibility, and now would be a good time to start demonstrating that responsibility to the planet, and to each other.
