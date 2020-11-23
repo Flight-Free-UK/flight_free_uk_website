@@ -18,7 +18,7 @@ read_time_minute: 7
 
 #### Flight Free UK:
 
-February half term is a great time for skiing (it's also a great time to be ill, so please forgive my voice!) If you’re one of those people heading off for a ski trip, you might be thinking about which flight to take, but have you considered taking the train? Daniel Elkan has been hitting the slopes by train for over a decade, and he set up the website [SnowCarbon](www.snowcarbon.co.uk) to help other people do the same.
+*February half term is a great time for skiing (it's also a great time to be ill, so please forgive my voice!) If you’re one of those people heading off for a ski trip, you might be thinking about which flight to take, but have you considered taking the train? Daniel Elkan has been hitting the slopes by train for over a decade, and he set up the website [SnowCarbon](www.snowcarbon.co.uk) to help other people do the same.*
 
 #### Daniel:
 
@@ -30,11 +30,11 @@ When I got home I went into my loft and found an old European rail timetable fro
 
 #### Flight Free UK:
 
-In our modern society, the default is to fly, so it doesn’t even cross our minds that we can travel by other means. Everything is skewed towards that flight when we book holidays, from adverts to the booking systems to the information given to you by your package provider. This all contributes to the social norm to fly, which is what we’re challenging with the Flight Free 2020 campaign.
+*In our modern society, the default is to fly, so it doesn’t even cross our minds that we can travel by other means. Everything is skewed towards that flight when we book holidays, from adverts to the booking systems to the information given to you by your package provider. This all contributes to the social norm to fly, which is what we’re challenging with the Flight Free 2020 campaign.*
 
 > "In our society, the default is to fly, it doesn’t even cross our minds that we can travel by other means. Everything is skewed towards that flight."
 
-The Interrail map had shown Daniel that train was an option, and had inspired him to start organising ski trips by train for him and his mates. But finding out the how to book the journey was the difficult part. Nothing was joined up. That’s what led to him setting up the website [SnowCarbon](www.snowcarbon.co.uk), a guide to how to travel to the ski resorts by train.[](http://www.snowcarbon.co.uk)
+*The Interrail map had shown Daniel that train was an option, and had inspired him to start organising ski trips by train for him and his mates. But finding out the how to book the journey was the difficult part. Nothing was joined up. That’s what led to him setting up the website [SnowCarbon](www.snowcarbon.co.uk), a guide to how to travel to the ski resorts by train.[](http://www.snowcarbon.co.uk)*
 
 #### Daniel:
 
@@ -42,7 +42,7 @@ I set up the website 10 years ago, but I'd been writing articles about how to ge
 
 #### Flight Free UK:
 
-A quick glance at the website reveals there's a whopping carbon saving with each train journey – about 90%. But Daniel quickly found out that wasn't the only benefit. As well as the carbon reduction, travelling overland is just a much better experience than flying.
+*A quick glance at the website reveals there's a whopping carbon saving with each train journey – about 90%. But Daniel quickly found out that wasn't the only benefit. As well as the carbon reduction, travelling overland is just a much better experience than flying.*
 
 #### Daniel:
 
@@ -50,7 +50,7 @@ The initial motivation was environmental, but once we started doing the journeys
 
 #### Flight Free UK:
 
-Picture the scene: you're on the train, with your mates, and you’ve got this huge chunk of time together, relaxing rather than standing in a queue, there’s loads of space, especially if you get a table seat, you can play games, have a chat, read, visit the cafe bar, bring bubbles, and all the time this incredible landscape is scrolling past the window.
+*Picture the scene: you're on the train, with your mates, and you’ve got this huge chunk of time together, relaxing rather than standing in a queue, there’s loads of space, especially if you get a table seat, you can play games, have a chat, read, visit the cafe bar, bring bubbles, and all the time this incredible landscape is scrolling past the window.*
 
 #### Daniel:
 
@@ -62,7 +62,7 @@ When you travel by plane it’s just one long conveyor belt of stop/starts, queu
 
 #### Flight Free UK:
 
-Back to the environmental impact: The [SnowCarbon](www.snowcarbon.co.uk) website talks about taking better care of our planet and minimising our use of fossil fuels and resources. Even though there are many sustainable ways of travelling to the Alps, most skiers fly or drive. So what \*are\* the environmental benefits of going by train? And should we even be skiing at all?
+*Back to the environmental impact: The [SnowCarbon](www.snowcarbon.co.uk) website talks about taking better care of our planet and minimising our use of fossil fuels and resources. Even though there are many sustainable ways of travelling to the Alps, most skiers fly or drive. So what \*are\* the environmental benefits of going by train? And should we even be skiing at all?*
 
 #### Daniel:
 
@@ -74,7 +74,7 @@ Everything you do creates carbon. Skiing is an amazing activity, to get out into
 
 #### Flight Free UK:
 
-So changing that flight for a train has a huge impact, and there are loads of options for travelling by train. There’s the direct ski train from London all the way to the tarentais region of the French Alps. For other parts of France, and for Austria, Italy or Switzerland, you can travel via Paris, Lille, or Brussels and change from the Eurostar to the TGV, which is the French high speed train. Or you can catch the Alpen Express sleeper train to Austria, or the NightJet sleeper from Cologne. But, there's a real challenge here. Many people would say, I would love to travel by train – it sounds fantastic! But I just can’t afford it. The flight is £29 – that's just irresistible.
+*So changing that flight for a train has a huge impact, and there are loads of options for travelling by train. There’s the direct ski train from London all the way to the tarentais region of the French Alps. For other parts of France, and for Austria, Italy or Switzerland, you can travel via Paris, Lille, or Brussels and change from the Eurostar to the TGV, which is the French high speed train. Or you can catch the Alpen Express sleeper train to Austria, or the NightJet sleeper from Cologne. But, there's a real challenge here. Many people would say, I would love to travel by train – it sounds fantastic! But I just can’t afford it. The flight is £29 – that's just irresistible.*
 
 #### Daniel:
 
@@ -86,7 +86,7 @@ When you travel by plane, you see that £29 one way fare and it's very enticing,
 
 #### Flight Free UK:
 
-So, overall it’s either cheaper or close enough, and you’re going to have a much better experience, but even once we’ve made that decision there are still plenty of barriers in the way, especially with booking.
+*So, overall it’s either cheaper or close enough, and you’re going to have a much better experience, but even once we’ve made that decision there are still plenty of barriers in the way, especially with booking.*
 
 #### Daniel:
 
@@ -96,7 +96,7 @@ It’s vital that ski resorts/accommodations/tour operators communicate for ever
 
 #### Flight Free UK:
 
-Can we as consumers drive this change? It seems recently the conversation is really starting to shift away from air travel, and awareness of the carbon impact from aviation has really gone up. What needs to happen now in order to make the most of this?
+*Can we as consumers drive this change? It seems recently the conversation is really starting to shift away from air travel, and awareness of the carbon impact from aviation has really gone up. What needs to happen now in order to make the most of this?*
 
 #### Daniel:
 
@@ -108,7 +108,7 @@ Demand by consumers is an absolutely vital part of the picture, but we haven’t
 
 #### Flight Free UK:
 
-One of our favourite parts of the SnowCarbon website is the video of the [Race to the Alps](<https://youtu.be/M5OG8qj79fo >), a Top Gear style experiment to see if what Daniel says about travelling by train is really true. It’s a great watch, so here's Daniel explaining what it's all about.
+*One of our favourite parts of the SnowCarbon website is the video of the [Race to the Alps](<https://youtu.be/M5OG8qj79fo >), a Top Gear style experiment to see if what Daniel says about travelling by train is really true. It’s a great watch, so here's Daniel explaining what it's all about.*
 
 #### Daniel:
 
@@ -118,9 +118,9 @@ I was going by Eurostar to Paris then a TGV to the Alps and he was flying from G
 
 #### Flight Free UK:
 
-And there we have it! A thorough examination of a ski journey by train, which vs plane, comes out on top pretty much every time. It’s been brilliant hearing Daniel’s expertise and we hope it’s inspired you to get booking that train next time you head off on your ski holiday!
+*And there we have it! A thorough examination of a ski journey by train, which vs plane, comes out on top pretty much every time. It’s been brilliant hearing Daniel’s expertise and we hope it’s inspired you to get booking that train next time you head off on your ski holiday!*
 
-You can find out more at [www.snowcarbon.co.uk](http://www.snowcarbon.co.uk), which has all those things Daniel talked about, including a ticketing tool to help you book, and stories from fellow skiers. Top tips are to start your planning early, so you really know what you’re doing, and you can get the best fares. You can also find relevant information on the website [seat61.com](http://seat61.com), and there’s also the website [Ski Flight Free.](http://skiflightfree.org)
+*You can find out more at [www.snowcarbon.co.uk](http://www.snowcarbon.co.uk), which has all those things Daniel talked about, including a ticketing tool to help you book, and stories from fellow skiers. Top tips are to start your planning early, so you really know what you’re doing, and you can get the best fares. You can also find relevant information on the website [seat61.com](http://seat61.com), and there’s also the website [Ski Flight Free.](http://skiflightfree.org)*
 
 #### Daniel’s personal recommendation is to get a rail map of Europe and put it up on the wall. They’re beautiful and inspiring, and make a great present. Thanks again to Daniel, and thanks for listening!
 
