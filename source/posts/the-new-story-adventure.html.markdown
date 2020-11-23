@@ -11,59 +11,67 @@ summary: The adventure world is full of people who are passionate about the
 author: FlightFree UK
 read_time_minute: 6
 ---
-The adventure world is full of people who are passionate about the outdoors and the planet. But with exploration comes a significant impact, especially if it involves a flight.
+### The adventure world is full of people who are passionate about the outdoors and the planet. But with exploration comes a significant impact, especially if it involves a flight.
 
 [Rosie Watson](https://twitter.com/r_birdshouts) and [Mike Elm](https://twitter.com/elmers87) are bucking this trend and shining a light on the environmental footprint of adventure. Making their way to Mongolia, Rosie by running, Mike by bicycle, both are finding and sharing stories of people working to tackle the climate crisis, and creating a more healthy, fun and sustainable way of living. This is about creating what Rosie and Mike call a New Story in our search for a different narrative.
 
 Rosie has been on the road since August 2019, Mike since November 2019. We caught up with them just after an enforced break due to the Covid lockdown, as they were about to leave Skopje, North Macedonia.
 
-![](/images/uploads/newstory-rosie1.jpg "Rosie on the Via Adriatica trail in Croatia, January 2020")
+![Picture shows Rosie jumping energetically over craggy and mossy grey rocks. The view behind her is completely obscured by a wall of fog and nothing else is visible. She's wearing sporty clothes and carrying  large rucksack. ](/images/uploads/newstory-rosie1.jpg "Rosie on the Via Adriatica trail in Croatia, January 2020")
 
-### *Why have you decided to run/bike across the continent? What is it about running/biking that you love so much?*
+#### Flight Free:
 
-**Rosie:** 
+#### Why have you decided to run/bike across the continent? What is it about running/biking that you love so much?
+
+#### **Rosie:** 
 
 Fell/mountain running is my main passion. I love how much you are forced to the extremes of simplicity by carrying everything on your back while still trying to run. It gives me a kind of meditative, relaxing headspace, and allows me to connect to the world around me in a much more intense way, as so much effort goes into every step, yet you still move slow enough to see the detail of what passes you by.
 
-**Mike:** 
+#### **Mike:** 
 
 By travelling slowly you encounter a country or continent authentically. I like the speed of travelling by bike. It feels like you cover distance but you experience the place with all your senses. It also means that you connect to people, barely verbally just with waves or the relevant hello. These low level social interactions mean a lot. It is also a way of seeing a big chunk of the world without it costing the earth.
 
-![](/images/uploads/newstory-bike.jpg "Mike's bicycle at Lake Mladost in North Macedonia, August 2020")
+![Picture shows a bicycle leaning on its stand packed with camping equipment. Behind it is a grassy and gravelly landscape with rolling hills in the background. ](/images/uploads/newstory-bike.jpg "Mike's bicycle at Lake Mladost in North Macedonia, August 2020")
 
-### *You’re undertaking what you call the New Story Ride/New Story Run. What do you mean by ‘New Story’?*
+#### Flight Free:
 
-**Rosie:** 
+#### You’re undertaking what you call the New Story Ride/New Story Run. What do you mean by ‘New Story’?
+
+#### **Rosie:** 
 
 We desperately need to transform how we are living as human beings on the earth. Everything we do, especially how we think of ourselves as humans compared to other species, the earth, and each other (i.e. different groups), is all underpinned by a collection of narratives or stories about us and those things. It's at the root of everything, and to get the kind of transformational change we need, we need to critique and reform these stories/narratives into something that is healthier for us, the planet and all living things.
 
 Stories are also how we connect to each other emotionally, so by telling these stories I hope to show a more human side to change that people relate to on a personal level, as opposed to just stating the data alone. 
 
-**Mike:** 
+#### **Mike:** 
 
 As the ride has gone on I've become more and more clear on the New Story being about building a story, a system, that is good for the people that are living it and the rest of nature they depend on.
 
-![](/images/uploads/newstory-rosie2.jpg "Rosie in Austria, end of 2019")
+![Picture shows Rosie hiking through tall grass on a sunny hillside. She is wearing activewear and carrying a large rucksack. There are tall hills in the background and the sky is bright blue. ](/images/uploads/newstory-rosie2.jpg "Rosie in Austria, end of 2019")
 
-### *Which countries have you been through?*
+#### Flight Free:
 
-**Rosie:** 
+#### Which countries have you been through?
+
+#### **Rosie:** 
 
 The Netherlands, Germany, Switzerland, Austria, Slovenia, Croatia, Montenegro, Albania, Serbia and North Macedonia. [Link to my route map](https://experience.arcgis.com/experience/1371aea587824b5184f908804a110aa4)
 
-**Mike:** 
+#### **Mike:** 
 
 So far I've ridden through Austria, touched into Slovakia and Hungary, then Italy, Slovenia, Croatia, Bosnia and Herzegovina, Serbia, Kosovo, Albania and Macedonia.
 
-### *What have been your most memorable encounters?*
+#### Flight Free:
 
-**Rosie:** 
+#### What have been your most memorable encounters?
+
+#### **Rosie:** 
 
 This is hard! One would be visiting Hambacher forest, which you can [read about here](https://newstoryrun.wordpress.com/2019/09/27/hambacher-forest-germany-living-on-the-front-line-in-the-fight-against-coal/). Another would be one particular day in the Alps, which you can [read about here](https://newstoryrun.wordpress.com/2019/11/08/the-world-from-mountain-tops-our-relationship-with-nature/). On a personal level, crossing the channel by ferry after my first week of running was a really cool moment! New Year's eve on a mountain top with Mike and the best sunset and stars and sunrise ever, waking up covered in frost.
 
 I've also met so many amazing people on the way who've spontaneously taken me into their homes, with no pre planning (just invited me in when I asked where I could camp, or asked what I was doing while walking down a street). There's too many to go through them all – some where you are just totally enveloped and absorbed into a family temporarily, some which challenge your perspectives of how you view people, some where you have no common language but still spend hours ‘chatting'.
 
-**Mike:** 
+#### **Mike:** 
 
 The very first day of arriving off the train in Vienna before I'd ridden an inch I met Jonas Skielboe who's combined his passion for sharing music and transformed his lifestyle and in so doing created something innovative and fun: an electric cargo bike which transforms to a music stage "[VeloConcerts](https://newstoryride.wordpress.com/2019/12/19/taking-the-party-to-the-streets-jonas-skielboe-veloconcerts/)". He's been a model of that combination of passion and joy that's needed to get to a new story. I am also really keen to experience what the car-free future looks like. So pedestrian Islands like [Silba](https://newstoryride.wordpress.com/2020/02/11/silba-a-people-friendly-island/) and the centre of [Ljubljana](https://newstoryride.wordpress.com/2020/05/28/making-cities-lovable-tjasa-ficko-deputy-mayor-ljubljana/) were cool examples.
 
