@@ -141,4 +141,4 @@ By train of course :)
 
 *You can follow Rosie's journey [here](https://newstoryrun.wordpress.com/) and Mike's [here](https://newstoryride.wordpress.com/).*
 
-![](/images/uploads/newstory-swimming.jpg "Swimming in Novi Vinodolski, Croatia, Christmas 2019")
+![Picture shows Rosie and Mike swimming in a clear body of water. The sun is setting over the horizon and the sky looks bright orange and pink. In the distance you can see the silhouette of some low hills. ](/images/uploads/newstory-swimming.jpg "Swimming in Novi Vinodolski, Croatia, Christmas 2019")
