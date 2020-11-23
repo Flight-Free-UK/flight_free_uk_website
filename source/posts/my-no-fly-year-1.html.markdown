@@ -79,7 +79,7 @@ The year also helped me reduce some of the pressure I had put on myself to trave
 
 Most importantly, I realised personal change is not as difficult as I had made it out to be. 
 
-![A white campervan has its back door open. It is parked in the clearing of a forest of tall pine trees. Shade is dappled on the forest floor.](/images/uploads/viviana-camper.jpeg "Vivianas solar-powered van ")
+![A white campervan has its back door open. It is parked in the clearing of a forest of tall pine trees. Shade is dappled on the forest floor.](/images/uploads/viviana-camper.jpeg "Viviana's solar-powered van ")
 
 ## **Moving Forward**
 
