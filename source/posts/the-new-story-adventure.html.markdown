@@ -117,7 +117,7 @@ From the run I want to be able to show a big diversity of versions of the 'new s
 
 The story that has led us to where we are now is just that, a story. Time and time again we see how stories are what drive both good and bad outcomes. My aim is that the ride helps bring to life the new and better story that is happening. Not to create a How-to guide, but a Why-to guide. Whether that remains just on the New Story Ride website or becomes something more polished is going to depend on tapping into the skills and interests of others.
 
-![](/images/uploads/newstory-rosie3.jpg "Rosie on the Rheinburgenweg in Germany, September 2019")
+![Picture shows Rosie running down a hillside near a chairlift. There are many shrubs around and the sun is shining. ](/images/uploads/newstory-rosie3.jpg "Rosie on the Rheinburgenweg in Germany, September 2019")
 
 #### Flight Free UK:
 
