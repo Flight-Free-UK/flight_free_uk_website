@@ -21,7 +21,7 @@ Because my parents never flew (or drove) I didn’t fly until I began working as
 
 By the time I met my second husband in '06 I’d recognised the damage flying does – not just theoretically but emotionally, personally. My brother [Dave Hampton](http://www.carboncoach.com/) was by that point the Carbon Coach and he’d been an environmentalist all his adult life so it’s extraordinary that I lived so long in denial of what I knew to be true. I had been a Green Party member for years but my excuse was that for many years I’d been working an 80 hour week as a teacher and had no time to look beyond my children at home and school. I think many people are in the same sort of situation, shutting out the truth because it makes demands they feel they can’t meet.
 
-> "By '06 I'd recognised the damage flying does, it's extraordinary I lived so long in denial of what I knew to be true."
+> "It's extraordinary I lived so long in denial of what I knew to be true."
 
  Giving up teaching to write for a living freed me to think about the world around me. My final flight was to Florence, the one place I’d always longed to go, and on to Positano. I still had a lot of awakening ahead of me. 
 
