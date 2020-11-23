@@ -87,6 +87,8 @@ Without planning, or even expecting, this experiment had a lasting effect on me.
 
 Though I have had to fly again to visit my family, it has become almost second nature to look for low-carbon ways of travelling wherever I go. Air travel is my last option when choosing how to get around. 
 
+> "Air travel is my last option when choosing how to get around." 
+
 I have also met incredibly interesting people when I travel. For some reason, airports and planes seem to make people less communicative, or perhaps more stressed. 
 
-In a world where we are always rushing, maybe slowing down our travel might help us reconnect in better ways to others. And perhaps this is what is required to solve our biggest challenges.
+#### In a world where we are always rushing, maybe slowing down our travel might help us reconnect in better ways to others. And perhaps this is what is required to solve our biggest challenges.
