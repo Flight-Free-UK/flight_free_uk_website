@@ -11,7 +11,7 @@ read_time_minute: 6
 ---
 ### This is the fourth instalment of our podcast series of interviews. You can listen to the full podcas[](https://www.flightfree.co.uk/podcast/episode/c2c15969/vipul-patel)t [](https://soundcloud.com/info-728724237/vipul-patel)[here](https://soundcloud.com/info-728724237/etienne-stott) and find a summary below. You can listen to our other podcast episodes on our [podcast page](https://flightfree.co.uk/podcast/).
 
-![Etienne is holding a piece of paper with the Flight Free 2020 pledge on it. He is standing in front of a hedge and has a navy blue short sleeved shirt on. ](/images/uploads/67608452_2299356613646505_2861116666371112960_n.jpg "Etienne holding the Flight Free 2020 pledge ")
+![Etienne is holding a piece of paper with the Flight Free 2020 pledge on it. He is standing in front of a hedge and has a navy blue short sleeved shirt on. ](/images/uploads/67608452_2299356613646505_2861116666371112960_n.jpg "Etienne Stott, Olympic champion")
 
 We interview Etienne Stott, Olympian and gold medallist in the London 2012 Olympics. Since retiring from the sport he’s become very involved in environmental activism, especially with [Extinction Rebellion](https://rebellion.earth/). Etienne has signed our [flight free 2020 pledge](https://www.flightfree.co.uk/pledge), partly as a way to reduce his own carbon footprint, but also as a symbolic act which encourages people to think about their travel choices.
 
@@ -59,7 +59,7 @@ Yes, my mum is French-Canadian and half my family lives in Canada, and my best f
 
 And it goes further – these beautiful places that we go to visit are becoming damaged because we fly to see them. This is a tough reality. So there is a sacrifice element here – I’m not saying I’m never going to fly again, but at this point, it’s very doable to not fly for a year. Britain is a beautiful place – we have Scotland, the Peak District and the Lake District, Devon, and loads of other places. 
 
-> "At this point, it’s very doable to not fly for a year. Britain is a beautiful place."
+> "It’s very doable not to fly for a year. Britain is a beautiful place."
 
 So I don’t feel I need to travel somewhere that’s thousands of miles away to satisfy my urge to roam – I can even go somewhere here in Nottingham. Like this windmill – it’s the first time I’ve been here, even though I’ve lived here for 20 years! So yes, there is a sacrifice but there’s also a reward.
 
@@ -70,8 +70,6 @@ Yes; we often overlook what’s under our noses, so it’s good to reconnect wit
 #### Etienne:
 
  There’s something powerful about voyaging, and it’s a really enjoyable way to explore. I don’t think many people enjoy the process of flying: the airport, the security, the stress, the hassle, the time, the jet lag. You might end up in some cool places but it’s good to notice what’s around you.
-
-__
 
 #### Flight Free UK:
 
@@ -100,8 +98,6 @@ Well we must. We have to find a way. The reality is that we have to change or we
 > "The reality is that we have to change or we are going to be changed."
 
 We live in an internationalised world where cheap air travel seems necessary. But how necessary is it? How much can we squeeze this to make it so we don’t kill ourselves? Because frankly, if we keep going as we are, there isn’t going to be any air travel, there aren’t going to be any holidays, there’s going to be no food on the shelves, no water in the taps, there’s going to be rioting by people who are angry, suffering and desperate. This is not just me making this up! It seems disconnected now, but what does this mean to your loved ones? Do you want them to have a future that is safe and fair, and a world that is liveable? When you start to ask these questions you have to admit that the answers are a little difficult to take but if we don’t take them we are condemning ourselves. 
-
-__
 
 *Much food for thought, much self-examination we need to do, and much thinking about the implications of our actions. Starting with the* *[flight free 2020 pledge](https://www.flightfree.co.uk/pledge)! Thanks so much for signing, it’s amazing to have your support, and it’s great to be here in lovely Nottingham finding new treasures under our noses. Thanks Etienne.*
 
