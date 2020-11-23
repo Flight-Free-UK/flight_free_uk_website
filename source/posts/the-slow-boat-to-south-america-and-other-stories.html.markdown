@@ -32,13 +32,15 @@ It would have been amazing to go by yacht – a really low-carbon way of crossin
 
 It was surprisingly expensive – €90 each per day – which is really frustrating because flying is so much cheaper. When you stop flying, you realise the injustice of the transport system. But it’s not a like-for-like journey, so in reality it’s great value. They had a lovely little cabin (no sleeping in a container!) with a sea view, great food and lots of time to read and reflect and to practice their Spanish. A highlight was seeing the stars at night, because when else are you going to be that far from human habitation? They got to know the crew and were really sad to leave the boat at the end. The trip felt like a holiday in itself. 
 
-> "The trip felt like a holiday in itself."
+> "When you stop flying, you realise the injustice of the transport system."
 
 The best part was that you slowly acclimatise to where you’re going, you’re not just dropped from an artificially ventilated pod into a new climate. Yes, it does take ages, and that’s not going to suit everyone, but it’s important to recognise the benefit of these different modes of travelling. 
 
 ### Back in Europe, Lewis has spent many hours on long-distance coaches.
 
  To the Pyrenees it was 27 hours; all the way to the Costa del Sol, from London Victoria to Malaga, was 40 hours. That was grim! You have to have the right attitude and be prepared. There are times you just want to lie down! But there are also times when it’s phenomenal – passing through incredible countryside, seeing the landscape become more arid as you make your way through Spain, passing through towns and places you would never go because they’re not tourist places, seeing everyday scenes of real France and real Spain. And there is great camaraderie amongst the passengers, especially among those who are doing the entire journey. You wouldn’t get that on a plane. 
+
+> "There is great camaraderie amongst the passengers. You wouldn’t get that on a plane." 
 
 It was great to hear Lewis’s stories about how travel by means other than aeroplanes can really give you a different experience, and the world can feel richer as a result. Thank you Lewis for speaking with us.
 
