@@ -8,9 +8,9 @@ summary: How many flights per year do you need to take to count as a 'frequent f
 author: FlightFree UK
 read_time_minute: 3
 ---
-![](/images/uploads/black-plane.jpg)
+![Picture shows graphic of cartoon black planes flying over a world map leaving rails of black smog behind them. ](/images/uploads/black-plane.jpg)
 
-It’s a common assumption that business travellers make up the largest sector of flyers – the men in suits who are rarely out of an aeroplane seat.
+### It’s a common assumption that business travellers make up the largest sector of flyers – the men in suits who are rarely out of an aeroplane seat.
 
 In fact, business flights made up just 9% of flights in 2017*, a percentage that had been falling steadily year on year even before Covid-19. There’s likely to have been an even greater decrease in business flights as a result of coronavirus lockdowns, and we can expect that number to continue to fall as many businesses settle on a digital way of working. By far the largest share of the travel market is made up of leisure flights – nearly 2/3rds of all UK flights in 2017.
 
@@ -32,6 +32,6 @@ As we know, social norms are what tends to guide our behaviour, so if your group
 
 The truth is, even one flight a year is too much for the climate to handle. If everyone in the world took just one return flight per year, our carbon output would increase by over 40% – far beyond what our planet can cope with.
 
-So while we definitely need to address the problem of frequent flyers, we also need to be clear about who that is – and acknowledge that everyone can have an impact, frequent flyer or not.
+#### So while we definitely need to address the problem of frequent flyers, we also need to be clear about who that is – and acknowledge that everyone can have an impact, frequent flyer or not.
 
 *\*data from ONS*
