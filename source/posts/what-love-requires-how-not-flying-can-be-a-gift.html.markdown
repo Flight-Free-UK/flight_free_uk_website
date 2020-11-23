@@ -35,7 +35,7 @@ Even when I wrote my children’s novel *The Waterhouse Girl* in 01 (it wasn’t
 
 I used to see my writing as keyboard activism but in the last few years I’ve known that isn’t enough. When I spoke one Green Monday at the fracking site at Preston New Road I found myself saying that there’s no longer any other subject to write about. That led to this current project. But fiction MUST be led by character if the readers are going to care, and my characters are always in control. So it can’t be a treatise. What it can do, I hope, is involve readers emotionally. It’s an indirect way in to this biggest of all issues but it has to be a good story, and stories are powerful. They can change the way we see the world and others in it. They can change who we are. 
 
-> "I used to see my writing as keyboard activism but in the last few years I’ve known that isn’t enough."
+> "Stories are powerful. They can change the way we see the world and others in it. They can change who we are." 
 
 And YES, I think that public awareness of the climate crisis has grown enormously since last Oct/Nov when Greta Thunberg, who’s vegan and doesn’t fly of course, began her climate strike and the IPCC report followed. When she spoke to Davos, she was the only speaker who didn’t fly there. Now the kids’ climate strike has actually made the news. I think this year will be the turning point as more and more people not only change the way they live but demand radical change from governments. I am – sometimes – hopeful. 
 
