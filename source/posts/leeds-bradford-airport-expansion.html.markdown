@@ -47,4 +47,4 @@ Councillors may well feel that they are local councillors, and it’s not their 
 
 When it comes to the legal arguments, both parties are as convincing as the other (maybe that's why lawyers get paid so much!). But it's undeniable that the UK’s target of net zero by 2050 will be very difficult to achieve, even if everyone does all they can. And if local councils are vying with each other to make sure their local airport takes the biggest possible chunk of any remaining carbon budget, achieving net zero will be impossible. 
 
-The GALBA quotes in this article come from their blog published on the [Stay Grounded website](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).
+## The GALBA quotes in this article come from their blog published on the [Stay Grounded website](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).
