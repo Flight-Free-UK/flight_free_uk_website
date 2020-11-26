@@ -50,14 +50,18 @@ There are two big problems with assuming the emissions from flights will be take
 
 First, the UK’s Climate Change Committee has already looked at aviation emissions and concluded that 25% growth in passenger numbers by 2050 is the most that can be accommodated within its net zero scenarios. But [UK airports are currently planning growth of at least 59% by that date](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal), with much of the growth happening much sooner. 
 
+> "25% growth in passenger numbers by 2050 is the most that can be accommodated within net zero scenarios."
+
 The second problem is that the agreement to cover emissions from international flights, CORSIA, looks as if it will be very weak. (For a full account of CORSIA’s shortcomings, read [this excellent post](https://www.carbonbrief.org/corsia-un-plan-to-offset-growth-in-aviation-emissions-after-2020) by Jocelyn Timperley.) 
 
 Councillors may well feel that they are local councillors, and it’s not their job to save the world from climate change. Or they might see their challenge as balancing the benefits of jobs and holidays against the much vaguer and more far-off threat of climate change.
 
 But climate change is not distant and formless any more. Extreme weather and sea level rise are already affecting businesses and communities in the UK and we urgently need to stop it getting worse.
 
-When it comes to the legal arguments, both parties are as convincing as the other (maybe that's why lawyers get paid so much!). But it's undeniable that the UK’s target of net zero by 2050 will be very difficult to achieve, even if everyone does all they can. 
+When it comes to the legal arguments, both parties are as convincing as the other (maybe that's why lawyers get paid so much!). 
 
-And if local councils are vying with each other to make sure their local airport takes the biggest possible chunk of any remaining carbon budget, achieving net zero will be impossible. 
+### But it's undeniable that the UK’s target of net zero by 2050 will be very difficult to achieve, even if everyone does all they can. 
+
+### And if local councils are vying with each other to make sure their local airport takes the biggest possible chunk of any remaining carbon budget, achieving net zero will be impossible. 
 
 *The GALBA quotes in this article come from [their blog](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/) published on the Stay Grounded website.*
