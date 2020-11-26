@@ -18,7 +18,7 @@ Germana and her son Davide write the No Fly Europe blog, documenting their trave
 
 "We try to avoid the use of airplanes as much as possible because of their big impact on climate change. Plus, we also really love travelling by train anyway as we can see many places on the way."
 
-We spoke to Davide about his travels and his passion for trains.
+We spoke to Davide about his travels and his passion for trains. Here's what Davide said...
 
 #### I learned about climate change when my mum went to the Paris Climate Agreement Conference of 2015 – also known as COP21. 
 
@@ -26,13 +26,11 @@ Later I read some articles on The Week Junior, and saw stories on TV. Hearing ab
 
 #### I have loved transport ever since the age of 3 or so, and specifically trains 
 
-because of the sounds they make, the different types of power they use, the door chimes, etc. 
-
-In fact, there are some new electric trains on a railway line near my house which have only been running since May last year. It is important to me, since before them, there were stinky diesel trains which had been running since 2007.
+It's everything; the sounds they make, the different types of power they use, the door chimes, etc. In fact, there are some new electric trains on a railway line near my house which have only been running since May last year. It is important to me, since before them, there were stinky diesel trains which had been running since 2007.
 
 #### I was in my mum’s womb the first time I travelled from London to Italy by train, and my parents went all the way to Rome. 
 
-I have travelled from London to Milan by train almost every year of my life so far, with few exceptions. That means probably I have done it around 9-10 times (I am 13 years old).  
+I have travelled from London to Milan by train almost every year of my life so far, with few exceptions. That probably means I have done it around 9-10 times (I am now 13 years old).  
 
 #### My favourite part of the journey is probably when we stop off at Bardonecchia, a mountain resort after the French town of Modane, on the Italian-French Border. 
 
@@ -52,19 +50,19 @@ This is because the planes use loads of fuel every day, and by the time you arri
 
 #### It might be better to take the daytime trains from Milan to Paris, since the sleeper trains often have border checks in Switzerland at about 3 AM local time
 
-but that doesn’t mean I wouldn’t recommend it. I would have a good night’s sleep anyway on the Sleeper, but it means you don’t get to see as much scenery. 
+That doesn’t mean I wouldn’t recommend it. I would have a good night’s sleep anyway on the Sleeper, but it means you don’t get to see as much scenery. 
 
-#### An advantage of travelling by rail around Europe is that there are excellent options to get around European countries, 
+#### An advantage of travelling by rail around Europe is that there are excellent options to get around European countries
 
-and a massive majority of these trains are electric – compared to planes, which use jet fuel, which isn’t environmentally friendly.
+There is a massive majority of these trains are electric – compared to planes, which use jet fuel, which isn’t environmentally friendly.
 
 For children on the Eurostar, during the journey through the channel tunnel, there is a type of a virtual reality game (headsets and other requirements are offered at both stations) where you can explore beneath the ocean, collecting and discovering different marine animals, with the assistance of 2 divers.
 
-> "In me and my sister’s opinion, it is a great opportunity for education while travelling on a Eurostar service."
+In me and my sister’s opinion, it is a great opportunity for education while travelling on a Eurostar service.
 
 #### In general, travelling by train is a lot better than flying
 
-because you get to see countryside, wildlife, small and not-so-well-known towns, compared to aviation travel, which brings you through the country quicker, but then you don’t see as much scenery across the country/continent.
+It's because you get to see countryside, wildlife, small and not-so-well-known towns, compared to aviation travel, which brings you through the country quicker, but then you don’t see as much scenery across the country/continent.
 
 *Read more from Davide and Germana at [https://noflyeurope.home.blog](https://noflyeurope.home.blog/)*
 
