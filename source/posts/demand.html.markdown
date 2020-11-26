@@ -4,10 +4,7 @@ title: The demand myth
 category: opinion
 date: 2020-11-26T09:11:46.856Z
 cover_image: /images/uploads/airport_security.jpg
-summary: >-
-  Maggie Robertson asks, what do we really demand when it comes to flying?
-
-  Is it really sitting on a plane? Or is it quality time with loved ones, lessons learned along the way and the valued memories we take home?
+summary: Maggie Robertson asks, what do we really demand when it comes to flying?
 author: FlightFree UK
 read_time_minute: 2
 ---
