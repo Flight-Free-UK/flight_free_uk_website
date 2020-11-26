@@ -17,7 +17,6 @@ But what do we mean by ‘demand’? Certainly, before COVID 19, passenger numbe
 
 ![blurred images of people walking across one another in a station](/images/uploads/demand-timon-studler-abgavhjxwdq-unsplash.jpg "Photo Credit: Timon Studler on Unsplash")
 
-
 Demand probably has been increasing. A growing population and higher incomes both tend to increase the number of times someone somewhere is willing to book a flight. 
 
 But the growth in flying has also been driven by lower prices. UK residents made [73% more visits overseas 2019 than in 1999](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2019#uk-residents-visits-and-spend-abroad) the year that Easyjet first sold more than £1m worth of flights online. Most of the growth in that time was in leisure travel, and it’s not a coincidence that the massive increase in flying has happened since low cost airlines like EasyJet and RyanAir have been on the scene. Low prices enabled all sorts of new flying habits. 
@@ -37,10 +36,10 @@ But what would happen if the price increased? It would make flying less competit
 
 What would happen if the price increased? It would reshape all kinds of choices. 
 
-## So is it really flying that we demand?
+### So is it really flying that we demand?
 
 We demand good times with our families and friends. We demand memorable occasions. We demand access to work and education.
 
-## We have to figure out how we can have all of those things, and also demand a safe and peaceful future, and a good life for our children and grandchildren too.
+### We have to figure out how we can have all of those things, and also demand a safe and peaceful future, and a good life for our children and grandchildren too.
 
 ![group of 4 friends in a line with arms around each other facing away looking at the sun](/images/uploads/demand-for-travel-helena-lopes-pgnqt0rxwls-unsplash.jpg "Photo credit: Photo by Helena Lopes on Unsplash")
