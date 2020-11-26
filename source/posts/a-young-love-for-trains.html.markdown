@@ -12,7 +12,7 @@ read_time_minute: 4
 ---
 ![train pulling into platform in station](/images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg "Cover photo credit: Vitor Pinto on Unsplash")
 
-Germana and her son Davide write the No Fly Europe blog, documenting their travels by train around the continent.
+#### Germana and her son Davide write the No Fly Europe blog, documenting their travels by train around the continent.
 
 "Our family loves travelling around Europe by train," 13-year-old Davide writes on the blog.
 
@@ -20,19 +20,19 @@ Germana and her son Davide write the No Fly Europe blog, documenting their trave
 
 We spoke to Davide about his travels and his passion for trains. Here's what Davide said...
 
-#### I learned about climate change when my mum went to the Paris Climate Agreement Conference of 2015 – also known as COP21. 
+**I learned about climate change when my mum went to the Paris Climate Agreement Conference of 2015 – also known as COP21.** 
 
 Later I read some articles on The Week Junior, and saw stories on TV. Hearing about Polar ice caps melting, the increasing risk of flooding in coastal towns, etc. makes me concerned.
 
-#### I have loved transport ever since the age of 3 or so, and specifically trains 
+**I have loved transport ever since the age of 3 or so, specifically trains.**
 
 It's everything; the sounds they make, the different types of power they use, the door chimes, etc. In fact, there are some new electric trains on a railway line near my house which have only been running since May last year. It is important to me, since before them, there were stinky diesel trains which had been running since 2007.
 
-#### I was in my mum’s womb the first time I travelled from London to Italy by train, and my parents went all the way to Rome. 
+**I was in my mum’s womb the first time I travelled from London to Italy by train, and my parents went all the way to Rome.** 
 
 I have travelled from London to Milan by train almost every year of my life so far, with few exceptions. That probably means I have done it around 9-10 times (I am now 13 years old).  
 
-#### My favourite part of the journey is probably when we stop off at Bardonecchia, a mountain resort after the French town of Modane, on the Italian-French Border. 
+**My favourite part of the journey is probably when we stop off at Bardonecchia, a mountain resort after the French town of Modane, on the Italian-French Border.** 
 
 I like this town since I enjoy sledging there in the winter. When we stop over in the summer, I like to do big walks (you can actually walk back in to France!), cycling trips (you can rent bikes there), and going to the local swimming pool and lovely restaurants. 
 
@@ -40,19 +40,19 @@ There is also a bus service which is completely free of charge, which takes you 
 
 On the Eurostar I really like going at speed through the rural areas of France, Belgium and the UK and I like that the seating is comfortable. New looking Eurostars called Class 374 ‘Velaro’ have quite a bouncy ride when going through at speed. 
 
-#### The TGV is probably the most popular way to get around France, since the trains have very high capacity and high speeds. 
+**The TGV is probably the most popular way to get around France, since the trains have very high capacity and high speeds.** 
 
 That’s why it’s called the ‘Tren a Grand Vitesse’, which translates to ‘High Speed Train’. Some routes are served by double decker units, and others (for example the Paris-Milan service) are served by single decker units. I enjoy riding on the top deck of the double decker TGVs, although watch your suitcase if it’s out of sight (we had one stolen in Germany, which complicated our trip a lot)!
 
-#### I would avoid flying since the flights from places like London Heathrow to Paris Orly/ Paris Charles De Gaulle are useless. 
+**I would avoid flying since the flights from places like London Heathrow to Paris Orly/ Paris Charles De Gaulle are useless.** 
 
 This is because the planes use loads of fuel every day, and by the time you arrive at the airport from home, it has probably already taken you about an hour or so. Why not take the train? Me and my family take the train to Italy most of the time since it’s more eco-friendly. The journey from Paris to Milan takes about 7 hours or so, but it’s worth the view and scenery: this includes going through the Alps.
 
-#### It might be better to take the daytime trains from Milan to Paris, since the sleeper trains often have border checks in Switzerland at about 3 AM local time
+**It might be better to take the daytime trains from Milan to Paris, since the sleeper trains often have border checks in Switzerland at about 3 AM local time.** 
 
 That doesn’t mean I wouldn’t recommend it. I would have a good night’s sleep anyway on the Sleeper, but it means you don’t get to see as much scenery. 
 
-#### An advantage of travelling by rail around Europe is that there are excellent options to get around European countries
+**An advantage of travelling by rail around Europe is that there are excellent options to get around European countries**
 
 There is a massive majority of these trains are electric – compared to planes, which use jet fuel, which isn’t environmentally friendly.
 
