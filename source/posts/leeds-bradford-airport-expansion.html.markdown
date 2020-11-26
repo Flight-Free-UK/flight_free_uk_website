@@ -24,11 +24,11 @@ There’s some confusion over the role of airports in greenhouse gas emissions, 
 
 Airports might include plans for a more sustainable terminal building, or talk about shortening the journey to the airport, while ignoring the emissions from the flights themselves. In the case of Leeds Bradford Airport, [a group of climate scientists has estimated that, by 2030, the airport will reduce emissions from its terminal by 7,000 tonnes of CO2 equivalent, while increasing emissions from flights by 500,000 tonnes](https://twitter.com/PaulChatterton9/status/1285566841230954497?s=20). 
 
-### [GALBA](https://www.galba.uk) (Group for Action on Leeds Bradford Airport) is campaigning against Leeds Bradford expansion, and has been getting into the nitty of the legal position with regards to emissions.
+[GALBA](https://www.galba.uk) (Group for Action on Leeds Bradford Airport) is campaigning against Leeds Bradford expansion, and has been getting into the nitty of the legal position with regards to emissions.
 
-### It’s not simple. 
+It’s not simple. 
 
-Leeds City Council has been given legal advice by their planning officers that:
+### Leeds City Council has been given legal advice by their planning officers that:
 
 “[Councillors should not take into account the climate impact of GHG (greenhouse gas) emissions from domestic and international flights – only GHG emissions from LBA’s ground operations](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).”
 
@@ -62,6 +62,6 @@ When it comes to the legal arguments, both parties are as convincing as the othe
 
 ### But it's undeniable that the UK’s target of net zero by 2050 will be very difficult to achieve, even if everyone does all they can. 
 
-### And if local councils are vying with each other to make sure their local airport takes the biggest possible chunk of any remaining carbon budget, achieving net zero will be impossible. 
+And if local councils are vying with each other to make sure their local airport takes the biggest possible chunk of any remaining carbon budget, achieving net zero will be impossible. 
 
 *The GALBA quotes in this article come from [their blog](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/) published on the Stay Grounded website.*
