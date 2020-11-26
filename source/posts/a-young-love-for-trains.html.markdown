@@ -62,13 +62,13 @@ and a massive majority of these trains are electric – compared to planes, whic
 
 For children on the Eurostar, during the journey through the channel tunnel, there is a type of a virtual reality game (headsets and other requirements are offered at both stations) where you can explore beneath the ocean, collecting and discovering different marine animals, with the assistance of 2 divers.
 
-> "In my and my sister’s opinion, it is a great opportunity for education while travelling on a Eurostar service."
+> "In me and my sister’s opinion, it is a great opportunity for education while travelling on a Eurostar service."
 
 #### In general, travelling by train is a lot better than flying
 
 because you get to see countryside, wildlife, small and not-so-well-known towns, compared to aviation travel, which brings you through the country quicker, but then you don’t see as much scenery across the country/continent.
 
-Davide M Warhurst
+*Davide M Warhurst*
 
 *Read more from Davide and Germana at [https://noflyeurope.home.blog](https://noflyeurope.home.blog/)*\
 \
