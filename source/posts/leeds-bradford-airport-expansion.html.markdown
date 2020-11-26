@@ -28,23 +28,23 @@ GALBA (Group for Action on Leeds Bradford Airport) is campaigning against Leeds 
 
 Leeds City Council has been given legal advice by their planning officers that:
 
-“Councillors should not take into account the climate impact of GHG (greenhouse gas) emissions from domestic and international flights – only GHG emissions from LBA’s ground operations.”
+“[Councillors should not take into account the climate impact of GHG (greenhouse gas) emissions from domestic and international flights – only GHG emissions from LBA’s ground operations](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).”
 
-"The argument is that domestic flight GHG emissions are covered by UK carbon budgets, and international flight GHG emissions are covered by the UN’s CORSIA offsetting scheme. So if councillors were to take GHG emissions from flights into account in their decision, they would effectively be ‘double counting’ them".
+[](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/)The argument is that domestic flight GHG emissions are covered by UK carbon budgets, and international flight GHG emissions are covered by the UN’s CORSIA offsetting scheme. So if councillors were to take GHG emissions from flights into account in their decision, they would effectively be ‘double counting’ them.
 
 ### Is this really the case? GALBA’s barrister thinks not: 
 
-“It would be unlawful for the Plans Panel to ignore the climate change impact of the proposal, or to assume that the impact can be accommodated (for example, by assuming that national carbon budgets can absorb any extra emissions; or by assuming any international carbon reduction schemes will reduce or neutralise extra emissions). If the Panel made these assumptions, it would be doing the opposite of what the EIA Regulations (environmental impact assessment regulations) require.”
+“[It would be unlawful for the Plans Panel to ignore the climate change impact of the proposal, or to assume that the impact can be accommodated (for example, by assuming that national carbon budgets can absorb any extra emissions; or by assuming any international carbon reduction schemes will reduce or neutralise extra emissions). If the Panel made these assumptions, it would be doing the opposite of what the EIA Regulations (environmental impact assessment regulations) require](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).”
 
 It’s convenient for the airport to ignore emissions from the flights themselves, and it does make sense if those emissions will genuinely be counted elsewhere. But the advice to GALBA continues with this:
 
-“The EIA Regulations require all climate impacts to be taken into account.” 
+“[The EIA Regulations require all climate impacts to be taken into account](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).” 
 
 and 
 
-“The Panel cannot simply assume that the existence of the UK carbon budgets and CORSIA will mitigate the GHG emissions or the warming impact of contrails.”
+“[The Panel cannot simply assume that the existence of the UK carbon budgets and CORSIA will mitigate the GHG emissions or the warming impact of contrails](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).”
 
-"There are two big problems with assuming the emissions from flights will be taken care of by national and international arrangements". 
+There are two big problems with assuming the emissions from flights will be taken care of by national and international arrangements. 
 
 First, the UK’s Climate Change Committee has already looked at aviation emissions and concluded that 25% growth in passenger numbers by 2050 is the most that can be accommodated within its net zero scenarios. But [UK airports are currently planning growth of at least 59% by that date](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal), with much of the growth happening much sooner. 
 
@@ -58,4 +58,4 @@ When it comes to the legal arguments, both parties are as convincing as the othe
 
 And if local councils are vying with each other to make sure their local airport takes the biggest possible chunk of any remaining carbon budget, achieving net zero will be impossible. 
 
-*The GALBA quotes in this article come from their blog published on the [Stay Grounded website](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).*
+*The GALBA quotes in this article come from [their blog](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/) published on the Stay Grounded website.*
