@@ -66,6 +66,6 @@ For children on the Eurostar, during the journey through the channel tunnel, the
 
 because you get to see countryside, wildlife, small and not-so-well-known towns, compared to aviation travel, which brings you through the country quicker, but then you don’t see as much scenery across the country/continent.
 
-*Read more from Davide and Germana at [https://noflyeurope.home.blog](https://noflyeurope.home.blog/)*\
+*Read more from Davide and Germana at [https://noflyeurope.home.blog](https://noflyeurope.home.blog/)*
 
 Pictures from [Around Europe by Train](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/).
