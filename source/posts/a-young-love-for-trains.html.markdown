@@ -1,18 +1,18 @@
 ---
 published: false
-title: A young love for trains
+title: A love of train travel
 category: travel
 date: 2020-11-26T10:23:01.365Z
-cover_image: /images/uploads/kids-on-train.jpg
+cover_image: /images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg
 summary: "Germana and her son Davide write the No Fly Europe blog, documenting
   their travels by train around the continent. "
 author: FlightFree UK
 read_time_minute: 4
 ---
+Cover photo credit: Photo by [Vitor Pinto](https://unsplash.com/@vdapinto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/train-travel-europe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
+## A young love of train travel
 
-\[subtitle]\
-\
 Germana and her son Davide write the No Fly Europe blog, documenting their travels by train around the continent.
 
 > "Our family loves travelling around Europe by train,"
