@@ -10,9 +10,9 @@ summary: "Germana and her son Davide write the No Fly Europe blog, documenting
 author: FlightFree UK
 read_time_minute: 4
 ---
-![image shows Davide waiting on the platform while the train loads](/images/uploads/davide_waiting_for_train.jpg "Waiting for the train")
+![image shows Davide waiting on the platform while the train loads](/images/uploads/davide_waiting_for_train.jpg "The platform at Bardonecchia")
 
-### "Our family loves travelling around Europe by train," 13-year-old Davide writes [on the blog](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/).
+### "Our family loves travelling around Europe by train," 13-year-old Davide writes [on the No Fly Europe blog](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/).
 
 "We try to avoid the use of airplanes as much as possible because of their big impact on climate change. Plus, we also really love travelling by train anyway as we can see many places on the way."
 
@@ -66,7 +66,7 @@ For children on the Eurostar, during the journey through the channel tunnel, the
 
 In me and my sister’s opinion, it is a great opportunity for education while travelling on a Eurostar service.
 
-#### In general, travelling by train is a lot better than flying. 
+#### In general, travelling by train is a lot better than flying.
 
 It's because you get to see countryside, wildlife, small and not-so-well-known towns, compared to aviation travel, which brings you through the country quicker, but then you don’t see as much scenery across the country/continent.
 
