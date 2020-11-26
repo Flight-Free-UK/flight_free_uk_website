@@ -9,6 +9,8 @@ summary: "Germana and her son Davide write the No Fly Europe blog, documenting
 author: FlightFree UK
 read_time_minute: 4
 ---
+![train pulling into platform in station](/images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg "Cover photo credit: Vitor Pinto on Unsplash")
+
 Cover photo credit: Photo by [Vitor Pinto](https://unsplash.com/@vdapinto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/train-travel-europe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ## A young love of train travel
