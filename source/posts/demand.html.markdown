@@ -4,7 +4,10 @@ title: What do we mean by demand?
 category: opinion
 date: 2020-11-26T09:11:46.856Z
 cover_image: /images/uploads/demand-matheus-ferrero-tkrrvwxjb_8-unsplash.jpg
-summary: Maggie Robertson asks, what are we really demanding when it comes to flying?
+summary: >-
+  Maggie Robertson asks, what are we really demanding when it comes to flying?
+
+  Is it the flying aspect or is it the quality time we get with loved ones, the lessons we learn along the way and the value in the memories we take home?
 author: FlightFree UK
 read_time_minute: 2
 ---
