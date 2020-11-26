@@ -3,7 +3,7 @@ published: true
 title: What do we mean by demand?
 category: opinion
 date: 2020-11-26T09:11:46.856Z
-cover_image: /images/uploads/alexander-mils-vlnvvqk4die-unsplash.jpg
+cover_image: /images/uploads/demand-matheus-ferrero-tkrrvwxjb_8-unsplash.jpg
 summary: Maggie Robertson asks, what are we really demanding when it comes to flying?
 author: FlightFree UK
 read_time_minute: 2
@@ -37,4 +37,4 @@ So is it really flying that we demand? We demand good times with our families an
 
 Photo credit: Photo by [Helena Lopes](https://unsplash.com/@wildlittlethingsphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/value-in-travel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)\
 \
-Cover photo credit: [Alexander Mils](https://unsplash.com/@alexandermils?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/flight-holiday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Cover photo credit: [Matheus Ferrero](https://unsplash.com/@matheusferrero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/friends-group?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
