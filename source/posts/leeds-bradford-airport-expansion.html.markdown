@@ -2,7 +2,7 @@
 published: true
 title: What's wrong with Leeds Bradford airport expansion?
 category: climate
-date: 2020-11-26T11:56:49.664Z
+date: 2020-11-12T21:06:16.324Z
 cover_image: /images/uploads/galba-airport-expansion-ken-yam-rsybi_1fhfm-unsplash.jpg
 summary: In the campaign against Leeds Bradford expansion, GALBA has been
   getting into the complex legal arguments on what expansion would mean with
