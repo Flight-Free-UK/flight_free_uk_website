@@ -16,13 +16,15 @@ Leeds Bradford Airport has submitted a planning application that would lead to i
 
 Local airports don’t just meet existing demand, they drive new demand. They make flying more competitive, cheaper and more convenient. That’s fine if you think more flying is a good thing. But the UK has already set legally binding targets to reduce CO2 emissions to net zero, and passenger aviation makes up about 8% of the UK’s emissions.
 
+> "The UK has already set legally binding targets to reduce CO2 emissions to net zero, and passenger aviation makes up about 8% of the UK’s emissions."
+
 ![static plane on runway during sunset](/images/uploads/galba-airport-expansion-ken-yam-rsybi_1fhfm-unsplash.jpg "Cover photo credit: Photo by Ken Yam on Unsplash")
 
 There’s some confusion over the role of airports in greenhouse gas emissions, because most of the emissions come not from the airport itself but from the flights that take off and land there. 
 
 Airports might include plans for a more sustainable terminal building, or talk about shortening the journey to the airport, while ignoring the emissions from the flights themselves. In the case of Leeds Bradford Airport, [a group of climate scientists has estimated that, by 2030, the airport will reduce emissions from its terminal by 7,000 tonnes of CO2 equivalent, while increasing emissions from flights by 500,000 tonnes](https://twitter.com/PaulChatterton9/status/1285566841230954497?s=20). 
 
-GALBA (Group for Action on Leeds Bradford Airport) is campaigning against Leeds Bradford expansion, and has been getting into the nitty of the legal position with regards to emissions.
+### [GALBA](https://www.galba.uk) (Group for Action on Leeds Bradford Airport) is campaigning against Leeds Bradford expansion, and has been getting into the nitty of the legal position with regards to emissions.
 
 ### It’s not simple. 
 
