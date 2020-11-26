@@ -1,9 +1,9 @@
 ---
 published: false
-title: Demand
+title: What do we mean by demand?
 category: opinion
 date: 2020-11-26T09:11:46.856Z
-cover_image: /images/uploads/16631262-7297405-image-a-12_1564408946293.jpg
+cover_image: /images/uploads/alexander-mils-vlnvvqk4die-unsplash.jpg
 summary: Maggie Robertson asks, what are we really demanding when it comes to flying?
 author: FlightFree UK
 read_time_minute: 2
@@ -20,15 +20,17 @@ But the growth in flying has also been driven by lower prices. UK residents made
 
 Here are some types of flying that people didn’t used to do before low cost airlines. All of these are real examples from people I know.
 
-* Having a lads’ weekend in Prague because once you factor in the price of beer it’s cheaper than a weekend at home.
+* Having a lads’ weekend in Prague because once you factor in the price of beer, it’s cheaper than a weekend at home.
 * Living in Northern Ireland and commuting to London by air because it’s cheaper than renting a flat in London.
 * Organising a hen party in Magaluf because the bars there give you free drinks.
 * Choosing to study at university in England because you can commute from your home in Eastern Europe via Luton Airport.
 
 These are all rational choices, when flying is so inexpensive – [especially if you don’t think about the impact on the climate](https://flightfree.co.uk/post/money-talks/).
 
-But what would happen if the price increased? It would make flying less competitive with other forms of transport, sure. But it would also reshape all kinds of choices. I heard recently about someone who was planning to celebrate her parents’ ruby wedding with a family trip to Tenerife. If the flights were a bit more expensive, would they still go? Maybe they would celebrate with a party, a meal at a nice restaurant, or a rose for the garden instead. \[https://www.davidaustinroses.co.uk/products/ruby-wedding-standard-rose]
+But what would happen if the price increased? It would make flying less competitive with other forms of transport, sure. But it would also reshape all kinds of choices. I heard recently about someone who was planning to celebrate her parents’ ruby wedding with a family trip to Tenerife. If the flights were a bit more expensive, would they still go? Maybe they would celebrate with a party, a meal at a nice restaurant, or a [rose for the garden instead](https://www.davidaustinroses.co.uk/products/ruby-wedding-standard-rose). 
 
 > "What would happen if the price increased? It would reshape all kinds of choices". 
 
-So is it really flying that we demand? We demand good times with our families and friends. We demand memorable occasions. We demand access to work and education. We have to figure out how we can have all of those things, and also demand a safe and peaceful future, and a good life for our children and grandchildren too.
+So is it really flying that we demand? We demand good times with our families and friends. We demand memorable occasions. We demand access to work and education. We have to figure out how we can have all of those things, and also demand a safe and peaceful future, and a good life for our children and grandchildren too.\
+\
+Photo by [Alexander Mils](https://unsplash.com/@alexandermils?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/flight-holiday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
