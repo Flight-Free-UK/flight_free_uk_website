@@ -51,4 +51,4 @@ When it comes to the legal arguments, both parties are as convincing as the othe
 
 The GALBA quotes in this article come from their blog published on the [Stay Grounded website](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).
 
-Cover photo credit: Photo by [Ken Yam](https://unsplash.com/@starocker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/airport-expansion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Cover photo credit: [Ken Yam](https://unsplash.com/@starocker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/airport-expansion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
