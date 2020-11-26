@@ -16,11 +16,9 @@ read_time_minute: 4
 
 Germana and her son Davide write the No Fly Europe blog, documenting their travels by train around the continent.
 
-> "Our family loves travelling around Europe by train,"
+"Our family loves travelling around Europe by train," 13-year-old Davide writes on the blog.
 
-13-year-old Davide writes on the blog.
-
-> "We try to avoid the use of airplanes as much as possible because of their big impact on climate change. Plus, we also really love travelling by train anyway as we can see many places on the way."
+"We try to avoid the use of airplanes as much as possible because of their big impact on climate change. Plus, we also really love travelling by train anyway as we can see many places on the way."
 
 We spoke to Davide about his travels and his passion for trains.
 
