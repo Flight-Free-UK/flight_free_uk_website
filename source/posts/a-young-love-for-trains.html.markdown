@@ -60,9 +60,7 @@ For children on the Eurostar, during the journey through the channel tunnel, the
 
 In me and my sister’s opinion, it is a great opportunity for education while travelling on a Eurostar service.
 
-#### In general, travelling by train is a lot better than flying
-
-It's because you get to see countryside, wildlife, small and not-so-well-known towns, compared to aviation travel, which brings you through the country quicker, but then you don’t see as much scenery across the country/continent.
+**In general, travelling by train is a lot better than flying. It's because you get to see countryside, wildlife, small and not-so-well-known towns, compared to aviation travel, which brings you through the country quicker, but then you don’t see as much scenery across the country/continent.**
 
 *Read more from Davide and Germana at [https://noflyeurope.home.blog](https://noflyeurope.home.blog/)*
 
