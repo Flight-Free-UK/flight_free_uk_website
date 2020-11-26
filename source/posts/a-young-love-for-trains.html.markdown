@@ -10,37 +10,39 @@ summary: "Germana and her son Davide write the No Fly Europe blog, documenting
 author: FlightFree UK
 read_time_minute: 4
 ---
-## Germana and her son Davide write the No Fly Europe blog, documenting their travels by train around the continent.
+![train pulling into platform in station](/images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg "Cover photo credit: Vitor Pinto on Unsplash")
 
-"Our family loves travelling around Europe by train," 13-year-old Davide writes [on the blog](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/). "We try to avoid the use of airplanes as much as possible because of their big impact on climate change. Plus, we also really love travelling by train anyway as we can see many places on the way."
+## "Our family loves travelling around Europe by train," 13-year-old Davide writes [on the blog](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/).
+
+"We try to avoid the use of airplanes as much as possible because of their big impact on climate change. Plus, we also really love travelling by train anyway as we can see many places on the way."
+
+> "We avoid airplanes because of their big impact on climate change. We also really love travelling by train."
 
 We spoke to Davide about his travels and his passion for trains. Here's what he said...
 
-![train pulling into platform in station](/images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg "Cover photo credit: Vitor Pinto on Unsplash")
-
-### **I learned about climate change when my mum went to the Paris Climate Agreement Conference of 2015 – also known as COP21.** 
+#### I learned about climate change when my mum went to the Paris Climate Agreement Conference of 2015 – also known as COP21. 
 
 Later I read some articles on The Week Junior, and saw stories on TV. Hearing about Polar ice caps melting, the increasing risk of flooding in coastal towns, etc. makes me concerned.
 
-### **I have loved transport ever since the age of 3 or so, specifically trains.**
+#### I have loved transport ever since the age of 3 or so, specifically trains.
 
 It's everything; the sounds they make, the different types of power they use, the door chimes, etc. In fact, there are some new electric trains on a railway line near my house which have only been running since May last year. It is important to me, since before them, there were stinky diesel trains which had been running since 2007.
 
-### **I was in my mum’s womb the first time I travelled from London to Italy by train, and my parents went all the way to Rome.** 
+#### **I was in my mum’s womb the first time I travelled from London to Italy by train, and my parents went all the way to Rome.** 
 
 I have travelled from London to Milan by train almost every year of my life so far, with few exceptions. That probably means I have done it around 9-10 times (I am now 13 years old).
 
-> "We avoid the use of airplanes because of their big impact on climate change. We also really love travelling by train."
-
-### **My favourite part of the journey is probably when we stop off at Bardonecchia, a mountain resort after the French town of Modane, on the Italian-French Border.** 
+#### **My favourite part of the journey is probably when we stop off at Bardonecchia, a mountain resort after the French town of Modane, on the Italian-French Border.** 
 
 I like this town since I enjoy sledging there in the winter. When we stop over in the summer, I like to do big walks (you can actually walk back in to France!), cycling trips (you can rent bikes there), and going to the local swimming pool and lovely restaurants. 
 
 There is also a bus service which is completely free of charge, which takes you to many local villages, including to (and between) various cable cars and chairlifts which run in the Winter for skiing and in the Summer, for those wanting to go on long walks.
 
-On the Eurostar I really like going at speed through the rural areas of France, Belgium and the UK and I like that the seating is comfortable. New looking Eurostars called Class 374 ‘Velaro’ have quite a bouncy ride when going through at speed. 
+#### On the Eurostar I really like going at speed through the rural areas of France, Belgium and the UK.
 
-### **The TGV is probably the most popular way to get around France, since the trains have very high capacity and high speeds.** 
+I like that the seating is comfortable. New looking Eurostars called Class 374 ‘Velaro’ have quite a bouncy ride when going through at speed. 
+
+#### **The TGV is probably the most popular way to get around France, since the trains have very high capacity and high speeds.** 
 
 That’s why it’s called the ‘Tren a Grand Vitesse’, which translates to ‘High Speed Train’. Some routes are served by double decker units, and others (for example the Paris-Milan service) are served by single decker units. I enjoy riding on the top deck of the double decker TGVs, although watch your suitcase if it’s out of sight (we had one stolen in Germany, which complicated our trip a lot)!
 
@@ -62,6 +64,6 @@ In me and my sister’s opinion, it is a great opportunity for education while t
 
 In general, travelling by train is a lot better than flying. It's because you get to see countryside, wildlife, small and not-so-well-known towns, compared to aviation travel, which brings you through the country quicker, but then you don’t see as much scenery across the country/continent.
 
-*Read more from Davide and Germana at [https://noflyeurope.home.blog](https://noflyeurope.home.blog/)*
+#### **Read more from Davide and Germana at [https://noflyeurope.home.blog](https://noflyeurope.home.blog/)**
 
-*Pictures from [Around Europe by Train](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/).*
+Pictures from [Around Europe by Train](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/).
