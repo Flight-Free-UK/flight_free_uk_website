@@ -14,7 +14,7 @@ read_time_minute: 4
 
 "Our family loves travelling around Europe by train," 13-year-old Davide writes [on the blog](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/). "We try to avoid the use of airplanes as much as possible because of their big impact on climate change. Plus, we also really love travelling by train anyway as we can see many places on the way."
 
-We spoke to Davide about his travels and his passion for trains. Here's what Davide said...
+We spoke to Davide about his travels and his passion for trains. Here's what he said...
 
 ![train pulling into platform in station](/images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg "Cover photo credit: Vitor Pinto on Unsplash")
 
