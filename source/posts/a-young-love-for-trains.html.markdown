@@ -60,7 +60,9 @@ but that doesn’t mean I wouldn’t recommend it. I would have a good night’s
 
 and a massive majority of these trains are electric – compared to planes, which use jet fuel, which isn’t environmentally friendly.
 
-For children on the Eurostar, during the journey through the channel tunnel, there is a type of a virtual reality game (headsets and other requirements are offered at both stations) where you can explore beneath the ocean, collecting and discovering different marine animals, with the assistance of 2 divers. In my and my sister’s opinion, it is a great opportunity for education while travelling on a Eurostar service.
+For children on the Eurostar, during the journey through the channel tunnel, there is a type of a virtual reality game (headsets and other requirements are offered at both stations) where you can explore beneath the ocean, collecting and discovering different marine animals, with the assistance of 2 divers.
+
+> "In my and my sister’s opinion, it is a great opportunity for education while travelling on a Eurostar service."
 
 #### In general, travelling by train is a lot better than flying
 
