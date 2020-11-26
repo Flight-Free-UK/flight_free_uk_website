@@ -32,9 +32,7 @@ But what would happen if the price increased? It would make flying less competit
 
 > "What would happen if the price increased? It would make flying less competitive and reshape all kinds of choices." 
 
-#### So is it really flying that we demand?
-
-We demand good times with our families and friends. We demand memorable occasions. We demand access to work and education.
+So is it really flying that we demand? We demand good times with our families and friends. We demand memorable occasions. We demand access to work and education.
 
 #### We have to figure out how we can have all of those things, and also demand a safe and peaceful future, and a good life for our children and grandchildren too.
 
