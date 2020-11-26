@@ -3,11 +3,11 @@ published: true
 title: The demand myth
 category: opinion
 date: 2020-11-26T09:11:46.856Z
-cover_image: /images/uploads/demand-timon-studler-abgavhjxwdq-unsplash.jpg
+cover_image: /images/uploads/airport_security.jpg
 summary: >-
   Maggie Robertson asks, what do we really demand when it comes to flying?
 
-  Is it really sitting on a plane? Or is it quality time with loved ones, lessons learned along the way and valued memories we take home?
+  Is it really sitting on a plane? Or is it quality time with loved ones, lessons learned along the way and the valued memories we take home?
 author: FlightFree UK
 read_time_minute: 2
 ---
@@ -34,7 +34,7 @@ These are all rational choices, when flying is so inexpensive – [especially if
 
 But what would happen if the price increased? It would make flying less competitive with other forms of transport, sure. But it would also reshape all kinds of choices. I heard recently about someone who was planning to celebrate her parents’ ruby wedding with a family trip to Tenerife. If the flights were a bit more expensive, would they still go? Maybe they would celebrate with a party, a meal at a nice restaurant, or a [rose for the garden instead](https://www.davidaustinroses.co.uk/products/ruby-wedding-standard-rose). 
 
-What would happen if the price increased? It would reshape all kinds of choices. 
+> "What would happen if the price increased? It would reshape all kinds of choices." 
 
 #### So is it really flying that we demand?
 
