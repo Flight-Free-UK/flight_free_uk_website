@@ -71,13 +71,13 @@ The more you travel in this way the more it feels weird to fly somewhere and be 
 
 #### **Jo:**
 
- Cycling is the perfect pace. We like walking but it takes a long time to get anywhere. By bicycle, distances are achievable. 
+Cycling is the perfect pace. We like walking but it takes a long time to get anywhere. By bicycle, distances are achievable. 
 
 #### **Debs:**
 
 There's a great sense of accomplishment.
 
-> Cycling is the perfect pace. With walking it takes a long time to get anywhere. By bicycle, distances are achievable."
+> "Cycling is the perfect pace. With walking it takes a long time to get anywhere. By bicycle, distances are achievable."
 
 #### Flight Free UK:
 
