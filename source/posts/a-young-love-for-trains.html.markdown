@@ -10,7 +10,7 @@ summary: "Germana and her son Davide write the No Fly Europe blog, documenting
 author: FlightFree UK
 read_time_minute: 4
 ---
-#### Germana and her son Davide write the No Fly Europe blog, documenting their travels by train around the continent.
+## Germana and her son Davide write the No Fly Europe blog, documenting their travels by train around the continent.
 
 "Our family loves travelling around Europe by train," 13-year-old Davide writes [on the blog](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/). "We try to avoid the use of airplanes as much as possible because of their big impact on climate change. Plus, we also really love travelling by train anyway as we can see many places on the way."
 
