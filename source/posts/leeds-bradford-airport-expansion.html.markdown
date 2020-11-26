@@ -54,6 +54,6 @@ Photo credit: [Linus Nylund](https://unsplash.com/@doto?utm_source=unsplash&utm_
 \
 When it comes to the legal arguments, both parties are as convincing as the other (maybe that's why lawyers get paid so much!). But it's undeniable that the UK’s target of net zero by 2050 will be very difficult to achieve, even if everyone does all they can. And if local councils are vying with each other to make sure their local airport takes the biggest possible chunk of any remaining carbon budget, achieving net zero will be impossible. 
 
-The GALBA quotes in this article come from their blog published on the [Stay Grounded website](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).\
-\
+The GALBA quotes in this article come from their blog published on the [Stay Grounded website](https://stay-grounded.org/leeds-bradford-airport-expansion-plans-legal-arguments-about-emissions/).
+
 Cover photo credit: Photo by [Ken Yam](https://unsplash.com/@starocker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/airport-expansion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
