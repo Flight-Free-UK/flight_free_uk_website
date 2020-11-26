@@ -43,7 +43,7 @@ Councillors may well feel that they are local councillors, and it’s not their 
 
 > "But climate change is not distant and formless any more. Extreme weather and sea level rise are already affecting businesses and communities in the UK and we urgently need to stop it getting worse". 
 
-![ocean waves blocking out sun in background with a pink sky at sunset](/images/uploads/galba-linus-nylund-jp23z_-da74-unsplash.jpg "Our sea levels are rising")
+![ocean waves blocking out sun in background with a pink sky at sunset](/images/uploads/galba-linus-nylund-jp23z_-da74-unsplash.jpg "Our sea levels are rising. Photo by Linus Nylund on Unsplash")
 
 Photo credit: [Linus Nylund](https://unsplash.com/@doto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sea-level-rise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
