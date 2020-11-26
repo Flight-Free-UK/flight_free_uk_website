@@ -2,7 +2,7 @@
 published: true
 title: The demand myth
 category: opinion
-date: 2020-11-26T09:11:46.856Z
+date: 2020-11-25T09:11:46.856Z
 cover_image: /images/uploads/airport_security.jpg
 summary: Maggie Robertson asks, is demand for flights rising? And what do we
   really demand when it comes to flying?
