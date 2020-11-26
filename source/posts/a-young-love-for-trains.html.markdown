@@ -4,9 +4,9 @@ title: A love of train travel
 category: travel
 date: 2020-11-26T10:23:01.365Z
 cover_image: /images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg
-summary: Germana and her son Davide write the No Fly Europe blog, documenting
-  their travels by train around the continent. Davide tells FFUK why he's loved
-  train travel from 3 years old
+summary: "Germana and her son Davide write the No Fly Europe blog, documenting
+  their travels by train around the continent. Now 13, Davide tells FFUK why
+  he's loved train travel from the age of 3. "
 author: FlightFree UK
 read_time_minute: 4
 ---
