@@ -28,7 +28,9 @@ It's everything; the sounds they make, the different types of power they use, th
 
 ### **I was in my mum’s womb the first time I travelled from London to Italy by train, and my parents went all the way to Rome.** 
 
-I have travelled from London to Milan by train almost every year of my life so far, with few exceptions. That probably means I have done it around 9-10 times (I am now 13 years old).  
+I have travelled from London to Milan by train almost every year of my life so far, with few exceptions. That probably means I have done it around 9-10 times (I am now 13 years old).
+
+> "We avoid the use of airplanes because of their big impact on climate change. We also really love travelling by train."
 
 ### **My favourite part of the journey is probably when we stop off at Bardonecchia, a mountain resort after the French town of Modane, on the Italian-French Border.** 
 
@@ -46,7 +48,7 @@ That’s why it’s called the ‘Tren a Grand Vitesse’, which translates to �
 
 This is because the planes use loads of fuel every day, and by the time you arrive at the airport from home, it has probably already taken you about an hour or so. Why not take the train? Me and my family take the train to Italy most of the time since it’s more eco-friendly. The journey from Paris to Milan takes about 7 hours or so, but it’s worth the view and scenery: this includes going through the Alps.
 
-### **It might be better to take the daytime trains from Milan to Paris, since the sleeper trains often have border checks in Switzerland at about 3 AM local time.** 
+### **It might be better to take the daytime trains from Milan to Paris, since the sleeper trains often have border checks in Switzerland at about 3 AM local time.**
 
 That doesn’t mean I wouldn’t recommend it. I would have a good night’s sleep anyway on the Sleeper, but it means you don’t get to see as much scenery. 
 
