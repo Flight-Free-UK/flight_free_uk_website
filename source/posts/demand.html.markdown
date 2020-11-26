@@ -30,7 +30,7 @@ These are all rational choices, when flying is so inexpensive – [especially if
 
 But what would happen if the price increased? It would make flying less competitive with other forms of transport, sure. But it would also reshape all kinds of choices. I heard recently about someone who was planning to celebrate her parents’ ruby wedding with a family trip to Tenerife. If the flights were a bit more expensive, would they still go? Maybe they would celebrate with a party, a meal at a nice restaurant, or a [rose for the garden instead](https://www.davidaustinroses.co.uk/products/ruby-wedding-standard-rose). 
 
-> "What would happen if the price increased? It would reshape all kinds of choices." 
+> "What would happen if the price increased? It would make flying less competitive and reshape all kinds of choices." 
 
 #### So is it really flying that we demand?
 
