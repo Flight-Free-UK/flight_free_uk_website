@@ -26,7 +26,7 @@ Later I read some articles on The Week Junior, and saw stories on TV. Hearing ab
 
 #### I have loved transport ever since the age of 3 or so, specifically trains.
 
-It's everything; the sounds they make, the different types of power they use, the door chimes, etc. In fact, there are some new electric trains on a railway line near my house which have only been running since May last year. It is important to me, since before them, there were stinky diesel trains which had been running since 2007.
+It's because of the sounds they make, the different types of power they use, the door chimes, etc. In fact, there are some new electric trains on a railway line near my house which have only been running since May last year. It is important to me, since before them, there were stinky diesel trains which had been running since 2007.
 
 #### I was in my mum’s womb the first time I travelled from London to Italy by train, and my parents went all the way to Rome.
 
@@ -50,11 +50,11 @@ That’s why it’s called the ‘Tren a Grand Vitesse’, which translates to �
 
 This is because the planes use loads of fuel every day, and by the time you arrive at the airport from home, it has probably already taken you about an hour or so. Why not take the train? Me and my family take the train to Italy most of the time since it’s more eco-friendly. The journey from Paris to Milan takes about 7 hours or so, but it’s worth the view and scenery: this includes going through the Alps.
 
-#### It might be better to take the daytime trains from Milan to Paris, since the sleeper trains often have border checks in Switzerland at about 3 AM local time.
+#### It might be better to take the daytime trains from Milan to Paris.
 
-That doesn’t mean I wouldn’t recommend it. I would have a good night’s sleep anyway on the Sleeper, but it means you don’t get to see as much scenery. 
+The sleeper trains often have border checks in Switzerland at about 3 AM local time but that doesn’t mean I wouldn’t recommend it. I would have a good night’s sleep anyway on the sleeper, but it means you don’t get to see as much scenery. 
 
-#### An advantage of travelling by rail around Europe is that there are excellent options to get around European countries
+#### An advantage of travelling by rail around Europe is that there are excellent options to get around European countries.
 
 There is a massive majority of these trains are electric – compared to planes, which use jet fuel, which isn’t environmentally friendly.
 
@@ -62,6 +62,8 @@ For children on the Eurostar, during the journey through the channel tunnel, the
 
 In me and my sister’s opinion, it is a great opportunity for education while travelling on a Eurostar service.
 
-In general, travelling by train is a lot better than flying. It's because you get to see countryside, wildlife, small and not-so-well-known towns, compared to aviation travel, which brings you through the country quicker, but then you don’t see as much scenery across the country/continent.
+#### In general, travelling by train is a lot better than flying. 
+
+It's because you get to see countryside, wildlife, small and not-so-well-known towns, compared to aviation travel, which brings you through the country quicker, but then you don’t see as much scenery across the country/continent.
 
 *Read more from Davide and Germana at [https://noflyeurope.home.blog](https://noflyeurope.home.blog/)*
