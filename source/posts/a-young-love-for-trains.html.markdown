@@ -10,7 +10,7 @@ summary: "Germana and her son Davide write the No Fly Europe blog, documenting
 author: FlightFree UK
 read_time_minute: 4
 ---
-![train pulling into platform in station](/images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg "Cover photo credit: Vitor Pinto on Unsplash")
+![image shows Davide waiting on the platform while the train loads](/images/uploads/davide_waiting_for_train.jpg "Waiting for the train")
 
 ### "Our family loves travelling around Europe by train," 13-year-old Davide writes [on the blog](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/).
 
@@ -36,6 +36,8 @@ I have travelled from London to Milan by train almost every year of my life so f
 
 I like this town since I enjoy sledging there in the winter. When we stop over in the summer, I like to do big walks (you can actually walk back in to France!), cycling trips (you can rent bikes there), and going to the local swimming pool and lovely restaurants. 
 
+![image shows Davide sledging in the snow](/images/uploads/davide_sledging.jpg "Sledging in Bardonecchia")
+
 There is also a bus service which is completely free of charge, which takes you to many local villages, including to (and between) various cable cars and chairlifts which run in the Winter for skiing and in the Summer, for those wanting to go on long walks.
 
 #### On the Eurostar I really like going at speed through the rural areas of France, Belgium and the UK.
@@ -53,6 +55,8 @@ This is because the planes use loads of fuel every day, and by the time you arri
 #### It might be better to take the daytime trains from Milan to Paris.
 
 The sleeper trains often have border checks in Switzerland at about 3 AM local time but that doesn’t mean I wouldn’t recommend it. I would have a good night’s sleep anyway on the sleeper, but it means you don’t get to see as much scenery. 
+
+![Davide and his sister are on the sleeper train](/images/uploads/davide_on_sleeper_train.jpg "Awake on the sleeper train")
 
 #### An advantage of travelling by rail around Europe is that there are excellent options to get around European countries.
 
