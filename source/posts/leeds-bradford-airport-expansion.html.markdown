@@ -10,7 +10,7 @@ summary: Campaigning against Leeds Bradford expansion, GALBA has been getting
 author: FlightFree UK
 read_time_minute: 3
 ---
-Up and down the UK, airports have been honing their expansion plans. Leeds Bradford Airport has submitted a planning application that would lead to it expanding from 4 million to 7 million passengers a year. That’s just one of [at least 21 UK airports that have expansion plans in the pipeline](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal). 
+## Up and down the UK, airports have been honing their expansion plans. Leeds Bradford Airport has submitted a planning application that would lead to it expanding from 4 million to 7 million passengers a year. That’s just one of [at least 21 UK airports that have expansion plans in the pipeline](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal). 
 
 Local airports don’t just meet existing demand, they drive new demand. They make flying more competitive, cheaper and more convenient. That’s fine if you think more flying is a good thing. But the UK has already set legally binding targets to reduce CO2 emissions to net zero, and passenger aviation makes up about 8% of the UK’s emissions.
 
