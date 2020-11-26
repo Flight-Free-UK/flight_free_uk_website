@@ -1,6 +1,6 @@
 ---
 published: true
-title: A flight free family
+title: A young love of train travel
 category: travel
 date: 2020-11-26T10:23:01.365Z
 cover_image: /images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg
@@ -11,8 +11,6 @@ author: FlightFree UK
 read_time_minute: 4
 ---
 ![train pulling into platform in station](/images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg "Cover photo credit: Vitor Pinto on Unsplash")
-
-## A family's love of train travel
 
 Germana and her son Davide write the No Fly Europe blog, documenting their travels by train around the continent.
 
