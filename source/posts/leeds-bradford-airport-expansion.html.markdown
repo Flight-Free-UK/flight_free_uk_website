@@ -1,6 +1,6 @@
 ---
 published: true
-title: Leeds Bradford Airport Expansion
+title: What's wrong with Leeds Bradford airport expansion?
 category: climate
 date: 2020-11-26T11:56:49.664Z
 cover_image: /images/uploads/galba-airport-expansion-ken-yam-rsybi_1fhfm-unsplash.jpg
