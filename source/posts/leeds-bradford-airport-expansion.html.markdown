@@ -20,23 +20,18 @@ There’s some confusion over the role of airports in greenhouse gas emissions, 
 
 GALBA (Group for Action on Leeds Bradford Airport) is campaigning against Leeds Bradford expansion, and has been getting into the nitty of the legal position with regards to emissions. It’s not simple. 
 
-Leeds City Council has been given legal advice by their planning officers that:
-
-    “Councillors should not take into account the climate impact of GHG (greenhouse gas) emissions from domestic and international flights – only GHG emissions from LBA’s ground operations.”
+Leeds City Council has been given legal advice by their planning officers that:\
+“Councillors should not take into account the climate impact of GHG (greenhouse gas) emissions from domestic and international flights – only GHG emissions from LBA’s ground operations.”
 
 > "The argument is that domestic flight GHG emissions are covered by UK carbon budgets, and international flight GHG emissions are covered by the UN’s CORSIA offsetting scheme. So if councillors were to take GHG emissions from flights into account in their decision, they would effectively be ‘double counting’ them".
 
 Is this really the case? GALBA’s barrister thinks not: 
 
-    “It would be unlawful for the Plans Panel to ignore the climate change impact of the proposal, or to assume that the impact can be accommodated (for example, by assuming that national carbon budgets can absorb any extra emissions; or by assuming any international carbon reduction schemes will reduce or neutralise extra emissions). If the Panel made these assumptions, it would be doing the opposite of what the EIA Regulations (environmental impact assessment regulations) require.”
+“It would be unlawful for the Plans Panel to ignore the climate change impact of the proposal, or to assume that the impact can be accommodated (for example, by assuming that national carbon budgets can absorb any extra emissions; or by assuming any international carbon reduction schemes will reduce or neutralise extra emissions). If the Panel made these assumptions, it would be doing the opposite of what the EIA Regulations (environmental impact assessment regulations) require.”
 
 It’s convenient for the airport to ignore emissions from the flights themselves, and it does make sense if those emissions will genuinely be counted elsewhere. But the advice to GALBA continues with this:
 
-    “The EIA Regulations require all climate impacts to be taken into account.” 
-
-and 
-
-    “The Panel cannot simply assume that the existence of the UK carbon budgets and CORSIA will mitigate the GHG emissions or the warming impact of contrails.”
+“The EIA Regulations require all climate impacts to be taken into account.” and “The Panel cannot simply assume that the existence of the UK carbon budgets and CORSIA will mitigate the GHG emissions or the warming impact of contrails.”
 
 > "There are two big problems with assuming the emissions from flights will be taken care of by national and international arrangements". 
 
