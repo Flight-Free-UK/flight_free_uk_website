@@ -40,5 +40,3 @@ But what would happen if the price increased? It would make flying less competit
 So is it really flying that we demand? We demand good times with our families and friends. We demand memorable occasions. We demand access to work and education. We have to figure out how we can have all of those things, and also demand a safe and peaceful future, and a good life for our children and grandchildren too.
 
 ![group of 4 friends in a line with arms around each other facing away looking at the sun](/images/uploads/demand-for-travel-helena-lopes-pgnqt0rxwls-unsplash.jpg "Photo credit: Photo by Helena Lopes on Unsplash")
-
-Cover photo credit: [Matheus Ferrero](https://unsplash.com/@matheusferrero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/friends-group?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
