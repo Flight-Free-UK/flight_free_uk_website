@@ -3,13 +3,15 @@ published: true
 title: What's wrong with airport expansion?
 category: climate
 date: 2020-11-12T21:06:16.324Z
-cover_image: /images/uploads/galba-airport-expansion-ken-yam-rsybi_1fhfm-unsplash.jpg
+cover_image: /images/uploads/galba_banner_young_people.jpg
 summary: In the campaign against Leeds Bradford expansion, GALBA has been
   getting into the complex legal arguments on what expansion would mean with
   regards to emissions
 author: FlightFree UK
 read_time_minute: 3
 ---
+![Four teenagers hold a sign saying "No to Leeds Bradford expansion"](/images/uploads/galba_banner_young_people.jpg "GALBA members protest airport expansion")
+
 ### Up and down the UK, airports have been honing their expansion plans.
 
 Leeds Bradford Airport has submitted a planning application that would lead to it expanding from 4 million to 7 million passengers a year. That’s just one of [at least 21 UK airports that have expansion plans in the pipeline](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal).
@@ -18,11 +20,11 @@ Local airports don’t just meet existing demand, they drive new demand. They ma
 
 > "The UK has already set legally binding targets to reduce CO2 emissions to net zero, and passenger aviation makes up about 8% of the UK’s emissions."
 
-![static plane on runway during sunset](/images/uploads/galba-airport-expansion-ken-yam-rsybi_1fhfm-unsplash.jpg "Cover photo credit: Photo by Ken Yam on Unsplash")
-
 There’s some confusion over the role of airports in greenhouse gas emissions, because most of the emissions come not from the airport itself but from the flights that take off and land there. 
 
 Airports might include plans for a more sustainable terminal building, or talk about shortening the journey to the airport, while ignoring the emissions from the flights themselves. In the case of Leeds Bradford Airport, [a group of climate scientists has estimated that, by 2030, the airport will reduce emissions from its terminal by 7,000 tonnes of CO2 equivalent, while increasing emissions from flights by 500,000 tonnes](https://twitter.com/PaulChatterton9/status/1285566841230954497?s=20). 
+
+![Chart states that the greenhouse gases from Leeds Bradford airport exceed Leeds council targets for emissions reduction](/images/uploads/carbon_budget_leedsbradford.jpg)
 
 [GALBA](https://www.galba.uk) (Group for Action on Leeds Bradford Airport) is campaigning against Leeds Bradford expansion, and has been getting into the nitty of the legal position with regards to emissions.
 
@@ -60,7 +62,7 @@ But climate change is not distant and formless any more. Extreme weather and sea
 
 When it comes to the legal arguments, both parties are as convincing as the other (maybe that's why lawyers get paid so much!). 
 
-### But it's undeniable that the UK’s target of net zero by 2050 will be very difficult to achieve, even if everyone does all they can. 
+### But it's undeniable that the UK’s target of net zero by 2050 will be very difficult to achieve, even if everyone does all they can.
 
 And if local councils are vying with each other to make sure their local airport takes the biggest possible chunk of any remaining carbon budget, achieving net zero will be impossible. 
 
