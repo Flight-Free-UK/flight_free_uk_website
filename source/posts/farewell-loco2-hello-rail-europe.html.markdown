@@ -3,13 +3,13 @@ published: true
 title: Farewell Loco2, hello Rail Europe
 category: opinion
 date: 2019-11-05T08:32:50.607Z
-cover_image: /images/uploads/loco2.png
+cover_image: /images/uploads/loco2.jpeg
 summary: Jamie Andrews, co-founder of train booking website Loco2, shares the
   story of the company and looks forward to a low-carbon future
 author: FlightFree UK
 read_time_minute: 5
 ---
-![Picture shows a red and white train travelling along a track next to a lake in a wide andlush valley. There are mountain peaks in the background and the sky is blue with large fluffy clouds. ](/images/uploads/loco2.png)
+![Picture shows a red and white train travelling along a track next to a lake in a wide andlush valley. There are mountain peaks in the background and the sky is blue with large fluffy clouds. ](/images/uploads/loco2.jpeg)
 
 ### It was back in 2006 that my sister Kate had the idea to create a low carbon travel company. 
 

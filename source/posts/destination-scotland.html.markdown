@@ -55,7 +55,7 @@ One of the best things about living in Europe is how easy it is to travel like t
 
 *[Claire Stocks](https://beethechangeblog.co.uk/) is a writer and environmental activist.*
 
-![Picture shows a person cycling along a narrow road next to a white sandy estuary. In the distance is a small white house with a red roof and low rolling green hills. ](/images/uploads/claire1.png "Cycling towards Traigh Mhor, where a tiny plane lands once a day on Barra’s beach runway, the only one in the world")
+![Picture shows a person cycling along a narrow road next to a white sandy estuary. In the distance is a small white house with a red roof and low rolling green hills. ](/images/uploads/claire1.jpg "Cycling towards Traigh Mhor, where a tiny plane lands once a day on Barra’s beach runway, the only one in the world")
 
 ### Kate Bullock, driving around Easter Ross and Wester Ross
 
@@ -67,7 +67,7 @@ The east coast of Scotland is often overlooked in favour of the more dramatic, m
 
 > "The east coast of Scotland is often overlooked in favour of the dramatic, mountainous west coast, but it is just as stunning with its acres of golden sandy beaches and wide open river mouths."
 
-![Picture shows Kate in a wide golden-sanded beach with the tide way out. There are smooth rocks surrounding her and clouds in the distance. ](/images/uploads/embo.png "Embo beach")
+![Picture shows Kate in a wide golden-sanded beach with the tide way out. There are smooth rocks surrounding her and clouds in the distance. ](/images/uploads/embo.jpeg "Embo beach")
 
 We visited the [Dornoch](https://www.dornochcastlehotel.com/) and [Dunrobin](http://www.dunrobincastle.co.uk/) castles, the former of which is now a hotel. Dunrobin is an impressive building with fairytale turrets and is best viewed across Loch Fleet. It is the home of the Sutherland family from whom my husband is descended.
 

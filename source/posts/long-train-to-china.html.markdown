@@ -3,13 +3,13 @@ published: true
 title: Long Train to China
 category: travel
 date: 2019-04-11T15:06:31.352Z
-cover_image: /images/uploads/long-train-to-china.png
+cover_image: /images/uploads/long-train-to-china.jpeg
 summary: Research fellow Roger Tyers shares his plans for an upcoming no-fly
   field trip to China, and explains the importance of leading by example
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/long-train-to-china.png "The long train to China: multiple weeks, connections, countries and visas")
+![](/images/uploads/long-train-to-china.jpeg "The long train to China: multiple weeks, connections, countries and visas")
 
 ## I've decided to give up flying, for 2019, for 2020, and who knows… maybe forever.
 
