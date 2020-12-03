@@ -3,55 +3,59 @@ published: true
 title: Let's not fly the plane!
 category: climate
 date: 2019-04-25T15:01:03.846Z
-cover_image: /images/uploads/screen-shot-2019-10-22-at-10.02.38.png
+cover_image: /images/uploads/disney-song.jpg
 summary: Flight Free UK teams up with Disney for some lyrical fun
 author: FlightFree UK
 read_time_minute: 1
 ---
-After our attempted flashmob at Stansted Airport was thwarted (apparently they don't take kindly to singing in the airport terminal) we took to the far less lofty setting of Sarah's Back Garden and recorded the song anyway. Not quite as slick but just as silly!
+![](/images/uploads/disney-song.jpg)
 
-_With climate change happ'ning so fast,_ 
+On April 19th 2019 we attempted a flashmob at Stansted Airport. However, they don't take kindly to singing in the airport terminal and we were asked quite promptly to leave. Not to be outdone, we took to the far less lofty setting of Sarah's Back Garden and recorded the song anyway. Not quite as slick but just as silly!
 
-_You all might very well ask:_ 
+Go to our [Facebook videos page](https://www.facebook.com/flightfreeUK/videos/) to watch the video of us singing "Let's not fly the plane!" to the tune of "Let's go fly a kite" from Mary Poppins. 
 
-_'Oh what can I do? There's no cure in sight!'_ 
+### Let's Not Fly the Plane lyrics
 
-_But have you ever thought of not taking that flight?_  
+*With climate change happ'ning so fast,*
 
-__
+*You all might very well ask:* 
 
-_Let's not fly the plane up in the air again!_ 
+*'Oh what can I do? There's no cure in sight!'* 
 
-_Let's not fly the plane or send it soaring_ 
+*But have you ever thought of not taking that flight?*  
 
-_Up! It's so damaging!_ 
+(oh, oh, oh)
 
-_Up! It's the darnedest thing!_ 
+*Let's not fly the plane up in the air again!* 
 
-_Oh, let's not fly the plane._  
+*Let's not fly the plane or send it soaring* 
 
-__
+*Up! It's so damaging!* 
 
-_When you send it flying up there_ 
+*Up! It's the darnedest thing!* 
 
-_All it does is pollute the air,_ 
-
-_With our climate so fragile we need to fight_ 
-
-_With our endless desire to take all of these flights._  
+*Oh, let's not fly the plane.*  
 
 __
 
-_Let's not take that flight up to the highest height!_ 
+*When you send it flying up there* 
 
-_Let's not take that flight, just heed the warning,_ 
+*All it does is pollute the air,* 
 
-_Up goes the CO2!_  
+*With our climate so fragile we need to fight* 
 
-_Up, yes it's up to you_ 
+*With our endless desire to take all of these flights.*  
 
-_To say 'No!' to the flight!_
+(oh, oh, oh)
 
+*Let's not take that flight up to the highest height!* 
 
+*Let's not take that flight, just heed the warning,* 
 
-Watch the video here: [https://youtu.be/8Mpg6Bzz73Y](https://www.youtube.com/watch?v=8Mpg6Bzz73Y&feature=youtu.be)__
+*Up goes the CO2!*  
+
+*Up, yes it's up to you* 
+
+*To say 'No!' to the flight!*
+
+Watch the video [here.](https://www.facebook.com/flightfreeUK/videos/)

@@ -14,29 +14,17 @@ title: FlightFree UK
         <div class="w-full lg:w-5/6">
 
 <%# start pledge progress bar %>
-
-<div class="pledge-progress font-body bg-white text-blue-dark">
-<iframe
-    title="Flight Free pledge form 2021 progress bar"
-    id="flightfreeuk-progress"
-    width="100%"
-    height="54"
-    src="https://flightfree.exigo.se/uk/ukprogress.php"
-    class="h-54 lg:h-54">
-</iframe>
-</div>
-<%# https://test.exigo.se/ukprogress.php %>
-<%# http://expertselfcare.com.local/progress.html %>
+        <%= partial "progress_bar" %>
 <%# end progress bar %>
 
         </div>
-        <div class="hidden lg:inline-block lg:w-1/6"><p class="text-3xl leading-tight pl-3 py-1">10k</p></div>
+        <div class="hidden lg:inline-block lg:w-1/6"><p class="text-xl leading-tight pl-3 py-2">5k</p></div>
         </div>
 
-        <p class="text-2xl lg:text-4xl mb-4 lg:mb-16">Help us reach 10,000!</p>
+        <p class="text-2xl lg:text-4xl mb-4 lg:mb-16">Help us reach 5000!</p>
 
         <div class="flex flex-wrap justify-center lg:justify-start xl:justify-between items-center w-full xl:w-5/6 mb-2 xl:mb-8">
-          <h2 class="text-2xl lg:text-3xl xl:text-4xl mr-4">#flightfree2021</h2>
+          <h2 class="text-2xl lg:text-3xl xl:text-4xl mr-4">#FlightFree2021</h2>
           <div class="flex xs:justify-center lg:justify-start">
             <%= link_to "", "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 mr-2 sm:mr-4 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/twitter.svg);background-size:60%", target: "_blank" %>
             <a href="https://instagram.com/<%= data.social_media.instagram %>" class="w-12 h-12 xl:w-16 xl:h-16 mr-2 sm:mr-4 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(/images/instagram.png);background-size:60%" target="_blank"></a>
@@ -45,7 +33,11 @@ title: FlightFree UK
         </div>
       </div>
       <div class="w-full sm:w-1/2 lg:w-1/3 mx-auto xl:w-1/3 xl:mx-0">
+
+<%# start pledge form %>
         <%= partial "pledge_form", locals: { id: "home" } %>
+<%# end pledge form %>
+
       </div>
     </section>
   </div>

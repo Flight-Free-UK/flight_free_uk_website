@@ -11,7 +11,7 @@ read_time_minute: 4
 ---
 Sue Hampton has more than 30 books to her name, and is currently publishing new novella '*For Life*' in weekly instalments on [her website](https://www.suehamptonauthor.co.uk/). Her works are for both children and adults, and incorporate well-developed characters with a social and environmental narrative. Sue is a trustee for People not Borders, supporting refugees, and an activist with Campaign Against the Arms Trade. She is also an ambassador for Alopecia UK.
 
-![Picture of Sue Hampton, she's wearing pink and blue earrings and a white lace top. She is smiling and sat in front of a blurred white background. ](/images/uploads/sue.jpg "Credit: Mikaela Morgan photography")
+![Picture of Sue Hampton, she's wearing pink and blue earrings and a white lace top. She is smiling and sat in front of a blurred white background. ](/images/uploads/sue-small-pic-.jpeg "Credit: Mikaela Morgan photography")
 
 ### **Tell us a bit about your past travel habits.**
 
@@ -19,7 +19,11 @@ Because my parents never flew (or drove) I didn’t fly until I began working as
 
 ### **So when did you make the decision to stop flying? What led to that decision?**
 
-By the time I met my second husband in 06 I’d recognised the damage flying does – not just theoretically but emotionally, personally. My brother [Dave Hampton](http://www.carboncoach.com/) was by that point the Carbon Coach and he’d been an environmentalist all his adult life so it’s extraordinary that I lived so long in denial of what I knew to be true. I had been a Green Party member for years but my excuse was that for many years I’d been working an 80 hour week as a teacher and had no time to look beyond my children at home and school. I think many people are in the same sort of situation, shutting out the truth because it makes demands they feel they can’t meet. Giving up teaching to write for a living freed me to think about the world around me. My final flight was to Florence, the one place I’d always longed to go, and on to Positano. I still had a lot of awakening ahead of me. 
+By the time I met my second husband in '06 I’d recognised the damage flying does – not just theoretically but emotionally, personally. My brother [Dave Hampton](http://www.carboncoach.com/) was by that point the Carbon Coach and he’d been an environmentalist all his adult life so it’s extraordinary that I lived so long in denial of what I knew to be true. I had been a Green Party member for years but my excuse was that for many years I’d been working an 80 hour week as a teacher and had no time to look beyond my children at home and school. I think many people are in the same sort of situation, shutting out the truth because it makes demands they feel they can’t meet.
+
+> "It's extraordinary I lived so long in denial of what I knew to be true."
+
+ Giving up teaching to write for a living freed me to think about the world around me. My final flight was to Florence, the one place I’d always longed to go, and on to Positano. I still had a lot of awakening ahead of me. 
 
 ### **Do you still travel, and if so, how do you get around?**
 
@@ -30,6 +34,8 @@ We mostly holiday in the UK and are going to Glasgow on the train in March. We�
 Even when I wrote my children’s novel *The Waterhouse Girl* in 01 (it wasn’t published until 09) I made my heroine an eco-activist. In the sequel *Crazy Daise* she’s sixteen and campaigning for Ecocide Law. In the dystopian YA novel *Start,* Venice goes down. I also thought I’d ask Magic Oxygen to make *The Biggest Splash* a pay-as-you-feel e-book on my website because the subject felt so urgent; it’s about climate activism taken to the limit. And now I’m releasing a free novella for this Climate Emergency, chapter by chapter every Friday on my website. It’s called *For Life* and will end in time for the global Week of Rebellion when I will be on the streets again. 
 
 I used to see my writing as keyboard activism but in the last few years I’ve known that isn’t enough. When I spoke one Green Monday at the fracking site at Preston New Road I found myself saying that there’s no longer any other subject to write about. That led to this current project. But fiction MUST be led by character if the readers are going to care, and my characters are always in control. So it can’t be a treatise. What it can do, I hope, is involve readers emotionally. It’s an indirect way in to this biggest of all issues but it has to be a good story, and stories are powerful. They can change the way we see the world and others in it. They can change who we are. 
+
+> "Stories are powerful. They can change the way we see the world and others in it. They can change who we are." 
 
 And YES, I think that public awareness of the climate crisis has grown enormously since last Oct/Nov when Greta Thunberg, who’s vegan and doesn’t fly of course, began her climate strike and the IPCC report followed. When she spoke to Davos, she was the only speaker who didn’t fly there. Now the kids’ climate strike has actually made the news. I think this year will be the turning point as more and more people not only change the way they live but demand radical change from governments. I am – sometimes – hopeful. 
 

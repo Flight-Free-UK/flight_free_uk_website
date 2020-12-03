@@ -10,7 +10,7 @@ summary: The citizens speak! The Climate Assembly UK has published its report,
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/climateassemblyuk.png)
+![Picture shows three people on a panel with an audience watching. Behind them is a background saying "Climate Assembly UK: The Path to Net Zero". ](/images/uploads/climateassemblyuk.png)
 
 ## What’s a Climate Assembly? Is that like a citizens’ jury?
 
@@ -60,4 +60,4 @@ The report confirms what we already know – the British love flying, and while 
 
 Most of the Assembly’s meetings took place before the coronavirus pandemic took hold, and some members did say towards the end of the process that the pandemic might have changed people’s flying habits for good. And they also strongly backed the principle of a green recovery, saying that any investment in high carbon industries should be limited or have conditions attached.
 
-Thank you, fellow citizens, for your work!
+#### Thank you, fellow citizens, for your work!

@@ -10,7 +10,11 @@ summary: The coronavirus outbreak has caused an unprecedented drop in demand for
 author: FlightFree UK
 read_time_minute: 3
 ---
-In September 2019 the UK’s Committee on Climate Change wrote to the government with advice on how aviation can reach net zero by 2050. Part of the report focussed on demand, with the net zero scenario assuming 25% growth – too high according to some campaigners, but still much lower than the 70% growth that the [UK aviation industry is pushing for](https://www.sustainableaviation.co.uk/news/uk-aviation-commits-to-net-zero-carbon-emissions-by-2050/).
+![Picture shows the outside of Number 10 Downing Street](/images/uploads/downing-street.jpg)
+
+### In September 2019 the UK’s Committee on Climate Change wrote to the government with advice on how aviation can reach net zero by 2050.
+
+ Part of the report focussed on demand, with the net zero scenario assuming 25% growth – too high according to some campaigners, but still much lower than the 70% growth that the [UK aviation industry is pushing for](https://www.sustainableaviation.co.uk/news/uk-aviation-commits-to-net-zero-carbon-emissions-by-2050/).
 
 Achieving net zero greenhouse gas emissions by 2050 is a legally-binding target. Here are our top policies for a UK government to adopt, to help get a grip on emissions from aviation.
 
@@ -46,4 +50,4 @@ While ‘stick’ measures such as these can lead to behaviour change, they shou
 
 The Committee on Climate Change says that if, instead of 25% growth, the UK could keep demand to 2018 levels, it would save 8 million tonnes of CO2 equivalent by 2050. It says that it will take a change in consumer preference or social norms to achieve this, which is where campaigns like Flight Free UK come in. 
 
-Government policy and individual action are not mutually exclusive. It will take both to get aviation's net emissions to zero by 2050.
+#### Government policy and individual action are not mutually exclusive. It will take both to get aviation's net emissions to zero by 2050.

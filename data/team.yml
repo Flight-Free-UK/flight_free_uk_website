@@ -15,6 +15,21 @@ members:
       travel, especially when moving between her London home and family in
       France.
     photo: /images/uploads/armelle.jpeg
+  - name: "Gemma Pike "
+    role: "Graphics and Design "
+    bio: Gemma has always been passionate about the environment and striving to
+      reduce her carbon footprint. She has in the past volunteered with the
+      Eastern Region Green Party and is active at her workplace trying embed
+      sustainability. Gemma is passionate about the Flight Free UK campaign and
+      wants to help spread the word by helping with infographics and design.
+    photo: /images/uploads/gemma-headshot.jpg
+  - name: "Hannah Oliver "
+    bio: BSc Geography graduate Hannah is committed to encouraging others to make
+      sustainable life choices because of the urgency of the climate crisis. As
+      someone who has always holidayed in the UK she is really keen to show what
+      lovely destinations we have on our doorstep.
+    role: "Social Media "
+    photo: /images/uploads/hannah-headshot.png
   - name: Kirsty Moyse
     role: Podcast
     bio: Kirsty is a committed environmentalist, currently living in a house in
@@ -22,7 +37,7 @@ members:
       conventional structures at protest camps, off-grid communities and land
       occupations. She is now focusing on using the medium of audio for campaign
       work with Flight Free UK.
-    photo: /images/uploads/kirsty.jpg
+    photo: /images/uploads/kirsty-headshot.png
   - name: Luke Rose
     role: Sound and visual media
     bio: Studying for an MSc in Sustainability and Ecology at the Centre for
@@ -38,6 +53,13 @@ members:
     name: Maggie Robertson
     photo: /images/uploads/maggie-and-family-2019.jpg
     role: Blog
+  - name: "Rachel Millar "
+    bio: Rachel is a documentary producer who lives and works in Bristol. She is a
+      keen cyclist and loves nature and being outdoors.  She has two young
+      children and is passionate about protecting the environment for future
+      generations so that they can enjoy the natural world as she has.
+    role: "Podcast "
+    photo: /images/uploads/rachel-headshot-.jpg
   - photo: /images/uploads/ruby.jpg
     name: Ruby Puckering
     role: Admin
@@ -45,3 +67,20 @@ members:
       and Development. Through this she realised the damage the airline industry
       inflicts on the environment. With experience assisting research in
       sustainable transport, Ruby helps with admin for Flight Free UK.
+  - name: Sunita Soundur
+    role: Admin
+    bio: "Engaged with many environmental and social justice issues, Sunita
+      frequently writes about sustainable living and is committed to developing
+      conversations on climate change and responsible consumerism. Having joined
+      the team in 2020, she is keen to propel the #flightfree2021 campaign, and
+      supports with admin and blog content."
+    photo: /images/uploads/head-shot-final.jpg
+  - bio: Based near Manchester, Tom has experience in several behaviour change
+      projects, from recycling to air pollution. With a family history in the
+      aviation industry he is a passionate advocate of a fair transition towards
+      a sustainable transport infrastructure. Tom hopes he can put his graphic
+      design and GIS skills to good use helping with Flight Free UK’s visual
+      communications.
+    name: "Tom Keyes "
+    role: "Graphics and Design "
+    photo: /images/uploads/tom-headshot-.jpg

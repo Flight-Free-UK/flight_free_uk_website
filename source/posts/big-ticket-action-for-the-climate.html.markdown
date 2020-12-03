@@ -9,15 +9,19 @@ summary: Dave Hampton, the Carbon Coach, has been banging the climate drum for
 author: FlightFree UK
 read_time_minute: 3
 ---
-> ***‘You won’t get people to stop flying, Dave.'***
+> ***"You won’t get people to stop flying, Dave."***
 
-People have been telling me this for 20 years. The popular lists of ‘big ticket’ things we can do for the planet – go plastic free, buy fewer clothes, eat vegan, switch to an electric car, buy less stuff, recycle everything, use renewable energy – nearly always miss cutting back on travel off the list.
+## People have been telling me this for 20 years. 
+
+The popular lists of ‘big ticket’ things we can do for the planet – go plastic free, buy fewer clothes, eat vegan, switch to an electric car, buy less stuff, recycle everything, use renewable energy – nearly always miss cutting back on travel off the list.
 
 Why do we avoid mention of this biggest chunk of our carbon footprints? It’s common for people to say: I recycle, I don’t buy fast fashion, I don’t eat meat. So please don’t ask me to fly less.
 
 Unlike far-flung exotic destinations, we don’t want to ‘go there’. Just like greenhouse gases are invisible, the jumbo-sized impacts from flying are concealed by the entire travel industry, and remain largely unspoken by most of us***. Most people assume that flying must be relatively OK,*** otherwise more people would obviously all be querying it. So, thrown off the kerosene scent, we focus on the other things, and carry on flying.
 
 Over the past couple of decades I’ve felt very isolated in the pledge I made not to fly. In the past I would play it down, saying that I didn’t actually much like flying, and that I didn’t really much want to fly anyway. It was partially true, and partially untrue. How could an engineer and former competitive athlete not like flying?
+
+> "Over the past couple of decades I’ve felt very isolated in the pledge I made not to fly."
 
 The thrill of take-off, the transcendence through cloud, the view – what’s not to like? And how could anyone not want to see the wonders of the world? To witness different climates, tribes, landscapes, forests, rivers and mountains?
 
@@ -39,4 +43,4 @@ Because of course, we ***can*** stop flying. The coronavirus grounded 80% of fle
 
 ***"Just like we did with plastic, and meat: it all seems so obvious, now it's done!"***
 
-![](/images/uploads/dave-at-marlow-fm.jpg "Dave presenting his regular show, 'Watt Next: All Things Being Eco', on Marlow FM")
+![Picture shows Dave holding a piece of paper with the Flight Free 2020 pledge on it. He is sitting in a recording booth for his radio show and smiling. ](/images/uploads/dave-at-marlow-fm.jpg "Dave presenting his regular show, 'Watt Next: All Things Being Eco', on Marlow FM")

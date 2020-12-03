@@ -14,11 +14,15 @@ read_time_minute: 2
 ---
 ![Two women sit at a bar, each drinking a coffee. They are turned towards each other and talking. One of them has a surprised facial expression and is about to eat a biscuit. ](/images/uploads/tips-on-awkward-topic-.jpg)
 
-## **Make it personal** 
+## **Make it personal**
 
-People relate to personal stories and are likely to be engaged by your passion for the subject, rather than gloomy climate forecasts or scary statistics. Talk about why not flying, or flying less, is important to you. Tell a story about a flight-free holiday you have had. 
+People relate to personal stories and are likely to be engaged by your passion for the subject, rather than gloomy climate forecasts or scary statistics. Talk about why not flying, or flying less, is important to you.
 
-- - -
+> "Talk about why not flying, or flying less, is important to you."
+
+ Tell a story about a flight-free holiday you have had. 
+
+
 
 ## **Keep it positive**
 

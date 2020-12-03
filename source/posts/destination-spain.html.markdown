@@ -9,7 +9,9 @@ summary: Our 'Destinations' series takes a look at the nation's favourite
 author: FlightFree UK
 read_time_minute: 3
 ---
-Spain is a wonderfully varied country ranging from verdant, rolling hills and mountainous natural parks to flat plains and exquisite beaches. There’s rich architecture, world-renowned food and easy-going locals, and a temperate climate year-round. No wonder it’s so popular with us Brits. Spain is easily accessible overland from the UK – great news for those taking a flight-free year. Here’s our advice on where to go in Spain and how to get there.
+### Spain is a wonderfully varied country ranging from verdant, rolling hills and mountainous natural parks to flat plains and exquisite beaches. 
+
+There’s rich architecture, world-renowned food and easy-going locals, and a temperate climate year-round. No wonder it’s so popular with us Brits. Spain is easily accessible overland from the UK – great news for those taking a flight-free year. Here’s our advice on where to go in Spain and how to get there.
 
 ![](/images/uploads/SanSebastian.jpeg "San Sebastian. Image credit: Tim McKenna")
 

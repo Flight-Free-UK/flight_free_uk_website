@@ -9,9 +9,11 @@ summary: Bonny Scotland is bursting with treasures, and being right on our
 author: FlightFree UK
 read_time_minute: 7
 ---
-From the city life of Edinburgh, Glasgow and Aberdeen to Ben Nevis and the wildness of the Highlands, Scotland’s riches are begging to be explored. The country is famous for its spectacular landscapes of lochs, glens, mountains and dramatic sea cliffs, with the west coast in particular offering a unique desolate beauty. For wildlife enthusiasts, there’s no better place to spot birds, seals, porpoises and dolphins, and perhaps even a killer whale or basking shark. Travelling to Scotland without flying is simple, and an experience in itself, with slow travel offering time to soak up the country’s breathtaking scenery en route. It’s also easy to get around once you’ve arrived, whether you’re travelling by car, bicycle or public transport, or using the extensive network of ferries which are an invigorating way to explore the hundreds of offshore islands. Here are five accounts detailing just a glimpse of what Scotland has to offer.
+## From the city life of Edinburgh, Glasgow and Aberdeen to Ben Nevis and the wildness of the Highlands, Scotland’s riches are begging to be explored.
 
-#### **Jane Cullum, by public transport around Scotland**
+ The country is famous for its spectacular landscapes of lochs, glens, mountains and dramatic sea cliffs, with the west coast in particular offering a unique desolate beauty. For wildlife enthusiasts, there’s no better place to spot birds, seals, porpoises and dolphins, and perhaps even a killer whale or basking shark. Travelling to Scotland without flying is simple, and an experience in itself, with slow travel offering time to soak up the country’s breathtaking scenery en route. It’s also easy to get around once you’ve arrived, whether you’re travelling by car, bicycle or public transport, or using the extensive network of ferries which are an invigorating way to explore the hundreds of offshore islands. Here are five accounts detailing just a glimpse of what Scotland has to offer.
+
+### **Jane Cullum, by public transport around Scotland**
 
 Travelling around Scotland by rail, bus and ferry is easy and inexpensive. It’s best to book bus/coach tickets in advance, especially in the high season, and definitely ask the local people for advice on places to visit.
 
@@ -21,9 +23,11 @@ From Inverness I took the [Kyle Line](https://www.scotrail.co.uk/scotland-by-rai
 
 From the Kyle of Lochalsh you can get a coach across to Skye (buy a [ticket](https://www.citylink.co.uk/) in advance as coaches can get booked up quickly). Local buses go around the top part of the island – for timetables, visit the tourist information office in Portree. You can also get a day ticket to hop on and off and visit some of the main landmarks like the [Old Man of Storr](https://www.isleofskye.com/skye-guide/top-ten-skye-walks/old-man-of-storr).
 
-![](/images/uploads/portree.jpg "Portree harbour. Image credit: skyetravels.com")
+![Picture shows Portree harbour. It is a small bay with little fishing boats dotted around the water. The houses along the harbour edge are colourfully painted, with pinks, greens and blues. There is greenery behind the housed and the sky is moody and cloudy, although some blue sky is peaking through. ](/images/uploads/portree.jpg "Portree harbour. Image credit: skyetravels.com")
 
 In the sheltered south of Skye, the landscape changes from the dramatic black and red Cuillins to more gentle, rolling hills. I took the bus from Portree to Isleornsay where I had lunch in the excellent traditional An Praban bar, part of the hotel [Eilean Iarmain](http://eileaniarmain.co.uk/). The hotel sits on the shore of a natural harbour with beautiful views across the Sound of Sleat to the mountains of the mainland.
+
+> "In the sheltered south of Skye, the landscape changes from the dramatic black and red Cuillins to more gentle, rolling hills."
 
 From Armadale in the south of Skye I caught the ferry to Mallaig, then the train across to Fort William. The line from Mallaig to Fort William is the most stunning train journey I’ve ever been on, with mist-covered mountains, high waterfalls, lochs, and a crossing of the famous Glenfinnan viaduct (tip: the normal diesel train costs much less than the touristy Harry Potter one and you see exactly the same scenery!). From Fort William I took the bus to Oban, which is well worth a visit, especially for the [Oban Chocolate Company](https://obanchocolate.co.uk/) on the seafront which has big squashy sofas and really excellent hot chocolate. From Oban, you can travel with [CalMac](https://www.calmac.co.uk/) ferries across to Mull, Iona and the islands beyond, which I plan to do on a future trip. I just had time for a short day trip across to Lismore Island which is a peaceful antidote to the traffic and busyness of the town.
 
@@ -31,13 +35,15 @@ Travelling by local transport is by far the loveliest way to travel. You get to 
 
 *\*Calum's boat, the Sula Mhor, was wrecked in the February storms earlier this year. He's currently looking for a new one so keep an eye on his Facebook page, '[Calum's Seal & Dolphin Trips](https://www.facebook.com/Calums-Seal-Dolphin-Trips-199275906780596/)', or [website](https://calums-sealtrips.com/) for updates.*
 
-#### **Claire Stocks, cycling in the Outer Hebrides**
+### **Claire Stocks, cycling in the Outer Hebrides**
 
 There is nothing more exciting than starting a trip right from your front door – no taxi to the airport, no boarding queues, no traffic jams or motorway monotony. Instead, just you and the open road, and everything you need on your back, or your bike rack.
 
 Despite being 70 miles out to sea, the Outer Hebrides are accessible without a car and are arguably more enjoyable and certainly cheaper without one (you can get a foot passenger island [hopper ticket](https://www.calmac.co.uk/island-hopping) for as little as £25). We took the train from Manchester to Oban, the ‘Gateway to the Western Isles’ and our gateway to the Hebridean Way. It's a cycling route that takes you along a chain of up to ten islands (often several in one day), from Barra in the south to Lewis in the north; 300km along some of the most stunning, tranquil and enjoyable cycling in the UK, possibly Europe. Only the last two isles, Harris & Lewis, are hilly, so if you’re blessed with a tailwind (the prevailing wind is south to north), it’s a breeze to pedal. We did the trip over nine days in June and took our time, with plenty of stops for coffee and cake and to explore areas we liked further.
 
-![](/images/uploads/claire2.jpg "The glide down from the Quiraing to Staffin, on Skye")
+> "There is nothing more exciting than starting a trip right from your front door – no taxi to the airport, no boarding queues, just you and the open road."
+
+![Picture shows a mountain-side road on the Isle of Skye. The terrain is green, rocky and marshy, and low fog is covering the peaks of the hills. There is a small body of water in the distance. ](/images/uploads/claire2.jpg "The glide down from the Quiraing to Staffin, on Skye")
 
 Each island is distinct in its own special way, from cute little Barra with its rocky coves, to super flat South Uist which is more water than land. But the peach has to be Harris – an unforgettable place, whichever route you choose. The eastern road twists and turns through a landscape of heathery rock outcrops past little sheltered lochans and hidden dells, where tiny white-washed hamlets and harbours nestle beneath the wind. The western road is a string of jaw-dropping beaches, with white sands and crystal clear seas, such as the world-famous [Luskentyre](https://www.visitscotland.com/info/towns-villages/luskentyre-sands-p724801). I recommend planning enough time to dawdle on both; include at least one night at [this](https://www.number5.biz) splendid hostel run by a former fisherman.
 
@@ -45,11 +51,13 @@ There were so many highlights from the islands: the wild otter sightings and the
 
 One of the best things about living in Europe is how easy it is to travel like this – we have a vast area accessible by train, making car-free holidays not only easy, but a joy.
 
+> "A great thing about living in Europe is how easy it is to travel like this – we have a vast area accessible by train, making car-free holidays a joy."
+
 *[Claire Stocks](https://beethechangeblog.co.uk/) is a writer and environmental activist.*
 
-![](/images/uploads/claire1.png "Cycling towards Traigh Mhor, where a tiny plane lands once a day on Barra’s beach runway, the only one in the world")
+![Picture shows a person cycling along a narrow road next to a white sandy estuary. In the distance is a small white house with a red roof and low rolling green hills. ](/images/uploads/claire1.png "Cycling towards Traigh Mhor, where a tiny plane lands once a day on Barra’s beach runway, the only one in the world")
 
-#### Kate Bullock, driving around Easter Ross and Wester Ross
+### Kate Bullock, driving around Easter Ross and Wester Ross
 
 My husband and I have been to Scotland several times, before and since we were married. I worked as an au pair on the Isle of Mull and Rupert's family had many holidays there. Since discovering Rupert's strong ancestral links to Scotland – his great-great-great grandfathers emigrated from Scotland to Jamaica – we've been more often.
 
@@ -57,7 +65,9 @@ We drove to Scotland in May 2019 to research my husband's ancestry and to visit 
 
 The east coast of Scotland is often overlooked in favour of the more dramatic, mountainous west coast, but the east coast is just as stunning with its acres of golden sandy beaches and wide open river mouths. These are excellent spots for wildlife; four ospreys flew over our heads at Embo beach, just north of Dornoch, and dozens of seals basked on sandbanks at low tide on Loch Fleet.
 
-![](/images/uploads/embo.png "Embo beach")
+> "The east coast of Scotland is often overlooked in favour of the dramatic, mountainous west coast, but it is just as stunning with its acres of golden sandy beaches and wide open river mouths."
+
+![Picture shows Kate in a wide golden-sanded beach with the tide way out. There are smooth rocks surrounding her and clouds in the distance. ](/images/uploads/embo.png "Embo beach")
 
 We visited the [Dornoch](https://www.dornochcastlehotel.com/) and [Dunrobin](http://www.dunrobincastle.co.uk/) castles, the former of which is now a hotel. Dunrobin is an impressive building with fairytale turrets and is best viewed across Loch Fleet. It is the home of the Sutherland family from whom my husband is descended.
 
@@ -67,13 +77,13 @@ The most amazing wildlife encounters in this part of Scotland were with cuckoos.
 
 In Mellon Udrigle on the west coast, the white sand beaches were virtually empty. Although the weather was wonderful, the sea was very cold so we put on our wetsuits. This was fortunate as we came across some friendly jellyfish! The scenery in this remote and quiet place really takes your breath away, with spectacular views of the mountains in the distance.
 
-![](/images/uploads/kate_swimming.jpg "Mellon Udrigle")
+![Kate stands in a wetsuit in the sea up to ankle height. She is wearing a bright yellow swimming cap and smiling. The sea looks clear and in the distance are craggy mountain tops out to sea. ](/images/uploads/kate_swimming.jpg "Mellon Udrigle")
 
 The last time we flew was 28 years ago when a friend paid for us to visit him in Seattle. I absolutely hated the 13-hour flight. It was only because I needed to return to my 3 children aged 4, 9 and 11 that I got back on the plane. I thought I would have to overcome my flying fears in order to properly travel again, but my husband started to read environmental books such as '[How We Can Save the Planet](https://www.amazon.co.uk/How-We-Can-Save-Planet/dp/0141016922)’ by Mayer Hillman and '[Six Degrees](https://www.amazon.com/Six-Degrees-Future-Hotter-Planet/dp/1426203853)’ by Mark Lynas, which also made me think. We decided that we need never use air travel again and we don't feel deprived in any way.
 
 Rupert's uncle, a journalist who has travelled the world, says Scotland is the best place anywhere. Although you’d want to avoid the midge season, it is extremely beautiful and the history is written on the landscape. Even in the rain, Scotland is so atmospheric and it impacts you deeply. Why would you go anywhere else?
 
-#### Christiane Lellig, travelling around Orkney with two teenage boys
+### Christiane Lellig, travelling around Orkney with two teenage boys
 
 ‘Can we go to Orkney once?’ That was unexpected. I looked at my son and slowly answered, ‘Sure...’. Somewhere, he had read that you can see the Northern Lights in Orkney. And orca of course – killer whales – though that hadn’t sparked his fantasy quite as much. After many years of camping holidays in Dorset and Wales, I thought it was a brilliant idea for a holiday with teenage boys, even though we’d be fairly unlikely to see the Northern Lights in the summer.
 
@@ -81,9 +91,11 @@ The boys knew they were in for a long train journey the minute they proposed the
 
 After a night in Inverness we continued with [ScotRail](https://www.scotrail.co.uk/) towards Thurso, tracing the coast at first then heading inland between the peaks of the eastern Highlands. Travel at its best. The train brushed through trees as it stopped at the tiny villages, catapulting us into a different world with a different pace.
 
+> "It’s relaxing and comfortable to travel by train: a slow journey that gradually takes body and mind through the changing landscape rather than a quick dash into a different world."
+
 Thurso welcomed us with sunshine and a very friendly [backpackers](https://sandras-backpackers.co.uk/) host who had organised a family room with en-suite bathroom for us. Glancing at our heavy rucksacks, he shook his head at our plan to walk to the ferry port, and organised a cab to take us to Scrabster the following morning. We arrived at the harbour under light blue skies with the gentle looking sea bashing against glowing rock formations with noticeable force. It was one of those moments you’re likely to remember for the rest of your life.
 
-![](/images/uploads/img_1886.jpg "Noup Head, Westray")
+![Picture shows a white lighthouse on the edge of a green grassy cliff. The sea behind looks a deep indigo and the sky is clear except for some small fluffy clouds. ](/images/uploads/img_1886.jpg "Noup Head, Westray")
 
 The ferry journey from Scrabster to Stromness ranks among the most beautiful experiences of the trip; we glided away from the mainland towards Hoy, passing ‘The Old Man’ sea stack and glimpsing porpoises, with everyone on board excited at the prospect of spotting dolphins or even better, orcas! As we rounded the tip of Hoy the view opened up, with several of the islands and the Norse architecture of Stromness coming into view. The town found a place in our hearts the minute we stepped ashore.
 
@@ -95,9 +107,9 @@ An early morning walk through misty landscape full of low flying birds and archa
 
 We will definitely be back one day; there are plenty of islands still to discover, and plenty of places we missed. And of course, perhaps next time we will see those elusive Northern Lights or finally spot some orcas.
 
-![](/images/uploads/img_1874.jpg "Westray, near the Links of Noltland")
+![Picture shows two figures walking along a sandy beach with the tide very far out. The sea looks deep blue and turquoise and the sky is clear blue with few clouds. The sand is pale yellow and there is shallow pools and streams running through it. ](/images/uploads/img_1874.jpg "Westray, near the Links of Noltland")
 
-#### Ali Hood, hiking in Glen Coe
+### Ali Hood, hiking in Glen Coe
 
 Giving up flying was the next logical step in my efforts to reduce my carbon emissions. When I started to reduce my waste and live more sustainably I thought travelling would be the one 'cheat' activity I could maintain as normal, but as time passed and things seemed to be getting more pressing, my boyfriend and I gradually became more open to reducing and eventually stopping flying.
 
@@ -105,11 +117,13 @@ Not flying hasn’t felt like a restriction: the more flight-free trips I do, th
 
 Travelling by car is the best option for me – having the condition M.E., or Chronic Fatigue Syndrome, means that public transport can be exhausting (all those changes) and I often need to lie down, which I can do in the car.
 
+> "Not flying hasn’t felt like a restriction: the more flight-free trips I do, the more I want to do."
+
 After spending nearly a week meandering up the country via the Lake District and [Loch Awe](https://www.visitscotland.com/info/towns-villages/loch-awe-p239961) in Argyll, we arrived in Glencoe, a place of dramatic proportions. Sculpted by volcanic eruptions and ancient glaciers, the scenery was guaranteed to be breathtaking, and driving along the edge of [Loch Linnhe](https://www.scotlandinfo.eu/loch-linnhe-scotland/), a vast sea loch that leads to the Great Glen, with mountains on both sides and thick woodlands at the foot of Glen Coe, did not disappoint. We pitched our tents among gnarled trees and lush ferns in the heart of the Glen as dusk fell, discovering the true magnitude of our surroundings the next morning as the mist lifted to reveal the River Coe a stone’s throw away and mountains looming either side.
 
 It promised to be the ultimate adventure, with plenty of hiking, climbing and kayaking, though I knew my friends would be doing more of everything than I could. But in the end, one of the highlights for everyone was a gentle walk along the [Lochan trails](https://www.walkhighlands.co.uk/fortwilliam/glencoelochan.shtml) – a forest walk at the foot of the Glen – where we strolled among trees dripping with moss and moisture, ferns, fungi and streams, and found a vast colony of tiny frogs in the undergrowth.
 
-![](/images/uploads/lochan-trail-2-min.jpg "Lochan trails")
+![Picture shows a tiny frog resting on someones hand. In the background is blurred greenery. ](/images/uploads/lochan-trail-2-min.jpg "Lochan trails")
 
 No trip to Glencoe is complete without visiting Ben Nevis. After hiking the first half an hour I left my friends to tackle the rest of the climb and drove with my boyfriend along Glen Nevis for a quieter walk to the [Steall Falls](https://visitfortwilliam.co.uk/about-ben-nevis-in-fort-william-and-ben-nevis-webcam/steall-falls-walk-in-glen-nevis-gorge-ben-nevis). We’d escaped the crowds at Ben Nevis to discover a beautiful valley filled with gorse, wild flowers and cascading streams. I rested and took in the views of the waterfall, leaving the precarious high-wire bridge to my boyfriend.
 
@@ -123,6 +137,6 @@ There are many parallels between living with a chronic illness and choosing not 
 
 Equally, travel doesn’t mean going the furthest, climbing the highest, or ticking off the most sights – it’s about exploring, learning, being present, and ultimately having fun wherever you are. Perhaps this is something my illness is teaching me, and it applies to my interest in environmentalism too. It’s about reframing expectations to enjoy what IS possible without resenting the restrictions.
 
-After all, what could be better than the beauty of nature in the company of friends?
+#### After all, what could be better than the beauty of nature in the company of friends?
 
-![](/images/uploads/lochan-trail-min.jpg "Lochan trails")
+![Picture shows one person sitting on a log and three others standing. They are smiling to pose for the picture. Behind the log is a forest of thin trees. ](/images/uploads/lochan-trail-min.jpg "Lochan trails")

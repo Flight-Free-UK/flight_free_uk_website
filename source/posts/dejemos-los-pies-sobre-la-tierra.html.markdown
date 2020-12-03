@@ -13,7 +13,7 @@ read_time_minute: 5
 
 ![](/images/uploads/flightfreeperu.jpg "Rici, his wife Liana Cisneros who set up the campaign, and activists from Fridays for the Future and MOCICC, the Citizens' Movement on Climate Change")
 
-#### The project *Dejemos los pies sobre la tierra* – "Let's keep our feet on the ground" – was inspired in part by the insistence of young activists like Greta Thunberg that not flying is an important individual contribution to reducing global carbon emissions.
+### The project *Dejemos los pies sobre la tierra* – "Let's keep our feet on the ground" – was inspired in part by the insistence of young activists like Greta Thunberg that not flying is an important individual contribution to reducing global carbon emissions.
 
 Both individual and institutional responses are necessary. But there will be no institutional response without a demonstration that individuals are willing to change their own lives in response to the emergency. It is undeniable that the carbon cost of flying is very hard to justify. So that message needs to get out.
 
@@ -25,7 +25,7 @@ Our response has been to underline the fact that we are not asking people to not
 
 Perú is an enormous country full of interesting historic, natural and cultural attractions. And yet, 95% of foreign visitors go to one small place: [Machu Picchu](https://flightfree.co.uk/post/tossing-out-my-bucket-list/). As with many such tourism concentrates, the government has had to take extraordinary measures to control the site. Visits need to be booked in advance, and there is a limit on the amount of time a visitor can stay there. Even so, what you mostly see if you visit Machu Picchu is other people visiting Machu Picchu.
 
-![](/images/uploads/macchupiccu.jpg)
+![Picture shows Machu Picchu with its steep tree covered peaks and expansive stone structures and levels. Clouds are covering taller peaks that surround Machu Picchu in the background. ](/images/uploads/macchupiccu.jpg)
 
 Cusco, the gateway town to Machu Picchu has been clamouring for a new airport for a long time, with the stated purpose to double the amount of passenger traffic going to the city. But Cusco is already collapsing under the pressure of tourism. There is nowhere to build the hotels necessary to accommodate twice as many tourists. The city's streets cannot handle the current traffic, much less the increase which will result. And that's just Cusco: doubling the tourist population will put an unbearable load on Machu Picchu, the Inca Trail and the Sacred Valley.
 
@@ -34,6 +34,8 @@ Cusco, the gateway town to Machu Picchu has been clamouring for a new airport fo
 While tourism does bring economic benefit for some, it produces hardship for others; the conversion of housing into hotels can significantly increase the cost of housing, and the huge demand for water resulting from the hospitality industry can lead to water shortages or tax increases.
 
 In many ways, mass tourism is an extractive industry: it seeks to extract economic value from some attraction, whether natural or historic or cultural, and in doing so it modifies the resource in ways which make it unrecognisable. Monuments crumble from the constant passage of hands and feet; cityscapes are dismantled to build hotels and fast food outlets; wilderness is overrun by hordes of travellers who trample the vegetation and discard their garbage and waste products.
+
+> "In many ways, mass tourism is an extractive industry: it seeks to extract economic value from some attraction, and in doing so it modifies the resource in ways which make it unrecognisable."
 
 Tourism can certainly contribute to a local economy, but the Peruvian economy would benefit more from a traveller who spent a month in Perú than from three travellers who spent one week each. Part of the solution needs to be finding economic activities other than tourism, so that places like Cusco can prosper without having to suffer from extractive tourism.
 
@@ -48,6 +50,8 @@ Our response to that is to promote what we call "travel with dignity". If we're 
 #### The improvement in the Peruvian economy over the past 20 years has been reflected in a constant increase in the number of Peruvians who take domestic flights.
 
 Even so, half of the population has never flown, and much of the rest fly only very occasionally. That's not a political or environmental decision, it's a purely economic decision, and reflects the enormous gap between rich and poor in the country.
+
+> "Half of the population has never flown, and much of the rest fly only very occasionally. It's a purely economic decision, and reflects the enormous gap between rich and poor in the country."
 
 For decades, the entire continent of Latin America has been at the top of world inequality measures. Economic inequality means inequality in energy consumption and carbon emissions, too. The "average" Peruvian is not high on the list of carbon emitters, which gives the not-so-average Peruvians – the ones whose budget or employment allows them to fly many times per year – a convenient excuse for not worrying about their own carbon footprint.
 

@@ -9,11 +9,15 @@ summary: Cancelling one flight won’t save the planet. But what effect do our
 author: FlightFree UK
 read_time_minute: 3
 ---
-It’s easy to feel that there's not much point in us stopping flying when there are some people out there who fly all the time. Maybe these are people we know, or people we hear about, but either way, if we ourselves don't actually fly all that much – perhaps once or twice a year, or less – we feel that others’ flights would completely dwarf our own attempts to cut down.
+![Picture shows a close up view of a single snowflake. It has landed on a cluster of other snowflakes. The rest of the image is blurred and silvery grey. ](/images/uploads/snowflake.jpg)
+
+### It’s easy to feel that there's not much point in us stopping flying when there are some people out there who fly all the time. 
+
+Maybe these are people we know, or people we hear about, but either way, if we ourselves don't actually fly all that much – perhaps once or twice a year, or less – we feel that others’ flights would completely dwarf our own attempts to cut down.
 
 A point was raised on our Twitter feed recently: a person who flies little, never long-haul, has booked a flight to Japan. Will cancelling that flight really have any effect? This person is not the problem, are they, when [15% of people take 70% of all flights](/what-makes-a-frequent-flyer)? Why target the low-hanging fruit? That’s not where the impact truly lies.
 
-![](/images/uploads/Twitter_screenshot.png)
+![Picture shows two facebook comments by a user who's name has been blocked out. In the first comment they state "What we need to do is persuade the 15% to seriously modify their selfish, damaging behaviour. That would have the impact we desire. By asking the very infrequent flyers (like me) to abstain, are we inadvertently letting the 15% off the hook?". The second comment reads "I've never flown long haul in my life - just the very, very occasional flight within Europe. 15% of people make up 70% passengers. I ride a bike, take the bus and walk whenever I can. In July I fly to Japan. What would be the positive impact of me cancelling the journey."](/images/uploads/Twitter_screenshot.png)
 
 The answer, of course, is no – this person is not the problem. But it is not so simple as that. When we consider the focus of our campaign, and our target group, in truth, it is everyone, and all flights. The five-times-a-week, the few-times-a-month, the once-every-ten-years. All of those flights are important in the fight against climate change.
 

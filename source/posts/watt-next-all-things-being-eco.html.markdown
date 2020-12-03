@@ -1,16 +1,17 @@
 ---
-published: true
-title: '''Watt Next? All things being eco...'''
+published: false
+title: "'Watt Next? All things being eco...'"
 category: climate
 date: 2019-04-17T15:19:35.528Z
 cover_image: /images/uploads/anna-at-marlow-fm.jpg
-summary: >-
-  Anna Hughes talks to Marlow FM DJ Dave Hampton about cycling, ska music,
-  flight-free holidays and climate change, and chooses eight tracks.
+summary: Anna Hughes talks to Marlow FM DJ Dave Hampton about cycling, ska
+  music, flight-free holidays and climate change, and chooses eight tracks.
 author: FlightFree UK
 read_time_minute: 8
 ---
-Check out our [Podcast page ](https://www.flightfree.co.uk/podcast)to hear the full 95 minute interview with Flight Free UK campaigner Anna Hughes. The interview covers topics as wide-ranging as cycling in Amsterdam, playing trumpet in a ska band, working in a cocktail bar, being inspired by the Youth Climate Strikes, and giving up flying – but gaining a huge amount in return. 
+### Check out our [Podcast page ](https://www.flightfree.co.uk/podcast)to hear the full 95 minute interview with Flight Free UK campaigner Anna Hughes.
+
+ The interview covers topics as wide-ranging as cycling in Amsterdam, playing trumpet in a ska band, working in a cocktail bar, being inspired by the Youth Climate Strikes, and giving up flying – but gaining a huge amount in return. 
 
 This is a guide to the conversation between Dave and Anna, with details of the songs that she has chosen. And here's Dave in the studio at Marlow FM. He has signed the #flightfree2020 pledge!
 
@@ -20,6 +21,8 @@ This is a guide to the conversation between Dave and Anna, with details of the s
 
 **04:55** “Let’s talk about climate change!” says Anna. It’s a conversation we have to be having. My whole life I’ve been aware of this stuff and my whole life I’ve been embarrassed to talk about it – it’s not a fashionable thing to be talking about, but it’s really important. And now it feels, with the Youth Strike for Climate and Extinction Rebellion, that people are finally talking about it. Dave: It’s difficult to talk about these things. But it is \*not\* talking about these things that has got us in this mess.
 
+> "It’s difficult to talk about these things. But it is \*not\* talking about these things that has got us in this mess."
+
 **06:00** Dave asks, “Have you been a lifelong cyclist?” Anna: I’ve always been a cyclist – it’s my default option for getting around. I don’t own a car (I’m not anti-car, I’m just anti-I-can’t-live-without-my-car). The bicycle has so many benefits beyond environmental ones.
 
 **07:55** Dave: I’m loving the light touch on everything – there’s a lot of realism with it all. Anna: I hope so – it’s not about being extreme and giving up everything, it’s about seeing things differently and seeing what you can gain e.g. I am richer of pocket and richer of experience through not driving a car, and I am very healthy and I’m really good at finding my way around places because I don’t use a satnav, and I see that as a massive benefit. And I have nice interactions, happening to bump into people – that doesn’t happen in a car. You’re not inside a box. You’re part of the community. 
@@ -27,6 +30,8 @@ This is a guide to the conversation between Dave and Anna, with details of the s
 **09:45** Background on Anna Hughes: cyclist and adventurer, cycled 4000 miles around the coast of Britain and sailed around the same coastline two years later. Books Eat Sleep Cycle, Pedal Power, and Peaky Climbers. Speaker and writer, narrowboat dweller. 'Get Outside' champion for Ordnance Survey inspiring others to enjoy the great outdoors.
 
 **12.33** Dave: ‘The power of example is the only way we’ve got to peacefully change the world’ e.g. the youth strike – that started with one girl quietly protesting, and now look how that’s caught on.
+
+> "The power of example is the only way we’ve got to peacefully change the world."
 
 **17:49** We play 'Holding On' by Gregory Porter/Disclosure. This is for Anna's twin sister Sarah, who sings jazz and loves Gregory Porter. This is the 'hit parade' version.
 
@@ -38,11 +43,15 @@ This is a guide to the conversation between Dave and Anna, with details of the s
 
 **35:13** Dave and Anna discuss UK tourism: there is more than enough of Britain to keep us happy. We don’t need to fly in order to explore/experience new things or enjoy ourselves. The default for holidays seem to be exotic faraway holidays – but what about where we are? We’re constantly after something else. 
 
+> "We don’t need to fly in order to explore/experience new things or enjoy ourselves."
+
 **36:30** It’s possible and fairly easy to access a lot of places in Europe without going on an aeroplane: rail travel and boat.
 
 **36:49** Anna: A friend of mine took a coach to the Costa del Sol from London Victoria. He felt much richer for his experience – you’re not time-travelled in a sterile environment, parachuted into this new place. Slow travel is so enriching. It's about seeing how the landscape changes, meeting people. You will understand people far better if you don’t fly.
 
 **40:30** We talk about the Flight Free campaign. The idea is that you pledge not to fly, if 100,000 people also make the pledge. We must start reducing our carbon footprints significantly. It’s got to the point where we can’t just make noises about recycling anymore, we have to be thinking about the big stuff.
+
+> "You will understand people far better if you don’t fly."
 
 **41:30** Anna: If we are to be sustainable in terms of our carbon output, our individual footprints need to be between two and three tons annually. One flight to New York produces close to 3 tonnes \[I got this wrong! It’s actually close to 2 tonnes]. If we think about it in those terms, we realise very quickly that flying is unsustainable. Taking a flight is the single fastest and greatest way of increasing your carbon footprint.
 
@@ -64,7 +73,7 @@ This is a guide to the conversation between Dave and Anna, with details of the s
 
 - - -
 
-**50:33** Dave: the Swedish _Flygfritt_ campaign inspired the whole thing.
+**50:33** Dave: the Swedish *Flygfritt* campaign inspired the whole thing.
 
 **51:15** Time for more music: 'Too Much Too Young' by The Specials.
 
@@ -77,6 +86,8 @@ This is a guide to the conversation between Dave and Anna, with details of the s
 **58:04** Back to talking about flying, and the alternatives: Rail travel in this country is so expensive. It’s therefore totally understandable why people fly! It’s cheap and it’s quick. Because aviation isn’t taxed in the same way as other things are. We really need to have the carbon cost of travel reflected in the price of the ticket. One of the aspects of the campaign is about perhaps influencing that: making rail travel more affordable, or at least having aviation more realistically priced.
 
 **59:16** Anna: in terms of comparing rail travel and air travel, we need to remember we’re not comparing like-for-like. For example, a journey to Copenhagen took two travel days as opposed to a couple of hours flying, but those two travel days were spent visiting three new European cities, meeting people and going on a ferry in the train! (which completely blew my mind). So it was more expensive than flying but it was full of so many extra experiences.
+
+> "Going by rail was more expensive than flying but it was full of so many extra experiences."
 
 **1:00:43** Question from a listener: have you been to Amsterdam?
 
@@ -97,6 +108,8 @@ Anna: Yes, and it's wonderful. There is a separate space for pedestrians, cyclis
 **1:12:34** Anna: I have a friend who did a self-imposed flight ban a few years ago and took a year off. She has family around the world so she just didn’t see them that year. The benefits of staying grounded were far more wide-ranging than she thought. She got to know her partner more, they discovered things about their local area, and she got to know herself more, because when you place restrictions on ourself you really discover what you’re made of.
 
 **1:13:38** These are positive constraints. It’s not “I'm not going to do this," it's, "I’m going to do this instead.”
+
+> "It’s not “I'm not going to do this," it's, "I’m going to do this instead.”"
 
 **1:14:05** If someone signs up and something unforeseen happens, you can always just not do it. It’s discretionary and self-policing.
 

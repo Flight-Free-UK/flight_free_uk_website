@@ -12,6 +12,8 @@ read_time_minute: 8
 ---
 ## This podcast is episode 5 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
+![Picture shows a crop of growing palms for palm oil production. The trees are growing in neat artificial lines and there are no other plants in sight. They are bright green and the sun is shining on some of the tips. ](/images/uploads/palm-800x450.jpg)
+
 This month’s podcast is on the subject of carbon offsets and green technology and we’re talking to Roger Tyers, a research doctorate at Southampton university. Roger has written a few articles for us in the past: [The Truth about Carbon Offsets](https://flightfree.co.uk/post/the-truth-about-carbon-offsets/), [What the Aviation Industry Really Thinks About Climate Change](https://flightfree.co.uk/post/behind-the-veil-what-the-aviation-industry-really-thinks-about-climate-change/), and [Long Train to China](https://flightfree.co.uk/post/long-train-to-china/). We met up with Roger at the British Library, so while you might imagine the library is impeccably silent, there’s occasionally some background noise.
 
 You can listen to the full podcast [here](https://www.podbean.com/media/share/pb-em83w-dbab72?utm_campaign=u_share_ep&utm_medium=dlink&utm_source=u_share).
@@ -46,6 +48,8 @@ It’s easy to create carbon emissions, but taking carbon out of the atmosphere 
 
 *There's also the issue of biodiversity. As Roger has suggested, trees are the poster child of carbon offsets, but they have to be the right trees. That might sound like a strange thing to say, but planting monocultures, which is often what happens, is a disaster for biodiversity, and it's not very good for the climate either. The best carbon absorption comes from mature, well-established woodlands and forests, with a variety of plants and species, native to the area, and with different levels of vegetation. So, trees, perhaps not the offset answer they first appear to be.*
 
+> "The best carbon absorption comes from mature woodlands and forests, with a variety of species, native to the area, and with different levels of vegetation."
+
 *Another problem with offsets is what we call ‘additionality’. We want our money to go towards something that otherwise wouldn't have happened, otherwise it doesn’t ‘neutralise’ our flight at all. A recent report suggested that 85% of offset schemes failed to reduce emissions. This was because they weren't what’s called, ‘additional’ – the money went to projects that would have been funded anyway, so there was no increase in emissions reduction, which meant that they couldn’t be said to effectively offset whatever they were supposed to offset.*
 
 #### Roger:
@@ -70,7 +74,11 @@ No. At least not with any realistic timescale. Yes, your flight might become car
 
 #### Roger:
 
-This is when we get into knotty ethical debates. There are some people who buy carbon offsets as a last resort, but recent research by EasyJet, who buy offsets for all of their flights, shows the people who are more aware of the offset scheme are more satisfied with their flight. That suggests that carbon offsetting makes people feel better about their flight. The implication is that there is moral licence to continue that behaviour, rather than change it – which is what we really need to do. If offsets do anything to make that less likely, then they are dangerous.
+This is when we get into knotty ethical debates. There are some people who buy carbon offsets as a last resort, but recent research by EasyJet, who buy offsets for all of their flights, shows the people who are more aware of the offset scheme are more satisfied with their flight. That suggests that carbon offsetting makes people feel better about their flight.
+
+> "Carbon offsetting makes people feel better about their flight. The implication is that there is moral licence to continue that behaviour, rather than change it."
+
+ The implication is that there is moral licence to continue that behaviour, rather than change it – which is what we really need to do. If offsets do anything to make that less likely, then they are dangerous.
 
 #### Flight Free UK:
 
@@ -98,6 +106,8 @@ If you're mass-producing biofuels from unsustainable sources, and grabbing land 
 
 We need to change people’s behaviour and reduce demand, not just rely on technology coming to the rescue.
 
+> "We need to change people’s behaviour and reduce demand, not just rely on technology coming to the rescue."
+
 We are capable as a species of some quite amazing and rapid developments, especially in times of war. e.g. ultrasound, ground to air radio, the sanitary towel, nuclear power – these things come out when we have our backs to the wall. The problem now is that we have cheap, untaxed fuel which is keeping the aviation industry going, and the incentive to create new, game-changing technologies isn’t there. If we squeeze the industry through taxes and other demand-reduction measures, we might see these changes come about more quickly.
 
 #### Flight Free UK:
@@ -114,6 +124,6 @@ You can read more relevant articles on our website:
 
 [Six and a half flying ideas for the future](https://flightfree.co.uk/post/six-and-a-half-flying-ideas-for-the-future/)
 
-**You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).**
+#### **You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).**
 
 *Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*

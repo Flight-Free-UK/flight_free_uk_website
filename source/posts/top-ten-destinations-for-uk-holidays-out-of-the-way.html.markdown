@@ -22,7 +22,7 @@ Known as “Wiltshire’s hidden gem”, Devizes is a medieval market town with 
 
 Not only is the canal a remarkable feat of engineering, with tunnels, aqueducts and the famous lock flight at [Caen Hill](https://canalrivertrust.org.uk/places-to-visit/caen-hill-locks) (29 locks in a row!), floating at an average 5 mph is a truly relaxing way to pass the time. There are plenty of canalside pubs along the way; we particularly like the [Black Horse](https://www.tripadvisor.co.uk/Attraction_Review-g528767-d5918051-Reviews-Black_Horse-Devizes_Wiltshire_England.html) at Devizes, near the top of the Caen Hill flight. By public transport, take the train to Swindon or Salisbury and then catch a bus to Devizes.
 
-![Caen Hil locks](/images/uploads/caen.jpg "Caen Hill Locks. Image from insure4boats.co.uk")
+![Caen Hil locks. Picture shows a hill ascending from a canal with many locks stacked up behind each other to allow small boats to climb the hill. Greenery surrounds the locks and some small houses sit at the top. Its a sunny and bright day. ](/images/uploads/caen.jpg "Caen Hill Locks. Image from insure4boats.co.uk")
 
 ## Sheringham, Norfolk
 
@@ -30,7 +30,7 @@ The traditional seaside town of Sheringham is known for its beautiful sandy beac
 
 The town is accessible by train, and if you have time, stop off at Cromer on the way - another Norfolk seaside town rich in fishing heritage.
 
-![Norfolk coast path at Sheringham](/images/uploads/sheringham.jpg "Sheringham, image from sheringhamtowncouncil.gov.uk")
+![Norfolk coast path at Sheringham. Picture shows a sandy path surrounded by thick grassy dunes. A wooden railing marks the path and a wooden sign reads "Norfolk Coast Path: Public Footpath. Weybourne 2,3/4 miles". The beach behind the dunes is sandy and the sea is clear blue. ](/images/uploads/sheringham.jpg "Sheringham, image from sheringhamtowncouncil.gov.uk")
 
 ## Edale, Peak District
 
@@ -40,7 +40,7 @@ For local amenities, Edale has two pubs, two cafes, a few local shops, several B
 
 > "Edale train station is on the Hope Valley Line, one of England’s most beautiful railway routes."
 
-![Edale and the High Peak](/images/uploads/edale.jpg "Edale and the High Peak, image from beautifulenglandphotos.uk")
+![Edale and the High Peak. Picture shows craggy rocks at the top of a steep grassy valley. In the background is a hilly landscape of divided farming fields and trees. The sky is cloudy but some of the valley is in sunshine. ](/images/uploads/edale.jpg "Edale and the High Peak, image from beautifulenglandphotos.uk")
 
 ## Hexham, Northumberland
 
@@ -48,7 +48,7 @@ Voted England’s favourite market town, Hexham is perfect for shoppers with man
 
 Hexham is on the [mainline](https://www.northernrailway.co.uk/stations/HEX) between Newcastle and Carlisle, with the vibrant city of Newcastle just 40 minutes by train.
 
-![Haxham Abbey](/images/uploads/hexham.jpg "Hexham Abbey, image from visithexham.net")
+![Haxham Abbey. The picture shows a pale sand-coloured abbey behind a low brick wall. In front of the wall is a row of hedges and flowers and red benches next to footpath within a walled garden. ](/images/uploads/hexham.jpg "Hexham Abbey, image from visithexham.net")
 
 ## Grange-over-Sands, Cumbria
 
@@ -56,7 +56,7 @@ Grange-over-Sands is a small coastal town located on the fascinating Morecambe B
 
 Grange-over-Sands is on the branch line from Lancaster – stop off in this charming, historical town if you have time.
 
-![](/images/uploads/grange.jpg "Grange-over-Sands countryside, image from holidaycottages.co.uk")
+![Picture shows a rough stone wall with a wooden fence. Behind the wall is an expanse of misty hilly terrain with grass and short trees. The sun is low in the sky and casting sunlight on the wall and fence. ](/images/uploads/grange.jpg "Grange-over-Sands countryside, image from holidaycottages.co.uk")
 
 ## Isles of Scilly, Cornwall
 
@@ -68,7 +68,7 @@ Each island offers a unique experience, but the Isles are well known for their c
 
 Travelling to the Isles flight-free is easy and a perfect way to view the Cornish coastline: take the train to Penzance then the ferry to St Mary's, the largest island of the group.
 
-![](/images/uploads/stmartins.jpeg "St. Martin’s, Isles of Scilly. Image from visitislesofscilly.com")
+![Picture shows a wide sandy bay with small fishing boats within it. The bay is surrounded by greenery and shrubs. The sun is setting over the horizon and the sky is bright orange and pale blue. ](/images/uploads/stmartins.jpeg "St. Martin’s, Isles of Scilly. Image from visitislesofscilly.com")
 
 # Scotland
 
@@ -78,7 +78,7 @@ The colourful buildings on Tobermory's waterfront give this little harbour town 
 
 To get to Tobermory, take the train to Oban from Glasgow Queen Street and enjoy the spectacular mountainous scenery, then take the [ferry](https://www.calmac.co.uk/) to Mull. There is a regular [bus](https://www.tobermory.co.uk/information/travel-2/bus/) service to Tobermory from Craignure ferry terminal.
 
-![Tobermory](/images/uploads/tobermory.jpg "Tobermory, image from smartertravel.com")
+![Tobermory. The picture shows bright coloured houses next to the sea. Behind them are the tops of large green trees. ](/images/uploads/tobermory.jpg "Tobermory, image from smartertravel.com")
 
 ## Pitlochry, Highlands
 
@@ -86,7 +86,7 @@ The town of Pitlochry is located in the southern corner of the beautiful Cairngo
 
 The [Caledonian Sleeper train](https://www.sleeper.scot/) goes from London Euston to six destinations in the Cairngorms National Park: Pitlochry, Blair Atholl, Dalwhinnie, Newtonmore, Kingussie and Aviemore. Pitlochry station is also served by Scot Rail.
 
-![Cairngorms](/images/uploads/cairngorms.jpg "The Cairngorms")
+![Cairngorms. Picture shows a stream with grey rocks on either side. Surrounding it is marshy grassland which is green and yellow with purple flowering shrubs. In the distance are large rolling hills. The sky is moody with small patches of blue. ](/images/uploads/cairngorms.jpg "The Cairngorms")
 
 # Wales
 
@@ -96,7 +96,7 @@ Tenby is a picture-postcard harbour town known for its pastel-coloured houses, m
 
 Tenby has plenty of attractions and amenities, including the oldest independent [museum](https://www.visitwales.com/product/675215) in Wales, and the pubs, shops, cafes and eateries are all linked by quaint cobbled streets. Tenby can be easily reached by train and coach, with both stations situated close to the town centre.
 
-![North Beach at Tenby](/images/uploads/tenby.jpg "North Beach at Tenby, Pembrokeshire. Image from bluestonewales.com.")
+![North Beach at Tenby. Picture shows a wide sandy beach with the tide out. Trees cover the short cliffs behind the beach and there is a large boulder in the middle of the beach. People are dotted around the beach with towels and small tents. The sea and the sky are clear blue. ](/images/uploads/tenby.jpg "North Beach at Tenby, Pembrokeshire. Image from bluestonewales.com.")
 
 ## Conwy, North Wales
 
@@ -106,4 +106,4 @@ Conwy is one of Britain’s best-preserved medieval towns, where ancient stone w
 
 To get to Conwy, take the train and change at Chester. The railway follows the coast through many north Wales beach resorts with fabulous views across the sea. Chester itself is also worth a look around, with a thriving Tudor high street, so we recommend taking extra time for your connection.
 
-![Conwy Castle](/images/uploads/conwy.jpg "Conwy Castle, image from sykescottages.co.uk")
+![Conwy Castle. Picture shows a river leading up to a large castle. There is a bridge before the castle an a small sail boat is moored on the river. ](/images/uploads/conwy.jpg "Conwy Castle, image from sykescottages.co.uk")

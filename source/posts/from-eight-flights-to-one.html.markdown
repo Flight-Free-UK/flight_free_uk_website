@@ -9,13 +9,21 @@ summary: Christine Bell took eight flights in 2018, down to just one in 2019.
 author: FlightFree UK
 read_time_minute: 4
 ---
-In 2018 I took a flight to Delhi for work. The air quality in the city was terrible: I arrived in choking smog which remained all week. It’s a major health hazard, and by the end of the week I was longing for the fresh air of Leeds. This experience was critical in making me realise the impact of carbon emissions so in 2019 I focused on how I could reduce my carbon impact. Already I don’t eat meat and don’t buy unnecessary stuff, but air travel significantly pushes up my carbon consumption.
+![Picture shows a hazy pink and blue sky with a thin and tall chimney in the middle. Out of the chimney a stream of white smoke in emitted. ](/images/uploads/tarun-rana-white-smoke.jpg "Photo credit: Tarun Rana (Source: Unsplash)")
+
+### In 2018 I took a flight to Delhi for work. The air quality in the city was terrible: I arrived in choking smog which remained all week. 
+
+It’s a major health hazard, and by the end of the week I was longing for the fresh air of Leeds. This experience was critical in making me realise the impact of carbon emissions so in 2019 I focused on how I could reduce my carbon impact. Already I don’t eat meat and don’t buy unnecessary stuff, but air travel significantly pushes up my carbon consumption.
 
 I decided to set myself a challenge. Throughout 2019 I would only fly when absolutely necessary. In 2018 I had taken eight flights, including the one to Delhi, so if I could reduce that number, it would have a big impact.
+
+> "I decided to set myself a challenge. Throughout 2019 I would only fly when absolutely necessary."
 
 The holidays were easy: we travelled by boat and train within the UK and had a fantastic time. Work, however, was more of a problem. I work as an innovation facilitator and at times my specialist expertise means I am commissioned to support projects outside of the UK. Most of the preparation work is done remotely but the actual facilitation is face to face, managing large groups of people to generate collaborative project ideas for innovative research/products/services. 
 
 In April, my company won a tender for an innovation event in Vienna. This would usually require me to meet the local organisers face to face to ‘kick off’ the project. I was upfront straight away and said that, because of the climate emergency, I would prefer to meet digitally. In compensation, I would give them the equivalent hours that I would have spent travelling and staying overnight. This meant that instead of a two hour meeting, the client was entitled to 20 hours contact time with me, via phone or video conferencing and webinars – which made them very happy. 
+
+> "I was upfront straight away and said that, because of the climate emergency, I would prefer to meet digitally."
 
 Later in the year I had an event in Maastricht. The train was about £40 more expensive and took longer than flying, but given that I was facilitating about sustainability, it seemed an appropriate choice to make. Apart from having to take a taxi into Leeds because it was too early for the local train, the journey went smoothly: Eurostar to Brussels then two local trains to Maastricht. On the return leg I stopped over with my parents in London – a convenient way to tie in some daughterly duties. However, booking it was not easy – I had to book the UK leg and the London-Maastricht leg separately. We are not yet there with joined up travel!
 
@@ -23,9 +31,11 @@ In November I travelled to Dublin to visit a friend. At first glance, the train 
 
 Possibly the hardest thing has been talking to my friends about it. I attended the [Big Leeds Climate Conversation](https://www.eventbrite.co.uk/e/the-big-leeds-climate-conversation-tickets-63554190294) in July and it made me realise that we need to talk about sustainability, but in a way that does not shame others. I have found it hard when people from my cycling club keep asking me if I want to go to Mallorca/France/Spain/Canaries on a cycle trip. I don't want to ruin their fun so now I say “I would love to join you but I have committed to reducing my flights this year.” It's a bit like my early days of being a vegetarian, though – lots of puzzled looks! 
 
+> "I have found it hard when people from my cycling club keep asking me if I want to go to Mallorca/France/Spain/Canaries on a cycle trip."
+
 I will be flying to the event in Vienna: it was too difficult to work out an overland route in the time available. However, compared to my eight flights last year, I feel that reducing that to one is realistic for me. I have enjoyed the challenge of finding different ways to travel and although initially I was put off by the length of the journey I have found that the time goes easily in the company of a good podcast or two!
 
-What I have learnt from this year:
+### What I have learnt from this year:
 
 1. My clients understand the Climate Emergency and have been happy to connect remotely rather than face to face. It is better for me and for them to use time in this way than spending it on travel where it is not critical.
 2. It is possible to get from Leeds to Europe by train/ferry and although it will take longer you can change your mindset and appreciate the time to travel and work out how you can best use this time. I found that a set of headphones and lots of downloaded podcasts really helped to pass the time. 

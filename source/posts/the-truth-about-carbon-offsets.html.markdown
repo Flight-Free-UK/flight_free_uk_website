@@ -9,7 +9,11 @@ summary: Environmental Sociologist Roger Tyers explains the thinking behind
 author: FlightFree UK
 read_time_minute: 4
 ---
-Carbon offsetting is back. It first emerged as a popular idea in the mid-noughties, especially after Al Gore’s documentary [An Inconvenient Truth](https://www.youtube.com/watch?v=Bu6SE5TYrCM), with many airlines offering offsets to increasingly climate-conscious customers. In the following years, offsetting seemed to decline in visibility, but has recently made a resurgence as aviation emissions come under greater scrutiny. Airlines like Qantas, Lufthansa, KLM and Ryanair all offer their passengers the option of offsetting flights. [BA](https://www.britishairways.com/en-gb/information/about-ba/csr/corporate-responsibility) and [Easyjet](https://www.theguardian.com/business/2019/nov/19/easyjet-offset-carbon-emissions-flights-thomas-cook-collapse) now even pay for offsets on their customers’ behalf.
+![Picture shows four men planting a tree. They are smiling and in the background is a grassy field with tall buildings far away. ](/images/uploads/Tree-planting.jpg)
+
+### Carbon offsetting is back. 
+
+It first emerged as a popular idea in the mid-noughties, especially after Al Gore’s documentary [An Inconvenient Truth](https://www.youtube.com/watch?v=Bu6SE5TYrCM), with many airlines offering offsets to increasingly climate-conscious customers. In the following years, offsetting seemed to decline in visibility, but has recently made a resurgence as aviation emissions come under greater scrutiny. Airlines like Qantas, Lufthansa, KLM and Ryanair all offer their passengers the option of offsetting flights. [BA](https://www.britishairways.com/en-gb/information/about-ba/csr/corporate-responsibility) and [Easyjet](https://www.theguardian.com/business/2019/nov/19/easyjet-offset-carbon-emissions-flights-thomas-cook-collapse) now even pay for offsets on their customers’ behalf.
 
 Offsetting offers the promise of making flights ‘carbon neutral’. But how exactly do offsets work, and can they be trusted?
 
@@ -49,7 +53,7 @@ Of course, not everyone can avoid all flights, and it’s understandable that pe
 
 The problems with offsetting outlined here are complicated, boring even, so people might happily accept industry PR telling them that offsets make their flight is ‘carbon neutral’. [Early signs](https://www.theguardian.com/business/2020/jan/21/easyjet-reports-strong-first-quarter-as-thomas-cook-collapse-attracts-passengers) from Easyjet’s offset scheme suggest, worryingly, this may already be happening.
 
-So beware of such claims, and remember that the single best way to reduce emissions from aviation remains the most simple one: fly less.
+#### So beware of such claims, and remember that the single best way to reduce emissions from aviation remains the most simple one: fly less.
 
 *Roger Tyers is an environmental sociologist at the University of Southampton*
 

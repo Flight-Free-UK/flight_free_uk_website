@@ -12,11 +12,11 @@ read_time_minute: 5
 ---
 # Tom Barbour, Glasgow to the Alps
 
-We were so pleased that we booked our half term ski trip by train (using [loco2.com](http://loco2.com), now Rail Europe). It cost more than flying – over twice as much – but that’s more of a result of a lack of taxes on flying than the train company’s fault. It’s not a level playing field.
+We were so pleased that we booked our half term ski trip by train (using [Rail Europe](https://www.raileurope.com/en-gb)). It cost more than flying – over twice as much – but that’s more of a result of a lack of taxes on flying than the train company’s fault. It’s not a level playing field.
 
 Travelling from Glasgow we had to go to London the night before, which added extra travel time and the cost of overnight accommodation. If you lived in London it would be a no-brainer. But I persuaded the kids that the travelling was part of the trip, which it is, and the train down from Scotland was quick and easy.
 
-![](/images/uploads/tom-barbour.jpeg "Tom Barbour visits the on-board cafe with his daughter ")
+![ Picture shows Tom and his daughter taking a smiling selfie inside the cafe carriage of their train. ](/images/uploads/tom-barbour.jpeg "Tom Barbour visits the on-board cafe with his daughter ")
 
 Initially the kids were put off by the thought of the long journey by train, and missing out on the perceived glamour of flying. But flying isn’t really that glamorous, with long check-in times at airports, and being crammed into a small seat. The train was fantastic: so much legroom, great café on board, no hassles and better customer service. You could see the countryside flash by at 270 kmh and we chatted to the French families sitting across the table from us. My daughter said afterwards, “The train was actually quite good..”, which counts as high praise from a teenager!
 
@@ -28,7 +28,7 @@ I’ve written to the Scottish Government asking that they look into supporting 
 
 My partner and I go to the Pyrenees every summer for a walking holiday. From Devon it takes about three hours to get to London, then we go by Eurostar to Paris, Tarbes on the TGV then up into the hills by smaller trains and buses. For more remote road access we find hitching pretty quick. We find the public transport in France is well joined up, with the trains and buses all being run in synchronicity by SNCF.
 
-![](/images/uploads/pyrenees.jpg "The Pyrenees")
+![Picture shows the Pyrenees mountains. There is a lush green grassy valley with trees lining the sides. The hills of the valley lead up to the Pyrenees mountain range and the peaks are covered in snow. The sky is bright blue with a few clouds. ](/images/uploads/pyrenees.jpg "The Pyrenees")
 
 We spend a couple of weeks backpacking, sometimes walking in and out of France and Spain a couple of times a day on the HRP (Haute Route Pyrenees) or using the GR 10 (French side route) or GR11 (Spanish side). We can do five or six nights wild camping, then drop down into a town for a shower at a campsite, a meal in a restaurant, and resupply with dry food for the next leg.
 
@@ -44,7 +44,7 @@ We travel to Juan Les Pins at least once a year as our family has a place there.
 
 We thought about driving but our youngest daughter (6 months) really does not deal with driving well. Therefore we decided train would be best: I'm originally from Scotland but live in London, and in the past we have found the train up to Scotland to be great with a young family. The toddler can walk up and down the carriage and it means both parents are free to entertain. So we found the direct St Pancras-Marseille train and booked that.
 
-![](/images/uploads/sandy-pics.jpeg "Sandy and family on their travels")
+![Picture shows a collage of pictures of Sandy and her small children on their travels. Some pictures are of the family on trains, others include eating at cafes and exploring cities. ](/images/uploads/sandy-pics.jpeg "Sandy and family on their travels")
 
 The queue for the Eurostar was a bit of a crush but we were through passport control relatively quickly – much easier than at an airport. It was very comfortable on the Eurostar even though we didn’t get a table seat, and it’s lovely to be able to walk to the cafe car. Changing at Marseille was easy, and we boarded a spacious and air conditioned Thello train. It’s a great way to travel and our toddler loves it, and it still feels like a bit of an adventure as well.
 
@@ -68,7 +68,7 @@ As it was, travelling overland cost less than the flights would have done, but d
 
 The seats on the Eurostar were large and comfortable, and with a table between us we could play cards or do craft activities. The children could get up and down and go to the loo as many times as they wanted. Despite the channel tunnel not being the experience our five year old had hoped for, there was lots to look at and everyone was remarkably happy. We’d spent far less than we would have done on five flights, and we’d had an adventure!
 
-![](/images/uploads/eve-hart.jpg "Eve Hart and family in Avignon")
+![Eve and her three children are smiling and sitting on a wall overlooking Avignon. ](/images/uploads/eve-hart.jpg "Eve Hart and family in Avignon")
 
 It’s only 27 miles from Ramsbottom to Manchester Airport and whilst we could still have seen the amazing Roman Pont du Gard, jumped in the pool, climbed up to Cathar Castles and paddled in the Herault river, we didn’t want to fly when there was an exciting alternative on offer. We so enjoyed our family time en route to France, and even with cancellations and delays on the way home, we’d certainly do it again.
 
@@ -106,7 +106,7 @@ We arrived in Nice very early in the morning as the sun was rising. It was amazi
 
 My family and friends were astonished that I travelled in this way. It would have taken less than two hours from Bristol airport (plus the waiting around, of course, and travel to and from both airports), and they clearly couldn’t understand why I would waste time travelling. But as well as the carbon emissions being so much lower, I have found that slow travel is a great way to get a feel of a place and the people, and to get a sense of how far away somewhere really is. There’s a world of difference between Bristol and Nice, and the difference unfolded gradually.
 
-# Steve Masters, Newbury to Hendaye 
+# Steve Masters, Newbury to Hendaye
 
 A friend and I had decided to take on a cycling challenge: *Raid Pyrenean,* a 450-mile ride across the mountains from the Atlantic coast to the Mediterranean. The challenge is to do it in less than 100 hours.
 
@@ -120,7 +120,7 @@ After walking, cycling is the purest form of travel. I do a lot of thinking on t
 
 In Hendaye I rented an apartment for a week to rest before the mountain challenge. After finishing on the Mediterranean coast (459 miles completed in 86 hours!) I was dropped off in mid France and spent a week in a rented house with some friends. From there I took the train to Paris, another to Caen, then cycled to the overnight ferry back to the UK.
 
-![](/images/uploads/steve-masters-bike.jpg)
+![Picture shows a bike from ground level. Through the frame of the bike you can see the sunsetting in the background. ](/images/uploads/steve-masters-bike.jpg)
 
 *For tips on travelling by train across Europe, see our blogs [here](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/) and [here](https://flightfree.co.uk/post/train-setting-across-europe/).* 
 

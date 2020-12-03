@@ -12,13 +12,13 @@ read_time_minute: 10
 ---
 ## This podcast is episode 7 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![]()
+![Picture shows a crowd of lego figures. Standing in the middle of the crowd with the camera focused upon it, is a lego figure of a man wearing a blue suit and carrying a briefcase. ](/images/uploads/lego-figure-in-crowd.jpg)
 
-***Joining us this month is Steve Westlake, a PhD candidate at Cardiff university, and we’ll be exploring the idea of social influence and behaviour change. Do campaigns such as Flight Free UK work? And how? How are we influenced by those around us?*** 
+*Joining us this month is Steve Westlake, a PhD candidate at Cardiff university, and we’ll be exploring the idea of social influence and behaviour change. Do campaigns such as Flight Free UK work? And how? How are we influenced by those around us?* 
 
 #### Flight Free UK:
 
-***Steve's PhD is on leadership with relation to climate change. He focuses on behaviours that will reduce emissions, and the social influence that has, i.e. how leaders might encourage people to copy them to reduce their own carbon footprint. Let’s hear from Steve about where his interest in this subject came from.*** 
+*Steve's PhD is on leadership with relation to climate change. He focuses on behaviours that will reduce emissions, and the social influence that has, i.e. how leaders might encourage people to copy them to reduce their own carbon footprint. Let’s hear from Steve about where his interest in this subject came from.* 
 
 #### Steve:
 
@@ -28,7 +28,7 @@ When I started a masters degree in climate change and really got studying the sc
 
 #### Flight Free UK:
 
-***Social norms are really important here. Steve never really questioned his flights because he was doing what everyone around him was doing. This is very typical of the human race: we tend to behave like those around us, and not to question this behaviour. So where does this come from? Why and how are we influenced by others?***
+*Social norms are really important here. Steve never really questioned his flights because he was doing what everyone around him was doing. This is very typical of the human race: we tend to behave like those around us, and not to question this behaviour. So where does this come from? Why and how are we influenced by others?*
 
 #### Steve:
 
@@ -40,13 +40,15 @@ The idea of social influence cuts across psychology, anthropology, sociology, po
 
 Most of what we learn comes from other people. And we’re highly influenced by our social group. So if we identify with people, we copy them.
 
+> "Most of what we learn comes from other people. And we’re highly influenced by our social group. So if we identify with people, we copy them."
+
 I did a survey to find people who knew somebody who’d given up flying. So probably the people who answered that survey were more likely to be environmentally conscious. But having said that, there were lots of people who fly a lot, i.e. more than 10 return flights a year. About 75% of the people who knew someone who’d given up flying said their attitudes had changed, and more than half said they fly less as a result.
 
 One person in particular had a boss who didn’t fly – Katie Mitchell, a theatre director – and was very impressed that she was willing to put herself out and potentially damage her career by choosing not to fly. So there was some level of seniority and admiration. So if there’s someone you admire for any reason, the influence is more as you might expect.
 
 #### Flight Free UK:
 
-***One of the benefits of being so attuned to each other’s behaviour is that change can happen fast. If enough of us start acting in a certain way, it will begin to shift the norm. This is important to remember when we’re feeling like our individual actions don’t make a difference. So let's ask Steve, why is it important that we make low-carbon choices as individuals?***
+*One of the benefits of being so attuned to each other’s behaviour is that change can happen fast. If enough of us start acting in a certain way, it will begin to shift the norm. This is important to remember when we’re feeling like our individual actions don’t make a difference. So let's ask Steve, why is it important that we make low-carbon choices as individuals?*
 
 #### Steve:
 
@@ -56,15 +58,17 @@ That’s on an individual basis, to try and reduce our emissions as much as prac
 
 Then wrapped up in that is the social influence element, which is what I’m interested in, which says that if you do something then other people see you doing it – your friends, family, colleagues – there is a communicative effect from what we do. We are social creatures. A huge amount of research and evidence shows that we look to reference people and see what they’re doing and we compare what they’re doing to what we’re doing and we work out what we should be doing from that. So it goes beyond a personal decision to cut one’s own carbon footprint by x kgs or tonnes of CO2, it’s also part of the social mix, and that feeds into politics as well. So the personal is the political. That’s where I think the debate is really limited at the moment, because you will see quite a lot of climate scientists, most of them atmospheric scientists, saying, you shouldn't worry about individual emissions, because they add up to nothing, each persons’ emissions don’t really count, so focus on the system change, which is very important, but actually personal change feeds into system change.
 
+>  "It goes beyond a personal decision to cut one’s own carbon footprint by x kgs or tonnes of CO2, it’s also part of the social mix, that feeds into politics. So the personal is the political."
+
 What they tend to ignore is the social influence. The policies that we need, i.e. the systems change that they argue for is wrapped up in what people are prepared to do, public attitudes and social norms, and that is highly dependent on what we do and what we talk about.
 
 If enough people are changing their behaviour, the political side of it becomes possible. e.g. campaigns, flight free 2020, x thousand people stopping flying, opinion polls say 60% of people are prepared to fly less, and that’s what feeds into the systems change which everybody agrees needs to happen.
 
 #### Flight Free UK:
 
-***There’s an article about this on our website, called Individual vs System change, which explores how these two things are deeply intertwined. Individual change can influence system change, and system change is needed to bring about mass individual change. You can't really have one without the other, and we definitely need both.***
+*There’s an article about this on our website, called Individual vs System change, which explores how these two things are deeply intertwined. Individual change can influence system change, and system change is needed to bring about mass individual change. You can't really have one without the other, and we definitely need both.*
 
-***Something that relates to this is Nudge Theory. Steve's not a fan. We ask him, what do you mean by ‘nudge is not enough’?***
+*Something that relates to this is Nudge Theory. Steve's not a fan. We ask him, what do you mean by ‘nudge is not enough’?*
 
 #### Steve:
 
@@ -76,7 +80,7 @@ However, it doesn’t change the reason people are making decisions. So it doesn
 
 #### Flight Free UK:
 
-***There are lots of reasons why people can’t make low-carbon choices. Mainly to do with cost – some people simply can't access train travel as an alternative to flying because it's more expensive. And while many of us are in the position to make that change, it's not open to everyone – and it's not fair to ask everyone to make these decisions when it would mean hardship for that person. So this is where we need government input, isn't it?***
+*There are lots of reasons why people can’t make low-carbon choices. Mainly to do with cost – some people simply can't access train travel as an alternative to flying because it's more expensive. And while many of us are in the position to make that change, it's not open to everyone – and it's not fair to ask everyone to make these decisions when it would mean hardship for that person. So this is where we need government input, isn't it?*
 
 #### Steve:
 
@@ -86,11 +90,13 @@ The public thinks, yes I want to tackle climate change, but the government needs
 
 So, the government does need to do stuff, and it’s not doing enough, and the problem is political ideology and fossil fuel lobbying and corporate lobbying which tries to maintain the status quo.
 
+> "The government does need to do stuff, and it’s not doing enough, and the problem is political ideology and fossil fuel lobbying."
+
 What we can do is put pressure on government by showing that this is what citizens want, and that it’s possible, and that we will make sacrifices if that's what you want to call them because of climate change, because it’s so important. There’s a narrative that nobody wants to make sacrifices and that we’re all selfish, but that’s not realistic. We’ve seen it with Covid – people are willing to make sacrifices, and in some cases really hard sacrifices, for the social good. It’s part of our social and cultural evolution – we make small and large sacrifices all the time, and people will do it. Part of the narrative against behaviour change when it comes to climate change is that people won’t make sacrifices. That’s something I’m interested in exploring a bit more, because I think people will, if it’s perceived as fair and just. We don’t want to be taken for a ride but people will give things up for the good of their community and their country.
 
 #### Flight Free UK:
 
-***So coming onto leadership. We’ve talked about how we’re influenced by those close to us or in our social circle, but why do we need those with a high profile to step up? Even if we don't agree with their politics… can we still be influenced by them? Why is leadership so important here?***
+*So coming onto leadership. We’ve talked about how we’re influenced by those close to us or in our social circle, but why do we need those with a high profile to step up? Even if we don't agree with their politics… can we still be influenced by them? Why is leadership so important here?*
 
 #### Steve:
 
@@ -98,7 +104,7 @@ It seems we’re quite a long way from the social tipping point where people sta
 
 #### Flight Free UK:
 
-***And finally… will we see a shift away from flying any time soon?***
+*And finally… will we see a shift away from flying any time soon?*
 
 #### Steve:
 
@@ -112,9 +118,9 @@ Now, that is a hard thing to hear if you’re not on that page yet. But that's t
 
 #### Flight Free UK:
 
-***It is a really hard truth but hopefully it's a rallying cry. It’s urgent that we take climate action, and we’ve seen that our individual choices have much more impact than simply reducing our own carbon footprint. We don’t need to be famous or have loads of followers on Twitter, but we can all have an impact in our own way.***
+*It is a really hard truth but hopefully it's a rallying cry. It’s urgent that we take climate action, and we’ve seen that our individual choices have much more impact than simply reducing our own carbon footprint. We don’t need to be famous or have loads of followers on Twitter, but we can all have an impact in our own way.*
 
-***Our campaign is designed to inspire that social shift, to create a visible community of people who are willing to take action on the climate, and allow that conversation to be had. Thanks so much to Steve and to you for joining us this month, and we hope you're reassured that your individual action does make a huge and vital difference.***
+*Our campaign is designed to inspire that social shift, to create a visible community of people who are willing to take action on the climate, and allow that conversation to be had. Thanks so much to Steve and to you for joining us this month, and we hope you're reassured that your individual action does make a huge and vital difference.*
 
 ## You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 

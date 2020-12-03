@@ -12,11 +12,11 @@ summary: >
 author: FlightFree UK
 read_time_minute: 5
 ---
-It can be tricky to bring up the subject of climate change. 
+### It can be tricky to bring up the subject of climate change. 
 
 When everyone at a party is chatting about the latest TV drama or the colour of their new curtains, it can be difficult to steer the conversation towards the elephant in the room. If the party were a metaphor for the earth, the entire kitchen would be in flames with the majority of people assuming somebody had left the cake in the oven too long. 
 
-![](/images/uploads/lead-your-tribe.jpg)
+![Picture show four stick figures standing in a kitchen that is on fire. One of the stick figures is saying "Has anyone seen the latest episode of Peaky Blinders?". The fourth stickman is holding a fire extinguisher and in a thought bubble is exclaiming "What is wrong with these people?"](/images/uploads/lead-your-tribe.jpg)
 
 So how do we influence those around us? How do we get the people we care about to care about what we care about as much as we care about it? 
 
@@ -24,13 +24,15 @@ Well, we could start tutting every time we see someone with a plastic bottle, si
 
 We like to think that everyone will act on well-reasoned logic, constantly questioning their actions, but this simply isn’t the case. Humans are social and emotional creatures.
 
-![](/images/uploads/lead-your-tribe-2.jpg)
+![Two stick figures are talking, one is wearing a pink skirt. This stick figure is saying to the other one "£5.99! Do you like it?", the other stick figure is saying "Tut tut tut".](/images/uploads/lead-your-tribe-2.jpg)
 
 In evolutionary timescales, homo sapiens were recently still roaming the savannah, and in that time, parts of our brains haven’t evolved at anywhere near the pace of the society around us. We spend every day trying to use primitive instincts to navigate an increasingly complex world. 
 
+> "How do we get the people we care about to care about what we care about as much as we care about it?"
+
 Anxiety is a feeling we all experience, some more than others. But this isn’t a surprise: our brains are still tuned to be on guard for what we perceive as ‘danger’. In the wilderness this might have been a large animal that saw us as prey, or a neighbouring tribe trying to invade our camp. This has now transferred to worries about anything from our health to the thought of being in certain situations which the brain interprets as dangerous. In the wild this would have been extremely useful and often life-saving but the chances of you getting killed at a job interview are usually fairly low. 
 
-![](/images/uploads/lead-your-tribe-3.jpg)
+![Picture shows 4 stick figures. 3 sit behind a table as job interviewers and the other one is standing nearby being interviews. One of the seated stick figures says "Welcome to the interview, why are you shaking?". The stick figure being interviewed is thinking of an image of him being chased by a lion in a thought bubble. ](/images/uploads/lead-your-tribe-3.jpg)
 
 Other behavioural traits that still manifest themselves today are tribalism and social proof. In the distant past, a tribe might consist of around 50 people and within that 50 we would look to leaders within the group for cues on how to behave. The risk of not following the behaviour of others was high, with the potential of being cast out and left to survive alone, the odds of which were not good. 
 
@@ -40,7 +42,7 @@ This tribalism can be particularly frustrating in a world which is increasingly 
 
 Therefore, the only way to inspire behaviour change is to become a leader. But most importantly, a leader who is liked, respected and who sets the example.
 
-![](/images/uploads/lead-your-tribe-4.jpg)
+![Picture shows a drawing of a social network comment section from a fictional website called 'Friendspace'. One user has commented "What if the hokey cokey isn't what it's all about...?". Other users have commented underneath this post saying things like "unfollowed", "welcome to the blocked list", and "so you're switching sides?! I thot you woz cleverer than that". ](/images/uploads/lead-your-tribe-4.jpg)
 
 Marketers and advertisers have been exploiting this tactic for decades, with libraries worth of literature dedicated to it. A particular favourite in recent times is social proof, which you can observe in the rise of social media ‘influencers’, who might be paid to wear a new pair of trainers or sunglasses so that their millions of followers who look to them for guidance will follow suit. 
 
@@ -48,9 +50,11 @@ You might say, “I don’t have a million Instagram followers, who is going to 
 
 One great way to do this is by signing a pledge, such as the [Flight Free pledge](https://www.flightfree.co.uk/pledge). Flying has become so normalised and a permanent fixture in so many lives in the developed world that to pledge to give it up, even for one year, is a big statement. 
 
+> "We can all start small and influence from within our tribe, even if it is just your immediate family."
+
 A pledge is great for making you stick to your promise – studies have shown this to be the case many times. But perhaps an even greater benefit is its use as a conversation starter, a way of saying, “I care about this issue and this is a step I am taking.” 
 
-![](/images/uploads/lead-your-tribe-5.jpg)
+![Picture shows a stick figure holding a piece of paper with the Flight Free 2020 pledge on it. ](/images/uploads/lead-your-tribe-5.jpg)
 
 You’d be surprised at the impact this can have. You don’t need to start shouting from the rooftops for the conversations to begin. 
 
@@ -76,6 +80,6 @@ And yes, you can share the pledge on social media too and that may have influenc
 
 Don’t get me wrong, I don’t think we can rely on individual change alone to save us from the biggest environmental problems we face. [I started a podcast for this exact reason.](https://disruptiveenvironmentalist.com/podcast-2/) But I do believe that if we have enough leaders who are influencing enough of their ‘tribes’ then the impact can be huge. 
 
-Individual change is something we can control, and the choices we make are all votes for the world we want to see. 
+#### Individual change is something we can control, and the choices we make are all votes for the world we want to see. 
 
-Rob Wreglesworth blogs and podcasts as 'The Disruptive Environmentalist’. For more stickman based pieces about the environment head to [www.disruptiveenvironmentalist.com](https://disruptiveenvironmentalist.com)
+*Rob Wreglesworth blogs and podcasts as 'The Disruptive Environmentalist’. For more stickman based pieces about the environment head to his [website](https://disruptiveenvironmentalist.com/). [](https://disruptiveenvironmentalist.com)*
