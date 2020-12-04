@@ -31,6 +31,14 @@ module.exports = {
         body: ["Quicksand", "sans-serif"],
         blog: ["Helvetica", "Arial", "sans-serif"]
       },
+      width: {
+        '300': '300px',
+        '320': '320px',
+      },
+      height: {
+        '44': '44px',
+        '54': '54px',
+      },
     },
     rotate: {
       '-6': '-6deg',
