@@ -41,33 +41,33 @@
   <%= yield %>
   <section class="bg-orange">
     <div class="container mx-auto">
-      <div class="px-4 sm:px-8 xl:px-16 xxl:px-48 pt-4 pb-6 xs:py-6 sm:py-8 xl:py-12 leading-tight text-center">
-        <h2 class="text-3xl xl:text-5xl text-white mb-4 xs:mb-6 sm:mb-8 xl:mb-8">Take the flight free pledge today!</h2>
-        <button class="bg-white text-blue-dark text-2xl w-full sm:w-auto sm:px-20 py-4" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
+      <div class="px-4 sm:px-8 xl:px-16 xxl:px-48 pt-4 pb-5 xs:py-6 sm:py-8 xl:py-12 leading-tight text-center">
+        <h2 class="text-lg sm:text-3xl xl:text-5xl text-white mb-4 xs:mb-6 sm:mb-8 xl:mb-8">Take the flight free pledge today!</h2>
+        <button class="bg-white text-blue-dark text-lg sm:text-2xl w-auto px-4 sm:px-20 py-2 sm:py-4" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
       </div>
     </div>
   </section>
   <footer class="bg-blue-dark">
     <div class="container mx-auto">
-      <div class="xl:flex justify-between bg-blue-dark px-8 xxl:px-24 py-8 text-white text-center">
-        <nav class="flex flex-wrap xl:w-2/5 justify-center xl:justify-between text-lg xl:text-base">
-          <%= link_to "About us", "/about_us.html", class: "w-full xl:w-auto mb-4 xl:mb-0" %>
-          <%= link_to "Contact", "/contact_us.html", class: "w-full xl:w-auto mb-4 xl:mb-0" %>
-          <%= link_to "Downloads", "/downloads.html", class: "w-full xl:w-auto mb-8 xl:mb-0" %>
-          <div class="flex w-1/2 xl:w-1/4 justify-between mb-12 xl:mb-0">
-            <a href="https://twitter.com/<%= data.social_media.twitter %>" class="w-8 h-8 xl:w-6 xl:h-6 flex justify-center bg-white rounded-full" target="_blank">
-              <%= image_tag "/svg/twitter.svg", class: "w-4" %>
-            </a>
-            <a href="https://instagram.com/<%= data.social_media.instagram %>" class="w-8 h-8 xl:w-6 xl:h-6 flex items-center justify-center bg-white rounded-full" target="_blank">
-              <%= image_tag "/images/instagram.png", class: "w-4" %>
-            </a>
-            <a href="https://facebook.com/<%= data.social_media.facebook %>" class="w-8 h-8 xl:w-6 xl:h-6 flex justify-center bg-white rounded-full" target="_blank">
-              <%= image_tag "/svg/facebook.svg", class: "w-2" %>
-            </a>
-          </div>
+      <div class="flex flex-wrap justify-between xl:items-center bg-blue-dark px-4 sm:px-8 xxl:px-24 py-4 sm:py-8 text-white text-sm xl:text-base leading-tight">
+        <nav class="flex flex-wrap w-1/2 xl:w-auto justify-start mb-4 sm:mb-0">
+          <%= link_to "About us", "/about_us.html", class: "w-full sm:w-auto mb-1 sm:mr-4" %>
+          <%= link_to "Contact", "/contact_us.html", class: "w-full sm:w-auto mb-1 sm:mr-4" %>
+          <%= link_to "Downloads", "/downloads.html", class: "w-full sm:w-auto mb-1" %>
         </nav>
-        <nav class="xl:flex xl:w-1/4 justify-between text-base">
-          <%= link_to "Terms and conditions", "/terms_and_conditions.html", class: "block mb-2 xl:mb-0" %>
+        <nav class="flex flex-wrap xl:w-1/3 sm:justify-end xl:justify-start mb-4 sm:mb-0">
+          <a href="https://twitter.com/<%= data.social_media.twitter %>" class="w-8 h-8 flex justify-center bg-white rounded-full" target="_blank">
+            <%= image_tag "/svg/twitter.svg", class: "w-4" %>
+          </a>
+          <a href="https://instagram.com/<%= data.social_media.instagram %>" class="w-8 h-8 flex items-center justify-center bg-white rounded-full ml-2 sm:ml-2" target="_blank">
+            <%= image_tag "/images/instagram.png", class: "w-4" %>
+          </a>
+          <a href="https://facebook.com/<%= data.social_media.facebook %>" class="w-8 h-8 flex justify-center bg-white rounded-full ml-2 sm:ml-2" target="_blank">
+            <%= image_tag "/svg/facebook.svg", class: "w-2" %>
+          </a>
+        </nav>
+        <nav class="flex flex-wrap w-full xl:w-1/3 justify-between sm:justify-start xl:justify-end">
+          <%= link_to "Terms and conditions", "/terms_and_conditions.html", class: "block mb-2 xl:mb-0 sm:mr-4" %>
           <%= link_to "Privacy Policy", "/privacy_policy.html", class: "block mb-2 xl:mb-0" %>
         </nav>
       </div>
