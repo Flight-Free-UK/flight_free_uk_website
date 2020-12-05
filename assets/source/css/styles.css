@@ -80,7 +80,7 @@ strong {
 
 .blog-post-body > p, .blog-post-body ul, .blog-post-body ol, .blog-post-body blockquote {
   @apply font-blog;
-  @apply font-light leading-normal text-text-default;
+  @apply font-normal leading-normal text-text-default;
   @apply mb-6;
 }
 
