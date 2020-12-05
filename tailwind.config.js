@@ -32,7 +32,8 @@ module.exports = {
         blog: ["Helvetica", "Arial", "sans-serif"]
       },
       width: {
-        '300': '300px',
+        '280': '280px', // 288 - (2 x 4 rounded corners)
+        '288': '288px', // 320 - (2 x 16 margins)
         '320': '320px',
       },
       height: {
