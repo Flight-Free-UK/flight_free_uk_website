@@ -28,7 +28,7 @@ Jo thought it would be a good trip. I didn’t like cycling very much! I tried t
 
 #### **Jo:**
 
- We had read books by Mark Beaumont and Alastair Humphreys – crazy people who do really long trips – and thought I could never do that, but what I might be able to do is ride 20 miles a day in France and eat lots of bread and cheese and carry the tent. We had a really nice time. We’d always driven places before and the bike opened up a new kind of holiday and it went from there.
+We had read books by Mark Beaumont and Alastair Humphreys – crazy people who do really long trips – and thought I could never do that, but what I might be able to do is ride 20 miles a day in France and eat lots of bread and cheese and carry the tent. We had a really nice time. We’d always driven places before and the bike opened up a new kind of holiday and it went from there.
 
 > "We’d always driven places before and the bike opened up a new kind of holiday and it went from there."
 
@@ -42,7 +42,7 @@ We thought, we could have a bash at that. So we put some panniers on our bikes, 
 
 #### **Flight Free UK:**
 
- *So that meant you were catapulted into the category of crazy people!*
+So that meant you were catapulted into the category of crazy people!
 
 #### **Jo:**
 
@@ -54,11 +54,11 @@ And we've never had frost in our beards.
 
 #### **Flight Free UK:**
 
-*So what are the advantages of travelling by bicycle?*
+So what are the advantages of travelling by bicycle?
 
 #### **Jo:**
 
- Eating lots of cake! That's number one for me. Not worrying about going to three bakeries a day and having all kinds of different treats. It’s essential in terms of calories and energy. That’s one of the biggest draws! Now if we ever drive anywhere I feel like we haven’t earned our treat. 
+Eating lots of cake! That's number one for me. Not worrying about going to three bakeries a day and having all kinds of different treats. It’s essential in terms of calories and energy. That’s one of the biggest draws! Now if we ever drive anywhere I feel like we haven’t earned our treat. 
 
 #### **Debs:**
 
@@ -67,7 +67,7 @@ The more you travel in this way the more it feels weird to fly somewhere and be 
 
 #### **Flight Free UK:**
 
-*One thing I like about bicycle travel is that it's fast enough to get somewhere but it’s slow enough to see everything. The physicality is included as well.* 
+Bicycle travel is fast enough to get somewhere but it’s slow enough to see everything. The physicality is included as well. 
 
 #### **Jo:**
 
@@ -81,17 +81,19 @@ There's a great sense of accomplishment.
 
 #### Flight Free UK:
 
-*So given that international travel is so tricky at the moment, could the bicycle be the way we access travel and adventure while more conventional types of travel are difficult? It’s in our nature to get out and explore. As we've said, it’s a very accessible form of transport – we saw it during the lockdown in March this year when everyone was getting out on their bikes. Now of course, Debs and Jo’s France tour led to them cycling all the way around the world. But it doesn't have to be long distance – one of the things Debs said during our chat was if you keep the mileage down you can keep the comfort high. You don't even have to camp – you can stay in hotels, do whatever makes you feel happy. There’s so much to explore here in the UK and you can really get to know places if you go there by bike.*
+So given that international travel is so tricky at the moment, could the bicycle be the way we access travel and adventure while more conventional types of travel are difficult? It’s in our nature to get out and explore. As we've said, it’s a very accessible form of transport – we saw it during the lockdown in March this year when everyone was getting out on their bikes. 
+
+Now of course, Debs and Jo’s France tour led to them cycling all the way around the world. But it doesn't have to be long distance – one of the things Debs said during our chat was if you keep the mileage down you can keep the comfort high. You don't even have to camp – you can stay in hotels, do whatever makes you feel happy. There’s so much to explore here in the UK and you can really get to know places if you go there by bike.
 
 #### **Debs:**
 
- We got this book, Wild Ruins, and took the train to Kings Lynn, and stayed at hostels etc. We visited 12 ruined churches or abbeys in four days which gave a real sense of purpose to the trip. Whatever you’re interested in you can find those things and join them up by bicycle.
+We got this book, Wild Ruins, and took the train to Kings Lynn, and stayed at hostels etc. We visited 12 ruined churches or abbeys in four days which gave a real sense of purpose to the trip. Whatever you’re interested in you can find those things and join them up by bicycle.
 
 ![Jo and Debs are sitting side-by-side holding a piece of paper with the Flight Free 2020 pledge on it. They are both smiling and there is a grassy park in the background. ](/images/uploads/debsjo.jpg "Jo and Debs with their Flight Free 2020 pledge ")
 
 #### **Flight Free UK:**
 
-*What is your essential piece of kit?*
+What is your essential piece of kit?
 
 #### **Jo:**
 
@@ -99,13 +101,13 @@ We always take a real pillow. They’re pretty bulky but they don’t weigh much
 
 #### **Debs:**
 
- Pack as light as you can. But don’t scrimp on gloves and socks for different weathers. If your hands and feet are comfy and warm and dry you’ll feel better about life. 
+Pack as light as you can. But don’t scrimp on gloves and socks for different weathers. If your hands and feet are comfy and warm and dry you’ll feel better about life. 
 
 > "Whatever you’re interested in you can find those things and join them up by bicycle."
 
 #### **Flight Free UK:**
 
-*We often talk about how travel opens our eyes to new cultures and helps us understand each other, and is a really important part of our globalised society. But at Flight Free UK we question whether air travel gives us that? Are we really conscious travellers when we fly? Or are other modes of travel more effective in teaching us about the world? Do you think that riding a bicycle makes you a more conscious traveller?*
+We often talk about how travel opens our eyes to new cultures and helps us understand each other, and is a really important part of our globalised society. But at Flight Free UK we question whether air travel gives us that? Are we really conscious travellers when we fly? Or are other modes of travel more effective in teaching us about the world? Do you think that riding a bicycle makes you a more conscious traveller?
 
 #### **Debs:**
 
@@ -113,9 +115,11 @@ Yes
 
 #### **Jo:**
 
-One thing that you can’t grasp when you travel by plane is distance. You get on a plane and a set amount of hours later you’re deposited in a new place. To appreciate how different it is and how far away from home it is, to be transported there in a box takes that away completely. The other thing about travelling by bike is that you have to be aware of the places that you travel through. You need to get supplies, you need to stop for a break. We’ve met people in Asia who've been flying from site to tourist site to tourist site and you miss out all the rest of the country – you don’t appreciate what else there is and what a country is really like. Although you only ever get a glimpse of what a country is like, even by bike, you can’t see it all, but what you do see is a really good cross section because you have to travel through places where people live rather than just places where people visit as a tourist. You feel connected because your wheels are on the ground for a start but also people come and talk to you, interact, rather than just zooming over or through. 
+One thing that you can’t grasp when you travel by plane is distance. You get on a plane and a set amount of hours later you’re deposited in a new place. To appreciate how different it is and how far away from home it is, to be transported there in a box takes that away completely. 
 
-> "You feel connected because people come and talk to you, interact, rather than just zooming over or through."
+The other thing about travelling by bike is that you have to be aware of the places that you travel through. You need to get supplies, you need to stop for a break. We’ve met people in Asia who've been flying from site to tourist site to tourist site and you miss out all the rest of the country – you don’t appreciate what else there is and what a country is really like. Although you only ever get a glimpse of what a country is like, even by bike, you can’t see it all, but what you do see is a really good cross section because you have to travel through places where people live rather than just places where people visit as a tourist. You feel connected because your wheels are on the ground for a start but also people come and talk to you, interact, rather than just zooming over or through. 
+
+> "You feel connected because people come and talk to you. You interact rather than just zooming over or through."
 
 #### **Debs:**
 
@@ -127,7 +131,7 @@ It’s more realistic. If you want an authentic travel experience, it’s that a
 
 **Flight Free UK:** 
 
-*So let's finish by talking about the climate. Now we’re at this point in our planet's history where emissions have to fall and fast. Do you think this is part of the answer? Reimagining travel and using flights very sparingly?*
+So let's finish by talking about the climate. Now we’re at this point in our planet's history where emissions have to fall and fast. Do you think this is part of the answer? Reimagining travel and using flights very sparingly?
 
 #### **Debs:**
 
@@ -139,8 +143,8 @@ And it is hard. It takes people to reassess what a holiday is. For most people, 
 
 #### Flight Free UK:
 
-*That’s a great sentiment to finish with, so thank you to Debs and Jo for joining us this month. You can follow their adventures at [@brakesandcakes](https://twitter.com/brakesandcakes?lang=en) on twitter. Thanks for listening and see you next month.*
+That’s a great sentiment to finish with, so thank you to Debs and Jo for joining us this month. You can follow their adventures at [@brakesandcakes](https://twitter.com/brakesandcakes?lang=en) on twitter. Thanks for listening and see you next month.
 
 #### You can listen to this full podcast, and access the rest of the series, at our [podcast page.](https://flightfree.co.uk/podcast/)
 
-*Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: L. Sophie Helbig. Sound effects: Josh Hill.*
+*Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
