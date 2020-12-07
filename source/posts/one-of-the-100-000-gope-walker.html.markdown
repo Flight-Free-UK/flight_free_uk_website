@@ -3,7 +3,7 @@ published: true
 title: "Flight Free for 2020: Gope Walker"
 category: testimonials
 date: 2019-08-15T12:02:45.144Z
-cover_image: /images/uploads/10462804_10152111403236513_5868633022286124390_n.jpg
+cover_image: /images/uploads/gope_bike.jpg
 summary: "Gope Walker runs an IT consultancy and has clients and staff across
   three continents. He is also a triathlete and British Triathlon coach, and
   usually flies for work or for sporting events. We caught up with Gope and
@@ -11,9 +11,9 @@ summary: "Gope Walker runs an IT consultancy and has clients and staff across
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows a man on a sports bike wearing balck, white and red professional grade cycling gear. He is also wearing an aerodynamic white helmet. There is a river and trees in the background.](/images/uploads/10462804_10152111403236513_5868633022286124390_n.jpg)
+![Gope Walker riding his sports bike during a triathlon race.](/images/uploads/gope_bike.jpg)
 
-### **Thanks for signing the pledge, Gope! It’s great to have your support. What turned you on to the idea?** 
+### **Thanks for signing the pledge, Gope! It’s great to have your support. What turned you on to the idea?**
 
 I saw the Flight Free pledge on BBC Breakfast and thought it was a great idea. I've got a Masters in Environmental Science and have always been conscious of climate issues but it's only been recently that I've been proactive enough to change, like moving nearer to a plant-based diet and cutting back on flying. It's easy to be apathetic about the environment when your peers are the same. 
 
