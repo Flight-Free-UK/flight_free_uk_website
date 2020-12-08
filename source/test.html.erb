@@ -14,7 +14,16 @@ title: FlightFree UK
         <div class="w-full lg:w-5/6">
 
 <%# start pledge progress bar %>
-        <%= partial "progress_bar" %>
+<div class="pledge-progress font-body bg-white text-blue-dark">
+<iframe
+    src="https://www.jakemcmurchie.net/flightfree/flightfree-progress.php"
+    title="Flight Free pledge form 2021 progress bar"
+    id="flightfreeuk-progress"
+    width="100%"
+    height="44"
+    class="h-44"
+></iframe>
+</div>
 <%# end progress bar %>
 
         </div>
@@ -35,7 +44,15 @@ title: FlightFree UK
       <div class="w-full sm:w-1/2 lg:w-1/3 mx-auto xl:w-1/3 xl:mx-0">
 
 <%# start pledge form %>
-        <%= partial "pledge_form", locals: { id: "home" } %>
+<div class="pledge-card bg-white shadow-md rounded m-auto my-6">
+<iframe
+    src="https://www.jakemcmurchie.net/flightfree/flightfree-pledge.php"
+    title="Flight Free pledge form 2021"
+    id="flightfreeuk-pledgeform-home"
+    height="432"
+    class="mx-auto w-280 lg:w-320"
+></iframe>
+</div>
 <%# end pledge form %>
 
       </div>
@@ -77,7 +94,7 @@ title: FlightFree UK
             <img src="/svg/two.svg" />
             <h3 class="w-full text-3xl text-blue-dark my-6 leading-tight">Share the<br>pledge</h3>
             <p class="w-full text-2xl mb-12 leading-tight">Share the pledge on your social channels</p>
-            <div class="flex justify-between sm:justify-evenly lg:justify-between w-full">
+            <div class="flex justify-between w-full">
               <% link_to "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "mr-2 sm:mr-4", target: "_blank" do %>
                 <img src="/svg/twitter_with_bg.svg">
               <% end %>

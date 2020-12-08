@@ -60,7 +60,7 @@ The sleeper trains often have border checks in Switzerland at about 3 AM local t
 
 #### An advantage of travelling by rail around Europe is that there are excellent options to get around European countries.
 
-There is a massive majority of these trains are electric – compared to planes, which use jet fuel, which isn’t environmentally friendly.
+A massive majority of these trains are electric – compared to planes, which use jet fuel, which isn’t environmentally friendly.
 
 For children on the Eurostar, during the journey through the channel tunnel, there is a type of a virtual reality game (headsets and other requirements are offered at both stations) where you can explore beneath the ocean, collecting and discovering different marine animals, with the assistance of 2 divers.
 
