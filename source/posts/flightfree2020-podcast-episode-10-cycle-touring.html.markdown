@@ -12,7 +12,7 @@ read_time_minute: 6
 ---
 ## This podcast is episode 10 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![A bicycle is leaned against a white brick wall. The frame of the bike is blue, but the wheels are bright orange. ](/images/uploads/bicycle-against-wall-.jpg "Photo credit: Tiffany Nutt (Source: Unsplash)")
+![A touring bicycle loaded with panniers, tent and roll mat](/images/uploads/touring_bike.jpeg)
 
 #### In our flight free 2020 podcast series we've talked a lot about travel. We’ve told you how to get to the Alps and various other European destinations by train, we've looked at the home grown tourism here in the British Isles – we’ve even explored how to cross an ocean without flying. But how about taking it back to basics with the humble bicycle?
 
