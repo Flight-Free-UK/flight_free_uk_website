@@ -10,7 +10,7 @@ read_time_minute: 2
 ---
 ## Last Christmas, we tweeted a suggestion from one of our supporters: ‘Why not use your Christmas cards to spread the word?’
 
-![Maggie in front of her mantlepiece which has Christmas cards on it](/images/uploads/maggie_and_christmas_mantelpiece.jpg "Maggie, one of our team members")
+![Maggie in front of her mantlepiece which has Christmas cards on it](/images/uploads/maggie_christmas_mantelpiece.jpg "Maggie and her Christmas cards")
 
 ### Our team member Maggie decided to do just that. Here's what happened:
 
