@@ -18,7 +18,7 @@ Our holiday this year was to be a self-guided walking tour through Umbria, the f
 
 For many years I have been working with [AirportWatch](http://airportwatch.org.uk/), a campaign that links groups and individuals opposing the negative environmental impacts of air travel. Given that Italy is within reasonable overland reach of the UK, I felt it would be at odds with my work to fly for our holiday. No such restriction applied to my husband, and with the added element of family and work commitments, he booked his flight.
 
-> "I felt it would be at odds with my work to fly for our holiday. No such restriction applied to my husband, so he booked his flight."
+> "I felt it would be at odds with my work to fly for our holiday."
 
 As I battled with the various train timetables, linking them with long distance coaches, leaving sufficient time to transfer from coach to train in cities, I could appreciate why those who identify with "Tågskryt" or "train bragging" feel they have earned the right. My husband's trip took little planning or careful consideration: just one website and the flight is booked. My trip had four different sections, each needing to connect with the other. It was certainly not easy, though there was plenty of satisfaction in fitting it all together and making it work.
 
