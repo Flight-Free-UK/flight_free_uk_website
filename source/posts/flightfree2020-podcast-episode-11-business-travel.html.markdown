@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "#FlightFree2020 podcast episode 11: business travel"
 category: travel
 date: 2020-12-07T17:47:01.570Z
