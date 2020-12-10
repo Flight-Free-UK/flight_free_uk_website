@@ -11,7 +11,7 @@ summary: The first episode of our new podcast series features an interview with
 author: FlightFree UK
 read_time_minute: 6
 ---
-### This podcast is episode 1 of our #flightfree2020 series. You can listen to the podcast [here](https://www.podbean.com/media/share/pb-jbxvs-ceec5e?utm_campaign=u_share_ep&utm_medium=dlink&utm_source=u_share), and access the rest of the series at our [podcast page](https://flightfree.co.uk/podcast/).
+### This podcast is episode 1 of our #FlightFree2020 series. You can listen to the podcast [here](https://www.podbean.com/media/share/pb-jbxvs-ceec5e?utm_campaign=u_share_ep&utm_medium=dlink&utm_source=u_share), and access the rest of the series at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![Picture shows Maja holding a piece of paper with her Flight Free 2020 pledge on it. She is standing in front of some bare trees in the sun. She is smiling and wearing a coat and scarf. ](/images/uploads/maja-rosen.jpg "Maja with her Flight Free 2020 pledge")
 
