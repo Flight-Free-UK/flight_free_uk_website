@@ -4,12 +4,12 @@ title: "#FlightFree2020 podcast episode 8: stay-at-home travel"
 category: travel
 date: 2020-08-21T11:20:07.407Z
 cover_image: /images/uploads/helensteph.jpg
-summary: "We speak to two travel writers about making the #flightfree2020 pledge
+summary: "We speak to two travel writers about making the #FlightFree2020 pledge
   and what lockdown has meant for our attitude towards travel"
 author: FlightFree UK
 read_time_minute: 8
 ---
-## This podcast is episode 8 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+## This podcast is episode 8 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![Helen Coffey and Steph Parker are shown here both holding pieces of paper with Flight Free 2020 pledges on them, they are both smiling. ](/images/uploads/helensteph.jpg "Helen Coffey (left) and Steph Parker (right)")
 
