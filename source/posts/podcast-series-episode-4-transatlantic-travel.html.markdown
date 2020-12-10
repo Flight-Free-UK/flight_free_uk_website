@@ -9,7 +9,7 @@ summary: Author and adventurer Kate Rawles shares the tale of her transatlantic
 author: FlightFree UK
 read_time_minute: 9
 ---
-## This podcast is episode 4 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+## This podcast is episode 4 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![Picture shows Kate biking through mountainous terrain. She is turning back to the camera whilst wearing a scarf over her mouth. In the background are snowy mountain peaks. ](/images/uploads/kater.jpg)
 
