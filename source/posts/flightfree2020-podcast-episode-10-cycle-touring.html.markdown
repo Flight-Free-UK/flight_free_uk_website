@@ -3,7 +3,7 @@ published: true
 title: "#FlightFree2020 podcast episode 10: cycle touring"
 category: travel
 date: 2020-11-03T16:01:06.361Z
-cover_image: /images/uploads/debsjo.jpg
+cover_image: /images/uploads/debs_jo.jpg
 summary: For low-carbon travel, you can't beat the humble bicycle. We speak to
   Debs and Jo, two seasoned (but very normal) cycle tourers about the wonders of
   exploring on two wheels.
@@ -12,7 +12,7 @@ read_time_minute: 6
 ---
 ## This podcast is episode 10 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![A bicycle is leaned against a white brick wall. The frame of the bike is blue, but the wheels are bright orange. ](/images/uploads/bicycle-against-wall-.jpg "Photo credit: Tiffany Nutt (Source: Unsplash)")
+![A touring bicycle loaded with panniers, tent and roll mat](/images/uploads/touring_bike.jpeg)
 
 #### In our flight free 2020 podcast series we've talked a lot about travel. We’ve told you how to get to the Alps and various other European destinations by train, we've looked at the home grown tourism here in the British Isles – we’ve even explored how to cross an ocean without flying. But how about taking it back to basics with the humble bicycle?
 
@@ -144,6 +144,8 @@ And it is hard. It takes people to reassess what a holiday is. For most people, 
 #### Flight Free UK:
 
 That’s a great sentiment to finish with, so thank you to Debs and Jo for joining us this month. You can follow their adventures at [@brakesandcakes](https://twitter.com/brakesandcakes?lang=en) on twitter. Thanks for listening and see you next month.
+
+![Debs and Jo on their bikes in front of the Leicestershire county sign](/images/uploads/debs_jo.jpg "Debs and Jo on the road")
 
 #### You can listen to this full podcast, and access the rest of the series, at our [podcast page.](https://flightfree.co.uk/podcast/)
 
