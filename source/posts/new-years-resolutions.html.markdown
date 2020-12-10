@@ -49,6 +49,8 @@ it has helped us to feel grounded. This year, when you travel, make the journey
 part of your adventure. Spend less time stressing at the airport and more time
 gazing out of the window. Savour the journey and chill.
 
+![hand holding pen writing notes in a spiralbound notebook with black mug in corner](/images/uploads/new-year-resolution.jpg "Photo by fotografierende on Unsplash")
+
 And you won’t be alone. Sticking to a New Year’s resolution is much easier if you
 do it with someone else. If you pledge to be flight free you will have the support
 of thousands of like-minded people. And if you talk to your friends about your
