@@ -1,6 +1,6 @@
 ---
 published: true
-title: New Year’s Resolutions
+title: New Year's Resolutions
 category: opinion
 date: 2020-12-10T16:05:58.589Z
 cover_image: /images/uploads/thomas-park-d5tyt5asi0y-unsplash.jpg
