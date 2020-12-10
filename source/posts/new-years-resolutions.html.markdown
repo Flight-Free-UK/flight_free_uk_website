@@ -53,6 +53,6 @@ pledge, there are good reasons to think they might fly less too. It’s a social
 contagion, which is so much better than a viral one! 
 
 > "Sticking to a New Year’s resolution is much easier if you
-> do it with someone else."
+> do it with someone else. It’s a social contagion, which is so much better than a viral one!"
 
 **Let’s see if together we can finally start to bend the curve of emissions growth downwards.**
