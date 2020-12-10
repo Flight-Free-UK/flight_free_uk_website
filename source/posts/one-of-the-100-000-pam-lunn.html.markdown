@@ -4,7 +4,7 @@ title: "Flight Free for 2020: Pam Lunn"
 category: testimonials
 date: 2019-08-19T11:46:22.621Z
 cover_image: /images/uploads/red-nailvarnish-small.jpg
-summary: "We hear from our pledgers about why they've chosen to be #flightfree in 2020"
+summary: "We hear from our pledgers about why they've chosen to be #FlightFree in 2020"
 author: FlightFree UK
 read_time_minute: 3
 ---
