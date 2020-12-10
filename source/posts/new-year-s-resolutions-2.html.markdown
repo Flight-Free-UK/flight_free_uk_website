@@ -1,6 +1,6 @@
 ---
-published: false
-title: New Year’s Resolutions 2
+published: true
+title: New Year’s Resolutions
 category: opinion
 date: 2020-12-10T16:05:58.589Z
 cover_image: /images/uploads/thomas-park-d5tyt5asi0y-unsplash.jpg
@@ -12,13 +12,13 @@ read_time_minute: 2
 
 At Flight Free UK we love a New Year’s resolution. The flight free movement started with [Maja Rosén’s New Year’s resolution](/post/podcast-series-episode-1-new-years-resolutions/) that, when people told her about their flights, she would talk to them about the climate. From that sprang the campaign to ask 100,000 Swedes to stop flying for a year. We believe that taking a flight free year is absolutely the best New Year’s resolution you can make.
 
-> "We believe that taking a flight free year is absolutely the best New Year’s resolution you can make" 
-
 This time last year we were asking people if taking the Flight Free 2020 pledge could be their New Year’s resolution. Of course, no one could have predicted what happened next. Record numbers of people stayed grounded, but not through choice. For many it has been a miserable year, and we totally understand people wanting to get out of here at the first opportunity.
 
 But before you click ‘book’ on that flight, could you make a different choice?
 
 Depending on how much you fly normally, not flying will make more difference to your carbon footprint than almost anything else. Forgoing just one long-haul flight would have more benefit than even a really demanding resolution like going vegan. (Of course, you can do both. All areas of our emissions need to come down, and reducing the amount of meat and dairy you consume is very much worth doing too.)
+
+> "We believe that taking a flight free year is absolutely the best New Year’s resolution you can make."
 
 And while your heart might sink at the thought of having to stay put in 2021 too, the good news is that you don’t have to! There are lots of fabulous destinations within reach.  The spectacular British coastline, quirky European cities, the Alps, even Mediterranean resorts, can all be enjoyed without flying.
 
