@@ -10,7 +10,7 @@ summary: Awareness of climate change is rising, but our behaviour doesn't always
 author: FlightFree UK
 read_time_minute: 10
 ---
-## This podcast is episode 7 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+## This podcast is episode 7 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![Picture shows a crowd of lego figures. Standing in the middle of the crowd with the camera focused upon it, is a lego figure of a man wearing a blue suit and carrying a briefcase. ](/images/uploads/lego-figure-in-crowd.jpg)
 
