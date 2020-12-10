@@ -10,7 +10,7 @@ summary: In the second episode of our 2020 podcast series we talk to SnowCarbon
 author: FlightFree UK
 read_time_minute: 7
 ---
-### This podcast is episode 2 of our #flightfree2020 series. You can listen to the podcast [here](https://www.podbean.com/media/share/pb-bshpw-d2328c?utm_campaign=u_share_ep&utm_medium=dlink&utm_source=u_share), and access the rest of the series at our [podcast page.](https://flightfree.co.uk/podcast/)
+### This podcast is episode 2 of our #FlightFree2020 series. You can listen to the podcast [here](https://www.podbean.com/media/share/pb-bshpw-d2328c?utm_campaign=u_share_ep&utm_medium=dlink&utm_source=u_share), and access the rest of the series at our [podcast page.](https://flightfree.co.uk/podcast/)
 
 ![Picture shows Daniel smiling at the camera wearing a bright blue ski coat. In the background is a blurred wood chalet, along a snowy and sunny mountain view. ](/images/uploads/danielelkan.jpg "Daniel Elkan, in his element")
 
@@ -34,7 +34,7 @@ When I got home I went into my loft and found an old European rail timetable fro
 
 > "In our society, the default is to fly, it doesn’t even cross our minds that we can travel by other means. Everything is skewed towards that flight."
 
-*The Interrail map had shown Daniel that train was an option, and had inspired him to start organising ski trips by train for him and his mates. But finding out the how to book the journey was the difficult part. Nothing was joined up. That’s what led to him setting up the website [SnowCarbon](www.snowcarbon.co.uk), a guide to how to travel to the ski resorts by train.[](http://www.snowcarbon.co.uk)*
+*The Interrail map had shown Daniel that train was an option, and had inspired him to start organising ski trips by train for him and his mates. But finding out the how to book the journey was the difficult part. Nothing was joined up. That’s what led to him setting up the website [SnowCarbon](www.snowcarbon.co.uk), a guide to how to travel to the ski resorts by train.*[](http://www.snowcarbon.co.uk)
 
 #### Daniel:
 
