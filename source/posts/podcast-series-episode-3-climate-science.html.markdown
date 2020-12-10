@@ -9,7 +9,7 @@ summary: The third episode in our 2020 podcast series features comedian Dr Matt
 author: FlightFree UK
 read_time_minute: 4
 ---
-## This podcast is episode 3 of our #flightfree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+## This podcast is episode 3 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![Picture shows Matt staring into the camera with a panicked expression. He is standing in front of a blue background. ](/images/uploads/mattywinning.jpg)
 
