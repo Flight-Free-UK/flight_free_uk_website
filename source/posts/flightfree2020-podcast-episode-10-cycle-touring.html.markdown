@@ -129,7 +129,7 @@ Everyone wants to talk to you when you ride a bike. It’s also a great way to f
 
 It’s more realistic. If you want an authentic travel experience, it’s that and more because you get the bad stuff as well as the good stuff. If you fly over stuff you miss all the stuff in between.
 
-**Flight Free UK:** 
+#### Flight Free UK:
 
 So let's finish by talking about the climate. Now we’re at this point in our planet's history where emissions have to fall and fast. Do you think this is part of the answer? Reimagining travel and using flights very sparingly?
 
