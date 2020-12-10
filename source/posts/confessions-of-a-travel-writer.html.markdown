@@ -5,7 +5,7 @@ category: travel
 date: 2020-01-10T18:52:21.753Z
 cover_image: /images/uploads/HannaLindon1.jpg
 summary: "Hanna Lindon, freelance travel journalist, explains what taking the
-  #flightfree2020 pledge means for her life and career."
+  #FlightFree2020 pledge means for her life and career."
 author: FlightFree UK
 read_time_minute: 3
 ---
