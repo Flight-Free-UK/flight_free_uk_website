@@ -3,16 +3,16 @@ published: true
 title: New Year's Resolutions
 category: opinion
 date: 2020-12-10T16:05:58.589Z
-cover_image: /images/uploads/thomas-park-d5tyt5asi0y-unsplash.jpg
+cover_image: /images/uploads/thomas-park-unsplash-sq.jpg
 summary: Could going flight free in 2021 be your New Year’s Resolution?
 author: FlightFree UK
 read_time_minute: 2
 ---
-## How do you feel about New Year’s Resolutions? Are they a welcome prompt to self improvement? Do you feel optimistic and excited? 
+## How do you feel about New Year’s Resolutions? Are they a welcome prompt to self improvement? Do you feel optimistic and excited?
 
 #### Or do you groan at the thought, already anticipating the day you break your resolution and feel guilty? 
 
-![large bright yellow orange singular firework exploding against black night sky](/images/uploads/thomas-park-d5tyt5asi0y-unsplash.jpg "﻿ Cover photo credit: Thomas Park on Unsplash")
+![large bright yellow orange singular firework exploding against black night sky](/images/uploads/thomas-park-unsplash.jpg "﻿ Cover photo credit: Thomas Park on Unsplash")
 
 At Flight Free UK we love a New Year’s resolution. The flight free movement started with [Maja Rosén’s New Year’s resolution](https://flightfree.co.uk/post/the-best-new-years-resolution-ever/) that, when people told her about their flights, she would talk to them about the climate. From that sprang the campaign to ask 100,000 Swedes to stop flying for a year. We believe that taking a flight free year is absolutely the best New Year’s resolution you can make.
 
