@@ -9,9 +9,9 @@ summary: Flight Free 2020 didn't work out at all the way we thought it would.
 author: FlightFree UK
 read_time_minute: 10
 ---
-![Eight members of the flight free UK team wave at the camera. This is a screen shot of a Zoom call](/images/uploads/screenshot_team_waving.jpg "The Flight Free UK team")
+## This podcast is episode 12 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-https://flightfreeuk.podbean.com/e/flightfree2020-series-episode-12-reflections-on-2020/
+![Eight members of the flight free UK team wave at the camera. This is a screen shot of a Zoom call](/images/uploads/screenshot_team_waving.jpg "The Flight Free UK team")
 
 ### Anna:
 
@@ -97,7 +97,7 @@ Realising all the changes that have happened in so short an amount of time and a
 
 I managed to find escape in different ways, e.g in the first month of lockdown I read 18 books. I’m a big reader but that's a lot even for me! I’ve been listening to a lot of podcasts and educating myself. I have got closer to the people who mean a lot to me, even though it was in a digital and virtual way because I had time to do that, and realise how much I love and appreciate them. When we are living the fast life we don’t appreciate our loved ones or the small things. I feel that a lot of people are looking in the same direction in terms of the changes that need to be made with regards to the climate crisis. 
 
-### Anna: 
+### Anna:
 
 That’s a really good point from Armelle, that we have made very significant changes very quickly to cope with Covid, and we've adapted to them, and that shows that we can make changes like this. Because we need to do it in response to the climate crisis. Like we’re now finding a vaccine for covid, the climate crisis also has an antidote, and that's to stop burning fossil fuels. That does mean we’re going to have to change everything about the way we live. But we can do that. And we must. And if we choose this, it will be much less distressing and disruptive than what we’ve gone through this year with Covid. 
 
