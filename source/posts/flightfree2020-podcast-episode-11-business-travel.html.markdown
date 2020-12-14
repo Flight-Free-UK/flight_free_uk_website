@@ -2,7 +2,7 @@
 published: true
 title: "#FlightFree2020 podcast episode 11: business travel"
 category: travel
-date: 2020-12-07T17:47:01.570Z
+date: 2020-11-30T17:47:01.570Z
 cover_image: /images/uploads/gope_walker.jpg
 summary: CEO and businessman Gope Walker has clients and staff across three
   continents, and speaks to us about how it's possible to run a successful
