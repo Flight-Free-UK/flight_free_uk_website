@@ -11,7 +11,7 @@ read_time_minute: 10
 ---
 ## This podcast is episode 12 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![Eight members of the flight free UK team wave at the camera. This is a screen shot of a Zoom call](/images/uploads/screenshot_team_waving.jpg "The Flight Free UK team")
+![Eight members of the flight free UK team wave at the camera. This is a screen shot of a Zoom call](/images/uploads/screenshot_team_waving.jpg "The Flight Free UK team. From top left: Tom, Anna, Sunita, Ruby, Maggie, Armelle, Kirsty, Rachel")
 
 ### Anna:
 
@@ -101,4 +101,8 @@ I managed to find escape in different ways, e.g in the first month of lockdown I
 
 That’s a really good point from Armelle, that we have made very significant changes very quickly to cope with Covid, and we've adapted to them, and that shows that we can make changes like this. Because we need to do it in response to the climate crisis. Like we’re now finding a vaccine for covid, the climate crisis also has an antidote, and that's to stop burning fossil fuels. That does mean we’re going to have to change everything about the way we live. But we can do that. And we must. And if we choose this, it will be much less distressing and disruptive than what we’ve gone through this year with Covid. 
 
-So even though flight free 2020 didn’t turn out at all the way we thought it might, we are still asking people to pledge not to fly in 2021. This isn’t a restriction like Covid has been, it’s a choice, and a really empowering one at that. So we hope you’re inspired to sign up for next year. Thanks for listening and see you again in the new year when we’ll be starting a brand new podcast series for 2021. But for now, from flight free 2020, goodbye.
+So even though flight free 2020 didn’t turn out at all the way we thought it might, we are still asking people to pledge not to fly in 2021. This isn’t a restriction like Covid has been, it’s a choice, and a really empowering one at that. So we hope you’re inspired to sign up for next year. Thanks for listening and see you again in the new year when we’ll be starting a brand new podcast series for 2021. But for now, from #FlightFree2020, goodbye.
+
+#### You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+
+*Credits: interview conducted and recorded by Anna Hughes. Intro voiceover: [L. Sophie Helbig](http://lshelbig.com). Sound effects: Josh Hill.*
