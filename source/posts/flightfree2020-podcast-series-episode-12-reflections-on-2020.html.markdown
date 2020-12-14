@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "#FlightFree2020 podcast episode 12: reflections on 2020"
 category: opinion
 date: 2020-12-14T16:54:52.798Z
@@ -57,31 +57,47 @@ Covid has hit communities around the world in the same way. For us here in the w
 
 ### Rachel:
 
-We discovered adventure in really unlikely places in Bristol. My partner and I and our kids had been nervous about doing long bike rides, but being forced not to use your car – i.e. at the beginning of lockdown when the roads were clear it was the most blissful time for cycling and we were able to do these amazing bike rides that felt like true adventures that we would never have discovered otherwise, and it felt like an adventure. We could have been anywhere in the world! Packed lunch, thermos of tea, happy. Being forced to stay local was a blessing in some ways.
+We discovered adventure in really unlikely places in Bristol. My partner and I and our kids had been nervous about doing long bike rides, but at the beginning of lockdown when the roads were clear it was the most blissful time for cycling and we were able to do these amazing bike rides that felt like true adventures that we would never have discovered otherwise. We could have been anywhere in the world! A packed lunch, a thermos of tea and we were happy. Being forced to stay local was a blessing in some ways.
 
-Maggie:
+### Maggie:
 
-I had one trip planned which I did manage to make, and that was going to Edinburgh near to the beginning of the pandemic before we knew how hard it was going to hit. Usually we would fly but we took the train. It was terrible weather: Storm Dennis. It rained for a month. We came back through the midlands and there were glassy lakes everywhere with herons perched right next to the railway line, and the water was right up to people’s front doors as we came into York station. It makes you aware of climate change coming right to your front door. Once lockdown happened everything was very quiet and peaceful. We don’t have a car and we were avoiding public transport so we were very limited in where we could go. We took the same walk every day, walking from our front door around the suburbs and up to the Downs and you could see Spring coming and the trees coming into leaf and flowers forming on the trees. All the way through the summer and into the autumn we saw flowers turn into conkers and acorns. We found a hedgehog in our garden and became a lot more aware of the nature that’s in our homes.
+I had one trip planned which I did manage to make, and that was going to Edinburgh near to the beginning of the pandemic before we knew how hard it was going to hit. Usually we would fly but we took the train. It was terrible weather: Storm Dennis. It rained for a month. We came back through the midlands and there were glassy lakes everywhere with herons perched right next to the railway line, and the water was right up to people’s front doors as we came into York station. It makes you aware of climate change coming right to your front door. 
 
-This reminds me of a story on our website about flying for winter sun – it’s written by Paul, who would usually go somewhere like Thailand to get away from the depressing UK winter, but he decided to cut down on his flights and actually, to his surprise, spending winter in the UK wasn’t as bad as he thought. In fact, he was much happier. He put this down to really paying attention to the way the seasons change, and spending time outside. Even though it’s cold and the days are short, we can get some lovely winter weather, but more importantly it's about connecting with the natural world around us. It was simple things like seeing the sun rise and set in a different position across the fields to where it usually sets. And feeling like he wasn't running away from whatever would usually make him depressed in the winter, but finding different ways to deal with it. I really like that story. 
+Once lockdown happened everything was very quiet and peaceful. We don’t have a car and we were avoiding public transport so we were very limited in where we could go. We took the same walk every day, walking from our front door around the suburbs and up to the Downs. You could see spring coming and the trees coming into leaf and flowers forming on the trees. Then through the summer and into the autumn we saw flowers turn into conkers and acorns. We found a hedgehog in our garden and became a lot more aware of the nature that’s in our homes.
 
-Ok, now over to Tom
+### Anna:
 
-Tom:
+This reminds me of a story on our website about [flying for winter sun](/post/winter-sun) – it’s written by Paul, who would usually go somewhere like Thailand to get away from the depressing UK winter, but he decided to cut down on his flights and actually, to his surprise, spending winter in the UK wasn’t as bad as he thought. In fact, he was much happier. He put this down to really paying attention to the way the seasons change, and spending time outside. 
+
+Even though it’s cold and the days are short, we can get some lovely winter weather, but more importantly it's about connecting with the natural world around us. It was simple things like seeing the sun rise and set in a different position across the fields to where it usually sets. And seeing different birds. And feeling like he wasn't running away from whatever would usually make him depressed in the winter, but finding different ways to deal with it. I really like that story. 
+
+### Tom:
 
 It’s been a difficult year for most people but you need to take the positives. Lockdown and Covid has forced us to slow down and think about where we’re at rather than just plodding along. I’m looking forward to travelling slower – sometimes the journey can be as good as the destination. I’m planning to walk the Pennine Way sometime next year and I’d like to Interrail in Europe. Rather than hoping to find something really profound on the other side of the world you can find those things closer to home.
 
-Sunita:
+### Sunita:
 
-What I appreciated was taking longer walks and walking our streets. Somewhere you would usually bustle through on your way somewhere else. Something that you thought might be familiar, you notice more things. I was a lot more observant and it taught me about being able to watch and look around.
+What I appreciated was taking longer walks and walking our streets – somewhere you would usually bustle through on your way somewhere else. If you spend time in something that you thought was familiar, you notice more things. I was a lot more observant and it taught me about being able to watch and look around.
 
-Modern life is very fast and quick, flying is a part of that, the way we work and travel. So taking time to appreciate the simple things. Life can pass you so quick. We’re always Zooming off (‘scuse the pun)
+Modern life is very fast and quick, and flying is a part of that. So taking time to appreciate the simple things is important. Life can pass you so quick. We’re always Zooming off (‘scuse the pun!).
 
-I think both Tom and Sunita have hit on something really important there – that the way we see travel needs to change, not just for the climate but for us, too. Flights are part of our busy, must-have-everything-now lifestyles, and actually that’s not very good for us as human beings. It can feel exciting, but by rushing around all the time we miss so much – and it can also be really stressful. So when we are allowed to travel again we really want people to choose slow travel – like Tom said, making the journey mean as much as the destination. And as Sunita said, appreciating the things that we usually rush past in our desire to get somewhere. We want to reinvent travel so it can be just as rewarding for the traveller as it is for the planet. 
+### Anna:
 
-Now finally, let’s hear from Armelle:
+I think both Tom and Sunita have hit on something really important there – that the way we see travel needs to change, not just for the climate but for us, too. Flights are part of our busy, must-have-everything-now lifestyles, and actually that’s not very good for us as human beings. It can feel exciting, but by rushing around all the time we miss so much – and it can also be really stressful. 
 
-2020 was a very interesting year. We’ve suddenly had to slow down but at the same time it was also a way to quickly realise what actually matters. I felt that I had the time to do that. To reflect on what actually matters. I analysed the things I felt were important. If you had asked me in 2019 about restrictions and not flying and I would have said, that sounds like a lot. And it was a lot but it seems not that big a deal when you put it into perspective when you think about what’s been happening and the distress that a lot of people have had. Realising all the changes that have happened in so short amount of time and adapting to this new way of life, it makes you realise that not flying is not that terrible. It’s not something that we can’t do and it’s not insurmountable. I managed to find escape in different ways, e.g in the first month of lockdown I read 18 books. I’m a big reader but that's a lot even for me! I’ve been listening to a lot of podcast and educating myself. Even not going out and seeing my friends, I have got closer to the people who mean a lot to me, even though it was in a digital and virtual way because I had time to do that, and realise how much I love and appreciate them. When we are living the fast life we don’t appreciate our loved ones or the small things. I feel that a lot of people are looking in the same direction in terms of the changes need to be made. 
+So when we are allowed to travel again we really want people to choose slow travel – like Tom said, making the journey mean as much as the destination. And as Sunita said, appreciating the things that we usually rush past in our desire to get somewhere. We want to reinvent travel so it can be just as rewarding for the traveller as it is for the planet. 
+
+### Armelle:
+
+2020 was a very interesting year. We’ve suddenly had to slow down but at the same time it was also a way to quickly realise what actually matters. I felt that I had the time to do that, to reflect on what actually matters. I analysed the things I felt were important. 
+
+If you had asked me in 2019 about restrictions and not flying and I would have said, that sounds like a lot. And it was a lot but it seems not that big a deal when you put it into perspective – when you think about what’s been happening and the distress that a lot of people have had. 
+
+Realising all the changes that have happened in so short an amount of time and adapting to this new way of life, it makes you realise that not flying is not that terrible. It’s not something that we can’t do and it’s not insurmountable. 
+
+I managed to find escape in different ways, e.g in the first month of lockdown I read 18 books. I’m a big reader but that's a lot even for me! I’ve been listening to a lot of podcasts and educating myself. I have got closer to the people who mean a lot to me, even though it was in a digital and virtual way because I had time to do that, and realise how much I love and appreciate them. When we are living the fast life we don’t appreciate our loved ones or the small things. I feel that a lot of people are looking in the same direction in terms of the changes that need to be made with regards to the climate crisis. 
+
+### Anna: 
 
 That’s a really good point from Armelle, that we have made very significant changes very quickly to cope with Covid, and we've adapted to them, and that shows that we can make changes like this. Because we need to do it in response to the climate crisis. Like we’re now finding a vaccine for covid, the climate crisis also has an antidote, and that's to stop burning fossil fuels. That does mean we’re going to have to change everything about the way we live. But we can do that. And we must. And if we choose this, it will be much less distressing and disruptive than what we’ve gone through this year with Covid. 
 
