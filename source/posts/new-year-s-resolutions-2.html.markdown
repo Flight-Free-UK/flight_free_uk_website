@@ -2,7 +2,7 @@
 published: true
 title: New Year's Resolutions
 category: opinion
-date: 2020-12-14T17:35:33.360Z
+date: 2020-12-25T17:35:33.360Z
 cover_image: /images/uploads/thomas-park-unsplash-sq.jpg
 summary: Could going flight free in 2021 be your New Year’s Resolution?
 author: FlightFree UK
