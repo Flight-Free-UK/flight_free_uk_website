@@ -35,7 +35,7 @@ Foot traffic, road construction, deforestation, air contamination, unorganized a
 
 Climate change and the influx of non-native microbes have enabled new forms of bio-colonizing lichens, fungi, algae, and insects to flourish, accelerating the “exfoliation” of the historical buildings and even the **[granite peaks](https://curiosmos.com/the-sacred-rock-of-machu-picchu-runs-the-risk-of-disappearing/)** surrounding the site.[](https://curiosmos.com/the-sacred-rock-of-machu-picchu-runs-the-risk-of-disappearing/)
 
-![Picture shows the Rainbow Mountains. There is a mountain landscape, but each hill is made up of many horizontal slanting stripes of colour. the colours include deep burgundy, orange, sand, red and even eggshell blue. The clouds look moody and dramatic above. ](/images/uploads/rainbowmountains.jpg "The Rainbow Mountains. Photo by McKayla Crump on Unsplash ")
+![Picture shows the Rainbow Mountains. There is a mountain landscape, but each hill is made up of many horizontal slanting stripes of colour. the colours include deep burgundy, orange, sand, red and even eggshell blue. The clouds look moody and dramatic above. ](/images/uploads/rainbowmountains-mckayla-crump-unsplash-.jpg "The Rainbow Mountains. Photo by McKayla Crump on Unsplash ")
 
 And now, with work underway to raze the ground for a **[multibillion-dollar international airport](https://www.sciencemag.org/news/2019/02/airport-construction-threatens-unexplored-archaeological-sites-peru)** feeding a vision for bringing six million visitors (eight times UNESCO’s recommended traffic) to Machu Picchu and surrounding sites each year, it’s impossible to deny that we’re creating environmental, biological, geographical, and even cultural risk to a site we once thought of as “timeless.”
 
