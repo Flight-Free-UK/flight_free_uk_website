@@ -9,7 +9,7 @@ summary: In a raw and honest post, Ian Edwards expresses what needs to be done
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows a dusty red landscape. Red sand is blowing in the foreground and craggy dark brown rocks are seen growing increasingly further away in the background. The sky is ashy grey and cloudy. ](/images/uploads/mars-desert-.jpg "Photo credit: Juli Kosolapova (Source: Unsplash) ")
+![Picture shows a dusty red landscape. Red sand is blowing in the foreground and craggy dark brown rocks are seen growing increasingly further away in the background. The sky is ashy grey and cloudy. ](/images/uploads/juli-kosolapova-unsplash-mars-desert-.jpg "Photo credit: Juli Kosolapova (Source: Unsplash) ")
 
 ### This is my confession.
 
