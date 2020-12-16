@@ -9,9 +9,9 @@ summary: Is it up to individuals to take action or will it take system change to
 author: FlightFree UK
 read_time_minute: 6
 ---
-![Picture shows a cardboard sign from a climate protest. The sign reads 'eco not ego' and depicts a figure living in harmony with a forest (to represent eco), and a figure controlling the forest and its creatures for ego. ](/images/uploads/markus-spiske-protest-sign.jpg "Photo credit: Markus Spiske (Source: Unsplash) ")
+![Picture shows a cardboard sign from a climate protest. The sign reads 'eco not ego' and depicts a figure living in harmony with a forest (to represent eco), and a figure controlling the forest and its creatures for ego. ](/images/uploads/unsplash-markus-spiske-protest-sign.jpg "Photo credit: Markus Spiske (Source: Unsplash) ")
 
-## Ever since Thatcher uttered the words ‘climate change’ back in the 1980s, we have argued about how to avoid it. 
+## Ever since Thatcher uttered the words ‘climate change’ back in the 1980s, we have argued about how to avoid it.
 
 Is it up to individuals to adjust their lifestyles, or is it up to the government to collectively reduce our carbon emissions?
 
