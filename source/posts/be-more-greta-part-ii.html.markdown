@@ -9,7 +9,7 @@ summary: As Greta Thunberg sails across the ocean again, we ask if new
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows the side of a sailboat from foot height. You can see some chairs and the wood of the boat. To the right of the boat is dark blue seas and the sky is overcast and gloomy. ](/images/uploads/pablo-garcia-saldana-sailboat.jpg "Photo credit: Pablo García Saldaña (Source: Unsplash)")
+![A sailing boat on the ocean](/images/uploads/pablo-garcia-saldana-unsplash.jpg "Photo credit: Pablo García Saldaña (Source: Unsplash)")
 
 ### Greta Thunberg famously [crossed the Atlantic ocean on a racing yacht](https://flightfree.co.uk/post/be-more-greta/) this summer to attend climate talks in the US.
 
