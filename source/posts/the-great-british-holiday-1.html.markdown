@@ -9,7 +9,7 @@ summary: Flight Free campaigner Anna Hughes questions if asking people to fly
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows Scarborough harbour. Many yachts are moored and the sun is shining. ](/images/uploads/scarborough-.jpg "Photo credit: Stephen Ingham (Source: Unsplash) ")
+![Picture shows Scarborough harbour. Many yachts are moored and the sun is shining. ](/images/uploads/stephen-ingham-unsplash-scarborough-.jpg "Photo credit: Stephen Ingham (Source: Unsplash) ")
 
 ### There’s only one word for it: bracing. It takes a certain character to swim in the North Sea.
 
