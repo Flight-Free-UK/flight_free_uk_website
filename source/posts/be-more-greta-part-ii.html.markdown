@@ -19,7 +19,7 @@ Ross Porter from [VoyageVert](https://www.voyagevert.org) certainly thinks so. H
 
 > "Ross Porter from [VoyageVert](https://www.voyagevert.org) wants to build an enterprise that offers fare-paying passengers a way to sail across the Atlantic."
 
-Flying to America from the UK involves a huge amount of greenhouse gases. For a return flight to Boston the emissions stand at about 1.8 tonnes of CO2-equivalent per passenger. Touching down in New York will be 1.9 tonnes, Miami 2.4, and San Francisco a whopping 2.9 tonnes. With recommendations for our personal carbon footprints not to exceed 3 tonnes each per year, we can see that there is really no room in the budget for a transatlantic flight.* 
+Flying to America from the UK involves a huge amount of greenhouse gases. For a return flight to Boston the emissions stand at about 1.8 tonnes of CO2-equivalent per passenger. Touching down in New York will be 1.9 tonnes, Miami 2.4, and San Francisco a whopping 2.9 tonnes. With recommendations for our personal carbon footprints not to exceed 2.3 tonnes each per year, we can see that there is really no room in the budget for a transatlantic flight.* 
 
 So, what’s the alternative? Well, if you are travelling for a holiday, we recommend you consider destinations closer to home. But if, like Greta, you really need to go to the USA, for work or family reasons, could a passenger sailing ship really be a viable alternative?
 
@@ -37,8 +37,8 @@ So if it’s true that there is no future for our civilisation in which long-hau
 
 #### Perhaps we should start dreaming of flotillas of white-sailed passenger ships crossing the oceans, coming into harbour at the centre of all the world’s great coastal cities. That may sound utopian, but, as Greta has said, change is coming.
 
-*VoyageVert is currently looking for investment. To support VoyageVert with a donation or find out about opportunities for investment, visit their web site:* *[voyagevert.org](https://www.voyagevert.org/)*__
+*VoyageVert is currently looking for investment. To support VoyageVert with a donation or find out about opportunities for investment, visit their website:* *[voyagevert.org](https://www.voyagevert.org/)*
 
-*If you can’t wait, there is also information on the VoyageVert web site to help if you are interested in crewing on a yacht or working your passage on one of the small but growing number of sail cargo ships.* 
+*If you can’t wait, there is also information on the VoyageVert website to help if you are interested in crewing on a yacht or working your passage on one of the small but growing number of sail cargo ships.* 
 
 *\*Flight emissions data from flightemissionmap.org*
