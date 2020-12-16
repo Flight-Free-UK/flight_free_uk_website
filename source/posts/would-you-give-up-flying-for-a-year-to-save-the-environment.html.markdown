@@ -16,7 +16,7 @@ That’s what we at Flight Free UK are asking. Could you take a year off flying?
 
 In 2019, before the pandemic grounded the majority of our planes, UK residents took 58.7 million holidays abroad, and [we flew for 50.1 million of them](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/ukresidentsvisitsabroad). Many of us get on a plane without thinking twice: it’s the way we travel. We work hard all year and we earn our holidays. 
 
-Flying has given us a technology that allows us to easily travel far and wide; we can access the other side of an 18,000-mile-wide globe easily, comfortably and relatively quickly. Tax breaks for the aviation industry mean that flying is a cheap method of travel, and is likely to stay that way. 
+Flying has given us a technology that allows us to easily travel far and wide; we can access the other side of a 25,000-mile-wide globe easily, comfortably and relatively quickly. Tax breaks for the aviation industry mean that flying is a cheap method of travel, and is likely to stay that way. 
 
 ### We’re asking you, just for a moment, to think about it differently.
 
@@ -24,21 +24,23 @@ Because aviation also has the unattractive accolade of being one of the biggest 
 
 If aviation were a country, it would be the [7th biggest polluter](http://afreeride.org/about/) globally. Flights are the [fastest growing cause](http://afreeride.org/about/) of greenhouse emissions. Fuel burnt in the air is far more polluting than the same fuel burnt at ground level. One flight is roughly [equivalent to driving](/why_flight_free) for an entire year. And there is nothing else you can do as an individual that raises your carbon footprint so much in so short a space of time.
 
-> "Flights are the fastest growing cause of greenhouse emissions."
+> "If aviation were a country, it would be the 7th biggest polluter globally."
 
-Many people choose not to fly for this reason, and either reduce the amount they travel, or use alternate forms of transport. Because it’s an issue that we cannot ignore. Scientists have given us twelve years to turn things around – twelve years! Think of what you were doing twelve years ago. It’s not that long, is it? In order to prevent irreversible and catastrophic climate change, we need to take meaningful action, and we need to take it now.
+Many people choose not to fly for this reason, and either reduce the amount they travel, or use alternate forms of transport. Because it’s an issue that we cannot ignore. 
 
-> "Think of what you were doing twelve years ago. It’s not that long, is it?"
+In 2018, the IPCC report gave us twelve years to turn things around – twelve years! And two of those have now gone. Think of what you were doing just a decade ago. It’s not that long, is it? 
+
+In order to prevent irreversible and catastrophic climate change, we need to take meaningful action, and we need to take it now.
+
+> "Think of what you were doing a decade ago. It’s not that long, is it?"
 
 This is why we’re running this campaign. We want to inform people about the high carbon cost of flying, and ask if they would be prepared to change their travel habits, just for a year, for the good of the planet. And it’s not just the planet that benefits. It’s us. Runaway climate change is on the horizon, and unless we avert it, the planet as we know it is done for, and that means the collapse of the natural world and civilisation as we know it. 
 
 This isn’t scaremongering – it’s happening now. It’s easy to think this won’t affect us, that the planet will keep on turning and we can live our lives as we always have. But we are creating problems for ourselves, our children, and for their children. We know this. And we have the ability to do something about it.
 
-> "This isn’t scaremongering – it’s happening now."
+> "We are creating problems for ourselves, our children, and for their children."
 
-Our target of 100,000 is small fry in comparison to those millions of flights Brits take each year. But it’s also a big enough number that it will make an impact, not only to those who choose to sign up, but also to those who might hear about it and be made aware of these issues for perhaps the first time. It’s unlikely to ground any flights in a single year. 
-
-But perhaps we can start a public awareness, a kind of social conscience where the impact of flying is acknowledged and acted on by a large group of people. That dialogue might expand year on year – and that’s when change happens. Flights run on simple supply and demand. Without the demand, there would be less supply.
+By asking people to take a flight free year we can start a public awareness, a kind of social conscience where the impact of flying is acknowledged and acted on by a large group of people. That dialogue will expand year on year – and that’s when change happens. Flights run on a supply and demand basis. As we've seen with Covid, without the demand, there would be less supply.
 
 Campaigns are running all over the world to raise awareness of the climate issue and aviation’s contribution to greenhouse gasses. It’s just one year, and it’s one small thing, but pledging to be flight free has the potential to make a massive difference. 
 
