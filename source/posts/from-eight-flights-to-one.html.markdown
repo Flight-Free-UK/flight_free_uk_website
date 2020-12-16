@@ -9,9 +9,9 @@ summary: Christine Bell took eight flights in 2018, down to just one in 2019.
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows a hazy pink and blue sky with a thin and tall chimney in the middle. Out of the chimney a stream of white smoke in emitted. ](/images/uploads/tarun-rana-white-smoke.jpg "Photo credit: Tarun Rana (Source: Unsplash)")
+![Picture shows a hazy pink and blue sky with a thin and tall chimney in the middle. Out of the chimney a stream of white smoke in emitted. ](/images/uploads/unsplash-tarun-rana-white-smoke.jpg "Photo credit: Tarun Rana (Source: Unsplash)")
 
-### In 2018 I took a flight to Delhi for work. The air quality in the city was terrible: I arrived in choking smog which remained all week. 
+### In 2018 I took a flight to Delhi for work. The air quality in the city was terrible: I arrived in choking smog which remained all week.
 
 It’s a major health hazard, and by the end of the week I was longing for the fresh air of Leeds. This experience was critical in making me realise the impact of carbon emissions so in 2019 I focused on how I could reduce my carbon impact. Already I don’t eat meat and don’t buy unnecessary stuff, but air travel significantly pushes up my carbon consumption.
 
