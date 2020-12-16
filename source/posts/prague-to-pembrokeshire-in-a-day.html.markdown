@@ -9,9 +9,9 @@ summary: How far is it possible to travel in one day? Karen Simmonds shares the
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows a river in Prague, with a view of the city beyond the river. The city is half in sunlight and the sky is blue with fluffy clouds. ](/images/uploads/anthony-delanoix-prague.jpg "Prague. Photo credit: Anthony Delanoix (Source: Unsplash)")
+![Picture shows a river in Prague, with a view of the city beyond the river. The city is half in sunlight and the sky is blue with fluffy clouds. ](/images/uploads/anthony-delanoix-prague-unsplash.jpg "Prague. Photo credit: Anthony Delanoix (Source: Unsplash)")
 
-### Prague station was bustling even at 7am on a late January morning. 
+### Prague station was bustling even at 7am on a late January morning.
 
 After a 6am wake up call and a large cup of coffee, my partner and I boarded the train and set off on our travels. Our mission was to arrive home in Pembrokeshire, West Wales, by the end of the day. 
 
