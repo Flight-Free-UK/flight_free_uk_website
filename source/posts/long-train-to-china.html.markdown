@@ -27,7 +27,7 @@ When I won my funding the assumption was that I would fly to China to do my fiel
 
 Although I did have funding to cover research expenses as part of my fellowship, the fact is that trains almost always cost more than planes. As an aside – this is not just because airlines are especially clever and efficient, but is largely because they enjoy tax breaks and [subsidies](https://www.mdpi.com/2071-1050/9/8/1295) that most industries couldn’t dream of. Anyway, the fact is that my trains cost over £2000, compared to about £600 for a London-Beijing flight (although if I were to fly business class, as many professors would, the cost would be about the same). 
 
-![A passenger is walking across a rail platform in a Chinese train station. It is dusk and the sun is shining through the structure of the platform roof. ](/images/uploads/china-train.jpg "Photo credit: Lau Keith (Source: Unsplash) ")
+![A passenger is walking across a rail platform in a Chinese train station. It is dusk and the sun is shining through the structure of the platform roof. ](/images/uploads/china-train-lau-keith-unsplash.jpg "Photo credit: Lau Keith (Source: Unsplash) ")
 
 To justify this, I had to write to senior managers in the University. I explained that whilst I am not a world-renowned scientist like Kevin Anderson nor a celebrity like our hallowed David Attenborough, I do have some small voice and credibility as a published academic, and my actions ought to reflect my moral and political stance. 
 
