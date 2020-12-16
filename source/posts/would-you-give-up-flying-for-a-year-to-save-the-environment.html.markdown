@@ -2,9 +2,9 @@
 published: false
 title: Would you give up flying for a year to save the environment?
 category: climate
-date: 2019-01-01T18:00:41.912Z
+date: 2021-01-01T06:00:41.912Z
 cover_image: /images/uploads/landing.jpg
-summary: "An introduction to #FlightFree2020"
+summary: "An introduction to the #FlightFree2021 campaign"
 author: FlightFree UK
 read_time_minute: 3
 ---
@@ -12,9 +12,9 @@ read_time_minute: 3
 
 ## 365 days without getting on a plane. Would you do it? Could you? *Should* you?
 
-That’s what we at Flight Free UK are asking, and we have an ambitious target: we want 100,000 people to make the same pledge.
+That’s what we at Flight Free UK are asking. Could you take a year off flying?
 
-Flying is part of our lives. In 2017, UK residents took 46.6 million holidays abroad, and [we flew for 39.7 million of them](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/ukresidentsvisitsabroad). Many of us get on a plane without thinking twice: it’s the way we travel. We work hard all year and we earn our holidays. 
+For many people, flying is part of our lives. In 2019, before the pandemic grounded the majority of our planes, UK residents took 46.6 million holidays abroad, and [we flew for 39.7 million of them](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/ukresidentsvisitsabroad). Many of us get on a plane without thinking twice: it’s the way we travel. We work hard all year and we earn our holidays. 
 
 Flying has given us a technology that allows us to easily travel far and wide; we can access the other side of an 18,000-mile-wide globe easily, comfortably and relatively quickly. Tax breaks for the aviation industry mean that flying is a cheap method of travel, and is likely to stay that way. 
 
