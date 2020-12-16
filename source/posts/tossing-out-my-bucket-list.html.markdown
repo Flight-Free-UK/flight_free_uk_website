@@ -9,15 +9,13 @@ summary: Ellen Petry Leanse asks what impact our travel ambitions have on the
 author: FlightFree UK
 read_time_minute: 7
 ---
-*Cover photo by [Scott Umstattd ](https://unsplash.com/@scott_umstattd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)on [Unsplash](https://unsplash.com/s/photos/machu-picchu-peak?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
-
-### I first saw it in a travel magazine when I was something like seven: Machu Picchu, that breathtaking “Lost City” of the Incas. 
+### I first saw it in a travel magazine when I was something like seven: Machu Picchu, that breathtaking “Lost City” of the Incas.
 
 Emerald green and nestled in craggy peaks unlike any mountain I’d seen before: one awestruck gaze and a dream formed. “I’ll travel there someday,” I told myself, imagining grassy, timeless earth beneath my feet as I reveled in pyramids of Andean granite against a misty blue sky.
 
 > "“I’ll travel there someday,” I told myself, imagining grassy, timeless earth beneath my feet as I reveled in pyramids of Andean granite."
 
-![Picture shows Machu Picchu from above. You can see its green peaks with surrounding green mountains topped with clouds. ](/images/uploads/macchupiccu.jpg "Machu Picchu. Photo by Don Woods on Unsplash")
+![Picture shows Machu Picchu from above. You can see its green peaks with surrounding green mountains topped with clouds. ](/images/uploads/machupicchu-unsplash-scott-umstattd.jpg "Machu Picchu. Photo by Scott Umstattd on Unsplash")
 
 Later, as an adult, I planned a journey: 5,000 miles of air travel, a bus to the base of the Inca Trail, and four days of hiking through small villages and open grasslands before reaching my long-imagined destination. In my minds’ eye I envisioned the moment where those incomparable structures, natural and human-made, revealed themselves to me, sun filtering down on the lush grasses surrounding the pyramids.
 
