@@ -1,14 +1,16 @@
 ---
-published: false
-title: Flight free musician
+published: true
+title: Does the music industry have a flying problem?
 category: opinion
 date: 2020-12-18T11:56:56.123Z
-cover_image: /images/uploads/1000-pledges.jpg
+cover_image: /images/uploads/trinity_college_choir_keith_saunders.jpg
 summary: When classical singer Nina Vinther boycotted her choir's overseas tour,
-  she realised the power of challenging the status quo.
+  it was relocated to the UK. She explores the difficulty in change a culture.
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/trinity_college_choir_keith_saunders.jpg "The choir of Trinity college Cambridge. Photo: Keith Saunders, from theatreroyal.com.au")
+
 It’s been a year since I boycotted Trinity College Choir’s tour to Canada. My decision came as a shock to my choir director.  'I just can't justify the emissions,' I told him, hastening to add that, 'It's not that I love choir any less – I really do want to do this for the rest of my life, but sustainably, and with a clear conscience.' I left his office with his silence ringing in my ears.
 
 The decision wasn’t intended as a boycott, rather as a personal, ethical choice. I was sad to think my friends would have fun without me, but this wasn’t a whim, and I knew I wouldn’t regret not going. I’d said my piece and explained my decision over tea and cake with the other altos. It felt like courage. 
@@ -32,3 +34,5 @@ Also hopeful are the survey responses I gathered in the summer, which asked ‘D
 Climate change is beyond my control, as is, in large part, changing other musicians’ minds and habits, but I can control my choices. I believe that we can alter the way we tour and that doing so doesn’t have to be a sacrifice. I’m going to ask to take trains, ferries and electric buses, I’m going to ask to stay with real people instead of in hotels, I’m going to ask that venues and tour managers are environmental allies, I’m going to ask about carbon literacy training, and I’m going to fight not to take no for an answer. 
 
 But most of all, and in my own way, I’m asking for *I* to be *we*. After all, a choir of one isn’t much fun.
+
+![Nina and her friend stands in front of the Victoria Falls in Canada. Nina has blond curly hair.](/images/uploads/nina_vinther.jpg "Nina Vinther (right) and friend on a previous choir tour")
