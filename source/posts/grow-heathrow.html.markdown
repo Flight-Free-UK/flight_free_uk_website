@@ -32,8 +32,6 @@ But the most profound part for me was that, in the process of opposing the airpo
 
 We often travel far and wide as a means to connect with ourselves and nature. But the beauty of these things is in the earth where we stand, far below the flight-paths, among the bramble bushes. 
 
-
-
-*Pictures: [Jonathan Goldberg](https://jongoldbergblog.tumblr.com)*
+*Pictures: [Jonathan Goldberg](https://www.jongoldberg.co.uk/index)*
 
 *Words: Kirsty M Moyse and Jonathan Goldberg*
