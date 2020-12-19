@@ -1,20 +1,24 @@
 ---
-published: false
+published: true
 title: Grow Heathrow
 category: opinion
 date: 2020-12-18T12:42:42.323Z
-cover_image: /images/uploads/kirsty-headshot.jpg
+cover_image: /images/uploads/grow-heathrow-foraging.jpg
 summary: After spending a year living at the off-grid protest community of Grow
   Heathrow, Kirsty shares her experiences of activism and an unconventional way
   of life.
 author: FlightFree UK
 read_time_minute: 4
 ---
+![Picture shows the camp at Grow Heathrow. There are orange daisies in the foreground and corrugated iron cabins in the background](/images/uploads/grow-heathrow-daisies.jpg "The site at Grow Heathrow")
+
 Adjacent to the nation’s busiest airport is a community living entirely off-grid. Flanked on one side by a runway and on the other a Holiday Inn, this is not the most obvious location for an ecological project to thrive. 
 
 But Grow Heathrow is more than an eco-village. Established in 2010 it was set up as a direct protest against the expansion of Heathrow Airport. The proposed third runway would cut through local villages, graveyards, wildlife habitat and irreplaceable biodiversity, as well as increase the air pollution, noise pollution and climate change emissions from the airport.
 
 In the summer of 2017, when I arrived at Grow Heathrow, my first impressions were of a captivating mosaic of raised vegetable beds, greenhouses and hand-built wooden cabins, all woven together with bramble bushes, graffiti and winding pathways. The community spent its days gathering waste fruit and vegetables from a nearby wholesale market, playing chess, carrying out repairs or extensions to the shelters, or breaking pallets for firewood. At night, light pollution from the airport and central London meant the sky glowed a sulphurous yellow, and it was possible to read outside. 
+
+![Picture shows a couple standing in the doorway to their cabin. The cabin is made of wood and is lined with silver insulation and is surrounded by budlia and other plants](/images/uploads/grow-heathrow-cabin.jpg "Residents of Grow Heathrow and their cabin")
 
 I lived as a guest in a treehouse, helped to distribute campaign leaflets throughout the villages that would be demolished for the runway, and went wild-swimming in a nearby lake with the community. It felt like a refuge, the right place to be in relation to a world which polluted and consumed, and it was more than anything else a magical environment. 
 
@@ -23,6 +27,8 @@ As well as resisting the third runway, for me Grow Heathrow was about offering a
 The winter that I lived at Grow Heathrow was a cold one. Snow fell and lay across all of London and the South West. Left out in my sub-zero cabin overnight, my boots would take fifteen minutes to soften and become flexible when I put them on in the mornings. The water in the pipes and in the kitchen washing up bowls froze, meaning the community at last had a genuine reason not to do the washing up. Looking at the leafless trees and withered bramble bushes, it was incredible to observe the ways in which my outdoor home had visually changed with the seasons. The midsummer harvest festivals and the glut of summer tomatoes felt another world away. 
 
 Just when it seemed that the skies had forever been grey and sleet-filled, and the nights deep and impenetrable, spring came. It was a special experience to feel and understand its arrival not by the turning of the calendar page, but by the heightening of sun and the light green buds emerging around the site. 
+
+![Picture shows a wicker basket of onions and young tomato plants](/images/uploads/grow-heathrow-onions.jpg "Harvesting vegetables")
 
 During the years 2010-2018 plans for a third runway were proposed (2010), cancelled (2012), re-proposed (2013), and approved by Parliament (2018). In early 2020 the approval was ruled as unlawful by the Court of Appeal, in light of the UK’s commitment to the Paris Climate Agreements. Later that year the ruling was overturned by the Supreme Court.
 
