@@ -24,13 +24,13 @@ I lived as a guest in a treehouse, helped to distribute campaign leaflets throug
 
 As well as resisting the third runway, for me Grow Heathrow was about offering and experiencing a different way of being in the world: slower, simpler, closer to the earth and to people. We weren’t totally separate to society – we paid a water bill to Thames Water, we used local buses and foraged in local markets – but we had sidestepped it, able to observe it with a new perspective from our treehouses and solar-panel towers. The individuals I met there were as diverse as the wildlife, the historic buildings and the human histories we sought to protect with our occupation of the land. What united us was a shared understanding that we disliked the way modern life was unfolding, and we wanted to live differently. 
 
-> "For me Grow Heathrow was about experiencing a slower, simpler way of being in the world."
+> "For me, Grow Heathrow was about experiencing a slower, simpler way of being in the world."
 
 The winter that I lived at Grow Heathrow was a cold one. Snow fell and lay across all of London and the South West. Left out in my sub-zero cabin overnight, my boots would take fifteen minutes to soften and become flexible when I put them on in the mornings. The water in the pipes and in the kitchen washing up bowls froze, meaning the community at last had a genuine reason not to do the washing up. Looking at the leafless trees and withered bramble bushes, it was incredible to observe the ways in which my outdoor home had visually changed with the seasons. The midsummer harvest festivals and the glut of summer tomatoes felt another world away. 
 
 Just when it seemed that the skies had forever been grey and sleet-filled, and the nights deep and impenetrable, spring came. It was a special experience to feel and understand its arrival not by the turning of the calendar page, but by the heightening of sun and the light green buds emerging around the site. 
 
-![Picture shows a wicker basket of onions and young tomato plants](/images/uploads/grow-heathrow-onions.jpg "Harvesting vegetables")
+![Picture shows a wicker basket of onions and young tomato plants](/images/uploads/grow-heathrow-onions.jpg "Harvest vegetables")
 
 During the years 2010-2018 plans for a third runway were proposed (2010), cancelled (2012), re-proposed (2013), and approved by Parliament (2018). In early 2020 the approval was ruled as unlawful by the Court of Appeal, in light of the UK’s commitment to the Paris Climate Agreements. Later that year the ruling was overturned by the Supreme Court.
 
