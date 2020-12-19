@@ -36,7 +36,7 @@ During the years 2010-2018 plans for a third runway were proposed (2010), cancel
 
 Throughout all of this, local people and the constantly changing community of Grow Heathrow fought tirelessly to raise awareness of the impact that the runway would have on human and other ecologies in the areas surrounding the airport and beyond. Seeing the decision to go ahead makes me even more passionately committed to anti-aviation campaigning. We cannot give the green light to such carbon intensive projects given the environmental predicament of our planet and ourselves.
 
-> "We cannot give the green light to such carbon intensive projects as the Heathrow third runway given the environmental predicament of our planet and ourselves."
+> "We cannot give the green light to such carbon intensive projects as the Heathrow third runway given our environmental predicament."
 
 But the most profound part for me was that, in the process of opposing the airport, Grow Heathrow demonstrated that a more sustainable, slower and richer way of being is possible and liveable. People were constantly coming and going, but there were still defined ‘generations’ of community members, within which invaluable connections and relationships were formed. I feel blessed for each day that I lived there.
 
