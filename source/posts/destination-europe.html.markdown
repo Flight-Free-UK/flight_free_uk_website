@@ -30,3 +30,21 @@ Despite how easy and cheap it is to get to the Netherlands without flying, Londo
 **By ferry:** Three ferry routes operate between the UK and the Netherlands: [Stena Line](https://www.stenaline.co.uk/rail) from Harwich to Hoek van Holland, [P&O ](http://www.poferries.com/en/hull-rotterdam)from Hull to Rotterdam [](http://www.poferries.com/en/hull-rotterdam)or [DFDS](https://www.dfds.com/en-gb/passenger-ferries/ferry-crossings/ferries-to-holland/newcastle-amsterdam) from Newcastle to Amsterdam.
 
 **By coach:** Coaches travel [overnight from London Victoria](https://www.omio.co.uk/coaches/london/utrecht) to Utrecht Centraal Station.
+
+
+
+## Prague, Czech Republic
+
+Getting there
+
+
+
+## Bologne, Italy
+
+Getting there
+
+
+
+## Berlin, Germany
+
+Getting there
