@@ -19,7 +19,7 @@ So we book our flights and spend two weeks on a beach before returning to the sa
 
 > "Last winter is the first time in a long time when I haven’t flown. And I actually felt happier."
 
-It’s easy to justify the carbon output because sun makes us happy. But is all this jet-setting just masking the problem, rather than dealing with it?  
+It’s easy to justify the carbon output because sun makes us happy. But is all this jet-setting just contributing to the problem?  
 
 It’s a conversation we had with Paul Powlesland, a barrister at Ely Place Chambers and the founder of Lawyers for Nature. He had been a regular winter sun-seeker, and while he knew this was adding a huge amount to his carbon footprint, he’d always felt that need to get away somewhere warm.
 
