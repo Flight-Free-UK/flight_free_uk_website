@@ -28,7 +28,7 @@ But I much prefer coach travel. It’s easier and less stressful than flying. Yo
 
 The coaches are clean and comfortable, there are toilets and plenty of rest stops, charging points and even WIFI! Rumbling southwards through France and watching the mountains gradually appear in the distance is always a magical experience. Slow travel really makes you appreciate how special your destination is. 
 
-![](/images/uploads/about_se_730x235.jpg "Image credit: Snow Express ")
+![](/images/uploads/snow-express-ski-coach.jpg "Image credit: Snow Express ")
 
 Sometimes I travel alone and have made great new friends en route, or I’ve spent many happy hours playing cards with my friends when we've gone together. I love the first stop in a French service station and my first croissant. The coach drivers are always friendly and it’s great to see the excitement of all the students going away on a cheap ski trip for the first time. [Snow Express](https://www.snowexpress.co.uk/home) does a great all-inclusive deal with UCPA hostels. But it's not just young people, and it's not rowdy and noisy. I've also met lots of older people or couples on the coach, too.
 
@@ -40,8 +40,8 @@ Even as a late starter, skiing is something I’ve absolutely fallen in love wit
 
 #### Typical price for flights = £60 + £40-£60 transfer
 
-#### Typical price for coach = Tickets from £65 
+#### Typical price for coach = Tickets from £65
 
-#### Total CO2 per person from London to Chamonix by plane = 181.5 kg 
+#### Total CO2 per person from London to Chamonix by plane = 181.5 kg
 
 #### Total CO2 per person from London to Chamonix by coach = 31.8 kg
