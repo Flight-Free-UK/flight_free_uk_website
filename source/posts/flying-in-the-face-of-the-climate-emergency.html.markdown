@@ -3,13 +3,13 @@ published: true
 title: Flying in the face of the climate emergency
 category: climate
 date: 2019-12-03T14:11:15.336Z
-cover_image: /images/uploads/73325818_2364153917166774_218201441196572672_o.jpg
+cover_image: /images/uploads/yorkshire-jet-plane-taking-off.jpg
 summary: Jefim Vogel, researcher at Leeds University, shows how declaring
   climate emergency is not compatible with airport expansion.
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows a silver plane with red writing about to take off from a runway surrounded by grassy fields. The writing says 'Yorkshire Jet' in capital letters.](/images/uploads/73325818_2364153917166774_218201441196572672_o.jpg)
+![Picture shows a silver plane with red writing about to take off from a runway surrounded by grassy fields. The writing says 'Yorkshire Jet' in capital letters.](/images/uploads/yorkshire-jet-plane-taking-off.jpg)
 
 ### “The world may finally be waking to the reality of the climate and ecological crisis,” writes Jefim Vogel and co. in [The Conversation](https://theconversation.com/we-cant-expand-airports-after-declaring-a-climate-emergency-lets-shift-to-low-carbon-transport-instead-120740).
 
