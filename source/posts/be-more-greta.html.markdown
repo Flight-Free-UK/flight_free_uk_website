@@ -3,7 +3,7 @@ published: true
 title: Be more Greta
 category: climate
 date: 2019-08-16T11:39:56.265Z
-cover_image: /images/uploads/16631262-7297405-image-a-12_1564408946293.jpg
+cover_image: /images/uploads/greta-school-strike.jpg
 summary: "Teen climate activist Greta Thunberg gained worldwide recognition
   through starting the ‘School Strike for climate’, and is now travelling across
   the Atlantic by yacht for the upcoming UN Climate Summits in North and South
@@ -27,7 +27,7 @@ That lone protest sparked a global youth movement. Hundreds of thousands of chil
 
 Greta’s reputation and actions have only grown since then. Whether attending [COP24](https://www.youtube.com/watch?v=VFkQSGyeCWg), the World Economic Forum, or giving [TEDx talks](https://www.youtube.com/watch?v=EAmmUIEsN9A) she is speaking truth to the powerful. Not satisfied with speeches and conferences she has now published a book with Penguin and collaborated on a song with British band [The 1975. ](https://www.youtube.com/watch?v=_5z7k9ruxlU)
 
-![Picture shows Greta Thunberg making a speech at the World Economic Forum. She is seated in a grey chair in front of a white background, he holds a white folder of notes and is speaking into a microphone. ](/images/uploads/ap_19025323973604-6f74e57eeb222e5f149610c79ba5a75b58a3227b.jpg "Thunberg speaking at the World Economic Forum (Source: capradio)")
+![Picture shows Greta Thunberg making a speech at the World Economic Forum. She is seated in a grey chair in front of a white background, he holds a white folder of notes and is speaking into a microphone. ](/images/uploads/capradio-greta-thunberg-world-economic-forum.jpg "Thunberg speaking at the World Economic Forum (Source: capradio)")
 
 One might expect someone with such a large number of international projects to fly across the world multiple times. But even here Greta demonstrates her climate convictions, travelling across Europe by train, most notably to Davos whilst other delegates arrived in private jets. 
 
@@ -37,7 +37,7 @@ But this year's climate summits are in New York and Chile, an ocean away. Even t
 
 Racing yachts are built for speed, not comfort. Aboard Malizia II there is no toilet, no cooking equipment, and no shower. The bunks are small fold-down platforms with straps to wedge you in against the hull in case of particularly rough seas. 
 
-![Picture shows the small racing boat Malizia II. It is small, narrow and white with dark navy sails. The sea around it is a deep indigo blue. ](/images/uploads/16631262-7297405-image-a-12_1564408946293.jpg "The racing boat Malizia II (Source: Daily Mail)   ")
+![Picture shows the small racing boat Malizia II. It is small, narrow and white with dark navy sails. The sea around it is a deep indigo blue. ](/images/uploads/racing-boat-malizia-ii-daily-mail.jpg "The racing boat Malizia II (Source: Daily Mail)   ")
 
 But despite the cramped conditions and inevitable seasickness, Greta has a determination to live her climate principles. A flight from Stockholm to New York produces more than [two tonnes ](http://flightemissionmap.org/)of carbon dioxide that is now avoided. Even the electricity generated on the boat is carbon-free, created from solar panels and water turbines attached to the yacht. “By stopping flying, you don’t only reduce your own carbon footprint,” she says. “You also send a signal to other people that the climate crisis is real.”
 
