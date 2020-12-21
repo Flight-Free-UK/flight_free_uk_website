@@ -10,7 +10,7 @@ summary: "Heather Mack tells us how travelling by coach to ski resorts across
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows skier facing the camera. They are wearing full ski gear including mirrored sunglasses and helmet. Behind them is and expanse of white snow with pine trees in the background. The sky is deep blue. ](/images/uploads/ski-post-photo.jpg)
+![Picture shows skier facing the camera. She is wearing full ski gear including mirrored sunglasses and helmet. Behind them is and expanse of white snow with pine trees in the background. The sky is deep blue. ](/images/uploads/ski-post-photo.jpg "Heather Mack on the slopes")
 
 ### For most people who ski it’s a regular part of their lives – annual family holidays or trips with friends, learning to negotiate the runs with an ease borne of having spent many years messing around on the slopes.
 
@@ -36,12 +36,12 @@ Sometimes I travel alone and have made great new friends en route, or I’ve spe
 
 Even as a late starter, skiing is something I’ve absolutely fallen in love with – the carefree weightlessness of it and the easy speed. I have to admit I go quite fast, probably too fast! So the process of slowly travelling to the slopes in the first place, and that exhausted but happy journey home, just enhances the whole thing. Quite apart from the obvious environmental impact, flights are a hassle, especially if you’re taking your own skis, and it doesn’t add value to your trip. With the coach, it’s not just about the destination, it’s the journey that also sticks in the memory. And that’s what I want from my holidays. Give me a coach any day!
 
-#### Fact file: 
+### Fact file:
 
-**Typical price for flights = £60 + £40-£60 transfer**
+#### Typical price for flights = £60 + £40-£60 transfer
 
-**Typical price for coach = Tickets from £65** 
+#### Typical price for coach = Tickets from £65 
 
-**Total C02 per Traveller from London to Chamonix by plane = 181.5 kg** 
+#### Total CO2 per person from London to Chamonix by plane = 181.5 kg 
 
-**Total C02 per Traveller from London to Chamonix by coach = 31.8 kg**
+#### Total CO2 per person from London to Chamonix by coach = 31.8 kg
