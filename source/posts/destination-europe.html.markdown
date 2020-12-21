@@ -45,7 +45,7 @@ There’s no shortage of [beer gardens](https://www.praguebeergarden.com/) in th
 
 **By train:** There are plenty of options, but the most affordable one might be to take an evening Eurostar to Brussels, then continue to Prague the next day. Alternatively, take a late morning Eurostar to Paris, a TGV to Zurich and then a Czech sleeper train overnight to Prague. By day trains, travel to Cologne or Berlin, stay overnight and then travel to Prague the next day, taking in the beautiful scenery along the river Elbe south of Dresden.
 
-It’s also possible to go from the UK to Prague in one day (check out our [Prague to Pembrokeshire in a day]([https://flightfree.co.uk/post/prague-to-pembrokeshire-in-a-day](https://flightfree.co.uk/post/prague-to-pembrokeshire-in-a-day/)/) post!), although this does involve a tight connection in Brussels.
+It’s also possible to go from the UK to Prague in one day (check out our [Prague to Pembrokeshire in a day](https://flightfree.co.uk/post/prague-to-pembrokeshire-in-a-day/) post!), although this does involve a tight connection in Brussels.
 
 ![Images shows an aerial view of Bologna, with lots of orange roofs, and green hills in the background](/images/uploads/bologna.jpg "Bologne")
 
