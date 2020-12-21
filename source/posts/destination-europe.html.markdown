@@ -51,14 +51,15 @@ It’s also possible to go from the UK to Prague in one day (check out our [Prag
 
 ## Bologne, Italy
 
-Bologna - where golden light blankets cobblestone streets and accordion music mingles with local church bells. Relatively quiet in comparison to Venice, Florence and Rome, Bologna has an authentic charm and houses the oldest university \[<https://www.bolognawelcome.com/en/blog/the-locations-of-the-oldest-university-in-europe>] in Europe (established in 1088) along with 38 kilometres of arcades (the porticoes of Bologna)\[<https://www.bolognawelcome.com/en/blog/the-porticoes-of-bologna>] which provide charmingly romantic spaces to socialise, eat and browse. Take a walk from the centre of town, through the 4 km Portico di San Luca all the way to the fascinating basilica Santuario di San Luca \[<https://www.bolognawelcome.com/it/luoghi/edifici-religiosi/santuario-di-san-luca>] where elaborate biblical paintings adorn the domed roof. Entrance to the top is extra, but the view over Bologna is well worth it.
+Bologna, the city where golden light blankets cobblestone streets and accordion music mingles with local church bells. Relatively quiet in comparison to Venice, Florence and Rome, Bologna has an authentic charm. It houses the [oldest university](https://www.bolognawelcome.com/en/blog/the-locations-of-the-oldest-university-in-europe) in Europe (established in 1088) along with [38 kilometres of arcades](https://www.bolognawelcome.com/en/blog/the-porticoes-of-bologna) (the porticoes of Bologna) which provide charmingly romantic spaces to socialise, eat and browse. 
 
-For traditional food and drink, head to the Mercato Ritrovato \[<https://mercatoritrovato.it/>] farmers’ market, held at the Cineteca di Bologna, where local producers from the Bologna territory sell seasonal and local produce, including fresh pasta and fish from the Adriatic Sea.
+Take a walk from the centre of town, through the 4 km Portico di San Luca all the way to the fascinating basilica [Santuario di San Luca](https://www.bolognawelcome.com/it/luoghi/edifici-religiosi/santuario-di-san-luca) where elaborate biblical paintings adorn the domed roof. Entrance to the top is extra, but the view over Bologna is well worth it.
 
-Getting there
+For traditional food and drink, head to the [Mercato Ritrovato](https://mercatoritrovato.it/) farmers’ market, held at the Cineteca di Bologna, where local producers from the Bologna territory sell seasonal and local produce, including fresh pasta and fish from the Adriatic Sea.
 
-**\
-By train: Take an early Eurostar to Paris, then a TGV to Turin and finally a Frecciarossa 500 (an Italian high-speed train) to Bologna, arriving early evening.**
+#### Getting there
+
+**By train:** Eurostar to Paris, TGV to Turin then Frecciarossa 500 (Italian high-speed train) to Bologna, arriving early evening.
 
 ![People are sitting on a grassy slope area overlooking the city of Berlin](/images/uploads/berlin-mauerpark.jpg "Berline's Mauerpark. Image from tripsavvy.com")
 
