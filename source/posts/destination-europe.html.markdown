@@ -51,7 +51,7 @@ It’s also possible to go from the UK to Prague in one day (check out our [Prag
 
 ## Bologne, Italy
 
-Bologna, the city where golden light blankets cobblestone streets and accordion music mingles with local church bells. Relatively quiet in comparison to Venice, Florence and Rome, Bologna has an authentic charm. It houses the [oldest university](https://www.bolognawelcome.com/en/blog/the-locations-of-the-oldest-university-in-europe) in Europe (established in 1088) along with [38 kilometres of arcades](https://www.bolognawelcome.com/en/blog/the-porticoes-of-bologna) (the porticoes of Bologna) which provide charmingly romantic spaces to socialise, eat and browse. 
+Bologna, the city where golden light blankets cobblestone streets and accordion music mingles with local church bells, and home to the world-famous bolognese sauce. Relatively quiet in comparison to Venice, Florence and Rome, Bologna has an authentic charm. It houses the [oldest university](https://www.bolognawelcome.com/en/blog/the-locations-of-the-oldest-university-in-europe) in Europe (established in 1088) along with [38 kilometres of arcades](https://www.bolognawelcome.com/en/blog/the-porticoes-of-bologna) (the porticoes of Bologna) which provide charmingly romantic spaces to socialise, eat and browse. 
 
 Take a walk from the centre of town, through the 4 km Portico di San Luca all the way to the fascinating basilica [Santuario di San Luca](https://www.bolognawelcome.com/it/luoghi/edifici-religiosi/santuario-di-san-luca) where elaborate biblical paintings adorn the domed roof. Entrance to the top is extra, but the view over Bologna is well worth it.
 
