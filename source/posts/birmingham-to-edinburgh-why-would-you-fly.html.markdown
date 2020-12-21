@@ -3,7 +3,7 @@ published: true
 title: "Birmingham to Edinburgh: why would you fly?"
 category: opinion
 date: 2019-09-26T17:12:07.032Z
-cover_image: /images/uploads/gettyimages-863000220.jpg
+cover_image: /images/uploads/edinburgh_castle.jpg
 summary: Easyjet has announced that from March 2020 it will be flying twice a
   day from Birmingham to Edinburgh. Is there a place for short domestic routes
   in our transport infrastructure?
