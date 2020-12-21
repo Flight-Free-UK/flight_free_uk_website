@@ -17,7 +17,7 @@ For many, getting away by plane is a common response to the short days and spars
 
 So we book our flights and spend two weeks on a beach before returning to the same cold, dark and wet routine, with only our memories, our jet lag and an unseasonal tan.
 
-> "Last winter is the first time in a long time when I haven’t flown. I just wanted to spend more time experiencing what winter is really like in the UK."
+> "Last winter is the first time in a long time when I haven’t flown. And I actually felt happier."
 
 It’s easy to justify the carbon output because sun makes us happy. But is all this jet-setting just masking the problem, rather than dealing with it?  
 
@@ -30,6 +30,8 @@ But last winter, Paul remained in the UK. He owns a stretch of river bank on the
 It’s easy to dismiss winter as a time of dearth and sparsity, where there is nothing to enjoy. But far from being ugly, the trees along the river had a unique beauty. Things weren’t bare, they were just different. The variety of plants and animals changes in the winter, and there were so many new layers to discover. On the night of the solstice Paul invited some friends round and they watched the sun slide behind the trees, the same sun that he would watch in the summer, but at a different point on the horizon, giving a wholly new experience. And it was a really happy time.
 
 “I realised that by constantly trying to be ‘somewhere else’ I was just covering up any sadness and depression, I wasn’t dealing with it. I’ve spent past winters lying on Thai beaches, trying to get close to nature, but if you go away there’s that pressure to do things, to be part of the tourist trap. Finding nature in Thailand just didn’t feel right somehow. What I really needed was just to stay still.”
+
+> “I realised that by constantly trying to be ‘somewhere else’ I was just covering up any sadness and depression, I wasn’t dealing with it. Finding nature in Thailand just didn’t feel right somehow. What I really needed was just to stay still.”
 
 ![Picture shows Paul taking a selfie with some newly planted trees. He is wearing a light blue anorak, and you can see the canal and trees in the background. ](/images/uploads/paul-powlesland-with-trees.jpg "New trees for planting")
 
