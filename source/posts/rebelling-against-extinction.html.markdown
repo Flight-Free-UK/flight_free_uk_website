@@ -3,12 +3,12 @@ published: true
 title: Rebelling against Extinction
 category: climate
 date: 2019-10-15T06:41:32.293Z
-cover_image: /images/uploads/city-airport.jpeg
+cover_image: /images/uploads/city-airport-protest-.jpeg
 summary: Flight Free UK Director Anna Hughes comments on the recent XR airport action
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Protestors block the streets wearing hi vis jackets, head phones and pretending to be flight conductors. The police look on. ](/images/uploads/city-airport.jpeg)
+![Protestors block the streets wearing hi vis jackets, head phones and pretending to be flight conductors. The police look on. ](/images/uploads/city-airport-protest-.jpeg)
 
 ### Last week, BBC Three Counties radio ran a feature on whether Extinction Rebellion was right to target airports. I was asked to comment and gave this answer:
 
