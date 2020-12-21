@@ -9,15 +9,15 @@ summary: Paul Powlesland, founder of Lawyers for Nature and once-frequent winter
 author: FlightFree UK
 read_time_minute: 3
 ---
-### *This blog post is based on our video 'Winter Sun'. You can watch the video [here](https://www.facebook.com/flightfreeUK/videos/382584305737238/).* [](https://www.facebook.com/flightfreeUK/videos/382584305737238/)
+*This blog post is based on our video 'Winter Sun'. You can watch the video [here](https://www.facebook.com/flightfreeUK/videos/382584305737238/).* [](https://www.facebook.com/flightfreeUK/videos/382584305737238/)
 
-“In previous winters I’ve needed to get away somewhere in the sun. I tend to get quite depressed in the winter. But last winter is the first time in a long time when I haven’t flown. I just wanted to spend more time experiencing what winter is really like in the UK. And I actually felt happier.”
+### “In previous winters I’ve needed to get away somewhere in the sun. I tend to get quite depressed in the winter. But last winter is the first time in a long time when I haven’t flown. I just wanted to spend more time experiencing what winter is really like in the UK. And I actually felt happier.”
 
 For many, getting away by plane is a common response to the short days and sparse sun of the UK winter. Our work lives are hectic, even when our natural rhythms mean that our productivity slumps. We arrive at work and leave in the dark. It’s a naturally depressive time for many of us, and a clinical diagnosis for some: SAD, Seasonal Affective Disorder. 
 
-So we book our flights and spend two weeks on a beach before returning to the same cold, dark and wet routine, with only our memories, our jet lag and an unseasonal tan.
-
 > "Last winter is the first time in a long time when I haven’t flown. And I actually felt happier."
+
+So we book our flights and spend two weeks on a beach before returning to the same cold, dark and wet routine, with only our memories, our jet lag and an unseasonal tan.
 
 It’s easy to justify the carbon output because sun makes us happy. But is all this jet-setting just contributing to the problem?  
 
