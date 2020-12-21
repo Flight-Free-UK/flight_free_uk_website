@@ -33,7 +33,7 @@ It’s easy to dismiss winter as a time of dearth and sparsity, where there is n
 
 “I realised that by constantly trying to be ‘somewhere else’ I was just covering up any sadness and depression, I wasn’t dealing with it. I’ve spent past winters lying on Thai beaches, trying to get close to nature, but if you go away there’s that pressure to do things, to be part of the tourist trap. Finding nature in Thailand just didn’t feel right somehow. What I really needed was just to stay still.”
 
-> “I realised that by constantly trying to be ‘somewhere else’ I was just covering up any sadness and depression, I wasn’t dealing with it. Finding nature in Thailand just didn’t feel right somehow. What I really needed was just to stay still.”
+> "Finding nature in Thailand just didn’t feel right somehow. What I really needed was just to stay still.”
 
 ![Picture shows Paul taking a selfie with some newly planted trees. He is wearing a light blue anorak, and you can see the canal and trees in the background. ](/images/uploads/paul-powlesland-with-trees.jpg "New trees for planting")
 
