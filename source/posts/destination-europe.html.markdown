@@ -51,6 +51,8 @@ It’s also possible to go from the UK to Prague in one day (check out our [Prag
 
 Getting there
 
+![People are sitting on a grassy slope area overlooking the city of Berlin](/images/uploads/berlin-mauerpark.jpg "Berline's Mauerpark. Image from tripsavvy.com")
+
 ## Berlin, Germany
 
 The German capital has been attracting UK city-breakers for years because of its urban cool and rich history. It could also be that the city has no official closing time with events happening around the clock, throughout the year: live concerts, jazz clubs, cocktail bars and casinos.
