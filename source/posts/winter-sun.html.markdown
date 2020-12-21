@@ -3,7 +3,7 @@ published: true
 title: Winter Sun
 category: travel
 date: 2019-12-23T01:00:00.000Z
-cover_image: /images/uploads/edxn1guu0aa_zva.jpeg
+cover_image: /images/uploads/winter-sun-through-trees.jpeg
 summary: Paul Powlesland, founder of Lawyers for Nature and once-frequent winter
   sun-seeker, shares his experience of spending winter in the UK
 author: FlightFree UK
