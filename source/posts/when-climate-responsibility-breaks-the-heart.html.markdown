@@ -3,13 +3,13 @@ published: true
 title: When climate responsibility breaks the heart
 category: opinion
 date: 2019-05-29T14:48:03.591Z
-cover_image: /images/uploads/blog-2.jpg
+cover_image: /images/uploads/heartbreak-black-and-white-piggy-back-.jpg
 summary: Claire Thompson's sons live half a world away, in New Zealand. In over
   a decade she has only seen them twice. This is her moving testimonial.
 author: FlightFree UK
 read_time_minute: 4
 ---
-![A black and white picture of a girl giving a piggyback to a little boy. They are surrounded by grass and trees. ](/images/uploads/blog-2.jpg)
+![A black and white picture of a girl giving a piggyback to a little boy. They are surrounded by grass and trees. ](/images/uploads/heartbreak-black-and-white-piggy-back-.jpg)
 
 ## It was 2005 when my two sons left for New Zealand with their father. They were aged 13 and 10. That same year I moved to Donegal in rural Ireland.
 
@@ -43,4 +43,4 @@ I've boxed it up and shelved it all in many ways. I don’t talk about them much
 
 Am I afraid it's all in vain? Should I say to hell with it? I just can't. My conscience won't allow it.
 
-####  I’m taking climate action wherever I can to protect my children's futures. At least I want to be able to say that I did what I believed to be the right thing.
+#### I’m taking climate action wherever I can to protect my children's futures. At least I want to be able to say that I did what I believed to be the right thing.
