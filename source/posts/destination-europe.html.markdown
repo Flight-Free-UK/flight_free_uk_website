@@ -76,3 +76,5 @@ Everywhere you look in Berlin, you can feel the true weight of this city’s tum
 #### Getting there
 
 **By train:** Take the Eurostar to Brussels, then take high-speed trains to Cologne and onwards to Berlin.
+
+*Most journeys can be booked through [RailEurope.co.uk](RailEurope.co.uk). For tips on how to travel and where to book, see [seat61.com](seat61.com)*
