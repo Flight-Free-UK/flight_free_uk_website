@@ -3,7 +3,7 @@ published: true
 title: "Destination: Europe"
 category: travel
 date: 2020-12-21T13:54:37.973Z
-cover_image: /images/uploads/utrecht.jpeg
+cover_image: /images/uploads/utrecht.jpg
 summary: Our ‘Destinations’ series takes a look at how to get to Europe’s most
   popular cities without flying
 author: FlightFree UK
