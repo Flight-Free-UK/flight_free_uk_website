@@ -37,7 +37,7 @@ In constantly fluttering around and seeking ‘the other’ we miss so much. We 
 
 > "In constantly fluttering around and seeking ‘the other’ we miss so much."
 
-Paul has signed our Flight Free 2020 pledge and urges others to do the same. “Try to see it less as a sacrifice, and more of an opportunity. A chance to see things you wouldn’t otherwise see and do things you wouldn’t otherwise do. 
+Paul has signed our Flight Free 2020 pledge and urges others to do the same. “Try to see it less as a sacrifice, and more of an opportunity. A chance to see things you wouldn’t otherwise see and do things you wouldn’t otherwise do." 
 
 #### By slowing things down you re-connect with place and become more grounded. So I haven’t wanted to fly this winter, and actually, it was the easiest winter for me in a long time. I definitely felt happier.”
 
