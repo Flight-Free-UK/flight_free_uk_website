@@ -13,6 +13,8 @@ read_time_minute: 5
 
 We are so lucky that the huge variety offered by continental Europe is right on our doorstep. Travelling overland might seem longer, but once you’ve factored in transfers, baggage claim and check-in time, air travel doesn’t work out as quick as you think. In any case, the beauty of overland travel is that the journey is part of the destination. So sit back, relax and enjoy the ride!
 
+![Image shows a black railing in front of a low-level canal in Utrecht](/images/uploads/sven-de-koe-utrecht-unsplash.jpg "Utrecht. Photo by Sven de Koe on Unsplash")
+
 ## Utrecht, Netherlands
 
 Unsurprisingly for the fourth biggest city in the Netherlands, Utrecht is packed full of bicycles and waterways. The city has all the charm of the Dutch – from the [Miffy Museum](https://nijntjemuseum.nl/?lang=en) to the Hagelslag (chocolate sprinkles) on sale in every supermarket – but with much more tranquility than the capital, Amsterdam. 
