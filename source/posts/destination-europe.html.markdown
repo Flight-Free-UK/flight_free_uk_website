@@ -31,20 +31,24 @@ Despite how easy and cheap it is to get to the Netherlands without flying, Londo
 
 **By coach:** Coaches travel [overnight from London Victoria](https://www.omio.co.uk/coaches/london/utrecht) to Utrecht Centraal Station.
 
-
-
 ## Prague, Czech Republic
 
 Getting there
-
-
 
 ## Bologne, Italy
 
 Getting there
 
-
-
 ## Berlin, Germany
 
-Getting there
+The German capital has been attracting UK city-breakers for years because of its urban cool and rich history. It could also be that the city has no official closing time with events happening around the clock, throughout the year: live concerts, jazz clubs, cocktail bars and casinos.
+
+Top attractions include [Museum Island](https://www.visitberlin.de/en/museum-island-in-berlin#/) (don’t miss the bust of Nefertiti in the Neues Museum), the cathedral [Berliner Dom](https://www.visitberlin.de/en/berlin-cathedral) and the Brandenburg Gate. 
+
+Everywhere you look in Berlin, you can feel the true weight of this city’s tumultuous past. To see what remains of the Berlin wall, visit the [Bornholmer Straße](https://www.berlin.de/mauer/en/sites/former-checkpoints/bornholmer-strasse/) border crossing (the first border to open on 9 November 1989), [Checkpoint Charlie](https://www.visitberlin.de/en/checkpoint-charlie) or the 1.3 km East Side Gallery, painted by 118 artists from 21 countries. 
+
+[Mauerpark](https://www.berlin.de/en/shopping/markets-and-flea-markets/1998222-2983302-flea-market-at-mauerpark.en.html) also contains a remnant of the wall; amble around the flea market in the park on Sundays for old records, instruments and bicycles, and if you’re brave enough, perform your favourite karaoke song in front of a couple hundred people in the amphitheatre! 
+
+#### Getting there
+
+**By train:** Take the Eurostar to Brussels, then take high-speed trains to Cologne and onwards to Berlin.
