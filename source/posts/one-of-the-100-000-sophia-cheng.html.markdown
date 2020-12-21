@@ -3,12 +3,12 @@ published: true
 title: "Flight Free for 2020: Sophia Cheng"
 category: testimonials
 date: 2019-06-28T13:43:04.681Z
-cover_image: /images/uploads/file.jpg
+cover_image: /images/uploads/flight-free-for-2020-pic-file.jpg
 summary: "We hear from our pledgers about why they've chosen to be #flightfree in 2020"
 author: FlightFree UK
 read_time_minute: 4
 ---
-![A piece of paper with the Flight Free 2020 pledge on it is resting on a copy table next to a mug. In the blurred background stand two women drinking coffee and chatting. ](/images/uploads/file.jpg)
+![A piece of paper with the Flight Free 2020 pledge on it is resting on a copy table next to a mug. In the blurred background stand two women drinking coffee and chatting. ](/images/uploads/flight-free-for-2020-pic-file.jpg)
 
 ### **Thank you for signing up to be Flight Free in 2020, Sophia! Can you sum up what motivated you to sign the pledge?**
 
