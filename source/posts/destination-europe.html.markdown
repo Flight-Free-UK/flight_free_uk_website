@@ -39,12 +39,11 @@ Prague is known for its eclectic architectural mix: Romanesque chapels, Art Nouv
 
 There’s no shortage of [beer gardens](https://www.praguebeergarden.com/) in the city, but don’t miss a stop at [Klasterni Pivovar brewery](https://www.prague.eu/en/object/food/321/klasterni-pivovar-strahov-the-strahov-monastic-brewery) at the Strahov Monastery for a diverse and seasonal selection, including crisp wheat brews and special dark lagers. Not far from the brewery is the magnificent [Prague Castle](https://www.hrad.cz/en/prague-castle-for-visitors) which, according to Guinness World Records, is the largest ancient castle complex in the world. Within its fortress lies a fascinating collection of historic buildings, including [St. Vitus Cathedral,](https://www.hrad.cz/en/prague-castle-for-visitors/objects-for-visitors/st.-vitus-cathedral-10330#from-list) where travellers can view the red Lesser Town roofs from the tower, and [St. George’s Basilica](https://www.hrad.cz/en/prague-castle-for-visitors/objects-for-visitors/st.-georges-basilica-and-convent-10333#from-list).
 
-Getting there
+#### Getting there
 
-By train: There’s plenty of options, however for affordability - take an evening Eurostar to Brussels, stay the night then continue to Prague the next day. Alternatively, take a late morning Eurostar to Paris, a TGV to Zurich and then a Czech sleeper train overnight to Prague. By day trains, travel to Cologne or Berlin, stay overnight and then travel to Prague the next day, taking in the beautiful scenery along the river Elbe south of Dresden.
+**By train:** There’s plenty of options, however for affordability - take an evening Eurostar to Brussels, stay the night then continue to Prague the next day. Alternatively, take a late morning Eurostar to Paris, a TGV to Zurich and then a Czech sleeper train overnight to Prague. By day trains, travel to Cologne or Berlin, stay overnight and then travel to Prague the next day, taking in the beautiful scenery along the river Elbe south of Dresden.
 
-**\
-It’s also possible to go from London to Prague in one day (check out our Prague to Pembrokeshire in a day post! [[https://flightfree.co.uk/post/prague-to-pembrokeshire-in-a-day](https://flightfree.co.uk/post/prague-to-pembrokeshire-in-a-day/)/], although this does involve a tight connection in Brussels.**
+It’s also possible to go from the UK to Prague in one day (check out our [Prague to Pembrokeshire in a day]([https://flightfree.co.uk/post/prague-to-pembrokeshire-in-a-day](https://flightfree.co.uk/post/prague-to-pembrokeshire-in-a-day/)/) post!), although this does involve a tight connection in Brussels.
 
 ## Bologne, Italy
 
