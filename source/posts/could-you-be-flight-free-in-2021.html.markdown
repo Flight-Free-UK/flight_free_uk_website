@@ -9,6 +9,8 @@ summary: 2020 was the year we stayed grounded because of the pandemic. Could
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/lara_sayers.jpg)
+
 ## Ever since we launched our campaign in early 2019 we've been asking people if they could take a flight free year. 
 
 The idea gained national media attention and we started #FlightFree2020 with over 6000 people on our pledge, ready to celebrate a year of flight free travel and climate action. No one could have predicted what would happen next. 
