@@ -23,7 +23,7 @@ But there were positives. [Clear skies](https://flightfree.co.uk/post/a-story-in
 
 ### So what place does a flight free pledge have in a post-Covid world?
 
-While Covid continues to dominate headlines, the climate crisis hasn’t gone away. Aviation remains the [fastest way](https://flightfree.co.uk/post/big-ticket-action-for-the-climate/) to raise your footprint above sustainable levels. We continue to burn fossil fuels even though there is already more CO2 in the atmosphere than the world can handle. Flying continues to be the default mode of travel for many of us, with airline tickets bought without a thought given to the alternatives. Talk of offsetting and ‘sustainable aviation’ makes us believe that we can continue to live our lives as normal.
+While Covid continues to dominate headlines, the climate crisis hasn’t gone away. Aviation remains the [fastest way](https://flightfree.co.uk/post/big-ticket-action-for-the-climate/) to raise your footprint above sustainable levels. We continue to burn fossil fuels even though there is already more CO2 in the atmosphere than the planet can handle. Flying continues to be the default mode of travel for many of us, with airline tickets bought without a thought given to the alternatives. Talk of offsetting and ‘sustainable aviation’ makes us believe that we can continue to live our lives as normal.
 
 ![Graph shows that taking a flight is the most carbon-heavy thing you can do](/images/uploads/bar_chart.png)
 
