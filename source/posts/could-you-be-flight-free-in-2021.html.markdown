@@ -25,6 +25,8 @@ But there were positives. [Clear skies](https://flightfree.co.uk/post/a-story-in
 
 While Covid has naturally dominated the headlines, the climate crisis hasn’t gone away. Aviation remains the [fastest way](https://flightfree.co.uk/post/big-ticket-action-for-the-climate/) to raise your footprint above sustainable levels. We continue to burn fossil fuels even though there is already more CO2 in the atmosphere than the world can handle. Flying continues to be the default mode of travel for many of us, with airline tickets bought without a thought given to the alternatives. Talk of offsetting and ‘sustainable aviation’ makes us believe that we can continue to live our lives as normal.
 
+![Graph shows that taking a flight is the most carbon-heavy thing you can do](/images/uploads/bar_chart.png)
+
 The purpose of #FlightFree2021 is first and foremost about reducing emissions by encouraging people to take a year off flying. But just as important is the social effect of that decision. We humans are easily influenced by those around us – we usually want to fit in with the crowd. The advantage of this is that change can happen quickly. If lots of people take a flight free year, many more will follow. 
 
 > "We are influenced by those around us. If lots of people take a flight free year, many more will follow." 
