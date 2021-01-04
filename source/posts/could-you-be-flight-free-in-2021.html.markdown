@@ -31,8 +31,8 @@ Having our freedom of choice taken away never leads to long-term change. As soon
 
 What we need is for people to make this a conscious choice: a positive, empowering decision that is not only good for the planet, it’s good for us. Travelling overland rather than by air is an [enriching experience](https://flightfree.co.uk/post/the-beauty-of-slow-travel/). In taking a year off flying, you discover the joy of travelling differently for yourself and the planet. 
 
-Of course, we don’t have to travel at all. What many people [discovered during the lockdown](https://flightfree.co.uk/post/light-in-the-lockdown/) is the beauty in our own back yards that we often overlook. For many, it's been the inability to see our loved ones that has been the difficult part, not sitting on a plane. As one of our pledgers said, “I'd be happy never leaving the country again if only I could see my friends.”
+Of course, we don’t have to travel at all. What many people [discovered during the lockdown](https://flightfree.co.uk/post/light-in-the-lockdown/) is the beauty in our own back yards that we often overlook. 
 
-Many people will be wishing a not-so-fond farewell to 2020 and looking to brighter things in 2021. Seeing loved ones, travelling, enjoying the freedoms that have been denied to us. But those things aren't dependent on getting on a plane. 
+Perhaps this year has shown us that we don't need to fly as much as we thought we did. Businesses have adapted to conducting most of their business online. We swapped Greek Islands for our own coastal resorts. We stayed connected with family and friends through our laptops and phones. For many, it's been the inability to see our loved ones that has been the difficult part, not sitting on a plane. As one of our pledgers said, “I'd be happy never leaving the country again if only I could see my friends.”
 
-Choices rather than requirements are more likely to lead to the long-term behaviour change that we so desperately need.
+So as we wish a not-so-fond farewell to 2020 and look forward to brighter things in 2021, seeing loved ones, travelling, and enjoying the freedoms that have been denied to us, let's choose to do them without getting on a plane.
