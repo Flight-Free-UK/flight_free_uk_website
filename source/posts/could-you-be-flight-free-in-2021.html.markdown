@@ -41,6 +41,6 @@ Perhaps this year has shown us that we don't need to fly as much as we thought w
 
 ### So as we wish a not-so-fond farewell to 2020 and look forward to brighter things in 2021 – seeing loved ones, travelling, and enjoying the freedoms that have been denied to us – let's choose to do them without getting on a plane. 
 
-Last year, we had to come together to address the crisis of the pandemic. This year, let's make our joint mission solving the climate crisis.
+Last year, we had to come together to address the crisis of the pandemic. This year, let's make it our joint mission to solve the climate crisis.
 
 *Watch our video: We are taking a flight free year: https://vimeo.com/488232606*
