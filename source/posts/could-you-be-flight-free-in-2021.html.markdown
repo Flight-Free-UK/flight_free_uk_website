@@ -37,4 +37,6 @@ Of course, we don’t have to travel at all. What many people [discovered during
 
 Perhaps this year has shown us that we don't need to fly as much as we thought we did. Businesses have adapted to conducting most of their business online. We swapped Greek Islands for our own coastal resorts. We stayed connected with family and friends through our laptops and phones. For many, it's been the inability to see our loved ones that has been the difficult part, not sitting on a plane. As one of our pledgers said, “I'd be happy never leaving the country again if only I could see my friends.”
 
-So as we wish a not-so-fond farewell to 2020 and look forward to brighter things in 2021, seeing loved ones, travelling, and enjoying the freedoms that have been denied to us, let's choose to do them without getting on a plane.
+### So as we wish a not-so-fond farewell to 2020 and look forward to brighter things in 2021 – seeing loved ones, travelling, and enjoying the freedoms that have been denied to us – let's choose to do them without getting on a plane. 
+
+Last year, we had to come together to address the crisis of the pandemic. This year, let's make our joint mission solving the climate crisis.
