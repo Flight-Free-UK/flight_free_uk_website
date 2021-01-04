@@ -43,4 +43,4 @@ Perhaps this year has shown us that we don't need to fly as much as we thought w
 
 Last year, we all pulled together to address the crisis of the pandemic. This year, let's make it our joint mission to solve the climate crisis.
 
-*Watch our video: We are taking a flight free year: https://vimeo.com/488232606*
+*Watch our video: [We are taking a flight free year](https://vimeo.com/488232606)*
