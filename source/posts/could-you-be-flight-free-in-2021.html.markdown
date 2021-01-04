@@ -17,9 +17,9 @@ The idea gained national media attention and we started #FlightFree2020 with ove
 
 ### 2020 was indeed the year we all stayed grounded. But not through choice. 
 
-The coronavirus pandemic put a huge strain on all of our lives. It affected everything, and our campaign was no exception. Our events, publicity and news coverage quietly slipped away. No one was paying attention to the climate emergency any more, in response to this much more immediate crisis. Businesses collapsed and people lost their jobs.
+The coronavirus pandemic put a huge strain on all of our lives. It affected everything, and [our campaign was no exception](https://flightfree.co.uk/post/the-flight-free-2020-that-wasnt/). Our events, publicity and news coverage quietly slipped away. No one was paying attention to the climate emergency any more, in response to this much more immediate crisis. Businesses collapsed and people lost their jobs.
 
-But there were positives. Clear skies were seen across the world, in many cases for the first time. There was a record drop in air pollution and emissions. The few months of absolute lockdown gave us a sense of ‘restart’, a glimpse of what we need to do in order to avert the climate crisis.
+But there were positives. [Clear skies](https://flightfree.co.uk/post/a-story-in-the-clouds/) were seen across the world, in many cases for the first time. There was a record drop in air pollution and emissions. The few months of absolute lockdown gave us a sense of ‘restart’, a glimpse of what we need to do in order to avert the climate crisis.
 
 ### Now, even with the 90% drop in airline bookings that we saw last year, we are still asking people to take the flight free pledge.
 
