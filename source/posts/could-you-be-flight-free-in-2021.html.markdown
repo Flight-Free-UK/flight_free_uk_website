@@ -27,7 +27,7 @@ While Covid continues to dominate headlines, the climate crisis hasn’t gone aw
 
 ![Graph shows that taking a flight is the most carbon-heavy thing you can do](/images/uploads/bar_chart.png)
 
-The purpose of #FlightFree2021 is first and foremost about reducing emissions by encouraging people to take a year off flying. But just as important is the social effect of that decision. We humans are easily influenced by those around us – we usually want to fit in with the crowd. The advantage of this is that change can happen quickly. If lots of people take a flight free year, many more will follow. 
+The purpose of #FlightFree2021 is first and foremost about reducing emissions by encouraging people to take a year off flying. But just as important is the social effect of that decision. We humans are easily influenced by those around us – we want to fit in with the crowd. The advantage of this is that change can happen quickly. If lots of people take a flight free year, many more will follow. 
 
 > "We are influenced by those around us. If lots of people take a flight free year, many more will follow." 
 
@@ -43,7 +43,7 @@ Perhaps this year has shown us that we don't need to fly as much as we thought w
 
 Last year, we all pulled together to address the crisis of the pandemic. This year, let's make it our joint mission to solve the climate crisis.
 
-*Watch our video: [We are taking a flight free year](https://vimeo.com/488232606)*
+#### Could you be flight free in 2021?
 
 ```
 <iframe src="https://player.vimeo.com/video/488232606" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
