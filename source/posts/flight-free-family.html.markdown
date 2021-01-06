@@ -11,7 +11,7 @@ read_time_minute: 4
 ---
 ![Picture shows Maggie taking a selfie, smiling and wearing a cap. Her son ducks his face behind her shoulder. Behind them is a view of the sea and pale sunny sky. The surface of the sea is glittering. ](/images/uploads/maggie-firstonthebeachpembrokeshire2018.jpg "Maggie with her son")
 
-### When I took the flight free pledge for 2020, it wasn’t just a personal choice.
+## When I took the flight free pledge for 2020, it wasn’t just a personal choice.
 
  All my flights for the previous few years were family holidays, so if I was refusing to fly that would affect my family too. 
 
@@ -19,7 +19,9 @@ Like many other people, I’m sure, having a young child sharpened my awareness 
 
 > "The end of the century no longer seemed that far away. My unease sharpened into Worry. With a capital W."
 
-So far, so good, right? People who are seriously anxious about the future should be more willing to make sacrifices. And what parent wouldn’t give up a bit of their comfort today to benefit their child in the future? Sign me up to the climate crusade! But it wasn’t quite that simple. 
+### So far, so good, right?
+
+ People who are seriously anxious about the future should be more willing to make sacrifices. And what parent wouldn’t give up a bit of their comfort today to benefit their child in the future? Sign me up to the climate crusade! But it wasn’t quite that simple. 
 
 For one thing, nothing pushes my buttons as a parent more than seeing other people’s children experience opportunities that mine doesn’t have. So alongside my worry about the planet, I had to set my hopes and aspirations for my child. To the extent that I have enjoyed the freedom to explore the world, I wanted my child to have that freedom too. If I value curiosity about other cultures, of course I wanted to pass on that curiosity to my child as well. And if other people’s kids are petting turtles on a Pacific island, or flying to Japan for half term (yes, it’s true, I have some very middle class friends) it’s an effort to accept that my family can’t.
 
@@ -31,7 +33,9 @@ And what about my boy – what does he think about it all? Well, being a kid imp
 
 For another, unlike many adults, children can’t book time off work when it suits their holiday plans. State school pupils in England and Wales are doomed to take their summer break during August, the wettest of the summer months, when it is automatically peak time at any UK holiday destination. If you want to explore a deserted beach with a child in the UK, it’s a good idea either to get up very early or go when it’s raining. On the other hand, a busy holiday resort, with thriving businesses and other children to play with, has a charm of its own.
 
-My son is also a convinced techno optimist. That’s not surprising, considering that for most of his life he has been reading about the wonder of science. Plus, until recently, he still believed in magic. He wants to know why planes can’t just use sustainable fuels made from grass cuttings and trash. He has no idea how long it takes a new technology to be deployed in the aviation industry. And in that perhaps he’s not that different from certain leading politicians.
+### My son is also a convinced techno optimist. That’s not surprising, considering that for most of his life he has been reading about the wonder of science. 
+
+Plus, until recently, he still believed in magic. He wants to know why planes can’t just use sustainable fuels made from grass cuttings and trash. He has no idea how long it takes a new technology to be deployed in the aviation industry. And in that perhaps he’s not that different from certain leading politicians.
 
 Sadly, he is not quite so persuaded about the power of collective action. When I broke the news that his parents had pledged again for 2021, he cried out ‘But we gave up flying for a whole year and it made no difference to climate change whatsoever!’ Persistence – it’s a skill and an attitude that we both need to learn.
 
@@ -41,6 +45,6 @@ Most significantly of all, it’s not his choice. No longer a small child, and o
 
 I’m determined to do my best to give him a safer world to grow up in. I’ve become a climate warrior, not a climate worrier.  And now he is getting bigger, my anxiety about the future is not quite as agonizing as it used to be. Life will be tough, but I’ll have to trust him to make good choices and look after himself and the people around him. Sometimes I think our children are like a message in a bottle to the future. We can’t know who will read our message or even whether it will reach the farther shore.
 
-####  All we can do is jam the cork in tightly, and throw it as hard as we can to catch the current. And hope that the current is flowing in the right direction.
+#### All we can do is jam the cork in tightly, and throw it as hard as we can to catch the current. And hope that the current is flowing in the right direction.
 
 ![Picture shows Maggie and her son scrambling over grey rocks on the beach. Both are wearing caps and looking down. You can see hills in the background. ](/images/uploads/maggie-pembrokeshirerocks2018.jpg "First on the beach!")
