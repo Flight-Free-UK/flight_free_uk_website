@@ -15,13 +15,15 @@ read_time_minute: 4
 
  All my flights for the previous few years were family holidays, so if I was refusing to fly that would affect my family too. 
 
-Like many other people, I’m sure, having a young child sharpened my awareness of climate change. It’s not that I didn’t care about the future of humanity before. I did, honest! But it was more of a vague concern, an unease. Once I had a small child, and I took responsibility, not only for his safety, but also for his feeling safe and secure, I started to think much further ahead. The year 2050, and even the end of the century, no longer seemed that far away. My unease sharpened into Worry. With a capital W. 
+Like many other people, I’m sure, having a young child sharpened my awareness of climate change. It’s not that I didn’t care about the future of humanity before. I did, honest! But it was more of a vague concern, an unease. 
 
-> "The end of the century no longer seemed that far away. My unease sharpened into Worry. With a capital W."
+> "Having a young child sharpened my awareness of climate change."
+
+Once I had a small child, and I took responsibility, not only for his safety, but also for his feeling safe and secure, I started to think much further ahead. The year 2050, and even the end of the century, no longer seemed that far away. My unease sharpened into Worry. With a capital W. 
 
 ### So far, so good, right?
 
- People who are seriously anxious about the future should be more willing to make sacrifices. And what parent wouldn’t give up a bit of their comfort today to benefit their child in the future? Sign me up to the climate crusade! But it wasn’t quite that simple. 
+People who are seriously anxious about the future should be more willing to make sacrifices. And what parent wouldn’t give up a bit of their comfort today to benefit their child in the future? Sign me up to the climate crusade! But it wasn’t quite that simple. 
 
 For one thing, nothing pushes my buttons as a parent more than seeing other people’s children experience opportunities that mine doesn’t have. So alongside my worry about the planet, I had to set my hopes and aspirations for my child. To the extent that I have enjoyed the freedom to explore the world, I wanted my child to have that freedom too. If I value curiosity about other cultures, of course I wanted to pass on that curiosity to my child as well. And if other people’s kids are petting turtles on a Pacific island, or flying to Japan for half term (yes, it’s true, I have some very middle class friends) it’s an effort to accept that my family can’t.
 
@@ -33,7 +35,7 @@ And what about my boy – what does he think about it all? Well, being a kid imp
 
 For another, unlike many adults, children can’t book time off work when it suits their holiday plans. State school pupils in England and Wales are doomed to take their summer break during August, the wettest of the summer months, when it is automatically peak time at any UK holiday destination. If you want to explore a deserted beach with a child in the UK, it’s a good idea either to get up very early or go when it’s raining. On the other hand, a busy holiday resort, with thriving businesses and other children to play with, has a charm of its own.
 
-### My son is also a convinced techno optimist. That’s not surprising, considering that for most of his life he has been reading about the wonder of science. 
+### My son is also a convinced techno optimist. That’s not surprising, considering that for most of his life he has been reading about the wonder of science.
 
 Plus, until recently, he still believed in magic. He wants to know why planes can’t just use sustainable fuels made from grass cuttings and trash. He has no idea how long it takes a new technology to be deployed in the aviation industry. And in that perhaps he’s not that different from certain leading politicians.
 
