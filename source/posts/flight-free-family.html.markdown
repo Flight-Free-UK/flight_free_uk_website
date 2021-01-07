@@ -43,7 +43,7 @@ Sadly, he is not quite so persuaded about the power of collective action. When I
 
 Most significantly of all, it’s not his choice. No longer a small child, and on the brink of becoming a teenager, he wants to do what other kids do. He likes going on School Strike and will enthusiastically wave a cardboard placard. He is not so keen on having his parents tell him what to think, or letting them cramp his holiday style. If I’m to have any hope of him embracing life on the ground, I’ll have to sell it as the rebel thing to do. (I can handle this. I’ve been persuading him to eat his greens for years.)
 
-> "Most significantly of all, it’s not his choice. No longer a small child, and on the brink of becoming a teenager, he wants to do what other kids do."
+> "If I’m to have any hope of him embracing life on the ground, I’ll have to sell it as the rebel thing to do."
 
 I’m determined to do my best to give him a safer world to grow up in. I’ve become a climate warrior, not a climate worrier.  And now he is getting bigger, my anxiety about the future is not quite as agonizing as it used to be. Life will be tough, but I’ll have to trust him to make good choices and look after himself and the people around him. Sometimes I think our children are like a message in a bottle to the future. We can’t know who will read our message or even whether it will reach the farther shore.
 
