@@ -79,4 +79,4 @@ Everywhere you look in Berlin, you can feel the true weight of this city’s tum
 
 *Most journeys can be booked through [RailEurope.co.uk](https://www.raileurope.com). For tips on how to travel and where to book, see [seat61.com](https://www.seat61.com)*
 
-*France and Spain are the most popular destinations for UK travellers. Check out our separate guides for those countries: [Destination Spain](/post/destination-spain) and [Destination south of France](/post/destination-south-of-france).*
+#### *France and Spain are the most popular destinations for UK travellers. Check out our separate guides for those countries: [Destination Spain](/post/destination-spain) and [Destination south of France](/post/destination-south-of-france).*
