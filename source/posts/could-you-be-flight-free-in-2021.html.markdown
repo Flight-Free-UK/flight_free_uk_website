@@ -43,7 +43,7 @@ Perhaps this year has shown us that we don't need to fly as much as we thought w
 
 Last year, we all pulled together to address the crisis of the pandemic. This year, let's make it our joint mission to solve the climate crisis.
 
-#### Could you be flight free in 2021?
+#### Could you be flight free in 2021? Make your pledge [here](/index).
 
 ```
 <iframe src="https://player.vimeo.com/video/488232606" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
