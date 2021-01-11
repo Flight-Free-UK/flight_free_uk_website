@@ -32,4 +32,4 @@ I am painfully aware of my hypocrisy.  I have emitted more greenhouse gases from
 
 #### This knowledge gives me a responsibility to do all I can to stop living that way, and push for the systemic changes needed to halt ‘business-as-usual’ consumption and pollution. Pledging to be flight free is one of the ways I am doing that.
 
-![Picture shows a low stone wall with Helena's bike resting against it. Behind the wall are green grassy fields and rocky tall hill ranges. ](/images/uploads/blog-3.jpeg "Bikepacking in Snowdonia")
+![Picture shows a low stone wall with Helena's bike resting against it. Behind the wall are green grassy fields and rocky tall hill ranges. ](/images/uploads/helena-ritter-snowdonia-bike.jpeg "Bikepacking in Snowdonia")
