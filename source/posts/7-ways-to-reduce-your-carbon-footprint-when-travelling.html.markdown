@@ -12,6 +12,8 @@ read_time_minute: 5
 ---
 ![Picture shows a women in a yellow raincoat standing on the top of a craggy hill top. She has her back to the camera and in front of her is a mountain range and green rolling hills. The sky is blue and cloudy. ](/images/uploads/lucas-wesney-landscape-woman-unsplash.jpg "Credit: Lucas Wesney (Source: Unsplash)")
 
+ [Byway](https://www.byway.travel/) is the world’s first platform for flight-free holidays, offering travel and accommodation packages away from the traditional tourist trails, using trains, bikes, buses and ferries. Cat Jones, Byway founder and CEO, shares seven ways to keep your holidays carbon-friendly.
+
 ## 1. The big brains say take the train
 
 Flying is still up there as number one no-no when it comes to carbon emissions. You can recycle or go plastic-free and vegan all you like, but jump on a flight and you could ruin all your good habits in one fell swoop. Calculating carbon emissions for train versus air travel is complex as it depends on the model of your train or plane, the distance covered and route taken, occupancy and so on. We don’t want to bombard you with stats, but here are a few travel essentials:
