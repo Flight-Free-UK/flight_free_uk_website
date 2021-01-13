@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "This is your pilot speaking: brace for the greatest emergency of our lives"
 category: opinion
 date: 2021-01-12T14:44:57.978Z
