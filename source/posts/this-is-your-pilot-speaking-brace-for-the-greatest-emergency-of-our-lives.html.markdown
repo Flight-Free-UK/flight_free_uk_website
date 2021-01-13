@@ -16,7 +16,7 @@ read_time_minute: 5
 
  Catastrophic impact is imminent unless immediate action is taken. The cabin crew have been trained to prepare the passengers for an emergency landing and the pilots know to follow their standard procedures and divert off course to attempt a landing at the nearest airport. Following these procedures doesn’t guarantee a successful outcome, but it gives them a fighting chance.
 
-### However, this is not the scenario that plays out. 
+### However, this is not the scenario that plays out.
 
 The pilots conclude that the fire indications are, in-fact, a scare-mongering tactic from the aircraft instrumentation and are not prepared to risk a late arrival by following the emergency procedures. After all, they couldn’t actually see any flames. The fire rages on…
 
@@ -36,13 +36,13 @@ There is now little doubt that, like the aircraft in this fictional story, our p
 
 But unlike with the immediacy of a burning aircraft, it is easy to ignore the climate emergency. Even though there is overwhelming scientific consensus that climate change and ecological breakdown is happening, the perceived danger seems quite far off, and our emergency response is therefore also less immediate. 
 
-> "Though there is overwhelming scientific consensus that climate change and ecological breakdown is happening, the danger can seem far off."
+> "Though the overwhelming scientific consensus is that climate change is happening, the danger can seem far off."
 
 Like the passengers on the aircraft, for many of us, it is inconvenient to change our habits, choices and behaviours because it will impact our quality of life. Like the ground control team at the airline, for many bosses within corporations, responding to the climate emergency would get in the way of maximising profits. Like the pilots on the aircraft, for many decision makers such as political leaders, it can be far easier to avoid the truth and search for information which confirms what they want to believe, rather than genuinely identifying the best course of action.
 
 It is perhaps a little ironic that this story involves an aircraft, as commercial aviation is increasingly in the spotlight when it comes to greenhouse gas emissions and the climate emergency. 
 
-### However, it is for this very reason that I chose this example. 
+### However, it is for this very reason that I chose this example.
 
 I am an airline pilot, and the third generation within my family to fly professionally. Like many pilots, I wanted to fly jets from a very young age, and I sacrificed a great deal to reach my goal.
 
