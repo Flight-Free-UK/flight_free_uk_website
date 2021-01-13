@@ -41,7 +41,7 @@ Eliminating single-use plastics has become a way of life for many, and yet so ma
 * soap and shampoo bars packed in an [eco toilet bag](https://www.onenine5.com/)
 * [eco-friendly suncreams](https://www.peacewiththewild.co.uk/product/mineral-sunscreen-lotion-spf-50-travel-size-100ml/) in aluminium bottles
 
-  ![Pictures shows a lush green valley with mountains in the far distance. On the far right side you can see the side of a train, showing that the picture was taken out the window. The sky is clear blue. ](/images/uploads/fabian9799-mountain-landscape-train-unsplash.jpg "Credit: Fabian9799 (Source: Unsplash)")
+  ![Pitcure shows a photo taken out of a mountain train window. The side of the train is red and snowy peaks are visible close behind the train. It is surrounded by snow and the sky is clear blue. ](/images/uploads/kevin-schmid-snow-mountain-train-unsplash.jpg "Credit: Kevin Schmid (Source: Unsplash)")
 
 ## 4. Choose recycled luggage
 
