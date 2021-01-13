@@ -64,4 +64,6 @@ What we do, as a society and as a species, will determine whether or not we have
 
 #### I sincerely believe we have a better chance of avoiding disaster if we can all acknowledge and accept that our plane is on fire and consciously consider how our choices and actions will determine the likelihood of a safe landing.
 
+![Picture shows dan taking a selfie out the door of a stationary grounded plane. He's smiling and behind him is a runway and a cloudy sky. ](/images/uploads/dan-tipney-expilot.jpg "Dan Tipney ")
+
 *Dan Tipney is a former airline pilot and member of Safe Landing; a group of current/former aviation professionals seeking to ensure that the future of aviation is truly sustainable for the workers and for the planet.*
