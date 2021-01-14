@@ -12,7 +12,7 @@ read_time_minute: 5
 ---
 ![Picture shows a women in a yellow raincoat standing on the top of a craggy hill top. She has her back to the camera and in front of her is a mountain range and green rolling hills. The sky is blue and cloudy. ](/images/uploads/lucas-wesney-landscape-woman-unsplash.jpg "Credit: Lucas Wesney (Source: Unsplash)")
 
- [Byway](https://www.byway.travel/) is the world’s first platform for flight-free holidays, offering travel and accommodation packages away from the traditional tourist trails, using trains, bikes, buses and ferries. Cat Jones, Byway founder and CEO, shares seven ways to keep your holidays carbon-friendly.
+#### [Byway](https://www.byway.travel/) is the world’s first platform for flight-free holidays, offering travel and accommodation packages away from the traditional tourist trails, using trains, bikes, buses and ferries. Cat Jones, Byway founder and CEO, shares seven ways to keep your holidays carbon-friendly.
 
 ## 1. The big brains say take the train
 
@@ -40,8 +40,6 @@ Eliminating single-use plastics has become a way of life for many, and yet so ma
 * plastic-free floss
 * soap and shampoo bars packed in an [eco toilet bag](https://www.onenine5.com/)
 * [eco-friendly suncreams](https://www.peacewiththewild.co.uk/product/mineral-sunscreen-lotion-spf-50-travel-size-100ml/) in aluminium bottles
-
-
 
 ![Pitcure shows a photo taken out of a mountain train window. The side of the train is red and snowy peaks are visible close behind the train. It is surrounded by snow and the sky is clear blue. ](/images/uploads/kevin-schmid-snow-mountain-train-unsplash.jpg "Credit: Kevin Schmid (Source: Unsplash)")
 
