@@ -4,9 +4,9 @@ title: "This is your pilot speaking: brace for the greatest emergency of our liv
 category: opinion
 date: 2021-01-12T14:44:57.978Z
 cover_image: /images/uploads/pilots-at-the-cockpit-jon-flobrant-unsplash.jpg
-summary: "The climate crisis is the greatest emergency facing humanity today.
-  Ex-pilot Dan Tipney shares how this fact is a difficult pill to swallow, but
-  also why it is worth it. "
+summary: The climate crisis is the greatest emergency facing humanity today.
+  Ex-pilot Dan Tipney shares how this can be a difficult pill to swallow, but
+  also why we need to.
 author: FlightFree UK
 read_time_minute: 5
 ---
@@ -14,7 +14,7 @@ read_time_minute: 5
 
 ## The plane is on fire.
 
- Catastrophic impact is imminent unless immediate action is taken. The cabin crew have been trained to prepare the passengers for an emergency landing and the pilots know to follow their standard procedures and divert off course to attempt a landing at the nearest airport. Following these procedures doesn’t guarantee a successful outcome, but it gives them a fighting chance.
+Catastrophic impact is imminent unless immediate action is taken. The cabin crew have been trained to prepare the passengers for an emergency landing and the pilots know to follow their standard procedures and divert off course to attempt a landing at the nearest airport. Following these procedures doesn’t guarantee a successful outcome, but it gives them a fighting chance.
 
 ### However, this is not the scenario that plays out.
 
