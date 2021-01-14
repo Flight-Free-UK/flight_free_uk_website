@@ -8,7 +8,7 @@ summary: >
   Our friends at Byway Travel give us their top tips for keeping your journeys
   squeaky carbon-clean.
 author: FlightFree UK
-read_time_minute: 5
+read_time_minute: 4
 ---
 ![Picture shows a women in a yellow raincoat standing on the top of a craggy hill top. She has her back to the camera and in front of her is a mountain range and green rolling hills. The sky is blue and cloudy. ](/images/uploads/lucas-wesney-landscape-woman-unsplash.jpg "Credit: Lucas Wesney (Source: Unsplash)")
 
