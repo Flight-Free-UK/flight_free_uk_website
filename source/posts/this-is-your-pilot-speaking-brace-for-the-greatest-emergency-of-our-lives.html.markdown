@@ -58,6 +58,8 @@ It is no surprise that this fear leads to other responses such as denial, anger 
 
 I have recently made the decision to stop flying. When I first felt conflicted in my role, I imagined that taking this step would be agonising and feared I might regret giving up on my childhood dream. However, with every day that passes and the more I understand the crisis that we are facing, my only regret is not doing it sooner.
 
+> "I imagined I might regret giving up on my childhood dream. The more I understand the crisis that we are facing, my only regret is not doing it sooner."
+
 Of course, another pilot will take my place at the controls and I am under no illusion that my decision will directly reduce emissions from aviation, at least in the short-term. My hope and my sincere request to anyone who reads this is to pause and to ask yourself — what do you really think? I am not suggesting you should quit your job, or join an Extinction Rebellion protest (I’m not saying you shouldn’t either!). I am simply asking you to consider what might be influencing your own biases, and how your perception might vary if you were to consider the facts surrounding climate change through an unfiltered lens. 
 
 What we do, as a society and as a species, will determine whether or not we have a habitable planet for the next generation, something I think most of us wish for. 
