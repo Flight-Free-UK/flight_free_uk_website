@@ -6,7 +6,7 @@ date: 2021-01-07T14:44:57.978Z
 cover_image: /images/uploads/pilots-at-the-cockpit-jon-flobrant-unsplash.jpg
 summary: The climate crisis is the greatest emergency facing humanity today.
   Ex-pilot Dan Tipney shares how this can be a difficult pill to swallow, but
-  also why we need to.
+  also why it's vital that we do.
 author: FlightFree UK
 read_time_minute: 5
 ---
