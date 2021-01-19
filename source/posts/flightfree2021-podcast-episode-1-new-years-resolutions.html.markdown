@@ -1,21 +1,21 @@
 ---
-published: false
+published: true
 title: "#FlightFree2021 podcast episode 1: New Year's Resolutions"
 category: opinion
 date: 2021-01-19T12:37:55.433Z
 cover_image: /images/uploads/jan2021-podcast-collage.png
 summary: "To ring in the New Year, we talk to five people who have made the
-  Flight Free 2021 pledge: Lenny, Jo, Gope, Dominic, and Lizzie."
+  Flight Free 2021 pledge: Lenny, Jo, Gope, Dominick, and Lizzie."
 author: FlightFree UK
 read_time_minute: 2
 ---
-## This podcast is episode 1 of our #FlightFree2021 series. You can listen to the podcast, and access the rest of the series', at our [podcast page](https://flightfree.co.uk/podcast/).
+## This podcast is episode 1 of our #FlightFree2021 series. You can listen to the [](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/)podcast [here](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/), and access the rest of the series', at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![Picture shows a collage of close up pictures of the 5 people being interviewed in the podcast. They are all smiling. ](/images/uploads/jan2021-podcast-collage.png)
 
 ### This month, Kirsty and Rachel talk about New Year’s resolutions.
 
- We hear from five people who have made the Flight Free 2021 pledge: Lenny from Cardiff, Jo from Edinburgh, Gope from Newcastle, Dominic from Republic of Ireland, and Lizzie from Cheshire.
+ We hear from five people who have made the Flight Free 2021 pledge: Lenny from Cardiff, Jo from Edinburgh, Gope from Newcastle, Dominick from Republic of Ireland, and Lizzie from Cheshire.
 
 Lizzie used to dream about travelling all over the world, but became aware of the climate impact of aviation and had to park that particular dream.
 
@@ -29,10 +29,10 @@ Jo decided to stop flying after a trip to Peru. The amount of flights she took o
 
 Gope took the flight free pledge in 2020, and before that would have put himself in the top 10% of flyers in the UK, with frequent work trips and many flights to train for triathlons. During flight free 2020, instead of heading to Mallorca or Lanzarote, Gope went to Wales and Scotland. He said, even though it’s a bit colder and the roads aren’t great, the UK mountains and lakes are as beautiful as any in the world.
 
-Dominic hasn’t flown for 20 years. He talks about how we can change the norm in conversations around flying, and how important it is to talk about the issue with the people around us. Even though his son lives in Switzerland, he chooses to take the train to go and visit.
+Dominick hasn’t flown for 20 years. He talks about how we can change the norm in conversations around flying, and how important it is to talk about the issue with the people around us. Even though his son lives in Switzerland, he chooses to take the train to go and visit.
 
 > Flight Free fact: research shows that if you know someone who has given up flying, you are more likely to give up flying (or fly less) yourself.
 
 Destination of the month: in our regular feature, Kirsty and Rachel talk about their top pick for destination of the month. This time, they talk about their favourite beaches to visit.
 
-### You can listen to this full podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+### You can listen to this full [podcast here](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/), and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
