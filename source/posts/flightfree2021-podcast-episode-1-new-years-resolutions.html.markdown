@@ -41,4 +41,4 @@ Dominick hasn’t flown for 20 years. He talks about how we can change the norm 
 
 Destination of the month: in our regular feature, Kirsty and Rachel talk about their top pick for destination of the month. This time, they talk about their favourite beaches to visit.
 
-### You can listen to this full [podcast here](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/), and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
+### You can listen to this full [](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/)podcast [here](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/), and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
