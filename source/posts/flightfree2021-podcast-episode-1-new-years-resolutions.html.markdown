@@ -9,13 +9,13 @@ summary: "To ring in the New Year, we talk to five people who have made the
 author: FlightFree UK
 read_time_minute: 2
 ---
-## This podcast is episode 1 of our #FlightFree2021 series. You can listen to the [](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/)podcast [here](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/), and access the rest of the series', at our [podcast page](https://flightfree.co.uk/podcast/).
+## This podcast is episode 1 of our #FlightFree2021 series. You can listen to the [](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/)podcast [here](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/), and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
 ![Picture shows a collage of close up pictures of the 5 people being interviewed in the podcast. They are all smiling. ](/images/uploads/jan2021-podcast-collage.png)
 
 ### This month, Kirsty and Rachel talk about New Year’s resolutions.
 
- We hear from five people who have made the Flight Free 2021 pledge: Lenny from Cardiff, Jo from Edinburgh, Gope from Newcastle, Dominick from Republic of Ireland, and Lizzie from Cheshire.
+We hear from five people who have made the Flight Free 2021 pledge: Lenny from Cardiff, Jo from Edinburgh, Gope from Newcastle, Dominick from Republic of Ireland, and Lizzie from Cheshire.
 
 Lizzie used to dream about travelling all over the world, but became aware of the climate impact of aviation and had to park that particular dream.
 
@@ -23,7 +23,7 @@ Lenny works as a musician, and has pledged not to fly for leisure ever again if 
 
 ### Flight Free fact:
 
-####  *Most flights are for leisure: 63% in 2019, as opposed to 10% for leisure. This year, our flight free pledge includes the option not to fly leisure, as some people might be asked to fly for work, or have to fly for family reasons.*
+#### *Most flights are for leisure: 63% in 2019, as opposed to 10% for leisure. This year, our flight free pledge includes the option not to fly leisure, as some people might be asked to fly for work, or have to fly for family reasons.*
 
 Jo decided to stop flying after a trip to Peru. The amount of flights she took on that holiday made her realise how unsustainable it was. She talks about how we need system change and it can’t all be down to us as individuals, but it’s important for us to use our consumer power to demand those changes.
 
