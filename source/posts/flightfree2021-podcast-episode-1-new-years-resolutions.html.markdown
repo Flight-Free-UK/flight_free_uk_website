@@ -23,13 +23,13 @@ Lenny works as a musician, and has pledged not to fly for leisure ever again if 
 
 ### Flight Free fact:
 
- *Most flights are for leisure: 63% in 2019, as opposed to 10% for leisure. This year, our flight free pledge includes the option not to fly leisure, as some people might be asked to fly for work, or have to fly for family reasons.*
+####  *Most flights are for leisure: 63% in 2019, as opposed to 10% for leisure. This year, our flight free pledge includes the option not to fly leisure, as some people might be asked to fly for work, or have to fly for family reasons.*
 
 Jo decided to stop flying after a trip to Peru. The amount of flights she took on that holiday made her realise how unsustainable it was. She talks about how we need system change and it can’t all be down to us as individuals, but it’s important for us to use our consumer power to demand those changes.
 
-### Flight Free fact: 
+### Flight Free fact:
 
-*Flights make up the most significant part of your carbon footprint. One trip to Peru emits more CO2 than a resident of Peru will in an entire year.*
+#### *Flights make up the most significant part of your carbon footprint. One trip to Peru emits more CO2 than a resident of Peru will in an entire year.*
 
 Gope took the flight free pledge in 2020, and before that would have put himself in the top 10% of flyers in the UK, with frequent work trips and many flights to train for triathlons. During flight free 2020, instead of heading to Mallorca or Lanzarote, Gope went to Wales and Scotland. He said, even though it’s a bit colder and the roads aren’t great, the UK mountains and lakes are as beautiful as any in the world.
 
@@ -37,7 +37,7 @@ Dominick hasn’t flown for 20 years. He talks about how we can change the norm 
 
 ### Flight Free fact:
 
-*Research shows that if you know someone who has given up flying, you are more likely to give up flying (or fly less) yourself.*
+#### *Research shows that if you know someone who has given up flying, you are more likely to give up flying (or fly less) yourself.*
 
 Destination of the month: in our regular feature, Kirsty and Rachel talk about their top pick for destination of the month. This time, they talk about their favourite beaches to visit.
 
