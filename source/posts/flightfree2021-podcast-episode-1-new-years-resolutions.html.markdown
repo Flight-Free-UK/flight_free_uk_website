@@ -53,6 +53,6 @@ Dominick says, just keep having those conversations. That way you can make peopl
 
 #### Destination of the month: 
 
-In our regular feature, Kirsty and Rachel talk about their top pick for a destination of the month. This time, they talk about their favourite beaches to visit.
+In our regular feature, Kirsty and Rachel talk about their top pick for a destination of the month. This time, they talk about their favourite beaches to visit for a bracing January stroll.
 
 ### You can listen to this full [](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/)podcast [here](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/), and access the rest of the series at our [podcast page](https://flightfree.co.uk/podcast/).
