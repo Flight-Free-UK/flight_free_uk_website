@@ -3,7 +3,7 @@ published: true
 title: Putting climate back on the agenda
 category: opinion
 date: 2021-01-22T17:44:47.415Z
-cover_image: /images/uploads/flying_less_after_covid_2.0_1920x1080.jpg
+cover_image: /images/uploads/five_ways.jpg
 summary: Can we re-discover the climate momentum that emerged in 2019?
 author: FlightFree UK
 read_time_minute: 3
