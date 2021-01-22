@@ -8,7 +8,9 @@ summary: Can we re-discover the climate momentum that emerged in 2019?
 author: FlightFree UK
 read_time_minute: 3
 ---
-It’s hard to remember what life was like before the pandemic hit. Little more than a year ago, 2019 was drawing to a close with something like a promise. It had been the year we had met Greta Thunberg, Extinction Rebellion and the school climate strikes, and the momentum was very much with climate activism. 2020 promised to be the Year of Change.
+## It’s hard to remember what life was like before the pandemic hit. 
+
+Little more than a year ago, 2019 was drawing to a close with something like a promise. It had been the year we had met Greta Thunberg, Extinction Rebellion and the school climate strikes, and the momentum was very much with climate activism. 2020 promised to be the Year of Change.
 
 Helped no doubt by Greta’s famous [yacht journey across the Atlantic](https://flightfree.co.uk/post/be-more-greta/), the spotlight was firmly shone on aviation’s role in the climate crisis. An airline ticket is about the most carbon heavy thing you can buy, and for those of us who are fortunate enough to be able to access air travel, our flights can quickly put us among the top polluters in the world. 
 
@@ -28,6 +30,6 @@ It remains to be seen what effect the Covid crisis will have on our long term fl
 
 So let’s not let the misery of 2020 get in the way of our climate ambitions. The good news is that there doesn’t have to be another year of misery ahead – [not flying doesn’t mean not travelling](https://flightfree.co.uk/blog/categories/travel/), and we can still reach these much-desired holiday locations for a fraction of the emissions if we choose to travel by other means. And now, more than ever, it’s imperative that we take action. [2020 was the hottest year on record](https://www.theguardian.com/environment/2021/jan/08/climate-crisis-experts-2020-joint-hottest-year-ever-recorded)[](https://www.theguardian.com/environment/2021/jan/08/climate-crisis-experts-2020-joint-hottest-year-ever-recorded), and the six hottest years ever recorded all occurred in the last decade.
 
-2020 was the year we were forced to stay grounded because of the pandemic. Could 2021 be the year we stay grounded through choice?
+#### 2020 was the year we were forced to stay grounded because of the pandemic. Could 2021 be the year we stay grounded through choice?
 
-[Make your pledge here](/index).
+#### [Make your pledge here](/index).
