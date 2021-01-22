@@ -1,11 +1,11 @@
 ---
 published: true
-title: Flight free family
+title: Flight free for my family
 category: travel
 date: 2021-01-06T12:44:33.096Z
 cover_image: /images/uploads/maggie-firstonthebeachpembrokeshire2018.jpg
 summary: Not flying is our gift to the children of the future. So why can’t they
-  be more grateful, asks Maggie Robertson.
+  be more grateful? asks Maggie Robertson.
 author: FlightFree UK
 read_time_minute: 4
 ---
