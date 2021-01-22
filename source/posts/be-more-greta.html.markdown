@@ -3,7 +3,7 @@ published: true
 title: Be more Greta
 category: climate
 date: 2019-08-16T11:39:56.265Z
-cover_image: /images/uploads/greta-school-strike.jpg
+cover_image: /images/uploads/racing-boat-malizia-ii-daily-mail.jpg
 summary: "Teen climate activist Greta Thunberg gained worldwide recognition
   through starting the ‘School Strike for climate’, and is now travelling across
   the Atlantic by yacht for the upcoming UN Climate Summits in North and South
