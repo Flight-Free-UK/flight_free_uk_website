@@ -1,7 +1,7 @@
 ---
 published: true
 title: Flight free for my family
-category: travel
+category: opinion
 date: 2021-01-06T12:44:33.096Z
 cover_image: /images/uploads/maggie-firstonthebeachpembrokeshire2018.jpg
 summary: Not flying is our gift to the children of the future. So why can’t they
