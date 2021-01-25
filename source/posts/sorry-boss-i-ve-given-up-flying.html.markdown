@@ -3,7 +3,7 @@ published: true
 title: '"Sorry boss, I’ve given up flying"'
 category: opinion
 date: 2021-01-25T11:41:39.348Z
-cover_image: /images/uploads/anna-neil-eddie-helen.christianclimateaction.jpg
+cover_image: /images/uploads/tyler-franta-office-work-job-unsplash.jpg
 summary: When Eddie decided to stop flying, it had a knock-on effect at work. He
   shares how taking a stand can be awkward, but can also shift people’s
   perspectives.
