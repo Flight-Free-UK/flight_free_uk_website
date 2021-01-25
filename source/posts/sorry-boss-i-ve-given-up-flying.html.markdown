@@ -54,7 +54,7 @@ Before lockdown, the whole team was flying out to Romania (~1000 miles away) eve
 
 The more people that also take this stance, wherever they possibly can, the more our culture and infrastructure will have to adapt to accommodate us. We've already seen this start to happen with the rise of vegan options and vegan restaurants. It’s basic economics: if we want to change the supply we need to change the demand.
 
-> "The more people that also take this stance, wherever they possibly can, the more our culture and infrastructure will have to adapt to accommodate us."
+> "The more people that also take this stance, the more our culture and infrastructure will have to adapt to accommodate us."
 
 In the end, my company has been very accommodating. After a couple of awkward conversations with my team facilitator, I was not pressured again into flying for any reason. About eight months on my CEO actually changed company policy, not to allow groups larger than five to fly out anywhere, giving the climate emergency as a reason. I was astounded! I got to talk with him and support his decision. 
 
