@@ -64,6 +64,6 @@ In general, people tend to avoid talking about the climate. They will often quic
 
 God bless you with powerful positive impact in whatever actions you're doing, and with joy in the local wonders of this planet. 
 
-Eddie, [Christian Climate Action](https://christianclimateaction.org/).
+### Eddie, [Christian Climate Action](https://christianclimateaction.org/).
 
 (thoughts and opinions are my own, thank you Anna for editing my ramblings)
