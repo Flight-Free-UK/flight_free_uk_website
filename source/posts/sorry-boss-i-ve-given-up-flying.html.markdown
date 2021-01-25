@@ -10,9 +10,9 @@ summary: When Eddie decided to stop flying, it had a knock-on effect at work. He
 author: FlightFree UK
 read_time_minute: 5
 ---
-![Picture shows Anna Hughes, Neil, Eddie and Helen at a Christian Climate Action event. They are smiling with their arms around each other and Anna is holding a Flight Free Pledge page in her hand. Eddie has a sign round his neck which reads 'hunger strike day 2'. There are people chatting behind them and they are outside. ](/images/uploads/anna-neil-eddie-helen.christianclimateaction.jpg "Anna, Neil, Eddie and Helen at a Christian Climate Action Event")
+![Picture shows Anna Hughes, Neil, Eddie and Helen at a Christian Climate Action event. They are smiling with their arms around each other and Anna is holding a Flight Free Pledge page in her hand. Eddie has a sign round his neck which reads 'hunger strike day 2'. There are people chatting behind them and they are outside. ](/images/uploads/anna-neil-eddie-helen.christianclimateaction.jpg "Anna from Flight Free UK with Neil, Eddie and Helen from Christian Climate Action")
 
-## I’d never really flown much. 
+## I’d never really flown much.
 
 A handful of holidays with my family. I hadn’t flown for about nine years before I took some time off to travel around East Asia and Australasia where I learnt that I loved mountain trekking, scuba diving and experiencing other cultures.
 
@@ -22,11 +22,11 @@ The following weekend work put me on another flight, this time to Taiwan for a f
 
 A few months after these trips I stumbled upon a ‘Heading For Extinction’ talk put on by Extinction Rebellion. I was completely taken back. I’d always thought I’d been ‘doing my bit’, reducing my plastic waste, not owning a car, and going vegan, but the problem was a couple of orders of magnitude worse than I’d thought. The level of injustice was heartbreaking.
 
-> "I’d always thought I’d been ‘doing my bit’, but the problem was orders of magnitude worse than I’d thought."
+> "I’d always thought I’d been ‘doing my bit’, but the problem was much worse than I’d thought."
 
 I did WWF’s [footprint calculator](https://footprint.wwf.org.uk/#/) and Global Footprint Network’s [footprint calculator](https://www.footprintcalculator.org/) and I realised that those two work flights I’d taken that year made up more than half of my carbon footprint!
 
-### I could easily have said, “Oh well, those flights were offset by work so it’s fine.” 
+### I could easily have said, “Oh well, those flights were offset by work so it’s fine.”
 
 But I think carbon offsetting is basically used as a coverup for us folk in rich countries to quell the guilt we feel about the devastation we’re causing. I think we shouldn’t be using our privilege to have fun at the expense of the health, livelihoods, homes and lives of others. We should be using our privilege to create system change for those without such privilege, and those in future generations that don’t even have a life yet, let alone a voice. Carbon offsetting doesn’t change the system, and it takes years to actually offset, while the devastation is already happening now.
 
@@ -36,7 +36,7 @@ I could (like other colleagues) have said, "It's for work, so it doesn't count. 
 
 As a Christian, I aim to love my neighbour as myself. This means in all my decisions, I can’t choose an option that puts others in harm's way, when an option not to, or an option that is less harmful, is available. If I am choosing to do something that is directly contributing to the climate emergency, like flying, and therefore making life very difficult for millions of people around the world, when I could simply not fly, I am not being a true disciple.
 
-### A couple of months later I told my team at work that I wouldn’t be flying again. 
+### A couple of months later I told my team at work that I wouldn’t be flying again.
 
 This wasn’t much of a surprise as I’d given a talk to about half the company the month before about the global climate catastrophe (basically the first half of a ‘Heading For Extinction’ talk). 
 
@@ -50,7 +50,7 @@ A few months later my team’s facilitator was organising the team flight out to
 
 Before lockdown, the whole team was flying out to Romania (~1000 miles away) every other month. These whole-day meetings are good for team building and easier conversation, but that’s not at all worth it in my books. Each meeting has a carbon footprint larger than my entire year.
 
-### To my mind, my choice is a form of nonviolent direct action that many of us can take to change our culture away from our fossil fuel addiction. 
+### To my mind, my choice is a form of nonviolent direct action that many of us can take to change our culture away from our fossil fuel addiction.
 
 The more people that also take this stance, wherever they possibly can, the more our culture and infrastructure will have to adapt to accommodate us. We've already seen this start to happen with the rise of vegan options and vegan restaurants. It’s basic economics: if we want to change the supply we need to change the demand.
 
@@ -60,10 +60,10 @@ In the end, my company has been very accommodating. After a couple of awkward co
 
 Since Covid hit, flying has stopped except for a few executives. So the company has been forced to invest in infrastructure to make working from home and international conference calls work well. Now we only need more people saying a hard no to flying. That will start the social change needed for us to stay with the green new normal.
 
-In general, people tend to avoid talking about the climate. They will often quickly change the topic about anything that involves personal change. I could easily have gone along with the crowd and continued to fly for work. And while I know it takes a lot more than personal change, I will live to my values, while also calling for corporate change. This was my small act of rebellion against a selfish and immoral business culture. We can all make our personal demands.
+#### In general, people tend to avoid talking about the climate. They will often quickly change the topic about anything that involves personal change. I could easily have gone along with the crowd and continued to fly for work. And while I know it takes a lot more than personal change, I will live to my values, while also calling for corporate change. This was my small act of rebellion against a selfish and immoral business culture. We can all make our personal demands.
 
 God bless you with powerful positive impact in whatever actions you're doing, and with joy in the local wonders of this planet. 
 
-### Eddie, [Christian Climate Action](https://christianclimateaction.org/).
+Eddie, [Christian Climate Action](https://christianclimateaction.org/).
 
 (thoughts and opinions are my own, thank you Anna for editing my ramblings)
