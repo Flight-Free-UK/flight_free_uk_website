@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sorry boss, I’ve given up flying
 category: opinion
 date: 2021-01-25T11:41:39.348Z
@@ -26,7 +26,9 @@ A few months after these trips I stumbled upon a ‘Heading For Extinction’ ta
 
 I did WWF’s [footprint calculator](https://footprint.wwf.org.uk/#/) and Global Footprint Network’s [footprint calculator](https://www.footprintcalculator.org/) and I realised that those two work flights I’d taken that year made up more than half of my carbon footprint!
 
-I could easily have said, “Oh well, those flights were offset by work so it’s fine.” But I think carbon offsetting is basically used as a coverup for us folk in rich countries to quell the guilt we feel about the devastation we’re causing. I think we shouldn’t be using our privilege to have fun at the expense of the health, livelihoods, homes and lives of others. We should be using our privilege to create system change for those without such privilege, and those in future generations that don’t even have a life yet, let alone a voice. Carbon offsetting doesn’t change the system, and it takes years to actually offset, while the devastation is already happening now.
+### I could easily have said, “Oh well, those flights were offset by work so it’s fine.” 
+
+But I think carbon offsetting is basically used as a coverup for us folk in rich countries to quell the guilt we feel about the devastation we’re causing. I think we shouldn’t be using our privilege to have fun at the expense of the health, livelihoods, homes and lives of others. We should be using our privilege to create system change for those without such privilege, and those in future generations that don’t even have a life yet, let alone a voice. Carbon offsetting doesn’t change the system, and it takes years to actually offset, while the devastation is already happening now.
 
 I could (like other colleagues) have said, "It's for work, so it doesn't count. I have to do it," as if making our company's product is more important than a hospitable planet. I couldn't imagine trying to explain that to my children in 20 years time. My conscience wouldn't allow me to make such excuses. This was one of my opportunities to live in the reality of the truth and be the system change. 
 
@@ -34,7 +36,9 @@ I could (like other colleagues) have said, "It's for work, so it doesn't count. 
 
 As a Christian, I aim to love my neighbour as myself. This means in all my decisions, I can’t choose an option that puts others in harm's way, when an option not to, or an option that is less harmful, is available. If I am choosing to do something that is directly contributing to the climate emergency, like flying, and therefore making life very difficult for millions of people around the world, when I could simply not fly, I am not being a true disciple.
 
-A couple of months later I told my team at work that I wouldn’t be flying again. This wasn’t much of a surprise as I’d given a talk to about half the company the month before about the global climate catastrophe (basically the first half of a ‘Heading For Extinction’ talk). 
+### A couple of months later I told my team at work that I wouldn’t be flying again. 
+
+This wasn’t much of a surprise as I’d given a talk to about half the company the month before about the global climate catastrophe (basically the first half of a ‘Heading For Extinction’ talk). 
 
 I said, "Oh, heads up, for reasons obvious from the talk I gave the other day, I'm no longer flying. I realise that'll cause problems and I realise that my contract says that I need to be willing to travel but I'm no longer going to fly. I'm happy for it to be taken as high as it needs to be, but I'm more comfortable quitting than I am flying. I'm sorry for the annoyance and the problems that'll cause, but I don't think we should, so I'm not."
 
@@ -46,7 +50,9 @@ A few months later my team’s facilitator was organising the team flight out to
 
 Before lockdown, the whole team was flying out to Romania (~1000 miles away) every other month. These whole-day meetings are good for team building and easier conversation, but that’s not at all worth it in my books. Each meeting has a carbon footprint larger than my entire year.
 
-To my mind, my choice is a form of nonviolent direct action that many of us can take to change our culture away from our fossil fuel addiction. The more people that also take this stance, wherever they possibly can, the more our culture and infrastructure will have to adapt to accommodate us. We've already seen this start to happen with the rise of vegan options and vegan restaurants. It’s basic economics: if we want to change the supply we need to change the demand.
+### To my mind, my choice is a form of nonviolent direct action that many of us can take to change our culture away from our fossil fuel addiction. 
+
+The more people that also take this stance, wherever they possibly can, the more our culture and infrastructure will have to adapt to accommodate us. We've already seen this start to happen with the rise of vegan options and vegan restaurants. It’s basic economics: if we want to change the supply we need to change the demand.
 
 > "The more people that also take this stance, wherever they possibly can, the more our culture and infrastructure will have to adapt to accommodate us."
 
@@ -58,6 +64,6 @@ In general, people tend to avoid talking about the climate. They will often quic
 
 God bless you with powerful positive impact in whatever actions you're doing, and with joy in the local wonders of this planet. 
 
-Eddie, Christian Climate Action.
+Eddie, [Christian Climate Action](https://christianclimateaction.org/).
 
 (thoughts and opinions are my own, thank you Anna for editing my ramblings)
