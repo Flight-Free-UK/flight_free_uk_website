@@ -1,6 +1,6 @@
 ---
 published: true
-title: Sorry boss, I’ve given up flying
+title: '"Sorry boss, I’ve given up flying"'
 category: opinion
 date: 2021-01-25T11:41:39.348Z
 cover_image: /images/uploads/anna-neil-eddie-helen.christianclimateaction.jpg
