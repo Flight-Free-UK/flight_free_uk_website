@@ -23,8 +23,6 @@ In the recent lockdown, the relatively low drop in emissions as a result of the 
 
 Not necessarily. The problem with looking at the picture globally is that it is too broad brush – individual context is important. For example, the emissions drop [in the short term](http://www.climateaction.org/news/global-carbon-emissions-drop-17-due-to-lockdown) has been much more significant, and in localised areas such as Paris [it's been huge](https://www.bbc.co.uk/news/science-environment-52485712). 
 
-> "The emissions drop [in the short term](http://www.climateaction.org/news/global-carbon-emissions-drop-17-due-to-lockdown) has been much more significant, and in localised areas such as Paris [it's been huge](https://www.bbc.co.uk/news/science-environment-52485712)."
-
 But the global picture has long been used to argue against taking action: "Aviation is only responsible for 2% of global emissions so don't worry about it,” we’re told. Well, actually [it’s more like 5%](https://iopscience.iop.org/article/10.1088/1748-9326/ab5dd7/meta), and that’s mainly because only [5% of the global population](http://afreeride.org/about/) has ever been on a plane. But the more important consideration is that looking at it on an individual level tells a very different story.
 
 ### Personal context
@@ -39,9 +37,7 @@ But these changes are more likely to have a planet-saving effect when we take th
 
 And in terms of aviation, [there is a huge number of things](https://flightfree.co.uk/post/what-should-the-government-do/) that the government can and should do to reduce the number of flights that take off from UK airports: a fair taxation system including taxing aviation fuel, cutting domestic routes where a direct rail link exists, and reducing the amount of advertising, to name but a few. And lifting the barriers to climate-friendly travel by making trains cheaper, more plentiful, and easier to book.
 
-But why would the government introduce these things if there is no demand for it? 
-
->  "Why would the government introduce policy tackling excessive flights if there is no demand for it?"
+But why would the government introduce these things if there is no demand for it?
 
 Politics is driven by, among other things, economics and policies popular with voters. If voters don’t show that they want climate-friendly travel, why would they get it? So there it comes back to our individual choices. As consumers and voters, we hold a huge amount of power.
 
@@ -49,7 +45,7 @@ Politics is driven by, among other things, economics and policies popular with v
 
 Being a behaviour change organisation, Flight Free UK analyses what leads people to behave in a certain way, and how this can be altered. We know that information is vital to people making a climate friendly choice. “It’s not because we don’t care, it’s because we don’t know,” says [Maja Rosén](https://flightfree.co.uk/post/the-best-new-years-resolution-ever/) of the Swedish *flygfritt* campaign. “I didn’t know the climate impact, and when I saw the numbers I stopped straight away,” says traveller [Evelina Utterdahl](https://flightfree.co.uk/post/evelina-utterdahl-earth-wanderess/).
 
-So information is key, and it would be far more effective if the messaging were coming from the state. When legislation was passed to include health warnings on cigarette packets, [14% of smokers reduced the amount they smoked, with 5% quitting altogether](https://pubmed.ncbi.nlm.nih.gov/22706360/). Imagine if health warnings were attached to airline tickets? “Your flight, London to Lima, 3.25 tonnes CO2. Average annual carbon footprint of someone living in Perú, 1.74 tonnes”
+So information is key, and it would be far more effective if the messaging were coming from the state. When legislation was passed to include health warnings on cigarette packets, [14% of smokers reduced the amount they smoked, with 5% quitting altogether](https://pubmed.ncbi.nlm.nih.gov/22706360/). Imagine if health warnings were attached to airline tickets? “Your flight, London to Lima, 3.25 tonnes CO2. Average annual carbon footprint of someone living in Perú, 1.74 tonnes.”
 
 In other words, your return flight to Machu Picchu creates almost double *per passenger* the carbon emissions of someone actually living there. Might that information make us think twice about our holiday?
 
