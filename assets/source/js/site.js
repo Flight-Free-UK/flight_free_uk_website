@@ -2,7 +2,6 @@
 // PLEDGE PROGRESS RELOADER
 //
 const progrs_win = document.getElementById( 'flightfreeuk-progress' );
-console.log( 'progrs_win: '+progrs_win);
 window.addEventListener("message", (event) => {
     console.log( 'Reload instruction received: ' + event.data );
     if (event.origin !== "https://www.jakemcmurchie.net" && event.origin !== "https://flightfree.exigo.se") {
