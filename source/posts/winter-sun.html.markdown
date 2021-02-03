@@ -9,11 +9,13 @@ summary: Paul Powlesland, founder of Lawyers for Nature and once-frequent winter
 author: FlightFree UK
 read_time_minute: 3
 ---
-*This blog post is based on our video 'Winter Sun'. You can watch the video [here](https://www.facebook.com/flightfreeUK/videos/382584305737238/).* [](https://www.facebook.com/flightfreeUK/videos/382584305737238/)
+```
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FflightfreeUK%2Fvideos%2F382584305737238%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+```
 
-![A yellow sun shines through bare poplar trees and cast long shadows on a frosty grass area](/images/uploads/winter-sun-through-trees.jpeg)
+### “In previous winters I’ve needed to get away somewhere in the sun. I tend to get quite depressed in the winter."
 
-### “In previous winters I’ve needed to get away somewhere in the sun. I tend to get quite depressed in the winter. But last winter is the first time in a long time when I haven’t flown. I just wanted to spend more time experiencing what winter is really like in the UK. And I actually felt happier.”
+"But last winter is the first time in a long time when I haven’t flown. I just wanted to spend more time experiencing what winter is really like in the UK. And I actually felt happier.”
 
 For many, getting away by plane is a common response to the short days and sparse sun of the UK winter. Our work lives are hectic, even when our natural rhythms mean that our productivity slumps. We arrive at work and leave in the dark. It’s a naturally depressive time for many of us, and a clinical diagnosis for some: SAD, Seasonal Affective Disorder. 
 
