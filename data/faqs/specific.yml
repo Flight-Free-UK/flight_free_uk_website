@@ -1,10 +1,15 @@
 faqs:
   - answer: We want everyone who can to be completely flight free in 2021,  but for
-      those who might not be able to be flight free for work or family  reasons
+      those who might not be able to be flight free for work or family reasons
       there is an option to pledge not to fly for leisure in 2021.  And for
       those who are further along their flight free journey, there's the option
       to stay grounded for life.
     question: Why three different pledge options?
+  - question: What do you mean by leisure flights?
+    answer: We categorise leisure flights as those taken purely for holidays. It
+      doesn't count work trips or visits to family and friends. Leisure,
+      family/friends and work are the three categories classified by the Office
+      for National Statistics (ONS) so that's what we use.
   - question: Can I change my pledge category?
     answer: If you want to change your pledge category you can do by signing again
       with the same email address and name that you used the first time, but
@@ -24,6 +29,9 @@ faqs:
       we will have a more compelling voice with government if our signatories
       are all UK residents.
     question: Why UK only?
+  - question: What if there's an emergency and I have to fly?
+    answer: If an emergency situation arises, of course we understand that you would
+      have to break your pledge.
   - answer: >-
       It’s true that many other countries are far more polluting than the UK.
       But in terms of aviation, Brits take more flights than in any other nation
