@@ -102,7 +102,9 @@ strong {
   }
 
   .blog-post-body > div.twitter-tweet {
-      @apply ml-32;
+      @apply mx-48;
+      @apply pl-0;
+      @apply pr-16;
   }
 
   .blog-post-body li {
