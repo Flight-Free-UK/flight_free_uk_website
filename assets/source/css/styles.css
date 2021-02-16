@@ -101,6 +101,7 @@ strong {
     @apply px-16;
   }
 
+  /* purgecss ignore */
   .blog-post-body > div.twitter-tweet {
       @apply mx-48;
       @apply pl-0;
