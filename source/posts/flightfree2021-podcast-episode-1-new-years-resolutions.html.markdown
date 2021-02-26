@@ -23,7 +23,7 @@ Lenny works as a musician, and has pledged not to fly for leisure ever again if 
 
 ### Flight Free fact:
 
-#### *Most flights are for leisure: 63% in 2019, as opposed to 10% for leisure. This year, our flight free pledge includes the option not to fly leisure, as some people might be asked to fly for work, or have to fly for family reasons.*
+#### *Most flights are for leisure: 63% in 2019, as opposed to 10% for business. This year, our flight free pledge includes the option not to fly leisure, as some people might be asked to fly for work, or have to fly for family reasons.*
 
 Jo decided to stop flying after a trip to Peru. The number of flights she took on that holiday made her realise how unsustainable it was. She talks about how we need system change and it can’t all be down to us as individuals, but it’s important for us to use our consumer power to demand those changes.
 
@@ -51,7 +51,7 @@ Lenny says, stick to your convictions. Changing your lifestyle can seem daunting
 
 Dominick says, just keep having those conversations. That way you can make people change how they think about things.
 
-#### Destination of the month: 
+#### Destination of the month:
 
 In our regular feature, Kirsty and Rachel talk about their top pick for a destination of the month. This time, they talk about their favourite beaches to visit for a bracing January stroll.
 
