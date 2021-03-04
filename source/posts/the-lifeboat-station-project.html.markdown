@@ -69,6 +69,8 @@ It’s a realignment that I feel is worth considering and pursuing more than eve
 
 Six years and over 150 lifeboat stations later I have seen remote corners of the UK and Ireland with such astounding beauty that I otherwise would never have known existed. 
 
+> "I have seen remote corners of the UK and Ireland with such astounding beauty that I otherwise would never have known existed."
+
 Some particular highlights spring to mind: 
 
 The wild, haunting beauty of The Lizard in Cornwall with the vast lifeboat slipway spilling into the waves on the eastern side of the peninsula.
