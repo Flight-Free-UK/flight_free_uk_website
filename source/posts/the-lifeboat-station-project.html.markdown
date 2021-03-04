@@ -9,6 +9,8 @@ summary: Photographer Jack Lowe, on a mission to photograph each of the UK’s 2
 author: FlightFree UK
 read_time_minute: 4
 ---
+![Picture shows a small pier with an orange lifeboat and a few smaller boats at the end of it. The sea is a muted turquoise green and the sky is moody with dark clouds. There are green hills in the background. ](/images/uploads/lifeboatstationproject-by_jacklowe_salcombe_lifeboat_2020-03-05-scaled-e1608399283478.jpg "Salcombe (Devon)")
+
 ## It was the first time I’d ever been to Ireland, and my eyes were on stalks.
 
  I powered along the motorway tracing south through the countryside, the grass and foliage so dense, rich and green that it seemed to snap at my eyes. 
@@ -40,8 +42,6 @@ Then to the question of food. The kitchen was about to close, so I had to be qui
 I chose the beef. She was right. I can’t remember tasting better beef, nor can I imagine tasting any better again. 
 
 All down to that lush emerald grass, no doubt. 
-
-![Picture shows a small pier with an orange lifeboat and a few smaller boats at the end of it. The sea is a muted turquoise green and the sky is moody with dark clouds. There are green hills in the background. ](/images/uploads/lifeboatstationproject-by_jacklowe_salcombe_lifeboat_2020-03-05-scaled-e1608399283478.jpg "Salcombe (Devon)")
 
 I had come to County Waterford as part of The Lifeboat Station Project, my eight-year mission to photograph all 238 RNLI lifeboat stations in the UK and Ireland on glass plates. The next day I would meet and photograph the crew and Coxswain of Dunmore East, before heading along the southern Irish coast for some five weeks, hanging the itinerary on my visits to the twelve lifeboat stations punctuating that particular leg of the journey. 
 
