@@ -9,8 +9,6 @@ summary: Photographer Jack Lowe, on a mission to photograph each of the UK’s 2
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows a small pier with an orange lifeboat and a few smaller boats at the end of it. The sea is a muted turquoise green and the sky is moody with dark clouds. There are green hills in the background. ](/images/uploads/lifeboatstationproject-by_jacklowe_salcombe_lifeboat_2020-03-05-scaled-e1608399283478.jpg "The lifeboat at Salcombe, Devon")
-
 ## It was the first time I’d ever been to Ireland, and my eyes were on stalks.
 
  I powered along the motorway tracing south through the countryside, the grass and foliage so dense, rich and green that it seemed to snap at my eyes. 
@@ -63,6 +61,8 @@ If you’re used to regularly jetting off on holiday, it could take just a littl
 
 It’s a realignment that I feel is worth considering and pursuing more than ever. After all, how are we ever going to unite as a global community in the mission to extend the life of our planet if we don’t work towards breaking the habits we’ve fallen into? 
 
+![Picture shows Jack Lowe operating an old camera on a pebble beach in front of a large lifeboat with its crew. The lifeboat and the crew are blurry and Jack is wearing brown dungarees and black gloves. ](/images/uploads/lsp_dungeness-pic-of-jack-lowe-by-john-chennells-.jpg "Jack Lowe at Dungeness lifeboat station (Credit: John Chennells)")
+
 “It’s now or never,” we’re frequently told yet we’re often left feeling helpless, not knowing what we can personally do to break the cycle.
 
 ### My Lifeboat Station Project has shown me a way to break that cycle.
@@ -85,7 +85,7 @@ The unsung raw beauty of the north-east Scottish coast, with a cosy string of fi
 
 The dreamy tidal inlets of East Anglia, brimming with coastal birds and magnificent old sailing barges catching the crisp morning breeze – a paradise for twitchers and seafarers alike. 
 
-![Picture shows Jack Lowe operating an old camera on a pebble beach in front of a large lifeboat with its crew. The lifeboat and the crew are blurry and Jack is wearing brown dungarees and black gloves. ](/images/uploads/lsp_dungeness-pic-of-jack-lowe-by-john-chennells-.jpg "Jack Lowe at Dungeness lifeboat station (Credit: John Chennells)")
+![Picture shows a small pier with an orange lifeboat and a few smaller boats at the end of it. The sea is a muted turquoise green and the sky is moody with dark clouds. There are green hills in the background. ](/images/uploads/lifeboatstationproject-by_jacklowe_salcombe_lifeboat_2020-03-05-scaled-e1608399283478.jpg "The lifeboat at Salcombe, Devon")
 
 ### For me, lifeboat stations are a wonderment, bristling with state-of-the-art gear and gadgetry – perfect inspiration for younger souls, perhaps even rekindling some of the youth buried within older souls too! 
 
