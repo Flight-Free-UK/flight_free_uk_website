@@ -65,8 +65,6 @@ It’s a realignment that I feel is worth considering and pursuing more than eve
 
 “It’s now or never,” we’re frequently told yet we’re often left feeling helpless, not knowing what we can personally do to break the cycle.
 
-> "With the planet “It’s now or never,” we’re frequently told yet we’re often left feeling helpless, not knowing what we can personally do to break the cycle."
-
 ### My Lifeboat Station Project has shown me a way to break that cycle.
 
 Six years and over 150 lifeboat stations later I have seen remote corners of the UK and Ireland with such astounding beauty that I otherwise would never have known existed. 
@@ -91,6 +89,6 @@ The dreamy tidal inlets of East Anglia, brimming with coastal birds and magnific
 
 The memories and experiences of my journey around our islands are too numerous to count. It’s easy to overlook our own shores, but we are blessed with a coastline as beautiful and varied as any in the world, and one that we can explore for a fraction of the emissions of a flight.
 
-#### These treasures are all within easy reach if ever I choose to revisit them, something I will undoubtedly pursue for the rest of my days. 
+#### Its treasures are all within easy reach if ever I choose to revisit them, something I will undoubtedly pursue for the rest of my days. 
 
 *To read more about Jack and his Lifeboat Station Project, go here:  <https://lifeboatstationproject.com/>*
