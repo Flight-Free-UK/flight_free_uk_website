@@ -14,7 +14,7 @@ read_time_minute: 4
 
 ## For the last five years I’ve been obsessing about carbon emissions the way I used to obsess about calories.
 
- What a relief it is to stop worrying about my weight and worry about the end of the world instead! But I’m wondering: is counting calories to lose weight a metaphor for cutting my carbon footprint? 
+I’m wondering: is counting calories to lose weight a metaphor for cutting my carbon footprint? 
 
 Both are types of behaviour change where we trade off good behaviour against bad. We just can’t help ourselves. If I eat a pig’s trotter and mashed potatoes at lunch, I’d better have a salad for dinner. If I bike to work all year can I fly to New York on holiday? 
 
@@ -24,7 +24,9 @@ Dieting is an excellent metaphor for offsetting, because offsetting is all about
 
 But what about that pig’s trotter? If I have a rocket salad for dinner, does it offset the calories from lunch? It all depends on what you tell yourself you would have eaten otherwise.  Maybe you will end up having consumed the same calories overall as if you had eaten a more normal amount at both meals. But, sadly, the salad at dinner will not neutralise the calories you consumed at lunch. It will not, in other words, get you to net zero. 
 
-Now fossil fuel companies are talking about using Direct Air Capture to lock away your carbon emissions. The diet equivalent of that is to eat whatever you want for the next ten years, and book a liposuction appointment at a very expensive Swiss clinic for the year 2040. Most of us will never be able to afford it, and in the meantime we will still get fat.
+#### Now fossil fuel companies are talking about using Direct Air Capture to lock away your carbon emissions.
+
+The diet equivalent of that is to eat whatever you want for the next ten years, and book a liposuction appointment at a very expensive Swiss clinic for the year 2040. Most of us will never be able to afford it, and in the meantime we will still get fat.
 
 And, while we are thinking long term, what about setting ambitious carbon reduction targets for ten years in the future? It is like saying you’ll drop two dress sizes for your cousin’s wedding in July, doing nothing till May, telling yourself you’ll eat salad and work out twice a day in June, then ending up taking a trip to the shops to buy a bigger dress. 
 
@@ -44,4 +46,6 @@ It works best when you embrace the change. Rather than dwell on depriving yourse
 
 We also need to start now. ‘The diet starts tomorrow!’ people used to say, while accepting a proffered slice of cheesecake. ‘A moment on the lips, a lifetime on the hips,’ a friend once quoted to me, which was annoying at the time, but actually pretty accurate when it comes to greenhouse gas emissions. The emissions of a flight today take only a few hours to produce, but will stay in the atmosphere, warming the climate, for decades, if not centuries. A few hours in a plane, for a lifetime of climate strain? 
 
-#### There’s one big difference I’ve noticed between losing weight and cutting our carbon footprint. Dieting is something I’ve only ever done for myself. When it’s going well it feels great. When it’s not going well, it can feel like I am not worth the effort. But caring about your carbon emissions isn’t about you. You don’t do it for yourself. You do it for the planet and for each other. That’s a much better motivation for us all to stick with it.
+There’s one big difference I’ve noticed between losing weight and cutting our carbon footprint. Dieting is something I’ve only ever done for myself. When it’s going well it feels great. When it’s not going well, it can feel like I am not worth the effort. 
+
+#### But caring about your carbon emissions isn’t about you. You don’t do it for yourself. You do it for the planet and for each other. That’s a much better motivation for us all to stick with it.
