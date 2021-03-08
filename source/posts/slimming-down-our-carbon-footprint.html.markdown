@@ -20,7 +20,7 @@ Both are types of behaviour change where we trade off good behaviour against bad
 
 Dieting is an excellent metaphor for offsetting, because offsetting is all about these kinds of choices. Taking a flight and offsetting the carbon emissions by paying for some trees to be planted is a bit like saying, ‘It’s OK to eat this almond croissant, because I’m going to go for a run round the park later.’ Even if I do get round to going to the park later (which is a big ‘if’, in my case) I know deep down that if I want to lose weight I really need to forgo the pastry as well.
 
-> "Dieting is an excellent metaphor for offsetting, because offsetting is all about these kinds of choices."
+> "Dieting is an excellent metaphor for offsetting, because offsetting is all about these kinds of trade-off choices."
 
 But what about that pig’s trotter? If I have a rocket salad for dinner, does it offset the calories from lunch? It all depends on what you tell yourself you would have eaten otherwise.  Maybe you will end up having consumed the same calories overall as if you had eaten a more normal amount at both meals. But, sadly, the salad at dinner will not neutralise the calories you consumed at lunch. It will not, in other words, get you to net zero. 
 
