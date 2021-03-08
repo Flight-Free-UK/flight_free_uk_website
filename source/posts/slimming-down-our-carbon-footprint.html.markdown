@@ -38,7 +38,9 @@ The more I think about reducing my carbon emissions and dieting, the more parall
 
 But at the same time, we do have the power to resist. Our personal choices make a difference. Prepping your midday meal in advance helps you beat the craving for a sausage roll, and surrounding yourself with ideas for UK destinations will help you stay away from the EasyJet website when you come to book your holiday.
 
-While system change is essential, people also need to feel empowered to make their own choices. That doesn’t mean shaming people, or making us feel hopeless or like we shouldn’t exist. That can be counter-productive. We need support when we are trying to change. Partners and families can be our best supports, but can also be saboteurs – especially when their holidays are affected too.
+#### While system change is essential, people also need to feel empowered to make their own choices. 
+
+That doesn’t mean shaming people, or making us feel hopeless or like we shouldn’t exist. That can be counter-productive. We need support when we are trying to change. Partners and families can be our best supports, but can also be saboteurs – especially when their holidays are affected too.
 
 It works best when you embrace the change. Rather than dwell on depriving yourself of a far-flung holiday, it’s more helpful to think ‘I am now someone who enjoys exploring the best the UK and Europe has to offer.’ 
 
