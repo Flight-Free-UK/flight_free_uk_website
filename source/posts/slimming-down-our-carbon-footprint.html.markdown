@@ -10,6 +10,8 @@ summary: >
 author: FlightFree UK
 read_time_minute: 4
 ---
+![Picture shows a plate of croissants on a wooden table with a clear mug full of black coffee in the background ](/images/uploads/alisa-anton-croissants-pastries-unsplash.jpg "Photo Credit: Alisa Anton (Source: Unsplash) ")
+
 For the last five years I’ve been obsessing about carbon emissions the way I used to obsess about calories. What a relief it is to stop worrying about my weight and worry about the end of the world instead! But I’m wondering: is counting calories to lose weight a metaphor for cutting my carbon footprint? 
 
 Both are types of behaviour change where we trade off good behaviour against bad. We just can’t help ourselves. If I eat a pig’s trotter and mashed potatoes at lunch, I’d better have a salad for dinner. If I bike to work all year can I fly to New York on holiday? 
