@@ -30,7 +30,7 @@ As for aircraft engines, colder air means it’s easier to generate thrust, whic
 
 To compound things further, higher operating temperatures accelerate engine degradation which increases maintenance, repair and overhaul costs for manufacturers.
 
-> "Higher temperatures accelerate engine degradation which increases maintenance, repair and overhaul costs."
+> "Higher temperatures mean increased maintenance, repair and overhaul costs."
 
 A [study of Greek airports](https://link.springer.com/article/10.1007/s10584-019-02634-z) shows that since 1955, there has been a steady increase in take-off distances. Not a problem if you have a long runway, but for an Airbus A320 operating from the relatively short runway at Chios Airport, the solution would be reducing the payload by 38 passengers + luggage, or 700 nautical miles’ (1300 km) worth of fuel.
 
@@ -42,7 +42,7 @@ Ultimately, rising global temperatures hit airlines where it most hurts: in the 
 
 The height of the irony here is that our planet is warming as a result of an overdose of greenhouse gas emissions, primarily caused by the burning of fossil fuels. Climate change, the cause of airline’s future woes, is, in no small part, caused by the airlines themselves. The now-retired Boeing 747 jumbo jet bound from London to New York would burn through 70 tonnes of kerosene in its journey across the Atlantic. That's over 200 tonnes of climate-busting CO2 pumped straight into the upper atmosphere where it does the most damage. The [latest science](https://stay-grounded.org/fact-sheet-climate-impact/) also shows that the non-CO2 emissions from aircraft approximately triple the global warming impact of the CO2 alone.
 
-> "Climate change, the cause of airline’s future woes, is, in no small part, caused by the airlines themselves."
+> "Climate change is, in no small part, caused by the airlines themselves."
 
 Climate change is not purely about hotter air and rising seas. Flooding, storm surges, strong winds and unpredictable weather brought about by the shift in global temperatures will all result in lost revenue for airlines unable to get their fleet into the air. Adapting to climate change is expensive, but failing to address its causes will cost us even more.
 
