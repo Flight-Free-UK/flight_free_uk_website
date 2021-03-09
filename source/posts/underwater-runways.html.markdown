@@ -40,10 +40,12 @@ Ultimately, rising global temperatures hit airlines where it most hurts: in the 
 
 ![Picture shows a plane landing on a runway at dusk. The runway is surrounded by a body of water, as it's been out from the shore. High-rise flats are in the foreground. ](/images/uploads/1-qantanewsroom.com-747-landing-runwau.jpg "Source: QantaNewsroom.com")
 
-The height of the irony here is that our planet is warming as a result of an overdose of greenhouse gas emissions, primarily caused by the burning of fossil fuels. Climate change, the cause of airline’s future woes, is, in no small part, caused by the airlines themselves. The now-retired Boeing 747 jumbo jet bound from London to New York would burn through [70 tonnes of kerosene](https://stay-grounded.org/fact-sheet-climate-impact/) in its journey across the Atlantic. That's over 200 tonnes of climate-busting CO2 pumped straight into the upper atmosphere where it does the most damage. The latest science also shows that the non-CO2 emissions from aircraft approximately triple the global warming impact of the CO2 alone.
+The height of the irony here is that our planet is warming as a result of an overdose of greenhouse gas emissions, primarily caused by the burning of fossil fuels. Climate change, the cause of airline’s future woes, is, in no small part, caused by the airlines themselves. The now-retired Boeing 747 jumbo jet bound from London to New York would burn through 70 tonnes of kerosene in its journey across the Atlantic. That's over 200 tonnes of climate-busting CO2 pumped straight into the upper atmosphere where it does the most damage. The [latest science](https://stay-grounded.org/fact-sheet-climate-impact/) also shows that the non-CO2 emissions from aircraft approximately triple the global warming impact of the CO2 alone.
 
 > "Climate change, the cause of airline’s future woes, is, in no small part, caused by the airlines themselves."
 
 Climate change is not purely about hotter air and rising seas. Flooding, storm surges, strong winds and unpredictable weather brought about by the shift in global temperatures will all result in lost revenue for airlines unable to get their fleet into the air. Adapting to climate change is expensive, but failing to address its causes will cost us even more.
 
-#### In a world where our western lifestyles dominate the carbon narrative, it seems that kharma is coming back to bite airlines in the business models. Forget “Jet Zero” fantasies and misleading techno-fixes. A changing climate will impact upon every inch of our lives – even the operations of the airlines themselves.
+In a world where our western lifestyles dominate the carbon narrative, it seems that kharma is coming back to bite airlines in the business models. 
+
+#### Forget “Jet Zero” fantasies and misleading techno-fixes. A changing climate will impact upon every inch of our lives – even the operations of the airlines themselves.
