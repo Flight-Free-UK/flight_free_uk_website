@@ -22,7 +22,7 @@ For airports, it's rising sea levels that are cause for alarm. [Approximately 80
 
 >  "Approximately 80 airports around the globe are at risk of flooding."
 
-This vulnerability is not entirely surprising given that a good location for an airport is somewhere flat, with lots of space, and without lots of high buildings. Somewhere like a marshland or a coastal floodplain, perhaps – which just so happen to be the most precarious when it comes to rising waters. San Francisco International Airport is just one of the airports that is building a wall around its runway – a Netherland’s-style dyke system for aviation, if you will.
+This vulnerability is not entirely surprising given that a good location for an airport is somewhere flat, with lots of space, and without lots of high buildings. Somewhere like a marshland or a coastal floodplain, perhaps – which just so happen to be the most precarious when it comes to rising waters. San Francisco International Airport is just one of the airports that is [building a wall around its runway](https://www.sfgate.com/travel/article/SFO-to-spend-more-than-1-billion-to-hold-back-14520605.php) – a Netherland’s-style dyke system for aviation, if you will.
 
 ![Picture shows a plane on a runway about to take off. Theres a mirage on the runway due to the heat and the sky is yellow. ](/images/uploads/1-resourcewatch.org-planeonrunway-virgin-2721333_1920-1.jpg "Source: ResourceWatch.org")
 
@@ -46,6 +46,6 @@ The height of the irony here is that our planet is warming as a result of an ove
 
 Climate change is not purely about hotter air and rising seas. Flooding, storm surges, strong winds and unpredictable weather brought about by the shift in global temperatures will all result in lost revenue for airlines unable to get their fleet into the air. Adapting to climate change is expensive, but failing to address its causes will cost us even more.
 
-In a world where our western lifestyles dominate the carbon narrative, it seems that kharma is coming back to bite airlines in the business models. 
+In a world where our high consumption lifestyles dominate the carbon narrative, it seems that kharma is coming back to bite airlines in the business models. 
 
 #### Forget “Jet Zero” fantasies and misleading techno-fixes. A changing climate will impact upon every inch of our lives – even the operations of the airlines themselves.
