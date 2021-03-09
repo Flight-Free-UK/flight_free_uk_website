@@ -3,7 +3,7 @@ published: true
 title: Underwater Runways
 category: climate
 date: 2021-03-09T13:26:17.591Z
-cover_image: /images/uploads/swimmer-plane-underwater_runways.jpg
+cover_image: /images/uploads/wideswimmer-plane-underwater_runways-cropped.jpg
 summary: How climate change puts airports at risk.
 author: FlightFree UK
 read_time_minute: 4
