@@ -34,7 +34,7 @@ To compound things further, higher operating temperatures accelerate engine degr
 
 A [study of Greek airports](https://link.springer.com/article/10.1007/s10584-019-02634-z) shows that since 1955, there has been a steady increase in take-off distances. Not a problem if you have a long runway, but for an Airbus A320 operating from the relatively short runway at Chios Airport, the solution would be reducing the payload by 38 passengers + luggage, or 700 nautical miles’ (1300 km) worth of fuel.
 
-In August 2013, [a heat wave caused problems at London City Airport](https://www.telegraph.co.uk/travel/travel-truths/why-planes-too-hot-to-fly-heat-aircraft/) because the short runways did not provide enough room for aircraft to operate in the heat. The issue saw some passengers bumped from flights to lighten the planes with airlines saying that, “Due to weather conditions, the take-off weight of the aircraft had to be reduced.” Other airports have had to completely cancel flights due to extreme heat. 
+In August 2013, [a heatwave caused problems at London City Airport](https://www.telegraph.co.uk/travel/travel-truths/why-planes-too-hot-to-fly-heat-aircraft/) because the short runways did not provide enough room for aircraft to operate in the heat. The issue saw some passengers bumped from flights to lighten the planes with airlines saying that, “Due to weather conditions, the take-off weight of the aircraft had to be reduced.” Other airports have had to completely cancel flights due to extreme heat. 
 
 Ultimately, rising global temperatures hit airlines where it most hurts: in the pocket. 
 
