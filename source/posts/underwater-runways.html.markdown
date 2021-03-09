@@ -3,12 +3,12 @@ published: true
 title: Underwater Runways
 category: climate
 date: 2021-03-09T13:26:17.591Z
-cover_image: /images/uploads/underwater_runways.jpg
+cover_image: /images/uploads/swimmer-plane-underwater_runways.jpg
 summary: How climate change puts airports at risk.
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Pictures shows a swimmer at sea level. They are looking up, watching a plane land very close by. An airport watch-tower is just at shore. ](/images/uploads/underwater_runways.jpg)
+![Pictures shows a swimmer at sea level. They are looking up, watching a plane land very close by. An airport watch-tower is just at shore. ](/images/uploads/swimmer-plane-underwater_runways.jpg)
 
 ## Airlines have finally realised that climate change is a problem.
 
