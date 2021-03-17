@@ -49,7 +49,7 @@ Sustainable aviation fuels (SAF) are a cornerstone of the airline industry’s s
 
 These fuels are actually very damaging. Sustainable aviation fuel mostly refers to biofuels e.g. growing crops directly, or using waste products from plants you’re growing for something else, or post-consumer waste, or re-claiming waste from sewers. But these ‘waste’ biofuel sources are not nearly enough to cope with the current demand for aviation fuel. In order to scale up, you’d need to cover the land that we currently use for food consumption in biofuel crops. It’s basic maths that we can’t use biofuel with the current rate of growth of population and aviation, without adverse effects e.g. land grabs, deforestation etc. 
 
-Biofuel has been scaled up for road transport and it's had a devastating effect on land in places like Malaysia, Indonesia, places in South America. Places covered in palm oil really affects biodiversity. Overall, using biofuel can be worse than using fossil fuel. The aviation industry should not be talking about biofuel as a solution, but they are relying on it.
+Biofuel has been scaled up for road transport and it's had a devastating effect on land in places like Malaysia, Indonesia and some countries in South America. Palm oil plantations really affects biodiversity. Overall, using biofuel can be worse than using fossil fuel. The aviation industry should not be talking about biofuel as a solution, but they are relying on it.
 
 #### Flight Free UK:
 
@@ -63,6 +63,6 @@ So, the final word to Finlay: can we fly carbon neutral? 
 
 In a word, no!
 
-Thanks to Finlay for joining us. You hear more from Finlay [here](https://www.facebook.com/GreenSkyThink/).
+### Thanks to Finlay for joining us. You hear more from Finlay [here](https://www.facebook.com/GreenSkyThink/).
 
 *Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-can-we-fly-carbon-neutral/) and find other episodes and previous series [here](/podcast).*
