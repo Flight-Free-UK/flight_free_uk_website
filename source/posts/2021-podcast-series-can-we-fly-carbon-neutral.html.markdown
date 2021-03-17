@@ -15,11 +15,7 @@ read_time_minute: 5
 
 ## Can we fly carbon neutral?
 
-#### Finlay: 
-
-I spent eight years working in the aviation sector designing future aircraft & engine concepts. I quit my job to focus on the climate crisis and campaigning for increased regulation in the industry. I founded [Green Sky Thinking](https://www.facebook.com/GreenSkyThink/) which is a social media channel that shares information about the realities of the industry moving to net zero.
-
-#### Flight Free UK: 
+#### Finlay spent eight years working in the aviation sector designing future aircraft & engine concepts. He quit his job to focus on campaigning for increased regulation in the industry and founded [Green Sky Thinking](https://www.facebook.com/GreenSkyThink/), a social media channel that shares information about the realities of the industry moving to net zero.
 
 In February 2020 the UK Aviation Industry pledged to make flying net zero by 2050. A lot of this is going to rely on technology. So let’s kick off by asking Finlay to explain about hydrogen planes.
 
