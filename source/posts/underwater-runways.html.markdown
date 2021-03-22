@@ -46,6 +46,6 @@ The height of the irony here is that our planet is warming as a result of an ove
 
 Climate change is not purely about hotter air and rising seas. Flooding, storm surges, strong winds and unpredictable weather brought about by the shift in global temperatures will all result in lost revenue for airlines unable to get their fleet into the air. Adapting to climate change is expensive, but failing to address its causes will cost us even more.
 
-In a world where our high consumption lifestyles dominate the carbon narrative, it seems that kharma is coming back to bite airlines in the business models. 
+In a world where our high consumption lifestyles dominate the carbon narrative, it seems that karma is coming back to bite airlines in the business models. 
 
 #### Forget “Jet Zero” fantasies and misleading techno-fixes. A changing climate will impact upon every inch of our lives – even the operations of the airlines themselves.
