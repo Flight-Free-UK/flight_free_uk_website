@@ -3,7 +3,7 @@ published: true
 title: "2021 podcast series: Can we fly carbon neutral?"
 category: climate
 date: 2021-02-28T15:45:39.048Z
-cover_image: /images/uploads/finlay_asher.png
+cover_image: /images/uploads/finlay_podcast.jpg
 summary: Ex-aerospace engineer Finlay Asher gives us the lowdown on how green
   technology may or may not enable us to fly carbon neutral
 author: FlightFree UK
