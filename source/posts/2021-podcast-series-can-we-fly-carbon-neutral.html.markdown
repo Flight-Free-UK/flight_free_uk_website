@@ -65,6 +65,6 @@ So, the final word to Finlay: can we fly carbon neutral? 
 
 In a word, no!
 
-### Thanks to Finlay for joining us. You hear more from Finlay [here](https://www.facebook.com/GreenSkyThink/).
+### Thanks to Finlay for joining us. You can hear more from Finlay [here](https://www.facebook.com/GreenSkyThink/).
 
 *Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-can-we-fly-carbon-neutral/) and find other episodes and previous series [here](/podcast).*
