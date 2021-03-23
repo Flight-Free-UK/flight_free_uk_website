@@ -9,9 +9,9 @@ summary: "We meet Evelina Utterdahl, Swedish climate activist and eco-warrior
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/eve-and-anna.jpg "Evelina Utterdahl, Earth Wanderess, with Flight Free campaigner Anna Hughes")
+![Evelina is smiling widely whilst being driven in a small boat. She is wearing a T-shirt that reads "Keep our oceans blue, our planet green and our animals safe". The are blurred trees in the background and an overcast sky. ](/images/uploads/evelina.jpg "Evelina")
 
-## It’s a clear, cool evening at Corpus Christi college, Oxford. 
+## It’s a clear, cool evening at Corpus Christi college, Oxford.
 
 Groups of students walk across the lawn looking for a rowing club meeting or a foreign languages seminar. The quad is small, understated – none of the grandeur of the college’s more famous, more dramatic neighbour, Christchurch: no dome, no film-set backdrop, no huge brick towers, just a quaint grass square surrounded by the classic buildings that give Oxford its tourist-attracting charm. And in a quiet room to the west of the quad, people are gathering for the Oxford Waste Society's latest event: a talk entitled 'Travel Without Flying'.
 
@@ -27,21 +27,21 @@ And that was that. Eco-warrior Eve became even more of a champion for the enviro
 
 On a recent trip to Iran she was offered a TV appearance back in Sweden. It would have been a quick flight, do the interview, then a prompt return to Iran. But she decided to forgo the appearance, even though it would have been great for her career. Sometimes living to your values is more important. ‘With flying, you forget what it takes to get from place to place. It’s so easy – we come to expect to be there instantly.’ 
 
-#### The small crowd in the room are captivated by Eve’s stories. She speaks passionately, though is careful not to tell people what to do; this is about presenting the facts and letting people make their own decisions. 
+#### The small crowd in the room are captivated by Eve’s stories. She speaks passionately, though is careful not to tell people what to do; this is about presenting the facts and letting people make their own decisions.
 
 And the facts are scary. Climate change is affecting people across the world right now. IPCC forecasts give us just over a decade in which to bring our individual carbon footprints to between 1 and 2 tonnes per year. If you eat meat, that’s it. A return flight to Tenerife is 1.5 tonnes – your entire annual budget blown in a single weekend. And that’s before you’ve done any of the things you actually have to do to live.
 
 The only way to get serious about this is to stop flying. Sure, we can look to green technology for planes. But as Eve points out, ‘It takes fossil fuels to make biofuels. And the development of electrical planes is going to take more time than we have.’
 
-![Evelina is smiling widely whilst being driven in a small boat. She is wearing a T-shirt that reads "Keep our oceans blue, our planet green and our animals safe". The are blurred trees in the background and an overcast sky. ](/images/uploads/evelina.jpg "Evelina utilising boat travel!")
+![](/images/uploads/eve-and-anna.jpg "Evelina Utterdahl, Earth Wanderess, with Flight Free campaigner Anna Hughes")
 
-#### In Evelina’s home country of Sweden, flying is the big debate. 
+#### In Evelina’s home country of Sweden, flying is the big debate.
 
 Several celebrities have openly decided to quit flying. Train vacations are a thing; there are even petitions calling for operators to offer overnight train travel to Europe. There are social media accounts calling out the big influencers on their excessive flying habits.
 
 And it’s essential that we shift the norm away from flying. For ages, travelling has been about going somewhere else. 'But what about being where you are?’ asks Eve. ‘You know, Scotland is one of the most beautiful places on earth – and I have seen a lot of places! We are so lucky with Europe. Everything is so close, and with our passports we are free to travel as much as we want.’
 
-#### So, how has not flying changed Eve’s life? Completely, and in a positive way. 
+#### So, how has not flying changed Eve’s life? Completely, and in a positive way.
 
 ‘Quitting flying is the best decision I ever made,’ she says, and it’s easy to believe her. ‘You are so much more present when you don’t fly. And your travelling means so much more: not flying is the same as standing at the top of a mountain I just hiked up. It’s so much better because I fought for it.’
 
