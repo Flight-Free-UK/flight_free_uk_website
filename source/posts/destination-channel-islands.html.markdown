@@ -26,7 +26,7 @@ Jersey is the biggest of the Channel Islands at about 47 square miles. The main 
 
 ![Image shows a basin of yachts with a church and lots of buildings on the hill in the background](/images/uploads/stpeterport.jpg "St Peter Port, Guernsey")
 
-Guernsey is the flattest of the islands and slightly smaller than its big sister Jersey. It’s a little more sedate in its pace of life and has a more rural feel. If you are exploring, it's good to know that the network of ‘rouettes tranquilles’ gives priority to walkers, cyclists and horse riders. St Peter Port is a jewel of a town, with cobbled streets bedecked with bunting, clustered around a harbour filled with yachts. Victor Hugo wrote part of Les Miserables while he was exiled here in the 1850s. You can visit his house high above the town, where each room is lushly decorated in a different style – but make sure you book in advance.
+Guernsey is the flattest of the islands and slightly smaller than its big sister Jersey. It’s a little more sedate in its pace of life and has a more rural feel. If you are exploring, it's good to know that the network of ‘rouettes tranquilles’ gives priority to walkers, cyclists and horse riders. St Peter Port is a jewel of a town, with cobbled streets bedecked with bunting, clustered around a harbour filled with yachts. Victor Hugo wrote part of Les Miserables while he was exiled here in the 1850s. You can visit his house high above the town, where each room is lushly decorated in a different style – just make sure you book in advance.
 
 ![](/images/uploads/quotes2.jpg)
 
