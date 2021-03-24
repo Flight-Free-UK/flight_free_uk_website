@@ -4,8 +4,8 @@ title: The great British holiday
 category: travel
 date: 2019-06-10T14:32:52.868Z
 cover_image: /images/uploads/the-great-british-holiday-.jpg
-summary: Flight Free campaigner Anna Hughes questions if asking people to fly
-  less is asking for an end to foreign holidays
+summary: Flight Free campaigner Anna Hughes contemplates if asking people to fly
+  less will mean an end to foreign holidays
 author: FlightFree UK
 read_time_minute: 4
 ---
