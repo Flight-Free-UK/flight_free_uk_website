@@ -9,9 +9,7 @@ summary: Paul Powlesland, founder of Lawyers for Nature and once-frequent winter
 author: FlightFree UK
 read_time_minute: 3
 ---
-```
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FflightfreeUK%2Fvideos%2F382584305737238%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-```
 
 ### “In previous winters I’ve needed to get away somewhere in the sun. I tend to get quite depressed in the winter."
 
