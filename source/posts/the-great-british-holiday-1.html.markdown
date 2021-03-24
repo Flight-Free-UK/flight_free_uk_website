@@ -39,7 +39,7 @@ Nevertheless, it’s unavoidable that we need to address our obsession with fore
 
 So while the aim of this campaign is not to herald the end of foreign travel, it does mean doing less of something. It means not jetting off every other weekend for another city break. It means not taking domestic flights. It means reassessing our ‘must have everything now’ lifestyles, being content with where we are, not equating holidays or travel with flying. It means one big holiday per year, near or far, journeying by train or bus or boat, where the journey itself is part of the holiday. It means rediscovering the wonder of the UK.
 
-![](/images/uploads/fish_n_chips.jpg)
+![People sitting on a wall eating fish and chips](/images/uploads/people_eating_fish_and_chips.jpg)
 
 The sun is out. Children squeal in the spray. Surfers hang out on the depths waiting to catch a wave. The beach is scattered with ball games and sand castles, sunglasses and cups of tea. For a time, the sun heats the sand. 
 
