@@ -71,68 +71,14 @@ While we wait for the government to take action, we as consumers can make strong
 * Ask your employer for an extra day off in lieu of the extra travel time you might need — they might support your sustainable travel choice. See [Climate Perks](https://www.climateperks.com) from climate charity Possible.
 * Consider whether holidays and stag/hen parties can be [taken in the UK](https://www.hubbub.org.uk/10-tips-for-planning-the-best-uk-hen-stag-or-group-holiday).
 
-The UK, as a historically and disproportionately large emitter \[xxiv], has a responsibility to lead from the front. We need political will to meet our net zero targets, and we need to not be content with doing ‘just enough’ to hit 2°C. Covid-19 has shown us that even with dramatic lockdowns our emissions haven’t dropped enough, which shows the size of the task ahead.
+The UK, as a historically and [disproportionately large emitter](https://ourworldindata.org/contributed-most-global-co2), has a responsibility to lead from the front. We need political will to meet our net zero targets, and we need to not be content with doing ‘just enough’ to hit 2°C. Covid-19 has shown us that even with dramatic lockdowns our emissions haven’t dropped enough, which shows the size of the task ahead.
 
-In order to prevent serious climate crisis consequences \[xxvii] we need to move much faster, with the government making bold policy in all sectors to create the significant reductions we so desperately need. Covid-19 gives us the opportunity to ‘build back better’ and build a green recovery. For aviation, a 700km policy for domestic & international flights would be a good place to start.
+In order to prevent serious climate crisis consequences we need to move [much faster](https://theconversation.com/our-climate-is-like-reckless-banking-before-the-crash-its-time-to-talk-about-near-term-collapse-128374), with the government making bold policy in all sectors to create the significant reductions we so desperately need. Covid-19 gives us the opportunity to [‘build back better’](https://www.aef.org.uk/uploads/2020/06/Building-back-better-aviation-.docx.pdf) and build a green recovery. For aviation, a 700km policy for domestic & international flights would be a good place to start.
 
-##### References
+\*1063.39 km x 0.25493 kg CO2e for domestic flights and Rail passenger km 0.04115 kg CO2e
 
-###### \[i] Conversion Factors 2019 ‘Business travel -air’ & ‘Business travel — land’ <https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019> Rail passenger km 0.04115 kg CO2e . International rail 0.00597 kg CO2e. short haul flights are approximately 0.15832kg CO2e, domestic flights are 0.25493 kg CO2e and long haul 0.19562 kg CO2e.
+\*\* If aviation paid the same level of duty, and VAT on its fuel as motorists it would £11 billion per year compared to the £3.8 billion that the Air Passenger Duty raises
 
-###### \[ii] <https://www.eurostar-treadlightly.com/en/environment.php>
-
-###### \[iii] Committee on Climate Change, ‘Net Zero Report’, May 2019 <https://www.theccc.org.uk/wp-content/uploads/2019/05/Net-Zero-Technical-report-CCC.pdf>
-
-###### \[iv] Committee on Climate Change, ‘Meeting the UK aviation target — options for reducing emissions to 2050’ 2009 <https://www.theccc.org.uk/archive/aws2/Aviation%20Report%2009/21667B%20CCC%20Aviation%20AW%20COMP%20v8.pdf>
-
-###### \[v] Own calculation — only 6% of domestic 550km journeys are taken by air. 6% of the 5% domestic aviation emissions = 0.3%
-
-###### Nts0317 <https://www.gov.uk/government/statistical-data-sets/nts03-modal-comparisons>
-
-###### \[vi] <https://www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/UK-Airport-data/Airport-data-2018/> Table 12. Own analysis of Total Passengers all routes and those destinations
-
-###### \*1063.39 km x 0.25493 kg CO2e for domestic flights and Rail passenger km 0.04115 kg CO2e
-
-###### \[viii] <https://www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/UK-Airport-data/Airport-data-2018/> Table 12. Own analysis of Total Passengers all routes and those destinations achieved in under 4.5 hours by train is 16,272,951 passengers of the 46,021,427 total passenger journeys.
-
-###### \[ix] [https://www.gov.uk/government/statistical-data-sets/aviation-statistics-data-tables-avi avi0105 & tsgb0114](https://www.gov.uk/government/statistical-data-sets/aviation-statistics-data-tables-avi%20avi0105%20&%20tsgb0114) <https://www.gov.uk/government/statistical-data-sets/tsgb01-modal-comparisons>
-
-###### \[x] <https://www.gov.uk/government/statistical-data-sets/aviation-statistics-data-tables-avi> avi0105 — Spain (17.5%), Italy (6.3%), Germany (6%), France (5%), Republic of Ireland (5.1%), Netherlands (4.4%), Poland (3.2%) and Portugal (3.2%) and Belgium (0.7%) and Luxembourg (0.2%)
-
-###### \[xi] London has 20 flights per day to Paris, Brussels 11, Amsterdam 55 and Luxembourg 10 flights per day
-
-###### \[xii] <https://www.eurostar-treadlightly.com/en/environment.php>
-
-###### \[xiii] Estimate based on our UK international flight destinations — Netherlands 4.4%, Belgium 0.7%, Luxembourg 0.2% most of which originate from London & a portion of France (5%).
-
-###### \[xiv] <https://theicct.org/sites/default/files/publications/ICCT_CO2-commercl-aviation-2018_20190918.pdf>
-
-###### \[xv] <https://theicct.org/sites/default/files/publications/ICCT_CO2-commercl-aviation-2018_20190918.pdf>
-
-###### \[xvi] <https://theicct.org/sites/default/files/publications/ICCT_CO2-commercl-aviation-2018_20190918.pdf>
-
-###### \[xvii] OAG ‘Busiest Routes Report’ April 2020
-
-###### \[xviii] OAG ‘Busiest Routes Report’ April 2020
-
-###### \[xix] <https://www.ship-technology.com/projects/norled-zerocat-electric-powered-ferry/>
-
-###### \*\* If aviation paid the same level of duty, and VAT on its fuel as motorists it would £11 billion per year compared to the £3.8 billion that the Air Passenger Duty raises
-
-###### <https://www.aef.org.uk/uploads/2020/06/Building-back-better-aviation-.docx.pdf>
-
-###### \[xxi] <https://fullfact.org/economy/do-15-people-take-70-flights/>
-
-###### \*\** Aviation is 7% of UK emissions, 70% of flights are taken by 15% of population. 70% of 7% is 4.9% of total UK emissions.
-
-###### \[xxiii] Conversion Factors 2019 ‘Business travel -air’ <https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019>
-
-###### \[xxiv] <https://ourworldindata.org/contributed-most-global-co2>
-
-###### \[xxv] <https://www.carbonbrief.org/analysis-why-the-ipcc-1-5c-report-expanded-the-carbon-budget>
-
-###### \[xxvi] <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087085>
-
-###### \[xxvii] <https://theconversation.com/our-climate-is-like-reckless-banking-before-the-crash-its-time-to-talk-about-near-term-collapse-128374>
+ \*\** Aviation is 7% of UK emissions, 70% of flights are taken by 15% of population. 70% of 7% is 4.9% of total UK emissions.
 
 *Tom Smallwood is an environmentalist (MSc) who researches and writes about how to address our high emissions. You can read the full article [here](https://medium.com/@tomsmallwoodenv/building-on-frances-aviation-bailout-to-reduce-the-uk-s-domestic-short-haul-flight-emissions-5839f0e075fa).*
