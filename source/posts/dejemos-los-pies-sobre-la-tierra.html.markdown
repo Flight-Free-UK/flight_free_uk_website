@@ -25,7 +25,7 @@ Our response has been to underline the fact that we are not asking people to not
 
 Perú is an enormous country full of interesting historic, natural and cultural attractions. And yet, 95% of foreign visitors go to one small place: [Machu Picchu](https://flightfree.co.uk/post/tossing-out-my-bucket-list/). As with many such tourism concentrates, the government has had to take extraordinary measures to control the site. Visits need to be booked in advance, and there is a limit on the amount of time a visitor can stay there. Even so, what you mostly see if you visit Machu Picchu is other people visiting Machu Picchu.
 
-![Picture shows Machu Picchu with its steep tree covered peaks and expansive stone structures and levels. Clouds are covering taller peaks that surround Machu Picchu in the background. ](/images/uploads/macchupiccu.jpg)
+![Picture shows Machu Picchu with its steep tree covered peaks and expansive stone structures and levels. Clouds are covering taller peaks that surround Machu Picchu in the background. ](/images/uploads/machupicchu-unsplash-scott-umstattd.jpg "Photo Credit: Scott Umstattd (Source: Unsplash) ")
 
 Cusco, the gateway town to Machu Picchu has been clamouring for a new airport for a long time, with the stated purpose to double the amount of passenger traffic going to the city. But Cusco is already collapsing under the pressure of tourism. There is nowhere to build the hotels necessary to accommodate twice as many tourists. The city's streets cannot handle the current traffic, much less the increase which will result. And that's just Cusco: doubling the tourist population will put an unbearable load on Machu Picchu, the Inca Trail and the Sacred Valley.
 
