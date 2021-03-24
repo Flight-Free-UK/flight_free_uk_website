@@ -9,7 +9,7 @@ summary: Christine Bell took eight flights in 2018, down to just one in 2019.
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows a hazy pink and blue sky with a thin and tall chimney in the middle. Out of the chimney a stream of white smoke in emitted. ](/images/uploads/unsplash-tarun-rana-white-smoke.jpg "Photo credit: Tarun Rana (Source: Unsplash)")
+![Picture shows Delhi skyline, with a large temple in the foreground. ](/images/uploads/sergio-capuzzimati-delhi_skyline-unsplash.jpg "Photo credit: Sergio Capuzzimati (Source: Unsplash)")
 
 ### In 2018 I took a flight to Delhi for work. The air quality in the city was terrible: I arrived in choking smog which remained all week.
 
