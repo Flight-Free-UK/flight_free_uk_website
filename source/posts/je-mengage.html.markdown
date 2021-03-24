@@ -4,9 +4,8 @@ title: Je m'engage...
 category: opinion
 date: 2019-06-10T14:35:40.008Z
 cover_image: /images/uploads/nathalie-laplante.jpg
-summary: Nathalie Laplante has just launched Flight Free Canada. Here she
-  explains her motivations to keep her and her fellow countrymen's feet firmly
-  on the ground
+summary: Flight Free Canada director Nathalie Laplante explains her motivations
+  to keep her and her fellow countrymen's feet firmly on the ground
 author: FlightFree UK
 read_time_minute: 2
 ---
