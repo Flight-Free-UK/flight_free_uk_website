@@ -45,7 +45,4 @@ Last year, we all pulled together to address the crisis of the pandemic. This ye
 
 #### Could you be flight free in 2021? Make your pledge [here](/index).
 
-```
 <iframe src="https://player.vimeo.com/video/488232606" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/488232606">We are taking a flight free year. Could you?</a> from <a href="https://vimeo.com/flightfreeuk">Flight Free UK</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-```
