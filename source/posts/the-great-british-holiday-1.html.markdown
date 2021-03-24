@@ -25,7 +25,9 @@ I’m being provocative, of course. The UK is an incredible holiday destination:
 
 But even then, the campaign is not about limiting us to these shores. When we think of international travel the default seems to be to fly. But not flying doesn’t mean not travelling. We are so lucky with Europe – everything is under our noses. Most cities in Europe are easily accessible by train. The beaches of Spain, Portugal and southern France are a train ride or a boat trip away. For those on a budget, long-distance coaches go to locations as diverse as Malaga and Copenhagen. The islands of the Mediterranean can be reached in a couple of days. 
 
-Although there is an element of sacrifice here. Way back in the Victorian era of the international steamer, exotic travel was the preserve of the rich. Flying is cheap and easy. Alternative forms of transport are often prohibitively expensive. And that makes this an equality issue as well – do we really want to do back to the days of only being able to explore the world if you are rich enough? 
+![](/images/uploads/waves.jpg)
+
+Although there *is* an element of sacrifice here. Way back in the Victorian era of the international steamer, exotic travel was the preserve of the rich. Flying is cheap and easy. Alternative forms of transport are often prohibitively expensive. And that makes this an equality issue as well – do we really want to do back to the days of only being able to explore the world if you are rich enough? 
 
 Because the simple truth is, you can’t put the genie back in the bottle. Flight has given us the means with which to traverse this earth in a way that nothing else can. Thirty years ago, people were more likely to have their hen weekend in Brighton than Barcelona. But it’s now become normal for an entire generation to jump on a plane whenever they want to go somewhere. And now we have seen the jewels in the Phuket crown, tasted the sweet nectar of Jamaica, we can’t pretend it doesn’t exist, or imagine it isn’t desirable. And in many cases, we don’t just want this, we need it. In our global society many of us have relatives in far off lands.
 
@@ -34,6 +36,8 @@ Because the simple truth is, you can’t put the genie back in the bottle. Fligh
 Nevertheless, it’s unavoidable that we need to address our obsession with foreign holidays. Flying on multiple weekend breaks per year, plus that one big holiday, or sometimes two, feeds our ever-expanding aviation industry in a way that is a disaster for the environment. Travelling so far and so fast uses a hell of a lot of fossil fuel, and even if you take other steps to be environmental, one flight can completely wipe out other savings. 
 
 So while the aim of this campaign is not to herald the end of foreign travel, it does mean doing less of something. It means not jetting off every other weekend for another city break. It means not taking domestic flights. It means reassessing our ‘must have everything now’ lifestyles, being content with where we are, not equating holidays or travel with flying. It means one big holiday per year, near or far, journeying by train or bus or boat, where the journey itself is part of the holiday. It means spending the rest of the time exploring the treasures we have here in the UK.
+
+![](/images/uploads/fish_n_chips.jpg)
 
 The sun is out. Children squeal in the spray. Surfers hang out on the depths waiting to catch a wave. The beach is scattered with ball games and sand castles, sunglasses and cups of tea. For a time, the sun heats the sand. 
 
