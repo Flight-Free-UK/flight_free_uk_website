@@ -43,4 +43,4 @@ Overnight engineering works can result in trains being cancelled so it is worth 
 
 #### So I got my adventure – and without any sign of a pickpocket or *mafioso*!
 
-![Picture shows the view down a street between two buildings. Railings at the end of the street protect from the sheer drop. In the distance are foggy green hills with houses clustered on them and rolling clouds further back. The town is in the sun and the close up buildings are silhouetted in contrast to the bright view. ](/images/uploads/bd057382-d834-448a-a1dd-a0ba9b9b0fd0.jpeg)
+![Picture shows the view down a street between two buildings. Railings at the end of the street protect from the sheer drop. In the distance are foggy green hills with houses clustered on them and rolling clouds further back. The town is in the sun and the close up buildings are silhouetted in contrast to the bright view. ](/images/uploads/view-from-enna-street-lamp-sicily.jpeg)
