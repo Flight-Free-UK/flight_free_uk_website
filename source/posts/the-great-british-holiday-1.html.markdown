@@ -29,7 +29,9 @@ But even then, the campaign is not about limiting us to these shores. When we th
 
 Although there *is* an element of sacrifice here. Way back in the Victorian era of the international steamer, exotic travel was the preserve of the rich. Flying is cheap and easy. Alternative forms of transport are often prohibitively expensive. And that makes this an equality issue as well – do we really want to do back to the days of only being able to explore the world if you are rich enough? 
 
-Because the simple truth is, you can’t put the genie back in the bottle. Flight has given us the means with which to traverse this earth in a way that nothing else can. Thirty years ago, people were more likely to have their hen weekend in Brighton than Barcelona. But it’s now become normal for an entire generation to jump on a plane whenever they want to go somewhere. And now we have seen the jewels in the Phuket crown, tasted the sweet nectar of Jamaica, we can’t pretend it doesn’t exist, or imagine it isn’t desirable. And in many cases, we don’t just want this, we need it. In our global society many of us have relatives in far off lands.
+Because the simple truth is, you can’t put the genie back in the bottle. Flight has given us the means with which to traverse this earth in a way that nothing else can. Thirty years ago, people were more likely to have their hen weekend in Brighton than Barcelona. But it’s now become normal for an entire generation to jump on a plane whenever they want to go somewhere. 
+
+Now we have seen the jewels in the Phuket crown, tasted the sweet nectar of Jamaica, we can’t pretend it doesn’t exist, or imagine it isn’t desirable. And in many cases, we don’t just want this, we need it. In our global society many of us have relatives in far off lands.
 
 > "Flight allows us to traverse this earth in a way that nothing else can. We can’t pretend it doesn’t exist, or imagine it isn’t desirable."
 
