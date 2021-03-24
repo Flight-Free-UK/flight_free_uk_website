@@ -14,13 +14,7 @@ read_time_minute: 2
 
 ## **Make it personal**
 
-People relate to personal stories and are likely to be engaged by your passion for the subject, rather than gloomy climate forecasts or scary statistics. Talk about why not flying, or flying less, is important to you.
-
-> "Talk about why not flying, or flying less, is important to you."
-
- Tell a story about a flight-free holiday you have had. 
-
-
+People relate to personal stories and are likely to be engaged by your passion for the subject, rather than gloomy climate forecasts or scary statistics. Talk about why not flying, or flying less, is important to you. Tell a story about a flight-free holiday you have had. 
 
 ## **Keep it positive**
 
