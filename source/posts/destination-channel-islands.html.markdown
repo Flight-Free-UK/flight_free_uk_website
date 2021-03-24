@@ -14,7 +14,7 @@ read_time_minute: 3
 
 For a holiday as exotic as it is close-to-home, look no further than the Channel Islands. This archipelago in the English Channel has a unique sense of otherworldliness while being reassuringly familiar. Both French and English are official languages, and it’s a real treat to wander through *Les Jardins de la Mer* while using UK currency and without needing a passport – though you will need photo ID to travel. 
 
-The five main Channel Islands, Jersey, Guernsey, Alderney, Sark and Herm each have their own culture and charm. They are famed for knitwear, cream, seafood, and potatoes – a sought-after delicacy on the islands. With the sunniest weather in the British Isles, the islands have beautiful sandy beaches and quiet lanes – the maximum speed limit on the islands is 40mph. History lovers will want to visit the Neolithic remains and World War II museums (the islands were occupied by Germany during the war). 
+The five main Channel Islands, Jersey, Guernsey, Alderney, Sark and Herm each have their own culture and charm. They are famed for knitwear, cream, seafood, and potatoes – a sought-after delicacy on the islands. With the sunniest weather in the British Isles, the islands have beautiful sandy beaches and quiet lanes. History lovers will want to visit the Neolithic remains and World War II museums (the islands were occupied by Germany during the war). 
 
 ![Image shows a busy shopping street in St Helier, with bunting strung across the street and lots of people out and about](/images/uploads/st_helier.jpg "St Helier, the main town in Jersey")
 
