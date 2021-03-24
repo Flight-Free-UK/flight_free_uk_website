@@ -10,7 +10,7 @@ summary: Easyjet has announced that from March 2020 it will be flying twice a
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Picture shows a cityscape of Edinburgh. Its dusk and the sky is gloomy. ](/images/uploads/edinburgh-peter-cordes-h-qx6kayujq-unsplash.jpg.crdownload.jpg "Edinburgh - Photo credit: Peter Cordes (Source: Unsplash)")
+![Picture shows Edinburgh Castle surrounded by greenery. The sky looks gloomy and the clouds appear purple. ](/images/uploads/edinburgh_castle.jpg)
 
 ### Easyjet’s [new route from Birmingham to Edinburgh](https://www.independent.co.uk/travel/news-and-advice/easyjet-birmingham-edinburgh-plane-flight-flybe-virgin-trains-climate-change-a9110166.html) will be its shortest route in the UK, a mere 250 miles.
 
