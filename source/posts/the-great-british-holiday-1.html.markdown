@@ -13,7 +13,7 @@ read_time_minute: 4
 
 ### There’s only one word for it: bracing. It takes a certain character to swim in the North Sea.
 
-Feet lose feeling quickly; it’s your body’s way of saying they are expendable. The surf is high and I’m smacked in the face several times before giving up. My skin shivers as I rub myself dry. There’s sand everywhere. A red rash is spreading across my chest. Goosebumps rise up my arms. The Costa del Sol it is not.
+Feet lose feeling quickly; it’s your body’s way of saying they are expendable. The surf is high and I’m smacked in the face several times before giving up. My skin shivers as I rub myself dry. There’s sand everywhere. A red rash is spreading across my chest. Goosebumps rise up my arms. The *Costa del Sol* it is not.
 
 I’m in Scarborough, a once thriving seaside town that drew holiday-makers from all over the country. Now, on this unseasonably cold June day, it has an air of sorrow about it. The penny arcade music rings out on to empty streets. The once-splendid facades are worn. Yesterday evening it poured with rain and I hurried to my guest room with my coat zipped high against the weather. Even in the height of summer, walking around in your bikini sipping cocktails is probably not going to happen.
 
