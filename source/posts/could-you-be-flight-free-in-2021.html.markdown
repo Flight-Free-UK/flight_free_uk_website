@@ -9,7 +9,7 @@ summary: 2020 was the year we stayed grounded because of the pandemic. Could
 author: FlightFree UK
 read_time_minute: 3
 ---
-![](/images/uploads/lara_sayers.jpg)
+<iframe src="https://player.vimeo.com/video/488232606" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Ever since we launched our campaign in early 2019 we've been asking people if they could take a flight free year.
 
@@ -45,4 +45,4 @@ Last year, we all pulled together to address the crisis of the pandemic. This ye
 
 #### Could you be flight free in 2021? Make your pledge [here](/index).
 
-<iframe src="https://player.vimeo.com/video/488232606" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+![](/images/uploads/lara_sayers.jpg)
