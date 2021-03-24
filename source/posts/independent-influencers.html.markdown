@@ -9,7 +9,7 @@ summary: Maggie Robertson explores how journalists have the power to influence
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows a row of seated people from the neck down. They appear to be listening to a talk of some kind, and many are taking notes. ](/images/uploads/the-climate-reality-project-hb6uwq0i4mi-unsplash.jpg "Photo credit: The Climate Reality Project ")
+![Picture shows a row of seated people from the neck down. They appear to be listening to a talk of some kind, and many are taking notes. ](/images/uploads/the-climate-reality-project-conference_audience-unsplash.jpg "Photo credit: The Climate Reality Project ")
 
 ### ‘It’s about the journey.’
 
