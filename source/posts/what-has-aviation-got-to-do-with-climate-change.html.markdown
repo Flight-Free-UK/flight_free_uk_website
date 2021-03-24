@@ -12,7 +12,7 @@ read_time_minute: 3
 
 The term global warming has been around for a long time, and it refers to the rising temperature of the earth’s surface. Global temperatures have been relatively stable for the past 1000 years, but in the past 40 years, the trend has been going upwards quite sharply. Fourteen out of the 15 hottest years on record have occurred in the last two decades.
 
-![](/images/uploads/2018-anoms.png "Graphic from wunderground.com")
+![](/images/uploads/1880-2018-global-temperatures-above-average.png "Graphic from wunderground.com")
 
 ### Why is the earth warming?
 
