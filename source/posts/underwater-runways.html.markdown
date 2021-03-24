@@ -8,7 +8,7 @@ summary: "Oh, the irony: climate change puts airports at risk."
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Pictures shows a swimmer at sea level. They are looking up, watching a plane land very close by. An airport watch-tower is just at shore. ](/images/uploads/wideswimmer-plane-underwater_runways.jpg)
+![Picture shows a swimmer in the sea, with an airport watch-tower and aeroplane on a rock. ](/images/uploads/wideswimmer-plane-underwater_runways.jpg)
 
 ## Airlines have finally realised that climate change is a problem.
 
