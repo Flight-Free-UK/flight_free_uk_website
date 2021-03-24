@@ -22,6 +22,10 @@ You can travel to the Channel Islands from the UK without flying: all the island
 
 ![](/images/uploads/quote1.jpg)
 
+> "We had a trip to Sark by boat when our children were little. It was beautiful – very peaceful and with no cars it was the ideal destination with young children. We hired bikes and cycled round the island. It remains one of our favourite holidays ever..."
+
+#### *Mary Collett, Bristol*
+
 Jersey is the biggest of the Channel Islands at about 47 square miles. The main town, St Helier, is full of bustling markets, shops and restaurants, and a lively waterfront overlooking the sweeping St Aubin’s Bay with Elizabeth Castle on its rock. The tidal range is huge, exposing miles of sand at low tide in the many bays around the island. St Ouen’s Bay in the west is perfect for surfing, and the cliffs in the north are fantastic for rock climbing. 
 
 ![Image shows a basin of yachts with a church and lots of buildings on the hill in the background](/images/uploads/stpeterport.jpg "St Peter Port, Guernsey")
