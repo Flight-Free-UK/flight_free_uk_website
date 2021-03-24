@@ -20,6 +20,8 @@ The five main Channel Islands, Jersey, Guernsey, Alderney, Sark and Herm each ha
 
 You can travel to the Channel Islands from the UK without flying: all the islands are well connected by ferries from the UK and from northern France, and you can’t beat the excitement of arriving by sea right into the heart of St Helier or St Peter Port. 
 
+![](/images/uploads/quote1.jpg)
+
 Jersey is the biggest of the Channel Islands at about 47 square miles. The main town, St Helier, is full of bustling markets, shops and restaurants, and a lively waterfront overlooking the sweeping St Aubin’s Bay with Elizabeth Castle on its rock. The tidal range is huge, exposing miles of sand at low tide in the many bays around the island. St Ouen’s Bay in the west is perfect for surfing, and the cliffs in the north are fantastic for rock climbing. 
 
 ![Image shows a basin of yachts with a church and lots of buildings on the hill in the background](/images/uploads/stpeterport.jpg "St Peter Port, Guernsey")
