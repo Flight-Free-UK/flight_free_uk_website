@@ -14,6 +14,8 @@ read_time_minute: 3
 
 For a holiday as exotic as it is close to home, look no further than the Channel Islands. This archipelago in the English Channel has a unique sense of otherworldliness while being reassuringly familiar. Both French and English are official languages, and it’s a real treat to wander through *Les Jardins de la Mer* while using UK currency and without needing a passport – though you will need photo ID to travel. 
 
+![Quote says: "Growing up on Jersey, the beach and the sea have always been a huge part of my life. Travelling back home via the ferry gives me a sense of adventure and excitement you just can't get in the same way from air travel, as the island slowly creeps into view, rounding those gorgeous headlands, or seeing those ancient castles.” Steph Parker, Jersey/London](/images/uploads/quotes6.jpg)
+
 The five main Channel Islands, Jersey, Guernsey, Alderney, Sark and Herm each have their own culture and charm. They are famed for knitwear, cream, seafood, and potatoes – a sought-after delicacy on the islands. With the sunniest weather in the British Isles, the islands have beautiful sandy beaches and quiet lanes. History lovers will want to visit the Neolithic remains and World War II museums (the islands were occupied by Germany during the war). 
 
 ![Image shows a busy shopping street in St Helier, with bunting strung across the street and lots of people out and about](/images/uploads/st_helier.jpg "St Helier, the main town in Jersey")
