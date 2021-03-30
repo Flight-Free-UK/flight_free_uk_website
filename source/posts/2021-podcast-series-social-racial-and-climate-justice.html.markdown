@@ -1,7 +1,7 @@
 ---
 published: true
 title: "2021 podcast series: social, racial and climate justice"
-category: opinion
+category: climate
 date: 2021-03-30T14:27:49.694Z
 cover_image: /images/uploads/poppyarmellesunitafrancisca.jpg
 summary: Horticulturalist Poppy Okotcha and Black Geographers founder Francisca
