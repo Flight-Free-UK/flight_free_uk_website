@@ -68,3 +68,5 @@ In a word, no!
 ### Thanks to Finlay for joining us. You can hear more from Finlay [here](https://www.facebook.com/GreenSkyThink/).
 
 *Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-can-we-fly-carbon-neutral/) and find other episodes and previous series [here](/podcast).*
+
+*Voiceover: [L. Sophie Helbig](https://lshelbig.com/main/). Soundtrack: [Chasing Balloons by Yeti Music](https://uppbeat.io/track/yeti-music/chasing-balloons).*
