@@ -17,9 +17,9 @@ The Coronavirus has had a massive impact, not least on the aviation industry. La
 
 We signed [this letter](https://www.change.org/p/open-letter-to-the-respective-national-governments-savepeoplenotplanes-red-lines-for-aviation-bail-outs) by Stay Grounded against airline bailouts. This is an industry that enjoys massive tax breaks in the good times, most notably through there being no tax on aviation fuel, so it is a bitter pill to swallow that airlines should receive public funding, especially at a time when we are all struggling.
 
-And should we be spending taxpayers’ money on an industry that serves so few? Fewer than half of all Brits fly in any given year, and in global terms it's even more of an elite: only about 5% of the world’s population has ever been on a plane.
+And should we be spending taxpayers’ money on an industry that serves so few? Less than half of all Brits fly in any given year, and in global terms it's even more of an elite: only about 5% of the world’s population has ever been on a plane.
 
-> "Should we be spending taxpayers’ money on an industry that serves so few? Fewer than half of all Brits fly in any given year."
+> "Should we be spending taxpayers’ money on an industry that serves so few? Less than half of all Brits fly in any given year."
 
 But more importantly, from the climate point of view, we need to be looking at putting our public money into climate compatible businesses, sustainable practices, and industries that will ensure that we can avoid an even greater, longer-term disaster than the coronavirus crisis, which is the climate crisis.
 
