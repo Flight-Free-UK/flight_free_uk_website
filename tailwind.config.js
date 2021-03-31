@@ -39,7 +39,13 @@ module.exports = {
       height: {
         '44': '44px',
         '54': '54px',
+        '64': '16rem',
+        '80': '20rem',
+        '96': '24rem',
       },
+      minHeight: {
+          '160': '160px'
+      }
     },
     rotate: {
       '-6': '-6deg',
