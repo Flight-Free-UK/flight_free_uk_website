@@ -7,14 +7,6 @@ members:
     name: Anna Hughes
     photo: /images/uploads/sitting-portrait-square.jpeg
     role: Director
-  - name: Armelle Ferguson
-    role: Social Media
-    bio: With plenty of experience in the sustainability sector as a writer and a
-      speaker, Armelle brings her expertise to managing our social media
-      presence. Her passion for sustainable fashion is now applied to low-carbon
-      travel, especially when moving between her London home and family in
-      France.
-    photo: /images/uploads/armelle.jpeg
   - name: "Gemma Pike "
     role: "Graphics and Design "
     bio: Gemma has always been passionate about the environment and reducing her
@@ -23,14 +15,6 @@ members:
       Gemma is passionate about the Flight Free UK campaign and helps us spread
       the word by developing our infographics.
     photo: /images/uploads/gemma-headshot.jpg
-  - name: Kirsty Moyse
-    role: Podcast
-    bio: Kirsty is a committed environmentalist, currently living in a house in
-      Bristol, having spent the past two years living in a variety of less
-      conventional structures at protest camps, off-grid communities and land
-      occupations. She is now focusing on using the medium of audio for campaign
-      work with Flight Free UK.
-    photo: /images/uploads/kirsty-headshot.jpg
   - name: "Livy Wallis "
     role: "Social Media "
     bio: Livy is studying for a Masters in Sustainability and Behaviour Change at
@@ -54,20 +38,12 @@ members:
       generations so that they can enjoy the natural world as she has.
     role: "Podcast "
     photo: /images/uploads/rachel-headshot-.jpg
-  - photo: /images/uploads/ruby.jpg
-    name: Ruby Puckering
-    role: Admin
-    bio: Based in Brighton, Ruby has just finished her MA in Globalisation, Business
-      and Development. Through this she realised the damage the airline industry
-      inflicts on the environment. With experience assisting research in
-      sustainable transport, Ruby helps with admin for Flight Free UK.
   - name: Sunita Soundur
-    role: Admin
+    role: Social Media
     bio: "Engaged with many environmental and social justice issues, Sunita
       frequently writes about sustainable living and is committed to developing
-      conversations on climate change and responsible consumerism. Having joined
-      the team in 2020, she is keen to propel the #FlightFree2021 campaign by
-      supporting with admin and blog content."
+      conversations on climate change and responsible consumerism. She joined
+      the team as an intern in 2020, and is now our social media officer. "
     photo: /images/uploads/sunita-head-shot-final.jpg
   - bio: Based near Manchester, Tom has experience in several behaviour change
       projects, from recycling to air pollution. With a family history in the
