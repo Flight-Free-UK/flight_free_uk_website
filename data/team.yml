@@ -54,3 +54,10 @@ members:
     name: "Tom Keyes "
     role: "Graphics and Design "
     photo: /images/uploads/tom-headshot-.jpg
+  - name: Emily Smith
+    role: Admin
+    photo: /images/uploads/emilysmith.jpg
+    bio: Having studied a Geography BSc at university, Emily is aware of
+      environmental issues and their consequences. Now living in Essex, she
+      hopes to use her skills and knowledge from her degree to help educate and
+      inspire others to work towards a more sustainable future.
