@@ -4,17 +4,18 @@ title: 100 Black Men Walk
 category: opinion
 date: 2021-04-22T14:20:24.064Z
 cover_image: /images/uploads/maxwell_ayamba_portrait.jpeg
-summary: "Maxwell A. Ayamba has over a decade’s experience of working on health
-  and environmental programmes that enable marginalised communities to access
-  the countryside. He was a guest at our event in February 2021, ‘Destination:
-  UK’, and shares his philosophy of how health, community, and nature are
-  interconnected."
+summary: Maxwell Ayamba, co-founder of 100 Black Men Walk, shares his philosophy
+  of how health, community and nature are interconnected.
 author: FlightFree UK
 read_time_minute: 5
 ---
 ![Maxwell A Ayamba ](/images/uploads/maxwell_ayamba_landscape.jpg)
 
-## The 100 Black Men Walk for Health Group is a name taken from the Million Man March civil rights protest in America where people walked to demand economic and social justice. In our case, it is about middle-aged Black Men having the freedom to roam in the outdoor space such as the countryside. ‘Walk and talk’ is our motto, for our health and wellbeing.
+## Maxwell Ayamba has over a decade’s experience of working on health and environmental programmes that enable marginalised communities to access the countryside. He was a guest at our event in February 2021, ‘Destination: UK’, and shares his philosophy of how health, community, and nature are interconnected.
+
+#### You co-founded the 100 Black Men Walk for Health group in 2004. What was your motivation for doing so?
+
+The 100 Black Men Walk for Health Group is a name taken from the Million Man March civil rights protest in America where people walked to demand economic and social justice. In our case, it is about middle-aged Black Men having the freedom to roam in the outdoor space such as the countryside. ‘Walk and talk’ is our motto, for our health and wellbeing.
 
 Health issues such as mental ill-health, prostate cancer, diabetes, and other diseases have been linked to leading a sedentary lifestyle and have become very common among some Black people. The places that people go for exercise or reconnect with nature tend to be within their local community. In most cases, the only such spaces that Black people tend to congregate are at the barber’s shops or hairdressers.
 
@@ -25,6 +26,8 @@ Our walking group started in 2004. It was an idea suggested by two very good Afr
 Our walking group is now known as the Walk4Health Group. It is gender and age mixed, and no longer for only middle-aged Black men. Our walks normally take place on the first Saturday of the month and we have scaled heights such as Ben Nevis, Scafell Pike in the Lake District, Kinder Scout, Mam Tor and many places in the Peak District National Park. 
 
 \*add pic of walking
+
+![]()
 
 #### You also founded the Sheffield Environmental Movement in 2016 to increase the accessibility of outdoor activities to marginalised groups. Who do you work with and what activities do you do?
 
