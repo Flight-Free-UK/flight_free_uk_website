@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 100 Black Men Walk
 category: opinion
 date: 2021-04-22T14:20:24.064Z
