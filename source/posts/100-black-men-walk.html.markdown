@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 100 Black Men Walk
 category: opinion
 date: 2021-04-22T14:20:24.064Z
@@ -9,7 +9,7 @@ summary: Maxwell Ayamba, co-founder of 100 Black Men Walk, shares his philosophy
 author: FlightFree UK
 read_time_minute: 5
 ---
-![Maxwell A Ayamba ](/images/uploads/maxwell_ayamba_landscape.jpg)
+![Maxwell Ayamba ](/images/uploads/maxwell_ayamba_landscape.jpg)
 
 ## Maxwell Ayamba has over a decade’s experience of working on health and environmental programmes that enable marginalised communities to access the countryside. He was a guest at our event in February 2021, ‘Destination: UK’, and shares his philosophy of how health, community, and nature are interconnected.
 
@@ -25,9 +25,7 @@ Our walking group started in 2004. It was an idea suggested by two very good Afr
 
 Our walking group is now known as the Walk4Health Group. It is gender and age mixed, and no longer for only middle-aged Black men. Our walks normally take place on the first Saturday of the month and we have scaled heights such as Ben Nevis, Scafell Pike in the Lake District, Kinder Scout, Mam Tor and many places in the Peak District National Park. 
 
-\*add pic of walking
-
-![]()
+![Walk4Health walking group before the start of their walk](/images/uploads/100-black-men-walk.jpg "Walk4Health walking group")
 
 #### You also founded the Sheffield Environmental Movement in 2016 to increase the accessibility of outdoor activities to marginalised groups. Who do you work with and what activities do you do?
 
@@ -42,6 +40,8 @@ Lots of the people we work with have not been exposed to natural green spaces an
 #### Where do you go on your walks, and do you have any favourite places?
 
 Most of our walks take place in the Peak District National Park. We walk no matter the weather. It is not about the weather, it is how you dress! We take turns to lead walks and are always discovering new walking trails. Our favourite trails are on Kinder Scout, which has a lot of historical significance because of the Mass Trespass of 1932. This was part of a struggle for access to the moors by the working class led by Benny Rothman and his compatriots. In fact, one of the highlights of our walking group was joining the Ramblers to re-enact the Mass Trespass as part of the 75th anniversary celebration in 2007. Griff Rhys Jones joined us and his documentary was shown on BBC1. 
+
+![Foundlings forming a circle in Kinder Scout, High Peak in the Peak District, UK](/images/uploads/kinder-scout.jpg "Kinder Scout, High Peak, UK")
 
 #### Lockdown has changed the way we are travelling and it’s very difficult to do anything much right now. Do you have any thoughts about how we can still have genuine travel experiences without really going very far?
 
