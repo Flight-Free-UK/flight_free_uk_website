@@ -35,11 +35,13 @@ We deliver activities such as historical guided walks, foraging, farm visits, co
 
 Lots of the people we work with have not been exposed to natural green spaces and the wider countryside beyond their immediate environment. Geographically speaking, they are limited in scope when it comes to visiting or accessing spaces that they don’t know about, or are unaware of how to get there. 
 
-> "Lots of the people we work with have not been exposed to natural green spaces. Geographically speaking, they are limited in scope when it comes to visiting or accessing spaces."
+> "Lots of the people we work with have not been exposed to natural green spaces. They are limited in scope when it comes to visiting or accessing spaces."
 
 ### Where do you go on your walks, and do you have any favourite places?
 
-Most of our walks take place in the Peak District National Park. We walk no matter the weather. It is not about the weather, it is how you dress! We take turns to lead walks and are always discovering new walking trails. Our favourite trails are on Kinder Scout, which has a lot of historical significance because of the Mass Trespass of 1932. This was part of a struggle for access to the moors by the working class led by Benny Rothman and his compatriots. In fact, one of the highlights of our walking group was joining the Ramblers to re-enact the Mass Trespass as part of the 75th anniversary celebration in 2007. Griff Rhys Jones joined us and his documentary was shown on BBC1. 
+Most of our walks take place in the Peak District National Park. We walk no matter the weather. It is not about the weather, it is how you dress! We take turns to lead walks and are always discovering new walking trails. 
+
+Our favourite trails are on Kinder Scout, which has a lot of historical significance because of the Mass Trespass of 1932. This was part of a struggle for access to the moors by the working class led by Benny Rothman and his compatriots. In fact, one of the highlights of our walking group was joining the Ramblers to re-enact the Mass Trespass as part of the 75th anniversary celebration in 2007. Griff Rhys Jones joined us and his documentary was shown on BBC1. 
 
 ![Foundlings forming a circle in Kinder Scout, High Peak in the Peak District, UK](/images/uploads/kinder-scout.jpg "Kinder Scout, High Peak, UK")
 
@@ -61,8 +63,10 @@ People will always fly. There is no way to stop this, but we can educate people 
 
 I think the state of our planet is at risk. Every day we are witnessing changes in weather patterns which are impacting on people’s health and wellbeing as well as livelihoods and ecosystems. We are living in the era of the Anthropocene. There is a need for concerted action by Government and industry, but we also need active citizens and environmental stewards to work together locally, nationally and globally to raise awareness about the pending disaster facing humanity as a whole. 
 
-Nature is no respecter of race, class or status; we are all in this together. My passion and desire as an Ecocentrist is to contribute to the welfare of our planet and the species of which we are part. We have borrowed this world. We as human beings are co-existing with other species and life-forms and we must act responsibly to pass it on to future generations. It is a question of being conscious of our actions and how they impact on others and our planet. Think globally, act locally. 
+Nature is no respecter of race, class or status; we are all in this together. My passion and desire as an Ecocentrist is to contribute to the welfare of our planet and the species of which we are part. 
 
-> "Nature is no respecter of race, class or status; we are all in this together. We must act responsibly to pass it on to future generations."
+> "Nature is no respecter of race, class or status; we are all in this together."
+
+We have borrowed this world. We as human beings are co-existing with other species and life-forms and we must act responsibly to pass it on to future generations. It is a question of being conscious of our actions and how they impact on others and our planet. Think globally, act locally. 
 
 *Maxwell Ayamba is a PhD research student at the University of Nottingham, looking into the trajectories of race, ecology and environmental justice in the UK, and the genealogy of people of Black African ancestry. He is an environmental journalist and has worked previously as an Associate Lecturer/Research Associate at Sheffield Hallam University. He is the Founder and Projects Co-ordinator of the Sheffield Environmental Movement (2016) and Co-Founder of the 100 Black Men Walk for Health Group (2004) which inspired the production of the national play “Black Men Walking”. Find out more about Maxwell’s work [here](http://www.semcharity.org.uk/).*
