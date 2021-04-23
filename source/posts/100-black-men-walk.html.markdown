@@ -19,7 +19,7 @@ The 100 Black Men Walk for Health Group is a name taken from the Million Man Mar
 
 Health issues such as mental ill-health, prostate cancer, diabetes, and other diseases have been linked to leading a sedentary lifestyle and have become very common among some Black people. The places that people go for exercise or reconnect with nature tend to be within their local community. In most cases, the only such spaces that Black people tend to congregate are at the barber’s shops or hairdressers.
 
-> "Health issues such as, mental ill-health, and other diseases have been linked to leading a sedentary lifestyle and have become common among Black people."
+> "Health issues such as mental ill-health have become common among Black people."
 
 Our walking group started in 2004. It was an idea suggested by two very good African-Caribbean friends of mine who have since acted as leaders for our walking group. In fact, we went on to inspire a play, “Black Men Walking”, An Eclipse Theatre Company and Royal Exchange Theatre co-production in 2018/19. 
 
