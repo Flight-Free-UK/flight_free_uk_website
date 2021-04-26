@@ -115,7 +115,7 @@ I used to live in Sheffield which is where I discovered the joy of wild garlic w
 
 My choice is the Conham River Nature Reserve in Bristol. This is along the Avon and it is unbelievably beautiful. In the summer people are swimming and there’s woodland and you can walk along the path all the way to Bath.
 
-### Our podcast recommendation of the month is Ramblings with Clare Balding
+### Our podcast recommendation of the month is Ramblings with Clare Balding.
 
 ### Final thanks to Toni for sharing her insights with us. You can find more about Veganuary at their [website](https://veganuary.com/).
 
