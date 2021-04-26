@@ -11,6 +11,10 @@ read_time_minute: 5
 ---
 This is episode four of our 2021 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-q9pqg-101c1cb) and find other episodes and previous series [here](/podcast/).
 
+![Image says, The Flight Free Podcast. Behaviour change with Toni Vernelli](/images/uploads/veganuary_podcast.jpg)
+
+
+
 ### This month we’re speaking to Toni Vernelli from Veganuary about behaviour change. Toni is Head of Communications and Marketing at Veganuary and has loads of insights into how we can encourage people to change their behaviour.
 
 #### Rachel
