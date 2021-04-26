@@ -81,4 +81,4 @@ To travel home, we had chosen a different route. Winding carefully down the vall
 
 
 
-  ![A holiday journal with a day-by-day account and tickets, maps, photos and Swiss confectionary wrappers.](/images/uploads/switzerland_journal_example.jpg "Journal showing holiday memories ")
+![A holiday journal with a day-by-day account and tickets, maps, photos and Swiss confectionary wrappers.](/images/uploads/switzerland_journal_example.jpg "Journal showing holiday memories ")
