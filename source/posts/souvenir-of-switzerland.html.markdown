@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Souvenir of Switzerland
 category: travel
 date: 2021-04-26T14:54:13.856Z
@@ -21,11 +21,11 @@ Well, to answer that, I have to go further back, to my very first independent jo
 
 We took the train to London, then the Eurostar to Paris, a sneaky night in Paris (you don’t get that when you fly on holiday) and then an afternoon whizzing through French countryside on the TGV to Lausanne. We arrived in Switzerland in late afternoon, and easily found the last train to complete our journey. It was a double-decker commuter train, which whirred along the softly glamorous north shore of Lake Geneva to Vevey, the town where milk chocolate was invented. We spent a few days here, staying in an Air BnB at the top of a very old house near the lakeshore. We wandered among the vineyards, took a cooking lesson at [Alimentarium](https://www.alimentarium.org/en), the food museum, and caught a paddle steamer along the lake to medieval [Chateau Chillon](https://www.chillon.ch/en/). We also made a day trip to Geneva to visit [CERN](https://home.cern), the site of the Large Hadron Collider and, more importantly, a witty multilingual visitor centre and gift shop.
 
-![](/images/uploads/lakegeneva.jpg "Lake Geneva")
+![Green field and winding stone path next to a body of water in day light](/images/uploads/lakegeneva.jpg "Lake Geneva")
 
 That was part one of our holiday. For the second part, we loaded our bags on to a train again to travel past the end of the lake, up the Rhone valley to Visp and, from there, into the mountains. Our destination was Zermatt, close to the Italian border. As the little mountain train wound higher and higher up the valley to Zermatt we found ourselves looking down on hamlets of sturdy cottages, each with a roof of overlapping sparkling stone tiles that looked like dragon scales. 
 
-![](/images/uploads/matterhorn.jpg "Matterhorn")
+![Large snow covered mountain behind a small village surrounded by green hills and trees](/images/uploads/matterhorn.jpg "Matterhorn")
 
 At the second to last station there is a huge car park, because cars are not allowed in Zermatt. We saw the beauty of that as soon as we arrived – no traffic noise except the whine of electric bikes and trundling electro taxis, and the fresh and sparkling air. We walked up the middle of the high street where huge Swiss flags flapped against the blue sky, and took the first of many photographs of the Matterhorn.
 
@@ -46,11 +46,13 @@ I have recently realised that I tend to enjoy a holiday far more in retrospect t
 
 In Zermatt I saw my first glacier, the Gornergletscher. This is [reported ](https://www.theguardian.com/politics/2019/sep/30/theresa-may-i-would-rather-write-alpine-whodunnit-than-memoir)to be the glacier whose year-by-year retreat convinced Teresa May, a Zermatt regular, that climate change was really happening. Is it thanks to the Gornergletcher that, as Prime Minister, she, in 2019, committed the UK to net zero, and brought COP26 to the UK?
 
-![](/images/uploads/gornerglacierzermatt.jpg)
+![The Gornergletscher Glacier in Zermatt, snow covered mountains and a bright blue sky.](/images/uploads/gornerglacierzermatt.jpg "Gornergletscher Glacier, Zermatt")
 
 #### Usually, I find the journey home from holiday rather forgettable. Not this time.
 
 To travel home, we had chosen a different route. Winding carefully down the valley again to Visp, we switched to a train that swept us right across Switzerland from south to north in a couple of hours. I had been hoping for a view of the Eiger, but we went into a long tunnel and when we came out the mountains were behind us. We spent an afternoon and night in Basel, before catching a train that followed the Rhine Valley to Köln (Cologne). That was the first of four trains that had to connect up, otherwise we would not get home that day. Well, I will spare you my many German railway anecdotes: we made it home by bed time. One holiday, five countries, three languages, many memories.
+
+> "One holiday, five countries, three languages, many memories."
 
 **My tips for a train holiday in Switzerland:**
 
@@ -63,4 +65,4 @@ To travel home, we had chosen a different route. Winding carefully down the vall
 * To enhance holiday memories, keep a journal. On a miserable wet Sunday in January, get your journal out, and stick your photos and tickets in it. 
 * Swiss Watching, by Diccon Bewes, is a very entertaining guide to Swiss culture, history and politics. Recommended reading for the train.
 
-  ![](/images/uploads/switzerland_journal_example.jpg)
+  ![A journal with a day-by-day recount, maps, photos, tickets and Swiss confectionary wrappers from throughout the trip](/images/uploads/switzerland_journal_example.jpg "Journal showcasing holiday memories including maps, tickets, photos and Swiss confectionary wrappers")
