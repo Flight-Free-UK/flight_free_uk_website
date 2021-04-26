@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Souvenir of Switzerland
 category: travel
 date: 2021-04-26T14:54:13.856Z
@@ -7,7 +7,7 @@ cover_image: /images/uploads/matterhornreflection.jpg
 summary: When was your last proper holiday? Maggie Robertson casts her mind back
   to a train journey to Switzerland.
 author: FlightFree UK
-read_time_minute: 5555
+read_time_minute: 6
 ---
 ## My last holiday – by which I mean my last proper holiday, not a visit to relatives squeezed in between school and lockdowns – was a family trip to Switzerland in August 2019. I didn’t know then how long those holiday memories would have to last me. 
 
