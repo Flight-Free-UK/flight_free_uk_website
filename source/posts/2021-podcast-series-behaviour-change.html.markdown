@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "2021 podcast series: Behaviour change"
 category: opinion
 date: 2021-04-26T11:25:49.267Z
@@ -28,6 +28,8 @@ Can you tell us a bit about the history of Veganuary?
 #### Toni
 
 It was set up by husband and wife team Jane Land and Matthew Glover. They had worked with other campaign groups that encouraged people to go vegan, but they realised human behaviour works differently, and that people are more likely to change in stages rather than suddenly going completely vegan. So they modelled Veganuary on other month-long challenges such as Movember. When they started in 2014, the aim was to get 1000 people to sign up, but 3000 people signed up! So right from the start it seemed to be something that people wanted to get behind.
+
+> "They realised human behaviour works differently, and that people are more likely to change in stages rather than suddenly."
 
 #### Rachel
 
@@ -65,11 +67,15 @@ Many of our ambassadors did the pledge in the first place then became vegan. A f
 
 It’s similar to the Flight Free pledge: people see flying as a part of their personality so they are reluctant to give it up, like Jasmin Harman with her cheese, but once you have taken on the challenge, you really enjoy it and you start to see things differently. With Veganuary it is being forced to eat differently, and with Flight Free UK it’s being forced to travel differently. 
 
+> "Once you have taken on the challenge, you really enjoy it and you start to see things differently."
+
 We focus a lot on educating people about the benefits of being flight free. Do you do the same with the Veganuary campaign?
 
 #### Toni
 
 Yes, education is a big part of it. Pledgers get 31 days of emails while taking part and they get recipes and functional stuff but they get a lot of educational material as well. People sign up for different reasons – animals, environment or health – and while we tailor the content according to their preferences, we include a bit of everything for each person. At the end of the month we ask people what they found most useful or surprising and we often get people talking about how they learned something new from the content we sent. So the education aspect is definitely behind people’s motivations to stay vegan.
+
+> "People sign up for different reasons. The education aspect is definitely behind people's motivations to stay vegan."
 
 #### Rachel
 
@@ -95,7 +101,7 @@ No, but that’s a good idea. We have wondered if we can run a second campaign i
 
 72% of people sign up for the year, 5% sign up for no leisure flights and 23% people sign up for life. Many of the people who choose a flight free year are repeat pledgers; signing up for life is too much of a commitment but it feels much more manageable signing up for a year at a time.
 
-Time for our Destination of the Month recommendation!
+#### *Time for our Destination of the Month recommendation!*
 
 This month it’s river walks. Toni, do you have a favourite river walk?
 
