@@ -9,6 +9,8 @@ summary: When was your last proper holiday? Maggie Robertson casts her mind back
 author: FlightFree UK
 read_time_minute: 6
 ---
+![Rocky mountain reflected on a body of water in day light](/images/uploads/matterhornreflectionbody.jpg "Matterhorn, Zermatt, Switzerland")
+
 ## My last holiday – by which I mean my last proper holiday, not a visit to relatives squeezed in between school and lockdowns – was a family trip to Switzerland in August 2019. I didn’t know then how long those holiday memories would have to last me.
 
 Thanks to the pandemic, much of the last year is a bit of a blur: a hamster wheel of meals, chores and a daily walk. Routine and familiarity dulls memories, whereas the novelty and variety of travel crystallizes them. That last holiday stands out like a string of fairy lights in the fog. 
