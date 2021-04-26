@@ -19,9 +19,9 @@ Well, to answer that, I have to go further back, to my very first independent jo
 
 This was so long ago it was before the Channel Tunnel, before the Euro, before even the Northern Ireland peace process. I left from Victoria Station, just a few days after it reopened following an IRA bomb. I had to take some francs to pay for the Metro across Paris, and to buy a croque monsieur at the station. And, on the overnight train from Paris to Rome, the Swiss border guards tapped on the door of our compartment and woke us up to inspect our passports. 
 
-I looked sleepily out of the window and saw it was a starry night.  But half the stars were blocked out by what I thought at first were clouds. Then I realised they were mountains, silhouettes reaching further up into the sky than any mountains I had ever seen. The train juddered into motion again, and I went back to sleep. That was the first time I saw Switzerland, and I never forgot.
-
 > "That was the first time I saw Switzerland, and I never forgot."
+
+I looked sleepily out of the window and saw it was a starry night.  But half the stars were blocked out by what I thought at first were clouds. Then I realised they were mountains, silhouettes reaching further up into the sky than any mountains I had ever seen. The train juddered into motion again, and I went back to sleep. That was the first time I saw Switzerland, and I never forgot.
 
 #### My second visit to Switzerland would be longer, and considerably more comfortable. But would it be as memorable?
 
