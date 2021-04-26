@@ -9,11 +9,9 @@ summary: Toni Vernelli from the Veganuary campaign shares her insights into how
 author: FlightFree UK
 read_time_minute: 5
 ---
-This is episode four of our 2021 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-q9pqg-101c1cb) and find other episodes and previous series [here](/podcast/).
+*This is episode four of our 2021 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-q9pqg-101c1cb) and find other episodes and previous series [here](/podcast/).*
 
 ![Image says, The Flight Free Podcast. Behaviour change with Toni Vernelli](/images/uploads/veganuary_podcast.jpg)
-
-
 
 ### This month we’re speaking to Toni Vernelli from Veganuary about behaviour change. Toni is Head of Communications and Marketing at Veganuary and has loads of insights into how we can encourage people to change their behaviour.
 
@@ -29,7 +27,7 @@ Can you tell us a bit about the history of Veganuary?
 
 It was set up by husband and wife team Jane Land and Matthew Glover. They had worked with other campaign groups that encouraged people to go vegan, but they realised human behaviour works differently, and that people are more likely to change in stages rather than suddenly going completely vegan. So they modelled Veganuary on other month-long challenges such as Movember. When they started in 2014, the aim was to get 1000 people to sign up, but 3000 people signed up! So right from the start it seemed to be something that people wanted to get behind.
 
-> "They realised human behaviour works differently, and that people are more likely to change in stages rather than suddenly."
+> "They realised human behaviour works differently. People are more likely to change in stages rather than suddenly."
 
 #### Rachel
 
