@@ -146,7 +146,7 @@ My choice is the Conham River Nature Reserve in Bristol. This is along the Avon 
 
 Our podcast recommendation of the month is Ramblings with Clare Balding
 
-Final thanks to Toni for sharing her insights with us. You can find more about Veganuary at their website \[link to Veganuary website]
+Final thanks to Toni for sharing her insights with us. You can find more about Veganuary at their [website](https://veganuary.com/).
 
 
 
