@@ -15,7 +15,9 @@ Thanks to the pandemic, much of the last year is a bit of a blur: a hamster whee
 
 #### Why Switzerland?
 
-Well, to answer that, I have to go further back, to my very first independent journey abroad, when I travelled by train from London to Florence to study Italian at a language school there. This was so long ago it was before the Channel Tunnel, before the Euro, before even the Northern Ireland peace process. I left from Victoria Station, just a few days after it reopened following an IRA bomb. I had to take some francs to pay for the Metro across Paris, and to buy a croque monsieur at the station. And, on the overnight train from Paris to Rome, the Swiss border guards tapped on the door of our compartment and woke us up to inspect our passports. I looked sleepily out of the window and saw it was a starry night.  But half the stars were blocked out by what I thought at first were clouds. Then I realised they were mountains, silhouettes reaching further up into the sky than any mountains I had ever seen. The train juddered into motion again, and I went back to sleep. That was the first time I saw Switzerland, and I never forgot.
+Well, to answer that, I have to go further back, to my very first independent journey abroad, when I travelled by train from London to Florence to study Italian at a language school there. 
+
+This was so long ago it was before the Channel Tunnel, before the Euro, before even the Northern Ireland peace process. I left from Victoria Station, just a few days after it reopened following an IRA bomb. I had to take some francs to pay for the Metro across Paris, and to buy a croque monsieur at the station. And, on the overnight train from Paris to Rome, the Swiss border guards tapped on the door of our compartment and woke us up to inspect our passports. I looked sleepily out of the window and saw it was a starry night.  But half the stars were blocked out by what I thought at first were clouds. Then I realised they were mountains, silhouettes reaching further up into the sky than any mountains I had ever seen. The train juddered into motion again, and I went back to sleep. That was the first time I saw Switzerland, and I never forgot.
 
 #### My second visit to Switzerland would be longer, and considerably more comfortable. But would it be as memorable?
 
@@ -64,5 +66,7 @@ To travel home, we had chosen a different route. Winding carefully down the vall
 * Oh, but watch out – Swiss German contains lots of English loan words, including menu items such as burger and chips, that don’t mean the same thing in Switzerland that they do in Britain.
 * To enhance holiday memories, keep a journal. On a miserable wet Sunday in January, get your journal out, and stick your photos and tickets in it. 
 * Swiss Watching, by Diccon Bewes, is a very entertaining guide to Swiss culture, history and politics. Recommended reading for the train.
+
+
 
   ![A journal with a day-by-day recount, maps, photos, tickets and Swiss confectionary wrappers from throughout the trip](/images/uploads/switzerland_journal_example.jpg "Journal showcasing holiday memories including maps, tickets, photos and Swiss confectionary wrappers")
