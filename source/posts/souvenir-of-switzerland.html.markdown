@@ -29,9 +29,11 @@ We took the train to London, then the Eurostar to Paris, a sneaky night in Paris
 
 We arrived in Switzerland in late afternoon, and easily found the last train to complete our journey. It was a double-decker commuter train, which whirred along the softly glamorous north shore of Lake Geneva to Vevey, the town where milk chocolate was invented. We spent a few days here, staying in an Air BnB at the top of a very old house near the lakeshore. 
 
-We wandered among the vineyards, took a cooking lesson at [Alimentarium](https://www.alimentarium.org/en), the food museum, and caught a paddle steamer along the lake to medieval [Chateau Chillon](https://www.chillon.ch/en/). We also made a day trip to Geneva to visit [CERN](https://home.cern), the site of the Large Hadron Collider and, more importantly, a witty multilingual visitor centre and gift shop.
-
 ![Green field and winding stone path next to a body of water in day light](/images/uploads/lakegeneva.jpg "Lake Geneva")
+
+
+
+We wandered among the vineyards, took a cooking lesson at [Alimentarium](https://www.alimentarium.org/en), the food museum, and caught a paddle steamer along the lake to medieval [Chateau Chillon](https://www.chillon.ch/en/). We also made a day trip to Geneva to visit [CERN](https://home.cern), the site of the Large Hadron Collider and, more importantly, a witty multilingual visitor centre and gift shop.
 
 #### That was part one of our holiday. 
 
