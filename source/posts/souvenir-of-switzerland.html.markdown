@@ -21,11 +21,17 @@ This was so long ago it was before the Channel Tunnel, before the Euro, before e
 
 #### My second visit to Switzerland would be longer, and considerably more comfortable. But would it be as memorable?
 
-We took the train to London, then the Eurostar to Paris, a sneaky night in Paris (you don’t get that when you fly on holiday) and then an afternoon whizzing through French countryside on the TGV to Lausanne. We arrived in Switzerland in late afternoon, and easily found the last train to complete our journey. It was a double-decker commuter train, which whirred along the softly glamorous north shore of Lake Geneva to Vevey, the town where milk chocolate was invented. We spent a few days here, staying in an Air BnB at the top of a very old house near the lakeshore. We wandered among the vineyards, took a cooking lesson at [Alimentarium](https://www.alimentarium.org/en), the food museum, and caught a paddle steamer along the lake to medieval [Chateau Chillon](https://www.chillon.ch/en/). We also made a day trip to Geneva to visit [CERN](https://home.cern), the site of the Large Hadron Collider and, more importantly, a witty multilingual visitor centre and gift shop.
+We took the train to London, then the Eurostar to Paris, a sneaky night in Paris (you don’t get that when you fly on holiday) and then an afternoon whizzing through French countryside on the TGV to Lausanne. 
+
+We arrived in Switzerland in late afternoon, and easily found the last train to complete our journey. It was a double-decker commuter train, which whirred along the softly glamorous north shore of Lake Geneva to Vevey, the town where milk chocolate was invented. We spent a few days here, staying in an Air BnB at the top of a very old house near the lakeshore. 
+
+We wandered among the vineyards, took a cooking lesson at [Alimentarium](https://www.alimentarium.org/en), the food museum, and caught a paddle steamer along the lake to medieval [Chateau Chillon](https://www.chillon.ch/en/). We also made a day trip to Geneva to visit [CERN](https://home.cern), the site of the Large Hadron Collider and, more importantly, a witty multilingual visitor centre and gift shop.
 
 ![Green field and winding stone path next to a body of water in day light](/images/uploads/lakegeneva.jpg "Lake Geneva")
 
-That was part one of our holiday. For the second part, we loaded our bags on to a train again to travel past the end of the lake, up the Rhone valley to Visp and, from there, into the mountains. Our destination was Zermatt, close to the Italian border. As the little mountain train wound higher and higher up the valley to Zermatt we found ourselves looking down on hamlets of sturdy cottages, each with a roof of overlapping sparkling stone tiles that looked like dragon scales. 
+#### That was part one of our holiday. 
+
+For the second part, we loaded our bags on to a train again to travel past the end of the lake, up the Rhone valley to Visp and, from there, into the mountains. Our destination was Zermatt, close to the Italian border. As the little mountain train wound higher and higher up the valley to Zermatt we found ourselves looking down on hamlets of sturdy cottages, each with a roof of overlapping sparkling stone tiles that looked like dragon scales. 
 
 ![Large snow covered mountain behind a small village surrounded by green hills and trees](/images/uploads/matterhorn.jpg "Matterhorn")
 
