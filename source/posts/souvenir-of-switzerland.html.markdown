@@ -68,9 +68,11 @@ In Zermatt I saw my first glacier, the Gornergletscher. This is reported to be t
 
 #### Usually, I find the journey home from holiday rather forgettable. Not this time.
 
-To travel home, we had chosen a different route. Winding carefully down the valley again to Visp, we switched to a train that swept us right across Switzerland from south to north in a couple of hours. I had been hoping for a view of the Eiger, but we went into a long tunnel and when we came out the mountains were behind us. We spent an afternoon and night in Basel, before catching a train that followed the Rhine Valley to Köln (Cologne). That was the first of four trains that had to connect up, otherwise we would not get home that day. Well, I will spare you my many German railway anecdotes: we made it home by bed time. One holiday, five countries, three languages, many memories.
+To travel home, we had chosen a different route. Winding carefully down the valley again to Visp, we switched to a train that swept us right across Switzerland from south to north in a couple of hours. I had been hoping for a view of the Eiger, but we went into a long tunnel and when we came out the mountains were behind us. 
 
-> "One holiday, five countries, three languages, many memories."
+We spent an afternoon and night in Basel, before catching a train that followed the Rhine Valley to Köln (Cologne). That was the first of four trains that had to connect up, otherwise we would not get home that day. Well, I will spare you my many German railway anecdotes: we made it home by bed time. 
+
+### One holiday, five countries, three languages, many memories.
 
 My tips for a train holiday in Switzerland:
 
@@ -83,4 +85,4 @@ My tips for a train holiday in Switzerland:
 * To enhance holiday memories, keep a journal. On a miserable wet Sunday in January, get your journal out, and stick your photos and tickets in it. 
 * Swiss Watching, by Diccon Bewes, is a very entertaining guide to Swiss culture, history and politics. Recommended reading for the train.
 
-![A holiday journal with a day-by-day account and tickets, maps, photos and Swiss confectionary wrappers.](/images/uploads/switzerland_journal_example.jpg "Journal showing holiday memories ")
+![A holiday journal with a day-by-day account and tickets, maps, photos and Swiss confectionary wrappers.](/images/uploads/switzerland_journal_example.jpg "Switzerland still life")
