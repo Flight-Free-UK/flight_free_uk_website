@@ -11,7 +11,9 @@ read_time_minute: 6
 ---
 ![Rocky mountain reflected on a body of water in day light](/images/uploads/matterhornreflectionbody.jpg "Matterhorn, Zermatt, Switzerland")
 
-## My last holiday – by which I mean my last proper holiday, not a visit to relatives squeezed in between school and lockdowns – was a family trip to Switzerland in August 2019. I didn’t know then how long those holiday memories would have to last me.
+## My last holiday – by which I mean my last *proper* holiday, not a visit to relatives squeezed in between school and lockdowns – was a family trip to Switzerland in August 2019.
+
+I didn’t know then how long those holiday memories would have to last me.
 
 Thanks to the pandemic, much of the last year is a bit of a blur: a hamster wheel of meals, chores and a daily walk. Routine and familiarity dulls memories, whereas the novelty and variety of travel crystallizes them. That last holiday stands out like a string of fairy lights in the fog. 
 
@@ -31,13 +33,11 @@ We took the train to London, then the Eurostar to Paris, a sneaky night in Paris
 
 We arrived in Switzerland in late afternoon, and easily found the last train to complete our journey. It was a double-decker commuter train, which whirred along the softly glamorous north shore of Lake Geneva to Vevey, the town where milk chocolate was invented. We spent a few days here, staying in an Air BnB at the top of a very old house near the lakeshore. 
 
-![Green field and winding stone path next to a body of water in day light](/images/uploads/lakegeneva.jpg "Lake Geneva")
-
-
+![Green field and winding stone path next to Lake Geneva with mountains in the background](/images/uploads/lakegeneva.jpg "Lake Geneva")
 
 We wandered among the vineyards, took a cooking lesson at [Alimentarium](https://www.alimentarium.org/en), the food museum, and caught a paddle steamer along the lake to medieval [Chateau Chillon](https://www.chillon.ch/en/). We also made a day trip to Geneva to visit [CERN](https://home.cern), the site of the Large Hadron Collider and, more importantly, a witty multilingual visitor centre and gift shop.
 
-#### That was part one of our holiday. 
+#### That was part one of our holiday.
 
 For the second part, we loaded our bags on to a train again to travel past the end of the lake, up the Rhone valley to Visp and, from there, into the mountains. Our destination was Zermatt, close to the Italian border. As the little mountain train wound higher and higher up the valley to Zermatt we found ourselves looking down on hamlets of sturdy cottages, each with a roof of overlapping sparkling stone tiles that looked like dragon scales. 
 
@@ -49,18 +49,20 @@ At the second to last station there is a huge car park, because cars are not all
 
 #### Are memories the real point of summer holidays?
 
-I have recently realised that I tend to enjoy a holiday far more in retrospect than I do at the time. When I am there I’m worrying about finding my accommodation, boarding the wrong train, or making mistakes in a foreign language. Or I’m arguing with other family members about what to see or where to eat. When I look back on the holiday all that fades into the background. Minor disasters become funny stories, the itineraries we fought over seem inevitable with hindsight. The best moments come to represent the holiday, like thumbnail images. 
+I have recently realised that I tend to enjoy a holiday far more in retrospect than I do at the time. When I am there I’m worrying about finding my accommodation, boarding the wrong train, or making mistakes in a foreign language. Or I’m arguing with other family members about what to see or where to eat. 
+
+When I look back on the holiday all that fades into the background. Minor disasters become funny stories, the itineraries we fought over seem inevitable with hindsight. The best moments come to represent the holiday, like thumbnail images. 
 
 > "I enjoy a holiday far more in retrospect. The best moments represent the holiday, like thumbnail images."
 
- **Here are a few of my Swiss favourites:** 
+Here are a few of my Swiss favourites:
 
 * Taking my breakfast, of an espresso coffee and a chunk of Toblerone, out onto the balcony of our apartment, and breathing in the diamond-clear air.
 * Thunder echoing around the alpine valley as rain trapped us in the cable car station at Füri. Learning that gravity is such a weak force that, when you drop your toast, it takes the mass of a WHOLE PLANET to make it fall to the floor.
 * Eating a sausage with a beer outside a Zermatt butcher’s shop. Drop one crumb from your bread and you have a little fan club of sparrows.
 * Finding brilliantly coloured wildflowers among the gravel and scree and realising for the first time why the Alps have given their name to a whole section at the garden centre.
 
-In Zermatt I saw my first glacier, the Gornergletscher. This is [reported ](https://www.theguardian.com/politics/2019/sep/30/theresa-may-i-would-rather-write-alpine-whodunnit-than-memoir)to be the glacier whose year-by-year retreat convinced Teresa May, a Zermatt regular, that climate change was really happening. Is it thanks to the Gornergletcher that, as Prime Minister, she, in 2019, committed the UK to net zero, and brought COP26 to the UK?
+In Zermatt I saw my first glacier, the Gornergletscher. This is reported to be the glacier whose year-by-year retreat [convinced Theresa May](https://www.theguardian.com/politics/2019/sep/30/theresa-may-i-would-rather-write-alpine-whodunnit-than-memoir), a Zermatt regular, that climate change was really happening. Is it thanks to the Gornergletcher that, as Prime Minister, she, in 2019, committed the UK to net zero, and brought COP26 to the UK?
 
 ![The Gornergletscher Glacier in Zermatt, snow covered mountains and a bright blue sky.](/images/uploads/gornerglacierzermatt.jpg "Gornergletscher Glacier, Zermatt")
 
@@ -70,7 +72,7 @@ To travel home, we had chosen a different route. Winding carefully down the vall
 
 > "One holiday, five countries, three languages, many memories."
 
-**My tips for a train holiday in Switzerland:**
+My tips for a train holiday in Switzerland:
 
 * We travelled using Interrail passes giving 7 days unlimited travel within one month. Children under 12 can get an Interrail pass for free. But we still had to pay for reservations for the Eurostar, the TGV and the DeutcheBahn trains. No reservations needed in Switzerland.
 * I booked everything online except the reservations for the TGV, where I needed to call a travel agent for help. Seat61.com was incredibly useful in explaining what I had to do.
@@ -80,7 +82,5 @@ To travel home, we had chosen a different route. Winding carefully down the vall
 * Oh, but watch out – Swiss German contains lots of English loan words, including menu items such as burger and chips, that don’t mean the same thing in Switzerland that they do in Britain.
 * To enhance holiday memories, keep a journal. On a miserable wet Sunday in January, get your journal out, and stick your photos and tickets in it. 
 * Swiss Watching, by Diccon Bewes, is a very entertaining guide to Swiss culture, history and politics. Recommended reading for the train.
-
-
 
 ![A holiday journal with a day-by-day account and tickets, maps, photos and Swiss confectionary wrappers.](/images/uploads/switzerland_journal_example.jpg "Journal showing holiday memories ")
