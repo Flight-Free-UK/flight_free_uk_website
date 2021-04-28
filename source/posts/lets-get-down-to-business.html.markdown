@@ -14,7 +14,7 @@ read_time_minute: 4
 
 ## A lot of people imagine that there’s a big and growing demand for business flights.
 
-## Maybe it’s because business travel demand is put forward as part of the case for airport expansion. It creates a myth that there’s this big suppressed demand for business travel. As an example, Heathrow’s case for building a third runway was “We have to have it to facilitate trade.” 
+## Maybe it’s because business travel demand is put forward as part of the case for airport expansion. It creates a myth that there’s this big suppressed demand for business travel. As an example, Heathrow’s case for building a third runway was “We have to have it to facilitate trade.”
 
 Yet if you look at the stats, business travel in the UK has been pretty much flatlining for a decade, even pre-Covid, and even before the uptick in climate concern.
 
@@ -36,19 +36,19 @@ ICAO (the International Civil Aviation Organisation, the UN agency for aviation)
 
 Many people have the view that, because of the changes we’ve made during Covid, a lot of business travel won’t return. Even Bill Gates thinks that 50% of business travel is gone for good. 
 
-This is entirely plausible. Firstly, people have formed new habits. 
-
 > "Because of the changes made during Covid, it's thought 50% of business travel has gone for good. People have formed new habits" 
 
-Zoom revenue leapt 355% in the three months to 31st July 2020 compared to the previous year. People who might have been sceptical about Zoom will have discovered that, actually, it works really well, especially when everyone does it. One person dialling in doesn’t really work. But when everyone’s on an equal footing, all appearing on screen with the same set up, it is a perfectly effective way to hold meetings.
+### This is entirely plausible. Firstly, people have formed new habits. 
 
 ![](/images/uploads/tyler-franta-office-work-job-unsplash.jpg)
 
-It’s good for inclusivity too. People can join the meeting who wouldn’t otherwise have been able to attend. Reducing travel time and time away from family is good for well-being. Perhaps most importantly, it’s cost-effective. Businesses are always looking to cut costs and if this is acceptable to their staff, it works.
+Zoom revenue leapt 355% in the three months to 31st July 2020 compared to the previous year. People who might have been sceptical about Zoom will have discovered that, actually, it works really well, especially when everyone does it. One person dialling in doesn’t really work. But when everyone’s on an equal footing, all appearing on screen with the same set up, it is a perfectly effective way to hold meetings.
 
 > "Zoom revenue leapt 355%. Sceptics discovered that, actually, it works really well. It's good for inclusivity."
 
-### Secondly, businesses are starting to take the climate crisis seriously.  
+It’s good for inclusivity too. People can join the meeting who wouldn’t otherwise have been able to attend. Reducing travel time and time away from family is good for well-being. Perhaps most importantly, it’s cost-effective. Businesses are always looking to cut costs and if this is acceptable to their staff, it works.
+
+### Secondly, businesses are starting to take the climate crisis seriously.
 
 We were talking about the climate crisis long before we were talking about the health crisis of Covid-19. There is lots of evidence that people’s concern about climate change has not been impacted by the pandemic – it remains high. So Big Business in particular is feeling the pressure to come out with a net zero strategy. If emissions from buildings and workplaces are being cut, business travel will stand out as a problem area.
 
@@ -56,9 +56,11 @@ For example, the [accountancy firm EY](https://www.ey.com/en_uk/news/2021/01/ey-
 
 Up till now, companies have been relying on offsetting. There’s been a realisation that they’re going to have to do a lot better than that in future. 
 
-Post-recession, we saw that the people in charge of the pursestrings were looking to cut flights for financial reasons. The conversation has moved on from there and employees are now expecting their firms to come out with climate commitments.
+
 
 > "Companies have been relying on offsetting. There’s been a realisation they’re going to have to do a lot better in future. "
+
+Post-recession, we saw that the people in charge of the pursestrings were looking to cut flights for financial reasons. The conversation has moved on from there and employees are now expecting their firms to come out with climate commitments.
 
 ### This reduction in business flights might be good for the climate, and for businesses and their employees, but what about the airlines?
 
