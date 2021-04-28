@@ -11,7 +11,7 @@ read_time_minute: 5
 ---
 *This is episode two of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-can-we-fly-carbon-neutral/) and find other episodes and previous series [here](/podcast).*
 
-![Image says The Flight Free podcast, Can we fly carbon neutral with Finlay Asher from Green Sky Thinking](/images/uploads/finlay_podcast.jpg)
+![Image says The Flight Free podcast, Can we fly carbon neutral with Finlay Asher from Green Sky Thinking](/images/uploads/finlay_podcast_episode_wide.jpg)
 
 ### This month we welcome Finlay Asher, a former aerospace engineer, who will be exploring the question:
 
