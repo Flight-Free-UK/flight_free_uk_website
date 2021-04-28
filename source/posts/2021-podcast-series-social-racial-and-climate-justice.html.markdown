@@ -12,7 +12,7 @@ read_time_minute: 3
 ---
 *This is episode three of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-social-racial-and-climate-justice/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast).*
 
-![Image says, The Flight Free Podcast with Armelle Ferguson, Sunita Soundur, Poppy Okotcha and Francisca Rockey](/images/uploads/poppyarmellesunitafrancisca.jpg)
+![Image shows Armelle, Sunita, Poppy and Francisca](/images/uploads/justice_podcast_episode_wide.jpg)
 
 ### This month, Sunita and Armelle from our team are talking to Poppy Okotcha and Francisca Rockey. 
 
