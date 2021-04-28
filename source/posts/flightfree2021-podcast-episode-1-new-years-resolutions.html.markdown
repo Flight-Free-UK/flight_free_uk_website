@@ -9,9 +9,9 @@ summary: To ring in the New Year we talk to Lenny, Jo, Gope, Dominick and Lizzie
 author: FlightFree UK
 read_time_minute: 2
 ---
-## This podcast is episode 1 of our #FlightFree2021 series. You can listen to the [](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/)podcast [here](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/), and access the rest of the series at our [podcast page](https://flightfree.co.uk/podcast/).
+*This podcast is episode 1 of our #FlightFree2021 series. You can listen to the [](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/)podcast [here](https://flightfreeuk.podbean.com/e/2021-series-new-years-resolutions/), and access the rest of the series at our [podcast page](https://flightfree.co.uk/podcast/).*
 
-![Picture shows a collage of close up pictures of the 5 people being interviewed in the podcast. They are all smiling. ](/images/uploads/2021jan-podcast-collage.jpg)
+![Picture shows a collage of close up pictures of the 5 people being interviewed in the podcast.](/images/uploads/ny_podcast_episode_wide.jpg)
 
 ### This month, Kirsty and Rachel are talking about New Year’s resolutions.
 
