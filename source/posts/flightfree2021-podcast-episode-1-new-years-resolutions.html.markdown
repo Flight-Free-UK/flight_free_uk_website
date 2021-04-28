@@ -1,9 +1,9 @@
 ---
 published: true
-title: "#FlightFree2021 podcast episode 1: New Year's Resolutions"
+title: "2021 podcast series episode 1: New Year's Resolutions"
 category: opinion
 date: 2021-01-19T12:37:55.433Z
-cover_image: /images/uploads/2021jan-podcast-collage.jpg
+cover_image: /images/uploads/ny_podcast_website_thumbnail.jpg
 summary: To ring in the New Year we talk to Lenny, Jo, Gope, Dominick and Lizzie
   about why they have made the Flight Free 2021 pledge.
 author: FlightFree UK
