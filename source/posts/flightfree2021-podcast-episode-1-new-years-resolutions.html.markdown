@@ -1,6 +1,6 @@
 ---
 published: true
-title: "2021 podcast series episode 1: New Year's Resolutions"
+title: "2021 podcast series: New Year's Resolutions"
 category: opinion
 date: 2021-01-19T12:37:55.433Z
 cover_image: /images/uploads/ny_podcast_website_thumbnail.jpg
