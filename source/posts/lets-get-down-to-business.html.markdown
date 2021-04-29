@@ -3,14 +3,14 @@ published: true
 title: Let's get down to business
 category: travel
 date: 2021-04-14T11:21:50.008Z
-cover_image: /images/uploads/carbon-tax.jpg
+cover_image: /images/uploads/business-meeting.jpg
 summary: The aviation industry is keen to emphasise the importance of flying for
   international business. But just how important is business flying? We talk to
   Cait Hewitt of the Aviation Environment Federation to find out.
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Worms-eye view of a plane flying between skyscrapers](/images/uploads/carbon-tax.jpg)
+![Two men working on laptops](/images/uploads/business-meeting.jpg)
 
 ## A lot of people imagine that there’s a big and growing demand for business flights.
 
@@ -18,7 +18,7 @@ Maybe it’s because business travel demand is put forward as part of the case f
 
 Yet if you look at the stats, business travel in the UK has been pretty much flatlining for a decade, even pre-Covid, and even before the uptick in climate concern.
 
-![A graph showing reasons for abroad travel from 1999-2019. Holidays are clearly the most frequent reason for travel while business flights show no real change.](/images/uploads/ons-travel-trends.jpg "Reasons for abroad travel from 1999-2019")
+![A graph showing reasons for abroad travel from 1999-2019. Holidays are clearly the most frequent reason for travel while business flights show no real change.](/images/uploads/ons-travel-trends.jpg)
 
 In the UK, visits abroad for business purposes are about 10% of all visits abroad, but the number has only grown slightly since 1999 and actually fell in 2019. Even at Heathrow, there are twice as many passengers travelling for leisure as for business, and the growth in air travel and growth in emissions has mostly come from leisure.
 
@@ -62,7 +62,7 @@ Post-recession, we saw that the people in charge of the pursestrings were lookin
 
 On average, business and first-class tickets are five times the price of an economy seat, and many airlines rely on that revenue in order to offer low prices for the rest of the seats. 
 
-![Picture shows the inside of an airplane. It is empty apart from one person wearing a full hazmat suit and mask.](/images/uploads/empty-airplane-seats.jpg)
+![Picture shows the business class section of a plane](/images/uploads/business_class.jpg)
 
 ### How is this going to affect airlines’ business models?
 
