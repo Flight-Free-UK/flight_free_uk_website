@@ -14,7 +14,7 @@ read_time_minute: 4
 
 ## A lot of people imagine that there’s a big and growing demand for business flights.
 
-## Maybe it’s because business travel demand is put forward as part of the case for airport expansion. It creates a myth that there’s this big suppressed demand for business travel. As an example, Heathrow’s case for building a third runway was “We have to have it to facilitate trade.”
+Maybe it’s because business travel demand is put forward as part of the case for airport expansion. It creates a myth that there’s this big suppressed demand for business travel. As an example, Heathrow’s case for building a third runway was “We have to have it to facilitate trade.”
 
 Yet if you look at the stats, business travel in the UK has been pretty much flatlining for a decade, even pre-Covid, and even before the uptick in climate concern.
 
