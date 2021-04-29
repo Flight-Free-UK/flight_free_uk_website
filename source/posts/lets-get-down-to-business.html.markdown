@@ -18,7 +18,7 @@ read_time_minute: 4
 
 Yet if you look at the stats, business travel in the UK has been pretty much flatlining for a decade, even pre-Covid, and even before the uptick in climate concern.
 
-![]()
+![A graph showing reasons for abroad travel from 1999-2019. Holidays are clearly the most frequent reason for travel while business flights show no real change.](/images/uploads/ons-travel-trends.jpg "Reasons for abroad travel from 1999-2019")
 
 \[insert chart here with the stats]
 
@@ -38,7 +38,7 @@ Many people have the view that, because of the changes we’ve made during Covid
 
 > "Because of the changes made during Covid, it's thought 50% of business travel has gone for good. People have formed new habits" 
 
-### This is entirely plausible. Firstly, people have formed new habits. 
+### This is entirely plausible. Firstly, people have formed new habits.
 
 ![](/images/uploads/tyler-franta-office-work-job-unsplash.jpg)
 
@@ -55,8 +55,6 @@ We were talking about the climate crisis long before we were talking about the h
 For example, the [accountancy firm EY](https://www.ey.com/en_uk/news/2021/01/ey-announces-ambition-to-be-carbon-negative-in-2021) has committed to cut its whole company emissions to net zero by 2025, and reduce business travel emissions by 35%.  EY has 300,00 employees in over 150 countries, so that’s significant. 
 
 Up till now, companies have been relying on offsetting. There’s been a realisation that they’re going to have to do a lot better than that in future. 
-
-
 
 > "Companies have been relying on offsetting. There’s been a realisation they’re going to have to do a lot better in future. "
 
@@ -80,7 +78,7 @@ In the short term, and even in the long term, this could reduce demand for trans
 
 ### So how does this all impact upon the future of business travel?
 
-There’s a report by McKinsey [**link**] predicting that trade events won’t happen any more. Travel within a company for training or for meetings is going to be decimated. 
+There’s a [report by McKinsey](https://www.mckinsey.com/~/media/mckinsey/industries/travel%20transport%20and%20logistics/our%20insights/the%20travel%20industry%20turned%20upside%20down%20insights%20analysis%20and%20actions%20for%20travel%20executives/the-travel-industry-turned-upside-down-insights-analysis-and-actions-for-travel-executives.pdf) predicting that trade events won’t happen any more. Travel within a company for training or for meetings is going to be decimated. 
 
 People will stand back and say, “How many of those trips were beneficial to the business or to me?” If they were beneficial, could those benefits be delivered in other ways?  For example, if it was just to take a break or get away from the office, can we do that differently?
 
