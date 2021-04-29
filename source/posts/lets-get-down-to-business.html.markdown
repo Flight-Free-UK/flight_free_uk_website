@@ -14,15 +14,13 @@ read_time_minute: 4
 
 ## A lot of people imagine that there’s a big and growing demand for business flights.
 
-Maybe it’s because business travel demand is put forward as part of the case for airport expansion. It creates a myth that there’s this big suppressed demand for business travel. As an example, Heathrow’s case for building a third runway was “We have to have it to facilitate trade.”
+Maybe it’s because business travel demand is put forward as part of the case for airport expansion. It creates a myth that there’s a big suppressed demand for business travel. As an example, Heathrow’s case for building a third runway was “We have to have it to facilitate trade.”
 
 Yet if you look at the stats, business travel in the UK has been pretty much flatlining for a decade, even pre-Covid, and even before the uptick in climate concern.
 
 ![A graph showing reasons for abroad travel from 1999-2019. Holidays are clearly the most frequent reason for travel while business flights show no real change.](/images/uploads/ons-travel-trends.jpg)
 
 In the UK, visits abroad for business purposes are about 10% of all visits abroad, but the number has only grown slightly since 1999 and actually fell in 2019. Even at Heathrow, there are twice as many passengers travelling for leisure as for business, and the growth in air travel and growth in emissions has mostly come from leisure.
-
-> "There are twice as many passengers travelling for leisure. The growth in air travel and emissions has mostly come from leisure."
 
 ### So why do we think that it is business flights that are the problem?
 
@@ -34,15 +32,13 @@ ICAO (the International Civil Aviation Organisation, the UN agency for aviation)
 
 Many people have the view that, because of the changes we’ve made during Covid, a lot of business travel won’t return. Even Bill Gates thinks that 50% of business travel is gone for good. 
 
-> "Because of the changes made during Covid, it's thought 50% of business travel has gone for good." 
-
 ### This is entirely plausible. Firstly, people have formed new habits.
 
 ![Image shows a typical office set-up with a man working on a laptop.](/images/uploads/tyler-franta-office-work-job-unsplash.jpg)
 
 Zoom revenue leapt 355% in the three months to 31st July 2020 compared to the previous year. People who might have been sceptical about Zoom will have discovered that, actually, it works really well, especially when everyone does it. One person dialling in doesn’t really work. But when everyone’s on an equal footing, all appearing on screen with the same set up, it is a perfectly effective way to hold meetings.
 
-> "Zoom revenue leapt 355%. Sceptics discovered that, actually, it works really well. It's good for inclusivity."
+> "Because of the changes made during Covid, it's thought 50% of business travel has gone for good." 
 
 It’s good for inclusivity too. People can join the meeting who wouldn’t otherwise have been able to attend. Reducing travel time and time away from family is good for well-being. Perhaps most importantly, it’s cost-effective. Businesses are always looking to cut costs and if this is acceptable to their staff, it works.
 
