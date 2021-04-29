@@ -40,7 +40,7 @@ Many people have the view that, because of the changes we’ve made during Covid
 
 ### This is entirely plausible. Firstly, people have formed new habits.
 
-![](/images/uploads/tyler-franta-office-work-job-unsplash.jpg)
+![Image shows a typical office set-up with a man working on a laptop.](/images/uploads/tyler-franta-office-work-job-unsplash.jpg)
 
 Zoom revenue leapt 355% in the three months to 31st July 2020 compared to the previous year. People who might have been sceptical about Zoom will have discovered that, actually, it works really well, especially when everyone does it. One person dialling in doesn’t really work. But when everyone’s on an equal footing, all appearing on screen with the same set up, it is a perfectly effective way to hold meetings.
 
@@ -64,7 +64,7 @@ Post-recession, we saw that the people in charge of the pursestrings were lookin
 
 On average, business and first-class tickets are five times the price of an economy seat, and many airlines rely on that revenue in order to offer low prices for the rest of the seats. 
 
-![](/images/uploads/empty-airplane-seats.jpg)
+![Picture shows the inside of an airplane. It is empty apart from one person wearing a full hazmat suit and mask.](/images/uploads/empty-airplane-seats.jpg)
 
 ### How is this going to affect airlines’ business models?
 
