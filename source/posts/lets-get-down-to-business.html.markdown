@@ -81,3 +81,5 @@ People will stand back and say, “How many of those trips were beneficial to th
 In the last year or so we’ve been forced to change our behaviour, and it looks likely that a lot of that will stick when it comes to business travel. We have been forced to act differently and form new habits. It’s also dawning on people that air travel is going to be problematic in terms of reaching our climate commitments. 
 
 ### With the coming together of the climate crisis and the global health emergency, if there ever was a moment to reset our expectations of business travel, surely it’s now.
+
+*Cait Hewitt is Deputy Director at the [AEF](https://www.aef.org.uk/)*
