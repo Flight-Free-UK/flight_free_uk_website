@@ -20,11 +20,9 @@ Yet if you look at the stats, business travel in the UK has been pretty much fla
 
 ![A graph showing reasons for abroad travel from 1999-2019. Holidays are clearly the most frequent reason for travel while business flights show no real change.](/images/uploads/ons-travel-trends.jpg "Reasons for abroad travel from 1999-2019")
 
-\[insert chart here with the stats]
-
 In the UK, visits abroad for business purposes are about 10% of all visits abroad, but the number has only grown slightly since 1999 and actually fell in 2019. Even at Heathrow, there are twice as many passengers travelling for leisure as for business, and the growth in air travel and growth in emissions has mostly come from leisure.
 
-> "There are twice as many passengers travelling for leisure. The growth in air travel and emission has mostly come from leisure."
+> "There are twice as many passengers travelling for leisure. The growth in air travel and emissions has mostly come from leisure."
 
 ### So why do we think that it is business flights that are the problem?
 
@@ -36,7 +34,7 @@ ICAO (the International Civil Aviation Organisation, the UN agency for aviation)
 
 Many people have the view that, because of the changes we’ve made during Covid, a lot of business travel won’t return. Even Bill Gates thinks that 50% of business travel is gone for good. 
 
-> "Because of the changes made during Covid, it's thought 50% of business travel has gone for good. People have formed new habits" 
+> "Because of the changes made during Covid, it's thought 50% of business travel has gone for good." 
 
 ### This is entirely plausible. Firstly, people have formed new habits.
 
