@@ -28,6 +28,8 @@ Everyone knows someone who flies for business. But actually, people who work in 
 
 With the pandemic, it’s estimated that business travel fell by 70-90% in 2020.
 
+> "Because of the changes made during Covid, it's thought 50% of business travel has gone for good." 
+
 ICAO (the International Civil Aviation Organisation, the UN agency for aviation) says that last year, globally, air travel was 60% down. The aviation industry is planning to publish a recovery plan soon. But the industry was already in poor health, even before Covid hit, so the “aviation recovery plan” is a bit ironic. What are they recovering to? An industry that was already struggling?
 
 Many people have the view that, because of the changes we’ve made during Covid, a lot of business travel won’t return. Even Bill Gates thinks that 50% of business travel is gone for good. 
@@ -37,8 +39,6 @@ Many people have the view that, because of the changes we’ve made during Covid
 ![Image shows a typical office set-up with a man working on a laptop.](/images/uploads/tyler-franta-office-work-job-unsplash.jpg)
 
 Zoom revenue leapt 355% in the three months to 31st July 2020 compared to the previous year. People who might have been sceptical about Zoom will have discovered that, actually, it works really well, especially when everyone does it. One person dialling in doesn’t really work. But when everyone’s on an equal footing, all appearing on screen with the same set up, it is a perfectly effective way to hold meetings.
-
-> "Because of the changes made during Covid, it's thought 50% of business travel has gone for good." 
 
 It’s good for inclusivity too. People can join the meeting who wouldn’t otherwise have been able to attend. Reducing travel time and time away from family is good for well-being. Perhaps most importantly, it’s cost-effective. Businesses are always looking to cut costs and if this is acceptable to their staff, it works.
 
