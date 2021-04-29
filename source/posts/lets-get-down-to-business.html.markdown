@@ -2,7 +2,7 @@
 published: true
 title: Let's get down to business
 category: travel
-date: 2021-04-27T11:21:50.008Z
+date: 2021-04-14T11:21:50.008Z
 cover_image: /images/uploads/carbon-tax.jpg
 summary: The aviation industry is keen to emphasise the importance of flying for
   international business. But just how important is business flying? We talk to
