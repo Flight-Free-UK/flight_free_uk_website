@@ -58,7 +58,8 @@ When I look back on the holiday, all that fades into the background. Minor disas
 Here are a few of my Swiss favourites:
 
 * Taking my breakfast, of an espresso coffee and a chunk of Toblerone, out onto the balcony of our apartment, and breathing in the diamond-clear air.
-* Thunder echoing around the alpine valley as rain trapped us in the cable car station at Füri. Learning that gravity is such a weak force that, when you drop your toast, it takes the mass of a WHOLE PLANET to make it fall to the floor.
+* Thunder echoing around the alpine valley as rain trapped us in the cable car station at Füri.
+* Learning that gravity is such a weak force that, when you drop your toast, it takes the mass of a WHOLE PLANET to make it fall to the floor.
 * Eating a sausage with a beer outside a Zermatt butcher’s shop. Drop one crumb from your bread and you have a little fan club of sparrows.
 * Finding brilliantly coloured wildflowers among the gravel and scree and realising for the first time why the Alps have given their name to a whole section at the garden centre.
 
