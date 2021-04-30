@@ -67,7 +67,7 @@ In Zermatt I saw my first glacier, the Gornergletscher. This is reported to be t
 
 ![The Gornergletscher Glacier in Zermatt, snow covered mountains and a bright blue sky.](/images/uploads/gornerglacierzermatt.jpg "Gornergletscher Glacier, Zermatt")
 
-#### Usually, I find the journey home from holiday rather forgettable. Not this time.
+#### Usually, I find the journey home from a holiday rather forgettable. Not this time.
 
 To travel home, we had chosen a different route. Winding carefully down the valley again to Visp, we switched to a train that swept us right across Switzerland from south to north in a couple of hours. I had been hoping for a view of the Eiger, but we went into a long tunnel and when we came out the mountains were behind us. 
 
