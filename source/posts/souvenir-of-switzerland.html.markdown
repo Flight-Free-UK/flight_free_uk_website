@@ -39,7 +39,7 @@ We wandered among the vineyards, took a cooking lesson at [Alimentarium](https:/
 
 #### That was part one of our holiday.
 
-For the second part, we loaded our bags on to a train again to travel past the end of the lake, up the Rhone valley to Visp and, from there, into the mountains. Our destination was Zermatt, close to the Italian border. As the little mountain train wound higher and higher up the valley to Zermatt we found ourselves looking down on hamlets of sturdy cottages, each with a roof of overlapping sparkling stone tiles that looked like dragon scales. 
+For the second part, we loaded our bags on to a train again to travel past the end of the lake, up the Rhone valley to Visp and, from there, into the mountains. Our destination was Zermatt, close to the Italian border. As the little mountain train wound higher and higher up the valley we found ourselves looking down on hamlets of sturdy cottages, each with a roof of overlapping sparkling stone tiles that looked like dragon scales. 
 
 ![Large snow covered mountain behind a small village surrounded by green hills and trees](/images/uploads/matterhorn.jpg "Matterhorn")
 
