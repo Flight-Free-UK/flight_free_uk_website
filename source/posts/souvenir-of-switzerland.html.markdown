@@ -78,8 +78,8 @@ We spent an afternoon and night in Basel, before catching a train that followed 
 My tips for a train holiday in Switzerland:
 
 * We travelled using Interrail passes giving 7 days unlimited travel within one month. Children under 12 can get an Interrail pass for free. But we still had to pay for reservations for the Eurostar, the TGV and the DeutcheBahn trains. No reservations needed in Switzerland.
-* I booked everything online except the reservations for the TGV, where I needed to call a travel agent for help. Seat61.com was incredibly useful in explaining what I had to do.
-* On a busy train there may be a lot of competition for luggage space. Take a squashy bag that you can lift to put on the overhead luggage rack if needed. 
+* I booked everything online except the reservations for the TGV, where I needed to call a travel agent for help. [Seat61.com](https://www.seat61.com/) was incredibly useful in explaining what I had to do.
+* On a busy train there might be a lot of competition for luggage space. Take a squashy bag that you can lift to put on the overhead luggage rack if needed. 
 * Eating out in Switzerland is very expensive, so we stayed in apartments and ate a lot of picnics. 
 * Everyone we met in Switzerland spoke English, not for the benefit of British visitors, but because French-speaking Swiss people don’t like speaking German and German-speaking Swiss people don’t see why they should speak French. English is everyone’s neutral second language.
 * Oh, but watch out – Swiss German contains lots of English loan words, including menu items such as burger and chips, that don’t mean the same thing in Switzerland that they do in Britain.
