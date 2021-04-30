@@ -51,7 +51,7 @@ At the second to last station there is a huge car park, because cars are not all
 
 I have recently realised that I tend to enjoy a holiday far more in retrospect than I do at the time. When I am there I’m worrying about finding my accommodation, boarding the wrong train, or making mistakes in a foreign language. Or I’m arguing with other family members about what to see or where to eat. 
 
-When I look back on the holiday all that fades into the background. Minor disasters become funny stories, the itineraries we fought over seem inevitable with hindsight. The best moments come to represent the holiday, like thumbnail images. 
+When I look back on the holiday, all that fades into the background. Minor disasters become funny stories, the itineraries we fought over seem inevitable with hindsight. The best moments come to represent the holiday, like thumbnail images. 
 
 > "I enjoy a holiday far more in retrospect. The best moments represent the holiday, like thumbnail images."
 
