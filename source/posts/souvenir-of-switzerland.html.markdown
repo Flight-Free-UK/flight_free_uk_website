@@ -29,9 +29,9 @@ I looked sleepily out of the window and saw it was a starry night.  But half the
 
 #### My second visit to Switzerland would be longer, and considerably more comfortable. But would it be as memorable?
 
-We took the train to London, then the Eurostar to Paris, a sneaky night in Paris (you don’t get that when you fly on holiday) and then an afternoon whizzing through French countryside on the TGV to Lausanne. 
+We took the train to London, then the Eurostar to Paris, had a sneaky night in Paris (you don’t get that when you fly on holiday) and then an afternoon whizzing through the French countryside on the TGV to Lausanne. 
 
-We arrived in Switzerland in late afternoon, and easily found the last train to complete our journey. It was a double-decker commuter train, which whirred along the softly glamorous north shore of Lake Geneva to Vevey, the town where milk chocolate was invented. We spent a few days here, staying in an Air BnB at the top of a very old house near the lakeshore. 
+We arrived in Switzerland late afternoon and easily found the last train to complete our journey. It was a double-decker commuter train, which whirred along the softly glamorous north shore of Lake Geneva to Vevey, the town where milk chocolate was invented. We spent a few days there, staying in an Air BnB at the top of a very old house near the lakeshore. 
 
 ![Green field and winding stone path next to Lake Geneva with mountains in the background](/images/uploads/lakegeneva.jpg "Lake Geneva")
 
