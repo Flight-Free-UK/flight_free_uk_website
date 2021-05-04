@@ -60,8 +60,6 @@ On average, business and first-class tickets are five times the price of an econ
 
 ![Picture shows the business class section of a plane](/images/uploads/business_class.jpg)
 
-### How is this going to affect airlines’ business models?
-
 It’s the long-haul routes that have those premium seats available that are going to suffer. For transatlantic routes, 10% of tickets are for premium seats, and they make up 50% of the revenue. So you don’t need to lose many of those passengers before the profitability of that journey starts to come into question. So do you reduce the frequency of flights? Push up prices on other seats?
 
 > "10% of tickets are for premium seats, and they make up 50% of the revenue."
