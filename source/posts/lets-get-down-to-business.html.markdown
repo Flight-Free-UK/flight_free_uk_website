@@ -24,7 +24,7 @@ In the UK, visits abroad for business purposes are about 10% of all visits abroa
 
 ### So why do we think that it is business flights that are the problem?
 
-Everyone knows someone who flies for business. Actually, people who work in jobs that require air travel make up a very small proportion of the UK population. But still, advertising and other narratives lead us to believe that business flyers are the problem.
+Everyone knows someone who flies for business. We compare their frequent trips abroad to our own annual holiday. But actually, people who work in jobs that require air travel make up a very small proportion of the UK population. The holiday market is much, much larger. Still, advertising and other narratives lead us to believe that business flyers are the problem.
 
 With the pandemic, it’s estimated that business travel fell by 70-90% in 2020.
 
