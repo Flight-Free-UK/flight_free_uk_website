@@ -24,13 +24,13 @@ In the UK, visits abroad for business purposes are about 10% of all visits abroa
 
 ### So why do we think that it is business flights that are the problem?
 
-Everyone knows someone who flies for business. But actually, people who work in jobs that require air travel make up a very small proportion of the UK population. 
+Everyone knows someone who flies for business. Actually, people who work in jobs that require air travel make up a very small proportion of the UK population. But still, advertising and other narratives lead us to believe that business flyers are the problem.
 
 With the pandemic, it’s estimated that business travel fell by 70-90% in 2020.
 
 > "Because of the changes made during Covid, it's thought 50% of business travel has gone for good." 
 
-ICAO (the International Civil Aviation Organisation, the UN agency for aviation) says that last year, globally, air travel was 60% down. The aviation industry is planning to publish a recovery plan soon. But the industry was already in poor health, even before Covid hit, so the “aviation recovery plan” is a bit ironic. What are they recovering to? An industry that was already struggling?
+ICAO (the International Civil Aviation Organisation, the UN agency for aviation) says that last year, globally, air travel was 60% down. 
 
 Many people have the view that, because of the changes we’ve made during Covid, a lot of business travel won’t return. Even Bill Gates thinks that 50% of business travel is gone for good. 
 
