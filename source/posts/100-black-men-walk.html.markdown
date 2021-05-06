@@ -37,7 +37,9 @@ Lots of the people we work with have not been exposed to natural green spaces an
 
 > "Lots of the people we work with have not been exposed to natural green spaces. They are limited in scope when it comes to visiting or accessing spaces."
 
-### Where do you go on your walks, and do you have any favourite places?
+### What do you love about walking? Where do you go on your walks, and do you have any favourite places?
+
+Humans have always walked in the form of protests, pilgrimage, discovering new places or reconnecting with the natural world. Walking is therapeutic: when one walks, especially in natural landscapes, it gives a sense of freedom and makes you realise you are part of a greater energy. Walking is good for your mental and physical wellbeing as well as for companionship.
 
 Most of our walks take place in the Peak District National Park. We walk no matter the weather. It is not about the weather, it is how you dress! We take turns to lead walks and are always discovering new walking trails. 
 
@@ -52,6 +54,8 @@ I suppose the Covid-19 pandemic has demonstrated how important access to nature 
 > "The Covid-19 pandemic has demonstrated how important access to nature is for our health and well-being."
 
 Access to natural green space is very important, but in many cases it is made difficult by a lack of affordable public transport or lack of awareness of where these places are. Reliable and well-routed bus services will encourage and motivate people to have genuine travel experience without having to travel far. 
+
+I agree that it's possible to find adventure and have exciting experiences here in the UK without having to fly halfway around the world. However, the groups I work with have limited exposure and information about what is out there in Britain. People will only travel locally if they feel a sense of belonging so that when they visit they will not be treated as strangers in their own country. Where people experience racism or are not made to feel a sense of belonging this will discourage them from wanting to visit, revisit or recommend to friends and families to visit.
 
 ### Our main motivation is encouraging people not to fly because of our precarious climate situation. What would you say to encourage people to travel less or to travel in climate-friendly ways? Why is it so important that we do this and why are you personally motivated to work in the environmental sector?
 
