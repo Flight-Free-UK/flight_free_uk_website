@@ -10,7 +10,7 @@ summary: The aviation industry is keen to emphasise the importance of flying for
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Two men working on laptops](/images/uploads/business-meeting.jpg)
+![Two men working on laptops ](/images/uploads/business-meeting.jpg)
 
 ## A lot of people imagine that there’s a big and growing demand for business flights.
 
