@@ -1,7 +1,7 @@
 ---
 published: true
 title: Let's get down to business
-category: travel
+category: opinion
 date: 2021-04-14T11:21:50.008Z
 cover_image: /images/uploads/business-meeting.jpg
 summary: The aviation industry is keen to emphasise the importance of flying for
