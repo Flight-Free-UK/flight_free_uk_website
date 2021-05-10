@@ -62,15 +62,15 @@ Yes, it absolutely was. I don’t see my experience there as a failure. It was a
 
 You wrote a song which became a bit of a Grow anthem. Can you tell us a bit about the lyrics and the inspiration behind the song? 
 
-&nbsp;*Cold the hearts of our foe but bold are the warriors*
+&nbsp;&nbsp;*Cold the hearts of our foe but bold are the warriors*
 
-&nbsp;*Swords drawn carry on, carry on, carry on 'til your armour is torn*
+&nbsp;&nbsp;*Swords drawn carry on, carry on, carry on 'til your armour is torn*
 
-&nbsp;*Hold this line, this sacred grove, the elders that we call home, we call home,*
+&nbsp;&nbsp;*Hold this line, this sacred grove, the elders that we call home, we call home,*
 
-&nbsp;*Long we sat here hearing their elder song*
+&nbsp;&nbsp;*Long we sat here hearing their elder song*
 
-&nbsp;*Now only axes shall sing* 
+&nbsp;&nbsp;*Now only axes shall sing* 
 
 #### Sel
 
