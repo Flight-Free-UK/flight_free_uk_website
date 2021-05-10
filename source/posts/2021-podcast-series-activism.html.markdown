@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "2021 podcast series: Activism"
 category: opinion
 date: 2021-05-10T10:57:15.144Z
@@ -11,7 +11,7 @@ read_time_minute: 10
 ---
 ![Image shows Sel playing a banjo wearing a pointed hat, Ian standing infront of a waterfall and Anna in a forested area.](/images/uploads/05may_episode_blog.jpg)
 
-*This is episode 5 of our 2021 podcast series. Listen to the episode [here ](https://www.podbean.com/ew/pb-bsuvj-103113e)and find other episodes and previous series [here](/podcast/).*
+*This is episode 5 of our 2021 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-bsuvj-103113e) and find other episodes and previous series [here](/podcast/).*
 
 ## This month we’re joined by Sel from Grow Heathrow, Ian from GALBA and Alice from Sky Rebellion to talk about activism.
 
@@ -38,7 +38,7 @@ What was it like living there?
 
 #### Sel
 
-The first few months were like heaven. You wake up to the sound of the wind turbines, the sound of the future, and the song birds. I had a tent underneath a damson tree so I would wake up to the sound of birdsong each day. As time went on it was a little less Utopian but it's still better than living in the Capitalist system.
+The first few months were like heaven. You wake up to the sound of the wind turbines, the sound of the future, and the songbirds. I had a tent underneath a damson tree so I would wake up to the sound of birdsong each day. As time went on it was a little less Utopian but it's still better than living in the Capitalist system.
 
 #### Rachel
 
@@ -46,7 +46,7 @@ How many people lived there? Were you all there with a common goal?
 
 #### Sel
 
-You had people come and go. There was a hard core of activists who were fully involved in the protest and activism side of things, and there were some people who were more about living off grid. Even me – sometimes I was there to cook and to grow and to show people round.
+You had people come and go. There was a hard core of activists who were fully involved in the protest and activism side of things, and there were some people who were more about living off-grid. Even me – sometimes I was there to cook and to grow and to show people around.
 
 You have to learn how to work together and disagree with people and how to deal with disputes. It's hard to be an activist and live in difficult situations because we can’t transcend society.
 
@@ -62,15 +62,15 @@ Yes, it absolutely was. I don’t see my experience there as a failure. It was a
 
 You wrote a song which became a bit of a Grow anthem. Can you tell us a bit about the lyrics and the inspiration behind the song? 
 
-Cold the hearts of our foe but bold are the warriors
-Swords drawn carry on, carry on, carry on til your armour is torn
-Hold this line, this sacred grove, the elders that we call home, we call home,
-Long we sat here hearing their elder song
-Now only axes shall sing
+> > *Cold the hearts of our foe but bold are the warriors
+> > Swords drawn carry on, carry on, carry on til your armour is torn
+> > Hold this line, this sacred grove, the elders that we call home, we call home,
+> > Long we sat here hearing their elder song
+> > Now only axes shall sing* 
 
 #### Sel
 
-It's about the excitement of Grow Heathrow, the sacred aspect, the ritual aspect of living in the woods, the courage of my friends. We were eco warriors, we were fighting. The song ends with ‘now only axes shall sing’ which is a metaphor for the woods being chopped down. But we fought it and the legend lives on.
+It's about the excitement of Grow Heathrow, the sacred aspect, the ritual aspect of living in the woods, the courage of my friends. We were eco-warriors, we were fighting. The song ends with ‘now only axes shall sing’ which is a metaphor for the woods being chopped down. But we fought it and the legend lives on.
 
 #### Rachel
 
@@ -219,6 +219,5 @@ My favourite is the Vercors in France. It's essentially a plateau just off the R
 ### Huge thanks to Sel, Alice and Ian for joining us today. Really powerful and inspiring stuff.
 
 *Listen to the full episode [here ](https://www.podbean.com/ew/pb-bsuvj-103113e)\[link to Podbean/hosting site] and find other episodes and previous series [here](/podcast/).*
-
 
 *Voiceover: L. Sophie Helbig. Soundtrack: Chasing Balloons by Yeti Music.*
