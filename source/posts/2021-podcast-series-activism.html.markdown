@@ -5,7 +5,7 @@ category: opinion
 date: 2021-05-10T10:57:15.144Z
 cover_image: /images/uploads/05may_episode_thumbnail.jpg
 summary: Sel from Grow Heathrow, Ian from GALBA and Alice from Sky Rebellion
-  talk about their experiences with activism.
+  talk to us about their experiences as aviation activists.
 author: FlightFree UK
 read_time_minute: 8
 ---
@@ -22,6 +22,7 @@ First up, it's Sel. Can you tell us what Grow Heathrow is all about?
 #### Sel
 
 Grow Heathrow started as a transition town to build a resilient community to transition away from fossil fuels. The community aspect was inseparable from the activism aspect. 
+
 We were based in Sipson near Heathrow, and it was all about working with the locals and resisting the Heathrow runway which would make that area uninhabitable. One village, Longford, would be totally annihilated. So the interests of frequent fliers are being put over people’s homes. 
 
 #### Flight Free UK
@@ -46,7 +47,7 @@ How many people lived there? Were you all there with a common goal?
 
 #### Sel
 
-You had people come and go. There was a hard core of activists who were fully involved in the protest and activism side of things, and there were some people who were more about living off-grid. Even me – sometimes I was there to cook and to grow and to show people around.
+You had people come and go. There was a hard core of activists who were fully involved in the protest and activism side of things, and there were some people who were more about living off-grid. Even me – sometimes I was just there to cook and to grow and to show people around.
 
 You have to learn how to work together and disagree with people and how to deal with disputes. It's hard to be an activist and live in difficult situations because we can’t transcend society.
 
@@ -180,32 +181,10 @@ The other thing I’ve learned is that when we as individuals come together we c
 
 #### *Destination of the month*
 
-This month we're choosing a mountain destination that you can reach without flying. Mountains are about sturdiness and strength, how we want to be as activists. Where would you recommend this month?
+This month we're choosing a mountain destination that you can reach without flying. Anna recommends the Cairngorms in Scotland, and the Atlas Mountains. Rachel recommends the Brecon Beacons and the French Alps. Sel says he has never actually beheld a mountain, which is quite dreadful as a nature-loving eco-warrior! Alice recommends Ben Nevis, and Ian recommends the Vercors in France.
 
-#### Anna
+### Huge thanks to Sel, Alice and Ian for joining us today. 
 
-The Cairngorms in Scotland. I took the sleeper train to Inverness and then cycling in the Cairngorms. It's beautiful and easy to get around. 
-
-I'm also going to pick a non-UK destination, the Atlas Mountains. I haven't been there but I'd love to. If you take the train through Spain then cross over the Strait of Gibraltar on the Ferry, then you're in Morocco then it's a short train journey. 
-
-#### Rachel
-
-I'm also going to choose two. The first are the Brecon Beacons. I grew up in Cardiff, we used to go every weekend, whatever the weather. The other one is the Alps, I've been there in all weathers, skiing, mountain biking, walking, the food and drink is incredible. 
-
-#### Sel
-
-I've never actually beheld a mountain myself, which is quite dreadful as a nature-loving eco-warrior!
-
-#### Alice
-
-I loved Ben Nevis. You get to the cloud level, it's so amazing when you go into an alternate reality, it's all snow even though it's quite warm. The snowy rocky landscape is brilliant. 
-
-#### Ian
-
-My favourite is the Vercors in France. It's essentially a plateau just off the Rhône Valley. It's probably hundreds of square miles with cliffs all around it, it's just spectacular.
-
-### Huge thanks to Sel, Alice and Ian for joining us today. Really powerful and inspiring stuff.
-
-*Listen to the full episode [here ](https://www.podbean.com/ew/pb-bsuvj-103113e)\[link to Podbean/hosting site] and find other episodes and previous series [here](/podcast/).*
+*Listen to the full episode [here](https://www.podbean.com/ew/pb-bsuvj-103113e) and find other episodes and previous series [here](/podcast/).*
 
 *Voiceover: L. Sophie Helbig. Soundtrack: Chasing Balloons by Yeti Music.*
