@@ -183,8 +183,8 @@ The other thing I’ve learned is that when we as individuals come together we c
 
 This month we're choosing a mountain destination that you can reach without flying. Anna recommends the Cairngorms in Scotland, and the Atlas Mountains. Rachel recommends the Brecon Beacons and the French Alps. Sel says he has never actually beheld a mountain, which is quite dreadful as a nature-loving eco-warrior! Alice recommends Ben Nevis, and Ian recommends the Vercors in France.
 
-### Huge thanks to Sel, Alice and Ian for joining us today. 
+### Huge thanks to Sel, Alice and Ian for joining us today.
 
 *Listen to the full episode [here](https://www.podbean.com/ew/pb-bsuvj-103113e) and find other episodes and previous series [here](/podcast/).*
 
-*Voiceover: L. Sophie Helbig. Soundtrack: Chasing Balloons by Yeti Music.*
+*Voiceover: [L. Sophie Helbig](https://lshelbig.com/main/). Soundtrack: [Chasing Balloons by Yeti Music](https://uppbeat.io/track/yeti-music/chasing-balloons).*
