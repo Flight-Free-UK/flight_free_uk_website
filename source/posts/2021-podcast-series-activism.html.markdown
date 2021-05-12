@@ -9,7 +9,7 @@ summary: Sel from Grow Heathrow, Ian from GALBA and Alice from Sky Rebellion
 author: FlightFree UK
 read_time_minute: 8
 ---
-*This is episode 5 of our 2021 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-bsuvj-103113e) and find other episodes and previous series [here](/podcast/).*
+*This is episode 5 of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-activism/) and find other episodes and previous series [here](/podcast/).*
 
 ![Image shows Sel playing a banjo wearing a pointed hat, Ian standing infront of a waterfall and Anna in a forested area.](/images/uploads/05may_episode_blog.jpg)
 
@@ -185,6 +185,6 @@ This month we're choosing a mountain destination that you can reach without flyi
 
 ### Huge thanks to Sel, Alice and Ian for joining us today.
 
-*Listen to the full episode [here](https://www.podbean.com/ew/pb-bsuvj-103113e) and find other episodes and previous series [here](/podcast/).*
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-activism/) and find other episodes and previous series [here](/podcast/).*
 
 *Voiceover: [L. Sophie Helbig](https://lshelbig.com/main/). Soundtrack: [Chasing Balloons by Yeti Music](https://uppbeat.io/track/yeti-music/chasing-balloons).*
