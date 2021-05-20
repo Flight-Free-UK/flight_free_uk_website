@@ -1,4 +1,12 @@
 members:
+  - name: Alan Lorcan
+    role: Admin
+    bio: Alan is a science teacher, swing dance teacher and tour guide based in
+      London. He has recently been inspired to change his personal habits, and
+      wants to encourage others to also make low-carbon choices. He is taking an
+      environmental science course at the Open University and hopes to have a
+      future in environmental education.
+    photo: /images/uploads/alan.jpg
   - name: Amy Morgan
     bio: Amy is a BA Geography graduate based near Sheffield. After studying the
       climate crisis at university she felt compelled to make personal changes.
@@ -14,6 +22,14 @@ members:
     name: Anna Hughes
     photo: /images/uploads/sitting-portrait-square.jpeg
     role: Director
+  - name: Bertie Lloyd
+    role: Social Media
+    bio: Bertie is a recent MSc Environmental Policy and Management graduate
+      currently living in London. Having written his dissertation on the future
+      of air travel sustainability, he is keen to use the experiences gained
+      from this to help engage people with the environmental issues related to
+      flying.
+    photo: /images/uploads/bertie-lloyd.jpg
   - name: Emily Smith
     role: Admin
     photo: /images/uploads/emilysmith.jpg
