@@ -92,6 +92,6 @@ It is incumbent on a government to act in the best interests of all, which inclu
 
 ### In a time of climate emergency, and on a finite planet, it is more important than ever to be a world leader on climate action. Any reduction in tax on this highly-polluting form of transport would be a mistake and would take us further away from our climate targets.
 
-*This commentary makes up the basis of our response to the government's consultation on APD. To read the consultation and submit your response, go [here](https://www.gov.uk/government/consultations/consultation-on-aviation-tax-reform). Email ETTAnswers@hmtreasury.gov.uk before midnight on 14th June.* 
+*This commentary makes up the basis of our response to the government's consultation on APD. To read the consultation and submit your response, go [here](https://www.gov.uk/government/consultations/consultation-on-aviation-tax-reform). The consultation closes at midnight on 14th June.* 
 
 *We also have an open response and invite representatives of organisations to sign our statement. Please [get in touch](mailto:info@flightfree.co.uk) to express your interest.*
