@@ -6,7 +6,7 @@ date: 2021-05-20T16:21:40.382Z
 cover_image: /images/uploads/departures.jpg
 summary: Flight Free UK responds to the government's consultation on APD.
 author: FlightFree UK
-read_time_minute: 6
+read_time_minute: 7
 ---
 ## Introduction
 
