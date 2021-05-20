@@ -29,7 +29,7 @@ All this flying affects both the teachers and the dancers, and I don’t think m
 
 For dancers, the antidote to this is simple. Don’t fly off to weekend festivals. The events in your area may not have the same prestige, but you will know everyone there and you won’t spend ten hours of your weekend in airports or planes. Chances are there is still plenty that you can learn from your local teachers, and you won’t learn much more by being taught by an international teacher.
 
-> "Chances are there is still plenty that you can learn from your local teachers, you won’t learn much more from an international teacher."
+> "Chances are there is still plenty that you can learn from your local teachers; you won’t learn much more from an international teacher."
 
 For organisers, don’t book teachers, bands and DJs from abroad, or at least not ones who have to fly. Use local talent, nurture your scene and pass on the savings to the dancers. Provide details about sustainable ways to travel to your event. Look for alternative ways to run events. The International Lindy Hop Championships, the most prestigious competition in the swing world, went online this year due to the pandemic. Dancers submitted videos or competed head to head with live streaming. This allowed dancers who could not spend time or money getting to and from Houston to compete.
 
