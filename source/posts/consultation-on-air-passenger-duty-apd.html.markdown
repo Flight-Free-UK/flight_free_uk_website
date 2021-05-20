@@ -30,9 +30,9 @@ To be emphatic, this is the *only* *tax* we have on flights. A progressive envir
 
 > "Reducing APD would make an already cheap form of transport even cheaper, and make it even harder for consumers to make low-carbon choices."
 
-The current APD bands show that APD on business and first class flights (the Standard Rate) is approximately double that for economy tickets (the Reduced Rate). We know that business and first class tickets are, on average, [five times more expensive](https://www.ft.com/content/867a5342-c94c-43f6-9783-a817443c9471) than economy and that business class emits about three times more carbon per passenger than economy (DfT figures). So shouldn't the APD on business class tickets be at least three times higher than on economy class tickets?
+The current APD bands show that APD on business and first class flights (the Standard Rate) is approximately double that for economy tickets (the Reduced Rate). We know that business and first class tickets are, on average, [five times more expensive](https://www.ft.com/content/867a5342-c94c-43f6-9783-a817443c9471) than economy and that business class emits about three times more carbon per passenger than economy (DfT figures). A better model would be for APD on business class tickets to therefore be at least three times higher than on economy class tickets.
 
-Revenue from APD is used to fund vital services across the UK. It would be regressive to reduce the funds available for services that benefit everyone, in order to benefit a minority of flyers (less than 50% of UK residents fly in any given year) or frequent flyers (15% of UK residents take 70% of the flights).
+Revenue from APD is used to fund vital services across the UK. It would be regressive to reduce the funds available for services that benefit everyone, in order to benefit a minority of flyers (less than 50% of UK residents fly in any given year) or frequent flyers (the 15% of UK residents who take 70% of the flights).
 
 ## Domestic connectivity
 
@@ -44,21 +44,21 @@ The argument that airports boost the local economy is not settled. Some economis
 
 Domestic air routes are not, in general, necessary to improve connectivity within the UK, because there are few UK towns that are not well connected by rail. For those towns that are particularly isolated, that can be addressed through the Public Service Obligation system or with an APD exemption, and indeed, this is already the case.
 
-The busiest air route in the UK is London-Edinburgh, a major domestic route that is served by at least two different train lines. Reducing APD is likely to bring more people to the main routes, where alternatives are more likely to exist, rather than improve connectivity in more distant areas.
+The busiest air route in the UK is London-Edinburgh, a major domestic route that is served by at least two different train lines. Reducing APD is likely to bring more people to the main routes, where low-carbon alternatives are more likely to exist, rather than improve connectivity in more distant areas.
 
 > "Reducing APD is likely to bring more people to the main routes, rather than improve connectivity in more distant areas."
 
-The number of domestic passenger flights has declined every year since 2005. There is little evidence that APD is the reason for this. Given the timing of the decline, there's a possibility that the decline was caused by increased airport security. [This FT analysis](https://www.ft.com/content/a5929e56-3f21-11e9-b896-fe36ec32aece) puts it down to a combination of 'taxes, improved train services and market economics'. Consolidation onto fewer routes and larger planes with lower fares has also played a part.
+The number of domestic passenger flights has declined every year since 2005. There is little evidence that APD is the reason for this. Given the timing of the decline, there's a possibility that it was caused by increased airport security. [This FT analysis](https://www.ft.com/content/a5929e56-3f21-11e9-b896-fe36ec32aece) puts it down to a combination of 'taxes, improved train services and market economics'. Consolidation onto fewer routes and larger planes with lower fares has also played a part.
 
 ## Environmental objectives
 
 We are pleased to see that the government acknowledges that the transport sector, including aviation, has a crucial role in tackling the problem of climate change and reaching the target of net zero by 2050. UK aviation is responsible for 8% of the UK’s carbon emissions, the vast majority of which are from international aviation.
 
-However, the method by which net zero will be reached relies mainly on technology and offsetting. The government mentions the Jet Zero Council (using technology and innovation to address emissions), SAF (sustainable aviation fuel), and CORSIA (offsetting) as its methods of reducing emissions from aviation. There is no mention of the most simple and reliable method of reducing emissions, which is to reduce demand. Demand reduction can happen now, through taxation. Yet this taxation consultation speaks only of reducing tax, which will increase demand and increase emissions, therefore increasing our reliance on techno-fixes.
+However, the method by which net zero will be reached relies mainly on technology and offsetting. The government mentions the Jet Zero Council (using technology and innovation to address emissions), SAF (sustainable aviation fuel), and CORSIA (offsetting) as its methods of reducing emissions from aviation. There is no mention of the most simple and reliable method of reducing emissions, which is to reduce demand. Demand reduction can happen now, through taxation. Yet this taxation consultation speaks only of reducing tax, which will increase demand and increase emissions, therefore increasing our reliance on techno fixes.
 
 > "There is no mention of the most simple and reliable method of reducing emissions, which is to reduce demand."
 
-Relying on technological solutions is difficult when none of the solutions are currently in commercial use. Many commentators state that, for techno fixes to have an impact in terms of our net zero targets, they need to be ready now. Electric planes, biofuels, and hydrogen technology will all play a part in reducing emissions from flying, but none are without their own environmental impact, and it’s [likely that none will be put into commercial use before 2035](/post/2021-podcast-series-can-we-fly-carbon-neutral/). Short term tax breaks with their associated increase in demand should not be given on a future promise of techno fixes.
+Relying on technological solutions is difficult when none of the solutions are currently in commercial use. Many commentators state that, for techno fixes to have an impact in terms of our net zero targets, they need to be ready now. Electric planes, biofuels and hydrogen technology will all play a part in reducing emissions from flying, but none are without their own environmental impact, and it’s [likely that none will be put into commercial use before 2035](/post/2021-podcast-series-can-we-fly-carbon-neutral/). Short term tax breaks should not be given on a future promise of techno fixes.
 
 Offsetting is not an effective alternative to demand reduction, and indeed has the effect of making consumers think their emissions don’t count, leading to a continuation of, or an increase in, polluting behaviour.
 
@@ -92,6 +92,6 @@ It is incumbent on a government to act in the best interests of all, which inclu
 
 ### In a time of climate emergency, and on a finite planet, it is more important than ever to be a world leader on climate action. Any reduction in tax on this highly-polluting form of transport would be a mistake and would take us further away from our climate targets.
 
-*This commentary makes up the basis of our response to the government's consultation on APD. To read the consultation and submit your response, go [here](https://www.gov.uk/government/consultations/consultation-on-aviation-tax-reform). The consultation closes at midnight on 14th June.* 
+*This commentary makes up the basis of the Flight Free UK response to the government's consultation on APD. To read the consultation and submit your own response, go [here](https://www.gov.uk/government/consultations/consultation-on-aviation-tax-reform). The consultation closes at midnight on 14th June.* 
 
 *We also have an open response and invite representatives of organisations to sign our statement. Please [get in touch](mailto:info@flightfree.co.uk) to express your interest.*
