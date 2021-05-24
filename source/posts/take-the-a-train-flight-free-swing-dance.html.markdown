@@ -5,8 +5,7 @@ category: opinion
 date: 2021-05-19T13:57:04.743Z
 cover_image: /images/uploads/vintage_lindy_hop_swing.jpg
 summary: Dance scenes around the world involve a lot of flying. Teacher and
-  swing dance enthusiast Alan Lorcan asks if there are more sustainable
-  solutions.
+  swing dance enthusiast Alan Lorcan asks if there are more sustainable options.
 author: FlightFree UK
 read_time_minute: 3
 ---
