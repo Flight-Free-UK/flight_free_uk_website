@@ -31,24 +31,18 @@ While some dancers may go to five or ten in a year, international teachers may g
 
 All this flying affects both the teachers and the dancers, and I don’t think many people realise the trade-offs. Teachers, who already work unsocial hours, are travelling every weekend. Many struggle to form or maintain romantic relationships. Dancers have to pay extra for events, as organisers need to cover the cost of putting teachers on planes and putting them up in hotels. Local scenes suffer as large numbers of their dancers and teachers go elsewhere each weekend, building connections with people they’ll likely never meet again.
 
-![Image shows people dancing ](/images/uploads/lindy-hop-dancing.jpg "Lindy Hop in New Orleans. Image from A Closer Walk.")
+![Image shows two Black people swing dancing ](/images/uploads/lindy-hop-dancing.jpg "Lindy Hop in New Orleans. Image from A Closer Walk.")
 
 ### For dancers, the antidote to this is simple. Don’t fly off to weekend festivals. 
 
 The events in your area may not have the same prestige, but you will know everyone there and you won’t spend ten hours of your weekend in airports or planes. Chances are there is still plenty that you can learn from your local teachers, and you won’t learn much more by being taught by an international teacher.
 
-> "Chances are there is still plenty that you can learn from your local teachers; you won’t learn much more from an international teacher."
-
 ### For organisers, don’t book teachers, bands and DJs from abroad, or at least not ones who have to fly. 
 
 Use local talent, nurture your scene and pass on the savings to the dancers. Provide details about sustainable ways to travel to your event. Look for alternative ways to run events. The International Lindy Hop Championships, the most prestigious competition in the swing world, went online this year due to the pandemic. Dancers submitted videos or competed head to head with live streaming. This allowed dancers who could not spend time or money getting to and from Houston to compete.
 
-> "Use local talent, nurture your scene and pass the savings to the dancers."
-
 ### For teachers, it may be difficult to give up flying completely. It is a competitive world where reputation is important. 
 
 If going flight free is not an option, here is an idea: rather than flying off every weekend, consider doing residencies or teacher exchanges. Organise it so that if you fly to California or South Korea, stay there for a month or two. Get the local organiser to set you up with regular classes for that period, and travel to local dance festivals. If you organise with another international teacher to swap places, then you both have a place to live for the duration. It is less stressful, allows you to get to know the area and people, and make a real contribution to that scene. Rather than doing forty flights a year, you are doing five or ten.
-
-> "It is a competitive world where reputation is important. Rather than flying off every weekend, consider doing residencies or teacher exchanges." 
 
 ### The swing world is what I know, but I am sure this applies to most dance scenes. Just remember, don’t put an aeroplane between you, some people, some music and a decent wooden floor.
