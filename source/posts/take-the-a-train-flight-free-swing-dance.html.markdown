@@ -46,3 +46,5 @@ Use local talent, nurture your scene and pass on the savings to the dancers. Pro
 If going flight free is not an option, here is an idea: rather than flying off every weekend, consider doing residencies or teacher exchanges. Organise it so that if you fly to California or South Korea, stay there for a month or two. Get the local organiser to set you up with regular classes for that period, and travel to local dance festivals. If you organise with another international teacher to swap places, then you both have a place to live for the duration. It is less stressful, allows you to get to know the area and people, and make a real contribution to that scene. Rather than doing forty flights a year, you are doing five or ten.
 
 ### The swing world is what I know, but I am sure this applies to most dance scenes. Just remember, don’t put an aeroplane between you, some people, some music and a decent wooden floor.
+
+![Image shows four Black couples doing aerial swing dance moves](/images/uploads/lindy-hop-aerial.jpg "Some time off the ground is OK")
