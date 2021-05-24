@@ -9,7 +9,7 @@ summary: Dance scenes around the world involve a lot of flying. Teacher and
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Image shows people dancing](/images/uploads/vintage_lindy_hop_swing.jpg "Some time off the ground is ok")
+![Image shows two Black people swing dancing](/images/uploads/vintage_lindy_hop_swing.jpg "Lindy Hop: the dance that defined the swing era. Image from Vintage News Daily.")
 
 ## There is something magical about the simple joy of dancing; all you need is a decent wooden floor, some music and some people.
 
