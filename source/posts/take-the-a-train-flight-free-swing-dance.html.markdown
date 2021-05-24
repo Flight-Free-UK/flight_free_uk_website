@@ -21,7 +21,7 @@ Almost every weekend of the year, somewhere in the world, there is a big dance c
 
 In 2014, I attended the largest swing festival in the world, in Herrang, Sweden. There were dancers from every continent except Antarctica. Teachers were flown in from the US, Argentina and South Korea. It lasts five weeks, but most attendees go for just one, and it has about one thousand attendees per week. All that flying, for some music, some people and a decent wooden floor.
 
-![Image shows a couple dancing ](/images/uploads/lindy-hop-swing-dance.jpg)
+![Image shows a Black man in a vintage suit dancing with a white woman who is smiling at the camera](/images/uploads/lindy-hop-swing-dance.jpg "Lindy hop dancers. Image from Into the Blue")
 
 These international festivals, camps and competitions are a central part of modern swing culture. Dancers are told that to improve beyond a certain level, they need to attend these festivals, and a lot of them too! Top level dance teachers are called “international” teachers, because they will be flown around the world to teach. They make their money and build their reputations teaching and competing at camps and festivals. 
 
