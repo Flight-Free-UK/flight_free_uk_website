@@ -4,8 +4,9 @@ title: "Take the A Train: Flight Free Swing Dance"
 category: opinion
 date: 2021-05-19T13:57:04.743Z
 cover_image: /images/uploads/vintage_lindy_hop_swing.jpg
-summary: Dance scenes around the world involve a lot of flying. Alan Lorcan
-  explores why this is the case and if there are more sustainable solutions.
+summary: Dance scenes around the world involve a lot of flying. Teacher and
+  swing dance enthusiast Alan Lorcan asks if there are more sustainable
+  solutions.
 author: FlightFree UK
 read_time_minute: 3
 ---
