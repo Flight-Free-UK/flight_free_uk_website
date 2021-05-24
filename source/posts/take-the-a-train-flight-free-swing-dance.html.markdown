@@ -11,15 +11,15 @@ read_time_minute: 3
 ---
 ![Image shows people dancing](/images/uploads/vintage_lindy_hop_swing.jpg "Some time off the ground is ok")
 
-## There is something magical about the simple joy of dancing; all you need is a decent wooden floor, some music and some people. 
+## There is something magical about the simple joy of dancing; all you need is a decent wooden floor, some music and some people.
 
 ### The other people are optional. I have been swing dancing for ten years and these simple ingredients have brought me so many great nights and so much happiness.
 
 But the swing dance scene has a dirty secret. It is addicted to flying.
 
-Almost every weekend of the year, somewhere in the world, there is a big dance camp, festival or competition. Typically, there will be classes during the day, then dance parties with live jazz bands, performances and competitions in the evening. They attract people from all over the world. In 2014, I attended the largest swing festival in the world, in Herrang, Sweden. There were dancers from every continent except Antarctica. Teachers were flown in from the US, Argentina and South Korea. It lasts five weeks, but most attendees go for just one, and it has about one thousand attendees per week. All that flying, for some music, some people and a decent wooden floor.
+Almost every weekend of the year, somewhere in the world, there is a big dance camp, festival or competition. Typically, there will be classes during the day, then dance parties with live jazz bands, performances and competitions in the evening. They attract people from all over the world. 
 
-> "They attract people from all over the world. In 2014, I attended the largest swing festival. There were dancers from every continent except Antarctica. "
+In 2014, I attended the largest swing festival in the world, in Herrang, Sweden. There were dancers from every continent except Antarctica. Teachers were flown in from the US, Argentina and South Korea. It lasts five weeks, but most attendees go for just one, and it has about one thousand attendees per week. All that flying, for some music, some people and a decent wooden floor.
 
 ![Image shows a couple dancing ](/images/uploads/lindy-hop-swing-dance.jpg)
 
