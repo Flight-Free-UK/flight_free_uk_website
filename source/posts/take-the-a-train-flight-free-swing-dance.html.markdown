@@ -11,7 +11,9 @@ read_time_minute: 3
 ---
 ![Image shows people dancing](/images/uploads/vintage_lindy_hop_swing.jpg "Some time off the ground is ok")
 
-## There is something magical about the simple joy of dancing; all you need is a decent wooden floor, some music and some people. The other people are optional. I have been swing dancing for ten years and these simple ingredients have brought me so many great nights and so much happiness.
+## There is something magical about the simple joy of dancing; all you need is a decent wooden floor, some music and some people. 
+
+### The other people are optional. I have been swing dancing for ten years and these simple ingredients have brought me so many great nights and so much happiness.
 
 But the swing dance scene has a dirty secret. It is addicted to flying.
 
