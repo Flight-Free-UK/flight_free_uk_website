@@ -19,7 +19,7 @@ But the swing dance scene has a dirty secret. It is addicted to flying.
 
 Almost every weekend of the year, somewhere in the world, there is a big dance camp, festival or competition. Typically, there will be classes during the day, then dance parties with live jazz bands, performances and competitions in the evening. They attract people from all over the world. 
 
-In 2014, I attended the largest swing festival in the world, in Herrang, Sweden. There were dancers from every continent except Antarctica. Teachers were flown in from the US, Argentina and South Korea. It lasts five weeks, but most attendees go for just one, and it has about one thousand attendees per week. All that flying, for some music, some people and a decent wooden floor.
+In 2014 I attended the largest swing festival in the world, in Herrang, Sweden. There were dancers from every continent except Antarctica. Teachers were flown in from the US, Argentina and South Korea. It lasts five weeks, but most attendees go for just one, and it has about one thousand attendees per week. All that flying, for some music, some people and a decent wooden floor.
 
 ![Image shows a Black man in a vintage suit dancing with a white woman who is smiling at the camera](/images/uploads/lindy-hop-swing-dance.jpg "Lindy hop dancers. Image from Into the Blue")
 
@@ -31,7 +31,7 @@ While some dancers may go to five or ten in a year, international teachers may g
 
 All this flying affects both the teachers and the dancers, and I don’t think many people realise the trade-offs. Teachers, who already work unsocial hours, are travelling every weekend. Many struggle to form or maintain romantic relationships. Dancers have to pay extra for events, as organisers need to cover the cost of putting teachers on planes and putting them up in hotels. Local scenes suffer as large numbers of their dancers and teachers go elsewhere each weekend, building connections with people they’ll likely never meet again.
 
-![Image shows people dancing ](/images/uploads/lindy-hop-dancing.jpg)
+![Image shows people dancing ](/images/uploads/lindy-hop-dancing.jpg "Lindy Hop in New Orleans. Image from A Closer Walk.")
 
 ### For dancers, the antidote to this is simple. Don’t fly off to weekend festivals. 
 
