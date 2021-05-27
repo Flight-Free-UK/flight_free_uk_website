@@ -11,7 +11,7 @@ read_time_minute: 2
 ---
 <iframe src="https://player.vimeo.com/video/555636082" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-> “I wanted to see the world and not fly. And I wanted to see the world in a way that was active – I didn’t want to be a tourist. I never imagined I’d become a cargo broker.”
+### *“I wanted to see the world and not fly. And I wanted to see the world in a way that was active – I didn’t want to be a tourist. I never imagined I’d become a cargo broker.”*
 
 Not much beats sailing across an ocean in terms of an adventure of a lifetime. As far from human habitations as it’s possible to be, the seascapes are endless, the stars take on a life of their own, and creatures of all kinds come to say hello: Mahi-mahi, flying fish and blue-footed boobies. 
 
