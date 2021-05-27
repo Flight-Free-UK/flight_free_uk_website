@@ -27,7 +27,7 @@ Alex is part of a team that founded the [New Dawn Traders](https://www.newdawntr
 
 ![Image shows a sailing boat on the ocean with large white sails](/images/uploads/new-dawn-traders.jpg "Sailing ship De Gallant on a New Dawn Traders voyage")
 
-Most of the goods we buy are shipped, with a small but significant proportion arriving by air, especially time-sensitive products: avocados, cut flowers, products ordered on Amazon – even wine. The carbon debt of some of these items is huge – a pair of avocados flown from Peru are four times as carbon-heavy as the same weight of bananas, which arrive by boat.
+A lot has changed since the days when goods would travel the world under sail. Nowadays, most of the goods we buy are carried on vast diesel-powered cargo ships, and the industry keeps on growing in order to feed our ever-increasing demand for stuff. Air freight is much smaller in scale but much more carbon-intensive, and will only grow in response to our desire for goods which need to be delivered right away. The carbon debt of some of these items is huge – a pair of avocados flown from Peru are four times as carbon-heavy as the same weight of bananas, which arrive by boat.
 
 In 2019, 57.6 million tonnes of freight was flown around the world, including 375 million litres of Californian wine, 160,000 tonnes of cut flowers from Kenya, 3.5 billion Amazon parcels and 7 million tonnes of avocados. Our consumer choices are important in reducing the number of planes in the air, and that doesn’t just include holidays, it also includes the goods we buy.
 
