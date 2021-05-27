@@ -17,6 +17,8 @@ Not much beats sailing across an ocean in terms of an adventure of a lifetime. A
 
 The boat sighs and yaws, skims and pitches as the wind fills her sails, skittering across the water in the prevailing currents. It’s no surprise we have explored the world as we have, when just the power of the wind can take us to the other side of the planet.
 
+> "Living aboard this sail-cargo ship is an adventure for the soul and the senses.” 
+
 This is where we find Alex Geldenhuys, on an eight-month round trip from the Netherlands to the Caribbean. “As a working ship with a schedule to meet, there is a strict work routine through all weathers. As chef I have to perform my best miracles in the most trying conditions, with a miniature kitchen at full tilt for cold, wet and hungry sailors in a washing-machine sea. Living aboard this sail-cargo ship is an adventure for the soul and the senses.” 
 
 Alex is part of a team that founded the [New Dawn Traders](https://www.newdawntraders.com/cargo-culture/our-story), a group with a mission to ship goods around the world under sail.
