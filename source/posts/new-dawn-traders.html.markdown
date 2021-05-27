@@ -29,6 +29,8 @@ Most of the goods we buy are shipped, with a small but significant proportion ar
 
 In 2019, 57.6 million tonnes of freight was flown around the world, including 375 million litres of Californian wine, 160,000 tonnes of cut flowers from Kenya, 3.5 billion Amazon parcels and 7 million tonnes of avocados. Our consumer choices are important in reducing the number of planes in the air, and that doesn’t just include holidays, it also includes the goods we buy.
 
+> "In 2019, 57.6 million tonnes of freight was flown around the world."
+
 The mission of Alex and the New Dawn Traders is not just to physically ship goods under sail, but to reassess how much of these things we actually need. “The cargos that we choose to sail over from distant lands are of value because they are products that cannot be grown in England and are of cultural significance and curiosity – the luxuries in life which are worth savouring, like coffee, chocolate and rum.”
 
 “We are raising awareness around fair-transport, ocean conservation and food sovereignty, and supporting a growing industry for sail-shipped goods.”
