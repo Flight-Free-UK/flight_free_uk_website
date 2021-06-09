@@ -9,7 +9,9 @@ summary: Flight Free UK explores the findings from the 2020 survey to see what
 author: FlightFree UK
 read_time_minute: 6
 ---
-## Flight Free UK runs a pledge each year, asking people to take a year off flying. At the end of each year, we conduct a survey to determine people’s reasons for signing the pledge and their flying habits before and after taking part. Below are the results of the 2020 survey.
+## Flight Free UK runs a pledge each year, asking people to take a year off flying. 
+
+### At the end of each year, we conduct a survey to determine people’s reasons for signing the pledge and their flying habits before and after taking part. Below are the results of the 2020 survey.
 
 ### Overview
 
@@ -32,7 +34,6 @@ The majority of respondents (63%) said they had flown recently, i.e. within the 
 Over half of respondents (57%) said they would usually take between one and three return flights in a typical year. A large number (39%) said they generally don’t take any flights in a typical year. A small percentage (4%) said they take 4+ flights per year, with five people saying they would typically take more than 10 flights a year. It is difficult to put a number on how many respondents are ‘frequent flyers’, given that the definition of the term ‘frequent flyer’ is taking three or more return flights per year. Our categories counted those who took two flights and three flights together, so our best estimate is to halve the number of respondents who selected ‘2-3 flights per year’ and add it to the total who took 4+ flights per year. We can therefore estimate that 15% of respondents are frequent flyers.
 
 ![Bar graph showing the number of return flights taken in a typical year]( "Graph showing the frequency of return flights in a typical year")
-
 
 The majority of respondents (55%) heard about Flight Free UK through social media. The next most common was word of mouth, with 15%. Others heard about the campaign through other news media, e.g. magazine or newspaper articles (11%), a newsletter from their local environmental group (6%), by hearing us speak at a public event (2%), through TV or radio (4.5%), or through an internet search (3%).
 
@@ -59,7 +60,10 @@ The vast majority of respondents (95%) said that they would take the flight free
 “I have spent my whole working life in the aviation sector but realised that it was impossible for the industry to be sustainable. Hearing about Flight Free UK coincided with a change of job to work in the conservation sector. A midlife crisis? I prefer to think of it as a change of purpose and direction to something that better fitted the values I now hold as important.”
 
 “My daily life was harmed by increased flights from London City Airport. I also disagreed with airport expansion. I couldn't be a hypocrite and fly.”
-Impact of the pledge on people’s lives:
+
+
+### Impact of the pledge on people’s lives
+
 “I really enjoyed travelling by train from London to the Czech Republic and then from Prague in the Czech Republic to High Tatras in Slovakia and back from there by train to the Czech Republic and then by coach to London. It is fun to explore different ways of travelling apart from flying.”
 
 “This campaign has definitely given a sense of solidarity that I am not the only person who thinks it is a good idea to give up flying. I think it has helped me justify it to other people who are less convinced that it is a necessary/ impactful choice to be making.”
