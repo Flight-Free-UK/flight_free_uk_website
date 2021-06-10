@@ -59,7 +59,7 @@ The majority of respondents heard about the pledge through social media. A large
 
 “My daily life was harmed by increased flights from London City Airport. I also disagreed with airport expansion. I couldn't be a hypocrite and fly.”
 
-## Impact of the pledge on people’s lives:
+## Impact of the pledge on people’s lives
 
 “I really enjoyed travelling by train from London to the Czech Republic and then from Prague in the Czech Republic to High Tatras in Slovakia and back from there by train to the Czech Republic and then by coach to London. It is fun to explore different ways of travelling apart from flying.”
 
