@@ -33,16 +33,13 @@ The majority of respondents heard about the pledge through social media. A large
 * **Over half of respondents (57%) said they would usually take between one and three return flights in a typical year.** A large number (39%) said they generally don’t take any flights in a typical year. A small percentage (4%) said they take 4+ flights per year, with five people saying they would typically take more than 10 flights a year. 
 
   It is difficult to put a number on how many respondents are ‘frequent flyers’, given that the definition of the term ‘frequent flyer’ is taking three or more return flights per year. Our categories counted those who took two flights and three flights together, so our best estimate is to halve the number of respondents who selected ‘2-3 flights per year’ and add it to the total who took 4+ flights per year. We can therefore estimate that 15% of respondents are frequent flyers.
-
-![Bar graph showing the number of return flights taken in a typical year](/images/uploads/return-flights-graph-2020.jpg "Graph showing the frequency of return flights in a typical year")
-
 * **The majority of respondents (55%) heard about Flight Free UK through social media. The next most common was word of mouth,** with 15%. Others heard about the campaign through other news media, e.g. magazine or newspaper articles (11%), a newsletter from their local environmental group (6%), by hearing us speak at a public event (2%), through TV or radio (4.5%), or through an internet search (3%).
-* **The overwhelming reason given for signing the pledge was climate change concerns or a desire to reduce carbon footprint.** This was given as an answer 373 times. The next most common answer was to inspire social change, which was given 86 times. It is difficult to use percentages here, as many people cited multiple reasons for signing, so for this response we are using absolute numbers. 
-
-  Other reasons given were making a political protest against airport expansion and the aviation industry (18), dislike or fear of flying (20) and those who didn’t fly anyway so were making their decision ‘official’ (23). Some people pledged in order to support the campaign (31) and some took the pledge so they would be accountable to someone if they felt the need to fly (6). Preference for alternative travel was also given as a reason (17), as was taking personal action (13), and social justice (4).
 
 ![Graph showing the different reasons of what inspired them to take the pledge.](/images/uploads/motivations-graph-2020.jpg "The overwhelming reason given for signing the pledge was climate change concerns")
 
+* **The overwhelming reason given for signing the pledge was climate change concerns or a desire to reduce carbon footprint.** This was given as an answer 373 times. The next most common answer was to inspire social change, which was given 86 times. It is difficult to use percentages here, as many people cited multiple reasons for signing, so for this response we are using absolute numbers. 
+
+  Other reasons given were making a political protest against airport expansion and the aviation industry (18), dislike or fear of flying (20) and those who didn’t fly anyway so were making their decision ‘official’ (23). Some people pledged in order to support the campaign (31) and some took the pledge so they would be accountable to someone if they felt the need to fly (6). Preference for alternative travel was also given as a reason (17), as was taking personal action (13), and social justice (4).
 * **The vast majority of respondents (95%) said that they would take the flight free pledge again.**
 
 ![Pie chart showing the likelihood of respondents taking the pledge again](/images/uploads/repledge-graph-2020.jpg "The majority of repondents would take the pledge again")
