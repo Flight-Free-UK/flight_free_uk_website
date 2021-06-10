@@ -47,28 +47,31 @@ The vast majority of respondents (95%) said that they would take the flight free
 
 ### Motivations for signing the pledge
 
-“I'm a keen birdwatcher, so I use my ears as much as my eyes. Aircraft noise bothers me: even though I live 45 miles from Heathrow and 23 miles from Luton, there are many days (and nights) when the booming in the clouds never stops. As a birder, I meet many people who take 3-4 long-haul flights per year, and assert the benefits of ‘wildlife tourism’.”
+*“I'm a keen birdwatcher, so I use my ears as much as my eyes. Aircraft noise bothers me: even though I live 45 miles from Heathrow and 23 miles from Luton, there are many days (and nights) when the booming in the clouds never stops. As a birder, I meet many people who take 3-4 long-haul flights per year, and assert the benefits of ‘wildlife tourism’.”*
 
-“I had just got back from a once-in-a-lifetime trip to Tonga to swim with humpback whales, but I felt really bad that I had to take eight flights to get there and back. I felt bad thinking of all the emissions I was causing just for something that was frivolous (albeit my lifelong dream). I was thinking of not flying for at least a couple of years after that to compensate, so it was perfect timing when I heard about the pledge.”
+*“I had just got back from a once-in-a-lifetime trip to Tonga to swim with humpback whales, but I felt really bad that I had to take eight flights to get there and back. I felt bad thinking of all the emissions I was causing just for something that was frivolous (albeit my lifelong dream). I was thinking of not flying for at least a couple of years after that to compensate, so it was perfect timing when I heard about the pledge.”*
 
-“The vast majority of the world's population never fly but suffer the effects of the increased CO2 emissions by those who do. I believe in fairness.”
+*“The vast majority of the world's population never fly but suffer the effects of the increased CO2 emissions by those who do. I believe in fairness.”*
 
-“I think the pledge is useful as a symbolic campaigning tool-less about the marginal difference of one person not flying, and more about sending a message to media and policymakers to reduce support for air travel/airport expansion and encourage investment in alternatives (train, video etc).”
+*“I think the pledge is useful as a symbolic campaigning tool-less about the marginal difference of one person not flying, and more about sending a message to media and policymakers to reduce support for air travel/airport expansion and encourage investment in alternatives (train, video etc).”*
 
-“I have spent my whole working life in the aviation sector but realised that it was impossible for the industry to be sustainable. Hearing about Flight Free UK coincided with a change of job to work in the conservation sector. A midlife crisis? I prefer to think of it as a change of purpose and direction to something that better fitted the values I now hold as important.”
+*“I have spent my whole working life in the aviation sector but realised that it was impossible for the industry to be sustainable. Hearing about Flight Free UK coincided with a change of job to work in the conservation sector. A midlife crisis? I prefer to think of it as a change of purpose and direction to something that better fitted the values I now hold as important.”*
 
-“My daily life was harmed by increased flights from London City Airport. I also disagreed with airport expansion. I couldn't be a hypocrite and fly.”
-Impact of the pledge on people’s lives:
-“I really enjoyed travelling by train from London to the Czech Republic and then from Prague in the Czech Republic to High Tatras in Slovakia and back from there by train to the Czech Republic and then by coach to London. It is fun to explore different ways of travelling apart from flying.”
+*“My daily life was harmed by increased flights from London City Airport. I also disagreed with airport expansion. I couldn't be a hypocrite and fly.”*
 
-“This campaign has definitely given a sense of solidarity that I am not the only person who thinks it is a good idea to give up flying. I think it has helped me justify it to other people who are less convinced that it is a necessary/ impactful choice to be making.”
+### 
+Impact of the pledge on people’s lives
 
-“I've rediscovered the joy of vacationing in the beautiful UK. There is no need to go abroad for holidays.”
+*“I really enjoyed travelling by train from London to the Czech Republic and then from Prague in the Czech Republic to High Tatras in Slovakia and back from there by train to the Czech Republic and then by coach to London. It is fun to explore different ways of travelling apart from flying.”*
 
-“I am working on climate change so taking the pledge felt really important. It was also sad. I have lived and worked in Nepal in the past and have been back to visit several times. It made me sad to know that I wouldn't ever go back, see the mountains and the people again. However, I know that the best thing I can do for friends and colleagues in Nepal now is to work on climate change, and reducing emissions here in the UK.”
+*“This campaign has definitely given a sense of solidarity that I am not the only person who thinks it is a good idea to give up flying. I think it has helped me justify it to other people who are less convinced that it is a necessary/ impactful choice to be making.”*
 
-“Travelling slowly by ferry and campervan, I have enjoyed the journey more, and been able to reflect on my experience of engaging with people and their history and culture. And I can take my dog!”
+*“I've rediscovered the joy of vacationing in the beautiful UK. There is no need to go abroad for holidays.”*
 
-“I could still go abroad using alternative forms of transport such as trains and boats so it didn't affect me as much as I thought it would, which was surprising in a good sense as it shows you do not need to rely on flights to have good holidays still. Overall I have enjoyed not having to fly places and reducing my environmental impact on the planet!”
+*“I am working on climate change so taking the pledge felt really important. It was also sad. I have lived and worked in Nepal in the past and have been back to visit several times. It made me sad to know that I wouldn't ever go back, see the mountains and the people again. However, I know that the best thing I can do for friends and colleagues in Nepal now is to work on climate change, and reducing emissions here in the UK.”*
 
-“I've actually been focusing on language learning and have signed up to a language exchange app – I feel like I've had more cultural experiences through that than I would have from just going on holiday to somewhere far-flung.”
+*“Travelling slowly by ferry and campervan, I have enjoyed the journey more, and been able to reflect on my experience of engaging with people and their history and culture. And I can take my dog!”*
+
+*“I could still go abroad using alternative forms of transport such as trains and boats so it didn't affect me as much as I thought it would, which was surprising in a good sense as it shows you do not need to rely on flights to have good holidays still. Overall I have enjoyed not having to fly places and reducing my environmental impact on the planet!”*
+
+*“I've actually been focusing on language learning and have signed up to a language exchange app – I feel like I've had more cultural experiences through that than I would have from just going on holiday to somewhere far-flung.”*
