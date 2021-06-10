@@ -3,7 +3,7 @@ published: true
 title: Results from the Flight Free 2020 survey
 category: opinion
 date: 2021-06-09T10:01:51.318Z
-cover_image: /images/uploads/red-nailvarnish.jpg
+cover_image: /images/uploads/flight_free_survey_results.jpg
 summary: Flight Free UK explores the findings from the 2020 survey to see what
   inspired people to take the flight free pledge.
 author: FlightFree UK
@@ -12,6 +12,8 @@ read_time_minute: 6
 This survey was conducted between November 2020 and January 2021. We asked various questions to determine people’s reasons for signing the pledge and their flying habits before and after taking part. 
 
 Questions included people's age, location, and time since their last flight. It asked how frequently people flew in a typical year (coronavirus notwithstanding). There were also questions about motivations for signing the pledge, how people heard about the campaign, and if they would take the pledge again.
+
+![Image shows a pair of hands holding up a sign that says, Flight Free 2020 survey results](/images/uploads/flight_free_survey_results.jpg)
 
 ## Overview
 
