@@ -13,7 +13,7 @@ This survey was conducted between November 2020 and January 2021. We asked vario
 
 Questions included people's age, location, and time since their last flight. It asked how frequently people flew in a typical year (coronavirus notwithstanding). There were also questions about motivations for signing the pledge, how people heard about the campaign, and if they would take the pledge again.
 
-### Overview
+## Overview
 
 Of the 6,856 people who took the pledge, 558 (8%) responded to the survey. 
 
@@ -21,7 +21,7 @@ Generally, people in the older age bracket completed the survey, with two-thirds
 
 The majority of respondents heard about the pledge through social media. A large majority cited environmental concerns as their reason for taking the pledge, and the overwhelming majority said they would take the pledge again.
 
-### Detailed findings
+## Detailed findings
 
 * **The largest age group for people taking the survey was 60-69, making up 32% of respondents.** The next largest group was 50-59 (22%), then 40-49 (16%). The youngest age group, 18-29 years old, made up the smallest percentage of respondents (6%). 
 * **The majority of respondents (63%) said they had flown recently, i.e. within the last five years,** with 33% saying they had flown within the last two years. A substantial number (22%) had not flown at all in the past decade, and only a very small number (2%) said they had never flown. 
@@ -45,7 +45,7 @@ The majority of respondents heard about the pledge through social media. A large
 
 ![Pie chart showing the likelihood of respondents taking the pledge again](/images/uploads/repledge-graph-2020.jpg "The majority of repondents would take the pledge again")
 
-### Motivations for signing the pledge
+## Motivations for signing the pledge
 
 “I'm a keen birdwatcher, so I use my ears as much as my eyes. Aircraft noise bothers me: even though I live 45 miles from Heathrow and 23 miles from Luton, there are many days (and nights) when the booming in the clouds never stops. As a birder, I meet many people who take 3-4 long-haul flights per year, and assert the benefits of ‘wildlife tourism’.”
 
@@ -59,7 +59,7 @@ The majority of respondents heard about the pledge through social media. A large
 
 “My daily life was harmed by increased flights from London City Airport. I also disagreed with airport expansion. I couldn't be a hypocrite and fly.”
 
-### Impact of the pledge on people’s lives:
+## Impact of the pledge on people’s lives:
 
 “I really enjoyed travelling by train from London to the Czech Republic and then from Prague in the Czech Republic to High Tatras in Slovakia and back from there by train to the Czech Republic and then by coach to London. It is fun to explore different ways of travelling apart from flying.”
 
