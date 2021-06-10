@@ -17,7 +17,7 @@ Questions included people's age, location, and time since their last flight. It 
 
 Of the 6,856 people who took the pledge, 558 (8%) responded to the survey. 
 
-Generally, people in the older age bracket took the pledge, with two-thirds of respondents aged 50+. The majority of respondents (nearly two-thirds) had taken a flight within the last five years, and over half said they would usually take between one and three return flights in a typical year. 
+Generally, people in the older age bracket completed the survey, with two-thirds of respondents aged 50+. The majority of respondents (nearly two-thirds) had taken a flight within the last five years, and over half said they would usually take between one and three return flights in a typical year. 
 
 The majority of respondents heard about the pledge through social media. A large majority cited environmental concerns as their reason for taking the pledge, and the overwhelming majority said they would take the pledge again.
 
