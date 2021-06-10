@@ -67,6 +67,6 @@ The majority of respondents heard about the pledge through social media. A large
 
 “I've rediscovered the joy of vacationing in the beautiful UK. There is no need to go abroad for holidays.”
 
-“Overall I have enjoyed not having to fly places and reducing my environmental impact on the planet!”
-
 “I've actually been focusing on language learning and have signed up to a language exchange app – I feel like I've had more cultural experiences through that than I would have from just going on holiday to somewhere far-flung.”
+
+“Overall I have enjoyed not having to fly places and reducing my environmental impact on the planet!”
