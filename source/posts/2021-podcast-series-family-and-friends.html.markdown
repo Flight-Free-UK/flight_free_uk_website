@@ -12,7 +12,9 @@ read_time_minute: 6
 ---
 *This is episode 6 of our 2021 podcast series. You can listen to the podcast [here](https://flightfreeuk.podbean.com/e/2021-series-family-and-friends/) and find other episodes and previous series [here](/podcast/).* 
 
-## Avoiding flying for holiday reasons can be easy to do. But what’s it like when you have family overseas, and going somewhere else just isn’t an option? This month, we are talking to Bonnie, Seb and Catherine, who all travel regularly to see family and friends.
+## Avoiding flying for holiday reasons can be easy to do. But what’s it like when you have family overseas, and going somewhere else just isn’t an option?
+
+### This month, we are talking to Bonnie, Seb and Catherine, who all travel regularly to see family and friends.
 
 #### Maggie
 
@@ -120,7 +122,7 @@ This month we are recommending islands.
 
 Maggie recommends the Isle of Arran, off the west coast of Scotland. Rachel recommends Brownsea Island, in Poole harbour. Seb recommends the island of Ireland and also Dalkey Island on the edge of Dublin Bay. Catherine recommends St Michael’s Mount in Cornwall. Bonnie recommends an island in the Netherlands called Ameland. 
 
-Thank you to all our contributors this month. You can listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-family-and-friends/) and find other episodes and previous series [here](/podcast/).
+*Thank you to all our contributors this month. You can listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-family-and-friends/) and find other episodes and previous series [here](/podcast/).*
 
 *Credits
 Voiceover: L. Sophie Helbig. Soundtrack: Chasing Balloons by Yeti Music.*
