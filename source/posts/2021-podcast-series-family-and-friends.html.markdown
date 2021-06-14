@@ -10,13 +10,15 @@ summary: Flying to see friends and family makes up a quarter of flights from the
 author: FlightFree UK
 read_time_minute: 6
 ---
-## Avoiding flying for holiday reasons can be easy to do. But what’s it like when you have family overseas, and going somewhere else just isn’t an option? This month, we are talking to Bonnie, Seb and Catherine, who all travel regularly to see family and friends.
+*This is episode 6 of our 2021 podcast series. You can listen to the podcast [here](https://flightfreeuk.podbean.com/e/2021-series-family-and-friends/) and find other episodes and previous series [here](/podcast/).* 
 
-This is episode 6 of our 2021 podcast series. You can listen to the podcast [here](https://flightfreeuk.podbean.com/e/2021-series-family-and-friends/) and find other episodes and previous series [here](/podcast/). 
+## Avoiding flying for holiday reasons can be easy to do. But what’s it like when you have family overseas, and going somewhere else just isn’t an option? This month, we are talking to Bonnie, Seb and Catherine, who all travel regularly to see family and friends.
 
 #### Maggie
 
 Travelling to see family and friends is the fastest growing category of visits overseas by UK residents. It has grown from 6.6 million visits a year twenty years ago to 23.5 million visits in 2019, according to the International Passenger Survey. It now accounts for a quarter of all visits abroad.  Nearly 90% are by air.
+
+> "Travelling to see family and friends is the fastest growing category of visits overseas. It has grown from 6.6 million visits a year twenty years ago to 23.5 million visits in 2019."
 
 #### Rachel
 
@@ -60,6 +62,8 @@ Seeing your family and friends is quite hard work! I’m always exhausted when I
 
 In my experience, the younger age is actually easier. We travel by ferry overnight to France so we rent a cabin which is exciting. And we travel by train as well. Small kids really love trains and big ferries. It creates a lot of memories. That’s what travel is about, it’s all those memories. So in my experience, it has been fine, and we’ve done it since he was a baby. 
 
+> "Small kids love trains and big ferries. It creates a lot of memories. That's what travel is about."
+
 #### Maggie
 
 Is there anything the train and ferry companies could do to make things easier for parents travelling with children?
@@ -72,6 +76,8 @@ I think more routes, and faster, and less expensive!
 
 I think we’ve seen a breakdown in the whole Rail and Sail system. I remember as a youngster travelling by sail and rail, and there were so many more people travelling as foot passengers back then. It’s changed dramatically in recent years. In the waiting hall they only have a dozen people at best, whereas it used to be packed. In Dublin there used to be two ports, with fast ferry sailings to Holyhead from Dun Laoghaire, just 99 minutes for the crossing, but now there’s only Dublin Port where the slower boats operate. The airlines have become the dominant form of transport. I think government intervention is needed to promote low carbon forms of travel.
 
+> "I think we’ve seen a breakdown in the whole Rail and Sail system. As a youngster there were so many more people travelling as foot passengers. It’s changed dramatically."
+
 #### Rachel
 
 How frequently do you make these trips? 
@@ -79,6 +85,8 @@ How frequently do you make these trips?
 #### Bonnie
 
 We go on average about once a year. We plan it in advance so you can book your train and set your route out, and you can get the best fare or make a good plan. It’s the short-notice visits that I find difficult and I generally say no to, because with a full-time job and kids going to school, it’s difficult to go by train at short notice. Taking the train from Exeter to London is as expensive as taking the Eurostar from London to Amsterdam. Because I don’t want to fly, I just have to say no, and I have to disappoint people and that’s the hard bit. 
+
+> "We plan in advance. It's the short-notice visits I generally say no to, it's difficult. Because I don't want to fly I have to say no, and I have to disappoint people."
 
 #### Seb
 
@@ -96,6 +104,8 @@ It’s been all about Zoom. Before the pandemic, I would sometimes just forget t
 
 At 4 o’clock on a Sunday me, my sister and my parents all dial in on our phones. It’s really nice to have that weekly point of contact, to hear how everyone is doing. With my friends, we have WhatsApp groups. When you live abroad, you lose touch a bit, and thanks to COVID, we moved online and we now share more, and that has made me feel much more part of things. We even did a whole memorial service on WhatsApp for one of the fathers who passed away, which was, for me, a blessing, because in a normal world I could never have gone at such short notice. This way at least I could be part of it. 
 
+> "When you live abroad, you lose touch a bit, and thanks to COVID, we moved online and we now share more."
+
 #### Rachel
 
 Would you recommend overland travel? 
@@ -111,7 +121,6 @@ This month we are recommending islands.
 Maggie recommends the Isle of Arran, off the west coast of Scotland. Rachel recommends Brownsea Island, in Poole harbour. Seb recommends the island of Ireland and also Dalkey Island on the edge of Dublin Bay. Catherine recommends St Michael’s Mount in Cornwall. Bonnie recommends an island in the Netherlands called Ameland. 
 
 Thank you to all our contributors this month. You can listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-family-and-friends/) and find other episodes and previous series [here](/podcast/).
-
 
 *Credits
 Voiceover: L. Sophie Helbig. Soundtrack: Chasing Balloons by Yeti Music.*
