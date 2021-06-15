@@ -10,7 +10,7 @@ summary: Flying to see friends and family makes up a quarter of flights from the
 author: FlightFree UK
 read_time_minute: 6
 ---
-*This is episode 6 of our 2021 podcast series. You can listen to the podcast [here](https://flightfreeuk.podbean.com/e/2021-series-family-and-friends/) and find other episodes and previous series [here](/podcast/).* 
+*This is episode six of our 2021 podcast series. You can listen to the podcast [here](https://flightfreeuk.podbean.com/e/2021-series-family-and-friends/) and find other episodes and previous series [here](/podcast/).* 
 
 ![Images shows the three guests Catherine, Sebastien and Bonnie](/images/uploads/06june_episode_blog.jpg)
 
@@ -120,5 +120,4 @@ Maggie recommends the Isle of Arran, off the west coast of Scotland. Rachel reco
 
 ### *Thank you to all our contributors this month. You can listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-family-and-friends/) and find other episodes and previous series [here](/podcast/).*
 
-*Credits
-Voiceover: L. Sophie Helbig. Soundtrack: Chasing Balloons by Yeti Music.*
+*Voiceover: [L. Sophie Helbig](https://lshelbig.com/main/). Soundtrack: [Chasing Balloons by Yeti Music](https://uppbeat.io/track/yeti-music/chasing-balloons).*
