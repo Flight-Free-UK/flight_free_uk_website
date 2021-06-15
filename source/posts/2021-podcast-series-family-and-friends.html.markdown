@@ -12,7 +12,7 @@ read_time_minute: 6
 ---
 *This is episode six of our 2021 podcast series. You can listen to the podcast [here](https://flightfreeuk.podbean.com/e/2021-series-family-and-friends/) and find other episodes and previous series [here](/podcast/).* 
 
-![Images shows the three guests Catherine, Sebastien and Bonnie](/images/uploads/06june_episode_blog.jpg)
+![Images shows the three guests Catherine, Sebastien and Bonnie](/images/uploads/1024x512-images-for-blog.jpg)
 
 ## Avoiding flying for holiday reasons can be easy to do. But what’s it like when you have family overseas, and going somewhere else just isn’t an option?
 
