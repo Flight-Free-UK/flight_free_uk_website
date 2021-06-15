@@ -36,7 +36,7 @@ I am Dutch and I’ve been living in the UK since 2006 with our two kids. My sis
 
 #### Catherine
 
-I live in England and my parents are in Northern Ireland. I’ve been in England for twenty years and mostly I fly back and forth. I have two kids, one three-year-old and the other eight months. We are going back again on Sunday, and I did look at getting the ferry this time, but with young kids, they are not going to hack the long journeys.
+I live in England and my parents are in Northern Ireland. I’ve been in England for twenty years and mostly I fly back and forth. I have two kids: one three-year-old and the other eight months. We are going back again on Sunday, and I did look at getting the ferry this time, but with young kids, they are not going to hack the long journeys.
 
 #### Flight Free UK
 
