@@ -76,8 +76,6 @@ I think more routes, and faster, and less expensive!
 
 I think we’ve seen a breakdown in the whole Rail and Sail system. I remember as a youngster travelling by sail and rail, and there were so many more people travelling as foot passengers back then. It’s changed dramatically in recent years. In the waiting hall they only have a dozen people at best, whereas it used to be packed. In Dublin there used to be two ports, with fast ferry sailings to Holyhead from Dun Laoghaire, just 99 minutes for the crossing, but now there’s only Dublin Port where the slower boats operate. The airlines have become the dominant form of transport. I think government intervention is needed to promote low carbon forms of travel.
 
-> "I think we’ve seen a breakdown in the whole Rail and Sail system. As a youngster there were so many more people travelling as foot passengers. It’s changed dramatically."
-
 #### Flight Free UK
 
 How frequently do you make these trips? 
