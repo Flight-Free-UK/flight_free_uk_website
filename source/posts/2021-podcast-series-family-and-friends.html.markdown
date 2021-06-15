@@ -84,7 +84,7 @@ How frequently do you make these trips?
 
 We go on average about once a year. We plan it in advance so you can book your train and set your route out, and you can get the best fare or make a good plan. It’s the short-notice visits that I find difficult and I generally say no to, because with a full-time job and kids going to school, it’s difficult to go by train at short notice. Taking the train from Exeter to London is as expensive as taking the Eurostar from London to Amsterdam. Because I don’t want to fly, I just have to say no, and I have to disappoint people and that’s the hard bit. 
 
-> "It's the short-notice visits I generally say no to. Because I don't want to fly I have to say no, and I have to disappoint people."
+> "It's the short-notice visits I say no to. Because I don't want to fly, I have to disappoint people."
 
 #### Seb
 
