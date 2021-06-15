@@ -102,7 +102,7 @@ It’s been all about Zoom. Before the pandemic, I would sometimes just forget t
 
 At 4 o’clock on a Sunday me, my sister and my parents all dial in on our phones. It’s really nice to have that weekly point of contact, to hear how everyone is doing. With my friends, we have WhatsApp groups. When you live abroad, you lose touch a bit, and thanks to COVID, we moved online and we now share more, and that has made me feel much more part of things. We even did a whole memorial service on WhatsApp for one of the fathers who passed away, which was, for me, a blessing, because in a normal world I could never have gone at such short notice. This way at least I could be part of it. 
 
-> "When you live abroad, you lose touch a bit, and thanks to COVID, we moved online and we now share more."
+> "When you live abroad, you lose touch a bit, and now we've moved online and we share more."
 
 #### Flight Free UK
 
