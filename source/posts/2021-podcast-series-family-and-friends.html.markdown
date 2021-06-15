@@ -16,7 +16,7 @@ read_time_minute: 6
 
 ## Avoiding flying for holiday reasons can be easy to do. But what’s it like when you have family overseas, and going somewhere else just isn’t an option?
 
-### This month, we are talking to Bonnie, Seb and Catherine, who all travel regularly to see family and friends.
+### This month we are talking to Bonnie, Sebastien and Catherine, who all travel regularly to see family and friends.
 
 Travelling to see family and friends is the fastest growing category of visits overseas by UK residents. It has grown from 6.6 million visits a year twenty years ago to 23.5 million visits in 2019, according to the International Passenger Survey. It now accounts for a quarter of all visits abroad.  Nearly 90% are by air.
 
