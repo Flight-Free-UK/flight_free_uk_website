@@ -13,9 +13,11 @@ read_time_minute: 3
 
 ![Image shows high ropes activity above the River Dart.](/images/uploads/river_dart_ropes.jpg)
 
-## Devon and Cornwall have been prime hotspots for British holiday-makers for many years, with great weather and a huge variety of destinations to choose from. As we become increasingly mindful of eco-travel, and especially with all the complications around Covid, this beautiful part of the country is a great choice for an accessible holiday destination that doesn’t require a flight.
+## Devon and Cornwall have been prime hotspots for British holiday-makers for many years, with great weather and a huge variety of destinations to choose from. 
 
-### Located within Dartmoor National Park in Devon is the River Dart Country Park. With 90 acres of parkland and playgrounds it has been a hub for family holidays since 1976. It’s a place Flight Free UK Director Anna Hughes visited as a child.
+### As we become increasingly mindful of eco-travel, and especially with all the complications around Covid, this beautiful part of the country is a great choice for an accessible holiday destination that doesn’t require a flight.
+
+Located within Dartmoor National Park in Devon is the River Dart Country Park. With 90 acres of parkland and playgrounds it has been a hub for family holidays since 1976. It’s a place Flight Free UK Director Anna Hughes visited as a child.
 
 “I remember it being a place full of mystery and excitement,” she says. “Each day we would explore a new part of the park. I loved the forests and the river itself, running through the middle of the trees. We did a lot of paddling and swimming – simple activities, but just as exciting for a young child as the rope courses and zip wires. The place gave me a thirst for adventure. I have never forgotten the holidays we had there and it gave me an incredible fondness for the River Dart. This is the kind of experience that shapes our future travel: as an adult, I appreciate so much more the value of making discoveries in this country.”
 
