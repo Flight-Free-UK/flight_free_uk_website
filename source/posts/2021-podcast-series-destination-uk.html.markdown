@@ -77,8 +77,6 @@ You can spend as much as you want on a holiday! But it doesn’t have to be more
 
 We’ve mentioned the Isles of Scilly, Cornwall and the Jurassic Coast. These are places that are already quite popular. So what might happen if we start to holiday abroad less, and holiday here more? Are we going to be suffering from over tourism? 
 
-![Spring ariel view of St. Agnes, Isle of Scilly. ](/images/uploads/spring-aerial-view-of-st-agnes-isles-of-scilly.jpg "St. Agnes, Isle of Scilly")
-
 #### Cat
 
 There is so much here in the UK that doesn’t see loads of tourists, and there are so many people who would be really delighted to have more tourism in their local economy. One of the things we try to do with Byway is find the quieter places, sometimes within regions that might themselves be very popular. 
@@ -86,6 +84,8 @@ There is so much here in the UK that doesn’t see loads of tourists, and there 
 I think as we see a shift in sustainability consciousness and decision making around holidays, there need to be more companies that are helping people explore this way. And in terms of COVID recovery, that’s a good thing for whole areas of the UK.
 
 Seasonality is really interesting as well. We’re not selling trips in Cornwall and the Scilly Isles in August – we’re selling them in September and June. Our August trips are around the Yorkshire Moors and Yorkshire Dales. Everywhere is quiet sometimes.
+
+![Spring ariel view of St. Agnes, Isle of Scilly. ](/images/uploads/spring-aerial-view-of-st-agnes-isles-of-scilly.jpg "St. Agnes, Isle of Scilly")
 
 #### Flight Free UK
 
