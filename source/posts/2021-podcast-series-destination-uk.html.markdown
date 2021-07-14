@@ -121,4 +121,4 @@ Anna chose Cape Wrath, the north west corner of Scotland. You can only access it
 
 *Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-destination-uk/) and find other episodes and previous series [here](/podcast).*
 
-*Voiceover: L. Sophie Helbig. Soundtrack: Chasing Balloons by Yeti Music.*
+*Voiceover: [L. Sophie Helbig](https://lshelbig.com/main/). Soundtrack: [Chasing Balloons by Yeti Music](https://uppbeat.io/track/yeti-music/chasing-balloons).*
