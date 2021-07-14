@@ -37,6 +37,8 @@ Could you recommend two top itineraries for travel within the UK?
 
 One of our top trips for us and our customers at the moment is the West of Scotland. The Scottish Highlands and Islands, Mull, Iona, Staffa, Loch Lomond and the Trossachs, Skye and some of the small isles, and Fort William with the Harry Potter train. We’ve got some people away right now who are going up past Inverness and up to Orkney as well, so there are whole worlds of extension and detours around that. That’s a really popular region for us at the moment.
 
+![landscape of Scottish countryside ](/images/uploads/scotland.jpg "Scotland")
+
 The other that’s been very popular this summer has been Cornwall and the Isles of Scilly. It’s very common to fly to the Isles of Scilly, and there’s no reason why it should be. There’s a great night train, so you get on a night train to Cornwall and then out on the ferry, and you are there. 
 
 #### Flight Free UK
@@ -61,6 +63,8 @@ Is there anything that’s not so good about travelling in the UK, compared with
 
 Yes – that’s the flipside of what I’ve just said! It really works and it’s very flexible, and there are great options for getting around, but the downside is that to access that information is really difficult.
 
+![](/images/uploads/st-ives-bay.jpg "St. Ives Bay, Cornwall")
+
 #### Flight Free UK
 
 Is it true that holidaying in the UK is more expensive than holidaying abroad?
@@ -72,6 +76,8 @@ You can spend as much as you want on a holiday! But it doesn’t have to be more
 #### Flight Free UK
 
 We’ve mentioned the Isles of Scilly, Cornwall and the Jurassic Coast. These are places that are already quite popular. So what might happen if we start to holiday abroad less, and holiday here more? Are we going to be suffering from over tourism? 
+
+![Spring ariel view of St. Agnes, Isle of Scilly. ](/images/uploads/spring-aerial-view-of-st-agnes-isles-of-scilly.jpg "St. Agnes, Isle of Scilly")
 
 #### Cat
 
