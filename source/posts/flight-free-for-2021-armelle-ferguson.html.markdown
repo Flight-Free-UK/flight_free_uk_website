@@ -2,14 +2,14 @@
 published: false
 title: "Flight Free for 2021: Armelle Ferguson"
 category: testimonials
-date: 2021-07-15T09:04:44.079Z
-cover_image: /images/uploads/1000-pledges.jpg
+date: 2021-03-12T12:17:05.205Z
+cover_image: /images/uploads/armelle-holding-pledge.jpg
 summary: "Sustainable Fashion journalist, Armelle Ferguson, shares why she has
   chosen to be #flightfree for 2021."
 author: FlightFree UK
 read_time_minute: 444
 ---
-![]()
+![Armelle holding her flight free 2021 pledge](/images/uploads/armelle-holding-pledge.jpg)
 
 ## I am taking the flight free pledge, and I won’t be flying at all in 2021.
 
@@ -27,7 +27,6 @@ Having the majority of my family living in the Caribbean, it can be a challenge 
 
 Not flying, to me, is not only about abstract numbers and tons of carbon emissions; it’s also about doing everything I can for my culture and my home island to still be there for my children and my grandchildren to enjoy.
 
-### I know a lot of people feel that they love the Caribbean and its beautiful islands. So let’s all love the Caribbean enough to avoid contributing to its disappearance. 
+### I know a lot of people feel that they love the Caribbean and its beautiful islands. So let’s all love the Caribbean enough to avoid contributing to its disappearance.
 
-\
-Thank you, Armelle! Could you join Armelle and take the [Flight Free pledge](/take_action/)?
+#### *Thank you, Armelle! Could you join Armelle and take the [Flight Free pledge](/take_action/)?*
