@@ -9,7 +9,7 @@ summary: "Sustainable Fashion journalist, Armelle Ferguson, shares why she has
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Armelle holding her flight free 2021 pledge](/images/uploads/fb49e476-0482-482e-a3c9-a1a093737c94.jpeg)
+![Armelle holding her flight free 2021 pledge](/images/uploads/5829b0d1-3629-4dd2-a706-bff6374b4a09.jpeg)
 
 ## I am taking the flight free pledge, and I won’t be flying at all in 2021.
 
