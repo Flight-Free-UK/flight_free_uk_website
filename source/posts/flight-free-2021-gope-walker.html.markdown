@@ -9,4 +9,4 @@ summary: "Triathlete and IT consultant, Gope Walker, shares why he and his
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/gope-walker-quote.jpg)
+![]()
