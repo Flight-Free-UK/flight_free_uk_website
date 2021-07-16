@@ -15,7 +15,7 @@ read_time_minute: 2
 
 It’s not just about individual change – ‘carbon footprint’ was a concept created by fossil fuel companies to falsely move the onus onto us – but there are important conversations to have around flying and climate justice.
 
-> ”’Sustainable aviation’ just isn’t there yet, and there aren’t yet ways around a zero carbon world without flying less.”
+> ”””Sustainable aviation’ just isn’t there yet, and there aren’t yet ways around a zero carbon world without flying less.”
 
 Only 5-20% of the population have ever flown, and a tiny elite percentage make up the majority of flights. Flying has a uniquely intense carbon impact with just one flight producing more emissions than individuals in some countries emit in a year, with these generally being the countries that will suffer the most from climate change. ‘Sustainable aviation’ just isn’t there yet, and there aren’t yet ways around a zero carbon world without flying less. 
 
