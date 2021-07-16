@@ -7,7 +7,7 @@ cover_image: /images/uploads/fran-haddock-envirobite.jpg
 summary: "Climate activist, Fran Haddock, shares her story of signing the
   #FlightFree pledge for the second consecutive year!"
 author: FlightFree UK
-read_time_minute: 3
+read_time_minute: 2
 ---
 ![](/images/uploads/fran-haddock-quote.jpg)
 
