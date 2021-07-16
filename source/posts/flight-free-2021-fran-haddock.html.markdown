@@ -11,6 +11,8 @@ read_time_minute: 3
 ---
 ![](/images/uploads/fran-haddock-quote-.jpg)
 
+
+
 ## Last year I supported the #FlightFree2020 campaign… then Covid came and most of us couldn’t fly anyway! This year flying may still not be possible for many due to Covid, but even so I have chosen to pledge to be flight free for 2021 and use it as an opportunity to talk about this topic. 
 
 It’s not just about individual change – ‘carbon footprint’ was a concept created by fossil fuel companies to falsely move the onus onto us – but there are important conversations to have around flying and climate justice.
@@ -25,8 +27,10 @@ Voluntarily reduction is an important part of the solution. I want to spread the
 
 There are also big systemic changes in this area we can support too such as blocking airport expansion, frequent flyer levies, (affordable) new long distance train links, removing subsidies from the industry (whilst supporting a just transition of jobs) and increased aviation tax, supporting the use of comms technology post-Covid to reduce the need for business travel, and a move towards slow-cations (e.g. jobs that allow remote working whilst travelling).
 
+> ”I‘m sure I will fly again, but consciously and meaningfully.”
+
 I’m sure I will fly again, but consciously and meaningfully. Seeing the world gives experiences that can provide a greater sense of global empathy, and of course people need to see families they live apart from. 
 
 ### But flying is a HUGE privilege and we can acknowledge that by consciously flying less, for example by pledging to go flight free for a year or longer, and fighting for climate justice by uplifting the voices of those affected by climate change.
 
-#### Thank you, Fran! Follow Fran on Instagram @envirobite for more inspiring posts. Could you [join](/take_action/) the Flight Free movement?
+#### *Thank you, Fran! Follow Fran on Instagram [@envirobite](https://instagram.com/envirobite?utm_medium=copy_link) for more inspiring posts. Could you [join](/take_action/) the Flight Free movement?*
