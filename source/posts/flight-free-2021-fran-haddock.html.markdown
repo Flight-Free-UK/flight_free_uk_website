@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Flight Free 2021: Fran Haddock"
 category: testimonials
 date: 2021-06-15T19:34:12.663Z
