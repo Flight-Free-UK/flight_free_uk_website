@@ -2,7 +2,7 @@
 published: false
 title: "Flight Free 2021: Lee Jackson"
 category: testimonials
-date: 2021-07-18T21:08:23.701Z
+date: 2021-07-18T21:20:03.701Z
 cover_image: /images/uploads/lee-jackson.jpg
 summary: "Lee "
 author: FlightFree UK
@@ -11,6 +11,7 @@ read_time_minute: 2
 ![](/images/uploads/lee-jackson-quote.jpg)
 
 ## \
+
 My job was discontinued due to the Covid impact on Corporate Travel. Over the course of my career I have mostly worked in the Travel Industry or as a service provider to it, in the last decade through roles for payment companies.
 
 I spent three years working for an airline which I really enjoyed. I worked for a US company with regular trips across the Atlantic for a while, and in general I can look back on a privileged existence from a career in the travel sector.
@@ -31,4 +32,4 @@ I was born amidst the Yorkshire Coalfields, my paternal Grandfather was a miner,
 
 ### Electric flight and sustainable air fuels may offer promise in a decade’s time but this is the very decade that we have to stop the damage. If there is a need for these journeys to take place then surely that should be for urgent medical aid, diplomatic missions, and other vital causes. My summer holiday, adventure, ski break or corporate jolly doesn’t qualify as any of these.
 
-Thank you, Lee!
+Thank you, Lee! Why not try going Flight Free [yourself](/take_action/)?
