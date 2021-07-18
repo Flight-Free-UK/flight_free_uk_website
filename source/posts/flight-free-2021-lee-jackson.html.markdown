@@ -10,9 +10,7 @@ read_time_minute: 2
 ---
 ![](/images/uploads/lee-jackson-quote.jpg)
 
-## \
-
-My job was discontinued due to the Covid impact on Corporate Travel. Over the course of my career I have mostly worked in the Travel Industry or as a service provider to it, in the last decade through roles for payment companies.
+## My job was discontinued due to the Covid impact on Corporate Travel. Over the course of my career I have mostly worked in the Travel Industry or as a service provider to it, in the last decade through roles for payment companies.
 
 I spent three years working for an airline which I really enjoyed. I worked for a US company with regular trips across the Atlantic for a while, and in general I can look back on a privileged existence from a career in the travel sector.
 
