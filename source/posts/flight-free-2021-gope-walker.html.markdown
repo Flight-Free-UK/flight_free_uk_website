@@ -22,3 +22,5 @@ Work-wise, I run an IT consultancy, Data Kraken. We’ve always had processes in
 > “Covid has meant businesses are having to adapt but based on my experience, I strongly believe a large majority of business flights are ultimately unnecessary.“
 
 Data Kraken is also going flight free in 2021. That doesn't mean all of the staff will be flight free in their personal lives (albeit we will be encouraging staff to do this), but from a business perspective, none of our team will be flying for any business purposes. Bearing in mind we've got staff and clients in three continents, it could be a challenge but based on the fact that due to Covid we did no business flights in 2020, the team is certainly motivated by this initiative in 2021.
+
+#### Thank you, Gope! Sign the [flight free pledge](/take_action/) today!
