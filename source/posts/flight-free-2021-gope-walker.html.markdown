@@ -9,9 +9,9 @@ summary: "Triathlete and IT consultant, Gope Walker, shares why he and his
 author: FlightFree UK
 read_time_minute: 2
 ---
-![]()
+![](/images/uploads/gope-walker-quote.jpg)
 
-## I’ve always been conscious of climate issues but it wasn't until I saw Flight Free UK on BBC Breakfast in August 2019 that I realised the huge environmental impact of flying. After doing some research online I decided to take the Flight Free 2020 pledge. 
+## I’ve always been conscious of climate issues but it wasn't until I saw Flight Free UK on BBC Breakfast in August 2019 that I realised the huge environmental impact of flying. After doing some research online I decided to take the Flight Free 2020 pledge.
 
 From a personal point of view this was quite a challenge because in my spare time I do triathlons and my training was always in places like the south of Spain or Lanzarote. In 2020 I went to the Lake District and Wales. Yes it’s colder and the roads aren’t as good, but the UK mountains and lakes are as beautiful as anywhere in the world in my opinion. There are some stunning parts of the UK that I was not aware of up until last year – it’s a real shame it took me this long to find out about them.
 
