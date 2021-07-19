@@ -10,7 +10,7 @@ summary: "Annabel Upson is committed to creating positive change in the travel
 author: FlightFree UK
 read_time_minute: 3
 ---
-
+![](/images/uploads/annabel-upson-quote.jpg)
 
 ## I have been fortunate to explore the hidden corners of the world, connecting with incredible people, and learning about cultures, histories and environments. But I realised along the way that how I was travelling was impacting the world.
 
