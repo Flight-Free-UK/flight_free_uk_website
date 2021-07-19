@@ -4,7 +4,7 @@ title: "Flight Free for 2021: Lee Jackson"
 category: testimonials
 date: 2021-05-25T21:20:03.701Z
 cover_image: /images/uploads/lee-jackson.jpg
-summary: "Lee Jackson from the Lake District shareS how reading “The
+summary: "Lee Jackson from the Lake District shares how reading “The
   Uninhabitable Earth” lead him to change his lifestyle and take the #FlightFree
   pledge."
 author: FlightFree UK
