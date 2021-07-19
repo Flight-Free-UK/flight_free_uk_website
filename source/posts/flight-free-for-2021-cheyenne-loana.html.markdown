@@ -2,7 +2,7 @@
 published: true
 title: "Flight Free for 2021: Cheyenne Loana"
 category: testimonials
-date: 2021-07-19T13:50:02.405Z
+date: 2021-06-10T13:50:33.906Z
 cover_image: /images/uploads/cheyenne-loana.jpg
 summary: "Cheyenne shares her experiences of being #FlightFree while still
   visiting her family and friends in Germany despite living and studying in
