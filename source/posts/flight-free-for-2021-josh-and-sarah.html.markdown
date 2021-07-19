@@ -12,6 +12,7 @@ read_time_minute: 2
 ![](/images/uploads/josh-sarah-quote.jpg)
 
 ### \
+
 Sarah and I spent our early twenties adventuring around the world and catching lots of flights. But it was on these trips overseas when we truly saw some of the horrific environmental damage taking place around the world.
 
 Slowly, we started making more and more changes to lead lower-impact lifestyles – changing our shopping habits, embracing second-hand, going vegan – and then we realised how disastrous flying was for the natural world. 
