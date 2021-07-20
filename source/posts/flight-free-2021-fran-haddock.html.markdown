@@ -2,16 +2,18 @@
 published: true
 title: "Flight Free for 2021: Fran Haddock"
 category: testimonials
-date: 2021-06-15T19:34:12.663Z
+date: 2021-05-01T19:34:12.663Z
 cover_image: /images/uploads/fran-haddock-envirobite.jpg
-summary: "Climate activist, Fran Haddock, shares her story of signing the
+summary: "Climate activist Fran Haddock shares her story of signing the
   #FlightFree pledge for the second consecutive year!"
 author: FlightFree UK
 read_time_minute: 2
 ---
 ![](/images/uploads/fran-haddock-quote.jpg)
 
-## Last year I supported the #FlightFree2020 campaign… then Covid came and most of us couldn’t fly anyway! This year flying may still not be possible for many due to Covid, but even so I have chosen to pledge to be flight free for 2021 and use it as an opportunity to talk about this topic. 
+## Last year I supported the #FlightFree2020 campaign… then Covid came and most of us couldn’t fly anyway!
+
+### This year flying may still not be possible for many due to Covid, but even so I have chosen to pledge to be flight free for 2021 and use it as an opportunity to talk about this topic. 
 
 It’s not just about individual change – ‘carbon footprint’ was a concept created by fossil fuel companies to falsely move the onus onto us – but there are important conversations to have around flying and climate justice.
 
