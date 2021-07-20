@@ -25,4 +25,4 @@ Since we clipped our wings, we’ve completed the UK Three Peaks Challenge by bi
 
 ### Stopping flying actually opened a world of possibilities and it’s a decision we’re proud to have made.
 
-*Thank you, Josh and Sarah! Read more about Josh and Sarah’s flight free adventures [here](/post/getting-creative-with-a-love-of-adventure/) or follow them on [Instagram](https://instagram.com/veggievagabonds_?utm_medium=copy_link) and [Twitter](https://twitter.com/veggievagabonds?s=21). Why not see where ‘clipping your wings’ takes you and sign the [Flight Free pledge](/take_action)?*
+#### *Thank you, Josh and Sarah! Read more about Josh and Sarah’s flight free adventures [here](/post/getting-creative-with-a-love-of-adventure/) or follow them on [Instagram](https://instagram.com/veggievagabonds_?utm_medium=copy_link) and [Twitter](https://twitter.com/veggievagabonds?s=21). Why not see where ‘clipping your wings’ takes you and sign the [Flight Free pledge](/take_action)?*
