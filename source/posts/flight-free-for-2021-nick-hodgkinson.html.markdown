@@ -15,7 +15,7 @@ read_time_minute: 2
 
 ### We all depend on the same climate so we all need to protect it. My nephew lives in Berlin and he’s got three beautiful kids. I want them to live in a safer and greener world when they grow up.
 
-I’m involved in the campaign to stop Leeds Bradford Airport from expanding (www.galba.uk). If our local Council approves the airport’s planning application, it will double its greenhouse gas emissions in the next 10 years. Yet scientists tell us that we need to cut greenhouse gas emissions as far and as fast as possible in the next 10 years. Airport expansion would be *plane* crazy!
+I’m involved in the [campaign](www.galba.uk) to stop Leeds Bradford Airport from expanding. If our local Council approves the airport’s planning application, it will double its greenhouse gas emissions in the next 10 years. Yet scientists tell us that we need to cut greenhouse gas emissions as far and as fast as possible in the next 10 years. Airport expansion would be *plane* crazy!
 
 > “It would be great if ‘jet zero’ could be a commercial reality sometime soon. But the real experts say it won’t.”
 
