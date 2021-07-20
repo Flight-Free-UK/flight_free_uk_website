@@ -9,7 +9,7 @@ summary: "Josh and Sarah tell us how embracing their #FlightFree lifestyle
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/josh-sarah-quote.jpg)
+![](/images/uploads/josh-sarah-quote-.jpg)
 
 ## Sarah and I spent our early twenties adventuring around the world and catching lots of flights.
 
