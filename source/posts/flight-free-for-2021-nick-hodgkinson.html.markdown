@@ -2,7 +2,7 @@
 published: false
 title: "Flight Free for 2021: Nick Hodgkinson"
 category: testimonials
-date: 2021-07-20T13:16:07.967Z
+date: 2021-07-20T13:30:07.757Z
 cover_image: /images/uploads/nick-hogkinson-.jpg
 summary: "GALBA campaigner, Nick Hodgkinskon, tells us why he signed the
   #FlightFree 2021 pledge."
@@ -24,3 +24,5 @@ We’ve heard a lot of talk about ‘jet zero’ and zero carbon flying. It woul
 > “We’ve had to adapt our lives to deal with Covid. If we start adapting our lives to deal with the climate crisis now, we can help make a better future.”
 
 We’ve all had to adapt our lives to deal with the Covid crisis. It’s tough but we’ve also learned things – lockdown has made us look at new ways of living. For example, who used Zoom as much as we do now? The good news is that if we start adapting our lives to deal with the climate crisis – right now – we can help to make a better future for people all around the world. And if I want to see my family in Berlin, I’ll use a more sustainable form of transport, like the train. As a wheelchair user, the train is much easier for me than trying to fit into a cramped plane.
+
+#### Thank you, Nick! We definitely need to adapt for a safer, greener future. Could you take your first step and sign the [flight free pledge](/take_action/) today?
