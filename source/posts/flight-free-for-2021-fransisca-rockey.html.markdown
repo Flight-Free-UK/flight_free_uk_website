@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Flight Free for 2021: Fransisca Rockey"
 category: testimonials
 date: 2021-07-20T13:41:17.562Z
