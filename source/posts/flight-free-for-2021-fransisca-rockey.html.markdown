@@ -2,7 +2,7 @@
 published: true
 title: "Flight Free for 2021: Fransisca Rockey"
 category: testimonials
-date: 2021-07-20T13:41:17.562Z
+date: 2021-04-11T13:41:17.562Z
 cover_image: /images/uploads/fransisca-rockey-.jpg
 summary: "Black Geographers founder, Fransisca Rockey, shares why she has
   decided to take a #FlightFree year. "
