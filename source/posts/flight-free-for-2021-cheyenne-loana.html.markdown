@@ -2,23 +2,26 @@
 published: true
 title: "Flight Free for 2021: Cheyenne Loana"
 category: testimonials
-date: 2021-06-10T13:50:33.906Z
+date: 2021-02-15T14:50:33.906Z
 cover_image: /images/uploads/cheyenne-loana.jpg
-summary: "Cheyenne shares her experiences of being #FlightFree while still
-  visiting her family and friends in Germany despite living and studying in
-  Glasgow. "
+summary: "Glasgow-based Cheyenne shares her experiences of being #FlightFree
+  while still visiting her family and friends in Germany. "
 author: FlightFree UK
 read_time_minute: 3
 ---
 ![](/images/uploads/cheyenne-loana-quote.jpg)
 
-## I was a frequent flyer and I loved it! Living abroad, I thought I depended on flights to see my family and friends, and I was spoiled by my parents' contagious lust for vacations in foreign places.
+## I was a frequent flyer and I loved it!
 
-But in late September 2019, just when I got back from my travel-marathon through Montreal, the United States, South Africa and Mozambique (all in one summer!!), I was hit by a heart-felt realization of the environmental damage caused by my adventures. Through my many flights, I was destroying the very thing I sought to see! 
+### Living abroad, I thought I depended on flights to see my family and friends, and I was spoiled by my parents' contagious lust for vacations in foreign places.
 
-> “I was hit by a heart-felt realization of the environmental damage caused by my adventures. I was destroying the very thing I sought to see!“
+But in late September 2019, just when I got back from my travel-marathon through Montreal, the United States, South Africa and Mozambique (all in one summer!!), I was hit by a heart-felt realisation of the environmental damage caused by my adventures. Through my many flights, I was destroying the very thing I sought to see! 
 
-Having been actively involved in the climate movement for a few months, my cognitive dissonance resulting from the mismatch between my love for the planet and my enormous, ever growing carbon footprint felt overwhelming. I genuinely thought I'm going to have a minor mental breakdown. My eco-anxiety and grief for the planet hit hard as I spent countless days crying but nothing helped to wash away my feelings of guilt. I knew I had to truly align my actions with my pro-environmental values, so I went cold turkey on flights.
+> “I was hit by a realisation of the environmental damage caused by my adventures. I was destroying the very thing I sought to see.“
+
+Having been actively involved in the climate movement for a few months, my cognitive dissonance resulting from the mismatch between my love for the planet and my enormous, ever growing carbon footprint felt overwhelming. I genuinely thought I'm going to have a minor mental breakdown. 
+
+My eco-anxiety and grief for the planet hit hard as I spent countless days crying but nothing helped to wash away my feelings of guilt. I knew I had to truly align my actions with my pro-environmental values, so I went cold turkey on flights.
 
 Here I am, still living abroad, yet still visiting family and friends and proudly maintaining my second year in a row of being flight-free. 
 
