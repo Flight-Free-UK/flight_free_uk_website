@@ -2,7 +2,7 @@
 published: true
 title: "Flight Free for 2021: Cheyenne Loana"
 category: testimonials
-date: 2021-02-15T14:50:33.906Z
+date: 2021-06-16T13:50:33.906Z
 cover_image: /images/uploads/cheyenne-loana.jpg
 summary: "Glasgow-based Cheyenne shares her experiences of being #FlightFree
   while still visiting her family and friends in Germany. "
@@ -35,8 +35,7 @@ Quitting flying has allowed me to discover wonderful places by train and bus, pr
 
 > “Quitting flying has allowed me to discover wonderful places by train and bus, proving that great adventures are possible with slow and low emission travels.”
 
-I understand that the decision to go flight-free (for however long one decides) is not always taken lightly. I have friends and family living overseas and this year's decision to pledge flight-free came with a great challenge:
-This month, it's my dear friend's wedding in Canada. We have dreamt about our reunion on her wedding day even before she had a boyfriend! Thus, I thought about my pledge very carefully.
+I understand that the decision to go flight-free (for however long one decides) is not always taken lightly. I have friends and family living overseas and this year's decision to pledge flight-free came with a great challenge: this year, it's my dear friend's wedding in Canada. We have dreamt about our reunion on her wedding day even before she had a boyfriend! Thus, I thought about my pledge very carefully.
 
 > “It is more important than ever for us to stay grounded and reduce our carbon emissions as best as we can – individually and collectively.”
 
@@ -48,4 +47,4 @@ I am not (yet) saying I'll *NEVER* fly again, but I do believe that we all carry
 
 ### I hope more people will be inspired to quit/reduce their flights. Together, we can take action and everyone has the capacity to contribute to positive change.
 
-#### Thank you, Cheyenne! Adventures are still possible without flying, are you ready to take the [Flight Free pledge](/take_action/)?
+#### *Thank you, Cheyenne! Adventures are still possible without flying. Are you ready to take the [Flight Free pledge](/take_action/)?*
