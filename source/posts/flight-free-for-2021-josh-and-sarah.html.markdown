@@ -19,7 +19,11 @@ Slowly, we started making more and more changes to lead lower-impact lifestyles 
 
 In life, we believe you’ve got to practice what you preach and lead by example, so, in 2017 we took our last flight and haven’t looked back since. 
 
+> “You’ve got to practice what you preach. Our last flight was in 2017, we haven’t looked back since.”
+
 To begin with, we were worried it would hinder exploration or our outdoor passions, but it’s actually done the complete opposite. We’ve become obsessed with human-powered adventures and quickly realised the real excitement is in the journey, rather than the destination. That’s something you can easily forget with today’s simplistic flying culture. 
+
+> “We realised the real excitement is in the journey. That’s something you can easily forget with today’s simplistic flying culture.”
 
 Since we clipped our wings, we’ve completed the UK Three Peaks Challenge by bike (instead of driving) and began a UK to India cycling challenge. 
 
