@@ -31,6 +31,8 @@ The most epic trip I took by bus and train was from London to Berlin, then from 
 
 I saw so much of Europe, met kind travellers. Out of the train window, I waved at strangers, saw sunsets on marshlands with flamingos in France and sunrises over dusty hills in Spain. I went from autumn in North Germany to summer in Southern Spain, I saw the seasons changing on the earth as I moved. I heard languages change around me, felt culture shift, tasted foods change. 
 
-This experience of travel connected me to place. I felt the size of the Earth and all the people filling her. She felt small and homey.If aviation transformed overnight into a carbon-negative industry, I’d still choose to travel on land.
+### This experience of travel connected me to place. I felt the size of the Earth and all the people filling her. She felt small and homey.
+
+### If aviation transformed overnight into a carbon-negative industry, I’d still choose to travel on land.
 
 #### *Thank you, Poppy! Sign the Flight Free pledge [here](/take_action/) and see how it changes your travel experience!*
