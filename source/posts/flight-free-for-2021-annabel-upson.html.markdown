@@ -2,17 +2,18 @@
 published: true
 title: "Flight Free for 2021: Annabel Upson"
 category: testimonials
-date: 2021-07-19T16:50:55.429Z
+date: 2021-07-08T16:50:55.429Z
 cover_image: /images/uploads/annabel-upson-pledge.jpg
-summary: "Annabel Upson is committed to creating positive change in the travel
-  industry and promotes sustainable travel through her company, Travelling
-  Whale. She tells us why she took the #FlightFree pledge."
+summary: "Annabel Upson promotes sustainable travel through her company,
+  Travelling Whale, and tells us why she took the #FlightFree pledge."
 author: FlightFree UK
 read_time_minute: 3
 ---
 ![](/images/uploads/annabel-upson-quote.jpg)
 
-## I have been fortunate to explore the hidden corners of the world, connecting with incredible people, and learning about cultures, histories and environments. But I realised along the way that how I was travelling was impacting the world.
+## I have been fortunate to explore the hidden corners of the world, connecting with incredible people, and learning about cultures, histories and environments.
+
+### But I realised along the way that how I was travelling was impacting the world.
 
 I dreamt up a plan with a friend on how we could make better choices so that we could protect the world as we explored it. We wanted to help others do the same so we created a new kind of travel company that embodies the message that travelling more sustainably is possible. Our company, [Travelling Whale](https://www.travellingwhale.com/) is committed to creating positive change in the travel industry in the collective quest to use travel as a force for good. 
 
@@ -26,4 +27,4 @@ Air travel in Europe is roughly 90% more polluting than if you travel by train. 
 
 ### I hope to help travellers become flight free by encouraging slow travel and showing them alternate ways to reach their destination.
 
-#### Thank you, Annabel! Visit [Travelling Whale](https://www.travellingwhale.com/) for some sustainable adventures! Why not see if you could take the [Flight Free pledge](/take_action/)?
+#### *Thank you, Annabel! Visit [Travelling Whale](https://www.travellingwhale.com/) for some sustainable adventures! Why not see if you could take the [Flight Free pledge](/take_action/)?*
