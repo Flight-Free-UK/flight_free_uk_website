@@ -10,7 +10,7 @@ read_time_minute: 2
 ---
 ![](/images/uploads/sian-charnley-quote.jpg)
 
-## I am lucky that this is quite an easy one for me. 
+## I am lucky that this is quite an easy one for me.
 
 In the 1970s, while train travel was still the default way of travelling in Europe, I read quite a bit about the environment and decided never again to fly.
 
@@ -20,4 +20,4 @@ Once we travelled by train to Poland, once by train and ferry to Morocco and on 
 
 ### I emphasise that this is over the course of a lifetime. But we have no regrets and the most amazing memories.
 
-Thank you, Siân!
+#### *Thank you, Siân! Travelling is about memories as much as it is visiting, and there’s more than one way to do it! Could you join Siân and [sign the pledge](/take_action/) today?*
