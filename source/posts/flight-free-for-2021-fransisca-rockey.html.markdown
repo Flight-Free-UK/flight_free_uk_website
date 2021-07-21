@@ -1,11 +1,11 @@
 ---
 published: true
-title: "Flight Free for 2021: Fransisca Rockey"
+title: "Flight Free for 2021: Francisca Rockey"
 category: testimonials
 date: 2021-04-11T13:41:17.562Z
 cover_image: /images/uploads/fransisca-rockey-.jpg
-summary: "Black Geographers founder, Fransisca Rockey, shares why she has
-  decided to take a #FlightFree year. "
+summary: "Black Geographers founder Francisca Rockey, shares why she has decided
+  to take a #FlightFree year. "
 author: FlightFree UK
 read_time_minute: 2
 ---
@@ -23,4 +23,4 @@ It’s a difficult one for sure because I have family who live abroad and as a g
 
 ### By signing this pledge I’m committing to be a conscious traveller. I’m committing to acknowledging all the different ways that we pollute our planet and to advocate for flight free and local travel.
 
-#### *Thank you, Fransisca! Could you [join](/take_action/) Fransisca and commit to a flight free year?*
+#### *Thank you, Francisca! Could you [join](/take_action/) Francisca and commit to a flight free year?*
