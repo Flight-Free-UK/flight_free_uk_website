@@ -106,24 +106,38 @@ title: FlightFree UK
 <section class="bg-gray-light">
   <div class="container mx-auto px-4 sm:px-8 pt-4 sm:pt-16 pb-6 sm:pb-8 xl:px-16 xxl:px-48 xl:pt-24 xl:pb-20">
     <h2 class="text-4xl lg:text-5xl text-blue-dark mb-2 xl:mb-0">Be inspired</h2>
-    <h3 class="text-xl xl:text-2xl text-blue mb-8 xl:mb-12 leading-tight">Our podcasts and blogs are packed full with inspiring stories of flight-free travels, motivational tales for reducing our carbon footprints, and uplifting testimonials of how taking a flight free year has changed people's lives for the better.</h3>
-    <section class="xl:flex bg-blue-dark mb-6 xl:mb-12">
-      <% podcast = data.podcasts.values.sort_by(&:date).reverse.first %>
-      <a href="<%= podcast.url %>" target="_blank" class="block h-40 xl:h-auto w-full xl:w-56 bg-no-repeat bg-cover bg-top" style="background-image:url(<%= podcast.cover_image %>" %></a>
-      <div class="text-white py-4 xl:py-6 px-4 sm:px-8 xl:px-10 xl:w-1/3">
-        <a href="<%= podcast.url %>" target="_blank" class="block text-lg xl:text-xl pl-10 mb-4 bg-no-repeat bg-contain" style="background-image:url(/svg/podcast.svg)">Listen now</a>
-        <a href="<%= podcast.url %>" target="_blank" class="block text-xl xl:text-2xl leading-none">
-          <%= podcast.title %>
-        </a>
-      </div>
-      <div class="xl:flex-grow xl:flex items-center justify-end px-4 sm:px-8 xl:pl-0 xl:pr-12 pb-6 xl:pb-0">
-        <% link_to "/podcast.html", class: "text-base xl:text-2xl text-orange bg-no-repeat bg-right bg-contain py-1 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
-          View all podcasts
-        <% end %>
-      </div>
-    </section>
-    <section>
-      <div class="flex flex-wrap xl:flex-no-wrap">
+    <p class="text-xl xl:text-2xl text-blue mb-4 xl:mb-8 leading-tight">Our podcasts and blogs are packed full with inspiring stories of flight-free travels, motivational tales for reducing our carbon footprints, and uplifting testimonials of how taking a flight free year has changed people's lives for the better.</p>
+    <div class="xl:flex mb-4">
+        <h3 class="text-2xl xl:text-4xl text-blue-dark leading-tight mb-2">
+            Listen
+        </h3>
+        <p class="xl:flex-grow xl:flex justify-end">
+            <% link_to "/podcast.html", class: "text-base xl:text-xl text-blue-dark bg-no-repeat bg-right py-1 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
+                Listen to our podcasts
+            <% end %>
+        </p>
+    </div>
+    <div class="xl:flex bg-blue-dark mb-4 xl:mb-8">
+        <% podcast = data.podcasts.values.sort_by(&:date).reverse.first %>
+        <a href="<%= podcast.url %>" target="_blank" class="block h-40 xl:h-auto w-full xl:w-56 bg-no-repeat bg-cover bg-top" style="background-image:url(<%= podcast.cover_image %>" %></a>
+        <div class="text-white py-4 xl:py-6 px-4 sm:px-8 xl:px-10 xl:w-1/3">
+            <a href="<%= podcast.url %>" target="_blank" class="block text-lg xl:text-xl pl-10 mb-4 bg-no-repeat bg-contain" style="background-image:url(/svg/podcast.svg)">Listen now</a>
+            <a href="<%= podcast.url %>" target="_blank" class="block text-xl xl:text-2xl leading-none">
+                <%= podcast.title %>
+            </a>
+        </div>
+    </div>
+    <div class="xl:flex mb-4">
+        <h3 class="text-2xl xl:text-4xl text-blue-dark leading-tight mb-2">
+            Read
+        </h3>
+        <p class="xl:flex-grow xl:flex justify-end">
+            <% link_to "/be_inspired.html", class: "text-base xl:text-xl text-blue-dark bg-no-repeat bg-right py-1 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
+                Read our blogs
+            <% end %>
+        </p>
+    </div>
+    <div class="flex flex-wrap xl:flex-no-wrap">
         <div class="xl:w-1/3 xl:mr-6 mb-8 bg-white text-blue-dark">
           <%= partial "home_blog_post", locals: { article: blog.articles[0] } %>
         </div>
@@ -133,12 +147,25 @@ title: FlightFree UK
         <div class="xl:w-1/3 xl:ml-6 mb-4 sm:mb-8 bg-white text-blue-dark">
           <%= partial "home_blog_post", locals: { article: blog.articles[2] } %>
         </div>
-      </div>
-      <div class="xl:text-right">
-        <% link_to "/be_inspired.html", class: "text-l xl:text-2xl text-orange bg-no-repeat bg-right bg-contain py-1 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
-          View all posts
-        <% end %>
-      </div>
-    </section>
+    </div>
+    <div class="xl:flex mb-4">
+        <h3 class="text-2xl xl:text-4xl text-blue-dark leading-tight mb-2">
+            Watch
+        </h3>
+        <p class="xl:flex-grow xl:flex justify-end">
+            <% link_to "https://vimeo.com/flightfreeuk", class: "text-base xl:text-xl text-blue-dark bg-no-repeat bg-right py-1 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
+                Watch our videos
+            <% end %>
+        </p>
+    </div>
+    <div class="flex flex-wrap xl:flex-no-wrap mb-4 xl:mb-8">
+        <% videos = data.videos.values.sort_by(&:date).reverse %>
+        <div class="xl:w-1/2 xl:mr-3 mb-8 bg-white text-blue-dark">
+            <a href="<%= videos[0].url %>" class="block h-56 bg-cover bg-center" style="background-image:url(<%= videos[0].cover_image %>)" title="link to <%= videos[0].title %>"></a>
+        </div>
+        <div class="xl:w-1/2 xl:mr-3 mb-8 bg-white text-blue-dark">
+            <a href="<%= videos[1].url %>" class="block h-56 bg-cover bg-center" style="background-image:url(<%= videos[1].cover_image %>)" title="link to <%= videos[1].title %>"></a>
+        </div>
+    </div>
   </div>
 </section>
