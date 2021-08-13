@@ -56,6 +56,15 @@ strong {
   @apply text-text-default text-base leading-tight;
 }
 
+.faq-question a {
+    @apply text-orange;
+    @apply underline;
+}
+.faq-question a:hover,
+.faq-question a:focus {
+    @apply text-blue-dark;
+}
+
 @media (min-width: 1280px) {
   .faq-question {
     @apply bg-auto;
