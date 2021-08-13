@@ -45,6 +45,9 @@ module.exports = {
       },
       minHeight: {
           '160': '160px'
+      },
+      spacing: {
+          '16-9': '56.25%'
       }
     },
     rotate: {
