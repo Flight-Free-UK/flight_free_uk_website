@@ -6,13 +6,14 @@ title: FlightFree UK
 <section class="text-white bg-cover bg-right-top pb-4 sm:pb-12" style="background-image: url(/images/clouds.jpg)">
   <div class="container mx-auto">
     <%= partial "header" %>
-    <section class="mt-0 xs:mt-4 xl:mt-8 mx-4 sm:mx-8 xl:mx-24 xxl:mx-40">
+    <section class="mt-0 xs:mt-4 xl:mt-8 mx-4 sm:mx-8 xl:mx-24 xxl:mx-40 section--introduction">
         <div class="flex flex-col items-center">
             <h1 class="text-4xl xl:text-6xl leading-tight text-center mb-4 xs:mb-6 sm:mb-10">Could you take a flight free year?</h1>
             <p class="text-4xl leading-tight text-center mb-4 xl:mb-10 max-w-3xl xl:px-8">Our mission is to <a href="/why_flight_free.html" class="text-orange">inform</a> people of the climate impact of aviation and <a href="/be_inspired.html" class="text-orange">inspire</a> them to travel by other means</p>
         </div>
     </section>
-    <section class="px-4 sm:px-8 xxl:px-24 mb-8 xl:mb-16 testimonials">
+
+    <section class="px-4 sm:px-8 xxl:px-24 mb-8 xl:mb-16 section--testimonials">
         <h2 class="text-4xl leading-tight mb-4 pl-24 mb-8 xl:mb-10">We are taking a flight free year...</h2>
         <div class="lg:flex lg:justify-between">
         <% data.testimonials.values.sort_by(&:date).reverse.first(4).each do | testimonial | %>
@@ -21,8 +22,14 @@ title: FlightFree UK
             </div>
         <% end %>
         </div>
+      <div class="xl:text-right">
+        <% link_to "/blog/categories/testimonials/", class: "text-l xl:text-2xl text-orange bg-no-repeat bg-right bg-contain py-1 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
+          Read all testimonials
+        <% end %>
+      </div>
     </section>
-    <section class="lg:flex px-4 sm:px-8 xxl:px-24">
+
+    <section class="lg:flex px-4 sm:px-8 xxl:px-24 section--pledge">
       <div class="lg:w-1/2 xl:w-2/3 xl:pl-2 xs:text-center lg:text-left">
         <h2 class="text-3xl xl:text-5xl leading-tight mb-4 xs:mb-6 sm:mb-10">More and more people are choosing not to fly because of the climate crisis. Could you join them?</h2>
 
@@ -56,7 +63,8 @@ title: FlightFree UK
     </section>
   </div>
 </section>
-<section class="bg-blue">
+
+<section class="bg-blue section--why-flight-free">
   <div class="container mx-auto lg:flex lg:justify-end px-4 sm:px-8 xxl:px-20 pt-4 sm:pt-10">
     <h2 class="text-white text-4xl lg:text-5xl lg:w-1/2 lg:pl-8 xxl:pr-24">Why flight free?</h2>
   </div>
@@ -70,7 +78,8 @@ title: FlightFree UK
     </div>
   </div>
 </section>
-<section class="bg-orange">
+
+<section class="bg-orange section--take-action">
   <div class="container mx-auto px-4 sm:px-8 xl:px-16 xxl:px-48 pt-4 sm:py-10 sm:pb-6 xl:py-24">
     <h2 class="text-4xl lg:text-5xl text-blue-dark mb-8">Take action now</h2>
     <div class="flex flex-wrap">
@@ -117,7 +126,8 @@ title: FlightFree UK
     </div>
   </div>
 </section>
-<section class="bg-gray-light">
+
+<section class="bg-gray-light section--be-inspired">
   <div class="container mx-auto px-4 sm:px-8 pt-4 sm:pt-16 pb-6 sm:pb-8 xl:px-16 xxl:px-48 xl:pt-24 xl:pb-20">
     <h2 class="text-4xl lg:text-5xl text-blue-dark mb-2 xl:mb-0">Be inspired</h2>
     <h3 class="text-xl xl:text-2xl text-blue mb-8 xl:mb-12 leading-tight">Our podcasts and blogs are packed full with inspiring stories of flight-free travels, motivational tales for reducing our carbon footprints, and uplifting testimonials of how taking a flight free year has changed people's lives for the better.</h3>
