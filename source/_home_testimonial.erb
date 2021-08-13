@@ -1,7 +1,11 @@
-<div class="md:w-1/2 xl:w-1/4 xl:mx-6 mb-8 bg-white border-orange border-4 text-blue">
-    <a href="<%= url %>" class="block pb-square bg-cover bg-center" style="background-image:url(<%= cover_image %>)"></a>
-    <div class="px-2 py-4">
-        <h4 class="text-2xl text-blue-dark text-center leading-tight mb-4"><a href="<%= url %>"><%= name %></h4>
-        <p class="text-lg text-black text-center leading-tight mb-2"><a href="<%= url %>">&ldquo;<%= quote %>&rdquo;</a></p>
+<div class="md:w-1/2 xl:w-1/4 xl:mx-6 mb-8">
+    <div class="border border-white" style="transform: rotate(3deg)">
+        <div class="bg-white text-blue" style="transform: rotate(-3deg)">
+            <a href="<%= url %>" class="block pb-square bg-cover bg-center" style="background-image:url(<%= cover_image %>)"></a>
+            <div class="px-2 py-4 border-4 border-t-0 border-gray-300">
+                <h4 class="text-2xl text-blue-dark text-center leading-tight mb-4"><a href="<%= url %>"><%= name %></h4>
+                <p class="text-lg text-black text-center leading-tight mb-2"><a href="<%= url %>">&ldquo;<%= quote %>&rdquo;</a></p>
+            </div>
+        </div>
     </div>
 </div>
