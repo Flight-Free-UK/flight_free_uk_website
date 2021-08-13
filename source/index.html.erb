@@ -12,21 +12,14 @@ title: FlightFree UK
             <p class="text-4xl leading-tight text-center mb-4 xl:mb-10 max-w-3xl xl:px-8">Our mission is to <a href="/why_flight_free.html" class="text-orange">inform</a> people of the climate impact of aviation and <a href="/be_inspired.html" class="text-orange">inspire</a> them to travel by other means</p>
         </div>
     </section>
-    <section class="px-4 sm:px-8 xxl:px-24 mb-8 xl:mb-16">
+    <section class="px-4 sm:px-8 xxl:px-24 mb-8 xl:mb-16 testimonials">
         <h2 class="text-4xl leading-tight mb-4 pl-24 mb-8 xl:mb-10">We are taking a flight free year...</h2>
         <div class="lg:flex lg:justify-between">
-            <div class="xl:w-1/4 xl:mr-3 mb-8 bg-white border-orange border-4">
-                <%= partial "home_testimonial", locals: {  } %>
+        <% data.testimonials.values.sort_by(&:date).reverse.first(4).each do | testimonial | %>
+            <div class="xl:w-1/4 xl:mr-3 mb-8 bg-white border-orange border-4 text-blue">
+                <%= partial(:home_testimonial, :locals => { :name => testimonial.title, :url => testimonial.url, :cover_image => testimonial.cover_image, :quote => testimonial.quote }) %>
             </div>
-            <div class="xl:w-1/4 xl:mr-3 xl:ml-3 mb-8 bg-white border-orange border-4">
-                <%= partial "home_testimonial", locals: {  } %>
-            </div>
-            <div class="xl:w-1/4 xl:mr-3 xl:ml-3 mb-8 bg-white border-orange border-4">
-                <%= partial "home_testimonial", locals: {  } %>
-            </div>
-            <div class="xl:w-1/4 xl:ml-3 mb-8 bg-white border-orange border-4">
-                <%= partial "home_testimonial", locals: {  } %>
-            </div>
+        <% end %>
         </div>
     </section>
     <section class="lg:flex px-4 sm:px-8 xxl:px-24">
