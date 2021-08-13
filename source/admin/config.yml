@@ -48,6 +48,16 @@ collections:
       - {label: Publish Date, name: date, widget: date}
       - {label: Cover image, name: cover_image, widget: image}
       - {label: Summary, name: summary, widget: text}
+  - name: testimonials
+    label: Testimonials
+    folder: data/testimonials
+    format: yml
+    create: true
+    fields:
+      - {label: Name, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: Quote, name: quote, widget: text}
       - {label: URL, name: url, widget: string}
   - name: faqs
     label: FAQs
