@@ -161,10 +161,10 @@ title: FlightFree UK
     <div class="flex flex-wrap xl:flex-no-wrap mb-4 xl:mb-8">
         <% videos = data.videos.values.sort_by(&:date).reverse %>
         <div class="w-full md:w-1/2 xl:mr-5 mb-8 bg-white text-blue-dark">
-            <a href="<%= videos[0].url %>" class="block pb-16-9 bg-contain bg-center" style="background-image:url(<%= videos[0].cover_image %>)" title="Link to <%= videos[0].title %> video"></a>
+            <a href="<%= videos[0].url %>" class="block pb-16-9 bg-contain bg-center" style="background-image:url(<%= videos[0].cover_image %>)" title="Link to <%= videos[0].title %> video" target="_blank" rel="nofollow"></a>
         </div>
         <div class="w-full md:w-1/2 xl:ml-5 mb-8 bg-white text-blue-dark">
-            <a href="<%= videos[1].url %>" class="block pb-16-9 bg-contain bg-center" style="background-image:url(<%= videos[1].cover_image %>)" title="Link to <%= videos[1].title %> video"></a>
+            <a href="<%= videos[1].url %>" class="block pb-16-9 bg-contain bg-center" style="background-image:url(<%= videos[1].cover_image %>)" title="Link to <%= videos[1].title %> video" target="_blank" rel="nofollow"></a>
         </div>
     </div>
   </div>
