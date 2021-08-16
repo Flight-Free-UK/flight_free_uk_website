@@ -14,7 +14,7 @@ title: FlightFree UK
     </section>
 
     <section class="px-4 sm:px-8 xxl:px-24 mb-8 xl:mb-16 section--testimonials">
-        <h2 class="text-xl md:text-2xl xl:text-4xl leading-tight mb-8 xl:mb-10 xl:ml-6 xl:pt-4 xl:pb-2 pl-24 md:pl-16 xl:pl-32 bg-no-repeat bg-contain" style="background-image: url(/images/quotes.png)">We are taking a flight free year...</h2>
+        <h2 class="text-xl md:text-2xl xl:text-4xl leading-tight mb-8 xl:mb-10 xl:ml-6 xl:pt-4 xl:pb-2 pl-24 md:pl-16 xl:pl-32 bg-no-repeat bg-contain" style="background-image: url(/images/quotes_faded.png)">We are taking a flight free year...</h2>
         <div class="md:flex md:justify-between">
         <% data.testimonials.values.sort_by(&:date).reverse.first(4).each do | testimonial | %>
             <%= partial(:home_testimonial, :locals => { :name => testimonial.title, :url => testimonial.url, :cover_image => testimonial.cover_image, :quote => testimonial.quote }) %>
