@@ -11,7 +11,7 @@ summary: >
 author: FlightFree UK
 read_time_minute: 7
 ---
-This is episode eight of our 2021 podcast series. Listen to the episode \[here](link to Podbean/hosting site) and find other episodes and previous series [here](/podcast).
+This is episode eight of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-pandemics-and-climate/) and find other episodes and previous series [here](/podcast).
 
 ![](/images/uploads/08aug_episode_blog.jpg)
 
@@ -119,7 +119,7 @@ Maggie talked about red kites, both in her home town of Aberystwyth and at White
 
 Our thanks to [Dr Sweta Chakraboty](https://swetachakraborty.com) for joining us and giving us an insight into human behaviour when it comes to risk, in the context of both COVID 19 and climate change. 
 
-*Listen to the full episode \[here](link to Podbean/hosting site) and find other episodes and previous series [here](/podcast).*
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-pandemics-and-climate/) and find other episodes and previous series [here](/podcast).*
 
 **Credits**
 
