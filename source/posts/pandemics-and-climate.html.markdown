@@ -9,7 +9,7 @@ summary: >
   crisis? We speak to Dr Sweta Chakrabraborty about how the pandemic and climate
   change are connected.
 author: FlightFree UK
-read_time_minute: 222
+read_time_minute: 7
 ---
 This is episode eight of our 2021 podcast series. Listen to the episode \[here](link to Podbean/hosting site) and find other episodes and previous series [here](/podcast).
 
