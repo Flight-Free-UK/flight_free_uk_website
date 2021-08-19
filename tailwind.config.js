@@ -52,6 +52,9 @@ module.exports = {
       '-12': '-12deg'
     }
   },
-  variants: {},
+  variants: {
+    opacity: ({ after }) => after(['disabled']),
+    bg: ({ after }) => after(['disabled']),
+  },
   plugins: []
 }

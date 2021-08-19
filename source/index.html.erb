@@ -56,6 +56,7 @@ title: FlightFree UK
     </div>
   </div>
 </section>
+
 <section class="bg-orange">
   <div class="container mx-auto px-4 sm:px-8 xl:px-16 xxl:px-48 pt-4 sm:py-10 sm:pb-6 xl:py-24">
     <h2 class="text-4xl lg:text-5xl text-blue-dark mb-8">Take action now</h2>
@@ -103,6 +104,223 @@ title: FlightFree UK
     </div>
   </div>
 </section>
+
+<section id="mythbusters" class="hidden bg-blue">
+  <div class="container mx-auto px-4 sm:px-8 xl:px-16 xxl:px-48 pt-4 sm:py-10 sm:pb-6 xl:py-24">
+    <h2 class="text-4xl lg:text-5xl text-white mb-8">Myth buster</h2>
+    <p id="mb-question" class="text-xl xl:text-2xl text-white my-4 leading-tight"></p>
+    <div id="mb-answers" class="md:flex my-4">
+        <button id="mb-true" class="bg-orange disabled:bg-white disabled:opacity-50 text-blue-dark text-xl border-blue-dark px-8 py-4 mr-2">True</button>
+        <button id="mb-false" class="bg-orange disabled:bg-white disabled:opacity-50 text-blue-dark text-xl border-blue-dark px-8 py-4 mr-2">False</button>
+    </div>
+    <p id="mb-answer-correct" class="hidden text-xl xl:text-2xl text-white my-4 leading-tight">Correct!</p>
+    <p id="mb-answer-incorrect" class="hidden text-xl xl:text-2xl text-white my-4 leading-tight">Incorrect!</p>
+    <p id="mb-reason" class="hidden text-lg text-white my-4 leading-tight"></p>
+    <p class="text-lg xl:text-xl text-white my-4 leading-tight">Question: <span id="mb-progress-current-question"></span> of <span id="mb-progress-total-questions"></span>. Your score: <span id="mb-score-correct-answers"></span> / <span id="mb-score-total-questions"></span></p>
+    <div id="mb-nav" class="md:flex my-4">
+        <button id="mb-prev" class="bg-blue text-white disabled:opacity-50 text-xl border-blue-dark mr-2">Previous question</button>
+        <button id="mb-next" class="bg-blue text-white disabled:opacity-50 text-xl border-blue-dark mr-2">Next question</button>
+    </div>
+  </div>
+</section>
+<script>
+    // The list of questions
+    var myths = [
+        {
+            "question": "Aviation is responsible for 2% of global emissions",
+            "answer": "false",
+            "reason": "The true figure is closer to 3.5% – but that’s only because less than 20% of the global population has ever been on a plane.",
+        },
+
+        {
+            "question": "Flights for work and business make up the highest proportion of flights",
+            "answer": "false",
+            "reason": "Business flights make up only 10% of flights from the UK. The majority of flights (63%) are for holidays.",
+        },
+        {
+            "question": "I would save more CO2 by being vegan than by stopping flying",
+            "answer": "false",
+            "reason": "While we recommend veganism as a great way to cut your carbon footprint, the amount of carbon you save by being vegan for a year could be cancelled out with just one flight.",
+        },
+        {
+            "question": "We can solve the problem of aviation emissions with technology",
+            "answer": "false",
+            "reason": "Green techno-fixes such as electric flights, hydrogen and sustainable fuels might reduce emissions from aviation, but on their own they are not enough – especially as it is many years before low-carbon options for flying will be available.",
+        },
+        {
+            "question": "If I buy a carbon offset I can fly carbon neutral",
+            "answer": "false",
+            "reason": "No carbon offset will prevent CO2 from coming out of an aircraft, and it’s unlikely that the offset will absorb the necessary carbon – especially as many of the offsets we rely on end up burning in forest fires.",
+        }
+    ];
+    // Let's store our answers
+    var myth_answers = [];
+    // Which question are we on?
+    var current_myth = 0;
+    // Keep score
+    var myth_score = 0;
+
+    // Our DOM objects
+    var mythbusters = document.getElementById("mythbusters");
+    var mb_question = document.getElementById("mb-question");
+    var mb_correct = document.getElementById("mb-answer-correct");
+    var mb_incorrect = document.getElementById("mb-answer-incorrect");
+    var mb_reason = document.getElementById("mb-reason");
+    var mb_button_true = document.getElementById("mb-true");
+    var mb_button_false = document.getElementById("mb-false");
+    var mb_button_prev = document.getElementById("mb-prev");
+    var mb_button_next = document.getElementById("mb-next");
+    var mb_progress = document.getElementById("mb-progress-current-question");
+    var mb_progress_total = document.getElementById("mb-progress-total-questions");
+    var mb_score = document.getElementById("mb-score-correct-answers");
+    var mb_score_total = document.getElementById("mb-score-total-questions");
+
+    // Initialise the system
+    if ( 0 < myths.length ) {
+        mbInit();
+    }
+    function mbInit() {
+        // Sort out our counters
+        mb_progress_total.innerHTML = myths.length;
+        mb_score.innerHTML = '0';
+        mb_score_total.innerHTML = myths.length;
+
+        // Get our buttons ready for action
+        mb_button_true.addEventListener( 'click', function(e) {
+            e.preventDefault();
+            mbAnswer( 'true' );
+        });
+        mb_button_false.addEventListener( 'click', function(e) {
+            e.preventDefault();
+            mbAnswer( 'false' );
+        });
+        mb_button_prev.addEventListener( 'click', function(e) {
+            e.preventDefault();
+            mbPrev( false );
+        });
+        mb_button_next.addEventListener( 'click', function(e) {
+            e.preventDefault();
+            mbNext( false );
+        });
+
+        // Hide our previous button (because we're at the beginning)
+        mb_button_prev.disabled = true;
+
+        // Load the first question
+        mbMythDisplay();
+        // All ready so show the Myth busters section
+        mythbusters.classList.remove("hidden");
+    }
+    // Manage answers
+    function mbAnswer(answer) {
+        // Set the current answer
+        myth_answers[current_myth] = answer;
+        // Calculate the score so far
+        myth_score = 0;
+        for ( var i = 0; i < myths.length; i++ ) {
+            if ( myths[i].answer == myth_answers[i] ) {
+                myth_score++;
+            }
+        }
+        mbMythDisplay();
+    }
+    // Set the display for the current myth
+    function mbMythDisplay() {
+        // Show the correct question
+        mb_question.innerHTML = myths[current_myth].question
+
+        // Sort out our counters
+        mb_progress.innerHTML = current_myth + 1;
+        mb_score.innerHTML = myth_score;
+
+        if ( 'true' == myth_answers[current_myth] || 'false' == myth_answers[current_myth] ) { // there's already an answer...
+
+            // Disable our answer buttons
+            disable( mb_button_true );
+            disable( mb_button_false );
+
+            // Show the reason
+            mb_reason.innerHTML = myths[current_myth].reason;
+            show( mb_reason );
+            
+            if ( myths[current_myth].answer == myth_answers[current_myth] ) { // the answer is correct...
+                // Show the answer
+                show( mb_correct );
+                hide( mb_incorrect );
+            } else { // the answer is incorrect...
+                console.log('incorrectly');
+                // Show the answer
+                show( mb_incorrect );
+                hide( mb_correct );
+            }
+        } else { // no answer yet
+            console.log('question '+(current_myth+1)+' not answered')
+            hide( mb_correct );
+            hide( mb_incorrect );
+            hide( mb_reason );
+            enable( mb_button_true );
+            enable( mb_button_false );
+        }
+    }
+
+    // Move to the previous question
+    function mbPrev() {
+        // Move to the previous myth
+        current_myth--;
+        mbMove();
+    }
+    // Move to the next question
+    function mbNext() {
+        // Move to the next myth
+        current_myth++;
+        mbMove();
+    }
+    // When we remove perform some resetting
+    function mbMove() {
+
+        mbMythDisplay();
+
+        // Don't allow us to go any further back if we're on the first myth
+        if ( 0 == current_myth ) {
+            mb_button_prev.disabled = true;
+        } else {
+            mb_button_prev.disabled = false;
+        }
+        // Don't allow us to go any further forward if we're on the last myth
+        if ( myths.length - 1 == current_myth ) {
+            mb_button_next.disabled = true;
+        } else {
+            mb_button_next.disabled = false;
+        }
+    }
+    // Utility functions to show/hide elements
+    function show(element) {
+        if ( hasClass(element, 'hidden' )) {
+            element.classList.remove('hidden');
+        }
+    }
+    function hide(element) {
+        if ( ! hasClass(element, 'hidden' )) {
+            element.classList.add('hidden');
+        }
+    }
+    // Utility functions to enable/disable elements
+    function enable(button) {
+        if ( button.disabled ) {
+            button.disabled = false;
+        }
+    }
+    function disable(button) {
+        if ( ! button.disabled ) {
+            button.disabled = true;
+        }
+    }
+    // Utility function to check if an element has a class
+    function hasClass(element, className) {
+        return (' ' + element.className + ' ').indexOf(' ' + className+ ' ') > -1;
+    }
+</script>
+
 <section class="bg-gray-light">
   <div class="container mx-auto px-4 sm:px-8 pt-4 sm:pt-16 pb-6 sm:pb-8 xl:px-16 xxl:px-48 xl:pt-24 xl:pb-20">
     <h2 class="text-4xl lg:text-5xl text-blue-dark mb-2 xl:mb-0">Be inspired</h2>
