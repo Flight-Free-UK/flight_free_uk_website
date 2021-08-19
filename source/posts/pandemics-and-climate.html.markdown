@@ -1,9 +1,9 @@
 ---
-published: false
-title: Pandemics and climate
+published: true
+title: "2021 podcast series: Climate and the pandemic"
 category: climate
 date: 2021-08-10T08:00:23.068Z
-cover_image: /images/uploads/1-qantanewsroom.com-747-landing-runwau.jpg
+cover_image: /images/uploads/08aug_episode_thumbnail.jpg
 summary: >
   What can the global coronavirus health crisis teach us about the climate
   crisis? We speak to Dr Sweta Chakrabraborty about how the pandemic and climate
@@ -13,11 +13,7 @@ read_time_minute: 222
 ---
 This is episode eight of our 2021 podcast series. Listen to the episode \[here](link to Podbean/hosting site) and find other episodes and previous series [here](/podcast).
 
-
-
-![]()
-
-
+![](/images/uploads/08aug_episode_blog.jpg)
 
 ## The coronavirus pandemic is a global health crisis. What can it teach us about the climate crisis?
 
