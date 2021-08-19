@@ -117,7 +117,7 @@ As we have been talking about our relationship with nature and wildlife in relat
 
 Maggie talked about red kites, both in her home town of Aberystwyth and at White Horse Hill in Oxfordshire. Bertie told us about encountering a pod of dolphins while at sea off the Cornish coast. 
 
-Our thanks to [Dr Sweta Chakraboty](https://swetachakraborty.com) for joining us and giving us an insight into human behaviour when it comes to risk, in the context of both COVID 19 and climate change. 
+### Our thanks to [Dr Sweta Chakraboty](https://swetachakraborty.com) for joining us and giving us an insight into human behaviour when it comes to risk, in the context of both COVID 19 and climate change. 
 
 *Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-pandemics-and-climate/) and find other episodes and previous series [here](/podcast).*
 
