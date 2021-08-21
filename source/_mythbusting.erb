@@ -4,9 +4,9 @@
         <h2 class="text-4xl lg:text-5xl mb-8">Did you know...?</h2>
     <div class="container bg-white text-blue-dark text-center mx-auto bg-orange-shadow" style="transform: rotate(-4deg)">
     <div class="container bg-white text-blue-dark text-center mx-auto px-4 sm:px-8 xl:px-16 xxl:px-24 py-4 xl:py-8" style="transform: rotate(4deg)">
-        <p class="text-lg my-4 leading-tight"><span id="mb-progress-current-question"></span> of <span id="mb-progress-total-questions"></span></p>
+        <%#<p class="text-lg my-4 leading-tight"><span id="mb-progress-current-question"></span> of <span id="mb-progress-total-questions"></span></p>%>
         <p id="mb-question" class="text-blue text-2xl xl:text-4xl text-white my-4 xl:mt-12 xl:mb-8 leading-tight"></p>
-        <div id="mb-answers" class="mb-4 xl:my-16">
+        <div id="mb-answer-options" class="mb-4 xl:my-16">
             <button id="mb-true" class="bg-blue-dark text-white hover:bg-orange hover:text-blue-dark text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">True</button>
             <button id="mb-false" class="bg-blue-dark text-white hover:bg-orange hover:text-blue-dark text-xl border-blue-dark px-8 xl:px-16 py-4 ml-2">False</button>
         </div>
@@ -19,9 +19,9 @@
             Incorrect!
         </p>
         <p id="mb-reason" class="hidden text-md leading-tight xl:mx-32 mb-4 xl:mb-8"></p>
-        <p class="text-md leading-tight mb-4 xl:mb-8">Your score: <span id="mb-score-correct-answers"></span> / <span id="mb-score-total-questions"></span></p>
+        <%#<p class="text-md leading-tight mb-4 xl:mb-8">Your score: <span id="mb-score-correct-answers"></span> / <span id="mb-score-total-questions"></span></p>%>
         <div id="mb-nav" class="mb-4 xl:mb-8">
-            <button id="mb-prev" class="hidden bg-blue-dark text-white hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">Previous question</button>
+            <%#<button id="mb-prev" class="hidden bg-blue-dark text-white hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">Previous question</button>%>
             <button id="mb-next" class="bg-blue-dark text-white hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">Next question</button>
         </div>
     </div>
@@ -65,24 +65,24 @@
     // Which question are we on?
     var current_myth = 0;
     // Keep score
-    var myth_score = 0;
+    //var myth_score = 0;
 
     // Our DOM objects
     var mythbusters = document.getElementById("mythbusters");
     var mb_question = document.getElementById("mb-question");
+    var mb_answer_options = document.getElementById("mb-answer-options");
+    var mb_button_true = document.getElementById("mb-true");
+    var mb_button_false = document.getElementById("mb-false");
     var mb_correct = document.getElementById("mb-answer-correct");
     var mb_incorrect = document.getElementById("mb-answer-incorrect");
     var mb_reason = document.getElementById("mb-reason");
-    var mb_answers = document.getElementById("mb-answers");
-    var mb_button_true = document.getElementById("mb-true");
-    var mb_button_false = document.getElementById("mb-false");
     var mb_nav = document.getElementById("mb-nav");
-    var mb_button_prev = document.getElementById("mb-prev");
+    //var mb_button_prev = document.getElementById("mb-prev");
     var mb_button_next = document.getElementById("mb-next");
-    var mb_progress = document.getElementById("mb-progress-current-question");
-    var mb_progress_total = document.getElementById("mb-progress-total-questions");
-    var mb_score = document.getElementById("mb-score-correct-answers");
-    var mb_score_total = document.getElementById("mb-score-total-questions");
+    //var mb_progress = document.getElementById("mb-progress-current-question");
+    //var mb_progress_total = document.getElementById("mb-progress-total-questions");
+    //var mb_score = document.getElementById("mb-score-correct-answers");
+    //var mb_score_total = document.getElementById("mb-score-total-questions");
 
     // Initialise the system
     if ( 0 < myths.length ) {
@@ -90,9 +90,9 @@
     }
     function mbInit() {
         // Sort out our counters
-        mb_progress_total.innerHTML = myths.length;
-        mb_score.innerHTML = '0';
-        mb_score_total.innerHTML = myths.length;
+        //mb_progress_total.innerHTML = myths.length;
+        //mb_score.innerHTML = '0';
+        //mb_score_total.innerHTML = myths.length;
 
         // Get our buttons ready for action
         mb_button_true.addEventListener( 'click', function(e) {
@@ -103,17 +103,17 @@
             e.preventDefault();
             mbAnswer( 'false' );
         });
-        mb_button_prev.addEventListener( 'click', function(e) {
-            e.preventDefault();
-            mbPrev( false );
-        });
+        //mb_button_prev.addEventListener( 'click', function(e) {
+        //    e.preventDefault();
+        //    mbPrev( false );
+        //});
         mb_button_next.addEventListener( 'click', function(e) {
             e.preventDefault();
             mbNext( false );
         });
 
         // Hide our previous button (because we're at the beginning)
-        disable( mb_button_prev );
+        //disable( mb_button_prev );
 
         // Load the first question
         mbMythDisplay();
@@ -126,12 +126,12 @@
         // Set the current answer
         myth_answers[current_myth] = answer;
         // Calculate the score so far
-        myth_score = 0;
-        for ( var i = 0; i < myths.length; i++ ) {
-            if ( myths[i].answer == myth_answers[i] ) {
-                myth_score++;
-            }
-        }
+        //myth_score = 0;
+        //for ( var i = 0; i < myths.length; i++ ) {
+        //    if ( myths[i].answer == myth_answers[i] ) {
+        //        myth_score++;
+        //    }
+        //}
         mbMythDisplay();
     }
     // Set the display for the current myth
@@ -140,13 +140,13 @@
         mb_question.innerHTML = myths[current_myth].question
 
         // Sort out our counters
-        mb_progress.innerHTML = current_myth + 1;
-        mb_score.innerHTML = myth_score;
+        //mb_progress.innerHTML = current_myth + 1;
+        //mb_score.innerHTML = myth_score;
 
         if ( 'true' == myth_answers[current_myth] || 'false' == myth_answers[current_myth] ) { // there's already an answer...
 
             // Disable our answer buttons
-            hide( mb_answers );
+            hide( mb_answer_options );
 
             // Show the reason
             mb_reason.innerHTML = myths[current_myth].reason;
@@ -169,7 +169,7 @@
             hide( mb_incorrect );
             hide( mb_reason );
             hide( mb_nav );
-            show( mb_answers );
+            show( mb_answer_options );
         }
     }
 
@@ -191,11 +191,11 @@
         mbMythDisplay();
 
         // Don't allow us to go any further back if we're on the first myth
-        if ( 0 == current_myth ) {
-            disable( mb_button_prev );
-        } else {
-            enable( mb_button_prev );
-        }
+        //if ( 0 == current_myth ) {
+        //    disable( mb_button_prev );
+        //} else {
+        //    enable( mb_button_prev );
+        //}
         // Don't allow us to go any further forward if we're on the last myth
         if ( myths.length - 1 == current_myth ) {
             //disable( mb_button_next );
