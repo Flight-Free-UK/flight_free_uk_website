@@ -1,14 +1,14 @@
 
 <section id="mythbusters" class="hidden bg-blue-dark text-white">
-    <div class="container mx-auto px-4 sm:px-8 xl:px-16 xxl:px-48 pt-4 sm:py-10 sm:pb-6 xl:py-24">
-        <h2 class="text-4xl lg:text-5xl mb-8">Did you know...?</h2>
+    <div class="container mx-auto px-4 sm:px-8 xl:px-16 xxl:px-48 py-4 sm:py-8 xl:py-24">
+        <h2 class="text-4xl lg:text-5xl mb-4 xl:mb-8">Did you know...?</h2>
     <div class="container bg-white text-blue-dark text-center mx-auto bg-orange-shadow" style="transform: rotate(-4deg)">
     <div class="container bg-white text-blue-dark text-center mx-auto px-4 sm:px-8 xl:px-16 xxl:px-24 py-4 xl:py-16" style="transform: rotate(4deg)">
         <%#<p class="text-lg my-4 leading-tight"><span id="mb-progress-current-question"></span> of <span id="mb-progress-total-questions"></span></p>%>
-        <p id="mb-question" class="text-blue text-2xl xl:text-4xl text-white my-4 xl:mb-8 leading-tight"></p>
+        <p id="mb-question" class="text-blue text-xl xl:text-4xl text-white xl:mt-4 mb-4 xl:mb-8 leading-tight"></p>
         <div id="mb-answer-options" class="mb-4">
-            <button id="mb-true" class="bg-blue-dark text-white text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">True</button>
-            <button id="mb-false" class="bg-blue-dark text-white text-xl border-blue-dark px-8 xl:px-16 py-4 ml-2">False</button>
+            <button id="mb-true" class="bg-blue-dark text-white text-xl border-blue-dark px-8 xl:px-16 py-1 xl:py-4 mr-2">True</button>
+            <button id="mb-false" class="bg-blue-dark text-white text-xl border-blue-dark px-8 xl:px-16 py-1 xl:py-4 ml-2">False</button>
         </div>
         <p id="mb-answer-correct" class="hidden text-2xl xl:text-4xl text-blue px-8 xl:px-16 pb-4 ml-2">
             Correct!
@@ -16,15 +16,15 @@
         <p id="mb-answer-incorrect" class="hidden text-2xl xl:text-4xl text-blue px-8 xl:px-16 pb-4 ml-2">
             Incorrect!
         </p>
-        <p id="mb-reason" class="hidden text-xl leading-tight xl:mx-32 mb-4 xl:mb-8"></p>
+        <p id="mb-reason" class="hidden text-md xl:text-xl leading-tight xl:mx-32 mb-4 xl:mb-8"></p>
         <%#<p class="text-md leading-tight mb-4 xl:mb-8">Your score: <span id="mb-score-correct-answers"></span> / <span id="mb-score-total-questions"></span></p>%>
         <div id="mb-nav" class="mb-4">
             <%#<button id="mb-prev" class="hidden bg-blue-dark text-white hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">Previous question</button>%>
-            <button id="mb-next" class="bg-blue-dark text-white hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">Next question</button>
+            <button id="mb-next" class="bg-blue-dark text-white hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-1 xl:py-4 mr-2">Next question</button>
         </div>
     </div>
     </div>
-    <p class="mt-16">
+    <p class="mt-8 xl:mt-16">
     <%= link_to "Find out more in our FAQs", "/faq.html", class: "text-orange text-base xs:text-lg sm:text-xl lg:text-2xl bg-contain bg-no-repeat bg-right pr-12 py-1", style: "background-image:url(/svg/orange_arrow_right.svg)" %>
     </div>
 </section>
