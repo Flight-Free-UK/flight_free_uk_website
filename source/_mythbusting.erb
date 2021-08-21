@@ -3,22 +3,22 @@
     <div class="container mx-auto px-4 sm:px-8 xl:px-16 xxl:px-48 pt-4 sm:py-10 sm:pb-6 xl:py-24">
         <h2 class="text-4xl lg:text-5xl mb-8">Did you know...?</h2>
     <div class="container bg-white text-blue-dark text-center mx-auto bg-orange-shadow" style="transform: rotate(-4deg)">
-    <div class="container bg-white text-blue-dark text-center mx-auto px-4 sm:px-8 xl:px-16 xxl:px-24 py-4 xl:py-8" style="transform: rotate(4deg)">
+    <div class="container bg-white text-blue-dark text-center mx-auto px-4 sm:px-8 xl:px-16 xxl:px-24 py-4 xl:py-16" style="transform: rotate(4deg)">
         <%#<p class="text-lg my-4 leading-tight"><span id="mb-progress-current-question"></span> of <span id="mb-progress-total-questions"></span></p>%>
-        <p id="mb-question" class="text-blue text-2xl xl:text-4xl text-white my-4 xl:mt-12 xl:mb-8 leading-tight"></p>
-        <div id="mb-answer-options" class="mb-4 xl:my-16">
-            <button id="mb-true" class="bg-blue-dark text-white hover:bg-orange hover:text-blue-dark text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">True</button>
-            <button id="mb-false" class="bg-blue-dark text-white hover:bg-orange hover:text-blue-dark text-xl border-blue-dark px-8 xl:px-16 py-4 ml-2">False</button>
+        <p id="mb-question" class="text-blue text-2xl xl:text-4xl text-white my-4 xl:mb-8 leading-tight"></p>
+        <div id="mb-answer-options" class="mb-4">
+            <button id="mb-true" class="bg-blue-dark text-white text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">True</button>
+            <button id="mb-false" class="bg-blue-dark text-white text-xl border-blue-dark px-8 xl:px-16 py-4 ml-2">False</button>
         </div>
-        <p id="mb-answer-correct" class="hidden bg-orange text-blue-dark text-xl border-blue-dark px-8 xl:px-16 py-4 ml-2">
+        <p id="mb-answer-correct" class="hidden text-2xl xl:text-4xl text-blue px-8 xl:px-16 pb-4 ml-2">
             Correct!
         </p>
-        <p id="mb-answer-incorrect" class="hidden bg-orange text-blue-dark text-xl border-blue-dark px-8 xl:px-16 py-4 ml-2">
+        <p id="mb-answer-incorrect" class="hidden text-2xl xl:text-4xl text-blue px-8 xl:px-16 pb-4 ml-2">
             Incorrect!
         </p>
         <p id="mb-reason" class="hidden text-md leading-tight xl:mx-32 mb-4 xl:mb-8"></p>
         <%#<p class="text-md leading-tight mb-4 xl:mb-8">Your score: <span id="mb-score-correct-answers"></span> / <span id="mb-score-total-questions"></span></p>%>
-        <div id="mb-nav" class="mb-4 xl:mb-8">
+        <div id="mb-nav" class="mb-4">
             <%#<button id="mb-prev" class="hidden bg-blue-dark text-white hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">Previous question</button>%>
             <button id="mb-next" class="bg-blue-dark text-white hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-4 mr-2">Next question</button>
         </div>
@@ -95,10 +95,20 @@
         // Get our buttons ready for action
         mb_button_true.addEventListener( 'click', function(e) {
             e.preventDefault();
+            // show this has been selected
+            this.classList.add( "answer" );
+            // disable all buttons
+            mb_answer_options.classList.add( "answered" );
+            // start the answering process
             mbAnswer( 'true' );
         });
         mb_button_false.addEventListener( 'click', function(e) {
             e.preventDefault();
+            // show this has been selected
+            this.classList.add( "answer" );
+            // disable all buttons
+            mb_answer_options.classList.add( "answered" );
+            // start the answering process
             mbAnswer( 'false' );
         });
         //mb_button_prev.addEventListener( 'click', function(e) {
@@ -144,7 +154,8 @@
         if ( 'true' == myth_answers[current_myth] || 'false' == myth_answers[current_myth] ) { // there's already an answer...
 
             // Disable our answer buttons
-            hide( mb_answer_options );
+            disable( mb_button_true );
+            disable( mb_button_false );
 
             // Show the reason
             mb_reason.innerHTML = myths[current_myth].reason;
@@ -163,11 +174,20 @@
                 hide( mb_correct );
             }
         } else { // no answer yet
+            // Hide the answer bits
             hide( mb_correct );
             hide( mb_incorrect );
             hide( mb_reason );
             hide( mb_nav );
-            show( mb_answer_options );
+            // Re-enable the answering buttons
+            if ( hasClass( mb_answer_options, 'answered' ))
+                mb_answer_options.classList.remove( 'answered' );
+            if ( hasClass( mb_button_true, 'answer' ))
+                mb_button_true.classList.remove( 'answer' );
+            if ( hasClass( mb_button_false, 'answer' ))
+                mb_button_false.classList.remove( 'answer' );
+            enable( mb_button_true );
+            enable( mb_button_false );
         }
     }
 
