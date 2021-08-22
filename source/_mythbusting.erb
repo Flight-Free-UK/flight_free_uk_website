@@ -10,11 +10,11 @@
             <button id="mb-true" class="bg-blue-dark text-white text-xl border-blue-dark px-8 xl:px-16 py-1 xl:py-4 mr-2">True</button>
             <button id="mb-false" class="bg-blue-dark text-white text-xl border-blue-dark px-8 xl:px-16 py-1 xl:py-4 ml-2">False</button>
         </div>
-        <p id="mb-answer-correct" class="hidden text-2xl xl:text-4xl text-blue px-8 xl:px-16 pb-4 ml-2">
-            Correct!
+        <p id="mb-answer-true" class="hidden text-2xl xl:text-4xl text-green px-8 xl:px-16 mb-4 xl:mb-8">
+            True!
         </p>
-        <p id="mb-answer-incorrect" class="hidden text-2xl xl:text-4xl text-blue px-8 xl:px-16 pb-4 ml-2">
-            Incorrect!
+        <p id="mb-answer-false" class="hidden text-2xl xl:text-4xl text-orange px-8 xl:px-16 mb-4 xl:mb-8">
+            False!
         </p>
         <p id="mb-reason" class="hidden text-md xl:text-xl leading-tight xl:mx-32 mb-4 xl:mb-8"></p>
         <%#<p class="text-md leading-tight mb-4 xl:mb-8">Your score: <span id="mb-score-correct-answers"></span> / <span id="mb-score-total-questions"></span></p>%>
@@ -71,8 +71,10 @@
     var mb_answer_options = document.getElementById("mb-answer-options");
     var mb_button_true = document.getElementById("mb-true");
     var mb_button_false = document.getElementById("mb-false");
-    var mb_correct = document.getElementById("mb-answer-correct");
-    var mb_incorrect = document.getElementById("mb-answer-incorrect");
+    //var mb_correct = document.getElementById("mb-answer-correct");
+    //var mb_incorrect = document.getElementById("mb-answer-incorrect");
+    var mb_true = document.getElementById("mb-answer-true");
+    var mb_false = document.getElementById("mb-answer-false");
     var mb_reason = document.getElementById("mb-reason");
     var mb_nav = document.getElementById("mb-nav");
     //var mb_button_prev = document.getElementById("mb-prev");
@@ -95,21 +97,13 @@
         // Get our buttons ready for action
         mb_button_true.addEventListener( 'click', function(e) {
             e.preventDefault();
-            // show this has been selected
-            this.classList.add( "answer" );
-            // disable all buttons
-            mb_answer_options.classList.add( "answered" );
             // start the answering process
-            mbAnswer( 'true' );
+            mbAnswer();
         });
         mb_button_false.addEventListener( 'click', function(e) {
             e.preventDefault();
-            // show this has been selected
-            this.classList.add( "answer" );
-            // disable all buttons
-            mb_answer_options.classList.add( "answered" );
             // start the answering process
-            mbAnswer( 'false' );
+            mbAnswer();
         });
         //mb_button_prev.addEventListener( 'click', function(e) {
         //    e.preventDefault();
@@ -117,14 +111,14 @@
         //});
         mb_button_next.addEventListener( 'click', function(e) {
             e.preventDefault();
-            mbNext( false );
+            mbNext();
         });
 
         // Hide our previous button (because we're at the beginning)
         //disable( mb_button_prev );
 
         // Load the first question
-        mbMythDisplay();
+        mbMove();
 
         // All ready so show the Myth busters section
         mythbusters.classList.remove("hidden");
@@ -133,94 +127,46 @@
     function mbAnswer(answer) {
         // Set the current answer
         myth_answers[current_myth] = answer;
-        // Calculate the score so far
-        //myth_score = 0;
-        //for ( var i = 0; i < myths.length; i++ ) {
-        //    if ( myths[i].answer == myth_answers[i] ) {
-        //        myth_score++;
-        //    }
-        //}
-        mbMythDisplay();
-    }
-    // Set the display for the current myth
-    function mbMythDisplay() {
-        // Show the correct question
-        mb_question.innerHTML = myths[current_myth].question
 
-        // Sort out our counters
-        //mb_progress.innerHTML = current_myth + 1;
-        //mb_score.innerHTML = myth_score;
+        // Hide our answer buttons
+        hide( mb_answer_options );
 
-        if ( 'true' == myth_answers[current_myth] || 'false' == myth_answers[current_myth] ) { // there's already an answer...
-
-            // Disable our answer buttons
-            disable( mb_button_true );
-            disable( mb_button_false );
-
-            // Show the reason
-            mb_reason.innerHTML = myths[current_myth].reason;
-            show( mb_reason );
-
-            // Show our navigation buttons
-            show( mb_nav );
-            
-            if ( myths[current_myth].answer == myth_answers[current_myth] ) { // the answer is correct...
-                // Show the answer
-                show( mb_correct );
-                hide( mb_incorrect );
-            } else { // the answer is incorrect...
-                // Show the answer
-                show( mb_incorrect );
-                hide( mb_correct );
-            }
-        } else { // no answer yet
-            // Hide the answer bits
-            hide( mb_correct );
-            hide( mb_incorrect );
-            hide( mb_reason );
-            hide( mb_nav );
-            // Re-enable the answering buttons
-            if ( hasClass( mb_answer_options, 'answered' ))
-                mb_answer_options.classList.remove( 'answered' );
-            if ( hasClass( mb_button_true, 'answer' ))
-                mb_button_true.classList.remove( 'answer' );
-            if ( hasClass( mb_button_false, 'answer' ))
-                mb_button_false.classList.remove( 'answer' );
-            enable( mb_button_true );
-            enable( mb_button_false );
+        // Show the answer
+        if ( 'true' == myths[current_myth].answer ) {
+            show( mb_true );
         }
-    }
+        else if ( 'false' == myths[current_myth].answer ) {
+            show( mb_false );
+        }
 
-    // Move to the previous question
-    function mbPrev() {
-        // Move to the previous myth
-        current_myth--;
-        mbMove();
+        // Show the reason
+        mb_reason.innerHTML = myths[current_myth].reason;
+        show( mb_reason );
+
+        // Show our navigation buttons
+        show( mb_nav );
     }
     // Move to the next question
     function mbNext() {
         // Move to the next myth
-        current_myth++;
+        if ( current_myth + 1 < myths.length ) {
+            current_myth++;
+        } else {
+            current_myth = 0;
+        }
         mbMove();
     }
     // When we remove perform some resetting
     function mbMove() {
+            // Hide the answer bits
+            hide( mb_true );
+            hide( mb_false );
+            hide( mb_reason );
+            hide( mb_nav );
 
-        mbMythDisplay();
-
-        // Don't allow us to go any further back if we're on the first myth
-        //if ( 0 == current_myth ) {
-        //    disable( mb_button_prev );
-        //} else {
-        //    enable( mb_button_prev );
-        //}
-        // Don't allow us to go any further forward if we're on the last myth
-        if ( myths.length - 1 == current_myth ) {
-            //disable( mb_button_next );
-            hide( mb_button_next );
-        } else {
-            enable( mb_button_next );
-        }
+            // Show the new question and the answer options
+            mb_question.innerHTML = myths[current_myth].question
+            show( mb_answer_options );
     }
     // Utility functions to show/hide elements
     function show(element) {
