@@ -1,23 +1,19 @@
 ---
-published: false
-title: Pandemics and climate
+published: true
+title: "2021 podcast series: Climate and the pandemic"
 category: climate
 date: 2021-08-10T08:00:23.068Z
-cover_image: /images/uploads/1-qantanewsroom.com-747-landing-runwau.jpg
+cover_image: /images/uploads/08aug_episode_thumbnail.jpg
 summary: >
   What can the global coronavirus health crisis teach us about the climate
   crisis? We speak to Dr Sweta Chakrabraborty about how the pandemic and climate
   change are connected.
 author: FlightFree UK
-read_time_minute: 222
+read_time_minute: 7
 ---
-This is episode eight of our 2021 podcast series. Listen to the episode \[here](link to Podbean/hosting site) and find other episodes and previous series [here](/podcast).
+This is episode eight of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-pandemics-and-climate/) and find other episodes and previous series [here](/podcast).
 
-
-
-![]()
-
-
+![](/images/uploads/08aug_episode_blog.jpg)
 
 ## The coronavirus pandemic is a global health crisis. What can it teach us about the climate crisis?
 
@@ -121,9 +117,9 @@ As we have been talking about our relationship with nature and wildlife in relat
 
 Maggie talked about red kites, both in her home town of Aberystwyth and at White Horse Hill in Oxfordshire. Bertie told us about encountering a pod of dolphins while at sea off the Cornish coast. 
 
-Our thanks to [Dr Sweta Chakraboty](https://swetachakraborty.com) for joining us and giving us an insight into human behaviour when it comes to risk, in the context of both COVID 19 and climate change. 
+### Our thanks to [Dr Sweta Chakraboty](https://swetachakraborty.com) for joining us and giving us an insight into human behaviour when it comes to risk, in the context of both COVID 19 and climate change. 
 
-*Listen to the full episode \[here](link to Podbean/hosting site) and find other episodes and previous series [here](/podcast).*
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-pandemics-and-climate/) and find other episodes and previous series [here](/podcast).*
 
 **Credits**
 
