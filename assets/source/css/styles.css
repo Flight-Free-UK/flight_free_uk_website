@@ -255,5 +255,12 @@ strong {
   text-shadow: 0 2px 4px rgba(0,0,0,0.10);
 }
 
-
+/* Myth buster */
+.answered button {
+    @apply cursor-default;
+}
+.answer {
+    @apply bg-orange;
+    @apply text-blue-dark;
+}
 

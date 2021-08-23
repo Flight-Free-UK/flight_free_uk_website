@@ -1,0 +1,59 @@
+
+<section id="mythbusters" class="hidden bg-blue-dark text-white">
+    <div class="container mx-auto px-4 sm:px-8 xl:px-16 xxl:px-48 py-4 sm:py-8 xl:py-24">
+        <h2 class="text-4xl lg:text-5xl mb-4 xl:mb-8">Fact or fiction...?</h2>
+    <div class="container bg-white text-blue-dark text-center mx-auto bg-orange-shadow" style="transform: rotate(-4deg)">
+    <div class="container bg-white text-blue-dark text-center mx-auto px-4 sm:px-8 xl:px-16 xxl:px-24 py-4 xl:py-16" style="transform: rotate(4deg)">
+        <%#<p class="text-lg my-4 leading-tight"><span id="mb-progress-current-question"></span> of <span id="mb-progress-total-questions"></span></p>%>
+        <p id="mb-question" class="text-blue text-xl xl:text-4xl text-white xl:mt-4 mb-4 xl:mb-8 leading-tight"></p>
+        <div id="mb-answer-options" class="mb-4">
+            <button id="mb-true" class="bg-blue-dark text-white text-xl border-blue-dark px-8 xl:px-16 py-1 xl:py-4 mr-2">True</button>
+            <button id="mb-false" class="bg-blue-dark text-white text-xl border-blue-dark px-8 xl:px-16 py-1 xl:py-4 ml-2">False</button>
+        </div>
+        <p id="mb-answer-true" class="hidden text-2xl xl:text-4xl text-green inline-block border-4 border-orange px-8 xl:px-16 py-4 mb-4 xl:mb-8">
+            True!
+        </p>
+        <p id="mb-answer-false" class="hidden text-2xl xl:text-4xl text-orange inline-block border-4 border-orange px-8 xl:px-16 py-4 mb-4 xl:mb-8">
+            False!
+        </p>
+        <p id="mb-reason" class="hidden text-md xl:text-xl leading-tight xl:mx-32 mb-4 xl:mb-8"></p>
+        <div id="mb-nav" class="mb-4">
+            <button id="mb-next" class="bg-blue-dark text-white hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-1 xl:py-4 mr-2">Next question</button>
+        </div>
+    </div>
+    </div>
+    <p class="mt-8 xl:mt-16">
+    <%= link_to "Find out more in our FAQs", "/faq.html", class: "text-orange text-base xs:text-lg sm:text-xl lg:text-2xl bg-contain bg-no-repeat bg-right pr-12 py-1", style: "background-image:url(/svg/orange_arrow_right.svg)" %>
+    </div>
+</section>
+<script>
+    // The list of questions
+    var myths = [
+        {
+            "question": "Aviation is responsible for 2% of global emissions",
+            "answer": "false",
+            "reason": "The true figure is closer to 3.5% – but that’s only because less than 20% of the global population has ever been on a plane.",
+        },
+
+        {
+            "question": "Flights for work and business make up the highest proportion of flights",
+            "answer": "false",
+            "reason": "Business flights make up only 10% of flights from the UK. The majority of flights (63%) are for holidays, with 25% for visits to family and friends.",
+        },
+        {
+            "question": "I would save more CO<sub>2</sub> by stopping flying than by being vegan",
+            "answer": "true",
+            "reason": "Veganism is highly recommended as a way to cut your carbon footprint, but the amount of carbon you save by being vegan for a year could be cancelled out with just one flight.",
+        },
+        {
+            "question": "We can solve the problem of aviation emissions with technology",
+            "answer": "false",
+            "reason": "Green techno-fixes such as electric flights, hydrogen and sustainable fuels might reduce emissions from aviation, but on their own they are not enough – especially as it is many years before low-carbon options for flying will be available.",
+        },
+        {
+            "question": "If I buy a carbon offset I can fly carbon neutral",
+            "answer": "false",
+            "reason": "No carbon offset will prevent CO2 from coming out of an aircraft, and it’s unlikely that the offset will absorb the necessary carbon – especially as many of the offsets we rely on end up burning in forest fires.",
+        }
+    ];
+</script>
