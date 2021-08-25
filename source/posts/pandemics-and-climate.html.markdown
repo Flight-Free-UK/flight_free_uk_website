@@ -4,10 +4,9 @@ title: "2021 podcast series: Climate and the pandemic"
 category: climate
 date: 2021-08-10T08:00:23.068Z
 cover_image: /images/uploads/08aug_episode_thumbnail.jpg
-summary: >
-  What can the global coronavirus health crisis teach us about the climate
-  crisis? We speak to Dr Sweta Chakrabraborty about how the pandemic and climate
-  change are connected.
+summary: What can the global coronavirus health crisis teach us about the
+  climate crisis? We speak to Dr Sweta Chakraborty about how the pandemic and
+  climate change are connected.
 author: FlightFree UK
 read_time_minute: 7
 ---
