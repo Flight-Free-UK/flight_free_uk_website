@@ -4,14 +4,13 @@ title: "2021 podcast series: Climate and the pandemic"
 category: climate
 date: 2021-08-10T08:00:23.068Z
 cover_image: /images/uploads/08aug_episode_thumbnail.jpg
-summary: >
-  What can the global coronavirus health crisis teach us about the climate
-  crisis? We speak to Dr Sweta Chakrabraborty about how the pandemic and climate
-  change are connected.
+summary: What can the global coronavirus health crisis teach us about the
+  climate crisis? We speak to Dr Sweta Chakraborty about how the pandemic and
+  climate change are connected.
 author: FlightFree UK
 read_time_minute: 7
 ---
-This is episode eight of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-pandemics-and-climate/) and find other episodes and previous series [here](/podcast).
+*This is episode eight of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-pandemics-and-climate/) and find other episodes and previous series [here](/podcast).*
 
 ![](/images/uploads/08aug_episode_blog.jpg)
 
@@ -29,7 +28,7 @@ By April 2020, three months after the start of the pandemic, air travel was down
 
 Welcome, Sweta. Would you like to introduce yourself and tell us a bit about your work?
 
-#### Sweta Chakroborty
+#### Sweta Chakraborty
 
 My PhD is in risk management and I went on from finishing my PhD to looking at how behavioural science can be applied to patient decision making. I looked at why patients don’t make the best decisions around their health care regimes, despite their doctors’ instructions and despite all of the data and evidence. That then rolled into my post doctorate, which I did at Oxford University, at the Centre for Socio Legal Studies, which resulted in a book on pharmaceutical regulation and litigation. So you would think I would be in health care.
 
@@ -117,10 +116,8 @@ As we have been talking about our relationship with nature and wildlife in relat
 
 Maggie talked about red kites, both in her home town of Aberystwyth and at White Horse Hill in Oxfordshire. Bertie told us about encountering a pod of dolphins while at sea off the Cornish coast. 
 
-### Our thanks to [Dr Sweta Chakraboty](https://swetachakraborty.com) for joining us and giving us an insight into human behaviour when it comes to risk, in the context of both COVID 19 and climate change. 
+### Our thanks to [Dr Sweta Chakraborty](https://swetachakraborty.com) for joining us and giving us an insight into human behaviour when it comes to risk, in the context of both COVID 19 and climate change.
 
 *Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-pandemics-and-climate/) and find other episodes and previous series [here](/podcast).*
-
-**Credits**
 
 *Voiceover: [L. Sophie Helbig](https://lshelbig.com/main/). Soundtrack: [Chasing Balloons by Yeti Music](https://uppbeat.io/track/yeti-music/chasing-balloons).*
