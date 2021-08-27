@@ -1,21 +1,13 @@
 <div class="md:w-1/2 xl:w-1/4 xl:mx-6 mb-8 md:flex md:items-stretch">
     <div class="border border-orange md:flex md:items-stretch" style="transform: rotate(3deg)">
         <div class="bg-white text-blue md:flex md:flex-col md:justify-stretch" style="transform: rotate(-3deg)">
-
-        <% if url != '' %>
-            <a href="<%= url %>" class="block pb-square bg-cover bg-center" style="background-image:url(<%= cover_image %>)"></a>
-            <div class="px-2 py-4 border-4 border-t-0 border-gray-300 h-full">
-                <h4 class="text-2xl text-blue-dark text-center leading-tight mb-4"><a href="<%= url %>"><%= name %></a></h4>
-                <p class="text-lg text-black text-center leading-tight mb-2"><a href="<%= url %>">&ldquo;<%= quote %>&rdquo;</a></p>
-            </div>
-        <% else %>
-            <div class="block pb-square bg-cover bg-center" style="background-image:url(<%= cover_image %>)"></div>
-            <div class="px-2 py-4 border-4 border-t-0 border-gray-300 h-full">
-                <h4 class="text-2xl text-blue-dark text-center leading-tight mb-4"><%= name %></h4>
-                <p class="text-lg text-black text-center leading-tight mb-2">&ldquo;<%= quote %>&rdquo;</p>
-            </div>
-        <% end %>
-
+            <% if url != '' %><a href="<%= url %>"><% end %>
+                <img src="<%= cover_image %>" alt="Photograph of <%= name %>" class="block" />
+                <div class="px-2 py-4 border-4 border-t-0 border-gray-300 h-full">
+                    <h4 class="text-2xl text-blue-dark text-center leading-tight mb-4"><a href="<%= url %>"><%= name %></a></h4>
+                    <p class="text-lg text-black text-center leading-tight mb-2"><a href="<%= url %>">&ldquo;<%= quote %>&rdquo;</a></p>
+                </div>
+            <% if url != '' %></a><% end %>
         </div>
     </div>
 </div>
