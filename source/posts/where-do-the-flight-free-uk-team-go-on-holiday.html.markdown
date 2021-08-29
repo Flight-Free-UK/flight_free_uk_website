@@ -86,8 +86,8 @@ Gemma and their partner also stopped off at Plymouth on the way back to London, 
 
 ### Alan
 
-There are so many hidden gems.
 
 
+### The UK is a fantastic place to take a holiday. There are so many hidden gems waiting to be found. Hopefully you’re inspired to explore more of our beautiful country next time you’re thinking of going on holiday.
 
-Perhaps you have a recommen of your own? Head over to [Facebook](https://www.facebook.com/2168480816734086/posts/2912368965678597/) to share your staycation stories!
+Perhaps you have a recommendation of your own? Head over to [Facebook](https://www.facebook.com/2168480816734086/posts/2912368965678597/) to share your staycation stories!
