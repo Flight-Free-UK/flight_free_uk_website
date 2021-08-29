@@ -10,9 +10,11 @@ summary: "From cycling in Scotland to relaxing in Cornwall and everywhere in
 author: FlightFree UK
 read_time_minute: 222
 ---
-### The UK has so much to offer - rugged coastline, idyllic countryside, epic mountainscapes, historic towns and cities. We take a look at what some of our team got up to across the country.
+### The UK has so much to offer - dramatic coastlines, idyllic countryside, spectacular mountainscapes and towns and cities rich in history. Here’s a round up of where some of our team travelled and what they got up to.
 
 ### Anna
+
+![]( "Anna and James ")
 
 Cycling enthusiast Anna took on something a bit more strenuous than your standard holiday: completing the National Three Peaks challenge by bicycle. The journey took her and her riding buddy James all the way from north Wales to the Highlands of Scotland through Wirral, Lancashire, the Lake District, Carlisle, Glasgow and Glencoe, hiking up the three highest peaks of Wales, England and Scotland along the way.
 
@@ -22,6 +24,8 @@ Cycling enthusiast Anna took on something a bit more strenuous than your standar
 
 ### Maggie
 
+![]()
+
 Maggie went to Suffolk with her family, driving from Bristol in a hired plug-in hybrid car. They stayed in a 17th century cottage on the bank of the River Box.
 
 Maggie says “Suffolk is all about the villages. A typical Suffolk village has some lovely medieval and Georgian buildings, a mass of hollyhocks, a gorgeous church and at least one good pub. The fabulous church in Long Melford was built with money from a wool tycoon. All his friends who chipped in are commemorated in stained glass portraits, like a 15th century crowd funder page.”
@@ -29,6 +33,8 @@ Maggie says “Suffolk is all about the villages. A typical Suffolk village has 
 The weather was a bit changeable, but always seemed to turn out better than the forecast. “We walked between villages on old footpaths that take you between wheatfields, vineyards, orchards and woods. The coast is not far, and we spend an afternoon eating ice cream and watching the huge container ships unload at Felixstowe. In the other direction, the RRS Sir David Attenborough was visible in the harbour at Harwich. That’s Boaty McBoatface to his friends.”
 
 ### Bertie
+
+![]( "Bertie")
 
 Bertie travelled by overnight coach from London Victoria to Penzance for his annual family holiday in South West Cornwall. “We stay in the same place at the same time every year in a row of cottages, I go with my immediate family but we are now good friends with all the other people who stay there at the same time in different cottages.”
 
@@ -39,6 +45,8 @@ He also visited Porthleven, a port town considered by some to be the next ‘foo
 “It’s an area I now know really well and is always a very special week but this year it was the perfect holiday. It was very refreshing to come back from a holiday completely relaxed with none of the travel stress you would get with flying.”
 
 ### Sunita
+
+![]( "Sunita")
 
 Sunita took a weekend out of London to explore the Seven Sisters in Sussex, and wander around Devil’s Dyke, on the South Downs in Southern England. Traveling by train from Victoria is a pretty quick and cheap trip to get out of the city.
 
@@ -59,6 +67,8 @@ We know so many things are happening in the world at the same time, but it can b
 
 ### Gemma
 
+![]( "Gemma")
+
 Gemma travelled down to Cornwall this summer by train from London, to a small fishing village called Mevagissey, a short distance from St Austell.
 
 Gemma and their partner stayed in a small independent B&B with a fantastic view of the local bay.
@@ -76,8 +86,8 @@ Gemma and their partner also stopped off at Plymouth on the way back to London, 
 
 ### Alan
 
+There are so many hidden gems.
 
 
 
-
-There you have it
+Perhaps you have a recommen of your own? Head over to [Facebook](https://www.facebook.com/2168480816734086/posts/2912368965678597/) to share your staycation stories!
