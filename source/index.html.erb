@@ -50,8 +50,8 @@ title: Flight Free UK
         <div class="flex flex-wrap justify-center lg:justify-start xl:justify-between items-center w-full xl:w-5/6 mb-2 xl:mb-8">
           <h2 class="text-2xl lg:text-3xl xl:text-4xl mr-2 xl:mr-4 mb-2">#FlightFree2022</h2>
           <div class="flex xs:justify-center lg:justify-start">
-            <%= link_to "", "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 mr-4 sm:mr-12 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/twitter.svg);background-size:60%", target: "_blank" %>
-            <a href="https://instagram.com/<%= data.social_media.instagram %>" class="w-12 h-12 xl:w-16 xl:h-16 mr-4 sm:mr-12 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(/images/instagram.png);background-size:60%" target="_blank"></a>
+            <%= link_to "", "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 mr-4 xl:mr-12 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/twitter.svg);background-size:60%", target: "_blank" %>
+            <a href="https://instagram.com/<%= data.social_media.instagram %>" class="w-12 h-12 xl:w-16 xl:h-16 mr-4 xl:mr-12 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(/images/instagram.png);background-size:60%" target="_blank"></a>
             <%= link_to "", "https://www.facebook.com/sharer/sharer.php", query: { u: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/facebook.svg);background-size:30%", target: "_blank" %>
           </div>
         </div>
@@ -182,7 +182,7 @@ title: Flight Free UK
           <%= partial "home_blog_post", locals: { article: blog.articles[2] } %>
         </div>
     </div>
-    <p class="sm:hidden xl:flex-grow xl:flex justify-end items-center mb-8">
+    <p class="xl:flex-grow xl:flex justify-end items-center mb-8 sm:hidden xl:hidden">
         <% link_to "/be_inspired.html", class: "block min-h-3 leading-tight text-base xl:text-xl text-blue-dark bg-no-repeat bg-right pb-2 pr-12 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
             Find all of our blog content here
         <% end %>
@@ -206,7 +206,7 @@ title: Flight Free UK
             <a href="<%= videos[1].url %>" class="block pb-16-9 bg-contain bg-center" style="background-image:url(<%= videos[1].cover_image %>)" title="Link to <%= videos[1].title %> video" target="_blank" rel="nofollow"></a>
         </div>
     </div>
-    <p class="sm:hidden xl:flex-grow xl:flex justify-end items-center mb-8">
+    <p class="xl:flex-grow xl:flex justify-end items-center mb-8 sm:hidden xl:hidden">
         <% link_to "https://vimeo.com/flightfreeuk", class: "block min-h-3 leading-tight text-base xl:text-xl text-blue-dark bg-no-repeat bg-right py-2 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
             See more videos
         <% end %>
