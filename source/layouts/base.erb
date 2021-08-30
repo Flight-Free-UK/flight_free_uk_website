@@ -9,19 +9,19 @@
   <title><%= title %></title>
   <meta property="og:title" content="<%= current_article ? current_article.title : title %>"/>
 
-  <% description = "Fight climate change: make the pledge to be flight free in 2021" %>
+  <% description = "Fight climate change: make the pledge to be flight free in 2022" %>
   <meta name="description" content="<%= description %>"/>
   <meta property="og:description" content="<%= current_article ? current_article.data.summary : description %>"/>
 
   <meta property="og:type" content="<%= current_article ? "article" : "website" %>"/>
-  <meta property="og:image" content="https://flightfree.co.uk<%= current_article ? image_path(current_article.data.cover_image) : "/images/pledge-2021.jpg" %>"/>
+  <meta property="og:image" content="https://flightfree.co.uk<%= current_article ? image_path(current_article.data.cover_image) : "/images/flight-free-pledge-2022.jpg" %>"/>
   <meta property="og:image:alt" content="<%= current_article ? current_article.data.summary : description %>"/>
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="<%= data.social_media.twitter %>" />
   <meta name="twitter:title" content="<%= current_article ? current_article.title : title %>" />
   <meta name="twitter:description" content="<%= current_article ? current_article.data.summary : description %>" />
-  <meta name="twitter:image" content="https://flightfree.co.uk<%= current_article ? image_path(current_article.data.cover_image) : "/images/pledge-2021.jpg" %>" />
+  <meta name="twitter:image" content="https://flightfree.co.uk<%= current_article ? image_path(current_article.data.cover_image) : "/images/flight-free-pledge-2022.jpg" %>" />
 
   <%= stylesheet_link_tag "main" %>
   <%= javascript_include_tag "https://unpkg.com/micromodal/dist/micromodal.min.js" %>
@@ -42,7 +42,7 @@
   <section class="bg-orange">
     <div class="container mx-auto">
       <div class="px-4 sm:px-8 xl:px-16 xxl:px-48 pt-4 pb-5 xs:py-6 sm:py-8 xl:py-12 leading-tight text-center">
-        <h2 class="text-lg sm:text-3xl xl:text-5xl text-white mb-4 xs:mb-6 sm:mb-8 xl:mb-8">Take the flight free pledge today!</h2>
+        <h2 class="text-lg sm:text-3xl xl:text-5xl text-blue-dark mb-4 xs:mb-6 sm:mb-8 xl:mb-8">Take the flight free pledge today!</h2>
         <button class="bg-white text-blue-dark text-lg sm:text-2xl w-auto px-4 sm:px-20 py-2 sm:py-4" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
       </div>
     </div>

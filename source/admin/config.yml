@@ -1,8 +1,7 @@
 backend:
   name: git-gateway
 
-local_backend:
-  url: http://localhost:8081/api/v1
+local_backend: true
 
 media_folder: source/images/uploads
 public_folder: /images/uploads
@@ -38,6 +37,27 @@ collections:
       - {label: Publish Date, name: date, widget: date}
       - {label: Cover image, name: cover_image, widget: image}
       - {label: Summary, name: summary, widget: text}
+      - {label: URL, name: url, widget: string}
+  - name: videos
+    label: Videos
+    folder: data/videos
+    format: yml
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: Summary, name: summary, widget: text}
+  - name: testimonials
+    label: Testimonials
+    folder: data/testimonials
+    format: yml
+    create: true
+    fields:
+      - {label: Name, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: Quote, name: quote, widget: text}
       - {label: URL, name: url, widget: string}
   - name: faqs
     label: FAQs

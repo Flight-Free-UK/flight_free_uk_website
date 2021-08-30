@@ -44,7 +44,12 @@ module.exports = {
         '96': '24rem',
       },
       minHeight: {
+          '3': '3rem',
           '160': '160px'
+      },
+      spacing: {
+          '16-9': '56.25%',
+          'square': '100%'
       }
     },
     rotate: {
@@ -52,6 +57,9 @@ module.exports = {
       '-12': '-12deg'
     }
   },
-  variants: {},
+  variants: {
+    opacity: ({ after }) => after(['disabled']),
+    bg: ({ after }) => after(['disabled']),
+  },
   plugins: []
 }
