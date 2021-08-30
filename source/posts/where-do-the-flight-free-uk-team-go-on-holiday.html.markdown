@@ -67,7 +67,7 @@ We know so many things are happening in the world at the same time, but it can b
 
 ### Gemma
 
-![]( "Gemma")
+![](/images/uploads/gemma-cornwall.jpeg "Gemma")
 
 Gemma travelled down to Cornwall this summer by train from London, to a small fishing village called Mevagissey, a short distance from St Austell.
 
