@@ -67,6 +67,8 @@ We know so many things are happening in the world at the same time, but it can b
 
 “There was a lot of ‘good stuff’: simple walking, people watching, looking at the sea and feeling fresh air, something that you really appreciate when you live in the city. We did also manage to check out a castle and the Battle of Hastings Museum but we’ll save that for another time!”
 
+![Selection of photos made into Polaroids. Collection of view of the seven sisters cliffs and surrounding coastline. ]()
+
 ### Gemma
 
 ![](/images/uploads/gemma-cornwall.jpeg "Gemma")
