@@ -88,6 +88,8 @@ Gemma and their partner also stopped off at Plymouth on the way back to London, 
 
 “We had such a great week, we managed to do enough that we felt we’d seen as much as we could in Cornwall as well as relaxing enough to feel rejuvenated. I was proud to have shown my partner around our wonderful coastline and really felt the benefit of not relying on a car to explore the area!”
 
+![Selection of photos made into Polaroids. Image of Mevagissey marina, Portmelon Bay, The Eden Project and the lighthouse at Plymouth Hoe.]()
+
 ### Alan
 
 ### The UK is a fantastic place to take a holiday. There are so many hidden gems waiting to be found. Hopefully you’re inspired to explore more of our beautiful country next time you’re thinking of going on holiday.
