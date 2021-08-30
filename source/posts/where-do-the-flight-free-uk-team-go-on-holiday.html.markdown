@@ -32,6 +32,8 @@ Maggie says “Suffolk is all about the villages. A typical Suffolk village has 
 
 The weather was a bit changeable, but always seemed to turn out better than the forecast. “We walked between villages on old footpaths that take you between wheatfields, vineyards, orchards and woods. The coast is not far, and we spend an afternoon eating ice cream and watching the huge container ships unload at Felixstowe. In the other direction, the RRS Sir David Attenborough was visible in the harbour at Harwich. That’s Boaty McBoatface to his friends.”
 
+![Selection of photos made into Polaroids. An image of a white electric car, image of hollyhocks (flowers) in the village, image of Jolly Sailor pub and image of Oxford boat. ]()
+
 ### Bertie
 
 ![]( "Bertie")
