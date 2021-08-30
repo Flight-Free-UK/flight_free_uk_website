@@ -16,9 +16,9 @@ members:
     photo: /images/uploads/amy.jpg
   - bio: "Anna has worked in the sustainable transport sector since 2008, mainly
       focussing on increasing cycling levels with children and families. A
-      lifelong environmentalist, she made the decision to stop flying ten years
-      ago and hopes the #FlightFree2021 campaign will inspire others to do the
-      same."
+      lifelong environmentalist, she made the decision to stop flying more than
+      ten years ago and hopes the #FlightFree2022 campaign will inspire others
+      to do the same."
     name: Anna Hughes
     photo: /images/uploads/sitting-portrait-square.jpeg
     role: Director
@@ -57,8 +57,9 @@ members:
     role: Social Media
     bio: "Engaged with many environmental and social justice issues, Sunita
       frequently writes about sustainable living and is committed to developing
-      conversations on climate change and responsible consumerism. She joined
-      the team as an intern in 2020, and is now our social media officer. "
+      conversations on climate change and responsible consumerism. Her excellent
+      communication skills and creativity are put to good use as she heads up
+      the social media team. "
     photo: /images/uploads/sunita-head-shot-final.jpg
   - name: Tamsin Draper
     bio: Tamsin is studying History and Politics at the University of Nottingham. It
@@ -67,12 +68,3 @@ members:
       more sustainable lives.
     role: Social Media
     photo: /images/uploads/tamsin_draper.jpg
-  - bio: Based near Manchester, Tom has experience in several behaviour change
-      projects, from recycling to air pollution. With a family history in the
-      aviation industry he is a passionate advocate of a fair transition towards
-      a sustainable transport infrastructure. Tom puts his graphic design and
-      GIS skills to good use helping with Flight Free UK’s visual
-      communications.
-    name: "Tom Keyes "
-    role: "Graphics and Design "
-    photo: /images/uploads/tom-headshot-.jpg
