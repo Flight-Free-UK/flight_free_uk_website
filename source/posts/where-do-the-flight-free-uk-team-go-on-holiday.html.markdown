@@ -24,7 +24,7 @@ Cycling enthusiast Anna took on something a bit more strenuous than your standar
 
 ### Maggie
 
-![]()
+![](/images/uploads/maggie-river-box.jpg)
 
 Maggie went to Suffolk with her family, driving from Bristol in a hired plug-in hybrid car. They stayed in a 17th century cottage on the bank of the River Box.
 
