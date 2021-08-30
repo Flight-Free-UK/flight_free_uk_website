@@ -14,7 +14,7 @@ read_time_minute: 222
 
 ### Anna
 
-![]( "Anna and James ")
+![](/images/uploads/anna-james.jpeg "Anna and James ")
 
 Cycling enthusiast Anna took on something a bit more strenuous than your standard holiday: completing the National Three Peaks challenge by bicycle. The journey took her and her riding buddy James all the way from north Wales to the Highlands of Scotland through Wirral, Lancashire, the Lake District, Carlisle, Glasgow and Glencoe, hiking up the three highest peaks of Wales, England and Scotland along the way.
 
@@ -85,8 +85,6 @@ Gemma and their partner also stopped off at Plymouth on the way back to London, 
 “We had such a great week, we managed to do enough that we felt we’d seen as much as we could in Cornwall as well as relaxing enough to feel rejuvenated. I was proud to have shown my partner around our wonderful coastline and really felt the benefit of not relying on a car to explore the area!”
 
 ### Alan
-
-
 
 ### The UK is a fantastic place to take a holiday. There are so many hidden gems waiting to be found. Hopefully you’re inspired to explore more of our beautiful country next time you’re thinking of going on holiday.
 
