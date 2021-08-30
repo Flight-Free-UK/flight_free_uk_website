@@ -259,8 +259,4 @@ strong {
 .answered button {
     @apply cursor-default;
 }
-.answer {
-    @apply bg-orange;
-    @apply text-blue-dark;
-}
 
