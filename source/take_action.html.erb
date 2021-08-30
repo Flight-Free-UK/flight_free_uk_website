@@ -27,7 +27,7 @@ title: Take action
       <img src="/svg/two_white_bg.svg" class="flex-none mb-4 mx-auto lg:mr-8 lg:ml-0" />
       <h2 class="text-4xl xl:text-5xl">Share the pledge</h2>
     </div>
-    <div class="md:flex justify-between text-xl xl:px-20">
+    <div class="md:flex justify-between text-xl pl-12 xs:pl-0 xl:px-20">
       <% link_to "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "block relative mb-8 xl:mb-0 leading-tight pl-20 lg:flex items-center", target: "_blank" do %>
         <%= image_tag "/svg/twitter_with_bg.svg", class: "absolute top-0 left-0 w-16" %>
         Share on <br />Twitter
@@ -45,20 +45,7 @@ title: Take action
 </section>
 <section class="bg-blue">
   <div class="container lg:flex justify-start mx-auto px-4 sm:px-8 xl:px-16 xxl:px-48 pt-10 sm:pt-20 xl:pt-24 pb-16 xl:pb-20 text-white overflow-hidden">
-      <div class="lg:w-1/3 lg:pl-8 xxl:pl-0 mb-8 sm:mb-16">
-        <div class="border border-white" style="transform: rotate(-7deg)">
-          <div class="bg-blue-dark text-center px-4 xs:px-6 py-6 sm:py-10 xl:py-12" style="transform: rotate(7deg)">
-            <img src="/images/anna-2022-pledge.jpg" class="rounded-full mb-4 sm:mb-8 mx-auto w-32 xl:w-auto" />
-            <div class="text-lg xs:text-xl xl:text-2xl mb-4">Anna Hughes</div>
-            <p class="text-xl xs:text-2xl xl:text-3xl mb-4 leading-tight">“I will be flight free for life because I want to keep my carbon footprint as low as possible.”</p>
-            <a href="/blog/categories/testimonials/" class="text-xl xl:text-2xl text-orange" target="_blank">
-              See all testimonials
-              <img src="/svg/orange_arrow_right.svg" class="mt-2 mx-auto w-8 xl:w-auto"/>
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="lg:w-2/3 lg:pl-20 lg:pt-4 lg:flex items-start">
+      <div class="lg:order-2 lg:w-2/3 lg:pl-20 lg:pt-4 lg:flex items-start mb-8 sm:mb-16">
         <img src="/svg/three_white_bg.svg" class="flex-none mb-4 sm:mb-8 lg:mb-6 mx-auto" />
         <div class="lg:pl-8 bg-no-repeat bg-right-bottom" style="background-image:url(/svg/story_modal_bg-2.svg)">
           <h1 class="text-4xl xs:text-4xl xl:text-5xl leading-tight mb-4 lg:mb-8">Tell us your story</h1>
@@ -70,6 +57,19 @@ title: Take action
             <li class="pl-8 bg-no-repeat bg-left" style="background-image:url(/svg/story_modal_bullet.svg)">A photo of you with the <a class="text-orange underline" href="/downloads" target="_blank">pledge card</a></li>
           </ul>
           <p class="text-2xl leading-tight mb-0 sm:mb-8">Email your story to <a class="text-orange underline" href="mailto:info@flightfree.co.uk">info@flightfree.co.uk</a></p>
+        </div>
+      </div>
+      <div class="lg:order-1 lg:w-1/3 lg:pl-8 xxl:pl-0 mb-8 sm:mb-16">
+        <div class="border border-white" style="transform: rotate(-7deg)">
+          <div class="bg-blue-dark text-center px-4 xs:px-6 py-6 sm:py-10 xl:py-12" style="transform: rotate(7deg)">
+            <img src="/images/anna-2022-pledge.jpg" class="rounded-full mb-4 sm:mb-8 mx-auto w-32 xl:w-auto" />
+            <div class="text-lg xs:text-xl xl:text-2xl mb-4">Anna Hughes</div>
+            <p class="text-xl xs:text-2xl xl:text-3xl mb-4 leading-tight">“I will be flight free for life because I want to keep my carbon footprint as low as possible.”</p>
+            <a href="/blog/categories/testimonials/" class="text-xl xl:text-2xl text-orange" target="_blank">
+              See all testimonials
+              <img src="/svg/orange_arrow_right.svg" class="mt-2 mx-auto w-8 xl:w-auto"/>
+            </a>
+          </div>
         </div>
       </div>
   </div>
