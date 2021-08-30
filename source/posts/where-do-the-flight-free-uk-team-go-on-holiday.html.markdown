@@ -46,7 +46,7 @@ He also visited Porthleven, a port town considered by some to be the next ‘foo
 
 ### Sunita
 
-![]( "Sunita")
+![](/images/uploads/sunita-sussex.jpeg "Sunita")
 
 Sunita took a weekend out of London to explore the Seven Sisters in Sussex, and wander around Devil’s Dyke, on the South Downs in Southern England. Traveling by train from Victoria is a pretty quick and cheap trip to get out of the city.
 
