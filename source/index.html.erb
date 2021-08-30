@@ -32,16 +32,20 @@ title: Flight Free UK
         <h2 class="text-3xl xl:text-5xl leading-tight mb-4 xs:mb-6 sm:mb-10">Pledge to be flight free in 2022</h2>
         <p class="text-md xl:text-3xl leading-tight lg:w-5/6 mb-4 xs:mb-6 sm:mb-12">and join the growing number of people choosing not to fly because of the climate crisis</p>
 
-        <div class="pledge-progress__container lg:flex mb-4 xs:mb-6 sm:mb-10 xl:mb-24">
-        <div class="w-full lg:w-5/6">
+        <div class="pledge-progress__container lg:flex">
+          <div class="w-full lg:w-5/6">
 
 <%# start pledge progress bar %>
 <%= partial "progress_bar" %>
 <%# end progress bar %>
 
+          </div>
+          <div class="hidden lg:inline-block lg:w-1/6">
+            <p class="text-xl leading-tight pl-3 py-2">2k</p>
+          </div>
         </div>
-        <div class="hidden lg:inline-block lg:w-1/6"><p class="text-xl leading-tight pl-3 py-2">2k</p></div>
-        </div>
+
+        <p class="text-2xl lg:text-4xl mb-4 lg:mb-16">Help us reach 10,000!</p>
 
         <div class="flex flex-wrap justify-center lg:justify-start xl:justify-between items-center w-full xl:w-5/6 mb-2 xl:mb-8">
           <h2 class="text-2xl lg:text-3xl xl:text-4xl mr-2 xl:mr-4 mb-2">#FlightFree2022</h2>
