@@ -32,7 +32,7 @@ Maggie says “Suffolk is all about the villages. A typical Suffolk village has 
 
 The weather was a bit changeable, but always seemed to turn out better than the forecast. “We walked between villages on old footpaths that take you between wheatfields, vineyards, orchards and woods. The coast is not far, and we spend an afternoon eating ice cream and watching the huge container ships unload at Felixstowe. In the other direction, the RRS Sir David Attenborough was visible in the harbour at Harwich. That’s Boaty McBoatface to his friends.”
 
-![Selection of photos made into Polaroids. An image of a white electric car, image of hollyhocks (flowers) in the village, image of Jolly Sailor pub and image of Oxford boat. ]()
+![Selection of photos made into Polaroids. An image of a white electric car, image of hollyhocks (flowers) in the village, image of Jolly Sailor pub and image of Oxford boat. ](/images/uploads/maggie-suffolk-polaroid.jpg)
 
 ### Bertie
 
@@ -67,7 +67,7 @@ We know so many things are happening in the world at the same time, but it can b
 
 “There was a lot of ‘good stuff’: simple walking, people watching, looking at the sea and feeling fresh air, something that you really appreciate when you live in the city. We did also manage to check out a castle and the Battle of Hastings Museum but we’ll save that for another time!”
 
-![Selection of photos made into Polaroids. Collection of view of the seven sisters cliffs and surrounding coastline. ]()
+![Selection of photos made into Polaroids. Collection of view of the seven sisters cliffs and surrounding coastline. ](/images/uploads/sunita-sussex-polaroid.jpg)
 
 ### Gemma
 
