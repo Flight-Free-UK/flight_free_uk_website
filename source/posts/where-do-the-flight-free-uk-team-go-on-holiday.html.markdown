@@ -3,62 +3,66 @@ published: false
 title: Where the Flight Free UK team goes on holiday
 category: travel
 date: 2021-08-28T13:05:43.541Z
-cover_image: /images/uploads/05may_episode_blog.jpg
+cover_image: /images/uploads/sunita_beachy-head.jpeg
 summary: "From cycling in Scotland to relaxing in Cornwall and everywhere in
   between, members the Flight Free UK team share the stories of their holidays
   this summer. "
 author: FlightFree UK
-read_time_minute: 222
+read_time_minute: 7
 ---
 ### Bertie: overnight coach to Cornwall
-
-![]( "Bertie")
 
 Bertie travelled by overnight coach from London Victoria to Penzance for his annual family holiday in South West Cornwall. 
 
 “We stay in the same place at the same time every year in a row of cottages. I go with my immediate family but we are now good friends with all the other people who stay there in the other cottages.”
 
-“The whole holiday was amazing. It was a bit surreal to be honest!” said Bertie. “The weather was five days of solid hot sunshine and peaceful seas, so our activities were very sun focused. Lots of lying on the beach, reading, listening to music and swimming with jellyfish. I also had the fortune of being able to go out on a small boat a couple of times and saw a huge pod of dolphins. I’ve been going to the same place for 20 years and never seen them before so that was very cool.”
-
 > “I had the fortune of being seeing a huge pod of dolphins. I’ve been going to the same place for 20 years and never seen them before.”
 
-He also visited Porthleven, a port town considered by some to be the next ‘food hotspot’.
+“The whole holiday was amazing. The weather was five days of solid sunshine and peaceful seas, so our activities were very sun-focused. Lots of lying on the beach, reading, listening to music and swimming with jellyfish." 
 
-“It’s an area I know really well and our holiday is always a very special week, but this year it was perfect. It was very refreshing to come back from a holiday completely relaxed with none of the travel stress you would get with flying.”
+"I also had the fortune of being able to go out on a small boat a couple of times and saw a huge pod of dolphins. I’ve been going to the same place for 20 years and never seen them before so that was very cool.”
 
 > “It was very refreshing to come back from a holiday completely relaxed with none of the travel stress you would get with flying.”
 
-![]()
+Bertie and the family also visited Porthleven, a port town considered by some to be the next ‘food hotspot’.
+
+“It’s an area I know really well and our holiday is always a very special week, but this year it was extra perfect. It was very refreshing to come back from a holiday completely relaxed with none of the travel stress you would get with flying.”
+
+
 
 ### Sunita: a weekend on the south coast
 
-![](/images/uploads/sunita-sussex.jpeg)
+![Sunita, a young woman of Mauritian heritage, stands at the top of the chalk sea cliff at Beachy Head.](/images/uploads/sunita-sussex.jpeg "Sunita at Beachy Head, the highest chalk cliffs in the UK")
 
-Sunita took a weekend out of London to explore the South Downs in Sussex, exploring the South Downs way between the Seven Sisters and Devil’s Dyke. Travelling by train from Victoria is a pretty quick and cheap way to get out of the city.
+Sunita took a weekend out of London to explore the South Downs in Sussex, wandering along the South Downs way between the Seven Sisters and Devil’s Dyke. Travelling by train from Victoria is a quick and cheap way to get out of the city.
 
-Together with her boyfriend Charlie she travelled in a campervan that they had renovated last summer.
+Together with her boyfriend Charlie, they travelled in a campervan that Charlie had renovated last summer.
 
-“It’s pretty basic, but we’ve always slept really well in the van. It’s a comfy set up. It’s kitted out with natural sheeps' wool for the insulation and wooden panels throughout, which, if you’re looking for cute van tips, is amazing for keeping the van smelling super fresh and clean while on the road!”
+“It’s pretty basic, but we’ve always slept really well in the van. It’s a comfy set up. It’s kitted out with natural sheeps' wool for the insulation and wooden panels throughout, which, if you’re looking for cute van tips, is amazing for keeping the van smelling super fresh and clean while on the road.”
 
-They lucked out with the weather, too: “It was ideal for doing everything we wanted to do: walking up and down hills, sitting out for hours staring out at views, enjoying evening walks, and sleeping in the van. The days felt bright and hopeful, and a sea breeze kept you warm and cool simultaneously. It was perfect for us!”
+They lucked out with the weather, too: “It was ideal for doing everything we wanted to do: walking up and down hills, sitting for hours staring out at views, enjoying evening walks, and sleeping in the van. The days felt bright and hopeful, and a sea breeze kept us warm and cool simultaneously. It was perfect for us.”
 
-So often many people can fall into the trap of trying to do too much in a short space of time, but Charlie and Sunita say this time they really slowed down, especially around Devil’s Dyke.
+![Image shows the South Downs Way: a grassy footpath on the top of chalk cliffs, with a blue sea and whispy clouds in the sky](/images/uploads/south_downs_way.jpg "The South Downs Way")
 
-“We lay on the grass looking at the sky for ages. With a 360 view at the top we could see all the various activities and stories going on below us. It was like watching a movie, with different scenes. It’s good to reflect sometimes on life like this. It gives a better sense of the full picture, the whole story.”
+So often people can fall into the trap of trying to do too much in a short space of time, but Charlie and Sunita say that this time they really slowed down, especially around Devil’s Dyke.
+
+“We lay on the grass looking at the sky for ages. With a 360 view at the top we could see all the various activities and stories going on below us. It was like watching a movie, with different scenes. It’s good to reflect sometimes on life like this.”
 
 > “There was a lot of good stuff: walking, people-watching, looking at the sea and feeling the fresh air.”
 
 “There was a lot of good stuff: walking, people-watching, looking at the sea and feeling the fresh air, something that you really appreciate when you live in the city. We also managed to check out a castle and the Battle of Hastings Museum.”
 
-![Selection of photos made into Polaroids. Collection of view of the seven sisters cliffs and surrounding coastline. ](/images/uploads/sunita-sussex-polaroid.jpg)
+
 
 ### Anna: Snowdonia to Fort William by bike
 
-![](/images/uploads/anna-james.jpeg "Anna and James at the top of Ben Nevis")
+![]()
 
 Cycling enthusiast Anna took on something a bit more strenuous than your standard holiday: completing the National Three Peaks challenge by bicycle. The journey took her and her riding buddy James all the way from north Wales to the Highlands of Scotland through Wirral, Lancashire, the Lake District, Carlisle, Glasgow and Glencoe, hiking up the three highest peaks of Wales, England and Scotland along the way.
 
-“We were pretty lucky with the weather,” said Anna. “The climb up Scafell Pike was a complete washout but other than that we had amazing sunshine. We even got a rare view from the top of Ben Nevis which was totally unexpected!”
+![]()
+
+“We were pretty lucky with the weather,” says Anna. “The climb up Scafell Pike was a complete washout but other than that we had amazing sunshine. We even got a rare view from the top of Ben Nevis which was totally unexpected!”
 
 > “It was a fantastic trip through some of the most dramatic and impressive landscapes the UK has to offer. There‘s so much to explore on this island!”
 
@@ -66,9 +70,9 @@ Cycling enthusiast Anna took on something a bit more strenuous than your standar
 
 ### Maggie: hybrid car to Suffolk
 
-![](/images/uploads/maggie-river-box.jpg)
 
-Maggie went to Suffolk with her family, driving from Bristol in a hired plug-in hybrid car. They stayed in a 17th century cottage on the banks of the River Box.
+
+Maggie's summer holiday saw her driving from Bristol to Suffolk with her family in a hired plug-in hybrid car. They stayed in a 17th century cottage on the banks of the River Box.
 
 “Suffolk is all about the villages. A typical Suffolk village has some lovely medieval and Georgian buildings, a mass of hollyhocks, a gorgeous church and at least one good pub. The fabulous church in Long Melford was built with money from a wool tycoon. All his friends who chipped in are commemorated in stained glass portraits, like a 15th century crowd funder page.”
 
@@ -102,7 +106,7 @@ Stopping off in Plymouth on the way back was a nostalgic part of the trip, as Ge
 
 ![Selection of photos made into Polaroids. Image of Mevagissey fishing port, Portmelon Bay, The Eden Project and the lighthouse at Plymouth Hoe.](/images/uploads/gemma-cornwall-polaroid.jpg)
 
-### Alan: survival camp in the Lake District 
+### Alan: survival camp in the Lake District
 
 For something a little different, Alan booked himself onto a week-long beginners' Survival and Bushcraft course in the Lake District, run by [Wild Human](https://www.wildhuman.com/).
 
