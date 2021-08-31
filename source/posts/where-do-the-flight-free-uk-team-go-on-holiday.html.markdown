@@ -14,11 +14,15 @@ read_time_minute: 7
 
 Bertie travelled by overnight coach from London Victoria to Penzance for his annual family holiday in South West Cornwall. 
 
+![Image shows a group of people sitting on some rocks in the sun, next to the sea](/images/uploads/bertie_sunbathing.jpg "Sunbathing by the coast")
+
 “We stay in the same place at the same time every year in a row of cottages. I go with my immediate family but we are now good friends with all the other people who stay there in the other cottages.”
 
 > “I had the fortune of being seeing a huge pod of dolphins. I’ve been going to the same place for 20 years and never seen them before.”
 
 “The whole holiday was amazing. The weather was five days of solid sunshine and peaceful seas, so our activities were very sun-focused. Lots of lying on the beach, reading, listening to music and swimming with jellyfish." 
+
+![Image shows a close up of the blue sea and three dolphins swimming](/images/uploads/dolphins.jpeg "Dolphin-spotting")
 
 "I also had the fortune of being able to go out on a small boat a couple of times and saw a huge pod of dolphins. I’ve been going to the same place for 20 years and never seen them before so that was very cool.”
 
