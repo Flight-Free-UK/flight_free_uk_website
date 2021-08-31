@@ -10,7 +10,7 @@ summary: "From cycling in Scotland to relaxing in Cornwall and everywhere in
 author: FlightFree UK
 read_time_minute: 7
 ---
-### Bertie: overnight coach to Cornwall
+## Bertie: overnight coach to Cornwall
 
 Bertie travelled by overnight coach from London Victoria to Penzance for his annual family holiday in South West Cornwall. 
 
@@ -30,7 +30,7 @@ Bertie and the family also visited Porthleven, a port town considered by some to
 
 
 
-### Sunita: a weekend on the south coast
+## Sunita: a weekend on the south coast
 
 ![Sunita, a young woman of Mauritian heritage, stands at the top of the chalk sea cliff at Beachy Head.](/images/uploads/sunita_beachy-head.jpeg "Sunita at Beachy Head, the highest chalk cliffs in the UK")
 
@@ -54,7 +54,7 @@ So often people can fall into the trap of trying to do too much in a short space
 
 
 
-### Anna: Snowdonia to Fort William by bike
+## Anna: Snowdonia to Fort William by bike
 
 ![Image shows Anna, a young white female, and James, a young white  male, at the bottom of Mount Snowdon](/images/uploads/anna-and-james-snowdonia.jpg "James and Anna ready to climb Snowdon")
 
@@ -72,7 +72,7 @@ The journey took her and her riding buddy James all the way from north Wales to 
 
 
 
-### Maggie: hybrid car to Suffolk
+## Maggie: hybrid car to Suffolk
 
 Maggie's summer holiday saw her driving from Bristol to Suffolk with her family in a hired plug-in hybrid car. They stayed in a 17th century cottage on the banks of the River Box.
 
@@ -84,7 +84,7 @@ The weather was a bit changeable, but always seemed to turn out better than the 
 
 ![Image shows Long Melford church – a large church with a tower and a huge number of stained glass windows](/images/uploads/long-melford-church.jpg "Long Melford church")
 
-### Gemma: Cornish coast
+## Gemma: Cornish coast
 
 It seems that Cornwall is the destination of choice for the Flight Free UK team, as Gemma also travelled there this summer by train. With their partner they stayed in a small independent B&B in the fishing village of Mevagissey, a short distance from St Austell.
 
@@ -110,7 +110,7 @@ Stopping off in Plymouth on the way back was a nostalgic part of the trip, as Ge
 
 
 
-### Alan: survival camp in the Lake District
+## Alan: survival camp in the Lake District
 
 For something a little different, Alan booked himself onto a week-long beginners' Survival and Bushcraft course in the Lake District, run by [Wild Human](https://www.wildhuman.com/).
 
