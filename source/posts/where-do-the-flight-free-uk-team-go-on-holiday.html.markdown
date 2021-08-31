@@ -90,7 +90,7 @@ It seems that Cornwall is the destination of choice for the Flight Free UK team,
 
 “We didn’t do too much research into the area, so we were very lucky that most areas were easily accessible by public transport. We visited the Lost Gardens of Heligan, the Eden Project, St Ives and Charlestown to name just a few.”
 
-Cornwall has some great transport links, with local buses going to most areas on a regular basis, meaning you can have some great days out without worrying about driving and getting caught in traffic.
+Cornwall has some great transport links, with local buses going to most areas on a regular basis, meaning that you can have some great days out without worrying about driving and getting caught in traffic.
 
 “We definitely found some locations that we would like to visit again and again, including a small secluded beach that you could only access by foot. It was such a beautiful beach, tucked away from the crowds, with gorgeous clear waters.”
 
@@ -104,28 +104,16 @@ Stopping off in Plymouth on the way back was a nostalgic part of the trip, as Ge
 
 ### Alan: survival camp in the Lake District 
 
-Alan did a week-long beginners survival and bushcraft course in the Lake District. It was run by [Wild Human](https://www.wildhuman.com/), and took place on an estate near Lake Windermere.
+For something a little different, Alan booked himself onto a week-long beginners' Survival and Bushcraft course in the Lake District, run by [Wild Human](https://www.wildhuman.com/).
 
+Arriving near Lake Windermere late on Sunday afternoon, the attendees pitched their tents and got to know each other.
 
+“I was a bit worried that I might not get on with the others on the course,” said Alan, “but the group turned out to be one of the highlights. People came from a range of backgrounds, experience levels and ages. Most nights were spent chatting around the campfire for hours.”
 
-The attendees arrived late on Sunday afternoon, pitched tents and got to know each other.
+During the course of the week, the team learned skills such as shelter-building, whittling, fire-making and cooking. There were also guided walks where they were taught about foraging or tracking. As the week went on they took it in turns to sleep in a two-person shelter made out of sticks and leaves.
 
+“On my night in the shelter it rained really hard, but we were really warm and dry inside,” said Alan.
 
+By the end, most of the group had managed to make fire from sticks (or come very close!). For many, the cooking skills were a highlight. One day the instructors taught the group how to prepare and cook a pigeon, which included how to turn camping pots into a makeshift oven. The day after was preparing trout and cooking it on an open fire.
 
-“I was a bit worried that I might not get on with the others on the course” said Alan “but the group turned out to be one of the highlights. People came from a range of backgrounds, experience levels and ages. Most nights were spent chatting around the campfire for hours”.
-
-
-
-The week included a mix of talks and practical skills, including building shelters, whittling, fire-making and cooking. There were also guided walks where they taught about foraging or tracking. On day one the group made a two-person shelter out of sticks and leaves, which everyone got an opportunity to sleep in.
-
-
-
-“When I slept in the shelter, it rained really hard in the night, but we were really warm and dry inside”.
-
-
-
-The group was taught how to make fire from sticks, including how to make all the necessary tools. By the end, most of the group had managed it (or come very close!). For many, the cooking skills were a highlight. One day the instructors taught how to prepare a pigeon and turn it into a tasty pigeon pie, which included how to turn camping pots into a makeshift oven. The day after was preparing trout and cooking it on an open fire.
-
-
-
-“I would definitely go on another one of their courses. I would love to do one of their foraging courses in the spring or autumn, or perhaps one of the craft weekends, where you learn to make a knife or axe.”
+“I would definitely go on another one of their courses. I would love to do one of their foraging courses in the spring or autumn, or perhaps one of the craft weekends, where you learn to make a knife or an axe.”
