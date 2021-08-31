@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 title: Where the Flight Free UK team goes on holiday
 category: travel
-date: 2021-08-28T13:05:43.541Z
+date: 2021-08-31T11:48:27.664Z
 cover_image: /images/uploads/sunita_beachy-head.jpeg
 summary: "From cycling in Scotland to relaxing in Cornwall and everywhere in
   between, members the Flight Free UK team share the stories of their holidays
@@ -56,11 +56,13 @@ So often people can fall into the trap of trying to do too much in a short space
 
 ### Anna: Snowdonia to Fort William by bike
 
-![]()
+![Image shows Anna, a young white female, and James, a young white  male, at the bottom of Mount Snowdon](/images/uploads/anna-and-james-snowdonia.jpg "James and Anna ready to climb Snowdon")
 
-Cycling enthusiast Anna took on something a bit more strenuous than your standard holiday: completing the National Three Peaks challenge by bicycle. The journey took her and her riding buddy James all the way from north Wales to the Highlands of Scotland through Wirral, Lancashire, the Lake District, Carlisle, Glasgow and Glencoe, hiking up the three highest peaks of Wales, England and Scotland along the way.
+Cycling enthusiast Anna took on something a bit more strenuous than your standard holiday: completing the National Three Peaks challenge by bicycle. 
 
-![]()
+The journey took her and her riding buddy James all the way from north Wales to the Highlands of Scotland through Wirral, Lancashire, the Lake District, Carlisle, Glasgow and Glencoe, hiking up the three highest peaks of Wales, England and Scotland along the way.
+
+![Image shows Anna's bicycle leaning against the wall overlooking Loch Lomond in Scotland](/images/uploads/loch_lomond.jpg "Riding along the Loch Lomond cycle route")
 
 “We were pretty lucky with the weather,” says Anna. “The climb up Scafell Pike was a complete washout but other than that we had amazing sunshine. We even got a rare view from the top of Ben Nevis which was totally unexpected!”
 
@@ -68,9 +70,9 @@ Cycling enthusiast Anna took on something a bit more strenuous than your standar
 
 “Cycling 450 miles and climbing up three mountains is not everyone’s idea of a holiday, but it was a fantastic trip through some of the most dramatic and impressive landscapes the UK has to offer. We saw some amazing waterfalls, lakes, mountains and fells. There is so much to explore on this island!”
 
+
+
 ### Maggie: hybrid car to Suffolk
-
-
 
 Maggie's summer holiday saw her driving from Bristol to Suffolk with her family in a hired plug-in hybrid car. They stayed in a 17th century cottage on the banks of the River Box.
 
@@ -80,13 +82,13 @@ Maggie's summer holiday saw her driving from Bristol to Suffolk with her family 
 
 The weather was a bit changeable, but always seemed to turn out better than the forecast. “We walked between villages on old footpaths that take you between wheat fields, vineyards, orchards and woods. The coast is not far, and we spend an afternoon eating ice cream and watching the huge container ships unload at Felixstowe. In the other direction, the RRS Sir David Attenborough was visible in the harbour at Harwich. That’s Boaty McBoatface to his friends.”
 
-![Selection of photos made into Polaroids. An image of a white electric car, image of hollyhocks (flowers) in the village, image of Jolly Sailor pub and image of Oxford boat. ](/images/uploads/maggie-suffolk-polaroid.jpg)
+![Image shows Long Melford church – a large church with a tower and a huge number of stained glass windows](/images/uploads/long-melford-church.jpg "Long Melford church")
 
 ### Gemma: Cornish coast
 
-![](/images/uploads/gemma-cornwall.jpeg "Gemma")
-
 It seems that Cornwall is the destination of choice for the Flight Free UK team, as Gemma also travelled there this summer by train. With their partner they stayed in a small independent B&B in the fishing village of Mevagissey, a short distance from St Austell.
+
+![Image shows a harbour full of boats. There's a blue fishing boat in the foreground.](/images/uploads/mevagissey.jpg "Mevagissey harbour")
 
 “I booked this trip just after Christmas 2020 when we were deep in lockdown, so we would have something to look forward to when the summer came around. Not only that but my partner is from Germany and has never been to Cornwall, so I had to show him the beautiful coast we have!”
 
@@ -96,6 +98,8 @@ It seems that Cornwall is the destination of choice for the Flight Free UK team,
 
 Cornwall has some great transport links, with local buses going to most areas on a regular basis, meaning that you can have some great days out without worrying about driving and getting caught in traffic.
 
+![Image shows the Eden project in Cornwall. It is a bubble-like structure in the middle of lots of greenery](/images/uploads/eden_project.jpg "The Eden Project")
+
 “We definitely found some locations that we would like to visit again and again, including a small secluded beach that you could only access by foot. It was such a beautiful beach, tucked away from the crowds, with gorgeous clear waters.”
 
 > ”We found a beautiful secluded beach, tucked away from the crowds, with gorgeous clear waters.”
@@ -104,7 +108,7 @@ Stopping off in Plymouth on the way back was a nostalgic part of the trip, as Ge
 
 “We had such a great week. We managed to do enough that we felt we’d seen as much as we could in Cornwall as well as relaxing enough to feel rejuvenated. I was proud to have shown my partner around our wonderful coastline and really felt the benefit of not relying on a car to explore the area.”
 
-![Selection of photos made into Polaroids. Image of Mevagissey fishing port, Portmelon Bay, The Eden Project and the lighthouse at Plymouth Hoe.](/images/uploads/gemma-cornwall-polaroid.jpg)
+
 
 ### Alan: survival camp in the Lake District
 
