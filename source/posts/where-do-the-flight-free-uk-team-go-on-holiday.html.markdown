@@ -28,8 +28,6 @@ Bertie and the family also visited Porthleven, a port town considered by some to
 
 “It’s an area I know really well and our holiday is always a very special week, but this year it was extra perfect. It was very refreshing to come back from a holiday completely relaxed with none of the travel stress you would get with flying.”
 
-
-
 ## Sunita: a weekend on the south coast
 
 ![Sunita, a young woman of Mauritian heritage, stands at the top of the chalk sea cliff at Beachy Head.](/images/uploads/sunita_beachy-head.jpeg "Sunita at Beachy Head, the highest chalk cliffs in the UK")
@@ -52,8 +50,6 @@ So often people can fall into the trap of trying to do too much in a short space
 
 “There was a lot of good stuff: walking, people-watching, looking at the sea and feeling the fresh air, something that you really appreciate when you live in the city. We also managed to check out a castle and the Battle of Hastings Museum.”
 
-
-
 ## Anna: Snowdonia to Fort William by bike
 
 ![Image shows Anna, a young white female, and James, a young white  male, at the bottom of Mount Snowdon](/images/uploads/anna-and-james-snowdonia.jpg "James and Anna ready to climb Snowdon")
@@ -66,11 +62,9 @@ The journey took her and her riding buddy James all the way from north Wales to 
 
 “We were pretty lucky with the weather,” says Anna. “The climb up Scafell Pike was a complete washout but other than that we had amazing sunshine. We even got a rare view from the top of Ben Nevis which was totally unexpected!”
 
-> “It was a fantastic trip through some of the most dramatic and impressive landscapes the UK has to offer. There‘s so much to explore on this island!”
+> “It was a fantastic trip through some of the most dramatic and impressive landscapes the UK has to offer. There's so much to explore on this island!”
 
 “Cycling 450 miles and climbing up three mountains is not everyone’s idea of a holiday, but it was a fantastic trip through some of the most dramatic and impressive landscapes the UK has to offer. We saw some amazing waterfalls, lakes, mountains and fells. There is so much to explore on this island!”
-
-
 
 ## Maggie: hybrid car to Suffolk
 
@@ -107,8 +101,6 @@ Cornwall has some great transport links, with local buses going to most areas on
 Stopping off in Plymouth on the way back was a nostalgic part of the trip, as Gemma had studied at Plymouth University and had spent four years living in the coastal city.
 
 “We had such a great week. We managed to do enough that we felt we’d seen as much as we could in Cornwall as well as relaxing enough to feel rejuvenated. I was proud to have shown my partner around our wonderful coastline and really felt the benefit of not relying on a car to explore the area.”
-
-
 
 ## Alan: survival camp in the Lake District
 
