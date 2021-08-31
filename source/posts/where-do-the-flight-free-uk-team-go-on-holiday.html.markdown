@@ -32,7 +32,7 @@ Bertie and the family also visited Porthleven, a port town considered by some to
 
 ### Sunita: a weekend on the south coast
 
-![Sunita, a young woman of Mauritian heritage, stands at the top of the chalk sea cliff at Beachy Head.](/images/uploads/sunita-sussex.jpeg "Sunita at Beachy Head, the highest chalk cliffs in the UK")
+![Sunita, a young woman of Mauritian heritage, stands at the top of the chalk sea cliff at Beachy Head.](/images/uploads/sunita_beachy-head.jpeg "Sunita at Beachy Head, the highest chalk cliffs in the UK")
 
 Sunita took a weekend out of London to explore the South Downs in Sussex, wandering along the South Downs way between the Seven Sisters and Devil’s Dyke. Travelling by train from Victoria is a quick and cheap way to get out of the city.
 
