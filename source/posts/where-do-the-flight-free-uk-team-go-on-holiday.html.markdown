@@ -74,13 +74,15 @@ The journey took her and her riding buddy James all the way from north Wales to 
 
 Maggie's summer holiday saw her driving from Bristol to Suffolk with her family in a hired plug-in hybrid car. They stayed in a 17th century cottage on the banks of the River Box.
 
+![Image shows Long Melford church – a large church with a tower and a huge number of stained glass windows](/images/uploads/long-melford-church.jpg "Long Melford church")
+
 “Suffolk is all about the villages. A typical Suffolk village has some lovely medieval and Georgian buildings, a mass of hollyhocks, a gorgeous church and at least one good pub. The fabulous church in Long Melford was built with money from a wool tycoon. All his friends who chipped in are commemorated in stained glass portraits, like a 15th century crowd funder page.”
 
 > “Suffolk is all about the villages. We walked between villages on old footpaths that take you between wheat fields, vineyards, orchards and woods.”
 
 The weather was a bit changeable, but always seemed to turn out better than the forecast. “We walked between villages on old footpaths that take you between wheat fields, vineyards, orchards and woods. The coast is not far, and we spend an afternoon eating ice cream and watching the huge container ships unload at Felixstowe. In the other direction, the RRS Sir David Attenborough was visible in the harbour at Harwich. That’s Boaty McBoatface to his friends.”
 
-![Image shows Long Melford church – a large church with a tower and a huge number of stained glass windows](/images/uploads/long-melford-church.jpg "Long Melford church")
+![Image shows yellow ragwort at Orford Ness](/images/uploads/orford_ness_ragwort.jpg "Orford Ness ragwort")
 
 ## Gemma: Cornish coast
 
