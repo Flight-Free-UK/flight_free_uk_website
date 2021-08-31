@@ -14,11 +14,9 @@ read_time_minute: 7
 
 ![](/images/uploads/08aug_episode_blog.jpg)
 
-## The coronavirus pandemic is a global health crisis. What can it teach us about the climate crisis?
-
 ### In this episode, we talk to [Dr Sweta Chakraborty](https://swetachakraborty.com) about risk and behaviour, about how the pandemic and climate change are connected, and what the pandemic tells us about our relationship with nature.
 
-Dr Sweta Chakraborty is a behavioural scientist whose work is motivated by the need for clear, credible, science communication to urgently and proactively manage the risks that threaten human security and well-being. She is from New Jersey in the United States, where her parents migrated from India. She studied Decision Science at Carnegie Mellon University and has a PhD in Behavioural Science from King’s College London. She is currently the US representative for the climate action network [‘We Don’t Have Time’](https://www.wedonthavetime.org/about-us).
+Dr Sweta Chakraborty is a behavioural scientist from New Jersey in the United States, where her parents migrated from India. Her work is about providing clear, credible, science communication to manage the risks that threaten human security and well-being. She studied Decision Science at Carnegie Mellon University and has a PhD in Behavioural Science from King’s College London. She is currently the US representative for the climate action network [‘We Don’t Have Time’](https://www.wedonthavetime.org/about-us).
 
 #### Flight Free Fact:
 
