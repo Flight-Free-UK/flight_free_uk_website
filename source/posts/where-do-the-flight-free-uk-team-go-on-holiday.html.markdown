@@ -62,7 +62,7 @@ The journey took her and her riding buddy James all the way from north Wales to 
 
 “We were pretty lucky with the weather,” says Anna. “The climb up Scafell Pike was a complete washout but other than that we had amazing sunshine. We even got a rare view from the top of Ben Nevis which was totally unexpected!”
 
-> “It was a fantastic trip through some of the most dramatic and impressive landscapes the UK has to offer. There's so much to explore on this island!”
+> “It was a fantastic trip through some of the most dramatic and impressive landscapes the UK has to offer. There is so much to explore on this island!”
 
 “Cycling 450 miles and climbing up three mountains is not everyone’s idea of a holiday, but it was a fantastic trip through some of the most dramatic and impressive landscapes the UK has to offer. We saw some amazing waterfalls, lakes, mountains and fells. There is so much to explore on this island!”
 
