@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 title: "Flight Free for 2021: Annabel Upson"
 category: testimonials
-date: 2021-07-08T16:50:55.429Z
+date: 2021-06-08T16:50:55.429Z
 cover_image: /images/uploads/annabel-upson-pledge.jpg
 summary: "Annabel Upson promotes sustainable travel through her company,
   Travelling Whale, and tells us why she took the #FlightFree pledge."
