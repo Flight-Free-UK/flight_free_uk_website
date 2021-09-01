@@ -11,7 +11,7 @@ read_time_minute: 3
 ---
 “It will be over by Christmas,” they said in July 1914 when the first UK troops joined what was to become known as the Great War. 
 
-That sentiment carried to March 2020, when we optimistically re-booked our cancelled trips for a few months later, expecting to have Covid done and dusted by September. 
+That sentiment re-emerged in March 2020, when we optimistically re-booked our cancelled trips for a few months later, expecting to have Covid done and dusted by September. 
 
 Now, much more than a year after the coronavirus pandemic started, we are still no more certain about what the future holds. 
 
