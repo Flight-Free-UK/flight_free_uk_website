@@ -23,7 +23,10 @@
     </div>
     </div>
     <p class="mt-8 xl:mt-16">
-    <%= link_to "Find out more in our FAQs", "/faq.html", class: "block min-h-3 text-orange text-base xs:text-lg sm:text-xl lg:text-2xl bg-no-repeat bg-right pr-12 py-4", style: "background-image:url(/svg/orange_arrow_right.svg)" %>
+        <% link_to "/faq.html", class: "block text-right text-orange text-lg sm:text-xl lg:text-2xl py-4 pr-12" do %>
+        Find out more in our FAQs <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2 -mr-12" />
+        <% end %>
+    </p>
     </div>
 </section>
 <script>

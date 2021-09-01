@@ -20,11 +20,11 @@ title: Flight Free UK
             <%= partial(:home_testimonial, :locals => { :name => testimonial.title, :url => testimonial.url, :cover_image => testimonial.cover_image, :quote => testimonial.quote }) %>
         <% end %>
         </div>
-      <div class="text-right">
-        <% link_to "/blog/categories/testimonials/", class: "text-xl xl:text-2xl text-orange bg-no-repeat bg-right bg-contain py-1 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
-          Read all testimonials
-        <% end %>
-      </div>
+        <p>
+            <% link_to "/blog/categories/testimonials/", class: "block text-right text-lg xl:text-2xl text-orange py-1 pr-12 xl:mr-8" do %>
+              Read all testimonials <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2 -mr-12" />
+            <% end %>
+        </p>
     </section>
 
     <section class="lg:flex px-4 sm:px-8 xxl:px-24 section--pledge">
@@ -49,7 +49,7 @@ title: Flight Free UK
 
         <div class="flex flex-wrap justify-center lg:justify-start xl:justify-between items-center w-full xl:w-5/6 mb-2 xl:mb-8">
           <h2 class="text-2xl lg:text-3xl xl:text-4xl mr-2 xl:mr-4 mb-2">#FlightFree2022</h2>
-          <div class="flex xs:justify-center lg:justify-start">
+          <div class="w-full flex justify-evenly sm:justify-center lg:justify-start">
             <%= link_to "", "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 mr-4 xl:mr-12 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/twitter.svg);background-size:60%", target: "_blank" %>
             <a href="https://instagram.com/<%= data.social_media.instagram %>" class="w-12 h-12 xl:w-16 xl:h-16 mr-4 xl:mr-12 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(/images/instagram.png);background-size:60%" target="_blank"></a>
             <%= link_to "", "https://www.facebook.com/sharer/sharer.php", query: { u: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/facebook.svg);background-size:30%", target: "_blank" %>
@@ -77,8 +77,10 @@ title: Flight Free UK
     </div>
     <div class="lg:w-1/2 lg:pl-8 xxl:pr-24 text-white text-xl lg:text-2xl">
       <p class="mb-4 xl:mb-6 leading-tight">Flying less is one of the best ways to reduce your carbon footprint, and taking a flight free year is a great way to discover other ways to travel. There’s never been a more important time to take action on the climate, and when lots of us do this together, real change happens.</p>
-      <p class="">
-          <%= link_to "More about the campaign", "/why_flight_free.html", class: "block text-orange bg-no-repeat bg-right pr-12 py-1", style: "background-image:url(/svg/orange_arrow_right.svg)" %>
+        <p>
+            <% link_to "/why_flight_free.html", class: "block text-right text-lg xl:text-2xl text-orange py-1 pr-12 xl:mr-8" do %>
+            More about the campaign <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto sm:ml-2 -mr-12" />
+            <% end %>
         </p>
     </div>
   </div>
@@ -136,17 +138,17 @@ title: Flight Free UK
   <div class="container mx-auto px-4 sm:px-8 pt-4 sm:pt-16 pb-6 sm:pb-8 xl:px-16 xxl:px-48 xl:pt-24 xl:pb-20">
     <h2 class="text-4xl lg:text-5xl text-blue-dark mb-2 xl:mb-0">Be inspired</h2>
     <p class="text-xl xl:text-2xl text-blue mb-4 xl:mb-8 leading-tight">Our podcasts, blogs, and videos are packed full with inspiring stories of flight-free travels, motivational tales for reducing your carbon footprint, and uplifting testimonials of how taking a flight free year has changed people's lives for the better.</p>
-    <div class="xl:flex mb-2 xl:mb-4">
+    <div class="md:flex justify-between mb-2 xl:mb-4">
         <h3 class="text-2xl xl:text-4xl text-blue-dark leading-tight">
             Listen
         </h3>
-        <p class="hidden sm:block xl:flex-grow xl:flex justify-end items-center">
-            <% link_to "/podcast.html", class: "block min-h-3 leading-tight text-base xl:text-xl text-blue-dark bg-no-repeat bg-right py-2 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
-                Be inspired by our podcast series
+        <p class="hidden sm:block">
+            <% link_to "/podcast.html", class: "block text-right text-xl leading-tight text-base xl:text-xl text-blue-dark py-1" do %>
+            Be inspired by our podcast series <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2" />
             <% end %>
         </p>
     </div>
-    <div class="sm:flex bg-blue-dark mb-4 xl:mb-12">
+    <div class="sm:flex bg-blue-dark mb-4 md:mb-12">
         <% podcast = data.podcasts.values.sort_by(&:date).reverse.first %>
         <a href="<%= podcast.url %>" target="_blank" class="block h-40 sm:h-auto w-full sm:w-56 bg-no-repeat bg-cover bg-top" style="background-image:url(<%= podcast.cover_image %>" %></a>
         <div class="text-white py-4 xl:py-6 px-4 sm:px-8 xl:px-10 sm:w-1/3">
@@ -157,17 +159,18 @@ title: Flight Free UK
         </div>
     </div>
     <p class="sm:hidden mb-8">
-        <% link_to "/podcast.html", class: "block min-h-3 xl:leading-tight text-base xl:text-xl text-blue-dark bg-no-repeat bg-right py-2 pr-12 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
-            Be inspired by our podcast series
+        <% link_to "/podcast.html", class: "block text-right text-lg leading-tight text-blue-dark py-1 pr-12 xl:mr-8" do %>
+        Be inspired by our podcast series <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2 -mr-12" />
         <% end %>
     </p>
-    <div class="xl:flex mb-4">
+
+    <div class="md:flex justify-between mb-4">
         <h3 class="text-2xl xl:text-4xl text-blue-dark leading-tight">
             Read
         </h3>
-        <p class="hidden sm:block xl:flex-grow xl:flex justify-end items-center">
-            <% link_to "/be_inspired.html", class: "block min-h-3 leading-tight text-base xl:text-xl text-blue-dark bg-no-repeat bg-right py-2 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
-                Find all of our blog content here
+        <p class="hidden sm:block">
+            <% link_to "/be_inspired.html", class: "block text-right text-xl leading-tight text-base xl:text-xl text-blue-dark py-1" do %>
+            Find all of our blog content here <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2" />
             <% end %>
         </p>
     </div>
@@ -182,18 +185,19 @@ title: Flight Free UK
           <%= partial "home_blog_post", locals: { article: blog.articles[2] } %>
         </div>
     </div>
-    <p class="xl:flex-grow xl:flex justify-end items-center mb-8 sm:hidden xl:hidden">
-        <% link_to "/be_inspired.html", class: "block min-h-3 leading-tight text-base xl:text-xl text-blue-dark bg-no-repeat bg-right pb-2 pr-12 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
-            Find all of our blog content here
+    <p class="sm:hidden mb-8">
+        <% link_to "/be_inspired.html", class: "block text-right text-lg leading-tight text-blue-dark py-1 pr-12 xl:mr-8" do %>
+        Find all of our blog content here <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2 -mr-12" />
         <% end %>
     </p>
-    <div class="xl:flex mb-4">
+
+    <div class="md:flex justify-between mb-4">
         <h3 class="text-2xl xl:text-4xl text-blue-dark leading-tight mb-2">
             Watch
         </h3>
-        <p class="hidden sm:block xl:flex-grow xl:flex justify-end items-center">
-            <% link_to "https://vimeo.com/flightfreeuk", class: "block min-h-3 leading-tight text-base xl:text-xl text-blue-dark bg-no-repeat bg-right py-2 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
-                See more videos
+        <p class="hidden sm:block">
+            <% link_to "https://vimeo.com/flightfreeuk", class: "block text-right text-xl leading-tight text-base xl:text-xl text-blue-dark py-1", target: "_blank" do %>
+            See more videos <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2" />
             <% end %>
         </p>
     </div>
@@ -206,9 +210,9 @@ title: Flight Free UK
             <a href="<%= videos[1].url %>" class="block pb-16-9 bg-contain bg-center" style="background-image:url(<%= videos[1].cover_image %>)" title="Link to <%= videos[1].title %> video" target="_blank" rel="nofollow"></a>
         </div>
     </div>
-    <p class="xl:flex-grow xl:flex justify-end items-center mb-8 sm:hidden xl:hidden">
-        <% link_to "https://vimeo.com/flightfreeuk", class: "block min-h-3 leading-tight text-base xl:text-xl text-blue-dark bg-no-repeat bg-right py-2 pr-10 xl:pr-16", style: "background-image:url(#{image_path("/svg/orange_arrow_right.svg")})" do %>
-            See more videos
+    <p class="sm:hidden mb-8">
+        <% link_to "https://vimeo.com/flightfreeuk", class: "block text-right text-lg leading-tight text-blue-dark py-1 pr-12 xl:mr-8", target: "_blank" do %>
+        See more videos <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2 -mr-12" />
         <% end %>
     </p>
   </div>
