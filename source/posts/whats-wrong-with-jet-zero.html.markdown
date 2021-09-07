@@ -107,7 +107,7 @@ Tax kerosene to make the development of SAFs more attractive. It is difficult to
 
 *9) Do you agree or disagree with the overall approach for the development of zero emission flight in the UK?*
 
-Disagree. Electric flight will not be viable for anything other than short haul aircraft, even by 2050. Hydrogen technology is still in development, and, [according to Airbus](https://www.reuters.com/business/aerospace-defense/airbus-tells-eu-hydrogen-wont-be-widely-used-planes-before-2050-2021-06-10/), might not be in wide use even by 2050. Not all hydrogen is green, with a risk that cheaper [blue or grey hydrogen](https://www.weforum.org/agenda/2021/08/decarbonization-hydrogen-power-fossil-fuels/) could be used in its place. 
+Disagree. Electric flight will not be viable for anything other than short haul aircraft, even by 2050. Hydrogen technology is still in development, and, [according to Airbus](https://www.reuters.com/business/aerospace-defense/airbus-tells-eu-hydrogen-wont-be-widely-used-planes-before-2050-2021-06-10/), might not be in wide use even by 2050. Not all hydrogen is green, and there is a risk that cheaper [blue or grey hydrogen](https://www.weforum.org/agenda/2021/08/decarbonization-hydrogen-power-fossil-fuels/) could be used in its place. 
 
 *10) What further measures are needed to support the transition towards zero emission aviation?*
 
