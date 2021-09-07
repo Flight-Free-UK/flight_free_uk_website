@@ -107,11 +107,11 @@ Tax kerosene to make the development of SAFs more attractive. It is difficult to
 
 *9) Do you agree or disagree with the overall approach for the development of zero emission flight in the UK?*
 
-Disagree. Electric flight will not be viable for anything other than short haul aircraft, even by 2050. Hydrogen flight faces huge obstacles and uncertainties regarding its development, scaling up and commercial deployment, such that hydrogen cannot reasonably be relied upon to the extent proposed in Jet Zero. 
+Disagree. Electric flight will not be viable for anything other than short haul aircraft, even by 2050. Hydrogen technology is still in development, and, [according to Airbus](https://www.reuters.com/business/aerospace-defense/airbus-tells-eu-hydrogen-wont-be-widely-used-planes-before-2050-2021-06-10/), might not be in wide use even by 2050. Not all hydrogen is green, with a risk that cheaper [blue or grey hydrogen](https://www.weforum.org/agenda/2021/08/decarbonization-hydrogen-power-fossil-fuels/) could be used in its place. 
 
 *10) What further measures are needed to support the transition towards zero emission aviation?*
 
-The immediate introduction of demand management measures to manage demand downwards in the next 10 years. Introducing taxes on aviation fossil fuels and their resulting emissions, at a rate that realistically reflects their climate damaging costs, is an urgent priority. These measures are essential, if only to provide ‘breathing space’ for the development, testing, monitoring and commercial deployment of the technical solutions proposed in Jet Zero.
+Demand management is an essential part of reaching zero emission aviation. In the best case scenario, we will see electric and hydrogen planes come into commercial use by 2035. Until that time, and until we can scale up to widespread commercial use, we need to reduce demand in order to reduce emissions.
 
 *11) Do you agree or disagree with the overall approach for using carbon markets and greenhouse gas removal methods to drive down CO2 emissions?*
 
