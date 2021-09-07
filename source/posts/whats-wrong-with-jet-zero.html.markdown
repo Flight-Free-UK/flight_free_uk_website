@@ -115,9 +115,9 @@ Demand management is an essential part of reaching zero emission aviation. In th
 
 *11) Do you agree or disagree with the overall approach for using carbon markets and greenhouse gas removal methods to drive down CO2 emissions?*
 
-Disagree. Offsetting does not ‘drive down’ emissions. The UK ETS and CORSIA are inadequate methods to meaningfully offset aviation emissions. The CCC specifically rejected counting CORSIA offsets towards the UK’s 2050 net zero trajectory.
+Disagree. Offsetting does not ‘drive down’ emissions. The CCC specifically rejected counting CORSIA offsets towards the UK’s 2050 net zero trajectory.
 
-The immediate introduction of demand management measures (including taxes) to manage demand downwards in the next 10 years is vital to limit the amount of emissions that will need to be removed in future.
+It is incongruous to talk about 'driving down' emissions without also talking about 'driving down' demand.
 
 *12) What could be done further or differently to ensure carbon markets and greenhouse gas removal methods are used most effectively?*
 
