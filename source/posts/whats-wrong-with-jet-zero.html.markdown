@@ -23,7 +23,7 @@ So how will we magically reduce emissions with continued growth?
 
 ### 1. SAFs
 
-A lot of faith is placed in SAFs, or sustainable aviation fuels. These typically come from biofuels or waste oil, and have a lower CO2 output than kerosene – sounds like a great idea. But the vast majority of SAFs currently in use come from first generation, food-based biofuel – a leading driver of deforestation. Second-hand oil, such as used cooking oil, is a better solution – but nearly all of this is currently used in the road fleet. We can decarbonise road transport, or we can decarbonise air travel, but we can’t do both. 
+A lot of faith is placed in SAFs, or sustainable aviation fuels. These typically come from biofuels or waste oil, and have a lower CO2 output than kerosene – sounds like a great idea. But the vast majority of biofuels currently in use come from first generation, food-based biofuel – a leading driver of deforestation. Second-hand oil, such as used cooking oil, is a better solution – but nearly all of this is currently used in the road fleet. We can decarbonise road transport, or we can decarbonise air travel, but we can’t do both. 
 
 In the end, the numbers speak for themselves. Earlier this year, KLM flew the first SAF-fuelled long haul flight from Paris to Montreal. Around 20 tonnes of CO2 was saved – but the mix of SAF to kerosene was just 16%. That is still 84% kerosene, and over 100 tonnes CO2 produced in emissions. Optimistic forecasts say that we will be using just 5.5% SAFs by 2030. Pessimistic forecasts offer less than 2%.
 
