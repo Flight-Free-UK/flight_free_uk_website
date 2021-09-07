@@ -35,7 +35,7 @@ What’s that you say? Demand is forecast to [increase by 70%](https://www.susta
 
 ### 3. New technology
 
-Picture the scene: solar planes connecting our Highlands and Islands; green hydrogen powering our European holidays; airships delivering goods direct to your door. These are not impossible (except perhaps for the airships), but they are not here now, and they won’t be here til at least 2035. Even then, it will take many decades for them to be used on a commercial basis across the board. Faced with climate emergency, we don’t have that long to wait.
+Picture the scene: solar planes connecting our Highlands and Islands; green hydrogen powering our European holidays; airships delivering goods direct to your door. These are not impossible (except perhaps for the airships), but they are not here now, and they [won’t be here til at least 2035](https://www.reuters.com/business/aerospace-defense/airbus-tells-eu-hydrogen-wont-be-widely-used-planes-before-2050-2021-06-10/). Even then, it will take many decades for them to be used on a commercial basis across the board. Faced with climate emergency, we don’t have that long to wait.
 
 It’s good to innovate, and while electric planes sound promising, they’re not without their environmental footprint. Batteries are resource-heavy, physically heavy, and unless powered by 100% renewables, carbon-heavy. It might help us hop around Europe, but electric flight will never be an option for long-haul travel – and anyway, we already have an energy-efficient, electricity-powered form of transport to take us around Europe: the train.
 
