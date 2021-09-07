@@ -99,7 +99,7 @@ Also take measures to reduce demand, so demand increase does not outweigh effici
 
 *7) Do you agree or disagree with the overall approach for the development and uptake of SAF in the UK?*
 
-Disagree. According to The ICCT, SAF usage is unlikely to reach more than 5% by 2030. Problems include the majority of waste oil already being used by the road sector. In addition, biofuels are a leading driver of deforestation, so their use will not reduce emissions overall, and might even lead to an increase.
+Disagree. According to the ICCT, SAF usage is [unlikely to reach more than 5% by 2030](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf). Problems include the majority of waste oil already being used by the road sector. In addition, biofuels are a leading driver of deforestation, so their use will not reduce emissions overall, and might even lead to an increase. It's no good reducing emissions in one sector only to increase them elsewhere.
 
 *8) What further measures are needed to support the development of a globally competitive UK SAF industry and increase SAF usage?*
 
