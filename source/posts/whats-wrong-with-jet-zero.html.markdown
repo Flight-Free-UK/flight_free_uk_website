@@ -75,7 +75,7 @@ Disagree. There is no realistic scenario or forecast in which technological and 
 
 *3) Do you agree or disagree that we should set a CO2 emissions reduction trajectory to 2050?*
 
-Agree. But the measures proposed to achieve that reduction must be realistic, evidence based and reliable. As advised by the IPCC, we must make actual emissions reductions by 2030 - Jet Zero proposes an increase. The high level of uncertainty attached to all of Jet Zero’s technical solutions (which is accepted in Jet Zero itself) means that demand management measures are urgently required in addition to the proposals set out in the draft strategy.
+Agree. But the measures proposed to achieve that reduction must be realistic, evidence based and reliable. As advised by the IPCC, we must make actual emissions reductions by 2030, whereas Jet Zero proposes an increase. The high level of uncertainty attached to all of Jet Zero’s technical solutions (which is accepted in Jet Zero itself) means that demand management measures are urgently required in addition to the proposals set out in the draft strategy.
 
 *a. Should the trajectory be set on an in‑sector CO2 emissions basis (without offsets and removals) or a net CO2 emissions basis (including offsets and removals)?*
 
