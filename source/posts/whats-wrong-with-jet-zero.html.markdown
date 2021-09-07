@@ -15,7 +15,7 @@ read_time_minute: 9
 
 It’s a great name but that might be where the greatness stops. Underneath all the shiny optimism is a lot of guesswork and some grand statements that do anything but suggest the one thing that might actually make a difference: to look at our lifestyles and change the way we live.
 
-The government's Jet Zero plan boldly speaks of the UK “leading the way” in finding the solutions to climate change. Yet it begins with a telling statement: “Our ambition is to decarbonise aviation in a way that preserves the benefits of air travel…”
+The government's [Jet Zero plan](https://www.gov.uk/government/consultations/achieving-net-zero-aviation-by-2050) boldly speaks of the UK “leading the way” in finding the solutions to climate change. Yet it begins with a telling statement: “Our ambition is to decarbonise aviation in a way that preserves the benefits of air travel…”
 
 It’s clear that this is a policy based on growth. ‘Preserving the benefits' means continuing the upward trajectory that aviation has followed for the last 30 years. The government boasts of working with the Climate Change Committee (CCC), yet there is no mention of its recommendation that demand management will have to play a key role. Instead it’s assumed that other sectors will decarbonise so that aviation doesn’t have to.
 
@@ -25,7 +25,7 @@ So how will we magically reduce emissions with continued growth?
 
 A lot of faith is placed in SAFs, or sustainable aviation fuels. These typically come from biofuels or waste oil, and have a lower CO2 output than kerosene – sounds like a great idea. But the vast majority of biofuels currently in use come from first generation, food-based biofuel – a leading driver of deforestation. Second-hand oil, such as used cooking oil, is a better solution – but nearly all of this is currently used in the road fleet. We can decarbonise road transport, or we can decarbonise air travel, but we can’t do both. 
 
-In the end, the numbers speak for themselves. Earlier this year, KLM flew the first SAF-fuelled long haul flight from Paris to Montreal. Around 20 tonnes of CO2 was saved – but the mix of SAF to kerosene was just 16%. That is still 84% kerosene, and over 100 tonnes CO2 produced in emissions. Optimistic forecasts say that we will be using just 5.5% SAFs by 2030. Pessimistic forecasts offer less than 2%.
+In the end, the numbers speak for themselves. Earlier this year, KLM flew the first SAF-fuelled long haul flight from Paris to Montreal. [Around 20 tonnes of CO2 was saved](https://www.businesstraveller.com/business-travel/2021/05/20/air-france-klm-carries-out-its-first-long-haul-flight-powered-by-sustainable-aviation-fuel-saf/) – but the mix of SAF to kerosene was just 16%. That is still 84% kerosene, and over 100 tonnes CO2 produced in emissions. [Optimistic forecasts say that we will be using just 5.5% SAFs by 2030. Pessimistic forecasts offer less than 2%](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf).
 
 ### 2. Efficiency gains
 
