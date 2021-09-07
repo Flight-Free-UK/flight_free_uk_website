@@ -17,7 +17,7 @@ It’s a great name but that might be where the greatness stops. Underneath all 
 
 The government's Jet Zero plan boldly speaks of the UK “leading the way” in finding the solutions to climate change. Yet it begins with a telling statement: “Our ambition is to decarbonise aviation in a way that preserves the benefits of air travel…”
 
-It’s clear that this is a policy based on growth. ‘Preserving the benefits' means continuing the upward trajectory that aviation has followed for the last 30 years. They boast of working with the Climate Change Committee (CCC), yet there is no adoption of its recommendation that demand management will have to play a key role. Instead it’s assumed that other sectors will decarbonise so that aviation doesn’t have to.
+It’s clear that this is a policy based on growth. ‘Preserving the benefits' means continuing the upward trajectory that aviation has followed for the last 30 years. The government boasts of working with the Climate Change Committee (CCC), yet there is no mention of its recommendation that demand management will have to play a key role. Instead it’s assumed that other sectors will decarbonise so that aviation doesn’t have to.
 
 So how will we magically reduce emissions with continued growth?
 
@@ -55,7 +55,7 @@ The reality is that we are facing climate breakdown right now. Not in 30 years�
 
 It will be a vote-winner, sure. Telling people to change how they live is never going to be a popular policy. But the reality of the climate crisis is that we will have to change *everything* about the way we live – either now, through choice and good policy, or later, through force, when we don't have any choice left.
 
-#### Perhaps we can turn Jet Zero on its head, to give us Zero Jet. It's a fallacy that we can get where we need to be through technology, innovation and offsetting alone. 
+#### Perhaps we can turn Jet Zero on its head, to give us Zero Jet. It's a fallacy that we can get where we need to be through technology, innovation and offsetting alone.
 
 #### The most reliable way to reduce our emissions from aviation has always been the most simple one: fly less.
 
