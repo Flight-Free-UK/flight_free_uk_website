@@ -45,7 +45,9 @@ And here we finally see the reality of the scheme. Efficiency, SAF, new tech –
 
 The key to this whole thing is the focus on ‘net’ zero. It means that we can keep on increasing our emissions as long as we just plant a few trees. It means we can pay for someone else not to produce those emissions instead, and still call it progress. It means we are going to spend millions creating technology that will capture and store carbon, even though we already have a really, really good way of storing carbon – they’re called fossil fuels, and they do a much better job of storing carbon when they are left in the ground. 
 
-Offsetting is flawed in so many ways, not just because 85% of schemes are shown to be ineffective, not just because it’s simply not fair to lump our emissions onto someone else to deal with, but because it leads us to believe our emissions don’t count, and that we can continue our polluting behaviour. Most dangerously, they make us believe we can reach Net Zero if we just pay for it. There is not enough land space on this planet to plant enough trees to compensate for our carbon-hungry lifestyles. Net zero is not zero. 
+Offsetting is flawed in so many ways, not just because [85% of schemes are shown to be ineffective](https://www.transportenvironment.org/news/85-offsets-failed-reduce-emissions-says-eu-study), not just because it’s simply not fair to lump our emissions onto someone else to deal with, but because it leads us to believe our emissions don’t count, and that we can continue our polluting behaviour. 
+
+Most dangerously, offsets make us believe we can reach net zero if we just pay for it. There is not enough land space on this planet to plant enough trees to compensate for our carbon-hungry lifestyles. Net zero is not zero. 
 
 ### 5. Demand reduction
 
