@@ -17,7 +17,7 @@ It’s a great name but that might be where the greatness stops. Underneath all 
 
 The government's Jet Zero plan boldly speaks of the UK “leading the way” in finding the solutions to climate change. Yet it begins with a telling statement: “Our ambition is to decarbonise aviation in a way that preserves the benefits of air travel…”
 
-It’s clear that this is a policy based on growth. ‘Preserving the benefits' means continuing the upward trajectory that aviation has followed for the last 30 years. There is boasting of working with the Climate Change Committee (CCC), yet there is no adoption of its recommendation that demand management will have to play a key role. Instead it’s assumed that other sectors will decarbonise so that aviation doesn’t have to.
+It’s clear that this is a policy based on growth. ‘Preserving the benefits' means continuing the upward trajectory that aviation has followed for the last 30 years. They boast of working with the Climate Change Committee (CCC), yet there is no adoption of its recommendation that demand management will have to play a key role. Instead it’s assumed that other sectors will decarbonise so that aviation doesn’t have to.
 
 So how will we magically reduce emissions with continued growth?
 
