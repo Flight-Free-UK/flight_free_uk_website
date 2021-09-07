@@ -59,7 +59,7 @@ It will be a vote-winner, sure. Telling people to change how they live is never 
 
 #### The most reliable way to reduce our emissions from aviation has always been the most simple one: fly less.
 
-*Respond to the government’s consultation before 11.59pm on 8th September*
+*Respond to the government’s consultation before 11.59pm on 8th September. [Go here to read the consultation and submit your response](https://www.gov.uk/government/consultations/achieving-net-zero-aviation-by-2050).*
 
 We have written some suggestions for answers to the questions here (thanks to GALBA for some of these responses)
 
