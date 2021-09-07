@@ -125,7 +125,7 @@ Make the price for each tonne of CO2e offset credit equivalent to the actual cos
 
 *13) Do you agree or disagree with the overall focus on influencing consumers?*
 
- Disagree. The focus is on comparing airlines with each other, rather than with other transport modes. This does not give the consumer an accurate picture of how carbon-heavy their travel is, e.g. there might be 10% emissions reduction by choosing a more efficient airline, but there would be a 90% emissions reduction by choosing a train. It’s tantamount to comparing cigarettes for which one will kill you slowest.
+Disagree. The focus is on comparing airlines with each other, rather than with other transport modes. This does not give the consumer an accurate picture of how carbon-heavy their travel is, e.g. there might be 10% emissions reduction by choosing a more efficient airline, but there would be a 90% emissions reduction by choosing a train. It’s tantamount to comparing cigarettes for which one will kill you slowest.
 
 *14) What more can the Government do to support consumers to make informed, sustainable aviation travel choices?*
 
