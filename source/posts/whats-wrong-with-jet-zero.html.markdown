@@ -41,7 +41,7 @@ It’s good to innovate, and while electric planes sound promising, they’re no
 
 ### 4. Offsetting
 
-And here we finally see the reality of the scheme. Efficiency, SAF, new tech – all that is a nice idea, but it won’t reduce by enough, or quickly enough. Offsetting is the government’s get-out-of-jail free card. Regardless of how much we can or can't reduce emissions, we can just offset it and still call it net zero. 
+And here we finally see the reality of the scheme. Efficiency, SAF, new tech – all that is a nice idea, but it won’t reduce emissions by enough, or reduce them quickly enough. Offsetting is the government’s get-out-of-jail free card. Regardless of how much we can or can't reduce emissions, we can just offset it and still call it net zero. 
 
 The key to this whole thing is the focus on ‘net’ zero. It means that we can keep on increasing our emissions as long as we just plant a few trees. It means we can pay for someone else not to produce those emissions instead, and still call it progress. It means we are going to spend millions creating technology that will capture and store carbon, even though we already have a really, really good way of capturing and storing carbon – they’re called fossil fuels, and they do a much better job of storing carbon when they are left in the ground. 
 
