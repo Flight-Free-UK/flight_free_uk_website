@@ -31,7 +31,7 @@ In the end, the numbers speak for themselves. Earlier this year, KLM flew the fi
 
 Planes are a lot more fuel efficient now than they used to be. Lighter materials and more efficient engines mean that since 1990, per passenger emissions are on average 22% lower than they used to be. With continued efficiency savings, by 2050 we could be looking at a whopping 36% lower emissions. 
 
-What’s that you say? Demand is forecast to increase by 70% in that time? Something doesn't add up here. In 1990 around 90 million passengers passed through UK airports. In 2000 it was 181 million, and 247 million in 2019. The forecast is for 410 million passengers by 2050. Any efficiency gains will be completely undone by rising passenger numbers.
+What’s that you say? Demand is forecast to [increase by 70%](https://www.sustainableaviation.co.uk/news/uk-aviation-commits-to-net-zero-carbon-emissions-by-2050/) in that time? Something doesn't add up here. In 1990 around 90 million passengers passed through UK airports. In 2000 it was 181 million, and 247 million in 2019. The forecast is for 410 million passengers by 2050. Any efficiency gains will be completely undone by rising passenger numbers.
 
 ### 3. New technology
 
