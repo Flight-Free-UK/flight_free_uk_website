@@ -103,7 +103,7 @@ Disagree. According to the ICCT, SAF usage is [unlikely to reach more than 5% by
 
 *8) What further measures are needed to support the development of a globally competitive UK SAF industry and increase SAF usage?*
 
-Tax kerosene to make the development of SAFs more attractive. It is difficult to encourage the use of a new fuel when the alternative is so much cheaper.
+Tax kerosene to make the development of SAFs more attractive. It is difficult to encourage the production and use of a new fuel when the alternative is so much cheaper.
 
 *9) Do you agree or disagree with the overall approach for the development of zero emission flight in the UK?*
 
