@@ -71,7 +71,7 @@ Agree. There are many ways in which this could be achieved: stop airport expansi
 
 *2) Do you agree or disagree with the range of illustrative scenarios that we have set out as possible trajectories to net zero in 2050? Are there any alternative evidence-based scenarios we should be considering?*
 
-Disagree. There is no realistic scenario or forecast in which technological and fuel developments can, on their own, make flying net zero by 2050. As the Climate Change Committee has advised, demand management measures (including taxes) are essential to control aviation emissions in the next 10 years.
+Disagree. It is unrealistic that technology and fuel efficiency developments can make flying net zero on their own. The advice of the Climate Change Committee is to manage demand in order to control aviation emissions in the next 10 years.
 
 *3) Do you agree or disagree that we should set a CO2 emissions reduction trajectory to 2050?*
 
@@ -91,7 +91,7 @@ Agree but it would be better to have a more frequent review.
 
 *5) Do you agree or disagree with the overall approach to improve the efficiency of our existing aviation system?*
 
-Disagree. The assumption of 2% pa efficiency gains does not tally with the CCC and ICAO estimates of 1.4% pa, and does not take into account growth in demand, which is projected to be 70% by 2050 by Sustainable Aviation.
+Disagree. The assumption of 2% pa efficiency gains does not tally with the CCC and ICAO estimates of 1.4% pa, and does not take into account growth in demand, which is projected to be 70% by 2050.
 
 *6) What more or differently could be done to ensure we maximise efficiency within the current aviation system?*
 
