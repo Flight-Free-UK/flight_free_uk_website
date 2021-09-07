@@ -111,7 +111,7 @@ Disagree. Electric flight will not be viable for anything other than short haul 
 
 *10) What further measures are needed to support the transition towards zero emission aviation?*
 
-Demand management is an essential part of reaching zero emission aviation. In the best case scenario, we will see electric and hydrogen planes come into commercial use by 2035. Until that time, and until we can scale up to widespread commercial use, we need to reduce demand in order to reduce emissions.
+Demand management is an essential part of reaching zero emission aviation. In the best case scenario, we will see electric and hydrogen planes come into commercial use by 2035. Until that time, and until we can scale them up to widespread commercial use, we need to reduce demand in order to reduce emissions.
 
 *11) Do you agree or disagree with the overall approach for using carbon markets and greenhouse gas removal methods to drive down CO2 emissions?*
 
