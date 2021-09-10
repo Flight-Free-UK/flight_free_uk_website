@@ -23,7 +23,7 @@ There are always choices. There is always time to do the right thing. 
 
 At the beginning of 2020, I made a documentary on the history of the African novel for BBC Four. The ‘old me’ would’ve started looking into visas for countries like Nigeria and Kenya for me and my camera crew.
 
-But, inspired by many trailblazers in the industry and organisations like Flight Free UK, I thought, ‘How can we do this programme without taking a single flight’?
+But, inspired by many trailblazers in the industry and organisations like Flight Free UK, I thought, ‘How can we do this programme without taking a single flight?’
 
 Rather than a hindrance, this early decision was an inspiration. 
 
