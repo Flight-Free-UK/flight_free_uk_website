@@ -31,7 +31,7 @@ This was a programme about the many brilliant writers of the African continent �
 
 So instead of flying a crew hundreds of miles, we hired local camera people and journalists to film and interview our contributors. We made contact with organisations like the BBC office in Nigeria, and quickly found a brilliant interviewer in Lagos who was actually in a book group with one of our main contributors! We benefited hugely from the ‘on the ground’ knowledge of these brilliant creatives, who could find the best locations for filming. 
 
-There is a flourishing TV and movie industry in many countries in Africa, especially Nigeria. Thinking about the ‘old days’, it seems strange not to utilise these people in favour of flying over western crews. 
+There is a flourishing TV and movie industry in many countries in Africa, especially Nigeria. Thinking about the ‘old days’, it seems strange not to utilise local talent in favour of flying over western crews. 
 
 Using local talent freed up money to spend on other aspects of the production, such as archive, photographs and drama sequences.  
 
