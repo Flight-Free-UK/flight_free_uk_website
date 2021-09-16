@@ -1,4 +1,3 @@
 [build]
-  command = "netlify-lambda build functions/source && bundle exec middleman build"
-  functions = "functions/build"
+  command = "bundle exec middleman build"
   publish = "build"
