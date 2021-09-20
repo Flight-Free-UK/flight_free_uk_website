@@ -1,12 +1,4 @@
 members:
-  - name: Alan Lorcan
-    role: Admin
-    bio: Alan is a science teacher, swing dance teacher and tour guide based in
-      London. He has recently been inspired to change his personal habits, and
-      wants to encourage others to also make low-carbon choices. He is taking an
-      environmental science course at the Open University and hopes to have a
-      future in environmental education.
-    photo: /images/uploads/alan.jpg
   - name: Amy Morgan
     bio: Amy is a BA Geography graduate based near Sheffield. After studying the
       climate crisis at university she felt compelled to make personal changes.
@@ -69,10 +61,10 @@ members:
       communication skills and creativity are put to good use as she heads up
       the social media team. "
     photo: /images/uploads/sunita-head-shot-final.jpg
-  - name: Tamsin Draper
-    bio: Tamsin is studying History and Politics at the University of Nottingham. It
-      was an ‘Environmental History’ module that sparked her desire to spread
-      awareness about the steps everyone can take to protect our planet and live
-      more sustainable lives.
+  - name: Amber Ainscough
     role: Social Media
-    photo: /images/uploads/tamsin_draper.jpg
+    bio: Amber’s BSc in Biology opened her eyes to how dependent we are on the
+      living planet and how interconnected everything is. This led to a sense of
+      responsibility and has motivated her to help the Flight Free UK movement
+      inspire others to take action for all our futures.
+    photo: /images/uploads/amber-ainscough.jpg
