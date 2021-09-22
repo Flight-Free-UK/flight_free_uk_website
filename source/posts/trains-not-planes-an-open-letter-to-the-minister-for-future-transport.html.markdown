@@ -4,8 +4,8 @@ title: "Trains not planes: an open letter to the Minister for Future Transport"
 category: opinion
 date: 2021-09-22T11:02:35.594Z
 cover_image: /images/uploads/trains-not-planes.jpg
-summary: Government claims that we need to keep flying in order to reduce
-  emissions are misleading and dangerous
+summary: Recent claims by the Government that we need to keep flying in order to
+  reduce emissions are misleading and dangerous
 author: FlightFree UK
 read_time_minute: 5
 ---
