@@ -57,6 +57,6 @@ However, this needs to go further than simply comparing one airline to another �
 
 As the minister for future transport, we welcome future-thinking, but that future thinking needs to be based on reality rather than hope. Aviation emissions accounted for 7% of UK greenhouse gas emissions in 2018: 88% above 1990 levels. This is not a small problem that can be batted away with promises of future technology and offsets. 
 
-### It might be possible to have a green future for aviation, but that doesn’t help us right now, and right now is when we need to be reducing emissions.
+#### It might be possible to have a green future for aviation, but that doesn’t help us right now, and right now is when we need to be reducing emissions.
 
-#### Suggesting that we can keep on flying as much as we like is rapidly pushing us down the path to there not being a future at all.
+### Suggesting that we can keep on flying as much as we like is rapidly pushing us down the path to there not being a future at all.
