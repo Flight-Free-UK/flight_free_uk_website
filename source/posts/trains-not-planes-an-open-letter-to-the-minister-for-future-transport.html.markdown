@@ -33,7 +33,7 @@ Industry giants admit that while technological solutions are in progress, they [
 
 The claim that it is "important for people to be able to continue to fly for business reasons,” demonstrates a lack of understanding about the business aviation market. Business flights make up just [10% of flights from the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2019), a number which has been stable for many years, and indeed plummeted during Covid when many businesses successfully moved online. With online interactions set to replace around [half of all business trips even after Covid](https://www.cnbc.com/2020/11/17/coronavirus-bill-gates-says-more-than-50percent-of-business-travel-will-disappear-long-term.html), the business case for continuing to fly falls apart.
 
-> "The claim demonstrates a lack of understanding about the business aviation market."
+> "Business flights make up just 10% of flights, and plummeted during Covid."
 
 It’s a noble claim that flying is one of the things that "make life worth living.” For the working class family who cannot afford a holiday, what makes life worth living is putting food on the table. Only around 50% of the UK population flies in any given year – in other countries it's lower, including in Denmark which is regularly ranked among the happiest place to live in the world. Globally, only around 10% of the population flies. It is an injustice to suggest to the very people who are being displaced from their homes and seeing their children starve because of the climate crisis, that it's flights that make life worth living. 
 
