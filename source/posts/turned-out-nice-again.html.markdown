@@ -44,12 +44,18 @@ My August bank holiday in Wales ended, like so many wet days, with the rain clea
 
 #### Here are my tips for coping with British holiday weather.
 
-* **If you can afford it, get some good-quality waterproof clothing.** Nothing beats watching the rain form beads and run off a new jacket! And nothing is worse than feeling it run off to your legs and soak through your jeans. In winter, you might need waterproof trousers. In summer, quick-drying trousers or shorts will probably be enough.
-* **Enjoy the compensations.** An iffy weather forecast means quieter beaches, as the day trippers stay at home.
-* **You can still go to the beach in the rain.** You can still swim in the sea – but leave your clothes in a waterproof bag so you have something dry to change into afterwards. 
-* **Remember those positive weather words!** Your holiday weather wasn’t disappointing; it was ‘bracing’, ‘refreshing’ or ‘exciting’.
-* **Have some alternative activities up your sleeve.** Traditionally this means board games and cards, both of which I hate. But I do like cooking, reading and sitting in steamed-up cafes. ‘Bad weather has its compensations,’ Nigella Lawson said, ‘most of them culinary.’
-* If you want to improve the odds, you can check the [Met Office’s UK regional climate summaries](https://www.metoffice.gov.uk/research/climate/maps-and-data/regional-climates/index). If you can, plan your holiday for when the weather is best. For example, if you are going to the West of Scotland, April, May and June are drier and sunnier than August (and also have fewer midges). If you can only take time off in August, then the South Coast is usually a good bet.
-* If you are planning an activity where the weather could put you in danger (say, climbing Ben Nevis) pay attention to the weather forecast. Otherwise, why torment yourself? If you just want to know if you are going to get wet in the next hour or so, checking the Met Office’s rain radar is more useful anyway.
+**If you can afford it, get some good-quality waterproof clothing.** Nothing beats watching the rain form beads and run off a new jacket! And nothing is worse than feeling it run off to your legs and soak through your jeans. In winter, you might need waterproof trousers. In summer, quick-drying trousers or shorts will probably be enough.
+
+**Enjoy the compensations.** An iffy weather forecast means quieter beaches, as the day trippers stay at home.
+
+**You can still go to the beach in the rain.** You can still swim in the sea – but leave your clothes in a waterproof bag so you have something dry to change into afterwards. 
+
+**Remember those positive weather words!** Your holiday weather wasn’t disappointing; it was ‘bracing’, ‘refreshing’ or ‘exciting’.
+
+**Have some alternative activities up your sleeve.** Traditionally this means board games and cards, both of which I hate. But I do like cooking, reading and sitting in steamed-up cafes. ‘Bad weather has its compensations,’ Nigella Lawson said, ‘most of them culinary.’
+
+**If you want to improve the odds, you can check the [Met Office’s UK regional climate summaries](https://www.metoffice.gov.uk/research/climate/maps-and-data/regional-climates/index).** If you can, plan your holiday for when the weather is best. For example, if you are going to the West of Scotland, April, May and June are drier and sunnier than August (and also have fewer midges). If you can only take time off in August, then the South Coast is usually a good bet.
+
+**If you are planning an activity where the weather could put you in danger (say, climbing Ben Nevis) pay attention to the weather forecast.** Otherwise, why torment yourself? If you just want to know if you are going to get wet in the next hour or so, checking the Met Office’s rain radar is more useful anyway.
 
 ### Attitude plays a part. Don’t waste time worrying about whether the weather will turn out as you want it to be. Take it as it comes. Your holiday will still be special. So often, the weather turns out better than you expect. If it does the opposite, perhaps it will make a good story.
