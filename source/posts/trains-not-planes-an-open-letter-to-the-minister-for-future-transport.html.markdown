@@ -35,7 +35,9 @@ The claim that it is "important for people to be able to continue to fly for bus
 
 > "Business flights make up just 10% of flights, and plummeted during Covid."
 
-It’s a noble claim that flying is one of the things that "make life worth living.” For the working class family who cannot afford a holiday, what makes life worth living is putting food on the table. Only around 50% of the UK population flies in any given year – in other countries it's lower, including in Denmark which is regularly ranked among the happiest place to live in the world. Globally, only around 10% of the population flies. It is an injustice to suggest to the very people who are being displaced from their homes and seeing their children starve because of the climate crisis, that it's flights that make life worth living. 
+It’s a noble claim that flying is one of the things that "make life worth living.” For the working class family who cannot afford a holiday, what makes life worth living is putting food on the table. 
+
+Only around 50% of the UK population flies in any given year – in other countries it's lower, including in Denmark which is regularly ranked among the happiest place to live in the world. Globally, only around 10% of the population flies. It is an injustice to suggest to the very people who are being displaced from their homes and seeing their children starve because of the climate crisis, that it's flights that make life worth living. 
 
 > "It is an injustice to suggest that it's flights that make life worth living."
 
