@@ -40,8 +40,8 @@ My August bank holiday in Wales ended, like so many wet days, with the rain clea
 Here are my tips for coping with British holiday weather.
 
 * **If you can afford it, get some good-quality waterproof clothing.** Nothing beats watching the rain form beads and run off a new jacket! And nothing is worse than feeling it run off to your legs and soak through your jeans. In winter, you might need waterproof trousers. In summer, quick-drying trousers or shorts will probably be enough.
-* **Enjoy the compensations**. An iffy weather forecast means quieter beaches, as the day trippers stay at home.
-* **You can still go to the beach in the rain**. You can still swim in the sea – but leave your clothes in a waterproof bag so you have something dry to change into afterwards. 
+* **Enjoy the compensations.** An iffy weather forecast means quieter beaches, as the day trippers stay at home.
+* **You can still go to the beach in the rain.** You can still swim in the sea – but leave your clothes in a waterproof bag so you have something dry to change into afterwards. 
 * **Remember those positive weather words!** Your holiday weather wasn’t disappointing; it was ‘bracing’, ‘refreshing’ or ‘exciting’.
 * **Have some alternative activities up your sleeve.** Traditionally this means board games and cards, both of which I hate. But I do like cooking, reading and sitting in steamed-up cafes. ‘Bad weather has its compensations,’ Nigella Lawson said, ‘most of them culinary.’
 
