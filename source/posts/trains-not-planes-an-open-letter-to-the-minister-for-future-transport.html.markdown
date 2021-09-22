@@ -13,7 +13,7 @@ Dear Rachel Maclean,
 
 We at Flight Free UK are deeply concerned about your claims that people need to keep flying in order to help cut carbon emissions.
 
-With the UN climate conference COP 26 on the horizon, it is more important than ever to be accurate in messaging surrounding the action that is needed to reach our climate targets.
+With the UN climate conference COP 26 on the horizon, it is more important than ever to be accurate in messaging about the action that is needed to reach our climate targets.
 
 The claim that “we need the aviation sector to be successful, so that it can invest in those technologies that we know will drive towards technological solutions,” paints a false picture. The reality of a consumer-led market is that, if people continue to demand fossil-fuelled flights, that's what we'll get. It is very difficult to convince shareholders that money should be invested in highly expensive, untested technology when consumer behaviour suggests that we are happy with the status quo. There is currently very little financial incentive for airlines to invest in green technology when kerosene remains untaxed. SAF development, by comparison, [is highly expensive](https://ihsmarkit.com/research-analysis/sustainable-aviation-fuel-market-still-in-infancy-due-to-cost-.html). 
 
