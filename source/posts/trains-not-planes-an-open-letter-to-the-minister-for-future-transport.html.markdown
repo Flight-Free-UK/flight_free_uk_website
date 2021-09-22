@@ -9,9 +9,9 @@ summary: Government claims that we need to keep flying in order to reduce
 author: FlightFree UK
 read_time_minute: 5
 ---
-Dear Rachel Maclean,
+### Dear Rachel Maclean,
 
-We at Flight Free UK are deeply concerned about your claims that people need to keep flying in order to help cut carbon emissions.
+#### We at Flight Free UK are deeply concerned about your claims that people need to keep flying in order to help cut carbon emissions.
 
 With the UN climate conference COP 26 on the horizon, it is more important than ever to be accurate in messaging about how we will reach our climate targets.
 
@@ -47,4 +47,6 @@ As the minister for future transport, we welcome future-thinking, but that futur
 
 > We welcome future-thinking based on reality rather than hope.
 
-It might be possible to have a green future for aviation, but that doesn’t help us right now, and right now is when we need to be reducing emissions. Suggesting that we can keep on flying as much as we like is rapidly pushing us down the path to there not being a future at all.
+### It might be possible to have a green future for aviation, but that doesn’t help us right now, and right now is when we need to be reducing emissions. 
+
+#### Suggesting that we can keep on flying as much as we like is rapidly pushing us down the path to there not being a future at all.
