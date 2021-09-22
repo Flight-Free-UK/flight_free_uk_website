@@ -28,7 +28,7 @@ Of course, when we go abroad, the weather is not guaranteed either. On a trip to
 
 Our British summers are changing. The top ten warmest years in the UK since 1884 were all since 2002. Summer 2021 was warmer than average, (although it might not have felt like that to you, especially if you live in the South East, where it was also cloudier and wetter than usual). The Met Office expects us to see hotter and drier summers in the future, but with more intense summer downpours. 
 
-“Our British summers are changing. The weather in our favourite holiday destinations is changing too.“
+> “Our British summers are changing. The weather in our favourite holiday destinations is changing too.”
 
 The weather in our favourite holiday destinations is changing too. The world has only experienced one degree of warming so far, yet in 2021 Turkey, Greece and Italy suffered wildfires that destroyed homes and caused thousands of holiday-makers to be evacuated. 
 
