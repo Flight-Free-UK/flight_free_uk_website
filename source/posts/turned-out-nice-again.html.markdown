@@ -20,11 +20,15 @@ When I talk to people about rethinking their holidays, I always hope they won’
 
 On the other hand, when the weather is good it feels like a gift. We remember for a long time the holidays where we had exceptional fine weather. 
 
+> “When the weather is good it feels like a gift.”
+
 Of course, when we go abroad, the weather is not guaranteed either. On a trip to Southern Italy in September a few years ago, we were caught in a thunderstorm. It stayed stormy, cold and wet for a few days. I was confident it would be hot, so I had only packed one warm jumper, and I couldn’t get it dry, which led to some shivery hours in our unheated hotel.
+
+![](/images/uploads/rainbow.jpeg)
 
 Our British summers are changing. The top ten warmest years in the UK since 1884 were all since 2002. Summer 2021 was warmer than average, (although it might not have felt like that to you, especially if you live in the South East, where it was also cloudier and wetter than usual). The Met Office expects us to see hotter and drier summers in the future, but with more intense summer downpours. 
 
-![](/images/uploads/rainbow.jpeg)
+“Our British summers are changing. The weather in our favourite holiday destinations is changing too.“
 
 The weather in our favourite holiday destinations is changing too. The world has only experienced one degree of warming so far, yet in 2021 Turkey, Greece and Italy suffered wildfires that destroyed homes and caused thousands of holiday-makers to be evacuated. 
 
@@ -35,6 +39,8 @@ Less than two weeks later, heavy rain caused severe floods and mudslides in Turk
 I suppose, while climate chaos reigns in parts of the world we love, we could just fly somewhere else on holiday. But since holidays are about feeling good, let’s instead stop making the problem worse, and be grateful for the changeable, but relatively mild, weather we still have here in the UK. 
 
 My August bank holiday in Wales ended, like so many wet days, with the rain clearing up. Sun shone again on glistening rocks and slate rooftops. We went for a walk through dripping woods, followed by tea and scones sitting at a damp picnic table. You see? It always turns out all right in the end.
+
+![](/images/uploads/three-sisters-glencoe.jpeg)
 
 #### Here are my tips for coping with British holiday weather.
 
