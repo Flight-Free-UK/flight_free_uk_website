@@ -42,7 +42,7 @@ I suppose, while climate chaos reigns in parts of the world we love, we could ju
 
 My August bank holiday in Wales ended, like so many wet days, with the rain clearing up. Sun shone again on glistening rocks and slate rooftops. We went for a walk through dripping woods, followed by tea and scones sitting at a damp picnic table. You see? It always turns out all right in the end.
 
-![A rainbow shines in a very grey sky over some bright green trees and a river](/images/uploads/rainbow.jpeg "Sunshine and showers make for a dramatic scene")
+![A rainbow shines in a very grey sky over some bright green trees and a river](/images/uploads/rainbow.jpeg)
 
 #### Here are my tips for coping with British holiday weather.
 
