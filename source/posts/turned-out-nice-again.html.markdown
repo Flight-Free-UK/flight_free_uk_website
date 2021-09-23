@@ -10,7 +10,7 @@ summary: Even though the British weather isn’t always ideal, Maggie Robertson
 author: FlightFree UK
 read_time_minute: 4
 ---
-![A person stands on a deserted beach holding a blue umbrella](/images/uploads/rainy_beach.jpeg "A rainy beach in Great Yarmouth")
+![A person stands on a deserted beach holding a blue umbrella](/images/uploads/rainy_beach.jpeg "A rainy day in Great Yarmouth")
 
 ## August Bank Holiday, 2018. I was on holiday in Pembrokeshire, and it was raining.
 
