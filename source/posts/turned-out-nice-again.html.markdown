@@ -36,7 +36,7 @@ The weather in our favourite holiday destinations is changing too. The world has
 
 Less than two weeks later, heavy rain caused severe floods and mudslides in Turkey, killing 57 people. Meanwhile, a heat wave across Southern Europe and North Africa brought record temperatures, deaths, and power outages as people stayed at home and turned up the air conditioning. Andalusia, the Spanish region that is home to Torremolinos, Malaga and Marbella, recorded its hottest day ever in 2021, with a temperature of 47.2°C (almost 117°F). That’s not beach weather. 
 
-![Pictures shows the Three Sisters in Glencoe: very steep mountainous peaks covered in green ferns and purple heather, seen on a very rainy and cloudy day](/images/uploads/three-sisters-glencoe.jpeg "The Three Sisters, Glencoe")
+![Pictures shows the Three Sisters in Glencoe: very steep mountainous peaks covered in green ferns and purple heather, seen on a very rainy and cloudy day](/images/uploads/three-sisters-glencoe.jpeg "The dramatic Three Sisters in Glencoe, Highlands")
 
 I suppose, while climate chaos reigns in parts of the world we love, we could just fly somewhere else on holiday. But since holidays are about feeling good, let’s instead stop making the problem worse, and be grateful for the changeable, but relatively mild, weather we still have here in the UK. 
 
