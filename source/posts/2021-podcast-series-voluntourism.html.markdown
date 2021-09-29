@@ -11,11 +11,7 @@ read_time_minute: 8
 ---
 *This is episode nine of our 2021 podcast series. Listen to the episode here and find other episodes and previous series [here](/PODCAST).*
 
-
-
 ![]()
-
-
 
 ## A lot of our work at Flight Free UK is about fighting against the injustice of climate change and working out how we can make a difference in the world. This month we meet the team at No White Saviors to discuss voluntourism and the climate challenges facing Uganda.
 
@@ -71,7 +67,7 @@ When I started, I came and volunteered in an orphanage. It was pretty much the w
 
 In addition to these difficulties, there is the climate impact of travelling to other continents. People who feel that they are on board with the flight free ethos might make an exception for volunteering because it’s seen as virtuous. But emissions are emissions, whatever the reason for them. 
 
-The emissions for a return flight to Uganda per passenger are 1.72tonnes CO2 according to [flightemissionmap.org](flightemissionmap.org). The average emissions for someone living in Uganda is about 0.18 tonnes – about 10 times less.
+The emissions for a return flight to Uganda per passenger are 1.72tonnes CO2 according to [flightemissionmap.org](www.flightemissionmap.org/). The average emissions for someone living in Uganda is about 0.18 tonnes – about 10 times less.
 
 We asked the team, what are the effects of climate change in Uganda?
 
