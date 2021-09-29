@@ -13,9 +13,11 @@ read_time_minute: 8
 
 ![]()
 
-## A lot of our work at Flight Free UK is about fighting against the injustice of climate change and working out how we can make a difference in the world. This month we meet the team at No White Saviors to discuss voluntourism and the climate challenges facing Uganda.
+## A lot of our work at Flight Free UK is about fighting against the injustice of climate change and working out how we can make a difference in the world.
 
-### Voluntourism is going to volunteer on a short-term basis in another country. Before the pandemic there were an estimated 10 million international volunteers a year. The most popular destinations are sub-Saharan Africa (with 17% of volunteers), Latin America (23%) and East Asia and South Asia (12%).
+### This month we meet the team at No White Saviors to discuss voluntourism and the climate challenges facing Uganda.
+
+Voluntourism is going to volunteer on a short-term basis in another country. Before the pandemic there were an estimated 10 million international volunteers a year. The most popular destinations are sub-Saharan Africa (with 17% of volunteers), Latin America (23%) and East Asia and South Asia (12%).
 
 Our team member Alan has some personal experience of voluntourism:
 
@@ -50,6 +52,8 @@ The mentality of anything goes, the othering. I could be working in a mall in th
 #### Gabriel
 
 A lot of people have the mentality of being the saviour. At best you appear to serve the community but the foundation is that you are serving yourself. By going into a community for a short time you are creating a system of reliance – people rely on you or on other volunteers that come in and out, and can never quite serve themselves. Individuals who come are highly ingrained in ‘whiteness’ – not just the colour of skin, but the ideology of superiority and having power over another being.
+
+> "A lot of people have the mentality of being the saviour. At best you appear to serve the community but the foundation is that you are serving yourself."
 
 #### Flight Free UK
 
