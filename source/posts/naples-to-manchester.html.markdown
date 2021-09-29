@@ -28,15 +28,19 @@ I find travelling by train very relaxing. When I take the train, the holiday sta
 
 You will agree that this is not the same experience one has during a short European flight.
 
-Naples is in the southern part of Italy, so travelling all the way back to Manchester would take more than a day. I used it as an opportunity to meet a friend in Milan, where I had booked a hotel. After going for a walk, doing some last-minute shopping in my favourite bookshop, I met up with my friend. We hadn't seen each other for a few years, and had a lovely dinner and talked until late in the evening. It was one of the best evenings of my holiday!
-
 ![]( "Naples")
 
+Naples is in the southern part of Italy, so travelling all the way back to Manchester would take more than a day. I used it as an opportunity to meet a friend in Milan, where I had booked a hotel. After going for a walk, doing some last-minute shopping in my favourite bookshop, I met up with my friend. We hadn't seen each other for a few years, and had a lovely dinner and talked until late in the evening. It was one of the best evenings of my holiday!
+
 Having always travelled from Italy to France overnight I had missed the scenery around the Alps, so I was looking forward to travelling to Paris by day. This time I was wide awake. It was lovely to see the Alps from the Italian side, around Turin and then from the French side around Modane. The day was a little misty but gradually the mountains emerged in all their magnificence. The landscape brought me back to my winter holidays as a child and I started wondering which of these mountains we used to sledge down in the snow. There... I found it, Oulx! The train even stopped there. It was tempting to get off and have a look around, but maybe this is a plan for another trip.  
+
+![]( "French Alps")
 
 In Paris I would be taking the Eurostar for the first time. It seemed amazing to me that the trip would take only about two and a half hours – it’s exciting to know that you can get to Paris in such a short time, and that there are even more trains every day connecting the two capital cities.
 
 The Eurostar was comfortable and almost full. When I visited the café, I was pleased to notice that most of the people were either reading a book, playing a board game or drawing (mostly children), sprawling on their tables as if they were at home. Remarkably few people were using their phones or computers. It seemed like a lovely, homely, wholesome way to travel. 
+
+![]( "Eurostar")
 
 Crossing under the Channel was a little… underwhelming. There was, of course, nothing to see! Even so, I liked re-emerging in England and noticing the changed landscape. 
 
