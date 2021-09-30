@@ -27,7 +27,7 @@ Our team member Alan has some personal experience of voluntourism:
 
 *“I was quite excited to go there. I don’t think I was naive enough to feel that I was saving Africa or being a hero but I did think that I was doing a good thing. In retrospect I don’t think I added much value to myself or others.”* 
 
-[No White Saviors](nowhitesaviors.org) is a group of Ugandan professionals and activists. They are frustrated by the way volunteers perpetuate inequality in Uganda and they want to make sure that Ugandans are the heroes of their own story. 
+[No White Saviors](https://www.nowhitesaviors.org) is a group of Ugandan professionals and activists. They are frustrated by the way volunteers perpetuate inequality in Uganda and they want to make sure that Ugandans are the heroes of their own story. 
 
 #### Lubega Wendy
 
@@ -120,11 +120,11 @@ Culturally it’s a better match and most importantly it doesn’t involve any f
 
 #### Destination of the month
 
-Maggie chooses The [Conservation Volunteers](https://www.tcv.org.uk/). One of the benefits of volunteering with something local is that you can do it regularly.
+Maggie chooses [The Conservation Volunteers](https://www.tcv.org.uk/). One of the benefits of volunteering with something local is that you can do it regularly.
 
 Alan chooses the [RSPB](https://www.rspb.org.uk/get-involved/volunteering-fundraising/volunteer/) in the Aire valley just outside Leeds. 
 
-### Thank you so much to No White Saviors for joining us. To find out more, go to their website [here](nowhitesaviors.org).
+### Thank you so much to No White Saviors for joining us. To find out more, go to their website [here](https://www.nowhitesaviors.org).
 
 ### To find out more about Vanessa Nakate, she is on this [BBC video](https://www.youtube.com/watch?v=hUV4TM5ePMk), the Climate Question.
 
