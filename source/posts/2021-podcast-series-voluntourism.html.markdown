@@ -11,7 +11,7 @@ read_time_minute: 8
 ---
 *This is episode nine of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-voluntourism/) and find other episodes and previous series [here](/PODCAST).*
 
-![](/images/uploads/09sep_episode_blog.jpg)
+![]()
 
 ## A lot of our work at Flight Free UK is about fighting against the injustice of climate change and working out how we can make a difference in the world.
 
@@ -89,15 +89,21 @@ As children, we could predict when it would be sunny and when it would be rainy.
 
 In rich countries, we sometimes get the impression that it’s only us who worry about climate change. But Wendy and Gabriel were very clear that they are very concerned about climate change. We don’t hear enough from people in low income countries in this conversation.
 
+> “Wendy and Gabriel were very clear that they are very concerned about climate change. We don’t hear enough from people in low income countries in this conversation.”
+
 #### Wendy
 
 Uganda as a country has a very small carbon footprint, but often it’s made to look like people in Uganda do not care about the environment. E.g. youth climate activist Vanessa Nakate was cropped out of a photo by Associated Press (the photo was of Vanessa alongside other climate activists including Greta Thunberg. You can find the story [here](https://www.theguardian.com/world/2020/jan/29/vanessa-nakate-interview-climate-activism-cropped-photo-davos))​​. 
 
 We as Ugandans love the environment. We live with nature. It’s in our music. So for the global north to think we are not well suited for this conversation is quite sad. 
 
+> “It’s made to look like people in Uganda do not care about the environment. We love the environment. We live with nature. It’s in our music.“
+
 #### Gabriel
 
 At the end of the day we are the ones experiencing the most damage. It leaves you asking why we are being excluded from the conversation. When it comes to the fight against climate change, a lot of the change is focussed on the African continent and other places in the global south. For example, there was an article that stated that changing wood burning stoves in sub-Saharan Africa would offset the emissions of Belgium or Florida. The fact that one country is being compared to the total emissions of sub-Saharan Africa, and the change is being focussed on sub-Saharan Africa shows how the whole climate change thing is very structured to let the global north continue playing while the global south does the homework. I’m not defending wood stove burning because it is very unhealthy, but I am certain that never once did it cause the oceans to be on fire. We need to address the capitalist industries in the global north.
+
+> “The whole climate change thing is very structured to let the global north continue playing while the global south does the homework.”
 
 #### Flight Free UK
 
@@ -108,6 +114,8 @@ No White Saviors are clear that voluntourism isn’t good for Uganda, but is it 
 #### Kelsey
 
 A lot of the time, volunteering is self-serving for the person going – it’s for an experience, to gain perspective, to be grateful for what we have. It’s an illusion that it’s changing the reality and the situation for the people in the community you are going to see. If someone has a unique skillset such as a medical professional, there might be a place for them, but often that’s not the case: the people who typically volunteer are unqualified, young people who want to ‘make a difference’. It might be more helpful to stay home and raise funds for an organisation that is grassroots and community led. If we’re really dedicated to the community and the cause, we should be more worried about the impact we’re making rather than what we’re getting out of it.
+
+> “Volunteering is often self-serving. It might be more helpful to stay home and raise funds for an organisation that is grassroots and community-led.” 
 
 #### Flight Free UK
 
