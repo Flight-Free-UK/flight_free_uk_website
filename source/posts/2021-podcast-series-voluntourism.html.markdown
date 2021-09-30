@@ -101,7 +101,11 @@ We as Ugandans love the environment. We live with nature. It’s in our music. S
 
 #### Gabriel
 
-At the end of the day we are the ones experiencing the most damage. It leaves you asking why we are being excluded from the conversation. When it comes to the fight against climate change, a lot of the change is focussed on the African continent and other places in the global south. For example, there was an article that stated that changing wood burning stoves in sub-Saharan Africa would offset the emissions of Belgium or Florida. The fact that one country is being compared to the total emissions of sub-Saharan Africa, and the change is being focussed on sub-Saharan Africa shows how the whole climate change thing is very structured to let the global north continue playing while the global south does the homework. I’m not defending wood stove burning because it is very unhealthy, but I am certain that never once did it cause the oceans to be on fire. We need to address the capitalist industries in the global north.
+At the end of the day we are the ones experiencing the most damage. It leaves you asking why we are being excluded from the conversation. 
+
+When it comes to the fight against climate change, a lot of the change is focussed on the African continent and other places in the global south. For example, there was an article that stated that changing wood burning stoves in sub-Saharan Africa would offset the emissions of Belgium or Florida. 
+
+The fact that one country is being compared to the total emissions of sub-Saharan Africa, and the change is being focussed on sub-Saharan Africa shows how the whole climate change thing is very structured to let the global north continue playing while the global south does the homework. I’m not defending wood stove burning because it is very unhealthy, but I am certain that never once did it cause the oceans to be on fire. We need to address the capitalist industries in the global north.
 
 > “The whole climate change thing is very structured to let the global north continue playing while the global south does the homework.”
 
