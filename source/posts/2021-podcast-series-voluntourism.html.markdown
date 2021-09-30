@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "2021 podcast series: Voluntourism"
 category: opinion
 date: 2021-09-29T23:29:06.690Z
@@ -124,7 +124,7 @@ Maggie chooses [The Conservation Volunteers](https://www.tcv.org.uk/). One of th
 
 Alan chooses the [RSPB](https://www.rspb.org.uk/get-involved/volunteering-fundraising/volunteer/) in the Aire valley just outside Leeds. 
 
-### Thank you so much to No White Saviors for joining us. To find out more, go to their website [here](https://www.nowhitesaviors.org).
+### Thank you so much to No White Saviors for joining us. To find out more, go to their website [here](https://www.nowhitesaviors.org/).
 
 ### To find out more about Vanessa Nakate, she is on this [BBC video](https://www.youtube.com/watch?v=hUV4TM5ePMk), the Climate Question.
 
