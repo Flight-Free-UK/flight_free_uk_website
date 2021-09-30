@@ -2,7 +2,7 @@
 published: true
 title: Turned out nice again!
 category: travel
-date: 2021-09-22T21:22:31.734Z
+date: 2021-09-10T21:22:31.734Z
 cover_image: /images/uploads/rainy_beach.jpeg
 summary: Even though the British weather isn’t always ideal, Maggie Robertson
   reflects on the uncertain outlook and shares her tips for enjoying a UK
