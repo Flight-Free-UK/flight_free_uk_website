@@ -71,7 +71,7 @@ When I started, I came and volunteered in an orphanage. It was pretty much the w
 
 In addition to these difficulties, there is the climate impact of travelling to other continents. People who feel that they are on board with the flight free ethos might make an exception for volunteering because it’s seen as virtuous. But emissions are emissions, whatever the reason for them. 
 
-The emissions for a return flight to Uganda per passenger are 1.72tonnes CO2 according to [flightemissionmap.org](https://www.flightemissionmap.org/). The average emissions for someone living in Uganda is about 0.18 tonnes – about 10 times less.
+The emissions for a return flight to Uganda per passenger are 1.72 tonnes CO2 according to [flightemissionmap.org](https://www.flightemissionmap.org/). The average emissions for someone living in Uganda is about 0.18 tonnes – about 10 times less.
 
 We asked the team, what are the effects of climate change in Uganda?
 
