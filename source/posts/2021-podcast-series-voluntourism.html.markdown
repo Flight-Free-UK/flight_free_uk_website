@@ -11,7 +11,7 @@ read_time_minute: 8
 ---
 *This is episode nine of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-voluntourism/) and find other episodes and previous series [here](/PODCAST).*
 
-![]()
+![](/images/uploads/09sep_episode_blog.jpg)
 
 ## A lot of our work at Flight Free UK is about fighting against the injustice of climate change and working out how we can make a difference in the world.
 
