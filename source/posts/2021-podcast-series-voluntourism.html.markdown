@@ -113,7 +113,9 @@ The fact that one country is being compared to the total emissions of sub-Sahara
 
 We hear about airlines offering offsets all the time. It’s not that the woodstove project is bad – it’s good for people’s health, especially women’s health – but that can’t be an excuse for rich countries to put off reducing their own emissions.
 
-No White Saviors are clear that voluntourism isn’t good for Uganda, but is it good for the volunteer? Is it worthwhile as an educational experience? For Alan, it wasn’t a great insight into the problems around the world that you can’t learn elsewhere e.g. on TV and through charities like Comic Relief. A lot of people from the west and the global north see going to countries such as Uganda as a part of their own personal development, but there’s not a country in the world that exists for the sole purpose of letting westerners have revelations about themselves.
+No White Saviors are clear that voluntourism isn’t good for Uganda, but is it good for the volunteer? Is it worthwhile as an educational experience? For Alan, it wasn’t a great insight into the problems around the world that you can’t learn elsewhere e.g. on TV and through charities like Comic Relief. 
+
+A lot of people from the west and the global north see going to countries such as Uganda as a part of their own personal development, but there’s not a country in the world that exists for the sole purpose of letting westerners have revelations about themselves.
 
 #### Kelsey
 
