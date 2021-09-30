@@ -119,7 +119,9 @@ A lot of people from the west and the global north see going to countries such a
 
 #### Kelsey
 
-A lot of the time, volunteering is self-serving for the person going – it’s for an experience, to gain perspective, to be grateful for what we have. It’s an illusion that it’s changing the reality and the situation for the people in the community you are going to see. If someone has a unique skillset such as a medical professional, there might be a place for them, but often that’s not the case: the people who typically volunteer are unqualified, young people who want to ‘make a difference’. It might be more helpful to stay home and raise funds for an organisation that is grassroots and community led. If we’re really dedicated to the community and the cause, we should be more worried about the impact we’re making rather than what we’re getting out of it.
+A lot of the time, volunteering is self-serving for the person going – it’s for an experience, to gain perspective, to be grateful for what we have. It’s an illusion that it’s changing the reality and the situation for the people in the community you are going to see. If someone has a unique skillset such as a medical professional, there might be a place for them, but often that’s not the case: the people who typically volunteer are unqualified, young people who want to ‘make a difference’. 
+
+It might be more helpful to stay home and raise funds for an organisation that is grassroots and community led. If we’re really dedicated to the community and the cause, we should be more worried about the impact we’re making rather than what we’re getting out of it.
 
 > “Volunteering is often self-serving. It might be more helpful to stay home and raise funds for an organisation that is grassroots and community-led.” 
 
