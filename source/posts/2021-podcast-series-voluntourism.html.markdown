@@ -9,7 +9,7 @@ summary: Three members of the No White Saviors team in Uganda explain to us the
 author: FlightFree UK
 read_time_minute: 8
 ---
-*This is episode nine of our 2021 podcast series. Listen to the episode here and find other episodes and previous series [here](/PODCAST).*
+*This is episode nine of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-voluntourism/) and find other episodes and previous series [here](/PODCAST).*
 
 ![]()
 
@@ -128,6 +128,6 @@ Alan chooses the [RSPB](https://www.rspb.org.uk/get-involved/volunteering-fundra
 
 ### To find out more about Vanessa Nakate, she is on this [BBC video](https://www.youtube.com/watch?v=hUV4TM5ePMk), the Climate Question.
 
-#### *Listen to the full episode [here](LINK) and find other episodes and previous series [here](/PODCAST).*
+#### *Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-voluntourism/) and find other episodes and previous series [here](/PODCAST).*
 
 *Voiceover: [L. Sophie Helbig](https://lshelbig.com/main/). Soundtrack: [Chasing Balloons by Yeti Music](https://uppbeat.io/track/yeti-music/chasing-balloons).*
