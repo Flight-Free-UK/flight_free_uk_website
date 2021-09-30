@@ -3,7 +3,7 @@ published: false
 title: "2021 podcast series: Voluntourism"
 category: opinion
 date: 2021-09-29T23:29:06.690Z
-cover_image: /images/uploads/05may_episode_blog.jpg
+cover_image: /images/uploads/09sep_episode_thumbnail.jpg
 summary: Three members of the No White Saviors team in Uganda explain to us the
   issues surrounding voluntourism.
 author: FlightFree UK
@@ -11,7 +11,7 @@ read_time_minute: 8
 ---
 *This is episode nine of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-voluntourism/) and find other episodes and previous series [here](/PODCAST).*
 
-![]()
+![](/images/uploads/09sep_episode_blog.jpg)
 
 ## A lot of our work at Flight Free UK is about fighting against the injustice of climate change and working out how we can make a difference in the world.
 
