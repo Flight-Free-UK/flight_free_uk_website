@@ -9,7 +9,7 @@ title: Podcast
     <% podcast = podcasts.shift %>
     <div class="xl:flex bg-blue-dark mb-4 sm:mb-10 xl:mb-12 bg-no-repeat bg-right-top" style="background-image:url(/images/latest_podcast.png)">
       <div class="relative xl:w-1/2">
-      <a href="<%= podcast.url %>" target="_blank" class="block h-48 w-full xl:h-full bg-no-repeat bg-cover bg-top" style="background-image:url(<%= podcast.cover_image %>)"></a>
+      <a href="<%= podcast.url %>" target="_blank" class="block w-full h-48 xl:h-96 bg-no-repeat bg-cover bg-top" style="background-image:url(<%= podcast.cover_image %>)"></a>
         <div class="absolute inset-0 bg-no-repeat bg-right-top xl:hidden" style="background-image:url(/images/latest_podcast.png)"></div>
       </div>
       <div class="relative xl:w-1/2 px-4 sm:px-8 py-4 sm:py-6 xl:px-16 xl:py-16">
