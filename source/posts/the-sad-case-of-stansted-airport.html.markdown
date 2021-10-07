@@ -11,7 +11,9 @@ read_time_minute: 2
 ---
 ![Image shows an aeroplane flying overhead, silhouetted against the white clouds and the sun. There are tree branches in the foreground](/images/uploads/plane.jpg)
 
-In January 2020, councillors from Uttlesford District Council, a small district on the border of Hertfordshire and Essex, met to discuss the expansion of Stansted Airport. The airport, the UK’s fourth-busiest, had submitted plans to allow an extra 8 million customers to pass through its doors each year, making its total capacity 43 million. 
+### In January 2020, councillors from Uttlesford District Council, a small district on the border of Hertfordshire and Essex, met to discuss the expansion of Stansted Airport. 
+
+The airport, the UK’s fourth-busiest, had submitted plans to allow an extra 8 million customers to pass through its doors each year, making its total capacity 43 million. 
 
 In a move that surprised everybody, UDC councillors voted unanimously against the proposal. Airport expansions historically go through on the nod – no one pays much attention. But this was different. Stansted Airport Watch (SAW, formerly Stop Stansted Expansion, or SSE) had been campaigning against the expansion for years, raising awareness about what this might mean for local residents overflown by planes, and how airport greenhouse gas emissions contribute to the climate crisis.
 
