@@ -9,13 +9,19 @@ summary: After a three year battle, Stansted Airport has finally had its
 author: FlightFree UK
 read_time_minute: 2
 ---
+![Image shows an aeroplane flying overhead, silhouetted against the white clouds and the sun. There are tree branches in the foreground](/images/uploads/plane.jpg)
+
 In January 2020, councillors from Uttlesford District Council, a small district on the border of Hertfordshire and Essex, met to discuss the expansion of Stansted Airport. The airport, the UK’s fourth-busiest, had submitted plans to allow an extra 8 million customers to pass through its doors each year, making its total capacity 43 million. 
 
 In a move that surprised everybody, UDC councillors voted unanimously against the proposal. Airport expansions historically go through on the nod – no one pays much attention. But this was different. Stansted Airport Watch (SAW, formerly Stop Stansted Expansion, or SSE) had been campaigning against the expansion for years, raising awareness about what this might mean for local residents overflown by planes, and how airport greenhouse gas emissions contribute to the climate crisis.
 
 The decision was a victory for climate campaigners. Was this, finally, the turning point, where planning applications would put environmental considerations first?
 
-A year later there was a public inquiry, prompted by the inevitable appeal from the airport’s owners, Manchester Airports Group (MAG). Cited at the public inquiry was the standard list of what the airport is doing to reduce its carbon emissions: electrifying ground transport, encouraging people to arrive by train, reducing single-use plastic. In any case, aeroplanes will all be running on hydrogen by 2050 so what’s the problem? In its statement, the Planning Inspectorate said that the “limited degree of harm arising in respect of air quality and carbon emissions” was “far outweighed by the benefits of the proposal.” The deal was sealed.
+> "Was this, finally, the turning point, where planning applications would put environmental considerations first?"
+
+A year later there was a public inquiry, prompted by the inevitable appeal from the airport’s owners, Manchester Airports Group (MAG). Cited at the public inquiry was the standard list of what the airport is doing to reduce its carbon emissions: electrifying ground transport, encouraging people to arrive by train, reducing single-use plastic. In any case, aeroplanes will all be running on hydrogen by 2050 so what’s the problem? 
+
+In its statement, the Planning Inspectorate said that the “limited degree of harm arising in respect of air quality and carbon emissions” was “far outweighed by the benefits of the proposal.” The deal was sealed.
 
 Uttlesford District Council went to the High Court to apply for a Judicial Review against the Planning Inspectorate’s decision, but the application was refused. They had gone from being hailed as heroes by climate campaigners across the country to being the latest in a long line of local councils who had been defeated by Goliath. In October 2021, UDC voted not to appeal this latest refusal. The end of the road had been reached.
 
