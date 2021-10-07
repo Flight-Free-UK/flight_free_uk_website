@@ -27,10 +27,14 @@ Uttlesford District Council went to the High Court to apply for a Judicial Revie
 
 Why did it fail? Was it incompetence at the council? Surprise that their initial vote to refuse expansion had passed? Did they not fight hard enough? Was it that the airport is simply too large and powerful to be fought? Was it the inevitable narrative that it’s nice to consider the environment but actually it's money that talks?
 
+> "Was the airport simply too large and powerful to be fought?" 
+
 In the end, this is about more than just Stansted. Yes, expansion will be most keenly felt by those residents under the flight path whose lives are blighted by noise and pollution. They are now battling the airport’s plans to increase the number of night flights – arguably much harder now that expansion has been approved.
 
 But it’s also about Southampton, Leeds Bradford, Manchester, Bristol, Luton and ultimately Heathrow and Gatwick. Expand one airport and you make it more difficult to refuse expansion for any of them. It’s about our culture of ever-increasing growth on a finite planet and the constant struggle of those with the big bucks vs those who are trying to make their communities, and the world, a better place to live. 
 
+> "This is about more than just Stansted. Expand one airport and you make it more difficult to refuse expansion for any of them."
+
 It is also about justice: airport expansion causes actual harm to residents through noise and pollution, yet it’s the residents themselves who fork out for this privilege: MAG is a holding company 65% owned by Greater Manchester councils – funded by taxpayers. The other 35% (with half the voting rights) is an investment fund registered in the Cayman Islands. A bitter sting in the tale is that the cash-poor UDC will now have to pay MAG’s legal costs.
 
-In the climate crisis battle, too often it’s the villains who prosper and the heroes who fall. The great tragedy of the Stansted Airport story is that only a small minority will feel the benefits, yet we will all, ultimately, pay the price.
+### In the climate crisis battle, too often it’s the villains who prosper and the heroes who fall. The great tragedy of the Stansted Airport story is that only a small minority will feel the benefits, yet we will all, ultimately, pay the price.
