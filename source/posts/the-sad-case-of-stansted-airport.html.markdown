@@ -11,7 +11,7 @@ read_time_minute: 2
 ---
 ![Image shows an aeroplane flying overhead, silhouetted against the white clouds and the sun. There are tree branches in the foreground](/images/uploads/plane.jpg)
 
-### In January 2020, councillors from Uttlesford District Council, a small district on the border of Hertfordshire and Essex, met to discuss the expansion of Stansted Airport. 
+### In January 2020, councillors from Uttlesford District Council, a small district on the border of Hertfordshire and Essex, met to discuss the expansion of Stansted Airport.
 
 The airport, the UK’s fourth-busiest, had submitted plans to allow an extra 8 million customers to pass through its doors each year, making its total capacity 43 million. 
 
@@ -39,4 +39,6 @@ But it’s also about Southampton, Leeds Bradford, Manchester, Bristol, Luton an
 
 It is also about justice: airport expansion causes actual harm to residents through noise and pollution, yet it’s the residents themselves who fork out for this privilege: MAG is a holding company 65% owned by Greater Manchester councils – funded by taxpayers. The other 35% (with half the voting rights) is an investment fund registered in the Cayman Islands. A bitter sting in the tale is that the cash-poor UDC will now have to pay MAG’s legal costs.
 
-### In the climate crisis battle, too often it’s the villains who prosper and the heroes who fall. The great tragedy of the Stansted Airport story is that only a small minority will feel the benefits, yet we will all, ultimately, pay the price.
+### In the climate crisis battle, too often it’s the villains who prosper and the heroes who fall. 
+
+### The great tragedy of the Stansted Airport story is that only a small minority will feel the benefits, yet we will all, ultimately, pay the price.
