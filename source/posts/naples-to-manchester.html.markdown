@@ -8,7 +8,7 @@ summary: "Italian-born Loredana Spadola discovers the joy of travelling by train
   on a journey from her childhood home in Naples to her adopted home of
   Manchester. "
 author: FlightFree UK
-read_time_minute: 222
+read_time_minute: 4
 ---
 ### They call it air-baptism in Italy, your first flight.
 
