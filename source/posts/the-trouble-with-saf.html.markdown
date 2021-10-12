@@ -52,6 +52,8 @@ It’s been estimated that there are only sufficient resources to support approx
 
 **Perhaps SAFs shouldn’t be called ‘sustainable’ at all.** ‘Sustainable’ implies that we can continue to use large quantities of it without incurring any environmental or societal impacts. But all SAF pathways carry substantial risk of exacerbating environmental and social crises – they require intensive use of limited global resources, during a period in human history when we are battling to decarbonise our societies.
 
+> "SAFs shouldn’t be called ‘sustainable’ at all."
+
 **Fundamentally, SAF use is a distraction** from policies that would lead to a reduction in fuel use in the aviation industry, and indeed other transport industries. The climate crisis requires radical solutions and for us to think beyond our current habits and lifestyles. There might be a place for SAF, but it must go hand in hand with an overall reduction in fuel consumption. As ever, the most reliable way to reduce emissions from aviation is to fly less.
 
 *Finlay Asher is part of [Safe Landing](https://safe-landing.org/), a group of workers from within the aviation industry who raise awareness of the climate reality of aviation.*
