@@ -20,6 +20,8 @@ read_time_minute: 4
 
 **Biofuels typically come from agricultural crops** or waste from farms, municipal waste from cities, inedible animal fats, or used cooking oil. Using ‘virgin’ crops (i.e. not from waste) is hugely damaging: plantations of crops such as palm oil, rapeseed or soy are a leading driver of deforestation, as well as being a disaster for biodiversity. The overall effect is that using biofuel can be worse than using fossil fuel.
 
+> "Crops such as palm oil are a leading driver of deforestation, as well as being a disaster for biodiversity."
+
 **In order to scale up**, we’d need to cover the land that we currently use for food consumption in biofuel crops. Biofuel has been scaled up for road transport and it’s had a devastating effect on land in places like Malaysia, Indonesia and some countries in South America, leading not only to a decline in biodiversity but also humanitarian effects such as water shortages, rising food prices, and land conflicts.
 
 **So isn’t “waste oil” a better solution?** There are concerns with using fuels such as used cooking oil or inedible animal fat, given that this could indirectly drive additional waste – or indirectly stimulate the use of [unsustainable virgin materials](https://www.nnfcc.co.uk/files/mydocs/UCO%20Report.pdf) (palm oil etc.). For example, the road sector currently uses [more used cooking oil than we produce](https://www.transportenvironment.org/discover/uks-imports-dubious-used-cooking-oil-set-rise-fuelling-deforestation/) in the UK, leading to doubts over the origins of imported oil. In any case, it doesn’t make sense to divert this resource to the much less energy-efficient aviation sector.
