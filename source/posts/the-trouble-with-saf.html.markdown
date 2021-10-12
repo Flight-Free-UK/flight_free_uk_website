@@ -10,7 +10,7 @@ summary: SAFs, or sustainable aviation fuels, are being heralded by the aviation
 author: FlightFree UK
 read_time_minute: 4
 ---
-## There has been a lot of talk about SAF from airlines and Governments keen to show their eco credentials. But what is SAF, and is it as green as it sounds? 
+### There has been a lot of talk about SAF from airlines and Governments keen to show their eco credentials. But what is SAF, and is it as green as it sounds? 
 
 ![Image shows an aircraft landing, focusing on the wing and engine turbine](/images/uploads/aeroplane_wing2.jpg)
 
