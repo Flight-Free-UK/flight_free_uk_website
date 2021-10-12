@@ -46,7 +46,9 @@ It’s been estimated that there are only sufficient resources to support approx
 
 **Progress in creating e-fuels is even slower than biofuel production**, with 2030 as the first viable date for blending e-fuels with kerosene, and meaningful scale-up several decades beyond that. There will be a significant cost, too, particularly for long-haul aviation, which will do little to incentivise development. The industry needs to be preparing for this. 
 
-**Whether it’s biofuels or e-fuels**, SAFs don’t fully address aviation’s non-CO2 emissions such as NOx and contrail cirrus, which have a [global warming effect](https://www.sciencedirect.com/science/article/abs/pii/S1352231020305689) and will not be fully eradicated by the use of alternative fuels.
+**Whether it’s biofuels or e-fuels**, SAFs don’t address aviation’s non-CO2 emissions such as NOx and contrail cirrus, which have a [global warming effect](https://www.sciencedirect.com/science/article/abs/pii/S1352231020305689) and will not be fully eradicated by the use of alternative fuels.
+
+> "SAFs don’t address aviation’s non-CO2 emissions such as NOx and contrail cirrus."
 
 **Perhaps SAFs shouldn’t be called ‘sustainable’ at all.** ‘Sustainable’ implies that we can continue to use large quantities of it without incurring any environmental or societal impacts. But all SAF pathways carry substantial risk of exacerbating environmental and social crises – they require intensive use of limited global resources, during a period in human history when we are battling to decarbonise our societies.
 
