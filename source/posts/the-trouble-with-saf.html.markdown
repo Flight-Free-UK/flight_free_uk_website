@@ -42,6 +42,8 @@ It’s been estimated that there are only sufficient resources to support approx
 
 **Creating liquid hydrocarbons is very energy intensive.** This brings us back to the hierarchy of energy use – we should be prioritising the use of renewable energy in powering our homes and our road transport before we start to power aviation. [It would take 3-4 times the current global renewable energy generation](https://www.fch.europa.eu/publications/hydrogen-powered-aviation) to produce synthetic e-fuels for aviation on current consumption trends.
 
+> "We should be prioritising the use of renewable energy in powering our homes before we start to power aviation."
+
 **Progress in creating e-fuels is even slower than biofuel production**, with 2030 as the first viable date for blending e-fuels with kerosene, and meaningful scale-up several decades beyond that. There will be a significant cost, too, particularly for long-haul aviation, which will do little to incentivise development. The industry needs to be preparing for this. 
 
 **Whether it’s biofuels or e-fuels**, SAFs don’t fully address aviation’s non-CO2 emissions such as NOx and contrail cirrus, which have a [global warming effect](https://www.sciencedirect.com/science/article/abs/pii/S1352231020305689) and will not be fully eradicated by the use of alternative fuels.
