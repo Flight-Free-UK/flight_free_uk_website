@@ -28,6 +28,8 @@ read_time_minute: 4
 
 **In the hierarchy of efficient use of biomass**, the priority is feeding a growing human population and sourcing materials for shelter and infrastructure. Next comes decarbonising the grid, domestic heating, and for negative emissions. Transport comes at the bottom of the heap. We shouldn’t really be using biofuels for transport at all, but if we must use them, we should be using them for ground transport – a more efficient use of limited resources with benefits for a wider proportion of society. In the context of a biodiversity crisis, land crisis and climate crisis, it is a global injustice to use biofuels so the rich can keep on flying.
 
+> "We shouldn’t really be using biofuels for transport at all, but if we must, we should be using them for ground transport."
+
 **Another issue is scale.** Even when airlines talk about flights fuelled by SAF, it’s unlikely that there won't be any kerosene involved. Aviation biofuel scale-up has been promised by the industry for more than a decade but this has not materialised. Targets have been routinely missed by significant margins, and then ambition ratcheted-down across successive years. There was a target for 25% by 2020, but SAF use is currently at less than 0.01%.
 
 It’s been estimated that there are only sufficient resources to support approximately [5.5% of projected EU jet fuel](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf) demand in 2030 – that’s without taking into account the political or economic barriers to alternative jet fuel production, which are significant. 
