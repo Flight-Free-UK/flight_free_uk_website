@@ -32,6 +32,8 @@ read_time_minute: 4
 
 **Another issue is scale.** Even when airlines talk about flights fuelled by SAF, it’s unlikely that there won't be any kerosene involved. Aviation biofuel scale-up has been promised by the industry for more than a decade but this has not materialised. Targets have been routinely missed by significant margins, and then ambition ratcheted-down across successive years. There was a target for 25% by 2020, but SAF use is currently at less than 0.01%.
 
+> "Aviation biofuel scale-up has been promised by the industry for more than a decade but this has not materialised."
+
 It’s been estimated that there are only sufficient resources to support approximately [5.5% of projected EU jet fuel](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf) demand in 2030 – that’s without taking into account the political or economic barriers to alternative jet fuel production, which are significant. 
 
 **Aviation biofuels, if scaled, will still cost at least 2-3 times** the current cost of untaxed fossil fuel kerosene. The production costs may be “[twice the cost of petroleum-based jet fuel production, while other conversion processes cost as much as eight times the price of petroleum fuel](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf).” 
