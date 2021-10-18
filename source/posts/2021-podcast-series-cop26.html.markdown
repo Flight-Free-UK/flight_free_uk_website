@@ -9,13 +9,13 @@ summary: Activist Mara de Pater joins us to talk about the upcoming climate
 author: FlightFree UK
 read_time_minute: 7
 ---
-*This is episode 10 of our 2021 podcast series. Listen to the episode [here ](https://www.podbean.com/ew/pb-9k2mf-1108d5e)and find other episodes and previous series [here](/podcast/).*
+*This is episode 10 of our 2021 podcast series. Listen to the episode [here](https://www.podbean.com/media/share/pb-9k2mf-1108d5e) and find other episodes and previous series [here](/podcast/).*
 
 ![Mara is a young white woman with light coloured hair, picture on a sailing boat on the ocean. There are others on the sailing ship slightly out of shot.](/images/uploads/10oct_episode_blog.jpg "Mara de Pater during the Sail to the COP journey in 2019")
 
 ## COP26 is the United Nations climate summit taking place in Glasgow from 31 October.
 
-### In this episode we find out more about the COP and speak to Mara de Pater from [Rail to the COP](https://railtothecop.com/), a campaign that brings together policy makers, experts and young people to accelerate the transition to a more sustainable travel industry. 
+### In this episode we find out more about the COP and speak to Mara de Pater from [Rail to the COP](https://railtothecop.com/), a campaign that brings together policy makers, experts and young people to accelerate the transition to a more sustainable travel industry.
 
 #### Rail to the COP is organising a Climate Train from Amsterdam to Glasgow on 30 October. 
 
@@ -136,6 +136,8 @@ Yes, but the COP and the outcomes of these agreements are the framework on which
 
 For Destination of the Month, the team chose two places that are within easy reach of the city. Maggie chose sailing down the River Clyde to old-fashioned seaside resorts on the paddle steamer Waverley.  Bertie chose New Lanark, an eighteenth century cotton-spinning village on the Clyde, which is a World Heritage Site. 
 
-#### Thank you once again to Mara de Pater for speaking to us. For more information about the Rail to the COP or to donate to their campaign, visit their website [here](https://railtothecop.com/).
+#### Thank you once again to Mara de Pater for speaking to us. For more information about the Rail to the COP or to donate to their campaign, visit their website [here](https://railtothecop.com/). 
+
+#### *You can listen to the full episode [here](https://www.podbean.com/media/share/pb-9k2mf-1108d5e) and find other episodes and previous series [here](/podcast/).*
 
 *Voiceover: [L. Sophie Helbig](https://lshelbig.com/main/). Soundtrack: [Chasing Balloons by Yeti Music](https://uppbeat.io/track/yeti-music/chasing-balloons).*
