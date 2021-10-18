@@ -58,6 +58,8 @@ The COP is mainly for the countries to negotiate a new climate agreement. Why do
 
 It’s important that the conference is open and transparent, and that societal groups such as NGOs can be at the conference not only to observe what is going on but also push for more ambitious climate goals. That’s especially important because there will be a lot of people there lobbying for the fossil fuel industry or the aviation industry. It’s important to balance their voices out with voices that have the common good in mind.  
 
+> "It’s important the conference is open and transparent, and NGOs can be at the conference to observe what is going on but push for more ambitious climate goals."
+
 It’s especially important for youth to join these conferences, and people from regions that are already affected by climate change, to show world leaders that policies need to be made for them. 
 
 #### Flight Free UK
@@ -78,6 +80,8 @@ We want our politicians to lead by example, to show through their actions that t
 
 That’s one of the reasons why, with Rail to the COP, we’ve invited politicians and national delegates to join the train, so they have an easy opportunity to lead by example, and also show others in government, or other policy makers, or just the public in general, that they are willing to change their behaviours. The delegations of Belgium, the Netherlands and Germany are joining the train. I know that most politicians will be joining the COP in the second week, and as our train leaves just before the first week, they won’t be able to travel on our train. Hopefully they will still be travelling by train. 
 
+> "We’ve invited politicians and national delegates to join the train, so they can lead by example and show others they are willing to change their behaviours."
+
 #### Flight Free UK
 
 Could you tell us a bit more about the Climate Train itself? What was the motivation behind it and how are people getting involved?
@@ -85,6 +89,8 @@ Could you tell us a bit more about the Climate Train itself? What was the motiva
 #### Mara
 
 One of the reasons is to get people to the COP sustainably. Another is that we really want to build connections between youth activists, experts and policy makers, and a train is a very informal setting where people can sit together and have a conversation. We are organising a programme with a lot of workshops and dialogues during the train ride to really foster that connection between the different groups.  We hope that the connection will last during the COP as well, and also afterwards. We want to make these groups more aware of the different perspectives on sustainable travel. We also want to collect all of the outcomes of these conversations to present them at the COP. 
+
+> "We want to build connections between youth activists and experts, and a train is a very informal setting where people can have a conversation. We are organising a programme with workshops and dialogues to foster that connection "
 
 #### Flight Free UK
 
@@ -100,7 +106,9 @@ To follow on from that, what do you hope the outcome of COP26 will be?
 
 #### Mara
 
-I’m a little bit pessimistic at this point. I would be very happy if, at the COP, it’s going to be less talking about very tiny details. That is what frustrates me the most, that it’s just talking, talking, talking, and nothing really happens. It seems that these negotiators have no clue that the world is on fire, or almost on fire. So I hope that the COP itself will be more meaningful. Not so focussed on the bureaucratic details. I mainly hope that we are able to raise the ambition, and also that the public is more aware of the need for urgent action. 
+I’m a little bit pessimistic at this point. I would be very happy if, at the COP, it’s going to be less talking about very tiny details. That is what frustrates me the most, that it’s just talking, talking, talking, and nothing really happens. It seems that these negotiators have no clue that the world is on fire, or almost on fire. So I hope that the COP itself will be more meaningful. Not so focussed on the bureaucratic details. I mainly hope that we are able to raise the ambition, and also that the public is more aware of the need for urgent action.
+
+> "I hope that the COP itself will be more meaningful. Not so focussed on the bureaucratic details. I hope we are able to raise the ambition, and that the public is more aware of the need for urgent action."
 
 #### Flight Free UK
 
