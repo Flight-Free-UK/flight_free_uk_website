@@ -2,7 +2,7 @@
 published: true
 title: "2021 podcast series: COP26"
 category: climate
-date: 2021-10-13T21:33:50.564Z
+date: 2021-10-18T10:58:30.389Z
 cover_image: /images/uploads/10oct_episode_thumbnail.jpg
 summary: Activist Mara de Pater joins us to talk about the upcoming climate
   conference COP26 and the campaign Rail to the COP.
