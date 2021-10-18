@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "2021 podcast series: COP26"
 category: climate
 date: 2021-10-13T21:33:50.564Z
@@ -9,11 +9,11 @@ summary: Activist Mara de Pater joins us to talk about the upcoming climate
 author: FlightFree UK
 read_time_minute: 7
 ---
-*This is episode 10 of our 2021 podcast series. Listen to the episode here and find other episodes and previous series here.*
+*This is episode 10 of our 2021 podcast series. Listen to the episode [here ](https://www.podbean.com/ew/pb-9k2mf-1108d5e)and find other episodes and previous series [here](/podcast/).*
 
-![](/images/uploads/10oct_episode_blog.jpg)
+![Mara is wearing a white patterend top with shoulder length wavy hair, smiling sitting on a boat looking slightly off shot.](/images/uploads/10oct_episode_blog.jpg)
 
-## COP26 is the United Nations climate summit taking place in Glasgow from 31 October. 
+## COP26 is the United Nations climate summit taking place in Glasgow from 31 October.
 
 ### In this episode we find out more about the COP and speak to Mara de Pater from [Rail to the COP](https://railtothecop.com/), a campaign that brings together policy makers, experts and young people to accelerate the transition to a more sustainable travel industry. Rail to the COP is organising a Climate Train from Amsterdam to Glasgow on 30 October. 
 
