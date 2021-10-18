@@ -15,7 +15,9 @@ read_time_minute: 7
 
 ## COP26 is the United Nations climate summit taking place in Glasgow from 31 October.
 
-### In this episode we find out more about the COP and speak to Mara de Pater from [Rail to the COP](https://railtothecop.com/), a campaign that brings together policy makers, experts and young people to accelerate the transition to a more sustainable travel industry. Rail to the COP is organising a Climate Train from Amsterdam to Glasgow on 30 October. 
+### In this episode we find out more about the COP and speak to Mara de Pater from [Rail to the COP](https://railtothecop.com/), a campaign that brings together policy makers, experts and young people to accelerate the transition to a more sustainable travel industry. 
+
+#### Rail to the COP is organising a Climate Train from Amsterdam to Glasgow on 30 October. 
 
 COP26 is the 26th United Nations Climate Change Conference. Representatives from all around the world will attend in order to discuss and agree on coordinated action to tackle climate change.
 
@@ -50,7 +52,9 @@ Could you remind us what happened? Where were you sailing and what happened?
 
 #### Mara
 
-The idea was to get to COP25 in Chile, by sailing ship. We started in Amsterdam. It was a pretty long journey, but half way through we heard that Chile wasn’t going to host the COP any more due to social unrest in the country, and that it was going to be moved to Madrid. We weren’t going to be able to turn around and get to Madrid in time so we started calling for people that were in Europe to change their flight tickets for Chile to train tickets for Madrid. We also called for as many youth as possible to get to Madrid and demand ambitious climate goals, and we asked them to travel sustainably by train or by bus. That’s where the idea of Rail to the COP started. 
+The idea was to get to COP25 in Chile, by sailing ship. We started in Amsterdam. It was a pretty long journey, but half way through we heard that Chile wasn’t going to host the COP any more due to social unrest in the country, and that it was going to be moved to Madrid. 
+
+We weren’t going to be able to turn around and get to Madrid in time so we started calling for people that were in Europe to change their flight tickets for Chile to train tickets for Madrid. We also called for as many youth as possible to get to Madrid and demand ambitious climate goals, and we asked them to travel sustainably by train or by bus. That’s where the idea of Rail to the COP started. 
 
 #### Flight Free UK
 
@@ -60,7 +64,7 @@ The COP is mainly for the countries to negotiate a new climate agreement. Why do
 
 It’s important that the conference is open and transparent, and that societal groups such as NGOs can be at the conference not only to observe what is going on but also push for more ambitious climate goals. That’s especially important because there will be a lot of people there lobbying for the fossil fuel industry or the aviation industry. It’s important to balance their voices out with voices that have the common good in mind.  
 
-> "It’s important the conference is open and transparent, and NGOs can be at the conference to observe what is going on but push for more ambitious climate goals."
+> "It’s important the conference is open and transparent, and that societal group can be there to push for more ambitious climate goals."
 
 It’s especially important for youth to join these conferences, and people from regions that are already affected by climate change, to show world leaders that policies need to be made for them. 
 
