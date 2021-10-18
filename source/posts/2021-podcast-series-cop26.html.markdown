@@ -11,7 +11,7 @@ read_time_minute: 7
 ---
 *This is episode 10 of our 2021 podcast series. Listen to the episode [here ](https://www.podbean.com/ew/pb-9k2mf-1108d5e)and find other episodes and previous series [here](/podcast/).*
 
-![Mara is wearing a white patterend top with shoulder length wavy hair, smiling sitting on a boat looking slightly off shot.](/images/uploads/10oct_episode_blog.jpg)
+![Mara is a young white woman with light coloured hair, picture on a sailing boat on the ocean. There are others on the sailing ship slightly out of shot.](/images/uploads/10oct_episode_blog.jpg "Mara de Pater during the Sail to the COP journey in 2019")
 
 ## COP26 is the United Nations climate summit taking place in Glasgow from 31 October.
 
