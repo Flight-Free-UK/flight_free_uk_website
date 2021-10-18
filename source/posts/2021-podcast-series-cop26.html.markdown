@@ -76,7 +76,7 @@ How do you feel about the fact that so many people will be flying into Glasgow t
 
 I have mixed feelings. On the one hand I think it’s important for anyone to be able to join such a conference, especially those that are living in regions that are threatened by climate change. So I think it's fair if they fly into these conferences. 
 
-But I do think we have to find ways to limit those flights. One option is to ask everyone that comes from the continent where the conference is being held to not fly. Another is to move more of the meetings online.  But I think even in an ideal world we will still have some people flying around for important conferences like these, and that’s just a reality that we have to live in.
+But I do think we have to find ways to limit those flights. One option is to ask everyone that comes from the continent where the conference is being held to not fly. Another is to move more of the meetings online. But I think even in an ideal world we will still have some people flying around for important conferences like these, and that’s just a reality that we have to live in.
 
 ### Flight Free UK
 
@@ -136,7 +136,7 @@ Yes, but the COP and the outcomes of these agreements are the framework on which
 
 For Destination of the Month, the team chose two places that are within easy reach of the city. Maggie chose sailing down the River Clyde to old-fashioned seaside resorts on the paddle steamer Waverley.  Bertie chose New Lanark, an eighteenth century cotton-spinning village on the Clyde, which is a World Heritage Site. 
 
-#### Thank you once again to Mara de Pater for speaking to us. For more information about the Rail to the COP or to donate to their campaign, visit their website [here](https://railtothecop.com/). 
+#### Thank you once again to Mara de Pater for speaking to us. For more information about the Rail to the COP or to donate to their campaign, visit their website [here](https://railtothecop.com/).
 
 #### *You can listen to the full episode [here](https://www.podbean.com/media/share/pb-9k2mf-1108d5e) and find other episodes and previous series [here](/podcast/).*
 
