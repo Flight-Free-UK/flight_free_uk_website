@@ -41,4 +41,4 @@ There are a raft of measures that [we repeatedly call for](https://flightfree.co
 
 In a publicity stunt, world leaders will fly home with tanks ‘full of SAF’. SAF, or sustainable aviation fuel, is the government’s preferred course of action because it can promise emissions reduction of up to 70% without having to talk about behaviour change. But with the maximum certifiable mix of SAF to kerosene at only 50%, and currently much lower, [in reality the savings are likely to be a lot less](https://flightfree.co.uk/post/the-trouble-with-saf/).
 
-This is the time for world leaders to make meaningful decisions that will keep a liveable planet for future generations, not to keep on pedalling the same old greenwash. The window of opportunity is closing. Let’s not miss it.
+This is the time for world leaders to make meaningful decisions that will keep a liveable planet for future generations, not to keep on pedalling the same old greenwash. We need the government to stop pretending the UK is a climate leader and put in place policies that will actually make a meaningful reduction in emissions, fast. The window of opportunity is closing. Let’s not miss it.
