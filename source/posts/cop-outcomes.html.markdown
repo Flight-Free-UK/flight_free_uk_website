@@ -33,12 +33,20 @@ Now the delayed conference is happening in person, there will of course be peopl
 
 This makes it even more disappointing that our own leaders are travelling by air. The distance between London and Glasgow is a mere 400 miles. Trains depart hourly between the two destinations; a [recent race staged by the Campaign for Better Transport](https://bettertransport.org.uk/blog/better-transport/domestic-flights-are-climate-disaster-we-need-trainnotplane) showed there was no time advantage to flying. Some climate activists are even [cycling the distance](https://httpspeoplepeddlepower.wordpress.com/). A typical short journey by private jet emits seven times more greenhouse gases than the same journey made on a scheduled flight in business class, and up to 150 times more than the same journey by rail.
 
+> "A typical short journey by private jet emits 150 times more than the same journey by rail."
+
 It’s likely that we'll be disappointed by the outcomes of the conference. Johnson tells us that [Jet Zero](https://flightfree.co.uk/post/whats-wrong-with-jet-zero/) means that we don't have to worry about aviation emissions; they can be addressed with technology and offsetting. Government ministers are unashamedly dismissive of the need for demand reduction. They clearly state that they don’t want to control how people live their lives, and that “[flights make life worth living](https://flightfree.co.uk/post/trains-not-planes-an-open-letter-to-the-minister-for-future-transport/).” 
 
 It’s hard to tell families who cannot put food on the table, or whose lives are blighted by aircraft noise and pollution, that it’s flights that make life worth living. In any case, unpopular politically as it may be, the difficult truth is that we will have to change *everything* about the way we live in order to deal with the climate crisis. 
 
-There are a raft of measures that [we repeatedly call for](https://flightfree.co.uk/post/what-should-the-government-do/): carbon labelling on transport tickets; a tax on aviation fuel; a moratorium on airport expansion; a frequent flyer levy; the cancellation of flight routes where a viable alternative exists. These measures would be consistent with the climate advice repeatedly given by the IPCC and the Committee on Climate Change. The government thinks we can fly carbon neutral by 2050, but that simply won’t happen if we allow demand to keep on rising. 
+There are a raft of measures that [we repeatedly call for](https://flightfree.co.uk/post/what-should-the-government-do/): carbon labelling on transport tickets; a tax on aviation fuel; a moratorium on airport expansion; a frequent flyer levy; the cancellation of flight routes where a viable alternative exists. These measures would be consistent with the climate advice repeatedly given by the IPCC and the Committee on Climate Change. The government thinks we can fly carbon neutral by 2050, but that simply won’t happen if we allow demand to keep on rising.
+
+> "The government thinks we can fly carbon neutral by 2050, but that simply won’t happen if we allow demand to keep on rising." 
 
 In a publicity stunt, world leaders will fly home with tanks ‘full of SAF’. SAF, or sustainable aviation fuel, is the government’s preferred course of action because it can promise emissions reduction of up to 70% without having to talk about behaviour change. But with the maximum certifiable mix of SAF to kerosene at only 50%, [in reality the savings are likely to be a lot less](https://flightfree.co.uk/post/the-trouble-with-saf/).
 
-This is the time for world leaders to make meaningful decisions that will keep a liveable planet for future generations, not to keep on pedalling the same old greenwash. We need the government to stop pretending the UK is a climate leader and put in place policies that will actually make a meaningful reduction in emissions, fast. The window of opportunity is closing. Let’s not miss it.
+This is the time for world leaders to make meaningful decisions that will keep a liveable planet for future generations, not to keep on pedalling the same old greenwash. 
+
+### We need the government to stop pretending the UK is a climate leader and put in place policies that will actually make a meaningful and rapid reduction in emissions. 
+
+### The window of opportunity is closing. Let’s not miss it.
