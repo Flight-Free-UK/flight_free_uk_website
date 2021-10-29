@@ -31,9 +31,9 @@ Now the delayed conference is happening in person, there will of course be peopl
 
 > "For those who are attending from the continent where the conference is taking place, there is no excuse for not travelling overland." 
 
-This makes it even more disappointing that our own leaders are travelling by air. The distance between London and Glasgow is a mere 400 miles. Trains depart hourly between the two destinations; a [recent race staged by the Campaign for Better Transport](https://bettertransport.org.uk/blog/better-transport/domestic-flights-are-climate-disaster-we-need-trainnotplane) showed there was no time advantage to flying. Some climate activists are even [cycling the distance](https://httpspeoplepeddlepower.wordpress.com/). A typical short journey by private jet emits seven times more greenhouse gases than the same journey made on a scheduled flight in business class, and up to 150 times more than the same journey by rail.
+This makes it even more disappointing that our own leaders are travelling by air. The distance between London and Glasgow is a mere 400 miles. Trains depart hourly between the two destinations; a [recent race staged by the Campaign for Better Transport](https://bettertransport.org.uk/blog/better-transport/domestic-flights-are-climate-disaster-we-need-trainnotplane) showed there was no time advantage to flying. Some climate activists are even [cycling the distance](https://httpspeoplepeddlepower.wordpress.com/). A typical short journey by private jet emits seven times more greenhouse gases than the same journey made on a scheduled flight in business class, and up to 50 times more than the same journey by rail.
 
-> "A typical short journey by private jet emits 150 times more than the same journey by rail."
+> "A typical short journey by private jet emits 50 times more than the same journey by rail."
 
 It’s likely that we'll be disappointed by the outcomes of the conference. Johnson tells us that [Jet Zero](https://flightfree.co.uk/post/whats-wrong-with-jet-zero/) means that we don't have to worry about aviation emissions; they can be addressed with technology and offsetting. Government ministers are unashamedly dismissive of the need for demand reduction. They clearly state that they don’t want to control how people live their lives, and that “[flights make life worth living](https://flightfree.co.uk/post/trains-not-planes-an-open-letter-to-the-minister-for-future-transport/).” 
 
@@ -47,6 +47,6 @@ In a publicity stunt, world leaders will fly home with tanks ‘full of SAF’. 
 
 This is the time for world leaders to make meaningful decisions that will keep a liveable planet for future generations, not to keep on pedalling the same old greenwash. 
 
-### We need the government to stop pretending the UK is a climate leader and put in place policies that will actually make a meaningful and rapid reduction in emissions. 
+### We need the government to stop pretending the UK is a climate leader and put in place policies that will actually make a meaningful and rapid reduction in emissions.
 
 ### The window of opportunity is closing. Let’s not miss it.
