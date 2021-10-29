@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: What do we want from the COP?
 category: opinion
 date: 2021-10-29T15:12:03.438Z
-cover_image: /images/uploads/10oct_episode_blog.jpg
+cover_image: /images/uploads/glasgow.jpg
 summary: With the climate change Conference of Parties starting this weekend in
   Glasgow, we ask what action is needed to tackle our rising emissions.
 author: FlightFree UK
