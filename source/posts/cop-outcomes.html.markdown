@@ -12,7 +12,7 @@ Last year we hosted an event, A Flight Free COP?, asking if it were possible, or
 
 After COP21 in Paris, the agreement was that every five years there would be a re-evaluation of how we were doing. World leaders were geared up to descend on Glasgow in 2020 to measure our progress against the promises made in Paris and make new promises to set our collective emissions on course for no more than 1.5ºC of warming. But Covid hit, and the talks were postponed.
 
-There are many compelling and sensible reasons to rearrange a conference because of a global pandemic. But it can’t be forgotten that the climate crisis is still progressing, and continues to do so regardless of Covid. The pacts made at Paris need to be scrutinised and updated, urgently. 
+There are many compelling and sensible reasons to rearrange a conference because of a global pandemic. But it can’t be forgotten that the climate crisis is still progressing and continues to do so regardless of Covid. The pacts made at Paris need to be scrutinised and updated, urgently. 
 
 Youth climate campaigners felt so strongly about this that they staged a Mock COP: a virtual conference in the place of what would have been COP26. Campaigners around the world called on world leaders to meet online in lieu of real-world meetings in order to progress talks on arguably the most pressing and time-sensitive issue of our time.
 
