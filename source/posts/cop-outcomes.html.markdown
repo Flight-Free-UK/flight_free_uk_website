@@ -20,7 +20,7 @@ There could have been many advantages to holding COP26 online in 2020, not least
 
 Of course, this is not an ideal solution in all circumstances: for poorer nations with limited internet capacity, connection issues could prevent meaningful involvement in negotiations, and it is vital that we hear their voices. 
 
-Perhaps the most powerful part of a no-fly conference is the message it sends. Showing leadership in low-carbon behaviours is one of the most powerful things we can do to affect change. It shows we truly understand the climate emergency and are prepared to do whatever it takes to solve it.
+Perhaps the most powerful part of a no-fly conference is the message it sends. Showing leadership in low-carbon behaviours is one of the most impactful things we can do to affect change. It shows we truly understand the climate emergency and are prepared to do whatever it takes to solve it.
 
 Now the delayed conference is happening in person, there will of course be people attending by plane from all over the world, many of whom cannot realistically get there without flying. But for those who are attending from the continent where the conference is taking place, there is no excuse for not travelling overland. Campaign group Rail to the COP is organising a Climate Train and is encouraging those delegations who are within rail distance of Glasgow to attend by train. 
 
