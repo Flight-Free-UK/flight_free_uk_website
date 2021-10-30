@@ -9,6 +9,8 @@ summary: With the climate change Conference of Parties starting this weekend in
 author: FlightFree UK
 read_time_minute: 4
 ---
+![Image shows the river Clyde in Glasgow with an arch bridge going across, and industrial buildings on either side.](/images/uploads/glasgow.jpg "The River Clyde in Glasgow, where COP26 is taking place")
+
 ### Last year we hosted an event, A Flight Free COP?, asking if it were possible, or feasible, or even desirable, to stage a no-fly climate conference. This was after COP26 had been cancelled because of Covid. 
 
 After COP21 in Paris, the agreement was that every five years there would be a re-evaluation of how we were doing. World leaders were geared up to descend on Glasgow in 2020 to measure our progress against the promises made in Paris, then make new promises to set our collective emissions on course for no more than 1.5ºC of warming. But Covid hit, and the talks were postponed.
