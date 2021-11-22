@@ -146,13 +146,15 @@ Optimism is the only way, I think. As a young person I get called naive. Honestl
 
 Being a climate optimist means that we need to be creative enough to imagine a world that’s more compatible with what is sustainable. The world that I imagine and want to live in is full of nature clubs like what we did! I always tell everyone, ‘Be a climate optimist,’ because that is the best action you can take. 
 
+> "Being a climate optimist means that we need to be creative enough to imagine a world that’s more compatible with what is sustainable."
+
 ### Flight Free UK
 
 And the Newtown Nature Club brought you together with your neighbours. What was that like?
 
 ### Hemlata
 
-When I walk down to the shops and see a parent of someone who attended the club, or a child who attended, I get that feeling of, ‘I belong in this community,’ which then extends to ‘I belong in this world,’ which extends to ‘I should take care of it.’ It’s very natural and very organic. So I do think that everyone should try and have that aspect of community in their climate action. 
+When I walk down to the shops and see a parent of someone who attended the club, or a child who attended, I get that feeling of, ‘I belong in this community,’ which then extends to ‘I belong in this world,’ which extends to, ‘I should take care of it.’ It’s very natural and very organic. So I do think that everyone should try and have that aspect of community in their climate action. 
 
 ### Flight Free UK
 
@@ -169,6 +171,8 @@ Where did you learn your gardening skills?
 ### Hemlata
 
 My parents. My family is from Nepal. Before we moved into this house, our garden wasn’t as big. We had one tomato plant in a pot on a balcony – I remember the smell of it so strongly. I think the caring and nurturing of it is what stuck with me. It is the biggest healer of my eco anxiety, watching something grow and nurturing it. If anyone is feeling eco anxious, try and do that. 
+
+> "It is the biggest healer of my eco anxiety, watching something grow and nurturing it. If anyone is feeling eco anxious, try and do that." 
 
 ### Flight Free UK
 
