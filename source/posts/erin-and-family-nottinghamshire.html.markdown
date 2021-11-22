@@ -4,9 +4,9 @@ title: "Flight free in 2022: Erin and family, Nottinghamshire"
 category: testimonials
 date: 2021-10-18T17:49:33.536Z
 cover_image: /images/uploads/erin_baker_family.jpg
-summary: Not flying this year, or next year, or maybe ever, is one of those
+summary: "\"Not flying this year, or next year, or maybe ever, is one of those
   choices for our family. It's one way for us to be part of the solution to
-  climate change and not part of the problem.
+  climate change and not part of the problem.\""
 author: FlightFree UK
 read_time_minute: 3
 ---
