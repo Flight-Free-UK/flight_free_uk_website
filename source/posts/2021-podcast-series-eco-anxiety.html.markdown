@@ -2,7 +2,7 @@
 published: true
 title: "2021 podcast series: Eco Anxiety"
 category: climate
-date: 2021-11-22T11:24:14.971Z
+date: 2021-11-17T11:24:14.971Z
 cover_image: /images/uploads/11nov_podcast_thumbnail.jpg
 summary: Climate activist and mental health advocate Tori Tsui, joins Hemlata
   Pant, founder of the Newtown Nature Club in Bristol, to talk to us about
