@@ -186,7 +186,7 @@ Bertie chooses Pen Ponds in Richmond Park in South West London. Maggie chooses t
 
 #### Thanks to our guests Tori Tsui and Hemlata Pant. You can find out more about Tori [at her website](https://www.toritsui.com/), and you can see more from Hemlata[ on Instagram](https://www.instagram.com/newtown.natureclub/).
 
-Join us next month for the final podcast in our 2021 series where we will be looking back over 2021.
+Join us next month for the final podcast in our 2021 series where we will be looking back over the year.
 
 #### *You can listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021-series-eco-anxiety/) and find other episodes and previous series [here](/podcast/).*
 
