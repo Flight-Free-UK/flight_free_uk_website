@@ -26,9 +26,11 @@ This month’s episode is about climate anxiety. Our guests are climate activist
 
 People often take the flight free pledge as a way of dealing with their own eco-anxiety. Our team member Tamsin says, 
 
-*Eco-anxiety seems to be something that more and more of us are battling with, myself included. It is easy to become bogged down in doom and gloom when it comes to climate change, especially when there seems to be increasing amounts of devastating climate disasters happening all across the globe.*
+*"Eco-anxiety seems to be something that more and more of us are battling with, myself included. It is easy to become bogged down in doom and gloom when it comes to climate change, especially when there seems to be increasing amounts of devastating climate disasters happening all across the globe.*
 
-*This is why I have decided to sign the Flight Free pledge. By making an individual stance alongside thousands of like-minded people who are also worried about the effects of climate change, signing the pledge feels like a step towards hope and a better future for our planet.*
+> "Eco-anxiety seems to be something that more and more of us are battling with, myself included. This is why I have decided to sign the Flight Free pledge."
+
+*"This is why I have decided to sign the Flight Free pledge. By making an individual stance alongside thousands of like-minded people who are also worried about the effects of climate change, signing the pledge feels like a step towards hope and a better future for our planet."*
 
 Our first guest on the podcast is Tori Tsui, the co-founder of [The Bad Activist Collective](https://www.badactivistcollective.com/) and author of It’s Not Just You, which explores the relationship between mental health and the climate crisis.
 
