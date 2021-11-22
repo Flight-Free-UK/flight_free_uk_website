@@ -184,7 +184,7 @@ This month we choose places where you can find peace and quiet and headspace, in
 
 Bertie chooses Pen Ponds in Richmond Park in South West London. Maggie chooses the Water of Leith in Edinburgh.
 
-#### Thanks to our guests Tori Tsui and Hemlata Pant. You can find out more about Tori [at her website](https://www.toritsui.com/), and you can see Hemlata's Instagram page [here](https://www.instagram.com/newtown.natureclub/).
+#### Thanks to our guests Tori Tsui and Hemlata Pant. You can find out more about Tori [at her website](https://www.toritsui.com/), and you can see more from Hemlata[ on Instagram](https://www.instagram.com/newtown.natureclub/).
 
 Join us next month for the final podcast in our 2021 series where we will be looking back over 2021.
 
