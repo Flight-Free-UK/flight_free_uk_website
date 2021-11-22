@@ -40,6 +40,8 @@ Tori, could you introduce yourself and tell us about the work that you do?
 
 I’m a climate justice organiser. I mobilise people, work in community spaces, work with different change makers, and build coalitions. I talk a lot about mental health specifically with regards to the climate crisis. I know that eco anxiety is a really big buzzword that gets thrown around, but I try to unpack what that means, and dismantle some of the misconceptions that are associated with mental health and the climate crisis. 
 
+> "Eco anxiety is a really big buzzword that gets thrown around, but I try to unpack what that means."
+
 A lot of people fixate on fear of the future, but actually a lot of people are fearful now, and have been fearful for a very long time. So it’s about understanding the timescales that it incorporates and understanding that we have very personal and individual experiences. 
 
 ### Flight Free UK
@@ -53,6 +55,8 @@ It first became mainstream in the media with the rise of Extinction Rebellion. T
 It’s only really in the last few years that I’ve unpacked what that actually means. It goes so much deeper than the physical manifestations of a dying planet: we’re talking about a system that has prioritised profits over people’s wellbeing. So I try and think about it more holistically. I’ve adopted my own term for it, which is \[environ]mental health.
 
 For activists, there’s a need to work as hard as they can, to go as fast as they can. Sustainability to me is a mindset. It’s not just about greening your life, it’s about finding ways to make this work long term. 
+
+> "Sustainability is not just about greening your life, it’s about finding ways to make this work long term." 
 
 ### Flight Free UK
 
@@ -78,7 +82,9 @@ Do you find that talking about your anxiety helps?
 
 ### Tori
 
-Yes, definitely. Talking about it is a form of therapy. When you talk about these things you give people permission and the courage to admit that they are also struggling. A lot of people struggle in silence. I’ve always been very vocal about my mental health struggles, from quite a young age. Every time I spoke about these things, people would say, ‘Thank you so much for speaking out, because I just didn’t have the courage or I didn't think I could find the words to describe what I was going through.’ 
+Yes, definitely. Talking about it is a form of therapy. When you talk about these things you give people permission and the courage to admit that they are also struggling. A lot of people struggle in silence. 
+
+I’ve always been very vocal about my mental health struggles, from quite a young age. Every time I spoke about these things, people would say, ‘Thank you so much for speaking out, because I just didn’t have the courage or I didn't think I could find the words to describe what I was going through.’ 
 
 ### Flight Free UK
 
@@ -86,7 +92,9 @@ Why did you feel it was important to write a book on the topic of climate anxiet
 
 ### Tori
 
-I saw it routinely misrepresented in the media, and the conversations that were being had centred on people in the global north. I didn’t feel that the discourse around eco anxiety was reflective of some of the nuances involved. One of my friends from Colombia, where it is the most dangerous place to be an environmental defender, said, ‘We don’t really have a term for eco anxiety. We don’t really talk about that because our most proximal fear is actually being killed by police, and being branded terrorists and enemies of the state.’
+I saw it routinely misrepresented in the media, and the conversations that were being had centred on people in the global north. I didn’t feel that the discourse around eco anxiety was reflective of some of the nuances involved. 
+
+One of my friends from Colombia, where it is the most dangerous place to be an environmental defender, said, ‘We don’t really have a term for eco anxiety. We don’t really talk about that because our most proximal fear is actually being killed by police, and being branded terrorists and enemies of the state.’
 
 It’s hard to pry apart these emotions: feeling anxious about the future, feeling anxious about the climate crisis, and not thinking about how the systems of oppression that exist come into play. 
 
@@ -110,13 +118,15 @@ I can’t imagine what it would have been like for me if I hadn’t been allowed
 
 Eco anxiety is linked to your physical health, and you get more oxygen when you are outside, so it just feels so much better. 
 
+> "Eco anxiety is linked to your physical health, and you get more oxygen when you are outside, so it just feels so much better." 
+
 ### Flight Free UK
 
 So when did you first come across the term eco anxiety? What does it mean to you?
 
 ### Hemlata
 
-Two summers ago, I did not know that much about the environment, and I was attending webinars with Action for Conservation \[https://www.actionforconservation.org]. They introduced me to this concept. As a young person, when you feel emotions so strongly, it’s hard not to feel overwhelmed and feel really distressed.
+Two summers ago, I did not know that much about the environment, and I was attending webinars with [Action for Conservation](https://www.actionforconservation.org). They introduced me to this concept. As a young person, when you feel emotions so strongly, it’s hard not to feel overwhelmed and feel really distressed.
 
 ### Flight Free UK
 
