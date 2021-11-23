@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight free in 2022: Erin and Family"
+title: "Flight free in 2022: Erin and family"
 category: testimonials
 date: 2021-10-21T17:49:33.536Z
 cover_image: /images/uploads/erin_baker_family.jpg
@@ -18,4 +18,4 @@ Climate change can seem far off so we can find it hard to feel a personal respon
 
 Once you've made that choice it opens up all the joyful local opportunities. We've embraced camping and going to friends and families for holidays. I've had people comment on what our kids might miss out on by not flying but I have learnt that putting "holiday" in front of any kind of trip = holiday to them. I don't think they are missing out. Maybe once they are older we'll feel the need to get them abroad to widen their horizons but there's always boats! 
 
-We'll be staying flight free for the foreseeable future as part of our commitment to live more sustainably. Thanks to the Flight Free UK team for encouraging us
+We'll be staying flight free for the foreseeable future as part of our commitment to live more sustainably. Thanks to the Flight Free UK team for encouraging us.
