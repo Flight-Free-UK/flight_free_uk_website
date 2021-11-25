@@ -4,8 +4,8 @@ title: "2021 podcast series: Behaviour change"
 category: opinion
 date: 2021-04-26T11:25:49.267Z
 cover_image: /images/uploads/04-2021_podcast_website_thumbnail.jpg
-summary: Toni Vernelli from the Veganuary campaign shares her insights into how
-  behaviour change works.
+summary: "Toni Vernelli from the Veganuary campaign shares her insights into how
+  behaviour change works. "
 author: FlightFree UK
 read_time_minute: 5
 ---
