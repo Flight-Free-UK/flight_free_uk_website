@@ -3,7 +3,7 @@ published: true
 title: "#FlightFree2020 podcast episode 2: skiing by train"
 category: travel
 date: 2020-02-04T14:23:39.820Z
-cover_image: /images/uploads/danielelkan.jpg
+cover_image: /images/uploads/danielelkan-lg.jpg
 summary: In the second episode of our 2020 podcast series we talk to SnowCarbon
   founder Daniel Elkan about why travelling to the slopes by train is always
   better than flying
@@ -12,7 +12,7 @@ read_time_minute: 7
 ---
 ### This podcast is episode 2 of our #FlightFree2020 series. You can listen to the podcast [here](https://www.podbean.com/media/share/pb-bshpw-d2328c?utm_campaign=u_share_ep&utm_medium=dlink&utm_source=u_share), and access the rest of the series at our [podcast page.](https://flightfree.co.uk/podcast/)
 
-![Picture shows Daniel smiling at the camera wearing a bright blue ski coat. In the background is a blurred wood chalet, along a snowy and sunny mountain view. ](/images/uploads/danielelkan.jpg "Daniel Elkan, in his element")
+![Picture shows Daniel smiling at the camera wearing a bright blue ski coat. In the background is a blurred wood chalet, along a snowy and sunny mountain view. ](/images/uploads/danielelkan-lg.jpg "Daniel Elkan, in his element")
 
 ***This is the transcript of our conversation with ski journalist Daniel Elkan about the benefit of travelling by train.*** 
 
