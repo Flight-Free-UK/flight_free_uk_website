@@ -1,6 +1,6 @@
 ---
 published: true
-title: "#FlightFree2020 podcast episode 5: carbon offsets and green technology"
+title: "2020 podcast episode 5: carbon offsets and green technology"
 category: climate
 date: 2020-05-07T14:35:11.333Z
 cover_image: /images/uploads/trees-planting.jpg
