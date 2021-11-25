@@ -3,7 +3,7 @@ published: true
 title: "#FlightFree2020 podcast episode 5: carbon offsets and green technology"
 category: climate
 date: 2020-05-07T14:35:11.333Z
-cover_image: /images/uploads/palm_oil.jpg
+cover_image: /images/uploads/trees-planting.jpg
 summary: We talk to Dr Roger Tyers from the University of Southampton about the
   viability of carbon offsetting and green technology in reducing emissions from
   aviation.
@@ -11,8 +11,6 @@ author: FlightFree UK
 read_time_minute: 8
 ---
 ## This podcast is episode 5 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
-
-![Picture shows a crop of growing palms for palm oil production. The trees are growing in neat artificial lines and there are no other plants in sight. They are bright green and the sun is shining on some of the tips. ](/images/uploads/palm-800x450.jpg)
 
 This month’s podcast is on the subject of carbon offsets and green technology and we’re talking to Roger Tyers, a research doctorate at Southampton university. Roger has written a few articles for us in the past: [The Truth about Carbon Offsets](https://flightfree.co.uk/post/the-truth-about-carbon-offsets/), [What the Aviation Industry Really Thinks About Climate Change](https://flightfree.co.uk/post/behind-the-veil-what-the-aviation-industry-really-thinks-about-climate-change/), and [Long Train to China](https://flightfree.co.uk/post/long-train-to-china/). We met up with Roger at the British Library, so while you might imagine the library is impeccably silent, there’s occasionally some background noise.
 
