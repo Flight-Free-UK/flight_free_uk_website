@@ -3,7 +3,7 @@ published: true
 title: "2021 podcast series: Activism"
 category: opinion
 date: 2021-05-10T10:57:15.144Z
-cover_image: /images/uploads/05may_episode_thumbnail.jpg
+cover_image: /images/uploads/05-2021_podcast_thumbnail.jpg
 summary: Sel from Grow Heathrow, Ian from GALBA and Alice from Sky Rebellion
   talk to us about their experiences as aviation activists.
 author: FlightFree UK
