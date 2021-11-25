@@ -3,7 +3,7 @@ published: true
 title: "2021 podcast series: Family and friends"
 category: opinion
 date: 2021-06-14T14:56:22.415Z
-cover_image: /images/uploads/06june_episode_thumbnail.jpg
+cover_image: /images/uploads/06-2021_podcast_thumbnail.jpg
 summary: Flying to see friends and family makes up a quarter of flights from the
   UK. We speak to three people with family overseas to explore some of the
   considerations.
