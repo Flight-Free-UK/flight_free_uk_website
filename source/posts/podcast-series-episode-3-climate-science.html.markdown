@@ -1,6 +1,6 @@
 ---
 published: true
-title: "#FlightFree2020 podcast episode 3: climate science"
+title: "2020 podcast episode 3: climate science"
 category: climate
 date: 2020-03-03T21:13:46.479Z
 cover_image: /images/uploads/mattwinning.jpg
