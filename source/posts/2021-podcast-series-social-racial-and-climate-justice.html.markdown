@@ -3,7 +3,7 @@ published: true
 title: "2021 podcast series: social, racial and climate justice"
 category: climate
 date: 2021-03-30T14:27:49.694Z
-cover_image: /images/uploads/justice_podcast_website_thumbnail.jpg
+cover_image: /images/uploads/03-2021_podcast_thumbnail.jpg
 summary: Horticulturalist Poppy Okotcha and Black Geographers founder Francisca
   Rockey join team members Armelle and Sunita to talk about how climate justice
   relates to social and racial justice.
