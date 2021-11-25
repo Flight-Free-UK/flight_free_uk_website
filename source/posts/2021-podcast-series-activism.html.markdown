@@ -11,7 +11,7 @@ read_time_minute: 8
 ---
 *This is episode 5 of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-activism/) and find other episodes and previous series [here](/podcast/).*
 
-![Image shows Sel playing a banjo wearing a pointed hat, Ian standing infront of a waterfall and Anna in a forested area.](/images/uploads/05may_episode_blog.jpg)
+![Image shows Sel playing a banjo wearing a pointed hat, Ian standing infront of a waterfall and Anna in a forested area.](/images/uploads/05-2021_podcast_blog.jpg)
 
 ## This month we’re joined by Sel from Grow Heathrow, Ian from GALBA and Alice from Sky Rebellion to talk about activism.
 
