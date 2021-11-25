@@ -1,9 +1,9 @@
 ---
 published: true
-title: "#FlightFree2020 podcast episode 4: transatlantic travel"
+title: "2020 podcast episode 4: transatlantic travel"
 category: travel
 date: 2020-04-06T17:20:59.982Z
-cover_image: /images/uploads/kater.jpg
+cover_image: /images/uploads/katerawleswoody.jpg
 summary: Author and adventurer Kate Rawles shares the tale of her transatlantic
   cargo ship voyage and her 8000 mile bike ride through the Andes
 author: FlightFree UK
