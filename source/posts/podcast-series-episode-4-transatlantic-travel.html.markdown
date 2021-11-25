@@ -11,7 +11,7 @@ read_time_minute: 9
 ---
 ## This podcast is episode 4 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
-![Picture shows Kate biking through mountainous terrain. She is turning back to the camera whilst wearing a scarf over her mouth. In the background are snowy mountain peaks. ](/images/uploads/kater.jpg)
+![Picture shows Kate biking along a highway with mountains in the background](/images/uploads/katerawles.jpeg)
 
 *This month we're talking to [Kate Rawles](https://www.outdoorphilosophy.co.uk), an author and adventurer who uses her adventures to be an ambassador for the environment. In 2006, Kate cycled the length of the Rocky mountains from Texas to Alaska, a journey called the [Carbon Cycle](https://www.outdoorphilosophy.co.uk/carbon-cycle/) in which she explored North American attitudes towards climate change. Then in 2016, she undertook the [Life Cycle](https://www.outdoorphilosophy.co.uk/life-cycle/), which was an exploration of biodiversity along the Andes mountain range in South America, cycling more than 8000 miles from Colombia to Cape Horn. We start by asking Kate what her motivations were and why she came up with the idea of what she calls ‘Adventure Plus’*
 
@@ -60,8 +60,6 @@ When I went across the Atlantic for my next adventure, not only was it a non-fly
 So I wanted to keep my impact down as low as possible, but I also really wanted to go to South America, because I wanted to focus on biodiversity and I love cycling in mountains, and where can you get both of those things in spades but in S. America? I decided the best way to get there was on a cargo ship. Carbon footprint specialist [Mike Berners Lee](https://www.theguardian.com/profile/mike-berners-lee) did the number crunching and worked out that had I gone by plane the carbon footprint would have been roughly 2 tonnes CO2 equivalent, but per passenger for the cargo ship it’s 50kg. A huge, huge saving, and a fascinating way to travel.
 
 It took 11 days from France to Colombia, and a month on the return leg, coming up the west coast of S.America then through the Panama canal and across the Atlantic. It’s a fantastic way to travel because it gives you time to change gear, both on the way there, and on the way back. Of course, you need time and money to travel in this way, but I would wholeheartedly recommend it.
-
-![Picture shows a man in a orange hazard suit and yellow hard-hat lifting Kate's bike Woody into a cargo ship. You can see the red steel side of the boat. ](/images/uploads/cargoshipbike.jpg "Woody the bicycle being loaded onto the cargo ship")
 
 #### FLIGHT FREE UK:
 
@@ -116,8 +114,6 @@ One of the things you learn cycle touring is that if you appreciate the basics, 
 I would love to think that was the future – wouldn’t that be wonderful? Sailing ships are amazing. They are almost as amazing as bicycles as a form of low emission transport. The bicycle is supposed to be the most efficient way of moving a human being from A to B, but a sailing ship must come a close second. To move people around the world using the power of the wind is a fantastic vision, and good luck to the entrepreneurs who are trying to upscale the current provision. It's not that long ago that sailing ships were humans’ main way of travelling around the world – we forget how recent our industrialised history is. 
 
 So yes, an increase in sailing. It’s not going to be the equivalent of the jumbo jet bus in the sky, because it is always going to take longer and be more limited in terms of availability, but that's going to be part of a bigger social change. We are going to have to travel less in the future and enjoy where we are more, and spend more time exploring close to home. Certainly my next journeys are going to be within the UK and Europe and I’m really looking forward to that.
-
-![Picture shows Kate and another man inspecting Kate's bike Woody. In the background you can see the blurred domed shape of the Eden Project. ](/images/uploads/katechris-candid.jpg "Kate built Woody the bamboo bike herself from bamboo grown at the Eden project in Cornwall")
 
 *Thank you so much to Kate for speaking to us. Please do look her up online, at [outdoorphilosophy.co.uk](http://outdoorphilosophy.co.uk), and see if you can get your hands on one of her books, or even catch one of her excellent talks.* 
 
