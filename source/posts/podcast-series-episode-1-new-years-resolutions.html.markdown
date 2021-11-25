@@ -1,6 +1,6 @@
 ---
 published: true
-title: "#FlightFree2020 podcast episode 1: New Year's Resolutions"
+title: "2020 podcast episode 1: New Year's Resolutions"
 category: opinion
 date: 2020-01-06T07:19:20.405Z
 cover_image: /images/uploads/maja-rosen.jpg
