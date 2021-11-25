@@ -1,6 +1,6 @@
 ---
 published: true
-title: "#FlightFree2020 podcast episode 2: skiing by train"
+title: "2020 podcast episode 2: skiing by train"
 category: travel
 date: 2020-02-04T14:23:39.820Z
 cover_image: /images/uploads/danielelkan-lg.jpg
