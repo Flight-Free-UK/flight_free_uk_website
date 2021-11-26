@@ -3,13 +3,13 @@ published: true
 title: "Flight free in 2022: Jonathan and Liffy"
 category: testimonials
 date: 2021-11-18T17:43:05.389Z
-cover_image: /images/uploads/jonathan_meuli_and_liffy_grant.jpg
+cover_image: /images/uploads/jonathanandliffy-statement.jpg
 summary: '"This Christmas we are going to see our daughter in Granada by train.
   When you travel like this, the simple things become the adventure."'
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Image shows a couple standing in an art studio holding a card that says flight free for the climate. Both people have grey hair. Jonathan is wearing a checked blue/purple shirt and Liffy is wearing a colourful jumper](/images/uploads/jonathan_meuli_and_liffy_grant.jpg "Jonathan and Liffy in Jonathan's studio in Glasgow")
+![Image shows a couple standing in an art studio holding a card that says flight free for the climate. Both people have grey hair. Jonathan is wearing a checked blue/purple shirt and Liffy is wearing a colourful jumper](/images/uploads/jonathanandliffy-statement.jpg)
 
 ### Liffy:
 
