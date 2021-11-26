@@ -3,13 +3,13 @@ published: true
 title: "Flight free in 2022: Bertie"
 category: testimonials
 date: 2021-09-01T10:33:50.348Z
-cover_image: /images/uploads/bertie.jpg
+cover_image: /images/uploads/bertie-statement.jpg
 summary: “Collective individual actions are a crucial way of working towards
   government and system change.”
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Image shows Bertie holding a sign that says, flight free for the climate. The text on the image says, I realised that flying less or not at all is the best option to reduce my emissions right now.](/images/uploads/bertie-lloyd-london.jpg)
+![Image shows Bertie holding a sign that says, flight free for the climate. The text on the image says, I realised that flying less or not at all is the best option to reduce my emissions right now.](/images/uploads/bertie-statement.jpg)
 
 I’ve been interested in and concerned about climate change and other environmental issues for a long time now. Despite this, the environmental impact of flying was not something I had ever thought about until the last few years. My brother stopped flying a few years ago and that opened my eyes to the damage I was doing and also to the opportunities that being flight free can create for you travel-wise.
 
