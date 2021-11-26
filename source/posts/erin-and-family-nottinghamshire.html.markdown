@@ -3,14 +3,14 @@ published: true
 title: "Flight free in 2022: Erin and family"
 category: testimonials
 date: 2021-10-21T17:49:33.536Z
-cover_image: /images/uploads/erin_baker_family.jpg
+cover_image: /images/uploads/erin-statement.jpg
 summary: "\"Not flying this year, or next year, or maybe ever, is one of those
   choices for our family. It's one way for us to be part of the solution to
   climate change and not part of the problem.\""
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Image shows a couple kneeling down outside with their two children holding a phone that says flight free for the climate on the screen. Both parents have brown hair. All four of them have their faces painted, Erin and her partner have small planet Earths on their cheeks, their son has the Earth painted to cover his face and their daughter has pink face paint.](/images/uploads/05_10_21-erin-baker-family-nottinghamshire-.png "Erin and family")
+![Image shows a couple kneeling down outside with their two children holding a phone that says flight free for the climate on the screen. Both parents have brown hair. All four of them have their faces painted, Erin and her partner have small planet Earths on their cheeks, their son has the Earth painted to cover his face and their daughter has pink face paint.](/images/uploads/erin-statement.jpg)
 
 A relative said to me, "I want to see the barrier reef before it's too late." A work colleague commented on how important travel is. A friend said, "I care about the environment but I still want to LIVE." 
 
