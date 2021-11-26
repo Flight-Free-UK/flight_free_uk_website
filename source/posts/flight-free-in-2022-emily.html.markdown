@@ -3,13 +3,13 @@ published: true
 title: "Flight free in 2022: Emily"
 category: testimonials
 date: 2021-09-01T10:38:02.519Z
-cover_image: /images/uploads/emily.jpg
+cover_image: /images/uploads/emily-statement.jpg
 summary: “I am re-evaluating my approach to travel – it doesn’t feel right to be
   able to travel so quickly and so cheaply.”
 author: FlightFree UK
 read_time_minute: 1
 ---
-![Image shows Emily, a young white woman, wearing a white top and holding a sign that says Flight Free for the Climate.](/images/uploads/emily-smith-essex.jpg)
+![Image shows Emily, a young white woman, wearing a white top and holding a sign that says Flight Free for the Climate.](/images/uploads/emily-statement.jpg)
 
 I enjoy travelling and immersing myself into different cultures and seeing the idyllic views. 
 
