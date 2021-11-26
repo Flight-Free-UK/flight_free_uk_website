@@ -3,13 +3,13 @@ published: true
 title: "Flight free in 2022: Sunita"
 category: testimonials
 date: 2021-09-01T10:14:35.343Z
-cover_image: /images/uploads/sunita_soundur.jpg
+cover_image: /images/uploads/sunita-statement-.jpg
 summary: “It feels wrong to take a flight knowing that the carbon emissions will
   affect families all over the world.”
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Image shows Sunita sitting on a bench. The text says, the flight free pledge is a symbolic statement to demand a better, more just world for all](/images/uploads/sunita-soundur-london.jpg)
+![Image shows Sunita sitting on a bench. The text says, the flight free pledge is a symbolic statement to demand a better, more just world for all](/images/uploads/sunita-statement-.jpg)
 
 With Mauritian parents, I understand the importance of being able to take trips to see family abroad. Mauritius is a tiny island in the Indian ocean, located off the southeast coast of Africa, to the East of Madagascar. At over 6,000 miles away from the UK, it is approximately a 12-hour flight from London. It’s a beautiful place, but there is little option to get there without flying. 
 
