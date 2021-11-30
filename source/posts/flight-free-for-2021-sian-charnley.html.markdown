@@ -3,13 +3,13 @@ published: true
 title: "Flight Free for 2021: Siân Charnley"
 category: testimonials
 date: 2021-02-09T00:14:57.484Z
-cover_image: /images/uploads/sian-charnley-pledge.jpg
+cover_image: /images/uploads/testimonial-sian.jpg
 summary: "Bristol-based Siân has been #FlightFree since the 1970s! She tells us
   her story. "
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/sian-charnley-quote.jpg)
+![](/images/uploads/testimonial-sian.jpg)
 
 ## I am lucky that this is quite an easy one for me.
 
