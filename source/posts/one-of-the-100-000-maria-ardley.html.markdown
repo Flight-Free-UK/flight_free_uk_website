@@ -8,8 +8,6 @@ summary: "We hear from our pledgers about why they've chosen to be #flightfree i
 author: FlightFree UK
 read_time_minute: 3
 ---
-![A piece of paper with the Flight Free 2020 pledge on it is resting on a copy table next to a mug. In the blurred background stand two women drinking coffee and chatting. ](/images/uploads/flight-free-for-2020-pic-file.jpg)
-
 ### **Thank you for signing up to be** **[Flight Free in 2020](https://www.flightfree.co.uk/pledge). Can you sum up what motivated you to sign the pledge?**
 
 I have a 2 year old son and am very aware of the consequences for him and his generation of not taking immediate, strong action on climate change in any way that I can.
