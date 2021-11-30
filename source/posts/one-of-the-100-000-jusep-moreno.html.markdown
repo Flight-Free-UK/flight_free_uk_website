@@ -9,8 +9,6 @@ summary: "Read from some of our pledgers about why they've signed the
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Picture shows Jusep holding a piece of paper with his Flight Free 2020 pledge on it. He is crouched down stroking a small black and tan dog. He is in a park and is surrounded by brown leaves on the ground. Behind him you can see a moss-covered wall and a large tree. ](/images/uploads/jusep.jpeg "Jusep with his Flight Free 2020 pledge ")
-
 ### Thank you for signing up to be Flight Free in 2020. Can you sum up what motivated you to sign the pledge?
 
 I thought it was a great initiative to start a conversation and bring some action.
