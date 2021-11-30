@@ -3,13 +3,13 @@ published: true
 title: "Flight Free for 2021: Cat Jones"
 category: testimonials
 date: 2021-02-16T15:55:00.476Z
-cover_image: /images/uploads/cat-jones.jpg
+cover_image: /images/uploads/testimoinal-cat.jpg
 summary: "Byway Travel founder, Cat Jones, tells us why she decided to go
   #FlightFree for 2021."
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/cat-jones-quote.jpg)
+![](/images/uploads/testimoinal-cat.jpg)
 
 ## I’ve taken the flight free pledge for 2021 because I believe there are so many amazing experiences gained by travelling slowly through the world instead of flying over it.
 
