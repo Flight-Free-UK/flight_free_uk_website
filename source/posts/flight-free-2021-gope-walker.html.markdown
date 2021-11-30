@@ -3,13 +3,13 @@ published: true
 title: "Flight Free for 2021: Gope Walker"
 category: testimonials
 date: 2021-01-18T12:17:39.537Z
-cover_image: /images/uploads/gope-walker.jpg
-summary: "Triathlete and IT consultant, Gope Walker, shares why he and his
+cover_image: /images/uploads/testimonial-gope.jpg
+summary: "Triathlete and IT consultant Gope Walker shares why he and his
   business decided to go #FlightFree."
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/gope-walker-quote.jpg)
+![](/images/uploads/testimonial-gope.jpg)
 
 ## I’ve always been conscious of climate issues but it wasn't until I saw Flight Free UK on BBC Breakfast in August 2019 that I realised the huge environmental impact of flying.
 
