@@ -10,8 +10,6 @@ summary: 'Pianist Sarah Nicolls starts her "12 years" tour next year, giving
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Two hands with red nail polish are holding up the Flight Free Uk pledge. Sun is shining on the hands and there are blurred trees in the background. ](/images/uploads/red-nailvarnish.jpg)
-
 ### **Thank you for pledging to be flight free in 2020! Can you sum up what motivated you to sign the pledge?**
 
 I hadn’t contemplated giving up flying until Molly Scott Cato mentioned she had. It was literally like a lightbulb went on in my head. Everyone knows about giving up meat but giving up flying wasn’t something I was aware of at that moment. It just made sense immediately. I knew flying was 50 times more polluting than driving and most flights we were taking were avoidable. 
@@ -36,7 +34,7 @@ Educating people about what they’re doing and taxing aviation fuel.  I think a
 
 The most exotic trip I’m having to plan now is getting the train to the Arctic Circle for a gig!  It’s going to add 6 days to the gig time to get there and back but I’m really looking forward to the journey.  Obviously it’s not practical for everyone but since I can, then I really think I should.  We don’t feel distance when we fly.  This way I will really know how far I’m going, and maybe feel the temperature changes along the way too!  Our gig (I’m working with a Norwegian cellist) takes as its starting point the plans to drill for oil in the pristine north of Norway and will use responses of the locals in interview form, with music underlaid. We are developing the show and it runs like a public meeting - “thanks for coming, sorry we have a lot to get through, not so much time, we don’t exactly have all the answers..”  This framing seems to work very well for how we genuinely feel in the face of the climate and ecological emergency and we’re just being honest.  Giving up flying is a concrete step that most people can take.  
 
-#### **Is it daunting or exciting to have taken the pledge?** 
+#### **Is it daunting or exciting to have taken the pledge?**
 
 Exciting.  The only daunting thing is, what happens if my brother who lives in America also gives up?  Then I’ll be faced with the tougher moral dilemma.
 
