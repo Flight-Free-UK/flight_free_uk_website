@@ -8,8 +8,6 @@ summary: "We hear from our pledgers about why they've chosen to be #flightfree i
 author: FlightFree UK
 read_time_minute: 3
 ---
-![A piece of paper with the Flight Free 2020 pledge on it is resting on a copy table next to a mug. In the blurred background stand two women drinking coffee and chatting. ](/images/uploads/flight-free-for-2020-pic-file.jpg)
-
 ### **Thank you for signing up to be Flight Free in 2020. Can you sum up what motivated you to sign the pledge?**
 
 I have already taken a number of individual actions to reduce my carbon footprint, such as no longer eating meat, repairing and reusing everything I can, cycling instead of driving at every opportunity and so on. However, after attending one of the Flight Free talks recently I saw that one flight can wipe out any CO2 savings I have made. 
