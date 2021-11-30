@@ -3,13 +3,11 @@ published: true
 title: "Flight Free for 2020: John Newson"
 category: testimonials
 date: 2019-02-12T17:44:17.413Z
-cover_image: /images/uploads/red-nailvarnish-small.jpg
+cover_image: /images/uploads/flight-free-for-2020-pic-file.jpg
 summary: "We hear from our pledgers about why they've chosen to be #flightfree in 2020"
 author: FlightFree UK
 read_time_minute: 1
 ---
-![Two hands with red nail polish are holding up the Flight Free Uk pledge. Sun is shining on the hands and there are blurred trees in the background. ](/images/uploads/red-nailvarnish.jpg)
-
 ## **Can you sum up what motivated you to sign the pledge?**
 
 I know that flying is the biggest single action that a person takes that contributes to changing the atmosphere. It is carbon emitted in the wrong place, in the atmosphere.
