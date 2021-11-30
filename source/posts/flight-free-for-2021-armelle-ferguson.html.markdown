@@ -3,13 +3,13 @@ published: true
 title: "Flight Free for 2021: Armelle Ferguson"
 category: testimonials
 date: 2021-01-05T12:17:05.205Z
-cover_image: /images/uploads/armelle-holding-pledge.jpg
-summary: "Sustainable Fashion journalist, Armelle Ferguson, shares why she has
+cover_image: /images/uploads/testimonial-armelle.jpg
+summary: "Sustainable fashion journalist Armelle Ferguson shares why she has
   chosen to be #FlightFree for 2021."
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Armelle holding her flight free 2021 pledge](/images/uploads/5829b0d1-3629-4dd2-a706-bff6374b4a09.jpeg)
+![Armelle holding her flight free 2021 pledge](/images/uploads/testimonial-armelle.jpg)
 
 ## I like to think that my sustainability story started in a very dull and conventional way.
 
