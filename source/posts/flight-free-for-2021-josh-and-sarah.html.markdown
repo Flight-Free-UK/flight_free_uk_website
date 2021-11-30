@@ -3,13 +3,13 @@ published: true
 title: "Flight Free for 2021: Josh and Sarah "
 category: testimonials
 date: 2021-03-20T16:22:49.939Z
-cover_image: /images/uploads/josh-sarah.jpg
+cover_image: /images/uploads/testimonial-joshsarah.jpg
 summary: "Josh and Sarah tell us how embracing their #FlightFree lifestyle
   hasn’t stopped them having the adventures of a lifetime!"
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/josh-sarah-quote-.jpg)
+![](/images/uploads/testimonial-joshsarah.jpg)
 
 ## Sarah and I spent our early twenties adventuring around the world and catching lots of flights.
 
