@@ -3,13 +3,13 @@ published: true
 title: "Flight Free for 2021: Poppy Okotcha"
 category: testimonials
 date: 2021-05-25T21:22:49.328Z
-cover_image: /images/uploads/poppy-okotcha.jpg
+cover_image: /images/uploads/testimonial-poppy.jpg
 summary: "Devon-based Poppy Okotcha shares her motivations for taking the
   #FlightFree pledge. "
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/poppy-okotcha-quote.jpg)
+![](/images/uploads/testimonial-poppy.jpg)
 
 ## Back in the spring of 2019 I had a penny drop moment. Lots of learning had culminated with listening to Gem Bendell’s ‘Deep Adaption: A Map For Navigating Climate Tragedy’.
 
