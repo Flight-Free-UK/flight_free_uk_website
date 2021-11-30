@@ -3,15 +3,11 @@ published: true
 title: "Flight Free for 2020: Michael Crossland"
 category: testimonials
 date: 2019-11-04T11:14:04.220Z
-cover_image: /images/uploads/red-nailvarnish-small.jpg
+cover_image: /images/uploads/flight-free-for-2020-pic-file.jpg
 summary: "We hear from our pledgers about why they've chosen to be #flightfree in 2020"
 author: FlightFree UK
 read_time_minute: 2
 ---
-
-
-![Two hands with red nail polish are holding up the Flight Free Uk pledge. Sun is shining on the hands and there are blurred trees in the background. ](/images/uploads/red-nailvarnish.jpg)
-
 ### **Thank you for signing up to be Flight Free in 2020. Can you sum up what motivated you to sign the pledge?**
 
 I felt very uneasy going to the extinction rebellion protests in Westminster having just agreed to speak at a conference in the USA.  I was planning on offsetting my flights but that’s such a capitalist solution to a capitalist problem (pay more money to reduce your guilt!) and I was concerned about some of the problems with offsetting.   [One of the blog posts on this website](https://flightfree.co.uk/post/addressing-academias-carbon-footprint/) (by Milena Buchs) really spoke to me and made me realise I wouldn't be alone in refusing to fly to academic conferences.
