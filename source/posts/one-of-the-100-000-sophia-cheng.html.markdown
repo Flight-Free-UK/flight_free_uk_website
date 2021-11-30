@@ -8,8 +8,6 @@ summary: "We hear from our pledgers about why they've chosen to be #flightfree i
 author: FlightFree UK
 read_time_minute: 4
 ---
-![A piece of paper with the Flight Free 2020 pledge on it is resting on a copy table next to a mug. In the blurred background stand two women drinking coffee and chatting. ](/images/uploads/flight-free-for-2020-pic-file.jpg)
-
 ### **Thank you for signing up to be Flight Free in 2020, Sophia! Can you sum up what motivated you to sign the pledge?**
 
 I’ve been trying to cut down on flying for the last couple of years, and knowing I could join a growing political and cultural statement was the added incentive I needed. I took my last flight on June 20th 2019, I am challenging myself to not fly until the end of 2020, so that’s 18 months without flying.
