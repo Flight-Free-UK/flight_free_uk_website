@@ -3,13 +3,13 @@ published: true
 title: "Flight Free for 2021: Nick Hodgkinson"
 category: testimonials
 date: 2020-12-03T14:30:14.807Z
-cover_image: /images/uploads/nick-hogkinson-.jpg
-summary: "GALBA campaigner, Nick Hodgkinskon, tells us why he signed the
-  #FlightFree 2021 pledge."
+cover_image: /images/uploads/testimonial-nick.jpg
+summary: "GALBA campaigner Nick Hodgkinson tells us why he signed the
+  #FlightFree2021 pledge."
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/nick-hogkinson-quote.jpg)
+![](/images/uploads/testimonial-nick.jpg)
 
 ## I’ve taken the pledge to go totally flight free in 2021. That’s because flying is the single most climate damaging thing that I could do.
 
