@@ -3,18 +3,12 @@ published: true
 title: "Flight Free for 2020: Pam Lunn"
 category: testimonials
 date: 2019-08-19T11:46:22.621Z
-cover_image: /images/uploads/red-nailvarnish-small.jpg
+cover_image: /images/uploads/flight-free-for-2020-pic-file.jpg
 summary: "We hear from our pledgers about why they've chosen to be #FlightFree in 2020"
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Two hands with red nail polish are holding up the Flight Free Uk pledge. Sun is shining on the hands and there are blurred trees in the background. ](/images/uploads/red-nailvarnish.jpg)
-
-### **Thank you for signing up to be Flight Free in 2020.** 
-
-- - -
-
-- - -
+### **Thank you for signing up to be Flight Free in 2020.**
 
 #### **Can you sum up what motivated you to sign the pledge? How long have you been aware of climate issues?**
 
@@ -38,7 +32,7 @@ I think part of the ‘secret’ of changing behaviour is to make a firm decisio
 
 I don’t have family or close friends (except one) living anywhere beyond the European mainland, so I don’t have emotional pulls to take long-haul flights. If there was someone close to me who was ill or dying, in the USA or Australia, say, then I don’t know what decision I would make. I think it’s not possible to imagine those decisions in the abstract. I have one close friend now living in California . . . we phone and Skype. It’s not perfect, but she’s alive to the climate change issues too . . . she lives where they will be flooded by sea-level rise.
 
-#### **Is it daunting or exciting to have taken the pledge?** 
+#### **Is it daunting or exciting to have taken the pledge?**
 
 Not flying doesn’t feel like any kind of sacrifice. There are many more beautiful and interesting places to visit than I can possibly fit in during one lifetime – I don’t need to go to those that aren’t accessible except by plane. And some of those wonderful places, together with their flora and fauna, are being destroyed by excessive human presence, as well as by climate change. It’s enough to know that the beauty exists – it’s not necessary to go there. 
 
