@@ -12,13 +12,13 @@ read_time_minute: 4
 ---
 *cover image by Hert Niks on [unsplash](https://unsplash.com/s/photos/christmas-gifts)*
 
-1. ### Insulated travel mug
+### 1. Insulated travel mug
 
 Whether travelling by train, coach or car, there is always great comfort to be found in a hot drink. So get sorted with an insulated travel mug. [This one by Life Venture](https://www.lifeventure.com/products/cookware/thermal-mug) has a secure screw-on lid so you can tuck it into your bag and not worry about leaks. Flasks also keep cold drinks cool, for those cheeky Christmas cocktails!
 
 **Where to buy?** Outdoor shops such as [Ellis Brigham](https://www.ellis-brigham.com/shops) tend to have the sturdiest examples. 
 
-2. ### Slipper socks, neck pillow and eye mask
+### 2. Slipper socks, neck pillow and eye mask
 
 The sign of being fully committed to a long journey is taking your shoes off and slipping on some wool socks.  On an overnight journey, a neck pillow and an eye mask are also handy, ensuring a restful night and a refreshed arrival. 
 
