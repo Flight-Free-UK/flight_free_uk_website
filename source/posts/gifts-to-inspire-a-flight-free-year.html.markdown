@@ -1,15 +1,17 @@
 ---
-published: false
+published: true
 title: Gifts to inspire a flight free year
 category: opinion
 date: 2021-12-18T15:20:04.485Z
-cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
+cover_image: /images/uploads/christmas-presents.jpg
 summary: Stuck for what to buy this Christmas? Our gift ideas will inspire
   flight-free adventures in the new year for both you and your friends. Here are
   our top ten recommendations.
 author: FlightFree UK
 read_time_minute: 4
 ---
+*cover image by Hert Niks on [unsplash](https://unsplash.com/s/photos/christmas-gifts)*
+
 1. ### Insulated travel mug
 
 Whether travelling by train, coach or car, there is always great comfort to be found in a hot drink. So get sorted with an insulated travel mug. [This one by Life Venture](https://www.lifeventure.com/products/cookware/thermal-mug) has a secure screw-on lid so you can tuck it into your bag and not worry about leaks. Flasks also keep cold drinks cool, for those cheeky Christmas cocktails!
