@@ -4,9 +4,8 @@ title: Gifts to inspire a flight free year
 category: opinion
 date: 2021-12-04T15:36:59.013Z
 cover_image: /images/uploads/christmas-presents.jpg
-summary: "Stuck for what to buy this Christmas? Our top ten gift ideas will
-  inspire flight-free adventures in the new year for both you and your friends.
-  "
+summary: "Stuck for what to buy this Christmas? Our ten gift ideas will inspire
+  flight-free adventures in the new year for both you and your friends. "
 author: FlightFree UK
 read_time_minute: 4
 ---
