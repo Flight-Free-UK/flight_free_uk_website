@@ -9,25 +9,29 @@ summary: Pondering the looming possibility of an ice free world, Bruce Gulland
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Penguin stands on a thin slanted sheet of ice jutting up from the snow. The sky is overcast and bright white. ](/images/uploads/penguin-on-ice-danielle-barnes-unsplash.jpg "Photo credit: Danielle Barnes (Source: Unsplash) ")
-
 ### Picture the scene: softly falling snow in a fir forest; a faun juggling wrapped presents in the warm pool of light cast by an old gas lamp.
 
 Or more contemporary and real: TV nature documentary footage of an achingly beautiful Arctic landscape, subtle colours playing across it… while, caught in the low sunlight, steam rises from the nostrils of a magnificent polar bear, shaggy behemoth of the north. While at the south pole, a dinner-suited penguin waddles comically across the ice before diving with torpedo speed into frigid seas… 
 
-These might seem strange scenes to picture in summertime, with a heatwave and the hottest UK day on record not yet distant memories. And what have they to do with a campaign to reduce flying? Put simply, for me they encapsulate something of the power that snow and ice exert on our imagination, and consequently underline one of the most tangible tragedies – massive loss of ice – that’s triggered by a warming world exacerbated by excessive flying. 
+What have these images to do with a campaign to reduce flying? Put simply, for me they encapsulate something of the power that snow and ice exert on our imagination, and consequently underline one of the most tangible tragedies – massive loss of ice – that’s triggered by a warming world exacerbated by excessive flying. 
 
 > "One of our most tangible tragedies – massive loss of ice – is triggered by a warming world exacerbated by excessive flying."
 
-It makes me sad to contemplate the shrinkage and emaciation of our ice landscapes: the Arctic, Antarctic, Greenland and Himalayan glaciers to name the most prominent. The accelerating loss of these magical worlds robs us of one of our richest imaginative resources – and we’ll be inestimably the poorer for it. I may never personally see the aurora borealis or venture north of the Arctic Circle… but I feel glad just to know that such stark, alien landscapes are there in all their (relatively) pristine beauty – and equally saddened to ponder their demise. 
+It makes me sad to contemplate the shrinkage and emaciation of our ice landscapes: the Arctic, Antarctic, Greenland and Himalayan glaciers to name the most prominent. The accelerating loss of these magical worlds robs us of one of our richest imaginative resources – and we’ll be inestimably the poorer for it. 
+
+I may never personally see the aurora borealis or venture north of the Arctic Circle… but I feel glad just to know that such stark, alien landscapes are there in all their (relatively) pristine beauty – and equally saddened to ponder their demise. 
 
 ![The picture shows the Northern Lights. To figures crouch near  shallow pool wearing many layers. It is night and there are great waves of green light in the sky. ](/images/uploads/ice-imagination-blog-image-.jpg "Photo credit: Noel Bauza ")
 
-I also feel that a certain paucity of imagination is partly what impels us to fly as much as we do. To frame it positively, a revival of this wonderful human gift – imagination – could be a key that inspires us to explore and relish scenes and places closer to home. Perhaps we need to rediscover and rekindle our capacity for wonder – and contentment. What makes us hanker so much to see faraway places, often to the neglect of nearer but equally marvellous environs? I wonder if in the developing world we have not developed a certain greed and rapaciousness of the mind and spirit, and a concomitant loss of sensitivity – and patience.
+I also feel that a certain paucity of imagination is partly what impels us to fly as much as we do. To frame it positively, a revival of this wonderful human gift – imagination – could be a key that inspires us to explore and relish scenes and places closer to home. 
 
-> "We have developed a certain greed and rapaciousness of the mind and spirit, and a loss of sensitivity and patience."
+Perhaps we need to rediscover and rekindle our capacity for wonder – and contentment. What makes us hanker so much to see faraway places, often to the neglect of nearer but equally marvellous environs? I wonder if in the developing world we have not developed a certain greed and rapaciousness of the mind and spirit, and a concomitant loss of sensitivity – and patience.
 
-For it is a marvellous thing to be alert and appreciative to beauties and points of fascination that lie close to home, often just under our noses. I currently live in north Bradford, in the quaintly named district of Idle. I have no car. But I’m blessed to live near some attractive countryside on the edge of this underrated city. On many a Sunday afternoon, without forking out so much as a bus fare, I’ve simply taken a wander, along the River Aire, Leeds Liverpool canal, or to the homely, peaceful, secluded village of Esholt. Had an adventure.
+> "A certain paucity of imagination is partly what impels us to fly as much as we do."
+
+For it is a marvellous thing to be alert and appreciative to beauties and points of fascination that lie close to home, often just under our noses. I currently live in north Bradford, in the quaintly named district of Idle. I have no car. But I’m blessed to live near some attractive countryside on the edge of this underrated city. 
+
+On many a Sunday afternoon, without forking out so much as a bus fare, I’ve simply taken a wander, along the River Aire, Leeds Liverpool canal, or to the homely, peaceful, secluded village of Esholt. I have had an adventure.
 
 I’ve heard friends talk about catching a flight to a European or other southern destination to catch some rays and top up their vitamin D. The irony is that with rising temperatures partly caused by too much flying, we’re getting more such benefits in Blighty! So maybe it’s time to soak up more rays here instead.
 
