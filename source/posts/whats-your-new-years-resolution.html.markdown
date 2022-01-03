@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: What's your New Year's resolution?
 category: opinion
 date: 2022-01-03T18:50:45.535Z
@@ -14,41 +14,16 @@ read_time_minute: 2
 
 What’s your New Year’s resolution? 
 
-It seems every year we make resolutions to live better, to 
+It seems every year we resolve to live better, to lose weight or to do more exercise, or to finally learn that guitar we bought years ago. January is the busiest month for gym memberships – and the busiest for cancellations.
 
-This month is the busiest for gym memberships.
+Apparently, most resolutions are abandoned by January 18th. Does the buzz of enthusiasm wane after a couple of weeks? Does harsh reality set in? Do the cold, dark days make that daily run seem increasingly unappealing?
 
-Is it to eat more healthily? To exercise more? To drink less?
+Perhaps we're more likely to stick with a resolution if we can see that it benefits other people as well as us. How about taking that to the next level, and doing something that’s good for you, good for each other, *and* good for the planet?
 
-Maybe it’s to try a new skill? Or to read more books? Or learn another language? 
+Taking a year off flying is a great way to reduce emissions, and to inspire a social shift away from aviation. There are huge benefits, from the people who live near flight paths who will have quieter skies, to the people around the world who are living with the effects of climate change. 
 
-How about doing something that’s as good for the planet as it is for you?
+It also benefits you as a traveller. Flight free travel is a much more exciting, enriching and less stressful way to see the world. 
 
-\
-Apparently, most resolutions are abandoned by January 18th. We've got plenty to help you stick with your pledge. And of course, you know you're not alone – thousands of people are staying grounded for the climate. 
+The best thing about joining a pledge like this is that you're not doing it alone. It really helps to keep your resolution when you can see that many other people are doing it with you. 
 
-Our pledge asks people to take a year off flying. It’s a great way to reduce emissions, and to change the norm when it comes to aviation. Of course, the last couple of years have been pretty flight free for most people. But when you choose to do this for the climate, it can be an exciting and empowering change.
-
-
-
-Let’s hear from some of the people who have taken our pledge.
-
-
-
-Miriam says, Initially I thought I could never do without flying – I thought it was a crazy pledge. But now I’ve taken it, I feel much less stressed, I feel a lot more relaxed and I really appreciate my local surroundings. I’m also looking forward to doing a slow holiday across the continent.
-
-
-
-Liffy and Jonathan say, we’ve just travelled from Glasgow to Granada in Spain to see our daughter. It took three days but when you travel like this, the simple things become the adventure. We wouldn’t have missed that experience for anything.
-
-
-
-Sunita says, it feels wrong to take a flight knowing that the carbon emissions will affect families all over the world. The flight free pledge is a symbolic statement to demand a better, more just world for all.
-
-
-
-Thousands of people have already signed the pledge to be flight free in 2022. Could you join them? Make the pledge at flightfree.co.uk 
-
-
-
-W
+Thousands of people have already signed the pledge to be flight free in 2022. Could you join them?
