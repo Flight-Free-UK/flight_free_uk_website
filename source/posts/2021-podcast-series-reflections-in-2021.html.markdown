@@ -10,7 +10,7 @@ read_time_minute: 8
 ---
 *This is episode 12 of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021podcast-series-reflections-on-2021/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).*
 
-As Flight Free in 2021 draws to a close, we bring the whole team together to reflect on how the year has gone, how the pledge has been affected by things like Covid, and what travel adventures we’ve had.
+As Flight Free 2021 draws to a close, we bring the whole team together to reflect on how the year has gone, how the pledge has been affected by things like Covid, and what travel adventures we’ve had.
 
 ### What flight-free travels did you have in 2021?
 
