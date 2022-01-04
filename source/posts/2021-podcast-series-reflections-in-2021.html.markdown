@@ -100,31 +100,39 @@ When one person says, ‘I’ve made this pledge and I’m sticking to it,’ it
 
 #### Sunita
 
-I’m still waiting for a breakthrough from my brother. When I first joined the campaign I told him about what I was doing and asked if he could pledge. He was very receptive, but said, ‘I can’t because we have a trip planned with the boys.’ He and some friends go away together as a group once a year. We’ve spoken about it since, and he asks about the campaign, and he’s very supportive and stuff and he knows what I do. So I’m still on the edge of my seat waiting for his reply about whether he has actually come to a decision. 
+I’m still waiting for a breakthrough from my brother. When I first joined the campaign I told him about what I was doing and asked if he could pledge. He was very receptive, but said, ‘I can’t because we have a trip planned with the boys.’ He and some friends go away together as a group once a year. 
+
+We’ve spoken about it since, and he asks about the campaign, and he’s very supportive and stuff and he knows what I do. So I’m still on the edge of my seat waiting for his reply about whether he has actually come to a decision. 
 
 #### Ella
 
-A real highlight for me was going to the Global Day of Action march in Bristol and speaking to some people about the campaign, because it’s the first time I’ve done anything like that. The majority of people I spoke to already didn’t fly. I still encouraged them to take the pledge, but it’s just nice to hear people agreeing that not flying is something we can do and it’s really important in trying to reduce our emissions. 
+A real highlight for me was going to the Global Day of Action march in Bristol and speaking to some people about the campaign, because it’s the first time I’ve done anything like that. 
+
+The majority of people I spoke to already didn’t fly. I still encouraged them to take the pledge, but it’s just nice to hear people agreeing that not flying is something we can do and it’s really important in trying to reduce our emissions. 
 
 #### Maggie
 
-I asked my family if they would pledge. On a previous occasion, I had a row with my sister about being flight free. But this time she pledged, and not only did she pledge, she sent an email about the pledge to everyone in her beekeeping group, and suggested it to them as well. That was a very quick evolution from not signing, to signing, to being an advocate for the campaign! I think she knows that concern about the climate is at an all-time high, so if you suggest it to people, it doesn’t fall on stony ground the way it might have done a few years ago. It falls on fertile ground. A lot of people are trying to think of things that they can do to help, and the Flight Free pledge is an excellent place to start. 
+I asked my family if they would pledge. On a previous occasion, I had a row with my sister about being flight free. But this time she pledged, and not only did she pledge, she sent an email about the pledge to everyone in her beekeeping group, and suggested it to them as well. That was a very quick evolution from not signing, to signing, to being an advocate for the campaign! 
+
+I think she knows that concern about the climate is at an all-time high, so if you suggest it to people, it doesn’t fall on stony ground the way it might have done a few years ago. It falls on fertile ground. A lot of people are trying to think of things that they can do to help, and the Flight Free pledge is an excellent place to start. 
 
 ### What have been your favourite podcast episodes from the year?
 
 #### Sunita
 
-I liked the one about Voluntourism, with Alan and Maggie interviewing the team at No White Saviors. It touched on different aspects of justice: climate justice, racial justice, and social justice. Alan was really honest about his experience, and what he thought back then compared to what he thinks now. It was just honest and rawI. If you haven’t already, definitely listen to it, it was great. 
+I liked the one about [Voluntourism](/post/2021-podcast-series-voluntourism/), with Alan and Maggie interviewing the team at No White Saviors. It touched on different aspects of justice: climate justice, racial justice, and social justice. Alan was really honest about his experience, and what he thought back then compared to what he thinks now. It was just honest and rawI. If you haven’t already, definitely listen to it, it was great. 
 
 #### Maggie
 
-I really enjoyed the one that Sunita and Armelle did with Poppy Okotcha, and Francisca Rockey from Black Geographers. That was really enjoyable. I loved the things that they shared about their backgrounds. I also enjoyed the one we did about not flying to see family and friends because I thought there was important wisdom there about how people had kept in touch with families without seeing them that regularly. 
+I really enjoyed the one that Sunita and Armelle did with [Poppy Okotcha and Francisca Rockey](/post/2021-podcast-series-social-racial-and-climate-justice/) from Black Geographers. That was really enjoyable. I loved the things that they shared about their backgrounds. 
+
+I also enjoyed the one we did about [not flying to see family and friends](/post/2021-podcast-series-family-and-friends/) because I thought there was important wisdom there about how people had kept in touch with families without seeing them that regularly. 
 
 #### Bertie
 
-I really enjoyed talking to Tori and Hemlata for our most recent episode about climate anxiety. 
+I really enjoyed talking to Tori and Hemlata for our most recent episode about [climate anxiety](/post/2021-podcast-series-eco-anxiety/). 
 
-### Thank you for listening in 2021. We will have more inspiring conversations for you next year!
+### Thank you for listening to our podcasts in 2021. We will have more inspiring conversations for you next year!
 
 *Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2021podcast-series-reflections-on-2021/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).* 
 
