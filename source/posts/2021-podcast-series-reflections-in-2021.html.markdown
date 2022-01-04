@@ -42,13 +42,17 @@ This year I went up to Scotland for COP26. It was the first time I’d been to G
 
 I booked my return train at the last minute: I was travelling on the Tuesday evening and I booked it on Sunday night. It was £40! Although overall I do agree train prices need to come down, low fares do exist. 
 
+> "I booked my return train at the last minute. It was £40! Although overall train prices need to come down, low fares do exist." 
+
 #### Ella 
 
 I haven’t done very much travelling outside of Bristol. Although I did go to Brighton to stay with my boyfriend’s parents, and we all got the train into London. It was the Black Friday weekend, so it was very manic!
 
 For our holiday in January, we are going to drive over to the west coast of Ireland for a week. This time last year I would have thought to just get a flight but after hearing everybody’s travel stories I’m going to drive and take the ferry.
 
-I’ve done a lot more stuff in and around Bristol city, and I guess you usually think, ‘I need to get away to go on holiday,’ but you can just enjoy the little things in the city that you live in. 
+> "Usually you think, ‘I need to get away to go on holiday,’ but you can just enjoy the little things in the city where you live."
+
+I’ve done a lot more stuff in and around Bristol city. I guess you usually think, ‘I need to get away to go on holiday,’ but you can just enjoy the little things in the city where you live. 
 
 #### Imogen
 
@@ -56,9 +60,11 @@ I didn’t realise how many RSPB Reserves were close to me, so I went to visit t
 
 #### Amy
 
-My favourite trip of this year was on my birthday, when I went on a day trip to Bakewell in the Peak District. I went by bus. I love buses! The journey is so lovely because you start out in the city centre (the bus goes from Sheffield interchange), then you weave out through the suburbs, and you watch the landscape change from city to moorland, and get deep into the Peak District. I just love it, and it doesn’t take that long, and it’s quite affordable. 
+My favourite trip of this year was on my birthday, when I went on a day trip to Bakewell in the Peak District. I went by bus. I love buses! The journey is so lovely because you start out in the city centre (the bus goes from Sheffield interchange), then you weave out through the suburbs, and you watch the landscape change from city to moorland as you get deep into the Peak District. I just love it, and it doesn’t take that long, and it’s quite affordable. 
 
 With bus travel, most people think of it as a way to get from A to B. But this trip highlights how spectacular some of those journeys can be.
+
+> "With bus travel, most people think of it as a way to get from A to B. But this highlights how spectacular some of those journeys can be."
 
 #### Maggie 
 
