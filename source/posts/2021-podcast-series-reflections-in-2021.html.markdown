@@ -16,7 +16,7 @@ As Flight Free 2021 draws to a close, we bring the whole team together to reflec
 
 #### Gemma
 
-I went to Cornwall, and also to the South of France for my birthday. We went on the Eurostar, and then down through France on the train. It’s a really nice way to travel – it’s so relaxing, because you can just sit there for hours and watch the countryside go by, and the weather change. It was lovely, and I feel very lucky to have been able to do that this year. 
+I went to Cornwall, and also to the South of France for my birthday. We went on the Eurostar, and then down through France on the train. It’s a really nice way to travel – it’s so relaxing, because you can just sit there for hours and watch the countryside go by, and see the weather change. It was lovely, and I feel very lucky to have been able to do that this year. 
 
 There were a few Covid restrictions. We had to fill in a couple of forms to go into France, but no-one checked anything. We only needed to take a test on day two, and we didn’t have to isolate coming back from France. We had to do the Passenger Locator but it was fairly easy to come back to the UK, which was good.
 
