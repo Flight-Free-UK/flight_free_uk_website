@@ -68,9 +68,15 @@ With bus travel, most people think of it as a way to get from A to B. But this t
 
 #### Maggie 
 
-We went to Pembrokeshire for a week – it’s the third time we’ve been. We stay in a cottage that’s not too far from the beach and I went swimming every morning before breakfast. It’s a very popular beach but if you go there early it’s pretty quiet. Some days there were waves with white horses, and other days it was so still you could lie on your back and just float and look at the sun. In non-Covid times, people come from really far away to visit the Pembrokeshire coast but because it’s near at hand, people here take it for granted. 
+We went to Pembrokeshire for a week – it’s the third time we’ve been. We stay in a cottage that’s not too far from the beach and I went swimming every morning before breakfast. It’s a very popular beach but if you go there early it’s pretty quiet. Some days there were waves with white horses, and other days it was so still you could lie on your back and just float and look at the sun. 
 
-We also did some hyper-local travel. Early in the summer when we were still coming out of lockdown, we went to a place in Bristol called Blaise Hamlet. I thought it was crazy that I’d never been there. So one Sunday, we just walked. It was a really hot, sunny day and I felt exactly like I was on holiday in the South of France. We went through a little 18th century village, which I hadn’t realised existed, and into Blaise Hamlet which is a group of fabulously picturesque cottages that were built for old retainers of the Blaise estate to live in when they retired. They were gorgeous little gingerbread cottages with fruit trees and a village green. So that was a bit of an adventure!
+In non-Covid times, people come from really far away to visit the Pembrokeshire coast but because it’s near at hand, people here take it for granted. 
+
+We also did some hyper-local travel. Early in the summer when we were still coming out of lockdown, we went to a place in Bristol called Blaise Hamlet. I thought it was crazy that I’d never been there. So one Sunday, we just walked there. 
+
+> "We did some hyper-local travel. It was a really hot, sunny day and I felt exactly like I was in the South of France." 
+
+It was a really hot, sunny day and I felt exactly like I was on holiday in the South of France. We went through a little 18th century village, which I hadn’t realised existed, and into Blaise Hamlet which is a group of fabulously picturesque cottages that were built for old retainers of the Blaise estate to live in when they retired. They were gorgeous little gingerbread cottages with fruit trees and a village green. So that was a bit of an adventure!
 
 ### What conversations have you had with those around us about travel and flying?
 
