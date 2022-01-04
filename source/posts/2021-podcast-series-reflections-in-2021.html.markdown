@@ -20,6 +20,8 @@ I went to Cornwall, and also to the South of France for my birthday. We went on 
 
 There were a few Covid restrictions. We had to fill in a couple of forms to go into France, but no-one checked anything. We only needed to take a test on day two, and we didn’t have to isolate coming back from France. We had to do the Passenger Locator but it was fairly easy to come back to the UK, which was good.
 
+> "The train is a really nice way to travel – it’s so relaxing, because you can just sit there and watch the countryside go by."
+
 We were near Bordeaux, in Bergerac. I tried to convince my brother to come on the train with us, but he insisted on driving. We stayed in the area and did long walks. It’s nice to do nothing and just be somewhere else. 
 
 I would definitely recommend the train, compared with flying. It just feels so smooth, and it’s less stressful. You don’t have to worry about checking any bags in and them getting lost. The trains in Europe are really good and the connections are usually pretty good. It really doesn’t take as long as you think it does. I think people just have this idea in their heads that it takes a long time, but it doesn't take that much longer than a flight. 
@@ -28,7 +30,9 @@ I would definitely recommend the train, compared with flying. It just feels so s
 
 I took the overnight coach to Cornwall. It wasn’t quite as nice as getting a train but it was comfortable enough. Travelling overnight, you don’t waste any time and when you get there in the morning, you feel fresh enough. It was a lovely week, the weather was really good, and when it’s like that there’s not really anywhere else I’d rather be. 
 
-My tips for the coach…  there’s no shame in making yourself as comfortable as possible! Take a pillow or a neck pillow, an eye mask and earplugs. Get there early to get a good seat. For me, that means the seat with the most leg room. I would also recommend going with someone else: I did it on my own but I can imagine that would be a little bit more fun if you had someone to chat to. There are some really nice views down by Plymouth and through Cornwall as you arrive there in the morning. 
+> "The weather in Cornwall was really good, and when it’s like that there’s not really anywhere else I’d rather be." 
+
+My tips for the coach: there’s no shame in making yourself as comfortable as possible! Take a pillow or a neck pillow, an eye mask and earplugs. Get there early to get a good seat. For me, that means the seat with the most leg room. I would also recommend going with someone else: I did it on my own but I can imagine that would be a little bit more fun if you had someone to chat to. There are some really nice views down by Plymouth and through Cornwall as you arrive there in the morning. 
 
 #### Sunita
 
