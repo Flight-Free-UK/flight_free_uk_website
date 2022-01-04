@@ -32,7 +32,9 @@ I took the overnight coach to Cornwall. It wasn’t quite as nice as getting a t
 
 > "The weather in Cornwall was really good, and when it’s like that there’s not really anywhere else I’d rather be." 
 
-My tips for the coach: there’s no shame in making yourself as comfortable as possible! Take a pillow or a neck pillow, an eye mask and earplugs. Get there early to get a good seat. For me, that means the seat with the most leg room. I would also recommend going with someone else: I did it on my own but I can imagine that would be a little bit more fun if you had someone to chat to. There are some really nice views down by Plymouth and through Cornwall as you arrive there in the morning. 
+My tips for the coach: there’s no shame in making yourself as comfortable as possible! Take a pillow or a neck pillow, an eye mask and earplugs. Get there early to get a good seat. For me, that means the seat with the most leg room. 
+
+I would also recommend going with someone else: I did it on my own but I can imagine that would be a little bit more fun if you had someone to chat to. There are some really nice views down by Plymouth and through Cornwall as you arrive there in the morning. 
 
 #### Sunita
 
