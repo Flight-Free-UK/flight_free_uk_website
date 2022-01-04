@@ -90,7 +90,7 @@ I said, ‘Whatever you decide to do, I’ve taken a pledge to be flight free ne
 
 These conversations pop up sometimes, mostly for hypothetical holiday planning with my friends. They’ll talk about going somewhere hot and sunny and quick to get to. And I’ll mention that, for it to be feasible for me, I’ll need to be able to get there quickly without flying. You can see the cogs whirring amongst some of them, and they are definitely thinking about it. 
 
-> "My friends know that I don’t fly and they are interested to hear about the campaign and the reasoning behind it, and what it’s involved for me."
+> "My friends know that I don’t fly and they are interested to hear about the campaign and the reasoning behind it."
 
 My friends know that I don’t fly and they are interested to hear about the campaign and the reasoning behind it, and what it’s involved for me. It feels like quite an important thing to talk about. 
 
