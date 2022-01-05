@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "2022 podcast series: Could you be flight free in 2022?"
 category: opinion
 date: 2022-01-05T11:27:47.459Z
@@ -9,9 +9,9 @@ summary: In the first episode of our new series, we hear from people from all
 author: FlightFree UK
 read_time_minute: 6
 ---
-***This is episode 1 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021podcast-series-reflections-on-2021/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).***
+***This is episode 1 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-could-you-be-flight-free-in-2022/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).***
 
-### Welcome to a brand new series of The Flight Free podcast! 
+### Welcome to a brand new series of The Flight Free podcast!
 
 To kick off our new series we want to share with you the reasons why people are taking a flight free year, so in this episode you’ll hear from people from all over the UK and Ireland telling us about their motivations for signing up to the pledge. 
 
@@ -109,7 +109,7 @@ We hope that you’re inspired to make 2022 your year of being flight free. You 
 
 #### Hopefully, Covid allowing, we’ll be able to have some more grounded adventures this year, so whether you’re exploring the UK or heading further afield we wish you happy travels! 
 
-*This is episode 1 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021podcast-series-reflections-on-2021/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).*
+*This is episode 1 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-could-you-be-flight-free-in-2022/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).*
 
 ***Credits:***
 
