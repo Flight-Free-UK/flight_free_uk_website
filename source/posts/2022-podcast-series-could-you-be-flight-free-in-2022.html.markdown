@@ -101,11 +101,13 @@ On the [‘travel’ category](https://flightfree.co.uk/blog/categories/travel/)
 
 Of course, Covid is making everything very difficult right now. 
 
-To help plan your overland travel you could go to Byway.travel, headed up by Cat. There’s also the No Fly Travel Club that can help you as well, which you’ll find at noflytravel.club. And if you want to plan your own trips, go to seat61.com for information about travelling to any destination in the world without flying.
+To help plan your overland travel you could go to [Byway.travel](https://www.byway.travel/), headed up by Cat. There’s also the [No Fly Travel Club](https://noflytravel.club/) that can help you as well, and if you want to plan your own trips, go to [The Man in Seat 61](https://www.seat61.com/) for information about travelling to any destination in the world without flying.
 
-Miriam lives in Dublin, so her pledge counts towards the Ireland total, rather than the UK pledge. You can pledge from anywhere in the world – if you want to find out the worldwide pledge total you can go to the Swedish site that started the whole campaign, which is We Stay on the Ground.org
+Miriam lives in Dublin, so her pledge counts towards the Ireland total, rather than the UK pledge. You can pledge from anywhere in the world – if you want to find out the worldwide pledge total you can go to the Swedish site that started the whole campaign, which is [westayontheground.org](https://vihallerosspajorden.se/in-english/)
 
 Miriam wasn’t sure about taking the pledge but has found it to be a positive thing. We hear from a lot of people who aren’t sure if they could really commit to a pledge like this, but we find again and again that once people give it a try, they find that actually, taking a year off flying is really achievable. There can be many positives to it, and the pledge can be the prompt they need to try out a more sustainable lifestyle. We’re not saying you can never fly again, but one year often leads to another, and it can lead to a really positive lifestyle change. 
+
+> "Once people give it a try, they find that taking a year off flying is really achievable."
 
 Slow travel is definitely about relaxing and enjoying the sights and sounds, and it’s such a great way to see the world. 
 
