@@ -11,11 +11,11 @@ read_time_minute: 6
 ---
 ***This is episode 1 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-could-you-be-flight-free-in-2022/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).***
 
-### Welcome to a brand new series of The Flight Free podcast!
+## Welcome to a brand new series of The Flight Free podcast!
 
 To kick off our new series we want to share with you the reasons why people are taking a flight free year, so in this episode you’ll hear from people from all over the UK and Ireland telling us about their motivations for signing up to the pledge. 
 
-#### Why Flight Free?
+### Why Flight Free?
 
 Firstly, to reduce emissions. 
 
@@ -33,7 +33,7 @@ Fourthly, for justice.
 
 There are so many injustices surrounding aviation, and the biggest one is that it’s us living high carbon lifestyles who are causing the climate crisis, but it’s the people around the world who have done least to cause it who are suffering the most.
 
-#### Flight Free Fact
+### Flight Free Fact
 
 Not taking just one return transatlantic flight per year reduces your carbon footprint by 1.8 - 2.5 tonnes CO2, depending on where you are flying to.
 
@@ -93,7 +93,7 @@ Miriam wasn’t sure about taking the pledge but has found it to be a positive t
 
 Slow travel is definitely about relaxing and enjoying the sights and sounds, and it’s such a great way to see the world. 
 
-#### Destination of the month
+### Destination of the month
 
 Every month we recommend somewhere for you to visit. It could be here in the UK or it could be somewhere a bit further afield, but the crucial thing is you can, of course, get there without flying. 
 
