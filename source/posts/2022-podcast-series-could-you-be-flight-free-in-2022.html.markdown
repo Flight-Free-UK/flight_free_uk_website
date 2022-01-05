@@ -73,7 +73,7 @@ But if we stop flying because of the climate crisis, then we’re forcing indust
 
 One of the key injustices of the climate crisis is that our high-carbon lifestyles in the west are causing it, but it’s not us who are suffering. People across the world have been seeing the effects of climate change and living with the consequences for years, and they have done the least to cause it. So it’s part of climate justice that the people who are creating the most CO2 emissions, i.e. us, need to urgently reduce them. 
 
-> "Our high-carbon lifestyles are causing the climate crisis, but it’s not us who are suffering."
+> "Our high-carbon lifestyles are causing the climate crisis, but it’s other people who are suffering."
 
 For many people, flights can be the easiest thing to give up. It might seem hard to ditch the flights, especially because flights and travel can become a bit tied in with our personality, but most flights are not essential. 
 
