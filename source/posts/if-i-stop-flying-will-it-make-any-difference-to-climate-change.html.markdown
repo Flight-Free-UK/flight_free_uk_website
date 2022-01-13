@@ -3,7 +3,7 @@ published: true
 title: If I stop flying will it make any difference to climate change?
 category: opinion
 date: 2022-01-05T17:39:24.208Z
-cover_image: /images/uploads/looking_at_plane.jpg
+cover_image: /images/uploads/girl-looking-at-aeroplane.jpg
 summary: Stopping flying is one of the biggest things you can do to reduce your
   carbon footprint. But does that actually make any difference to climate
   change? We explore the issues.
