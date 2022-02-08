@@ -14,13 +14,6 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
-  - name: Emily Smith
-    role: Admin
-    photo: /images/uploads/emily-headshot.jpg
-    bio: Having studied a Geography BSc at university, Emily is aware of
-      environmental issues and their consequences. Now living in Essex, she
-      hopes to use her skills and knowledge from her degree to help educate and
-      inspire others to work towards a more sustainable future.
   - name: Bertie Lloyd
     role: Social Media
     bio: Bertie is a recent MSc Environmental Policy and Management graduate
@@ -29,6 +22,13 @@ members:
       from this to help engage people with the environmental issues related to
       flying.
     photo: /images/uploads/bertie-headshot.jpg
+  - name: Emily Smith
+    role: Admin
+    photo: /images/uploads/emily-headshot.jpg
+    bio: Having studied a Geography BSc at university, Emily is aware of
+      environmental issues and their consequences. Now living in Essex, she
+      hopes to use her skills and knowledge from her degree to help educate and
+      inspire others to work towards a more sustainable future.
   - name: "Gemma Pike "
     role: "Graphics and Design "
     bio: Gemma has always been passionate about the environment and reducing her
@@ -67,3 +67,12 @@ members:
       communication skills and creativity are put to good use as she heads up
       the social media team. "
     photo: /images/uploads/sunita.jpg
+  - name: Josephine Ayling
+    role: Social Media
+    photo: /images/uploads/josephine_ayling.jpg
+    bio: Based on Anglesey, Josephine is repping Wales for the Flight Free UK team.
+      Having graduated with an MSc in environmental anthropology from the
+      University of Kent, Josephine is interested in the relationships between
+      people and the natural world, and is passionate about how social media can
+      influence the way society thinks about flying and other issues of
+      sustainability.
