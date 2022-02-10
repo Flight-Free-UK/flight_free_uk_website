@@ -27,7 +27,9 @@ Choosing not to fly can be difficult when you live on a small island, but in the
 
 > “Choosing not to fly can be difficult when you live on a small island, but we have never regretted it or found it to be inconvenient.” 
 
-The UK is our only holiday destination and has been for many years. Pre-Covid we would get the ferry and drive the EV (a Nissan Leaf) to the Lake District for a week or two. We park the car and get a seven day public transport ticket to travel around the Lakes. 
+### The UK is our only holiday destination and has been for many years. 
+
+Pre-Covid we would get the ferry and drive the EV (a Nissan Leaf) to the Lake District for a week or two. We park the car and get a seven day public transport ticket to travel around the Lakes. 
 
 I don’t know if EVs are the answer due to the pollution and child labour involved in the extraction of cobalt from mines, particularly in the Congo, but I still think it is the lesser of two evils. Everything we use has an impact on the planet.
 
