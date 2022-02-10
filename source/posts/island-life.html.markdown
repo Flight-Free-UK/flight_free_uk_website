@@ -15,6 +15,8 @@ read_time_minute: 5
 
 After living in a city I was totally in awe of the natural beauty of the coast and the hills, and the clear blue waters. That was 45 years ago. It’s a lovely place to live and I wouldn’t want to move.
 
+> "After living in a city I was totally in awe of the natural beauty of the coast and the hills, and the clear blue waters."
+
 I love horses and have had some spectacular rides around the island over the years. I am always blown away when I see seals and basking sharks in our waters together with all the rest of the wildlife. The community is strong: folk are helpful and will even say hello to you even if they don’t know you. Not so much the youngsters nowadays, but times change.
 
 My husband and I both chose not to fly about 15 years ago after considering the environmental impact of flying. Previous to our decision, my husband flew all over the world in his Merchant Navy employment, and for around two years I was flying about every six weeks to visit my mother who lived in Runcorn. I would only fly now for emergency medical treatment and hope this never arises. 
