@@ -4,8 +4,8 @@ title: Island Life
 category: opinion
 date: 2022-01-20T15:09:30.133Z
 cover_image: /images/uploads/isle-of-man-james-qualtrough-unsplash.jpg
-summary: "Elaine Burton shares her experience of living on a small island while
-  also pledging to be flight free for life. "
+summary: "Elaine Burton shares her experience of living on a small island when
+  you've chosen to be flight free for life. "
 author: FlightFree UK
 read_time_minute: 5
 ---
