@@ -33,6 +33,8 @@ Pre-Covid we would get the ferry and drive the EV (a Nissan Leaf) to the Lake Di
 
 I don’t know if EVs are the answer due to the pollution and child labour involved in the extraction of cobalt from mines, particularly in the Congo, but I still think it is the lesser of two evils. Everything we use has an impact on the planet.
 
+> "I don’t know if EVs are the answer, but everything we use has an impact on the planet."
+
 We have noticed a change in the actual lakes themselves over the years. The water levels drop dramatically in the summer and it’s much drier. I suffer from asthma and I notice when staying in Ambleside how much worse my breathing becomes if we spend the day in and around the built-up areas due to the massive amount of through-traffic. 
 
 When the pandemic hit in 2020 there was hardly any traffic on our local island roads, and my asthma disappeared for months, the first time for over 30 years. It was incredible. If this doesn’t prove anything about traffic pollution I don’t know what does.
