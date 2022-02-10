@@ -21,7 +21,9 @@ I love horses and have had some spectacular rides around the island over the yea
 
 The community is strong: folk are helpful and will even say hello to you even if they don’t know you. Not so much the youngsters nowadays, but times change.
 
-My husband and I both chose not to fly about 15 years ago after considering the environmental impact of flying. Previous to our decision, my husband flew all over the world in his Merchant Navy employment, and for around two years I was flying about every six weeks to visit my mother who lived in Runcorn. I would only fly now for emergency medical treatment and hope this never arises. 
+### My husband and I both chose not to fly about 15 years ago after considering the environmental impact of flying. 
+
+Previous to our decision, my husband flew all over the world in his Merchant Navy employment, and for around two years I was flying about every six weeks to visit my mother who lived in Runcorn. I would only fly now for emergency medical treatment and hope this never arises. 
 
 Choosing not to fly can be difficult when you live on a small island, but in the 15 years since we made the decision, we have never regretted it and never found it to be inconvenient. 
 
