@@ -41,7 +41,9 @@ We have noticed a change in the actual lakes themselves over the years. The wate
 
 When the pandemic hit in 2020 there was hardly any traffic on our local island roads, and my asthma disappeared for months, the first time for over 30 years. It was incredible. If this doesn’t prove anything about traffic pollution I don’t know what does.
 
-It is obvious to me that travel needs to be addressed immediately. I think we are all so used to the status quo that it is not an issue to almost anyone. Certainly we are the only members of our immediate family who chose to live this way, apart from my mother in law who also does not fly and does not own a vehicle. 
+### It is obvious to me that travel needs to be addressed immediately. 
+
+I think we are all so used to the status quo that it is not an issue to almost anyone. Certainly we are the only members of our immediate family who chose to live this way, apart from my mother in law who also does not fly and does not own a vehicle. 
 
 > “It’s obvious to me that travel needs to be addressed immediately. We are all so used to the status quo it’s not an issue to almost anyone.”
 
