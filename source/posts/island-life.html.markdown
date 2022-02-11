@@ -7,7 +7,7 @@ cover_image: /images/uploads/isle-of-man-james-qualtrough-unsplash.jpg
 summary: "Elaine Burton shares her experience of what it's like to live on a
   small island if you've chosen to be flight free for life. "
 author: FlightFree UK
-read_time_minute: 5
+read_time_minute: 3
 ---
 *Cover picture by James Qualtrough on [Unsplash](https://unsplash.com/photos/Mcyx_SIkjt0).*
 
