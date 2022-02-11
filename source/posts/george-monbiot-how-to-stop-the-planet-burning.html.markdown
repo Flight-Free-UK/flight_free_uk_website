@@ -60,3 +60,5 @@ The fact of the matter is that there’s no magic formula – there’s no insta
 What you can do is slowly extend the circle of people who are prepared to get involved, and hope that each of them then persuades other people, and gradually you extend that circle of concern. The hope is that we manage to reach the critical mass – about 25% of the population – while there is still time to alter the outcome. I haven’t given up all hope of implementing that change. 
 
 ### Thank you for taking the time to speak to us George, and thanks for the work that you do!
+
+*You can hear more from George [at his website](https://www.monbiot.com/).*
