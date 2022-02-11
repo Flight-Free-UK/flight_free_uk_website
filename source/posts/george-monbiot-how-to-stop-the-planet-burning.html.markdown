@@ -45,7 +45,7 @@ Changing our behaviour alone will achieve very little. If the only thing you do 
 
 So what we need is structural and systemic change. However, we are much more likely to achieve that change if we live our values and show our commitment to the world we want to see. If the message we send out is that everyone else has got to change but not me, we’re far less likely to achieve that structural change. 
 
-"We are much more likely to achieve structural and systemic change if we live our values and show our commitment to the world we want to see."
+> "We are much more likely to achieve structural and systemic change if we live our values and show our commitment to the world we want to see."
 
 The climate and ecological crisis demands a whole new moral system, one that we haven’t yet properly developed. The moral philosophies of previous centuries are of very little use to us in negotiating these crises because they have so little to say about these remote and indirect impacts of what were previously considered to be innocent activities.
 
