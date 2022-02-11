@@ -9,9 +9,9 @@ summary: Journalist and environmental commentator George Monbiot speaks to us
 author: FlightFree UK
 read_time_minute: 4
 ---
-George Monbiot has had a long and prominent career as a disruptor and commentator. He writes a regular column for the Guardian and has previously worked at the BBC making investigative environmental programmes.
+**George Monbiot has had a long and prominent career as a disruptor and commentator. He writes a regular column for the Guardian and has previously worked at the BBC making investigative environmental programmes.**
 
-His work '[attempts to confront power with research, and to tell the stories you would prefer not to hear](https://www.monbiot.com/about/introduction-on-trying-to-be-less-wrong/).' This is our interview with George.
+**His work '[attempts to confront power with research, and to tell the stories you would prefer not to hear](https://www.monbiot.com/about/introduction-on-trying-to-be-less-wrong/).' This is our interview with George.**
 
 ### Hi George, and thanks for joining us. Lots of our pledgers were inspired to stop flying by your book 'Heat'. What is it about flights that we need to be aware of?
 
