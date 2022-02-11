@@ -13,7 +13,7 @@ George Monbiot has had a long and prominent career as a disruptor and commentato
 
 His work '[attempts to confront power with research, and to tell the stories you would prefer not to hear](https://www.monbiot.com/about/introduction-on-trying-to-be-less-wrong/).' This is our interview with George.
 
-### Hi George, and thanks for joining us. Lots of our pledgers were inspired to stop flying by your book Heat. What is it about flights that we need to be aware of?
+### Hi George, and thanks for joining us. Lots of our pledgers were inspired to stop flying by your book 'Heat'. What is it about flights that we need to be aware of?
 
 The particular problem with flying is that you produce an awful lot of greenhouse gas emissions very quickly indeed, and you can undo in one day all the savings you might have made in the rest of the year. 
 
