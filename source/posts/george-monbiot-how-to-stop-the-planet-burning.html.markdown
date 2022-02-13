@@ -61,4 +61,4 @@ What you can do is slowly extend the circle of people who are prepared to get in
 
 ### Thank you for taking the time to speak to us George, and thanks for the work that you do!
 
-*You can hear more from George [at his website](https://www.monbiot.com/).*
+*You can hear more from George [at his website](https://www.monbiot.com/). To take the flight free pledge and sign up for a flight free year, go [here](/index).*
