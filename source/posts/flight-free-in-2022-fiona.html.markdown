@@ -9,8 +9,6 @@ summary: '"After going around the whole world without flying, I can say that
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Image shows Fiona standing on a grassy cliff top with the sea in the background. She's holding a sign that says, flight free for the climate.](/images/uploads/fiona_testimonial.jpg)
-
 During my degree I came to realise that flying is one of the most environmentally damaging things we can do. The university had organised flights for an ecology field course in Ireland, but a friend and I decided we would get there by public transport instead. 
 
 On the way to catch the return coach at Shannon airport, my fellow environmental science and ecology students said, ‘The flight is going anyway,’ and that I was being ridiculous. I wasn’t swayed from my convictions. Eventually those flights will stop going, if we stop taking them. I have been flight free since 2008 and am never intending on flying again.
