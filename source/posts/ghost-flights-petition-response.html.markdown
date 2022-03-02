@@ -57,7 +57,7 @@ The strengthened justified non-use provision protects carriers and avoids the en
 
 Justified non-utilisation of slots sounds fair, and sounds as though it could genuinely prevent airlines flying planes for no reason.
 
-However! While the slot allocation was zero, almost 15,000 planes flew at 10% capacity or below. How many more will fly when the slot allocation reaches 70%?
+However! While the slot allocation was zero, [almost 15,000 planes flew at 10% capacity](https://www.theguardian.com/environment/2022/feb/22/almost-15000-ghost-flights-left-uk-since-pandemic-began) or below. How many more will fly when the slot allocation reaches 70%?
 
 With demand still below ‘normal' capacity, this means that airlines might still end up flying empty planes. 
 
