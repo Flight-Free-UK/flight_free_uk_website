@@ -11,7 +11,7 @@ read_time_minute: 6
 ---
 ## Launched in January 2022, [our petition](https://petition.parliament.uk/petitions/605749) asks the Government to change the rules so airlines do not have to fly empty planes in order to keep their landing slots.
 
-### At 10,000 signatures, the Government gave a response.
+### When we reached 10,000 signatures, the Government gave a response.
 
 Here is our analysis of that response.
 
