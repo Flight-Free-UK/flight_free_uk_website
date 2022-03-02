@@ -25,7 +25,7 @@ It's good that the Government acknowledges that ghost flights are environmentall
 
 When the Government says it ‘continues to provide alleviation from normal airport slot rules,’ it means that airlines are required to use 70% of their slots rather than the 'normal' 80%. 
 
-#### Government response
+#### Government response cont.
 
 In normal times, slot usage rules are in place to ensure that airport capacity is used effectively, and that competition exists for passengers at our most crowded airports. This supports lower fares, better availability of routes and higher service quality.
 
@@ -41,7 +41,7 @@ Never miss a chance to shoehorn in Brexit! It's interesting that the Government 
 
 There are other systems that can be put in place to ensure that airport capacity is used effectively, and that won't result in empty planes in the air. 
 
-#### Government response
+#### Government response cont.
 
 As the pandemic has gone on and demand begins to recover, the Government is keen to support recovery. For the current Winter 2021/22 season the Government has used the ATMUA Act 2021 to amend the slot usage retention rules. For Winter 2021/22 this has been reduced from 80% to 50%, and we have also allowed airlines to hand back full series of slots before the start of the season if they are not going to fly them. 
 
@@ -71,7 +71,7 @@ This is [how the industry sees it](https://www.independent.co.uk/travel/news-and
 
 In any case, even in ‘normal’ times planes still sometimes fly empty to keep slots, and have done for years.
 
-#### Government response
+#### Government response cont.
 
 These slot alleviation measures are only temporary, however as part of the Government’s future aviation policy we are actively looking at reform to the airport slot allocation process. We are developing the case and options for reforms to make the best use of airport capacity and deliver a better outcome for passengers.
 
@@ -79,7 +79,7 @@ These slot alleviation measures are only temporary, however as part of the Gover
 
 The Government has been saying that they are actively looking at reform to the airport slot allocation process since 2018 and so far no progress has been made.
 
-#### Government response
+#### Government response cont.
 
 The Government recognises that the aviation sector has a critical role to play in delivering the UK’s net zero commitments. In July 2021 we published the Jet Zero Consultation which sets out our vision for the sector to reach net zero by 2050. The consultation closed in September and we continue to carefully consider responses in the development of our final Jet Zero Strategy which we aim to publish later this year.
 
@@ -87,7 +87,7 @@ The Government recognises that the aviation sector has a critical role to play i
 
 The Jet Zero strategy is woefully inadequate as a way of dealing with the climate impact of aviation. [Our response is here](https://flightfree.co.uk/post/whats-wrong-with-jet-zero/).
 
-#### Government response
+#### Government response cont.
 
 The Government is already supporting a variety of technology, fuel and market-based measures to address aviation emissions. The Net Zero Strategy published in October 2021 confirmed our commitment to Jet Zero, for the UK to become a world-leader in zero emission flight and to build a world-leading sustainable aviation fuel (SAF) industry. The Government announced £180 million of additional funding for the development of SAF plants in the UK, further supporting our ambition to see 10% SAF blended into the UK fuel mix by 2030.
 
