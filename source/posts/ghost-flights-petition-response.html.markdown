@@ -64,7 +64,9 @@ With demand still below ‘normal' capacity, this means that airlines might stil
 This is [how the industry sees it](https://www.independent.co.uk/travel/news-and-advice/airline-slots-heathrow-airport-ghost-flights-b1999038.html):
 
 > “The UK government decision on slots, proposing the highest slot use threshold in the world, makes a mockery of their claims to be supporting the recovery of the airline industry and to be champions of the environment.
->
+
+
+
 > “It is inconceivable that international demand will average 70 per cent this summer. The government is therefore condemning airlines to operate thousands of flights at low capacity which is environmentally stupid.” 
 
 *~ Willie Walsh, director general of the International Air Transport Association (Iata)*
