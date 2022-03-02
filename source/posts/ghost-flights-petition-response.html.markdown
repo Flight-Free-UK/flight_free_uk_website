@@ -61,7 +61,7 @@ However! While the slot allocation was zero, [almost 15,000 planes flew at 10% c
 
 With demand still below ‘normal' capacity, this means that airlines might still end up flying empty planes. 
 
-This is [how the industry sees it](https://www.independent.co.uk/travel/news-and-advice/airline-slots-heathrow-airport-ghost-flights-b1999038.html):
+[Not even the industry](https://www.independent.co.uk/travel/news-and-advice/airline-slots-heathrow-airport-ghost-flights-b1999038.html) is happy:
 
 > “The UK government decision on slots, proposing the highest slot use threshold in the world, makes a mockery of their claims to be supporting the recovery of the airline industry and to be champions of the environment.
 
