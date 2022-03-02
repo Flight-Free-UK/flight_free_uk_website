@@ -37,7 +37,7 @@ The UK’s exit from the European Union means that it has been able to take a mo
 
 #### Flight Free UK
 
-Never miss a chance to shoehorn in Brexit! It's interesting that the Government is comparing its slot alleviation favourably to the EU. The EU currently require slots to be used at 64%, a figure kinder to airlines and kinder to the planet. 
+Never miss a chance to shoehorn in Brexit! It's interesting that the Government is comparing its slot alleviation favourably to the EU. The EU currently requires slots to be used at 64%, a figure kinder to airlines and kinder to the planet. 
 
 There are other systems that can be put in place to ensure that airport capacity is used effectively, and that won't result in empty planes in the air. 
 
