@@ -9,9 +9,9 @@ summary: "Here we analyse the Government's response to our petition to end ghost
 author: FlightFree UK
 read_time_minute: 6
 ---
-## Launched in January 2022, our petition asks the Government to change the rules so airlines do not have to fly empty planes in order to keep their landing slots. 
+## Launched in January 2022, our petition asks the Government to change the rules so airlines do not have to fly empty planes in order to keep their landing slots.
 
-### At 10,000 signatures, the Government gave a response. 
+### At 10,000 signatures, the Government gave a response.
 
 Here is our analysis of that response.
 
@@ -43,7 +43,9 @@ There are other systems that can be put in place to ensure that airport capacity
 
 #### Government response
 
-As the pandemic has gone on and demand begins to recover, the Government is keen to support recovery. For the current Winter 2021/22 season the Government has used the ATMUA Act 2021 to amend the slot usage retention rules. For Winter 2021/22 this has been reduced from 80% to 50%, and we have also allowed airlines to hand back full series of slots before the start of the season if they are not going to fly them. The provision to allow airlines to hand back full series of slots goes further than the equivalent alleviation in the European Union for Winter 2021/22 which did not include a full series hand back. By encouraging airlines to hand back their slots where there is insufficient demand, this has dramatically reduced the volume of empty or almost empty flights. This has also provided other airlines with the opportunity to make use of these slots, where there is sufficient demand, with new entrants being awarded temporary slots at some of our most congested airports.
+As the pandemic has gone on and demand begins to recover, the Government is keen to support recovery. For the current Winter 2021/22 season the Government has used the ATMUA Act 2021 to amend the slot usage retention rules. For Winter 2021/22 this has been reduced from 80% to 50%, and we have also allowed airlines to hand back full series of slots before the start of the season if they are not going to fly them. 
+
+The provision to allow airlines to hand back full series of slots goes further than the equivalent alleviation in the European Union for Winter 2021/22 which did not include a full series hand back. By encouraging airlines to hand back their slots where there is insufficient demand, this has dramatically reduced the volume of empty or almost empty flights. This has also provided other airlines with the opportunity to make use of these slots, where there is sufficient demand, with new entrants being awarded temporary slots at some of our most congested airports.
 
 Following a review of the latest available data and evidence, the Secretary of State decided that alleviation remains justified for the Summer 2022 season.
 
@@ -59,7 +61,7 @@ However! While the slot allocation was zero, almost 15,000 planes flew at 10% ca
 
 With demand still below ‘normal' capacity, this means that airlines might still end up flying empty planes. 
 
-This is [how the industry sees it](<https://www.independent.co.uk/travel/news-and-advice/airline-slots-heathrow-airport-ghost-flights-b1999038.html>):
+This is [how the industry sees it](https://www.independent.co.uk/travel/news-and-advice/airline-slots-heathrow-airport-ghost-flights-b1999038.html):
 
 > “The UK government decision on slots, proposing the highest slot use threshold in the world, makes a mockery of their claims to be supporting the recovery of the airline industry and to be champions of the environment.
 >
