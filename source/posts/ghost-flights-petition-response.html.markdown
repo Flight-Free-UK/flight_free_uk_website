@@ -9,7 +9,7 @@ summary: "Here we analyse the Government's response to our petition to end ghost
 author: FlightFree UK
 read_time_minute: 6
 ---
-## Launched in January 2022, our petition asks the Government to change the rules so airlines do not have to fly empty planes in order to keep their landing slots.
+## Launched in January 2022, [our petition](https://petition.parliament.uk/petitions/605749) asks the Government to change the rules so airlines do not have to fly empty planes in order to keep their landing slots.
 
 ### At 10,000 signatures, the Government gave a response.
 
