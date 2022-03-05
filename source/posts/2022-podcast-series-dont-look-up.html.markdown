@@ -48,7 +48,7 @@ Some part of her knows that that's not the most skilful way to reach people, but
 
 We're born into this incredibly beautiful cosmic oasis, this wondrous web of life, this pale blue dot spinning through the cold void of space, and it's just marvellous. To me, life is the most wonderful thing and I feel so much gratitude to be able to have this time here on this amazing earth. 
 
-> "Knowing we’re permanently destroying so much of life on Earth and setting up this horrendous future for young people today and future generations. It's unnecessary to me."
+> "Sometimes I can't go to sleep at night because of the irreversibility of what we're doing to the Earth’s system."
 
 Sometimes I can't go to sleep at night because of the irreversibility of what we're doing to the Earth’s system, knowing that we’re permanently destroying so much of life on Earth and setting up this horrendous future for young people today and future generations. It all seems completely unnecessary to me.
 
