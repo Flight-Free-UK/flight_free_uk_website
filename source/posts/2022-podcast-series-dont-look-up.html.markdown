@@ -102,7 +102,7 @@ I think that's a lot to be said for humour. There are people doing research into
 
 I would love to see some research on this, but my feeling is that comedy is kind of like a side door into people's brains. I think these barriers go up; people cherry-pick information. Somehow comedy can get in behind all that and help people realign those different parts of their brains. Maybe they start aligning their beliefs and their actions with the actual factual beliefs that they hold. I don't know exactly how that works on a psychological level, but it makes a lot of sense to me intuitively. 
 
-> "Comedy is kind of like a side door into people's brains. I think these barriers go up; people cherry-pick information. Somehow comedy can get in behind all that."
+> "Comedy is kind of like a side door into people's brains. Barriers go up; people cherry-pick information. Somehow comedy can get in behind all that."
 
 There are so many climate stories to be told. Don't Look Up was not a story of how we got out of this mess, but that's okay, because it was a story of where we are and it woke a lot of people up. Maybe it will lead to more climate stories that talk about solutions and solidarity, that allow us to start to feel what it would be like if society does shift into emergency mode.
 
