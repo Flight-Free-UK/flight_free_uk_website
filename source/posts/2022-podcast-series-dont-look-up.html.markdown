@@ -60,9 +60,11 @@ Franny’s film The Age of Stupid stars Pete Postlethwaite as a man looking back
 
 I was thinking, I've spent five years on this – this is my contribution to the fight against climate change. When it's done, I am going to retire from climate change. But when we finished the film and showed it to people, everybody said, what can I do about climate change? It slowly dawned on me that this was just the beginning. 
 
-> "When we finished the film and showed it to people, everybody said, what can I do about climate change? It slowly dawned on me that this was just the beginning."
+> "When we finished the film and showed it to people, everybody said, what can I do about climate change? It dawned on me that this was just the beginning."
 
-We knew we had to do an impact campaign and eventually came up with the idea for 10:10, which was the campaign that we ran with the Guardian asking everybody to cut their emissions by 10% in 2010. It took off massively. A third of the local councils, the government, thousands of schools, London Zoo, Royal Opera House, all these celebrities came on board to cut their emissions by 10%. That was a fantastic achievement and that campaign is still going 12 years later, although it has now become [Possible](https://www.wearepossible.org/). 
+We knew we had to do an impact campaign and eventually came up with the idea for 10:10, which was the campaign that we ran with the Guardian asking everybody to cut their emissions by 10% in 2010. 
+
+It took off massively. A third of the local councils, the government, thousands of schools, London Zoo, Royal Opera House, all these celebrities came on board to cut their emissions by 10%. That was a fantastic achievement and that campaign is still going 12 years later, although it has now become [Possible](https://www.wearepossible.org/). 
 
 ### Flight Free UK
 
@@ -90,7 +92,7 @@ We did it in July 2020 and it took river pollution from an issue that was not ta
 
 One of the benefits of story-telling and film-making is that you can make something entertaining and therefore get it in front of an audience who wouldn’t ordinarily hear that message. Don’t Look Up was really funny! It’s supposed to be entertaining – that’s the point. 
 
-We had the comedian Matt Winning at our End-of-year party last year, who does stand up about climate. Initially, you question how someone can make climate change funny but it opens up the topic to a new audience, because they go for the comedy but get taught about climate change. We asked Franny and Peter what they thought about that…
+We asked Franny and Peter what they thought about using comedy to explore the issue of climate change.
 
 ### Franny
 
