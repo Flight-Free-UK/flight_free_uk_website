@@ -96,7 +96,7 @@ We asked Franny and Peter what they thought about using comedy to explore the is
 
 ### Franny
 
-I think that's a lot to be said for humour. There are people doing research into this: the point at which you're laughing or just after, you're more likely to take on board a point that is counter to what you currently believe. Whether that's true or not, it definitely rings true for me and that's why we've made two climate comedies, similar to Don’t Look Up in spirit. We’re trying to communicate climate change in a different way.
+I think there's a lot to be said for humour. There are people doing research into this: the point at which you're laughing or just after, you're more likely to take on board a point that is counter to what you currently believe. Whether that's true or not, it definitely rings true for me and that's why we've made two climate comedies, similar to Don’t Look Up in spirit. We’re trying to communicate climate change in a different way.
 
 ### Peter
 
