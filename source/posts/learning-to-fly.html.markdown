@@ -8,19 +8,31 @@ summary: What do school trips by air really teach us?
 author: FlightFree UK
 read_time_minute: 4
 ---
-We all know the power of education. Our schools have immense potential to raise responsible, caring, knowledgeable adults who will go on to shape the society of the future. It is during these years that personalities emerge, characters are developed, and ideologies form that will guide pupils for the rest of their lives. 
+## We all know the power of education. 
+
+### Our schools have immense potential to raise responsible, caring, knowledgeable adults who will go on to shape the society of the future. 
+
+It is during the school years that personalities emerge, characters are developed, and ideologies form that will guide pupils for the rest of their lives. 
 
 Within our education system there is huge potential to instil in children the urgency of the climate crisis, and explore its solutions. So why are we still taking school trips by air?
 
 Being taught about renewable energy in science, extreme weather impacts in geography, and the effect of the climate crisis upon humans and the natural world in PSHE is all very well, but so often, these lessons end at the classroom door. Beyond turning off the lights, there’s no sense of the action we need to take, or of the difficult reality that everything about the way we live is going to have to change. Perhaps schools are missing the biggest lesson of all: leading by example.
 
+> "Perhaps schools are missing the biggest lesson of all: leading by example."
+
 You see, the problem with school trips by air is not just the emissions, though that is important – a school-age pupil doesn’t typically have a huge personal carbon footprint, but this soon changes as soon as you put them on a flight. No, the main problem is in the normalisation of flying. When we put our children on planes, we teach them that flying is normal. The behaviours we learn in our childhood are likely to shape the people we become. By promoting flying at an early age we are creating a generation of people who fly. 
+
+> "When we put our children on planes, we teach them that flying is normal."
 
 When we teach our children about the impacts of climate change, then encourage high-carbon behaviours such as flying, we create a disconnect between the reality of the climate crisis and the reality of what it will take to address it. We are delaying meaningful climate action by another generation.
 
-There is no doubt that school trips offer a rich, unforgettable experience, and add great value to our school years. This is the perfect age to experience other cultures, to learn about tolerance, to open eyes and minds to the world beyond the school gates. It’s also a great opportunity to pick up some practical tools of how to travel, and to nurture independence and curiosity. Yet all this can be achieved without getting on a plane. We are so lucky with Europe – all of the educational experiences that we’re looking for are right here on our doorstep, available by train, coach, and boat: transport options that are much more compatible with our climate situation.
+There is no doubt that school trips offer a rich, unforgettable experience, and add great value to our school years. This is the perfect age to experience other cultures, to learn about tolerance, to open eyes and minds to the world beyond the school gates. It’s also a great opportunity to pick up some practical tools of how to travel, and to nurture independence and curiosity. 
 
-Travel is a wonderful gift that teaches us about the world and our place in it. But does air travel do that? Or are we just learning how to fly? 
+> "Travel teaches us about the world and our place in it. But does air travel do that?" 
+
+Yet all this can be achieved without getting on a plane. We are so lucky with Europe – all of the educational experiences that we’re looking for are right here on our doorstep, available by train, coach, and boat: transport options that are much more compatible with our climate situation.
+
+### Travel is a wonderful gift that teaches us about the world and our place in it. But does air travel do that? Or are we just learning how to fly? 
 
 \*\**
 
