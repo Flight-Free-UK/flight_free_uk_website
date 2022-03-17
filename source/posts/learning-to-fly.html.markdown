@@ -56,7 +56,9 @@ If you know of a school that offers trips by air and want to help buck the trend
 
 *But there are injustices on a local scale, too. Not everyone can afford a trip to New York. Offering trips that are accessible to everyone is much fairer, and demonstrates the kind of society we would like to build.*
 
-*There is no doubt that school trips are terrific learning experiences. They are opportunities to develop relationships with friends, to see other cultures and to learn new things. However, none of these things is dependent on a flight. For a music and drama trip, would you not consider somewhere closer to home? There are thriving musical communities in cities across the UK: Manchester, Newcastle, Wakefield, Gateshead and Edinburgh to name just a few. For the excitement of an overseas trip, how about a coach journey and a ferry to Dublin, Amsterdam or Paris? Or for a world-class West End experience, look no further than London.* 
+*There is no doubt that school trips are terrific learning experiences. They are opportunities to develop relationships with friends, to see other cultures and to learn new things. However, none of these things is dependent on a flight. For a music and drama trip, would you not consider somewhere closer to home?* 
+
+*There are thriving musical communities in cities across the UK: Manchester, Newcastle, Wakefield, Gateshead and Edinburgh to name just a few. For the excitement of an overseas trip, how about a coach journey and a ferry to Dublin, Amsterdam or Paris? Or for a world-class West End experience, look no further than London.* 
 
 *At this crucial time, it is incumbent upon us to do everything we can to address the climate crisis. This applies to our work in and out of the classroom. I would argue that the payoff of high carbon trips such as this one is simply not worth it, and creates problems for future generations.*
 
