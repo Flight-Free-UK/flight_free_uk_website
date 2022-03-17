@@ -3,7 +3,7 @@ published: true
 title: "2022 podcast series: Could you be flight free in 2022?"
 category: opinion
 date: 2022-01-05T11:27:47.459Z
-cover_image: /images/uploads/january2022_podcast_thumbnail.jpg
+cover_image: /images/uploads/jan22_podcast_image.jpg
 summary: In the first episode of our new series, we hear from people from all
   over the UK and Ireland about why they're taking the flight free pledge.
 author: FlightFree UK
