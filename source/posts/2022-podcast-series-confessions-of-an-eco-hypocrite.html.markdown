@@ -84,7 +84,7 @@ It’s important to see yourself within these broader systems rather than being 
 
 ### Flight Free UK
 
-Thanks to Sami for joining us this month. You can read more from Sami at his [website](https://www.samigrover.com/) where you can also buy his book, ‘We’re all climate hypocrites now’. He’s also on Twitter @samigrover \[link] 
+Thanks to Sami for joining us this month. You can read more from Sami at his [website](https://www.samigrover.com/) where you can also buy his book, ‘We’re all climate hypocrites now’. He’s also on Twitter [@samigrover](https://twitter.com/samigrover?s=21).
 
 ### Destination of the Month
 
@@ -92,7 +92,7 @@ Every month we recommend somewhere for you to visit. It could be here in the UK 
 
 This month we’re recommending Sami’s hometown of Clevedon, North Somerset. It’s a lovely seaside town near Bristol with an ornate Victorian pier, good fish and chips, a beach with a swimming area, and beautiful surrounding hills.
 
-This is a summary of episode 3 of our 2022 podcast series. Listen to the full episode here \[link to Podbean/hosting site] and find other episodes and previous series here \[link to podcast page on website]
+This is a summary of episode 3 of our 2022 podcast series. Listen to the full episode here \[link to Podbean/hosting site] and find other episodes and previous series [here](/podcast/).
 
 Credits:
 
