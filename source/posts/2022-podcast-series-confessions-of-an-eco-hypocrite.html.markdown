@@ -9,9 +9,9 @@ summary: Self-confessed climate hypocrite Sami Grover joins us to discuss if our
 author: FlightFree UK
 read_time_minute: 5
 ---
-*This is episode 3 of our 2022 podcast series. Listen to the episode here \[link to Podbean/hosting site] and find other episodes and previous series [here](/podcast/).*
+*This is episode 3 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/confessions-of-an-eco-hypocrite/) and find other episodes and previous series [here](/podcast/).*
 
-### In this month’s episode we’re discussing eco hypocrisy, and what can actually have an impact when it comes to reducing our emissions. 
+### In this month’s episode we’re discussing eco hypocrisy, and what can actually have an impact when it comes to reducing our emissions.
 
 #### We’ll also be talking about how individual action relates to system change.
 
@@ -99,7 +99,7 @@ Every month we recommend somewhere for you to visit. It could be here in the UK 
 
 This month we’re recommending Sami’s hometown of Clevedon, North Somerset. It’s a lovely seaside town near Bristol with an ornate Victorian pier, good fish and chips, a beach with a swimming area, and beautiful surrounding hills.
 
-#### This is a summary of episode 3 of our 2022 podcast series. Listen to the full episode here \[link to Podbean/hosting site] and find other episodes and previous series [here](/podcast/).
+#### This is a summary of episode 3 of our 2022 podcast series. Listen to the full episode [here](https://flightfreeuk.podbean.com/e/confessions-of-an-eco-hypocrite/) and find other episodes and previous series [here](/podcast/).
 
 *Credits:*
 
