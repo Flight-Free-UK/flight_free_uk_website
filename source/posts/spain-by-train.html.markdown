@@ -31,10 +31,14 @@ My favourite moment was recognising the mountains south of Lyon. Decades before,
 
 As we journeyed across northern Spain on day two, I took photos of the stations I recognised and sent them to friends who had lived or come from there – it blew us away and drove home that I was really doing this!
 
+> "The real magic of this kind of travel is finding yourself sitting next to a stranger with whom you have loads in common."
+
 Then came the real magic of this kind of travel – finding yourself sitting next to a stranger with whom you have loads in common, and having the luxury of time for a wide-ranging, multiple-hour chat. 
 
 Eventually we reached the olive trees and the dry rolling landscapes of my home. From Malaga I caught a bus, recognising more and more with each mile of closeness. And when I walked home along the sea front, nothing could compare to the mixture of disbelief, exhilaration, joy and relief I felt that I had done it!
 
+> "Slow travel is a journey and adventure that widens the scope of the holiday."
+
 Slow travel is a journey and adventure that widens the scope of the holiday. I enjoyed and savoured every second on the fast, smooth, elegant European high-speed trains. Each mile was thrilling and empowering. I felt a deeper bond to the earth as I watched the landscapes change. Whenever my friends at home told people how I had travelled there, it was fun to watch the curiosity over their faces as they asked me about cost, time, etc and as they started to believe that such a thing could be possible. 
 
-All travel changes you. As an EU citizen living in the UK, I visit family two to three times a year. I am now determined to continue to keep my bilingual and bicultural life alive as sustainably as I can as I travel back and forth between my homes.
+#### All travel changes you. As an EU citizen living in the UK, I visit family two to three times a year. I am now determined to continue to keep my bilingual and bicultural life alive as sustainably as I can as I travel back and forth between my homes.
