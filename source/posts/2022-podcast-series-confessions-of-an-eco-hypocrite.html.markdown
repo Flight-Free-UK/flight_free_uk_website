@@ -39,7 +39,9 @@ For example, I once vowed never to fly again, but the last flight I took was a w
 
 > “Our movement often focuses on personal purity, but what we should be looking at is our specific power to make change.”
 
-Our movement often focuses on personal purity, but what we should be looking at is our specific power to make change. That’s not to say that what we do in our personal lives doesn’t have an impact, because it does: if you choose not to fly then you are making a significant impact on both your direct emissions and the systems around us, but the larger part of that is the impact you’re having on the system. So we need to figure out our own place in the system, where we have the most power, and where we can cut ourselves and others some slack.
+Our movement often focuses on personal purity, but what we should be looking at is our specific power to make change. That’s not to say that what we do in our personal lives doesn’t have an impact, because it does: if you choose not to fly then you are making a significant impact on both your direct emissions and the systems around us, but the larger part of that is the impact you’re having on the system. 
+
+So we need to figure out our own place in the system, where we have the most power, and where we can cut ourselves and others some slack.
 
 ### Flight Free UK
 
@@ -69,7 +71,7 @@ That was my concern about writing the book. The one thing I do not want this boo
 
 I hope the book encourages people to find those places that work for them, but also to be understanding that what works for you might not work for somebody else. And if that’s the case, it does not mean that you two are opposed or standing against each other, it means that you are working on different pieces of the puzzle.
 
-> ”What works for you might not work for someone else. It does not mean you two are opposed, it means you are working on different pieces of the puzzle.”
+> ”What works for you might not work for someone else. It does not mean you are opposed, it means you are working on different pieces of the puzzle.”
 
 In the book I also explore the function of shame. It is an important social regulator. We feel shame when we do something that is outside of social norms and when people witness us doing something outside of social norms. It can be used powerfully to change behaviours. But the trouble is, the more we use it, the less powerful it becomes. 
 
