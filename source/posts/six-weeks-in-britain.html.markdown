@@ -1,20 +1,21 @@
 ---
 published: false
-title: Six weeks in Britain
+title: Six weeks of British summer
 category: travel
 date: 2022-03-20T09:51:01.351Z
 cover_image: /images/uploads/04-2021_podcast_website_thumbnail.jpg
-summary: 6 weeks
+summary: "With six weeks to go travelling, Eddie picked a place he'd not really
+  explored before: the UK."
 author: FlightFree UK
 read_time_minute: 8
 ---
-## Five years ago I spent five months travelling around the Philippines, New Zealand, Australia, Thailand and Cambodia, to fill a gap between finishing one job and starting another. It took going to the other side of the world for me to realise that I should really explore more of the geographical wonders within the cluster of islands where I grew up: the British Isles. Saving up so much money to go to the opposite side of the planet didn’t really make much sense.
+## Five years ago I spent five months travelling around the Philippines, New Zealand, Australia, Thailand and Cambodia, to fill a gap between finishing one job and starting another.
+
+### It took going to the other side of the world for me to realise that I should really explore more of the geographical wonders within the cluster of islands where I grew up: the British Isles. Saving up so much money to go to the opposite side of the planet didn’t really make much sense.
 
 Fast forward five years, and I now had another between-jobs opportunity, with five weeks of leave accrued from the job I was about to leave, and a delayed start on my new job, giving me six weeks to explore. By this point I had already decided to quit flying, having realised the extent of the climate emergency, and the massive emissions that come from travelling by air. Where else would I spend my six weeks but in Great Britain?
 
 The hardest part was deciding where to go and what to do. I love nature, so whale and dolphin spotting in the Hebrides was on the list. But then there were new adventure sports to try and old ones that I would love to do again: coasteering, canyoning, sea kayaking, kitesurfing, bungee jumping, rock climbing… Or maybe something more gentle, like fell-walking, fishing, foraging, wild camping, or even a silent retreat? And don’t forget the world class distilleries, breweries, museums, music festivals, castles and other heritage sites to be found all over the UK.
-
-> “With so much choice, I kept putting off making a plan.”
 
 With so much choice, I kept putting off making a plan, only deciding at the last minute that the mountains of Scotland would be a good place to start. A friend who had ‘bagged’ all the Munros recommended the Cairngorms, so that’s where I headed, and for the rest of the time, I would see what happened. There were already two things in the diary: a music festival on the south coast where I volunteer each year as a roadie, and a family trip to Snowdonia, but apart from that I was happy to make it up as I went along.
 
@@ -49,5 +50,3 @@ What have I learnt from spending six weeks travelling around Britain instead of 
 > “So many things I’d presumed were only available in more exotic destinations are available right here on our doorstep.”
 
 I could easily have spent the six weeks just walking or Munro-bagging or surfing or learning a couple of new extreme sports – I’ve hardly scratched the surface of all there is to do. I think we overlook Britain when we’re planning our holidays, but my trip turned out to be even better than I’d hoped. The weather was surprisingly good too, and some sunburn even managed to sneak through my factor 50+. It was great to do nearly all of it by train, by bike, or on my own two feet. Ample adventures accomplished and many memories made, and all without it costing the earth.
-
-
