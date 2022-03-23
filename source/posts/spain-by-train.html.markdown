@@ -27,7 +27,9 @@ Even though a trip like this is undoubtedly more expensive than flying, I didn�
 
 By the time I had transferred to the TGV at Gare de Lyon in Paris, I was deep into the wonder and ‘thick experience’ of overland travel. I had already made a fun experience of it, staying a couple of nights with family in Birmingham and another couple of nights with a friend in London, and the transfer across Paris had brought back plenty of wonderful memories of when I used to live there. From the top deck of the TGV I could relax and watch the changing scenery go by.
 
-My favourite moment was recognising the mountains south of Lyon. Decades before, I had been part of a group renovating a medieval tower in a little village in the mountains, and it was joyous to see this part of the world again. As the Mediterranean pines appeared, the light changed into that luminous warm glow that told me we were passing into beautiful Provence. I was looking forward to seeing the Mediterranean and the first proof of being near home, but I was not prepared for the marvel of crossing the salt flats around Perpignan and seeing the Pyrenees glowing in sunset.
+My favourite moment was recognising the mountains south of Lyon. Decades before, I had been part of a group renovating a medieval tower in a little village in the mountains, and it was joyous to see this part of the world again. As the Mediterranean pines appeared, the light changed into that luminous warm glow that told me we were passing into beautiful Provence. 
+
+I was looking forward to seeing the Mediterranean and the first proof of being near home, but I was not prepared for the marvel of crossing the salt flats around Perpignan and seeing the Pyrenees glowing in sunset.
 
 As we journeyed across northern Spain on day two, I took photos of the stations I recognised and sent them to friends who had lived or come from there – it blew us away and drove home that I was really doing this!
 
@@ -39,6 +41,8 @@ Eventually we reached the olive trees and the dry rolling landscapes of my home.
 
 > "Slow travel is a journey and adventure that widens the scope of the holiday."
 
-Slow travel is a journey and adventure that widens the scope of the holiday. I enjoyed and savoured every second on the fast, smooth, elegant European high-speed trains. Each mile was thrilling and empowering. I felt a deeper bond to the earth as I watched the landscapes change. Whenever my friends at home told people how I had travelled there, it was fun to watch the curiosity over their faces as they asked me about cost, time, etc and as they started to believe that such a thing could be possible. 
+Slow travel is a journey and adventure that widens the scope of the holiday. I enjoyed and savoured every second on the fast, smooth, elegant European high-speed trains. Each mile was thrilling and empowering. I felt a deeper bond to the earth as I watched the landscapes change. 
+
+Whenever my friends at home told people how I had travelled there, it was fun to watch the curiosity over their faces as they asked me about cost, time, etc and as they started to believe that such a thing could be possible. 
 
 #### All travel changes you. As an EU citizen living in the UK, I visit family two to three times a year. I am now determined to continue to keep my bilingual and bicultural life alive as sustainably as I can as I travel back and forth between my homes.
