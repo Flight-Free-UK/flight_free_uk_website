@@ -87,7 +87,7 @@ I would say they are both right and wrong. It’s absolutely rational to say, �
 
 We need to be at peace with our relative lack of power as individuals, and also recognise this immense power we have to come together and build collective responses. If you are struggling, maybe you are looking at the wrong part of the puzzle. Or maybe you haven't found the right people to look at that puzzle with. 
 
-> “We need to be at peace with our relative lack of power as individuals, and also recognise this immense power we have to come together and build collective responses.”
+> “We need to be at peace with our relative lack of power as individuals, yet also recognise our immense power to come together.”
 
 It’s important to see yourself within these broader systems rather than being isolated and limited to your own footprint. My concern about focusing on carbon footprints is that it brings us into a place where we are asking ourselves ‘how can we be less bad?’, but there's much more power in asking ‘how can we do the most good?’
 
