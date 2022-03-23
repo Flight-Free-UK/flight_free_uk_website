@@ -3,7 +3,7 @@ published: true
 title: "Ghost flights petition: response"
 category: opinion
 date: 2022-03-02T18:12:00.817Z
-cover_image: /images/uploads/ghost-flights-petition.jpg
+cover_image: /images/uploads/ghost-flights-petition-sign.jpg
 summary: "Here we analyse the Government's response to our petition to end ghost
   flights. "
 author: FlightFree UK
