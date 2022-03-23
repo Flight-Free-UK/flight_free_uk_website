@@ -17,9 +17,9 @@ I had done plenty of overland journeys in my youth, taking trains across Europe 
 
 But this was by far a much (much!) longer and more significant journey. I admit I wondered if I had it in me.
 
-> "My commitment to sustainability had only deepened with time. I had been dreaming of this trip for a long time."
-
 For obvious reasons I couldn't take the trip (the flight free 2020 pledge was easy to keep in the end!), so by summer 2021, my plan was well formed, and overdue. My anxiety about Covid-secure travel was more than matched by my commitment to sustainability and my excitement to make it home at last, both of which had only deepened with time. I had been dreaming of this trip for a long time and my heart was totally in it.
+
+> "My commitment to sustainability had only deepened with time. I had been dreaming of this trip for a long time."
 
 Even though a trip like this is undoubtedly more expensive than flying, I didn’t look too closely at the financial cost, because I was making a journey that would cost the earth less than a flight. I was actually more concerned about travelling overland in Covid times, and was nervous as I stood in line to show the Covid paperwork at St Pancras. I needn’t have worried: once on the fiercely-ventilated Eurostar, the familiar joy of adventure, of seeing places I love again and of discovering new ones, took over.
 
