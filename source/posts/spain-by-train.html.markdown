@@ -13,11 +13,17 @@ read_time_minute: 3
 
 ### When I discovered there was a whole flight free movement, I joined the pledge to go flight free in 2020, and in April 2020 I had planned to travel from my home in Lancashire (where I live) to my home in the southernmost tip of Spain (where I was born) by train and bus. 
 
-I had done plenty of overland journeys in my youth, taking trains across Europe and buses from France to the UK or to visit my family in Spain. Time and energy seemed more on my side back then. But this was by far a much (much!) longer and more significant journey. I admit I wondered if I had it in me.
+I had done plenty of overland journeys in my youth, taking trains across Europe and buses from France to the UK or to visit my family in Spain. Time and energy seemed more on my side back then. 
+
+But this was by far a much (much!) longer and more significant journey. I admit I wondered if I had it in me.
+
+> "My commitment to sustainability had only deepened with time. I had been dreaming of this trip for a long time."
 
 For obvious reasons I couldn't take the trip (the flight free 2020 pledge was easy to keep in the end!), so by summer 2021, my plan was well formed, and overdue. My anxiety about Covid-secure travel was more than matched by my commitment to sustainability and my excitement to make it home at last, both of which had only deepened with time. I had been dreaming of this trip for a long time and my heart was totally in it.
 
 Even though a trip like this is undoubtedly more expensive than flying, I didn’t look too closely at the financial cost, because I was making a journey that would cost the earth less than a flight. I was actually more concerned about travelling overland in Covid times, and was nervous as I stood in line to show the Covid paperwork at St Pancras. I needn’t have worried: once on the fiercely-ventilated Eurostar, the familiar joy of adventure, of seeing places I love again and of discovering new ones, took over.
+
+> "The familiar joy of adventure, of seeing places I love again and of discovering new ones, took over."
 
 By the time I had transferred to the TGV at Gare de Lyon in Paris, I was deep into the wonder and ‘thick experience’ of overland travel. I had already made a fun experience of it, staying a couple of nights with family in Birmingham and another couple of nights with a friend in London, and the transfer across Paris had brought back plenty of wonderful memories of when I used to live there. From the top deck of the TGV I could relax and watch the changing scenery go by.
 
