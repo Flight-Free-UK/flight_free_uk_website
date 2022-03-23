@@ -11,11 +11,15 @@ read_time_minute: 6
 ---
 *Cover image: heather in the Cairngorms*
 
-## Five years ago I spent five months travelling around the Philippines, New Zealand, Australia, Thailand and Cambodia, to fill a gap between finishing one job and starting another.
+## Five years ago I spent several months travelling around the Philippines, New Zealand, Australia, Thailand and Cambodia, to fill a gap between finishing one job and starting another.
 
-### It took going to the other side of the world for me to realise that I should really explore more of the geographical wonders in the cluster of islands where I grew up: the British Isles. Saving up so much money to go to the opposite side of the planet didn’t really make much sense.
+### It took going to the other side of the world for me to realise that I should really explore more of the cluster of islands where I grew up: the British Isles. Saving up so much money to go to the opposite side of the planet didn’t really make much sense.
+
+> "Saving up so much money to go to the opposite side of the planet didn’t really make much sense."
 
 Fast forward five years, and I now had another between-jobs opportunity, with five weeks of leave accrued from the job I was about to leave, and a delayed start on my new job, giving me six weeks to explore. By this point I had already decided to quit flying, having realised the extent of the climate emergency, and the massive emissions that come from travelling by air. Where else would I spend my six weeks but in Great Britain?
+
+> "By this point I had already decided to quit flying. Where else would I spend my six weeks but in Great Britain?"
 
 The hardest part was deciding where to go and what to do. I love nature, so whale and dolphin spotting in the Hebrides was on the list. But then there were new adventure sports to try and old ones that I would love to do again: coasteering, canyoning, sea kayaking, kitesurfing, bungee jumping, rock climbing… Or maybe something more gentle, like fell-walking, fishing, foraging, wild camping, or even a silent retreat? And don’t forget the world class distilleries, breweries, museums, music festivals, castles and other heritage sites to be found all over the UK.
 
