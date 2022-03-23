@@ -75,4 +75,4 @@ I think we overlook Britain when we’re planning our holidays, but my trip turn
 
 #### Ample adventures accomplished and many memories made, and all without it costing the earth.
 
-*Written by Eddie Latimer. You can read more from Eddie [here](/post/sorry-boss-ive-given-up-flying).*
+*Written by Eddie Latimer. You can read more from Eddie [here](/post/sorry-boss-i-ve-given-up-flying).*
