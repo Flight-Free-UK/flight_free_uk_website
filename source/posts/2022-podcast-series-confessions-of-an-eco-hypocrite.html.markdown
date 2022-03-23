@@ -2,7 +2,7 @@
 published: true
 title: "2022 podcast series: Confessions of an eco hypocrite"
 category: opinion
-date: 2022-03-01T11:35:35.948Z
+date: 2022-03-23T11:35:35.948Z
 cover_image: /images/uploads/march22_podcast_thumbnail_large.jpg
 summary: Self-confessed climate hypocrite Sami Grover joins us to discuss if our
   actions really do make a difference.
