@@ -17,11 +17,15 @@ read_time_minute: 6
 
 > "Saving up so much money to go to the opposite side of the planet didn’t really make much sense."
 
-Fast forward five years, and I now had another between-jobs opportunity, with five weeks of leave accrued from the job I was about to leave, and a delayed start on my new job, giving me six weeks to explore. By this point I had already decided to quit flying, having realised the extent of the climate emergency, and the massive emissions that come from travelling by air. Where else would I spend my six weeks but in Great Britain?
+Fast forward five years, and I now had another between-jobs opportunity, with five weeks of leave accrued from the job I was about to leave, and a delayed start on my new job, giving me six weeks to explore. 
+
+By this point I had already decided to quit flying, having realised the extent of the climate emergency, and the massive emissions that come from travelling by air. Where else would I spend my six weeks but in Great Britain?
 
 > "By this point I had already decided to quit flying. Where else would I spend my six weeks but in Great Britain?"
 
-The hardest part was deciding where to go and what to do. I love nature, so whale and dolphin spotting in the Hebrides was on the list. But then there were new adventure sports to try and old ones that I would love to do again: coasteering, canyoning, sea kayaking, kitesurfing, bungee jumping, rock climbing… Or maybe something more gentle, like fell-walking, fishing, foraging, wild camping, or even a silent retreat? And don’t forget the world class distilleries, breweries, museums, music festivals, castles and other heritage sites to be found all over the UK.
+The hardest part was deciding where to go and what to do. I love nature, so whale and dolphin spotting in the Hebrides was on the list. But then there were new adventure sports to try and old ones that I would love to do again: coasteering, canyoning, sea kayaking, kitesurfing, bungee jumping, rock climbing… 
+
+Or maybe something more gentle, like fell-walking, fishing, foraging, wild camping, or even a silent retreat? And don’t forget the world class distilleries, breweries, museums, music festivals, castles and other heritage sites to be found all over the UK.
 
 With so much choice, I kept putting off making a plan, only deciding at the last minute that the mountains of Scotland would be a good place to start. A friend who had ‘bagged’ all the Munros recommended the Cairngorms, so that’s where I headed, and for the rest of the time, I would see what happened. There were already two things in the diary: a music festival on the south coast where I volunteer each year as a roadie, and a family trip to Snowdonia, but apart from that I was happy to make it up as I went along.
 
