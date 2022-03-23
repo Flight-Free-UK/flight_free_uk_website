@@ -25,7 +25,7 @@ So basing it on the population of the UK, that means we only need around 2.5 mil
 
 A great example of someone who has inspired change beyond their own action is of course Greta Thunberg. 
 
-She skipped school on the 20th August 2018 to protest outside of parliament for more action against climate change. By November more than 17,000 students in 24 countries took part in Friday school strikes, and it’s now a global movement. 
+She skipped school on the 20th August 2018 to protest outside the Swedish parliament for more action against climate change. By November more than 17,000 students in 24 countries took part in Friday school strikes, and it’s now a global movement. 
 
 ### Flight Free UK
 
