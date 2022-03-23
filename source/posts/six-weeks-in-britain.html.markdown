@@ -21,9 +21,9 @@ Fast forward five years, and I now had another between-jobs opportunity, with fi
 
 By this point I had already decided to quit flying, having realised the extent of the climate emergency, and the massive emissions that come from travelling by air. Where else would I spend my six weeks but in Great Britain?
 
-> "By this point I had already decided to quit flying. Where else would I spend my six weeks but in Great Britain?"
-
 The hardest part was deciding where to go and what to do. I love nature, so whale and dolphin spotting in the Hebrides was on the list. But then there were new adventure sports to try and old ones that I would love to do again: coasteering, canyoning, sea kayaking, kitesurfing, bungee jumping, rock climbing… 
+
+> "Where else would I spend my six weeks but in Great Britain?"
 
 Or maybe something more gentle, like fell-walking, fishing, foraging, wild camping, or even a silent retreat? And don’t forget the world class distilleries, breweries, museums, music festivals, castles and other heritage sites to be found all over the UK.
 
