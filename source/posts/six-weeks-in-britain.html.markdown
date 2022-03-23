@@ -7,7 +7,7 @@ cover_image: /images/uploads/cairngorms_heather.jpg
 summary: "If you had six weeks to go travelling, where would you go? Eddie
   picked somewhere he'd not really explored before: the UK."
 author: FlightFree UK
-read_time_minute: 8
+read_time_minute: 6
 ---
 *Cover image: heather in the Cairngorms*
 
