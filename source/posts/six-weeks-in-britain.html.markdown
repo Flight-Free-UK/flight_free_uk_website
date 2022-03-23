@@ -53,7 +53,7 @@ Snowdonia is breathtaking. Everywhere you look is another magnificent view. We f
 
 At last it was back to base camp for the final time to prepare for starting my new job, with a whole load of new experiences and memories of the amazing places in the UK. 
 
-### What have I learnt from spending six weeks travelling around Britain instead of jetting off somewhere? 
+### What have I learnt from spending six weeks travelling around Britain instead of jetting off somewhere?
 
 Trying not to sound too much like a travel agent, mainly that there are so many more adventures to be had here in the UK than I’d ever realised. So many things I’d presumed were only available in more exotic destinations are available right here on our doorstep. A lot of the scenery is far more stunning than I expected, and I’ve still never even stepped foot in Ireland! There’s so much more to discover. 
 
@@ -64,3 +64,5 @@ I could easily have spent the six weeks just walking or Munro-bagging or surfing
 I think we overlook Britain when we’re planning our holidays, but my trip turned out to be even better than I’d hoped. The weather was surprisingly good too, and some sunburn even managed to sneak through my factor 50+. It was great to do nearly all of it by train, by bike, or on my own two feet. 
 
 #### Ample adventures accomplished and many memories made, and all without it costing the earth.
+
+*Written by Eddie Latimer. You can read more from Eddie [here](/post/sorry-boss-ive-given-up-flying).*
