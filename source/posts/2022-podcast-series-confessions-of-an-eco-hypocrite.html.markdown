@@ -11,7 +11,7 @@ read_time_minute: 5
 ---
 *This is episode 3 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/confessions-of-an-eco-hypocrite/) and find other episodes and previous series [here](/podcast/).*
 
-### In this month’s episode we’re discussing eco hypocrisy, and what can actually have an impact when it comes to reducing our emissions.
+### In this month’s episode we’re discussing eco-hypocrisy, and what can actually have an impact when it comes to reducing our emissions.
 
 #### We’ll also be talking about how individual action relates to system change.
 
@@ -29,7 +29,7 @@ She skipped school on the 20th August 2018 to protest outside the Swedish parlia
 
 ### Flight Free UK
 
-Hi Sami! Welcome to the podcast. What do you mean by the term ‘eco hypocrite’?
+Hi Sami! Welcome to the podcast. What do you mean by the term ‘eco-hypocrite’?
 
 ### Sami
 
