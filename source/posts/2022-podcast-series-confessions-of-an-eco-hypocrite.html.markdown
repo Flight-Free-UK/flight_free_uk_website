@@ -2,15 +2,18 @@
 published: false
 title: "2022 podcast series: Confessions of an eco hypocrite"
 category: opinion
-date: 2022-03-21T11:35:35.948Z
-cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
-summary: In this month’s episode we’re discussing eco hypocrisy, and what can
-  actually have an impact when it comes to reducing our emissions. We’ll also be
-  talking about how individual action relates to system change.
+date: 2022-03-01T11:35:35.948Z
+cover_image: /images/uploads/march22_podcast_thumbnail_large.jpg
+summary: Self-confessed climate hypocrite Sami Grover joins us to discuss if our
+  actions really do make a difference.
 author: FlightFree UK
-read_time_minute: 8
+read_time_minute: 5
 ---
 *This is episode 3 of our 2022 podcast series. Listen to the episode here \[link to Podbean/hosting site] and find other episodes and previous series [here](/podcast/).*
+
+### In this month’s episode we’re discussing eco hypocrisy, and what can actually have an impact when it comes to reducing our emissions. 
+
+#### We’ll also be talking about how individual action relates to system change.
 
 Our guest is Sami Grover, who will talk about using our individual leverage for positive impact on our environment, in a world that doesn’t always make it easy to do so. His book ‘We’re All Climate Hypocrites Now’ has been described as ‘honest’ and ‘insightful’ as well as a ‘tour de force for hope’.
 
@@ -68,7 +71,9 @@ I hope the book encourages people to find those places that work for them, but a
 
 > ”What works for you might not work for someone else. It does not mean you two are opposed, it means you are working on different pieces of the puzzle.”
 
-In the book I also explore the function of shame. It is an important social regulator. We feel shame when we do something that is outside of social norms and when people witness us doing something outside of social norms. It can be used powerfully to change behaviours. But the trouble is, the more we use it, the less powerful it becomes. We should maintain shame as this powerful weapon and target it where we need to use it, as long as we understand the power of shaming, strategically and tactically. It might be that shaming frequent flyers is the right tactic. It might even be that shaming me is the right tactic! I think that’s OK if it has the desired result, but we have to be aware of the consequences and find the right place where it’s going to be effective.
+In the book I also explore the function of shame. It is an important social regulator. We feel shame when we do something that is outside of social norms and when people witness us doing something outside of social norms. It can be used powerfully to change behaviours. But the trouble is, the more we use it, the less powerful it becomes. 
+
+We should maintain shame as this powerful weapon and target it where we need to use it, as long as we understand the power of shaming, strategically and tactically. It might be that shaming frequent flyers is the right tactic. It might even be that shaming me is the right tactic! I think that’s OK if it has the desired result, but we have to be aware of the consequences and find the right place where it’s going to be effective.
 
 ### Flight Free UK
 
@@ -76,7 +81,9 @@ What would you say to someone who feels overwhelmed in the current circumstances
 
 ### Sami
 
-I would say they are both right and wrong. It’s absolutely rational to say, ‘The plane was going to fly anyway,’ but it's also rational to say that the plane was going to fly anyway because 200 people also decided that. We need to be at peace with our relative lack of power as individuals, and also recognise this immense power we have to come together and build collective responses. If you are struggling, maybe you are looking at the wrong part of the puzzle. Or maybe you haven't found the right people to look at that puzzle with. 
+I would say they are both right and wrong. It’s absolutely rational to say, ‘The plane was going to fly anyway,’ but it's also rational to say that the plane was going to fly anyway because 200 people also decided that. 
+
+We need to be at peace with our relative lack of power as individuals, and also recognise this immense power we have to come together and build collective responses. If you are struggling, maybe you are looking at the wrong part of the puzzle. Or maybe you haven't found the right people to look at that puzzle with. 
 
 > “We need to be at peace with our relative lack of power as individuals, and also recognise this immense power we have to come together and build collective responses.”
 
@@ -92,10 +99,10 @@ Every month we recommend somewhere for you to visit. It could be here in the UK 
 
 This month we’re recommending Sami’s hometown of Clevedon, North Somerset. It’s a lovely seaside town near Bristol with an ornate Victorian pier, good fish and chips, a beach with a swimming area, and beautiful surrounding hills.
 
-This is a summary of episode 3 of our 2022 podcast series. Listen to the full episode here \[link to Podbean/hosting site] and find other episodes and previous series [here](/podcast/).
+#### This is a summary of episode 3 of our 2022 podcast series. Listen to the full episode here \[link to Podbean/hosting site] and find other episodes and previous series [here](/podcast/).
 
-Credits:
+*Credits:*
 
-Episode produced by Louise Millington and narrated by Eveline Vouillemin and Louise Millington. 
+*Episode produced by Louise Millington and narrated by Eveline Vouillemin and Louise Millington.* 
 
-Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)
+*Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)*
