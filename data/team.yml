@@ -77,6 +77,14 @@ members:
     name: Maggie Robertson
     photo: /images/uploads/maggie.jpg
     role: Blog
+  - name: Sophie Davison
+    role: Social Media
+    bio: "Based near Leeds, Sophie is an MSc Psychology graduate, with a particular
+      interest in behaviour change. Running a vintage clothing shop inspired her
+      to help others make sustainable changes. She hopes to use her knowledge of
+      behaviour change and social media to engage people in the #FlightFree2022
+      campaign."
+    photo: /images/uploads/sophie_davison.jpg
   - name: Sunita Soundur
     role: Social Media
     bio: "Engaged with many environmental and social justice issues, Sunita
