@@ -3,7 +3,7 @@ published: true
 title: Is it better to be vegan or give up flying?
 category: climate
 date: 2022-04-25T11:19:14.447Z
-cover_image: /images/uploads/bar_chart.jpg
+cover_image: /images/uploads/vegan-flightfree.jpg
 summary: It’s commonly quoted that animal agriculture produces more CO2 than
   aviation, therefore giving up meat would have more impact than giving up
   flying. We look at the numbers behind the claims.
