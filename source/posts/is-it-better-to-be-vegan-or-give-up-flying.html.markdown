@@ -10,9 +10,9 @@ summary: It’s commonly quoted that animal agriculture produces more CO2 than
 author: FlightFree UK
 read_time_minute: 6
 ---
-## Many headlines say that ‘giving up meat and dairy is the biggest single thing you can do for the planet.’ 
+## Many headlines say that ‘giving up meat and dairy is the biggest single thing you can do for the planet.’
 
-### Reducing your intake of animal products is a terrific way to lower your emissions, but is it really as simple to say it's the best? 
+### Reducing your intake of animal products is a terrific way to lower your emissions, but is it really as simple as to say it's the best?
 
 We’re here to look at the numbers and determine how much impact we can all have when it comes to our lifestyle choices. 
 
@@ -60,7 +60,7 @@ The reason that most sources still refer to carbon dioxide is mostly for simplic
 
 #### Other impacts
 
-The 2.06 tonne figure takes into account the full field-to-fork impact. It includes greenhouse gases from production, transportation, storage, cooking and wastage. The global figure of 14.5% also includes these aspects of the industry. 
+The 2.06 tonne figure for eating meat takes into account the full field-to-fork impact. It includes greenhouse gases from production, transportation, storage, cooking and wastage. The global figure of 14.5% for animal agriculture also includes these aspects of the industry. 
 
 The figure for aviation also takes into account non-CO2 impacts, such as nitrous oxide and water vapour from contrails. 
 
