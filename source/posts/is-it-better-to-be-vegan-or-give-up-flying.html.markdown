@@ -64,7 +64,7 @@ The 2.06 tonne figure for eating meat takes into account the full field-to-fork 
 
 The figure for aviation also takes into account non-CO2 impacts, such as nitrous oxide and water vapour from contrails. 
 
-Of course, there are lots of reasons why many people choose to be vegan other than because of the greenhouse gas emissions. In many cases, farming has a negative impact on biodiversity, and water use and pollutants from run-off are also an issue. Animal welfare is, naturally, the big one, and health plays its part. 
+Of course, there are lots of reasons why people might choose to be vegan, other than because of the greenhouse gas emissions. In many cases, farming has a negative impact on biodiversity, and water use and pollutants from run-off are also an issue. Animal welfare is, naturally, the big one, and health plays its part. 
 
 Similarly, there are lots of reasons to give up flying beyond the emissions: airport noise and pollution make life difficult for people and wildlife, and there are plenty of justice issues surrounding aviation, not least that only half of all Brits fly in any given year, yet we all pay the price of rising emissions (and through our taxes to subsidise the industry). On a personal level, a flight-free life is a much calmer, more enjoyable one, so being flight free can be as good for ourselves as for the planet.
 
