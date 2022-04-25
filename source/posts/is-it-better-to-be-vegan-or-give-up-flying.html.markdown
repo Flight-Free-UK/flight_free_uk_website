@@ -68,7 +68,7 @@ Of course, there are lots of reasons why people might choose to be vegan, other 
 
 Similarly, there are lots of reasons to give up flying beyond the emissions: airport noise and pollution make life difficult for people and wildlife, and there are plenty of justice issues surrounding aviation, not least that only half of all Brits fly in any given year, yet we all pay the price of rising emissions (and through our taxes to subsidise the industry). On a personal level, a flight-free life is a much calmer, more enjoyable one, so being flight free can be as good for ourselves as for the planet.
 
-Driving emissions are tailpipe emissions only, and don't take into account the manufacturing of the vehicle. This is because that’s a one-off carbon cost, and doesn’t go up or down the more you drive – whereas with meat consumption, the entire field-to-fork process is repeated with each meal. Similarly, aviation figures don’t take into account the carbon costs of infrastructure or manufacture (aviation figures would be a lot higher if they did!)
+Driving emissions are tailpipe emissions only, and don't take into account the manufacturing of the vehicle. This is because that’s a one-off carbon cost, and doesn’t go up or down the more you drive – whereas with meat consumption, the entire field-to-fork process is repeated with each meal. Similarly, aviation figures don’t take into account the carbon costs of infrastructure or manufacture (imagine how high the figures would be if they did!)
 
 #### So, is it better to be vegan or flight free?
 
