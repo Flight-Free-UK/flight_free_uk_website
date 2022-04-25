@@ -32,6 +32,8 @@ However, these stats talk about global figures. Globally, the animal agriculture
 
 When we look at the individual picture, the numbers are even more stark. While reducing or cutting your meat intake can do wonders for lowering your carbon footprint, with estimates suggesting that you can [save a full tonne of CO2 per year by going vegan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), taking a flight anywhere outside Europe can immediately heap it back on.
 
+> "The savings made through adopting a vegan diet are quickly extinguished."
+
 Per passenger, a trip (return) to the east coast of the USA will generate between [1.3 and 1.9 tonnes CO2](https://flightemissionmap.org/). For the west coast, it would be above 2 tonnes. Heading the other way, a holiday in the popular tourist destination of Bangkok will add 2.5 tonnes to your emissions, and if you're going as far as New Zealand, well, it's closer to 5 tonnes. The savings made through adopting a vegan diet are quickly extinguished – and then some.
 
 #### We use a graph on the [Why Flight Free](https://flightfree.co.uk/why_flight_free/) page of our website that shows how one return flight from the UK to Bali produces many more emissions per passenger than eating meat for a year. 
@@ -40,6 +42,8 @@ Per passenger, a trip (return) to the east coast of the USA will generate betwee
 
 This doesn’t mean that we think people shouldn’t bother reducing their meat consumption. It's a very powerful step to take for the planet and the animals, and your own health. We considered very carefully whether to compare diet to aviation at all, because comparisons can be misinterpreted or can be unhelpful. Anyone can make a comparison go their way or be used to illustrate their own agenda. 
 
+> "One flight can generate more emissions than a year’s worth of meat consumption or driving a car."
+
 But it’s useful to hold up the impact of aviation in relation to other lifestyle choices, to put things into context. We also chose driving a car, as meat consumption and road transport are generally known to be fairly high in emissions. But the average reader might be surprised to know that just one flight can generate more emissions than a year’s worth of doing one or the other of those activities.
 
 The graph states that eating meat for a year would generate 2.06 tonnes CO2, driving for a year generates 1.73 tonnes, and each passenger on a return flight to Bali would be responsible for 3.37 tonnes CO2. 
@@ -47,6 +51,8 @@ The graph states that eating meat for a year would generate 2.06 tonnes CO2, dri
 #### Here’s how we arrived at the figures.
 
 The flight emissions data comes from [flightemissionmap.org](http://flightemissionmap.org). 
+
+> "The average person in the UK eats 85kg meat per day."
 
 According to [this BBC report](https://www.bbc.co.uk/news/explainers-59232599) from 2019, the average person in the UK eats 85kg meat per day. That qualifies as a medium meat eater according to [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), which shows that the diet of medium meat-eater produces 5.63kg CO2 per day. Multiply that by 365, and you get 2054.95kg over the course of a year, or 2.06 tonnes (rounded up).
 
@@ -77,3 +83,5 @@ In conclusion: definitely take steps to reduce your meat consumption, for all of
 There’s no doubt that in order to avoid catastrophic climate change, we must change everything about the way we live: what we eat, how we heat our homes, what we wear and how we travel. For some of us, one thing might be easier than another, and we each need to work out where our greatest impact lies. 
 
 But if you see a headline that states ‘the single biggest thing you can do for the planet is xxx,’ be a little wary. The answer is going to be a bit more complicated than that.
+
+> "In order to avoid catastrophic climate change, we must change everything about the way we live."
