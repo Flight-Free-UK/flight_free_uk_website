@@ -72,7 +72,7 @@ Driving emissions are tailpipe emissions only, and don't take into account the m
 
 #### So, is it better to be vegan or flight free?
 
-In conclusion: definitely take steps to reduce your meat consumption, for all of the reasons outlined above. Please also try to reduce the amount you fly, perhaps by taking a flight free year? Our director is [vegan and flight free](https://www.vegansociety.com/news/blog/flight-free-and-vegan), and she would urge you to give both a try – as well as leaving your car at home, installing solar energy on your house, and composting your waste rather than sending it to landfill.
+In conclusion: definitely take steps to reduce your meat consumption, for all of the reasons outlined above. Please also try to reduce the amount you fly, perhaps by taking a [flight free year](/index). Our director is [vegan and flight free](https://www.vegansociety.com/news/blog/flight-free-and-vegan), and she would urge you to give both a try – as well as leaving your car at home, installing solar energy on your house, and composting your waste rather than sending it to landfill.
 
 There’s no doubt that in order to avoid catastrophic climate change, we must change everything about the way we live: what we eat, how we heat our homes, what we wear and how we travel. For some of us, one thing might be easier than another, and we each need to work out where our greatest impact lies. 
 
