@@ -78,7 +78,7 @@ Of course, there are lots of reasons why people might choose to be vegan, other 
 
 > "Only half of all Brits fly in any given year, yet we all pay the price of rising emissions."
 
-Similarly, there are lots of reasons to give up flying beyond the emissions: airport noise and pollution make life difficult for people and wildlife, and there are plenty of justice issues surrounding aviation, not least that only half of all Brits fly in any given year, yet we all pay the price of rising emissions (and through our taxes to subsidise the industry). On a personal level, a flight-free life is a much calmer, more enjoyable one, so being flight free can be as good for ourselves as for the planet.
+Similarly, there are lots of reasons to give up flying beyond the emissions: airport noise and pollution make life difficult for people and wildlife, and there are plenty of justice issues surrounding aviation, not least that only half of all Brits fly in any given year, yet we all pay the price of rising emissions (and through our taxes to subsidise the industry). On a personal level, travelling overland can be much less stressful, more enjoyable and more relaxing than flying, so being flight free can be as good for ourselves as for the planet.
 
 #### So, is it better to be vegan or flight free?
 
