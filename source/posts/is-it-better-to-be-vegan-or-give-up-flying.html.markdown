@@ -84,7 +84,7 @@ Similarly, there are lots of reasons to give up flying beyond the emissions: air
 
 In conclusion: definitely take steps to reduce your meat consumption, for all of the reasons outlined above. Please also try to reduce the amount you fly, perhaps by taking a [flight free year](/index). Our director is [vegan and flight free](https://www.vegansociety.com/news/blog/flight-free-and-vegan), and she would urge you to give both a try – as well as leaving your car at home, installing solar energy on your house, and composting your waste rather than sending it to landfill.
 
-> "Take steps to reduce your meat consumption, and please also try to reduce the amount you fly."
+> "Take steps to reduce your meat consumption, and also try to reduce the amount you fly."
 
 There’s no doubt that in order to avoid catastrophic climate change, we must change everything about the way we live: what we eat, how we heat our homes, what we wear and how we travel. For some of us, one thing might be easier than another, and we each need to work out where our greatest impact lies. 
 
