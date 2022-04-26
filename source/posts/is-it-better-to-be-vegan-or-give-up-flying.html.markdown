@@ -50,13 +50,13 @@ The graph states that eating meat for a year would generate 2.06 tonnes CO2, dri
 
 #### Here’s how we arrived at the figures.
 
-The flight emissions data comes from [flightemissionmap.org](http://flightemissionmap.org). 
+The flight emissions data comes from [flightemissionmap.org](http://flightemissionmap.org) (figures accurate as of March 2022). 
 
 > "The average person in the UK eats 85kg meat per day."
 
-According to [this BBC report](https://www.bbc.co.uk/news/explainers-59232599) from 2019, the average person in the UK eats 85kg meat per day. That qualifies as a medium meat eater according to [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), which shows that the diet of medium meat-eater produces 5.63kg CO2 per day. Multiply that by 365, and you get 2054.95kg over the course of a year, or 2.06 tonnes (rounded up).
+According to [this BBC report](https://www.bbc.co.uk/news/explainers-59232599) from 2019, the average person in the UK eats 85kg meat per day. That qualifies as a medium meat eater according to [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), which shows that the diet of medium meat-eater produces 5.63kg CO2 per day (figures accurate as of March 2022). Multiply that by 365, and you get 2054.95kg over the course of a year, or 2.06 tonnes (rounded up).
 
-With regards to driving, [this website](https://www.nimblefins.co.uk/average-co2-emissions-car-uk) tells us that the average CO2 emissions per car in the UK in 2019 were 227.6g per mile. Considering the average car drives 76,000 miles per year in the UK, that makes 1,729kg, rounded up to 1.73 tonnes. (This data was accessed in March 2022, but the website has since been updated to give slightly different figures). 
+With regards to driving, [this website](https://www.nimblefins.co.uk/average-co2-emissions-car-uk) tells us that the average CO2 emissions per car in the UK in 2019 were 227.6g per mile. Considering the average car drives 76,000 miles per year in the UK, that makes 1,729kg, rounded up to 1.73 tonnes (figures accurate as of March 2022). 
 
 #### CO2 or GHG? 
 
