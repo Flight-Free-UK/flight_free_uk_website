@@ -88,4 +88,4 @@ In conclusion: definitely take steps to reduce your meat consumption, for all of
 
 There’s no doubt that in order to avoid catastrophic climate change, we must change everything about the way we live: what we eat, how we heat our homes, what we wear and how we travel. For some of us, one thing might be easier than another, and we each need to work out where our greatest impact lies. 
 
-But if you see a headline that states ‘the single biggest thing you can do for the planet is xxx,’ be a little wary. The answer is going to be a bit more complicated than that.
+### But if you see a headline that states ‘the single biggest thing you can do for the planet is xxx,’ be a little wary. The answer is going to be a bit more complicated than that.
