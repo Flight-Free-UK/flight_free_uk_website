@@ -72,7 +72,7 @@ The 2.06 tonne figure for eating meat takes into account the full field-to-fork 
 
 The figure for aviation also takes into account non-CO2 impacts, such as nitrous oxide and water vapour from contrails. 
 
-Driving emissions are tailpipe emissions only, and don't take into account the manufacturing of the vehicle. This is because that’s a one-off carbon cost, and doesn’t go up or down the more you drive – whereas with meat consumption, the entire field-to-fork process is repeated with each meal. Similarly, aviation figures don’t take into account the carbon costs of infrastructure or manufacture (imagine how high the figures would be if they did!)
+Driving emissions are tailpipe emissions only, and don't take into account the manufacturing of the vehicle. This is because that’s a one-off carbon cost, and doesn’t go up or down the more you drive – whereas with meat consumption, the entire field-to-fork process is repeated with each meal. Similarly, aviation figures don’t take into account the carbon costs of infrastructure or manufacture (imagine how high the figures would be if they did!).
 
 Of course, there are lots of reasons why people might choose to be vegan, other than because of the greenhouse gas emissions. In many cases, farming has a negative impact on biodiversity, and water use and pollutants from run-off are also an issue. Animal welfare is, naturally, the big one, and health plays its part. 
 
