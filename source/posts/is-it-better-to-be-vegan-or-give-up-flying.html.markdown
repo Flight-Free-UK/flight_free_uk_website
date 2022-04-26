@@ -42,7 +42,7 @@ Heading the other way, a holiday in the popular tourist destination of Bangkok w
 
 ![](/images/uploads/bar_chart.jpg)
 
-This doesn’t mean that we think people shouldn’t bother reducing their meat consumption. It's a very powerful step to take for the planet and the animals, and your own health. We considered very carefully whether to compare diet to aviation at all, because comparisons can be misinterpreted or can be unhelpful. Anyone can make a comparison go their way or be used to illustrate their own agenda. 
+This doesn’t mean that we think people shouldn’t bother reducing their meat consumption. It's a very powerful step to take for the planet and the animals, and your own health. We considered very carefully whether to compare diet to aviation at all, because comparisons can be misinterpreted or be unhelpful. Anyone can make a comparison go their way or be used to illustrate their own agenda. 
 
 > "One flight can generate more emissions than a year’s worth of meat consumption or driving a car."
 
