@@ -74,14 +74,16 @@ Of course, there are lots of reasons why people might choose to be vegan, other 
 
 Similarly, there are lots of reasons to give up flying beyond the emissions: airport noise and pollution make life difficult for people and wildlife, and there are plenty of justice issues surrounding aviation, not least that only half of all Brits fly in any given year, yet we all pay the price of rising emissions (and through our taxes to subsidise the industry). On a personal level, a flight-free life is a much calmer, more enjoyable one, so being flight free can be as good for ourselves as for the planet.
 
+> "Only half of all Brits fly in any given year, yet we all pay the price of rising emissions."
+
 Driving emissions are tailpipe emissions only, and don't take into account the manufacturing of the vehicle. This is because that’s a one-off carbon cost, and doesn’t go up or down the more you drive – whereas with meat consumption, the entire field-to-fork process is repeated with each meal. Similarly, aviation figures don’t take into account the carbon costs of infrastructure or manufacture (imagine how high the figures would be if they did!)
 
 #### So, is it better to be vegan or flight free?
 
 In conclusion: definitely take steps to reduce your meat consumption, for all of the reasons outlined above. Please also try to reduce the amount you fly, perhaps by taking a [flight free year](/index). Our director is [vegan and flight free](https://www.vegansociety.com/news/blog/flight-free-and-vegan), and she would urge you to give both a try – as well as leaving your car at home, installing solar energy on your house, and composting your waste rather than sending it to landfill.
 
+> "Take steps to reduce your meat consumption, and please also try to reduce the amount you fly."
+
 There’s no doubt that in order to avoid catastrophic climate change, we must change everything about the way we live: what we eat, how we heat our homes, what we wear and how we travel. For some of us, one thing might be easier than another, and we each need to work out where our greatest impact lies. 
 
 But if you see a headline that states ‘the single biggest thing you can do for the planet is xxx,’ be a little wary. The answer is going to be a bit more complicated than that.
-
-> "In order to avoid catastrophic climate change, we must change everything about the way we live."
