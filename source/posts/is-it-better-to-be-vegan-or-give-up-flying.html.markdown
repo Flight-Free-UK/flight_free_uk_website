@@ -46,7 +46,7 @@ This doesn’t mean that we think people shouldn’t bother reducing their meat 
 
 > "One flight can generate more emissions than a year’s worth of meat consumption or driving a car."
 
-But it’s useful to hold up the impact of aviation in relation to other lifestyle choices, to put things into context. We also chose driving a car, as meat consumption and road transport are generally known to be fairly high in emissions. But the average reader might be surprised to know that just one flight can generate more emissions than a year’s worth of doing one or other of those activities.
+But it’s useful to hold up the impact of aviation in relation to other lifestyle choices, to put things into context. Eating meat and driving a car are generally known to be fairly high in emissions, but the average reader might be surprised to know that just one flight can generate more emissions than a year’s worth of doing one or other of those activities.
 
 The graph states that eating meat for a year would generate 2.06 tonnes CO2, driving for a year generates 1.73 tonnes, and each passenger on a return flight to Bali would be responsible for 3.37 tonnes CO2. 
 
