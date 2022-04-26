@@ -12,7 +12,7 @@ read_time_minute: 6
 ---
 ## Many headlines say that ‘giving up meat and dairy is the biggest single thing you can do for the planet.’
 
-### Reducing your intake of animal products is a terrific way to lower your emissions, but is it really as simple as to say it's the best?
+### Reducing your intake of animal products is a terrific way to lower your emissions, but is it really as simple as to say it’s the best?
 
 We’re here to look at the numbers and determine how much impact we can all have when it comes to our lifestyle choices. 
 
