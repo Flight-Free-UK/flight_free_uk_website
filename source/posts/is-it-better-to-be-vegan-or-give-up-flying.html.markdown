@@ -64,7 +64,7 @@ With regards to driving, [this website](https://www.nimblefins.co.uk/average-co2
 
 A note here: even though we are saying ‘CO2’, the figure includes non-CO2 impacts. Greenhouse gas emissions from animal agriculture include carbon dioxide, methane and nitrous oxide. Technically, this is known as CO2e (carbon dioxide equivalent) – we could also use the acronym GHGs (greenhouse gases). 
 
-The reason that most sources still refer to carbon dioxide is mostly for simplicity. Research shows that people understand the concept of carbon emissions and a carbon ‘footprint’, whereas talk of other greenhouse gases becomes complicated and encourages confusion and doubt. As a result, the term ‘carbon' is widely used as a catch-all term for all greenhouse gas emissions.
+The reason that most sources still refer to carbon dioxide is mostly for simplicity. Research shows that people understand the concept of carbon emissions and a carbon ‘footprint’, whereas talk of other greenhouse gases becomes complicated and encourages confusion and doubt. As a result, the term ‘carbon’ is widely used as a catch-all term for all greenhouse gas emissions.
 
 #### Other impacts
 
