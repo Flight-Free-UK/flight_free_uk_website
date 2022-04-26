@@ -36,7 +36,7 @@ When we look at the individual picture, the numbers are much more stark. While r
 
 Per passenger, a trip (return) to the east coast of the USA will generate between [1.3 and 1.9 tonnes CO2](https://flightemissionmap.org/). For the west coast, it would be above two tonnes. 
 
-Heading the other way, a holiday in the popular tourist destination of Bangkok will add 2.5 tonnes to your emissions, and if you're going as far as New Zealand, well, it's closer to five tonnes. The savings made through adopting a vegan diet are quickly extinguished – and then some.
+Heading the other way, a holiday in the popular tourist destination of Bangkok will add 2.5 tonnes to your emissions, and if you’re going as far as New Zealand, well, it’s closer to five tonnes. The savings made through adopting a vegan diet are quickly extinguished – and then some.
 
 #### We use a graph on the [Why Flight Free](https://flightfree.co.uk/why_flight_free/) page of our website that shows how one return flight from the UK to Bali produces many more emissions per passenger than eating meat for a year. 
 
