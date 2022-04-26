@@ -16,7 +16,7 @@ read_time_minute: 6
 
 We’re here to look at the numbers and determine how much impact we can all have when it comes to our lifestyle choices. 
 
-Before we carry on, we want to say that **all** actions to reduce emissions are valid and important, from switching your lightbulbs to giving up flying. The aim here is not to discourage people from taking a particular action, or to say that one is ‘better' than the other, but to crunch some numbers and see why we draw the conclusions that we do.
+Before we carry on, we want to say that **all** actions to reduce emissions are valid and important, from switching your lightbulbs to giving up flying. The aim here is not to discourage people from taking a particular action, or to say that one is ‘better’ than the other, but to crunch some numbers and see why we draw the conclusions that we do.
 
 #### So let’s have a look at the statistics:
 
