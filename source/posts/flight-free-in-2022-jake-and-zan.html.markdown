@@ -9,8 +9,6 @@ summary: '"Whatever the temptation to fly, however inconvenient it sometimes is
 author: FlightFree UK
 read_time_minute: 5
 ---
-![](/images/uploads/jake_zan_testimonials_lg.jpg)
-
 ## My wife and I are busy international musicians, both of us early music specialists.
 
 ### In 2007 we moved from London to North Yorkshire with our then very small daughter, because we wanted her to grow up in a quieter place, and we were increasingly craving a slower and quieter lifestyle. 
