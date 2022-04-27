@@ -4,8 +4,8 @@ title: "Flight free in 2022: Jake and Zan"
 category: testimonials
 date: 2022-04-27T11:47:24.724Z
 cover_image: /images/uploads/jake_zan_testimonials_sm.jpg
-summary: '"There were many memorable moments: the architecture and scenery en
-  route, especially the miles and miles of beautiful forest in Poland"'
+summary: '"Whatever the temptation to fly, however inconvenient it sometimes is
+  for my long-suffering musical colleagues, we have chosen to say no."'
 author: FlightFree UK
 read_time_minute: 5
 ---
