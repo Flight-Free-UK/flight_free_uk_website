@@ -3,7 +3,7 @@ published: true
 title: "Flight free in 2022: Jake and Zan"
 category: testimonials
 date: 2022-04-27T11:47:24.724Z
-cover_image: /images/uploads/jake_zan_testimonials_sm.jpg
+cover_image: /images/uploads/jake_zan_testimonial_sm.jpg
 summary: '"Whatever the temptation to fly, however inconvenient it sometimes is
   for our long-suffering musical colleagues, we have chosen to say no."'
 author: FlightFree UK
