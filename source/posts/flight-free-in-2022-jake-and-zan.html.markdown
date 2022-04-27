@@ -21,13 +21,15 @@ Until that time, we had both been flying all over the place for our internationa
 
 For me, the whole point of being a performer is to communicate something meaningful to an audience. I found that impossible when I was in a dream-like jet-lagged state in which I didn't really feel as though I had actually psychically arrived in the place I was playing, and my feet were not really on the ground. I hadn't yet "caught up with myself" at the time of the performance, and therefore did not feel as though I was really present or communicating anything meaningful. So what was the point?
 
-So we both decided in 2011 that we didn't want to do it anymore. Of course there are also other compelling reasons to give up flying, not least of which is of course the fact that impending climate disaster makes it entirely unsustainable. For eleven years now, I have turned down all work that I couldn't get to by train, which means performing in Europe only. 
+#### So we both decided in 2011 that we didn't want to do it anymore. 
+
+Of course there are also other compelling reasons to give up flying, not least of which is of course the fact that impending climate disaster makes it entirely unsustainable. For eleven years now, I have turned down all work that I couldn't get to by train, which means performing in Europe only. 
 
 > "For eleven years now, I have turned down all work that I couldn't get to by train."
 
 The result is that the journey itself is very much part of the destination, the travel is a great deal more humane and civilised, I go from city centre to city centre, I get work done on the way, I actually feel present and grounded for my performances, and (most importantly) I'm not contributing in the same way to global heating. 
 
-Sometimes these journeys have taken three days, such as my recent trip to play in music festivals in Poznań and Blizne in Poland. 
+#### Sometimes these journeys have taken three days, such as my recent trip to play in music festivals in Poznań and Blizne in Poland. 
 
 We live in the town of Richmond, near Darlington, so day one of the journey involved getting from Richmond to Darlington to London Kings Cross, where I had to do a Covid test to allow my travel to Poland. One factor which makes trains more complicated than planes in a time of pandemic is that a long train journey takes the traveller through multiple countries en route, and each of those countries has its own Covid security requirements. Brexit hasn’t helped either, but don’t get me started on that.
 
@@ -45,7 +47,9 @@ The extra hour when travelling westwards between mainland Europe and the UK make
 
 > "By morning I was on the train in Rzeszów, and I was back in Richmond before midnight the following day."
 
-I must confess that it was exhausting and it took me a few days to recover afterwards. But I don't think I would have been a great deal less tired if I’d done in all by flying. It was not so much the long hours on trains that were difficult: I enjoy that time, and get loads of work done, and sometimes pleasure reading too. Flying is a great deal more stressful than train travel, in my opinion.
+#### I must confess that it was exhausting and it took me a few days to recover afterwards. 
+
+But I don't think I would have been a great deal less tired if I’d done in all by flying. It was not so much the long hours on trains that were difficult: I enjoy that time, and get loads of work done, and sometimes pleasure reading too. Flying is a great deal more stressful than train travel, in my opinion.
 
 The exhausting thing was the shortage of sleep and principally having to play some extremely demanding music in freezing cold spaces, and somehow keep the fingers from seizing up, and keep my mind focused on the demands of the performance. That took a lot out of me. 
 
@@ -55,7 +59,9 @@ In any case, it was well worth the trouble – the audiences were warm and welco
 
 There were many memorable moments: the architecture and scenery en route, especially the miles and miles of beautiful forest in Poland; the connection with some lovely people at both of my Polish destinations; and the indefinable pleasure and satisfaction of travelling in real time, on the ground, over such a long distance, knowing that I’m lucky to have the time and space in my life to be able to do the right thing when it comes to travel.
 
-There are problems, of course. For one thing, it costs a great deal more than flying. I know, that's very wrong! It should cost less than flying. Political decisions need to be made about which modes of transport governments throw their subsidies at.
+#### There are problems, of course. For one thing, it costs a great deal more than flying. 
+
+I know, that's very wrong! It should cost less than flying. Political decisions need to be made about which modes of transport governments throw their subsidies at.
 
 > "If flying had the climate impact factored in, it would always cost more than trains."
 
