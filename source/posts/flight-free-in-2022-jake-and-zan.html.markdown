@@ -11,7 +11,7 @@ read_time_minute: 5
 ---
 ## My wife and I are busy international musicians, both of us early music specialists.
 
-### In 2007 we moved from London to North Yorkshire with our then very small daughter, because we wanted her to grow up in a quieter place, and we were increasingly craving a slower and quieter lifestyle.  
+### In 2007 we moved from London to North Yorkshire with our then very small daughter, because we wanted her to grow up in a quieter place, and we were increasingly craving a slower and quieter lifestyle. 
 
 Until that time, we had both been flying all over the place for our international concert careers, including insane journeys like London to Bogota just to do one concert. My experience of such trips was that it simply stopped being rewarding. Flying halfway across the world, doing a concert, and flying home again made the whole thing feel rather unreal. 
 
@@ -27,7 +27,7 @@ Of course there are also other compelling reasons to give up flying, not least o
 
 The result is that the journey itself is very much part of the destination, the travel is a great deal more humane and civilised, I go from city centre to city centre, I get work done on the way, I actually feel present and grounded for my performances, and (most importantly) I'm not contributing in the same way to global heating. 
 
-#### Sometimes these journeys have taken three days, such as my recent trip to play in music festivals in Poznań and Blizne in Poland. 
+#### Sometimes these journeys have taken three days, such as my [recent trip to play in music festivals in Poznań and Blizne in Poland](https://threadreaderapp.com/thread/1445032917848268800.html). 
 
 We live in the town of Richmond, near Darlington, so day one of the journey involved getting from Richmond to Darlington to London Kings Cross, where I had to do a Covid test to allow my travel to Poland. One factor which makes trains more complicated than planes in a time of pandemic is that a long train journey takes the traveller through multiple countries en route, and each of those countries has its own Covid security requirements. Brexit hasn’t helped either, but don’t get me started on that.
 
