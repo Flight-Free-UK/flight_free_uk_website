@@ -11,7 +11,7 @@ read_time_minute: 5
 ---
 ## My wife and I are busy international musicians, both of us early music specialists.
 
-### In 2007 we moved from London to North Yorkshire with our then very small daughter, because we wanted her to grow up in a quieter place, and we were increasingly craving a slower and quieter lifestyle. 
+### In 2007 we moved from London to North Yorkshire with our then very small daughter, because we wanted her to grow up in a quieter place, and we were increasingly craving a slower and quieter lifestyle.  
 
 Until that time, we had both been flying all over the place for our international concert careers, including insane journeys like London to Bogota just to do one concert. My experience of such trips was that it simply stopped being rewarding. Flying halfway across the world, doing a concert, and flying home again made the whole thing feel rather unreal. 
 
@@ -19,7 +19,7 @@ Until that time, we had both been flying all over the place for our internationa
 
 For me, the whole point of being a performer is to communicate something meaningful to an audience. I found that impossible when I was in a dream-like jet-lagged state in which I didn't really feel as though I had actually psychically arrived in the place I was playing, and my feet were not really on the ground. I hadn't yet "caught up with myself" at the time of the performance, and therefore did not feel as though I was really present or communicating anything meaningful. So what was the point?
 
-#### So we both decided in 2011 that we didn't want to do it anymore. 
+#### So we both decided in 2011 that we didn't want to do it anymore.
 
 Of course there are also other compelling reasons to give up flying, not least of which is of course the fact that impending climate disaster makes it entirely unsustainable. For eleven years now, I have turned down all work that I couldn't get to by train, which means performing in Europe only. 
 
@@ -45,7 +45,7 @@ The extra hour when travelling westwards between mainland Europe and the UK make
 
 > "By morning I was on the train in Rzeszów, and I was back in Richmond before midnight the following day."
 
-#### I must confess that it was exhausting and it took me a few days to recover afterwards. 
+#### I must confess that it was exhausting and it took me a few days to recover afterwards.
 
 But I don't think I would have been a great deal less tired if I’d done in all by flying. It was not so much the long hours on trains that were difficult: I enjoy that time, and get loads of work done, and sometimes pleasure reading too. Flying is a great deal more stressful than train travel, in my opinion.
 
@@ -57,7 +57,7 @@ In any case, it was well worth the trouble – the audiences were warm and welco
 
 There were many memorable moments: the architecture and scenery en route, especially the miles and miles of beautiful forest in Poland; the connection with some lovely people at both of my Polish destinations; and the indefinable pleasure and satisfaction of travelling in real time, on the ground, over such a long distance, knowing that I’m lucky to have the time and space in my life to be able to do the right thing when it comes to travel.
 
-#### There are problems, of course. For one thing, it costs a great deal more than flying. 
+#### There are problems, of course. For one thing, it costs a great deal more than flying.
 
 I know, that's very wrong! It should cost less than flying. Political decisions need to be made about which modes of transport governments throw their subsidies at.
 
