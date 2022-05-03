@@ -21,6 +21,8 @@ Research from climate charity Possible shows that investing in green transport m
 
 This challenges the narrative about economic growth relying on fossil fuels. If we don’t make green investments now, we will end up paying more later to deal with the effects of climate change. Investing in our planet makes sense for us as well as for the economy.
 
+> “If we don’t make green investments now, we will end up paying more later to deal with the effects of climate change.”
+
 ### Flight Free UK
 
 Tessa, can you explain what Olio is all about and how you came to set it up?
@@ -42,6 +44,8 @@ How can people get involved with Olio? 
 The app is free to download and free to use – you can get it on Google play or the app store, and you can also use it via our website if you'd like as well.
 
 It is really simple. You just snap a photo of any food or other household items you have that you no longer need, add it to Olio, then neighbours living nearby get an alert. They can browse the listings, request what they want and pop around and pick it up. To date we've had over 45 million portions of food saved and over 3 million other household items which has had an environmental impact equivalent to taking 135 million car miles off the road, and saving 6.6 billion litres of water. Olio really goes to show that if we take all lots of small steps and small actions then, together we can have a massive positive impact.
+
+> “We’ve had an environmental impact equivalent to taking 135 million car miles off the road, and saving 6.6 billion litres of water.”
 
 ### Flight Free UK
 
@@ -72,6 +76,8 @@ Why do you think it's important that we invest in our planet and how can we do t
 ### Tessa
 
 The message that we have for people is not to forget the role that they can play as an individual. It's easy to get depressed about the state of the world, to feel a bit overwhelmed, to feel like there's nothing you can do. We really push back against that argument. It was billions of small actions that created the climate crisis in the first place and so by the same logic, billions of small actions can help get us out of it. 
+
+> “It was billions of small actions that created the climate crisis, so by the same logic, billions of small actions can help get us out of it.”
 
 Research shows that over 60% of all greenhouse gas emissions generated are a direct result of the consumption decisions that we make in our homes. That means that we are enormously empowered in the decisions that we make. Project Drawdown ranked the top 100 solutions to the climate crisis and number one is reducing food waste. That comes above electric cars, above solar power and above a plant-based diet. So just by giving food away, instead of throwing it away, you can start to be that catalyst of change.
 
@@ -110,6 +116,8 @@ My background was actually in investment banking. The idea for the company start
 In the banking world and the finance world at that time there was no such thing as sustainability. This was my way of giving back and also commercialising it. 
 
 Our strapline is ‘commercial with a conscience’. I believe that businesses of the future would not necessarily have a charity arm, but their charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual. 
+
+“I believe, in future charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual.”
 
 ### Flight Free UK
 
