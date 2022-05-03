@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "2022 podcast series: Earth Day"
 category: climate
 date: 2022-05-01T21:46:40.253Z
