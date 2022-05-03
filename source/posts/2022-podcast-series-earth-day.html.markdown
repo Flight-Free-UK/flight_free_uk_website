@@ -12,7 +12,7 @@ read_time_minute: 10
 ---
 *This is episode 4 of our 2022 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-smsk3-120950f) and find other episodes and previous series [here](/podcast/).* 
 
-\
+## \
 **This month we’re talking about Earth Day, the annual celebration of the planet which takes place on April 22nd each year.**
 
 This year’s Earth Day theme is ‘Invest in our planet’, so we’ve invited Tessa Clarke, the co-founder and CEO of food waste app Olio, and May Al-Karooni, the founder of the award-winning British re-use marketplace Globechain, to talk to us about how economic prosperity can go hand in hand with having a liveable planet. 
@@ -119,7 +119,7 @@ In the banking world and the finance world at that time there was no such thing 
 
 Our strapline is ‘commercial with a conscience’. I believe that businesses of the future would not necessarily have a charity arm, but their charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual. 
 
-> “I believe, in future charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual.”
+> “I believe charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual.”
 
 ### Flight Free UK
 
@@ -179,7 +179,7 @@ As well as cutting down on waste, what are other ways that individuals and busin
 
 It is so important to look after nature in general, especially if you live in a city. We've seen from COVID that more community engagement and social impact really helps, and people are open to being more philanthropic. You should start with one thing that maybe you have a passion for, because if you have a passion for it, then it becomes easy.
 
-> ”It is so important to look after nature in general, especially if you live in a city. More community engagement and social impact really helps, and people are open to being more philanthropic. ”
+> ”It is so important to look after nature. More community engagement and social impact really helps, and people are open to being more philanthropic. ”
 
 ### Flight Free UK 
 
