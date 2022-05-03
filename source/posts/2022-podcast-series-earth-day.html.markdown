@@ -10,6 +10,8 @@ summary: The Earth Day theme this year is Invest in our Planet. We speak to two
 author: FlightFree UK
 read_time_minute: 10
 ---
+*This is episode 4 of our 2022 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-smsk3-120950f) and find other episodes and previous series [here](/podcast/).* 
+
 \
 **This month we’re talking about Earth Day, the annual celebration of the planet which takes place on April 22nd each year.**
 
@@ -117,7 +119,7 @@ In the banking world and the finance world at that time there was no such thing 
 
 Our strapline is ‘commercial with a conscience’. I believe that businesses of the future would not necessarily have a charity arm, but their charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual. 
 
-“I believe, in future charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual.”
+> “I believe, in future charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual.”
 
 ### Flight Free UK
 
@@ -177,9 +179,11 @@ As well as cutting down on waste, what are other ways that individuals and busin
 
 It is so important to look after nature in general, especially if you live in a city. We've seen from COVID that more community engagement and social impact really helps, and people are open to being more philanthropic. You should start with one thing that maybe you have a passion for, because if you have a passion for it, then it becomes easy.
 
+> ”It is so important to look after nature in general, especially if you live in a city. More community engagement and social impact really helps, and people are open to being more philanthropic. ”
+
 ### Flight Free UK 
 
-Thanks again to Tessa and May for joining us this month. Tessa is at olioex.com, and you will find May at @Globechain on Instagram. 
+Thanks again to Tessa and May for joining us this month. Tessa is at [olioex.com](https://olioex.com), and you will find May at [@Globechain](https://instagram.com/globechain?igshid=YmMyMTA2M2Y=) on Instagram. 
 
 ### Destination of the Month
 
@@ -189,10 +193,12 @@ The person who created the artwork has said that he wants to create a feeling of
 
 He says, “we urgently need to wake up, and change our behaviour. We need to quickly make the changes necessary to prevent runaway climate change. I hope visitors to Gaia get to see the Earth as if from space: an incredibly beautiful and precious place, an ecosystem we need to look after, and our only home.”
 
-You can find out all the details at my-earth.org/tour-dates/.
+You can find out all the details at [my-earth.org/tour-dates/](https://my-earth.org/tour-dates/).
 
-We hope that you’re inspired to make 2022 your year of being flight free. You can sign up at flightfree.co.uk, and don’t forget to share the pledge with your friends and family to help us spread the word. Next month we’re speaking about aviation and wildlife. See you then!
+We hope that you’re inspired to make 2022 your year of being flight free. You can sign up at flightfree.co.uk, and don’t forget to share the pledge with your friends and family to help us spread the word. 
 
-Credits:
+### Next month we’re speaking about aviation and wildlife. See you then!
 
-Episode produced and narrated by Eveline Vouillemin. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)
+*Credits:*
+
+*Episode produced and narrated by Eveline Vouillemin. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)*
