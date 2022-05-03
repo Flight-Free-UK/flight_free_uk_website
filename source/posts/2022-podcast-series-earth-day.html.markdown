@@ -12,8 +12,7 @@ read_time_minute: 10
 ---
 *This is episode 4 of our 2022 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-smsk3-120950f) and find other episodes and previous series [here](/podcast/).* 
 
-## \
-**This month we’re talking about Earth Day, the annual celebration of the planet which takes place on April 22nd each year.**
+## This month we’re talking about Earth Day, the annual celebration of the planet which takes place on April 22nd each year.
 
 This year’s Earth Day theme is ‘Invest in our planet’, so we’ve invited Tessa Clarke, the co-founder and CEO of food waste app Olio, and May Al-Karooni, the founder of the award-winning British re-use marketplace Globechain, to talk to us about how economic prosperity can go hand in hand with having a liveable planet. 
 
