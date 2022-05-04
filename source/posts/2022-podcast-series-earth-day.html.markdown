@@ -190,7 +190,7 @@ He says, “we urgently need to wake up, and change our behaviour. We need to qu
 
 You can find out all the details at [my-earth.org/tour-dates/](https://my-earth.org/tour-dates/).
 
-We hope that you’re inspired to make 2022 your year of being flight free. You can sign up at [flightfree.co.uk](www.flightfree.co.uk), and don’t forget to share the pledge with your friends and family to help us spread the word. 
+We hope that you’re inspired to make 2022 your year of being flight free. You can sign up at [flightfree.co.uk](https://flightfree.co.uk/), and don’t forget to share the pledge with your friends and family to help us spread the word. 
 
 ### Next month we’re speaking about aviation and wildlife. See you then!
 
