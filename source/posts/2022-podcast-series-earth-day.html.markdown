@@ -198,6 +198,6 @@ We hope that you’re inspired to make 2022 your year of being flight free. You 
 
 ### Next month we’re speaking about aviation and wildlife. See you then!
 
-*Credits:*
+*You can listen to the full episode [here](https://www.podbean.com/ew/pb-smsk3-120950f) and find other episodes and previous series [here](/podcast/).* 
 
 *Episode produced and narrated by Eveline Vouillemin. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)*
