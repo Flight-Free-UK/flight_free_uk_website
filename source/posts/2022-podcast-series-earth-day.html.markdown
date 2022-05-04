@@ -2,7 +2,7 @@
 published: true
 title: "2022 podcast series: Earth Day"
 category: climate
-date: 2022-03-27T21:46:40.253Z
+date: 2022-04-22T21:46:40.253Z
 cover_image: /images/uploads/april22_podcast_blog.jpg
 summary: The Earth Day theme this year is Invest in our Planet. We speak to two
   entrepreneurs about how our spending power can help the earth as well as the
