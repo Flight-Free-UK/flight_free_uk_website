@@ -14,7 +14,7 @@ read_time_minute: 9
 
 ## Earth Day is the annual celebration of the planet which takes place on April 22nd each year.
 
-This year’s Earth Day theme is ‘Invest in our planet’, so we’re speaking to Tessa Clarke, the co-founder and CEO of food waste app Olio, and May Al-Karooni, the founder of the award-winning British re-use marketplace Globechain. 
+This year’s Earth Day theme is ‘Invest in our planet’, so we’re speaking to entrepreneurs Tessa Clarke, the co-founder and CEO of food waste app Olio, and May Al-Karooni, the founder of the award-winning British re-use marketplace Globechain. 
 
 ### Flight Free Fact
 
