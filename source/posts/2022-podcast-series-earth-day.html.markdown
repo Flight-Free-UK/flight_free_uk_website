@@ -92,7 +92,7 @@ I would move away from GPD growth as the metric of the economy and instead measu
 
 ### Flight Free UK
 
-Thanks to Tessa for joining us. If you want to find out more about Tessa and Olio, you can find everything you need to know at [olioex.com](www.olioex.com). 
+Thanks to Tessa for joining us. If you want to find out more about Tessa and Olio, you can find everything you need to know at [olioex.com](https://olioex.com/). 
 
 Our next guest is May Al-Karooni. Can you explain to us what Globechain is all about and what inspired you to launch this business?
 
