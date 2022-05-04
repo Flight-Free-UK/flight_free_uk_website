@@ -38,7 +38,7 @@ How can people get involved with Olio? 
 
 ### Tessa
 
-The app is free to download and free to use – you can get it on Google play or the app store, and you can also use it via our website if you'd like as well.
+The app is free to download and free to use – you can get it on Google play or the app store, and you can also use it via [our website](https://olioex.com/).
 
 You just snap a photo of any food or other household items you have that you no longer need, add it to Olio, then neighbours living nearby get an alert. They can browse the listings, request what they want and pop around and pick it up. 
 
