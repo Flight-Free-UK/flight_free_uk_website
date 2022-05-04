@@ -114,9 +114,9 @@ My background was in investment banking. The idea for the company started when t
 
 In the banking world and the finance world at that time there was no such thing as sustainability. This was my way of giving back and also commercialising it. 
 
-Our strapline is ‘commercial with a conscience’. I believe that businesses of the future would not necessarily have a charity arm, but their charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual. 
-
 > “I believe that helping the environment should become a by-product of business-as-usual.”
+
+Our strapline is ‘commercial with a conscience’. I believe that businesses of the future would not necessarily have a charity arm, but their charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual. 
 
 ### Flight Free UK
 
