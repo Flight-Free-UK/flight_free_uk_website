@@ -8,7 +8,7 @@ summary: The Earth Day theme this year is Invest in our Planet. We speak to two
   entrepreneurs about how our spending power can help the earth as well as the
   economy.
 author: FlightFree UK
-read_time_minute: 10
+read_time_minute: 9
 ---
 *This is episode 4 of our 2022 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-smsk3-120950f) and find other episodes and previous series [here](/podcast/).* 
 
@@ -120,7 +120,7 @@ Our strapline is ‘commercial with a conscience’. I believe that businesses o
 
 ### Flight Free UK
 
-Could you explain what the circular economy is and why you think it is so important? 
+Could you explain what the circular economy is and why it is so important? 
 
 ### May
 
@@ -128,7 +128,7 @@ If you think of how businesses exist at the moment, it's a linear process: a pro
 
 Circular involves the different aspects of the life cycle of a process, a product or service, and looks at how you can reuse things. For example, can you use materials already around rather than mining? Can you design a product for buildings that you can dismantle and reuse elsewhere? And if you have what's considered as waste from cut-offs, can you recycle it or create a new product out of it and use it within your processes?
 
-So eventually that becomes a circle. It requires a lot of intel, knowledge, trial and error to get there. A couple of years ago McKinsey Pricewaterhouse did a study and they said that the circular economy could be worth over about $4.3 trillion. 
+So eventually that becomes a circle. It requires a lot of intel, knowledge, trial and error to get there. A couple of years ago McKinsey Pricewaterhouse did a study and they said that the circular economy could be worth over $4.3 trillion. 
 
 ### Flight Free UK
 
@@ -144,17 +144,15 @@ For businesses looking into developing their own sustainability plan, what advic
 
 ### May
 
-For a product company, is their packaging sustainable? Can they eliminate single use plastics? If they are a retailer, where in their business are they spending a lot of money on waste? If they break it down they can go and find solutions that can be implemented quite quickly. It's about how we can leverage and support small businesses in enabling that transition. 
+For a product company, is their packaging sustainable? Can they eliminate single use plastics? If they are a retailer, where in their business are they spending a lot of money on waste? Can they find solutions that can be implemented quite quickly?
 
 ### Flight Free UK
 
-There are people out there who don’t think that making a profit and looking after the planet really go hand in hand. What would your response to those people be?
+There are people out there who don’t think that making a profit and looking after the planet really go hand in hand. What would your response be?
 
 ### May
 
 People used to think we were a charity because the products we list are free. But people pay waste companies to dispose of their stuff, so why would they expect us to do the same for free? People save money going through us, and we’re not just redistributing, we're getting ESG data which probably has more value than what you're paying companies to dispose of waste.
-
-We don't do things for free because we don't need to prove ourselves. We're proud of our products. We know what we're doing. We're the best in the market and this is the value you're getting.
 
 ### Flight Free UK
 
@@ -164,7 +162,9 @@ Your mission is to divert a hundred million tons of waste from landfill by 2025.
 
 Yes. I do think people are really changing. Buying second hand now is looked at as being more responsible and can save you money as well. 
 
-I've got no issue with people buying new, but I think people are buying better quality items which is great. I think you should buy the quality you can afford. It's very difficult when you're younger and fast fashion is convenient, and also when people are trying to pay their bills and feed their children, but if we all do one thing that we can afford to do within our budget, it goes a long way. 
+I've got no issue with people buying new, but I think people are buying better quality items which is great. I think you should buy the quality you can afford. It's very difficult when you're younger and fast fashion is convenient, and also when people are trying to pay their bills and feed their children, but if we all do one thing that we can afford to do within our budget, it goes a long way.
+
+> "If we all do one thing that we can afford to do within our budget, it goes a long way." 
 
 Asking questions and challenging people is important. When you go to a cafe or you see a business, ask them what can be recycled? Are their products sustainable? Is it fair trade? Is it ethical? Is it organic? Is it vegan? If they hear that question over and over again from different people, they're going to take note and think, this is important, I'm going to change my business to see if I can find a solution.
 
@@ -175,8 +175,6 @@ As well as cutting down on waste, what are other ways that individuals and busin
 ### May
 
 It is so important to look after nature in general, especially if you live in a city. We've seen from COVID that more community engagement and social impact really helps, and people are open to being more philanthropic. You should start with one thing that maybe you have a passion for, because if you have a passion for it, then it becomes easy.
-
-> ”It is so important to look after nature. More community engagement and social impact really helps, and people are open to being more philanthropic. ”
 
 ### Flight Free UK 
 
@@ -192,10 +190,8 @@ He says, “we urgently need to wake up, and change our behaviour. We need to qu
 
 You can find out all the details at [my-earth.org/tour-dates/](https://my-earth.org/tour-dates/).
 
-We hope that you’re inspired to make 2022 your year of being flight free. You can sign up at flightfree.co.uk, and don’t forget to share the pledge with your friends and family to help us spread the word. 
+We hope that you’re inspired to make 2022 your year of being flight free. You can sign up at [flightfree.co.uk](flightfree.co.uk), and don’t forget to share the pledge with your friends and family to help us spread the word. 
 
 ### Next month we’re speaking about aviation and wildlife. See you then!
 
-*You can listen to the full episode [here](https://www.podbean.com/ew/pb-smsk3-120950f) and find other episodes and previous series [here](/podcast/).* 
-
-*Episode produced and narrated by Eveline Vouillemin. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)*
+*Episode produced and narrated by Eveline Vouillemin. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet) Listen to the full episode [here](https://www.podbean.com/ew/pb-smsk3-120950f) and find other episodes and previous series [here](/podcast/).*
