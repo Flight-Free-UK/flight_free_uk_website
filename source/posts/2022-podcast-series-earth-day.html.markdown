@@ -42,9 +42,9 @@ The app is free to download and free to use – you can get it on Google play or
 
 You just snap a photo of any food or other household items you have that you no longer need, add it to Olio, then neighbours living nearby get an alert. They can browse the listings, request what they want and pop around and pick it up. 
 
-To date we've had over 45 million portions of food saved and over 3 million other household items which has had an environmental impact equivalent to taking 135 million car miles off the road, and saving 6.6 billion litres of water. Olio really goes to show that if we take all lots of small steps and small actions then, together we can have a massive positive impact.
-
 > “We’ve had an environmental impact equivalent to taking 135 million car miles off the road, and saving 6.6 billion litres of water.”
+
+To date we've had over 45 million portions of food saved and over 3 million other household items which has had an environmental impact equivalent to taking 135 million car miles off the road, and saving 6.6 billion litres of water. Olio really goes to show that if we take all lots of small steps and small actions then, together we can have a massive positive impact.
 
 ### Flight Free UK
 
