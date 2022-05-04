@@ -12,17 +12,13 @@ read_time_minute: 10
 ---
 *This is episode 4 of our 2022 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-smsk3-120950f) and find other episodes and previous series [here](/podcast/).* 
 
-## This month we’re talking about Earth Day, the annual celebration of the planet which takes place on April 22nd each year.
+## Earth Day is the annual celebration of the planet which takes place on April 22nd each year.
 
-This year’s Earth Day theme is ‘Invest in our planet’, so we’ve invited Tessa Clarke, the co-founder and CEO of food waste app Olio, and May Al-Karooni, the founder of the award-winning British re-use marketplace Globechain, to talk to us about how economic prosperity can go hand in hand with having a liveable planet. 
+This year’s Earth Day theme is ‘Invest in our planet’, so we’re speaking to Tessa Clarke, the co-founder and CEO of food waste app Olio, and May Al-Karooni, the founder of the award-winning British re-use marketplace Globechain. 
 
 ### Flight Free Fact
 
 Research from climate charity Possible shows that investing in green transport means that for every 10 jobs lost in aviation, 30 jobs can be found elsewhere. 
-
-This challenges the narrative about economic growth relying on fossil fuels. If we don’t make green investments now, we will end up paying more later to deal with the effects of climate change. Investing in our planet makes sense for us as well as for the economy.
-
-> “If we don’t make green investments now, we will end up paying more later to deal with the effects of climate change.”
 
 ### Flight Free UK
 
@@ -32,7 +28,7 @@ Tessa, can you explain what Olio is all about and how you came to set it up?
 
 Olio is an app to tackle the enormous problem of waste in our homes and local communities. Seven years ago, I was living and working in Switzerland and when I came to move back to the UK, the removal men told me I had to throw away all our uneaten food. 
 
-I wasn't prepared to throw the food in the bin so I set out into the streets to find someone to give my food to. I couldn’t find anyone so when the packing men weren't looking, I smuggled the non-perishable foods into the bottom of my packing boxes. 
+I set out into the streets to find someone to give my food to. I couldn’t find anyone so when the packing men weren't looking, I smuggled the non-perishable foods into the bottom of my packing boxes. 
 
 I realised how crazy it was that I went to such lengths in order to avoid throwing away this food. I thought, why isn't there a simple app where I can just advertise my food and whoever wants to pick it up can pop over?
 
@@ -44,7 +40,9 @@ How can people get involved with Olio? 
 
 The app is free to download and free to use – you can get it on Google play or the app store, and you can also use it via our website if you'd like as well.
 
-It is really simple. You just snap a photo of any food or other household items you have that you no longer need, add it to Olio, then neighbours living nearby get an alert. They can browse the listings, request what they want and pop around and pick it up. To date we've had over 45 million portions of food saved and over 3 million other household items which has had an environmental impact equivalent to taking 135 million car miles off the road, and saving 6.6 billion litres of water. Olio really goes to show that if we take all lots of small steps and small actions then, together we can have a massive positive impact.
+You just snap a photo of any food or other household items you have that you no longer need, add it to Olio, then neighbours living nearby get an alert. They can browse the listings, request what they want and pop around and pick it up. 
+
+To date we've had over 45 million portions of food saved and over 3 million other household items which has had an environmental impact equivalent to taking 135 million car miles off the road, and saving 6.6 billion litres of water. Olio really goes to show that if we take all lots of small steps and small actions then, together we can have a massive positive impact.
 
 > “We’ve had an environmental impact equivalent to taking 135 million car miles off the road, and saving 6.6 billion litres of water.”
 
@@ -54,7 +52,7 @@ Given that the app is free for consumers, how do you make this work as a busines
 
 ### Tessa
 
-Olio is a business, not a charity, and we generate revenues thanks to our Food Waste Heroes Programme. This is a service that we provide to businesses such as supermarkets, quick service restaurants and corporate canteens, that enables them to have a zero food waste location. We recruit and train volunteers online from the community, and they can then claim a collection slot at a local business. 
+We generate revenues thanks to our Food Waste Heroes Programme. We recruit and train volunteers online from the community, and they can then claim a collection slot at a local business. 
 
 So, for example with Tesco, our food waste heroes go to the Tesco store, pick up all their unsold food, take it home, add it to the app and within minutes neighbours request it and pop around and pick it up. 
 
@@ -62,13 +60,13 @@ Those businesses previously paid a waste contractor to take that food away and i
 
 ### Flight Free UK
 
-It’s great to focus on how you’re helping your neighbour and fighting climate change at the same time. Do you think that’s what it takes for us to take action on climate? See it as helping each other rather than helping this rather vague ‘planet’?
+Do you think that’s what it takes for us to take action on climate? See it as helping each other rather than helping this rather vague ‘planet’?
 
 ### Tessa
 
-I think that the planet does feel a bit too distant for everybody. We find that people use Olio because they enjoy using it and a big part of that is the community angle. It feels really good to give something of value that you don't want to a neighbour living nearby who would like it. 
+I think that the planet does feel a bit too distant for everybody. We find that people use Olio because they enjoy using it and a big part of that is the community angle. It feels  good to give something of value that you don't want to a neighbour living nearby who would like it. 
 
-Another core reason why people use Olio is they hate waste, something that's very integral to us as human beings. It's very instinctive to dislike waste and the reason we're generating waste nowadays is because we're no longer connected with our local community. We no longer have anyone to give our surplus stuff to. Olio is directly tackling that. So, people join us because they hate waste, but they keep using Olio because it's fun to connect with a neighbour and feel like you're making a difference.
+People hate waste, something that's very integral to us as human beings. Olio is directly tackling that. So, people join us because they hate waste, but they keep using Olio because it's fun to connect with a neighbour and feel like you're making a difference.
 
 ### Flight Free UK
 
@@ -76,25 +74,25 @@ Why do you think it's important that we invest in our planet and how can we do t
 
 ### Tessa
 
-The message that we have for people is not to forget the role that they can play as an individual. It's easy to get depressed about the state of the world, to feel a bit overwhelmed, to feel like there's nothing you can do. We really push back against that argument. It was billions of small actions that created the climate crisis in the first place and so by the same logic, billions of small actions can help get us out of it. 
+It's easy to get depressed about the state of the world, to feel a bit overwhelmed, to feel like there's nothing you can do. We really push back against that argument. It was billions of small actions that created the climate crisis in the first place and so by the same logic, billions of small actions can help get us out of it. 
 
 > “It was billions of small actions that created the climate crisis, so by the same logic, billions of small actions can help get us out of it.”
 
-Research shows that over 60% of all greenhouse gas emissions generated are a direct result of the consumption decisions that we make in our homes. That means that we are enormously empowered in the decisions that we make. Project Drawdown ranked the top 100 solutions to the climate crisis and number one is reducing food waste. That comes above electric cars, above solar power and above a plant-based diet. So just by giving food away, instead of throwing it away, you can start to be that catalyst of change.
+Research shows that over 60% of all greenhouse gas emissions generated are a direct result of the consumption decisions that we make in our homes. That means that we are enormously empowered in the decisions that we make. Project Drawdown ranked the top 100 solutions to the climate crisis and number one is reducing food waste. So just by giving food away, instead of throwing it away, you can start to be that catalyst of change.
 
-Every time you move your money, you are sending data up to large corporations and businesses. When they see money moving away from kind of unsustainable products and products that are destructive to the planet, towards more sustainable, environmentally friendly products, it gives them the confidence to build new product lines, to change how they manufacture, distribute and retail things. To everybody who can afford to, you need to vote with your wallet because you are the catalyst of change. 
+When large corporations and businesses see money moving away from unsustainable products towards more sustainable, environmentally friendly products, it gives them the confidence to build new product lines and to change how they manufacture, distribute and retail things. To everybody who can afford to, you need to vote with your wallet because you are the catalyst of change. 
 
 ### Flight Free UK
 
-Final question: if you were in charge, as the Chancellor or the Prime Minister, what would your priorities be?
+If you were in charge, what would your priorities be?
 
 ### Tessa
 
-I would move away from GPD growth as the metric of the economy and instead measure the wellness of people and the planet. There’s also the obvious stuff like a carbon tax, but I would also force companies to publish their waste data because at the moment there is enormous amounts of waste taking place at every step of the supply chain. If people had to be transparent about it, it would immediately help to stamp out wasteful behaviour. I would also make companies legally responsible for an item at every stage of its life.
+I would move away from GPD growth as the metric of the economy and instead measure the wellness of people and the planet. There’s also the obvious stuff like a carbon tax, and I would also force companies to publish their waste data because at the moment there is enormous amounts of waste taking place at every step of the supply chain. If people had to be transparent about it, it would immediately help to stamp out wasteful behaviour. 
 
 ### Flight Free UK
 
-Thanks to Tessa for joining us. If you want to find out more about Tessa and Olio, you can find everything you need to know at olioex.com. 
+Thanks to Tessa for joining us. If you want to find out more about Tessa and Olio, you can find everything you need to know at [olioex.com](olioex.com). 
 
 Our next guest is May Al-Karooni. Can you explain to us what Globechain is all about and what inspired you to launch this business?
 
@@ -112,13 +110,13 @@ Before you started the company, did you already have an interest in the environm
 
 I’ve always loved nature and seeing places untouched by humankind. I was of the generation that grew up with recycling in the home.
 
-My background was actually in investment banking. The idea for the company started when the bank I was working in moved offices across the road, and they just disposed of the furniture. I thought, why have you not been able to give it away? There are people who need it. It was such a waste. I thought, why has no one digitised waste and connected these people together? 
+My background was in investment banking. The idea for the company started when the bank I was working in moved offices across the road, and they just disposed of the furniture. I thought, why have you not been able to give it away? There are people who need it. It was such a waste. I thought, why has no one digitised waste and connected these people together? 
 
 In the banking world and the finance world at that time there was no such thing as sustainability. This was my way of giving back and also commercialising it. 
 
 Our strapline is ‘commercial with a conscience’. I believe that businesses of the future would not necessarily have a charity arm, but their charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual. 
 
-> “I believe charitable actions would be more ingrained in the business, so helping the environment becomes a by-product of business-as-usual.”
+> “I believe that helping the environment should become a by-product of business-as-usual.”
 
 ### Flight Free UK
 
