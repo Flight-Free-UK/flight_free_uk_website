@@ -15,7 +15,9 @@ read_time_minute: 5
 
 This is episode 5 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-aviation-and-wildlife/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).
 
-In this month’s episode we are going to be discussing the impacts of aviation on local wildlife.\
+In this month’s episode we are going to be discussing the impacts of aviation on local wildlife.
+
+\
 There are varying impacts aviation can have on wildlife including but not limited to: bird strikes, airport run off, noise and light pollution and airport expansion encroaching on green spaces. 
 
 Our guest is Dr Jennifer Jones, a writer, a children’s author, and a scientist, specialising in soil science. Jennifer is also a member of the ‘Save Oglet Shore’ group, campaigning to stop the expansion of Liverpool airport. You can sign the petition [here](https://you.38degrees.org.uk/petitions/save-oglet-shoreline-1).
@@ -116,8 +118,6 @@ Further up the coast we’ve got Crosby’s ‘Another Place’ with the famous 
 
 Over on the Wirral side, we have New Brighton, again great for birdlife. The area of Leasowe on the tip of the Wirral peninsula is fantastic for spotting gulls and waders.
 
-
-
 ### Next month we’re speaking about the impact of sport on the climate. See you then!
 
 Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2022-series-aviation-and-wildlife/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).
@@ -125,7 +125,5 @@ Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2022-series
 Credits:
 
 Interview conducted and produced by Louise Millington. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)
-
-
 
 <!--EndFragment-->
