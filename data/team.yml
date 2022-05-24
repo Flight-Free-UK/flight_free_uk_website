@@ -53,15 +53,6 @@ members:
     role: Admin
     name: Izzy Collin
     photo: /images/uploads/izzy_collin.jpg
-  - name: Josephine Ayling
-    role: Social Media
-    photo: /images/uploads/josephine_ayling.jpg
-    bio: Based on Anglesey, Josephine is repping Wales for the Flight Free UK team.
-      Having graduated with an MSc in environmental anthropology from the
-      University of Kent, Josephine is interested in the relationships between
-      people and the natural world, and is passionate about how social media can
-      influence the way society thinks about flying and other issues of
-      sustainability.
   - name: Lou Millington
     role: Podcast
     bio: Based in Liverpool and working in the arts industry, Lou is passionate
