@@ -59,7 +59,7 @@ There’s concern about whether the expansion will have an impact on the area ad
 
 > "Birds that are red listed such as curlew, lapwing, and grey partridge use those fields for feeding and roosting. The birds could lose their habitat."
 
-Unfortunately there are additional plans to build warehousing alongside the runway which is grade 1 and grade 2 agricultural land. So we’re not just losing the green belt but we are losing agricultural land which becomes even more critical as we know that the sustainability of our ability to feed ourselves is going to be compromised in the future. 
+There are additional plans to build warehousing alongside the runway which is grade 1 and grade 2 agricultural land. So we’re not just losing the green belt but we are losing agricultural land which becomes even more critical as we know that the sustainability of our ability to feed ourselves is going to be compromised in the future. 
 
 ### Flight Free UK
 
@@ -69,11 +69,13 @@ Often with airport expansions there are promises to replace what’s been lost b
 
 Absolutely. I know that for the proposed solar farm area, they’ve promised to put up bat boxes and produce a grassland area that will ‘increase the biodiversity’. But we don’t have confidence in that. We believe that the natural world cannot be replaced. You can’t just translocate it and say that it will be the same.
 
-> "We believe that the natural world cannot be replaced. You can’t just translocate it and say that it will be the same"
+> "We believe that the natural world cannot be replaced. You can’t just translocate it and say that it will be the same."
 
 Lord Deben, the chair of the Climate Change Committee, said twice last year that we can no longer have airport expansion if we are going to mitigate climate change. Yet governments and authorities don’t seem to be taking that on board. In 2019, Liverpool city council declared a climate emergency and agreed to make Liverpool a Net Zero Carbon city by 2030 and yet the airport is planning to expand.
 
-But more positively, I'm starting to hear more people saying that they will reduce their flying. I know that time and money is an issue but people are still willing to do it.  It isn’t an easy task for everyone. Chris Packham, the wildlife presenter, is now cutting right back on the flights he does which is a challenge when you are so in demand. People will have to make sacrifices, but if they understand what the implications will be and they care about their children and their grandchildren's futures, maybe they will take the step. 
+But more positively, I'm starting to hear more people saying that they will reduce their flying. I know that time and money is an issue but people are still willing to do it.  It isn’t an easy task for everyone. Chris Packham, the wildlife presenter, is now cutting right back on the flights he does which is a challenge when you are so in demand. 
+
+People will have to make sacrifices, but if they understand what the implications will be, and if they care about their children and their grandchildren's futures, maybe they will take the step. 
 
 ### Flight Free UK
 
@@ -81,7 +83,7 @@ Let’s talk about bird strikes. In 2017 there were 3042 bird strikes involving 
 
 ### Jen 
 
-I’ve been observing the birds around the airport area and what I’ve noticed is that when the large jets take off, the larger birds seem to fly up. The smaller ones don’t seem to be affected and I wonder if that’s because they have hedges around the area buffering the sound. 
+I’ve been observing the birds around the airport area and I’ve noticed that when the large jets take off, the larger birds seem to fly up. The smaller ones don’t seem to be affected and I wonder if that’s because they have hedges around the area buffering the sound. 
 
 Conversely, when smaller planes take off, the smaller birds fly up. I don’t know about sonics or acoustics so I don’t know if it’s the sound levels that do it, but if it’s the larger birds that fly up when the larger planes are taking off is that going to make them more prone to bird strikes? 
 
@@ -91,7 +93,7 @@ It affects their breeding as well. How can the animals compete with the noise of
 
 ### Jen
 
-About 5/6 of the wader species are red listed and at risk. The reason that they are red listed is because their breeding potential has declined and that breeding potential is mainly lost due to habitat loss. If that breeding potential is lost then numbers will decline. 
+About 5 or 6 of the wader species are red listed and at risk. The reason that they are red listed is because their breeding potential has declined and that breeding potential is mainly lost due to habitat loss. If that breeding potential is lost then numbers will decline. 
 
 ### Flight Free UK
 
@@ -101,7 +103,11 @@ What about the effects of airport light pollution on wildlife? Artificial light 
 
 At the airport there is a large amount of light and it certainly can impact bat species, bird species  and insects. Birds have quite thin skulls and they have a gland in their skull that responds to light. As we start to move into spring we hear the lovely dawn chorus increasing and what triggers that chorus is light and temperature, but the bird doesn’t know if that light is from artificial lighting or natural lighting. 
 
-> "The bird doesn’t know if that light is from artificial lighting or natural lighting."
+> "The bird doesn’t know if the light is from artificial lighting or natural lighting."
+
+### Flight Free UK
+
+Thanks for your insights Jen. There is a lot of talk about the carbon impact of flights, but even if we could fly carbon neutral, there would still be these impacts on wildlife. 
 
 ### Destination of the Month
 
@@ -111,12 +117,12 @@ This month we have chosen the River Mersey, coincidentally a place that our gues
 
 The river Mersey is wonderful but I am a little bit biased. There’s lots to explore. It can be as simple as visiting the pier head of Liverpool (easily accessed by train and bus routes), where you can get the ferry across the Mersey and hear Jerry Marsden's tones echoing across the river!
 
-Further up the coast we’ve got Crosby’s ‘Another Place’ with the famous Iron men sculptures by Anthony Gormely which is great artistically and as well as that, take a stroll along that coast you will find that the bird life is fantastic.There’s a lovely path, great for wheelchair users and a cycle path. Even further up the coast we have the seaside town of Southport with excellent sand dunes containing the sand lizards and a conservation area for the endangered Natterjack toads. 
+Further up the coast we’ve got Crosby’s ‘Another Place’ with the famous Iron men sculptures by Anthony Gormley which is great artistically. There’s a lovely path, great for wheelchair users, and a cycle path. Even further up the coast we have the seaside town of Southport with excellent sand dunes containing the sand lizards and a conservation area for the endangered Natterjack toads. 
 
 Over on the Wirral side, we have New Brighton, again great for birdlife. The area of Leasowe on the tip of the Wirral peninsula is fantastic for spotting gulls and waders.
 
 ### Next month we’re speaking about the impact of sport on the climate. See you then!
 
-*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2022-series-aviation-and-wildlife/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/). Interview conducted and produced by Louise Millington. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)*
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2022-series-aviation-and-wildlife/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).* 
 
-<!--EndFragment-->
+*Interview conducted and produced by Louise Millington. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)*
