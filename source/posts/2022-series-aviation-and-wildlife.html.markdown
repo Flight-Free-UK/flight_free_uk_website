@@ -7,7 +7,7 @@ cover_image: /images/uploads/may2022_podcast_thumbnail-lg.jpg
 summary: Dr Jennifer Jones joins us to discuss the varying impacts of aviation
   on wildlife
 author: FlightFree UK
-read_time_minute: 7
+read_time_minute: 6
 ---
 *This is episode 5 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-aviation-and-wildlife/)  and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).* 
 
