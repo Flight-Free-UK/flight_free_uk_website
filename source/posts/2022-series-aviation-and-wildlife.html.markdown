@@ -13,7 +13,7 @@ read_time_minute: 8
 
 ## This month we are discussing the impacts of aviation on wildlife.
 
-### The impacts of aviation on wildlife including bird strikes, airport run off, noise/light pollution, and airport expansion encroaching on green spaces. 
+### These include bird strikes, airport run off, noise/light pollution, and airport expansion encroaching on green spaces. 
 
 Our guest is Dr Jennifer Jones, a writer, a children’s author, and a scientist, specialising in soil science. Jennifer is a member of the ‘Save Oglet Shore’ group, campaigning to stop the expansion of Liverpool airport. You can sign the petition [here](https://you.38degrees.org.uk/petitions/save-oglet-shoreline-1).
 
