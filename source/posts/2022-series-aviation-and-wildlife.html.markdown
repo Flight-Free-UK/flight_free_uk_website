@@ -1,23 +1,21 @@
 ---
 published: true
-title: "2022 series: Aviation and wildlife"
+title: "2022 podcast series: Aviation and wildlife"
 category: opinion
 date: 2022-05-24T20:26:07.432Z
 cover_image: /images/uploads/may2022_podcast_thumbnail-lg.jpg
-summary: "Dr Jennifer Jones joins us to discuss the varying impacts of aviation
-  on wildlife. "
+summary: Dr Jennifer Jones joins us to discuss the varying impacts of aviation
+  on wildlife
 author: FlightFree UK
 read_time_minute: 8
 ---
-<!--StartFragment-->
+*This is episode 5 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-aviation-and-wildlife/)  and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).* 
 
-*This is episode 5 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-aviation-and-wildlife/)  and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)* 
+## This month we are discussing the impacts of aviation on wildlife.
 
-In this month’s episode we are going to be discussing the impacts of aviation on local wildlife.
+### The impacts of aviation on wildlife including bird strikes, airport run off, noise/light pollution, and airport expansion encroaching on green spaces. 
 
-There are varying impacts aviation can have on wildlife including but not limited to: bird strikes, airport run off, noise and light pollution and airport expansion encroaching on green spaces. 
-
-Our guest is Dr Jennifer Jones, a writer, a children’s author, and a scientist, specialising in soil science. Jennifer is also a member of the ‘Save Oglet Shore’ group, campaigning to stop the expansion of Liverpool airport. You can sign the petition [here](https://you.38degrees.org.uk/petitions/save-oglet-shoreline-1).
+Our guest is Dr Jennifer Jones, a writer, a children’s author, and a scientist, specialising in soil science. Jennifer is a member of the ‘Save Oglet Shore’ group, campaigning to stop the expansion of Liverpool airport. You can sign the petition [here](https://you.38degrees.org.uk/petitions/save-oglet-shoreline-1).
 
 ### Flight Free Fact
 
@@ -46,8 +44,6 @@ How is the campaign going? 
 ### Jen
 
 It’s going well. With more members now we are addressing a number of issues. They’ve proposed a plan to extend the runway, and build infrastructure alongside the runway, so it’s a big project if it were to go through. We have to think about the potential impact on wildlife and air quality because the air quality in Speke is already poor.  When we engage with people they don’t know about the proposals and have no idea that they may lose access to the land. 
-
-
 
 ### Flight Free UK
 
@@ -128,7 +124,5 @@ Over on the Wirral side, we have New Brighton, again great for birdlife. The are
 ### Next month we’re speaking about the impact of sport on the climate. See you then!
 
 *Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2022-series-aviation-and-wildlife/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/). Interview conducted and produced by Louise Millington. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)*
-
-
 
 <!--EndFragment-->
