@@ -21,7 +21,7 @@ Our guest is Dr Jennifer Jones, a writer, a children’s author, and a scientist
 
 According to the Aviation Environment Federation (AEF) there are over 2000 bird strikes recorded annually in the UK alone.
 
-Here’s a quote from the AEF:
+From the AEF:
 
 “Bird populations are treated as hazards around airports and are controlled accordingly. However, caution about bird populations extends well beyond the immediate vicinity of an airport – the Civil Aviation Authority advises that steps should be considered to minimise bird populations as far as ten miles away.”
 
@@ -33,27 +33,21 @@ Jen, could you tell us more about the campaign to stop Liverpool airport expansi
 
 ### Jen
 
-The Oglet area that we are campaigning for is often described as the last bit of countryside in Liverpool. It’s adjacent to the Mersey estuary which is famous for its wading birds. The areas alongside it are woodland, scrubland and grassland and therefore are very important for organisms, as well as being important for people to get out and enjoy their area of the countryside. The area is a RAMSAR site with SSI status as well as being given a ‘Special Protected Area’ status. These statuses give protection to the area and are meant to impose conditions on anything that could impede on those populations of birds. 
+The Oglet area that we are campaigning for is often described as the last bit of countryside in Liverpool. It’s adjacent to the Mersey estuary which is famous for its wading birds. The areas alongside it are woodland, scrubland and grassland and therefore are very important for organisms, as well as being important for people to get out and enjoy their area of the countryside. 
+
+The area is a RAMSAR site with SSI status as well as being given a ‘Special Protected Area’ status. These statuses give protection to the area and are meant to impose conditions on anything that could impede on those populations of birds. 
 
 ### Flight Free UK
-
-Such as an airport expansion you would hope… 
 
 How is the campaign going? 
 
 ### Jen
 
-It’s going well. With more members now we are addressing a number of issues. They’ve proposed a plan to extend the runway, and build infrastructure alongside the runway, so it’s a big project if it were to go through. We have to think about the potential impact on wildlife and air quality because the air quality in Speke is already poor.  When we engage with people they don’t know about the proposals and have no idea that they may lose access to the land. 
+It’s going well. They’ve proposed a plan to extend the runway, and build infrastructure alongside the runway, so it’s a big project if it were to go through. We have to think about the potential impact on wildlife and air quality because the air quality in Speke is already poor.  When we engage with people they don’t know about the proposals and have no idea that they may lose access to the land. 
 
-### Flight Free UK
+I don’t understand how the expansion can go ahead. There is incontrovertible evidence that we have a biodiversity crisis and we have a climate change crisis and yet somehow it seems easy to ignore it and continue with plans that will worsen the effects. 
 
-Often with airport expansions, green belt is lost. For example Bristol airport, which has been given the go ahead for expansion, will be having a car park built on greenbelt. 
-
-### Jen
-
-I don’t understand how it can go ahead. There is incontrovertible evidence that we have a biodiversity crisis and we have a climate change crisis and yet somehow it seems easy to ignore it and continue with plans that will worsen the effects. 
-
-> "There is incontrovertible evidence that we have a biodiversity crisis and we have a climate change crisis and yet somehow it seems easy to ignore it."
+> "We have a biodiversity crisis and we have a climate change crisis and yet somehow it seems easy to ignore it."
 
 ### Flight Free UK
 
@@ -63,7 +57,7 @@ Do you know what specific effects the airport expansion would have on the wildli
 
 There’s concern about whether the expansion will have an impact on the area adjacent to the river Mersey. We know that at high tide, birds that are red listed such as curlew, lapwing, and grey partridge use those fields for feeding and roosting. Our worry is that the birds could lose their habitat. 
 
-> "We know that at high tide, birds that are red listed such as curlew, lapwing, and grey partridge use those fields for feeding and roosting. Our worry is that the birds could lose their habitat."
+> "Birds that are red listed such as curlew, lapwing, and grey partridge use those fields for feeding and roosting. The birds could lose their habitat."
 
 Unfortunately there are additional plans to build warehousing alongside the runway which is grade 1 and grade 2 agricultural land. So we’re not just losing the green belt but we are losing agricultural land which becomes even more critical as we know that the sustainability of our ability to feed ourselves is going to be compromised in the future. 
 
