@@ -54,7 +54,7 @@ Knowing a bit about languages is very helpful when travelling around Europe. How
 
 #### Some readers will find it reassuring to know that they will find English spoken in most places on the railway network, and even on-train announcements are sometimes made in English.
 
-You’ll find some great advice in this [Flight Free post](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/). If it all sounds too complicated and daunting to organise yourself, you can turn to a holiday travel agent. Railbookers and Great Railway Journeys get a mention here.
+You’ll find some great advice in this [Flight Free post](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/). If it all sounds too complicated and daunting to organise yourself, you can turn to a holiday travel agent. [Railbookers](https://www.railbookers.co.uk) and [Great Rail Journeys](https://www.greatrail.com) get a mention here.
 
 The city guides are short and there’s a sensible focus on areas around the stations, and on what to take in on a flying visit. It’s also extremely helpful to be warned when the high speed train comes into a different station from local services. In the south of France the TGV station is sometimes a 20 minute bus ride from the town centre. 
 
