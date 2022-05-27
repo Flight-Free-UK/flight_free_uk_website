@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Lonely Planet’s Guide to Train Travel in Europe
 category: travel
 date: 2022-05-26T12:56:00.000Z
@@ -18,6 +18,8 @@ Reading timetables is a dying art now that we have apps and websites to plan our
 
 This Guide to Train Travel in Europe is organised around six main high speed axes, connecting places from Moscow in the east to Lisbon in the west, and from Stockholm or London in the north to Malaga, Sicily or Split in the south. The routes criss-cross through hubs like Paris, Frankfurt and Munich, so you can connect them up in any way you wish.
 
+> “This Guide to Train Travel in Europe is organised around six main high speed axes. The routes criss-cross through hubs so you can connect them up in any way you wish.”
+
 There are sections to help you orient yourself in all the major hubs where you are likely to stop, as well as giving you the lowdown on countless provincial cities that you might not have heard of but that are well worth exploring in their own right.
 
 For example, there is La Spezia in Italy, ‘hugely atmospheric’, with the world’s oldest naval museum. Or Ljubljana, capital of Slovenia, where cobbled passageways, courtyards and bridges are ‘a delight without cars’.
@@ -25,6 +27,8 @@ For example, there is La Spezia in Italy, ‘hugely atmospheric’, with the wor
 Germany seems particularly rich in lesser known destinations, from Aachen, the former capital of the Holy Roman Empire, which has a sumptuous cathedral begun in 796, to tiny Triberg, home of Germany’s highest waterfalls and the Black Forest Gateau (is it twinned with Bakewell? It sounds as if it should be).
 
 The book tells the story of each journey, with service frequencies and travel times, and there are side quests, away from the main route, that you can add if you want to explore further. For example, surely everyone who reads this book will yearn to visit the Białowieża Forest, on the Polish-Belorussian border, where endangered European bison roam a primaeval wilderness described as Europe’s Amazon. You can reach it in 3 hours and 15 minutes from Warsaw.
+
+> “The book tells the story of each journey, with service frequencies and travel times. There are side quests, away from the main route, that you can add to explore further.”
 
 There are tips for train enthusiasts, but this is a book with broad appeal. It looks gorgeous, with plenty of pictures on every page to inspire you with wanderlust (and all the pictures are properly captioned too). The text  – which, by the way, is in a beautifully clear typeface and (an under-rated quality) not too small – is not especially lyrical. But there’s a torrent of information. It’s a book for reading at the planning stage. It’s a little heavy to take in your backpack.
 
@@ -38,11 +42,15 @@ There are maps throughout this book, including a fold out map at the beginning s
 
 A few more maps would be welcome. For example, the chapter on the North-South axis suggests some spectacular additional routes north of Stockholm and right up into the Arctic circle, but these are too far north to fit on any of the maps. Once you’ve planned your route you might also want to acquire a more detailed map that will show you not only where you can stop but also what you are looking at on the way.
 
+> “Knowing a bit about languages is very helpful. The book offers help with how to pronounce two of the most difficult place names. This information is worth the price of the book alone.”
+
 Knowing a bit about languages is very helpful when travelling around Europe. How can you pick out your destination from a station announcement if you don’t know how it sounds? The book offers help with how to pronounce two of the most difficult place names for English speakers: Wrocław and łódź in Poland, or ‘vrots-wahf’ and ‘wuj’ respectively. This information is worth the price of the book alone. To get more help of this kind, check the pronunciation of place names online before you leave.
 
 Some readers will find it reassuring to know that they will find English spoken in most places on the railway network, and even on-train announcements are sometimes made in English. You’ll find some great advice in this [Flight Free post](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/).If it all sounds too complicated and daunting to organise yourself, you can turn to a holiday travel agent.  Railbookers and Great Railway Journeys get a mention here.
 
 The city guides are short and there’s a sensible focus on areas around the stations, and on what to take in on a flying visit. It’s also extremely helpful to be warned when the high speed train comes into a different station from local services. In the south of France the TGV station is sometimes a 20 minute bus ride from the town centre. A little more information about transfers is sometimes needed: do you need to buy a ticket for the Metro across Paris or is it included in your TGV fare? Do you need cash or can you tap in and out with your bank card? Or buy a ticket on your phone? These are the kind of things that preoccupy passengers alighting for the first time at Gare du Nord, and this is the kind of information you’ll find on the fantastic website seat61.com.
+
+> “Europe is so packed with interesting and beautiful places to visit, this book makes you wonder if you ever need to go anywhere else.”
 
 Europe is so packed with interesting and beautiful places to visit, this book makes you wonder if you ever need to go anywhere else. And European railways are a triumph of engineering and international cooperation. There are some fascinating details here of how different gauge railways come together, and the international tunnels, bridges and ferries that make border crossings. Sometimes the train is actually loaded onto a ferry, as when you cross to Sicily at the Strait of Messina. Did you know that trains in Sweden travel on the right side of the tracks, whereas in Denmark they travel on the left, so Swedish trains have to switch around just north of Malmö before they cross the Öresund bridge into Denmark?  
 
