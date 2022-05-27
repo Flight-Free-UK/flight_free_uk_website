@@ -28,7 +28,7 @@ For example, there is La Spezia in Italy, ‘hugely atmospheric’, with the wor
 
 Germany seems particularly rich in lesser known destinations, from Aachen, the former capital of the Holy Roman Empire, which has a sumptuous cathedral begun in 796, to tiny Triberg, home of Germany’s highest waterfalls and the Black Forest Gateau (is it twinned with Bakewell? It sounds as if it should be).
 
-#### The book tells the story of each journey, with service frequencies and travel times, and there are side quests, away from the main route, that you can add if you want to explore further. 
+#### The book tells the story of each journey, with service frequencies and travel times, and there are side quests, away from the main route, that you can add if you want to explore further.
 
 For example, surely everyone who reads this book will yearn to visit the Białowieża Forest, on the Polish-Belorussian border, where endangered European bison roam a primaeval wilderness described as Europe’s Amazon. You can reach it in 3 hours and 15 minutes from Warsaw.
 
@@ -38,7 +38,7 @@ There are tips for train enthusiasts, but this is a book with broad appeal. It l
 
 The introductory section is particularly useful, with a briefing on the different types of trains, how and where to book tickets, and how to make connections. Some of this information may not stay up to date, and it’s likely you will need to check websites such as [seat61.com](https://www.seat61.com/index-mobile.htm) as well, but it is extremely useful to be primed with what questions to ask even if the answers may change.
 
-#### The introduction does a great job of setting the scene for the revival of interest in trains, and evokes that peculiar ‘back to the future’ energy of the railways. 
+#### The introduction does a great job of setting the scene for the revival of interest in trains, and evokes that peculiar ‘back to the future’ energy of the railways.
 
 Once they were at the frontier of technology and innovation (think Around the World in 80 Days), celebrated with stations so gorgeously elaborate and beautiful that they are now destinations in themselves. Then, for a while, the long-distance railways seemed like curiosities and nearly obsolete. But now swift, low-carbon European trains are once again looking like the future of travel.
 
@@ -52,9 +52,9 @@ A few more maps would be welcome. For example, the chapter on the North-South ax
 
 Knowing a bit about languages is very helpful when travelling around Europe. How can you pick out your destination from a station announcement if you don’t know how it sounds? The book offers help with how to pronounce two of the most difficult place names for English speakers: Wrocław and łódź in Poland, or ‘vrots-wahf’ and ‘wuj’ respectively. This information is worth the price of the book alone. To get more help of this kind, check the pronunciation of place names online before you leave.
 
-#### Some readers will find it reassuring to know that they will find English spoken in most places on the railway network, and even on-train announcements are sometimes made in English. 
+#### Some readers will find it reassuring to know that they will find English spoken in most places on the railway network, and even on-train announcements are sometimes made in English.
 
-You’ll find some great advice in this [Flight Free post](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/).If it all sounds too complicated and daunting to organise yourself, you can turn to a holiday travel agent.  Railbookers and Great Railway Journeys get a mention here.
+You’ll find some great advice in this [Flight Free post](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/). If it all sounds too complicated and daunting to organise yourself, you can turn to a holiday travel agent. Railbookers and Great Railway Journeys get a mention here.
 
 The city guides are short and there’s a sensible focus on areas around the stations, and on what to take in on a flying visit. It’s also extremely helpful to be warned when the high speed train comes into a different station from local services. In the south of France the TGV station is sometimes a 20 minute bus ride from the town centre. 
 
