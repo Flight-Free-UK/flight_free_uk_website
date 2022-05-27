@@ -68,4 +68,4 @@ Sometimes the train is actually loaded onto a ferry, as when you cross to Sicily
 
 It’s so sad to read the sections about travel to Kiev and Moscow, knowing that (at the time of writing) European train services to Russia are suspended and the UK Foreign Office is advising against all travel to Russia.  
 
-\###Let’s hope most fervently that this is temporary, and that peace, cooperation, friendship and travel are restored one day.
+### Let’s hope most fervently that this is temporary, and that peace, cooperation, friendship and travel are restored one day.
