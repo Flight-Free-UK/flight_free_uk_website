@@ -49,6 +49,8 @@ As we celebrate the Platinum Jubilee with bunting, bubbly and flypasts, the Keel
 
 #### To misquote a phrase: the best time to take climate action was 70 years ago. The second best time is now. 
 
+> "The best time to take climate action was 70 years ago. The second best time is now."
+
 ### A climate timeline
 
 **1958** Charles David Keeling starts measuring atmospheric CO2. Within 4 years the project shows that levels are rising.  
