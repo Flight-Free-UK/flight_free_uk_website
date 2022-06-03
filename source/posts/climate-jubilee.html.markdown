@@ -13,7 +13,7 @@ read_time_minute: 6
 
 ### Six years later Charles David Keeling began taking measurements that have tracked the rise of carbon dioxide in our atmosphere ever since. 
 
-You might have heard of the Keeling Curve – that’s the shape of his graph, curving ever upwards even as treaties are signed and pledges are made to reduce carbon dioxide emissions.
+You might have heard of the [Keeling Curve](https://education.nationalgeographic.org/resource/keeling-curve) – that’s the shape of his graph, curving ever upwards even as treaties are signed and pledges are made to reduce carbon dioxide emissions.
 
 It was 1989 when a British Prime Minister first uttered the words ‘climate change’. It came from an unlikely quarter: Margaret Thatcher. Her calls for a global treaty on climate were made the year after the Intergovernmental Panel on Climate Change (IPCC) was set up. The IPCC’s role was to collate and assess evidence on climate change, issuing assessment reports every few years.
 
