@@ -34,7 +34,7 @@ For everything else, the ‘luxuries’ of life, the immediate answer must be to
 
 > "Ultra-long-haul travel is directly at odds with the rapid decarbonisation of our lifestyles."
 
-Staying airborne for twenty hours uses a hell of a lot of fuel. Without a mid-flight stopover, the jet must carry all the kerosene it needs for the entire journey, adding to the weight of the plane. The result is that much of the fuel – [approximately 60%!](https://www.wired.co.uk/article/qantas-london-sydney-direct-flight) – will be burned simply to carry the rest of the fuel. The [climate impact of flying to Australia is already 4.5 tonnes CO2 per passenger](https://flightemissionmap.org/#London/51.50,-0.13/133/20000). Adding in the extra fuel, and the extra space per passenger, the climate impact of each ticket on this flight could well be double. 
+Staying airborne for twenty hours uses a hell of a lot of fuel. Without a mid-flight stopover, the jet must carry all the kerosene it needs for the entire journey, adding to the weight of the plane. The result is that much of the fuel – [approximately 60%](https://www.wired.co.uk/article/qantas-london-sydney-direct-flight) – will be burned simply to carry the rest of the fuel. The [climate impact of flying to Australia is already 4.5 tonnes CO2 per passenger](https://flightemissionmap.org/#London/51.50,-0.13/133/20000). Adding in the extra fuel, and the extra space per passenger, the climate impact of each ticket on this flight could well be double. 
 
 > "Approximately 60% of the fuel will be burned simply to carry the rest of the fuel."
 
