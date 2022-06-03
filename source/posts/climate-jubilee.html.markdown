@@ -2,7 +2,7 @@
 published: true
 title: Climate Jubilee
 category: opinion
-date: 2022-06-03T11:49:54.691Z
+date: 2022-05-01T11:49:54.691Z
 cover_image: /images/uploads/climate_jubilee.jpg
 summary: In the 70 years since Queen Elizabeth II took the throne, what climate
   progress has been made?
