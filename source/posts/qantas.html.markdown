@@ -1,6 +1,6 @@
 ---
 published: true
-title: Qantas
+title: Half a world away
 category: opinion
 date: 2022-05-19T18:46:40.031Z
 cover_image: /images/uploads/qantas.jpg
