@@ -44,7 +44,7 @@ The Chief Exec of Qantas is celebrating winning over the ‘tyranny of distance�
 
 Once upon a time, the journey to Australia would take two months by sailing ship, or 40 days by steamer. The conditions were terrible, and many people died on the journey. Our society has moved on significantly since then, and our ability to travel quickly and safely to the other side of the world cannot be disregarded. 
 
-But neither can we ignore the negative effects of our insatiable appetite for better, faster, further. We know the effects of burning fossil fuels on our planet, and we have known them for decades: the rapid and, now, irreversible breakdown of our life systems. Yet we chose to ignore them in our blind stumbling towards whatever we’ve classed as ‘innovation’. 
+But neither can we ignore the negative effects of our insatiable appetite for better, faster, further. We know the effects of burning fossil fuels on our planet, and we have known them for decades: the rapid and increasingly irreversible breakdown of our life systems. Yet we chose to ignore them in our blind stumbling towards whatever we’ve classed as ‘innovation’. 
 
 > "We chose to ignore the effects of burning fossil fuels in our blind stumbling towards ‘innovation’." 
 
