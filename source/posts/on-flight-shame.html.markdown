@@ -63,7 +63,9 @@ Research [by behaviour change expert Steve Westlake](https://theconversation.com
 
 It’s the mixed messaging that’s the problem: someone who talks about climate change as though they think it’s important (e.g. an elected politician), but then takes a flight… that is a very public action. People will see that action and think, oh, well the climate crisis can’t be that bad then, otherwise they wouldn’t have taken that flight. And then they go and book their own.
 
-So our position is this: even though the holiday flights taken by everyday people make up the [largest portion of flights from the UK](https://www.facebook.com/flightfreeUK/photos/3079833062265519) (more than business flights or trips to see family and friends), and we desperately need to reduce these in order to make a meaningful dent in our emissions, the man on the street doesn’t respond to flight shaming. That’s why our mission is to inform and inspire. Flight shame, in any form, is inappropriate here.
+### So our position is this:
+
+Even though the holiday flights taken by everyday people make up the [largest portion of flights from the UK](https://www.facebook.com/flightfreeUK/photos/3079833062265519) (more than business flights or trips to see family and friends), and we desperately need to reduce these in order to make a meaningful dent in our emissions, the man on the street doesn’t respond to flight shaming. That’s why our mission is to inform and inspire. Flight shame, in any form, is inappropriate here.
 
 But when it comes to an elected member of society, in a position of privilege and who others look up to, who understands the climate crisis yet still behaves in a way that is counter to that – and, worse, through that behaviour likely encourages others to as well – we will challenge them. 
 
