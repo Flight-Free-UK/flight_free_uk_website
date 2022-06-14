@@ -29,7 +29,7 @@ Our campaign is about informing people of the climate impact of aviation and ins
 
 Many people don’t know the true climate cost of flying, so our job is to tell them, and to uncover industry scandals such as there being [no tax on aviation fuel](https://www.instagram.com/p/Cc5sUahqS46/?utm_source=ig_web_copy_link). Once people become informed, they quickly choose to fly less. Making that choice is empowering and likely to be long-lasting. 
 
-> "Once people become informed, they quickly choose to fly less. Making that choice is empowering and likely to be long-lasting." 
+> "Once people become informed, they quickly choose to fly less." 
 
 By [sharing stories of the people who have taken our pledge](/blog/categories/testimonials) we show others that it’s possible and even desirable. Choosing not to fly doesn’t have to be a sacrifice, and travelling by other means can enrich the holiday. People find that flight-free travel can be just as adventurous and even more rewarding than travelling by air, and the massive emissions savings just cement the argument. 
 
