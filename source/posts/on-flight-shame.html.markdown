@@ -45,7 +45,7 @@ The reason that we don't do this is *not* because we don’t want to be upfront 
 
 That doesn’t mean that we shy away from the reality of climate change and what it is doing to people around the globe. We really, really need people to stop flying, and quickly! But we know that this is much more likely to happen if we inform and inspire individuals to change their behaviour, rather than shame them. If we can reach enough people, social change will quickly follow.
 
-> "We know people are more likely to stop flying if we inform and inspire them to change their behaviour, rather than shame them." 
+> "We know people are more likely to stop flying if we inform and inspire them, rather than shame them." 
 
 ### There is another side to this.
 
