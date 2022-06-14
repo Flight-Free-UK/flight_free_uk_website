@@ -9,9 +9,9 @@ summary: "The term 'flygskam' has become popular in the past few years, but does
 author: FlightFree UK
 read_time_minute: 4
 ---
-## You might have heard of *flygskam*. 
+## You might have heard of *flygskam*.
 
-### It entered the lexicon back in 2019, the year that Swedish teen activist Greta Thunberg [sailed across the Atlantic ocean](/post/be-more-greta) to attend a climate change conference and awareness of the climate impact of aviation hit the mainstream. 
+### It entered the lexicon back in 2019, the year that Swedish teen activist Greta Thunberg [sailed across the Atlantic ocean](/post/be-more-greta) to attend a climate change conference, and awareness of the climate impact of aviation hit the mainstream. 
 
 The term literally translates as ‘flight shame’, a feeling of climate responsibility that led to people, especially in Sweden, ditching flights en-masse. It was so powerful that [flight bookings in Sweden fell by 9%](https://www.bbc.co.uk/news/world-europe-51067440): remarkable at a time when airlines the world over were fixated on growth. 
 
@@ -23,7 +23,7 @@ The distinction is important. There is no doubt that feelings of guilt, even sha
 
 On the other hand, putting guilt on someone else is more likely to raise feelings of indignation, or defence, or lead to a raft of excuses – in short, not changing behaviour at all. In fact, it might go the opposite way and close off that conversation completely, never to be revisited.
 
-### At Flight Free UK we don’t do flight shame. 
+### At Flight Free UK we don’t do flight shame.
 
 Our campaign is about informing people of the climate impact of aviation and inspiring them to travel by other means. 
 
@@ -33,7 +33,7 @@ Many people don’t know the true climate cost of flying, so our job is to tell 
 
 By [sharing stories of the people who have taken our pledge](/blog/categories/testimonials) we show others that it’s possible and even desirable. Choosing not to fly doesn’t have to be a sacrifice, and travelling by other means can enrich the holiday. People find that flight-free travel can be just as adventurous and even more rewarding than travelling by air, and the massive emissions savings just cement the argument. 
 
-### For some people, our approach is not enough. 
+### For some people, our approach is not enough.
 
 There is no doubt that we are reaching crisis point: we are already seeing the devastating effects of a changing climate at home and around the world. Every single flight we take eats into our steadily dwindling carbon budget. People are already dying from the climate crisis; taking a holiday flight in that context seems completely inappropriate. We can't just wait for people to come to this in their own time. 
 
@@ -65,6 +65,6 @@ So our position is this: even though the holiday flights taken by everyday peopl
 
 But when it comes to an elected member of society, in a position of privilege and who others look up to, who understands the climate crisis yet still behaves in a way that is counter to that – and, worse, through that behaviour likely encourages others to as well – we will challenge them. 
 
-### Addressing the climate crisis will take a massive effort from all of us. It will require us to change everything about the way we live. 
+### Addressing the climate crisis will take a massive effort from all of us. It will require us to change everything about the way we live.
 
 #### When those in the public eye take climate action and demonstrate the behaviour we all need to adopt, mass climate action will come more quickly. When elected leaders claim to know about climate change yet demonstrate starkly non climate-friendly behaviours, it’s our role to call them out.
