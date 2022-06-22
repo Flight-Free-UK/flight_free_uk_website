@@ -9,9 +9,9 @@ summary: In the 70 years since Queen Elizabeth II took the throne, what climate
 author: FlightFree UK
 read_time_minute: 6
 ---
-## When Queen Elizabeth II took the throne in 1952, atmospheric carbon was less than 315 parts-per-million. 
+## When Queen Elizabeth II took the throne in 1952, atmospheric carbon was less than 315 parts-per-million.
 
-### Six years later Charles David Keeling began taking measurements that have tracked the rise of carbon dioxide in our atmosphere ever since. 
+### Six years later Charles David Keeling began taking measurements that have tracked the rise of carbon dioxide in our atmosphere ever since.
 
 You might have heard of the [Keeling Curve](https://education.nationalgeographic.org/resource/keeling-curve) – that’s the shape of his graph, curving ever upwards even as treaties are signed and pledges are made to reduce carbon dioxide emissions.
 
@@ -29,7 +29,7 @@ The first IPCC report was issued in 1990. Two years later the Earth Summit in Ri
 
 > "At the Earth Summit in Rio, developed countries agreed to return their emissions to 1990 levels."
 
-What has happened since? Five more IPCC reports, each one increasing in urgency and certainty that it’s human activity that is warming our climate. Emissions on the rise. Our destruction of the planet explored in popular fiction, with Michael Jackson’s Earth Song in 1995 and Al Gore’s An Inconvenient Truth in 2006. Seven of the hottest years in history: 1998, 2005, 2010, 2014, 2015, 2016 and 2020. 
+What has happened since? Five more IPCC reports, each one increasing in urgency and certainty that it’s human activity that is warming our climate. Emissions on the rise. Our destruction of the planet explored in popular fiction, with Michael Jackson’s Earth Song in 1995 and Al Gore’s An Inconvenient Truth in 2006. Records for the hottest year ever recorded being broken seven times: in 1998, 2005, 2010, 2014, 2015, 2016 and 2020. 
 
 How has it all gone so wrong? A clue lies in a paper commissioned in 1997 by the Reason Foundation: a “Plain English guide to climate science”. The foundation received $70,000 from the oil company Exxonmobil to “assess public policy alternatives on issues with direct bearing on the company’s business operations and interests.” In Plain English: don’t let climate action get in the way of our profits.
 
