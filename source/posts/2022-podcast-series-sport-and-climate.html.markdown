@@ -69,9 +69,7 @@ Each week there are school teams travelling, local teams travelling and professi
 
 With so much needing to change, and people having to give things up in order to cut our emissions, there's going to be a void created. Sports and the arts could be the thing to fill that void: like a medicine that helps us transition from a world of luxury that we don't even appreciate.
 
-Sport has such power. It's healthy, it's connecting, it's fulfilling and it's all those positive attributes of being human that we need to really engage with.
-
-We need to focus on grassroots, on communities, on creating sporting opportunities for everyone. There needs to be a massive boost in local sports.
+Sport has such power. It's healthy, it's connecting and it's fulfilling. We need to focus on grassroots, on communities, on creating sporting opportunities for everyone. There needs to be a massive boost in local sports.
 
 All the sporting federations need to plan their calendars so there are very few competitions that you travel to. Going to the national championships might be the one event that pulls everyone together each year. But travelling every weekend to a different part of the UK or even Europe or the world is just barmy. Through my role with the World Olympians, I'd really like to see a movement across the world that promotes local sports as the priority.
 
