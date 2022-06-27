@@ -13,7 +13,7 @@ read_time_minute: 8
 
 ## In this episode we are speaking to Olympians Etienne Stott and Laura Baldwin about the impact of sport on the climate.
 
-### We’ll be asking if and how we can reduce the carbon cost of sport while still keeping the benefits on our physical and mental health. 
+### We’ll be asking if and how we can reduce the carbon cost of sport while still keeping the benefits to our physical and mental health.
 
 ### Flight Free Fact
 
@@ -25,7 +25,7 @@ read_time_minute: 8
 
 Welcome Etienne and Laura. Can you give a quick outline of your careers as athletes?
 
-### Etienne 
+### Etienne
 
 I started canoeing when I was about 10 or 11, but I wasn't from a sporty family or anything. I then joined a local club and took a fairly large leap of imagination and decided to try to become an Olympic and world champion.
 
