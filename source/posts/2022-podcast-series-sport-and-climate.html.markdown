@@ -149,7 +149,7 @@ There are two destinations that are particularly good to soak up the atmosphere 
 
 The Alpe d’Huez is a little more complicated: you would first get the Eurostar to Lille, then TGV high speed train to Lyon, then a TER regional train to Grenoble, and a bus from there. But it's almost as quick, and much more enjoyable, than flying.
 
-Thanks for listening. Goodbye!
+## Thanks for listening. Goodbye!
 
 *Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2022-series-sport-and-climate/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).*
 
