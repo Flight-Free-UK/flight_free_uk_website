@@ -29,7 +29,7 @@ Welcome Etienne and Laura. Can you give a quick outline of your careers as athle
 
 I started canoeing when I was about 10 or 11, but I wasn't from a sporty family or anything. I then joined a local club and took a fairly large leap of imagination and decided to try to become an Olympic and world champion.
 
-It took me around 20 years to get to the London games. Tim, my crew mate, and I won gold at the London games, our home Olympics. You can't get luckier than that!
+It took me around 20 years to get to the London games. Tim, my crew mate, and I [won gold at the London games](https://www.youtube.com/watch?v=JDGBQW0ulUg&t=1582s), our home Olympics. You can't get luckier than that!
 
 ### Laura
 
