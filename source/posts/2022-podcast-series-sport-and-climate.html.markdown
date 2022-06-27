@@ -79,7 +79,7 @@ With re-imagination, we can get back to what sports is really about. Sport is ab
 
 ### Flight Free UK
 
-Where do you see the future of international sport going and how can its climate impact be mitigated?
+What do you see as the future of international sport and how can its climate impact be mitigated?
 
 ### Etienne
 
