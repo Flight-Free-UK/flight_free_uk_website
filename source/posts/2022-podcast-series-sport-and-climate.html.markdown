@@ -65,13 +65,9 @@ Going down this path makes more sense to me than coaching people or doing motiva
 
 Each week there are school teams travelling, local teams travelling and professional teams travelling for sports fixtures. What do you think at a domestic level we could do to encourage more sustainable travel choices?
 
-### Etienne
-
-We are heading into a world where we need to be more localised. We need to reimagine sports in different ways. 
-
 ### Laura
 
-With so much needing to change, and people having to give things up in order to cut our emissions, there's going to be a void created. Sports and the arts could be the thing to fill that void: like a medicine that helps us move through this transition from this world of luxury that we don't even really appreciate.
+With so much needing to change, and people having to give things up in order to cut our emissions, there's going to be a void created. Sports and the arts could be the thing to fill that void: like a medicine that helps us transition from a world of luxury that we don't even appreciate.
 
 Sport has such power. It's healthy, it's connecting, it's fulfilling and it's all those positive attributes of being human that we need to really engage with.
 
