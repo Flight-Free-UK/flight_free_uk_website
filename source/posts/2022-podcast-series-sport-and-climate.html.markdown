@@ -135,7 +135,7 @@ The chief of the United Nations, Antonio Gutierrez, and other hugely credible pe
 
 Once you start to see that, we have to ask how can we apply that to our profession’s ideals of fairness and of kindness and of care for young people? Sports is all about young people. Of course, it's for all ages but what do we want for these youngsters?
 
-We need to come together, figure this out as sensible, responsible people, rather than just bury our heads in the sand and carry on playing our sports. We can only do that for so long before it becomes painfully clear that that's not going to work.
+We need to come together and figure this out as sensible, responsible people, rather than just bury our heads in the sand and carry on playing our sports. We can only do that for so long before it becomes painfully clear that that's not going to work.
 
 ### Flight Free UK
 
