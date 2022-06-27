@@ -145,7 +145,7 @@ Thanks for speaking with us Etienne and Laura, and we hope that your work with E
 
 This month we’ve chosen one of the most famous sporting events in the calendar, and that’s the Tour de France.
 
-Two particular destinations are particularly good to soak up the atmosphere of the Tour, and those are the Alpe d’Huez and Champs-Élysées in Paris (the finish line). Paris is easy to reach without flying: you can either travel by Eurostar from London, or by coach or by ferry from the many ports on the south coast. 
+There are two destinations are particularly good to soak up the atmosphere of the Tour, and those are the Alpe d’Huez and Champs-Élysées in Paris (the finish line). Paris is easy to reach without flying: you can either travel by Eurostar from London, or by coach or by ferry from the many ports on the south coast. 
 
 The Alpe d’Huez is a little more complicated: you would first get the Eurostar to Lille, then TGV high speed train to Lyon, then a TER regional train to Grenoble, and a bus from there.
 
