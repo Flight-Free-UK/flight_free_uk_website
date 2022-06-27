@@ -5,7 +5,7 @@ category: climate
 date: 2022-06-24T12:35:34.469Z
 cover_image: /images/uploads/sports_podcast_jun22_large.jpg
 summary: "Olympians Etienne Stott and Laura Baldwin join us to talk about the
-  impact of sport upon climate. "
+  impact of sport upon the climate. "
 author: FlightFree UK
 read_time_minute: 8
 ---
