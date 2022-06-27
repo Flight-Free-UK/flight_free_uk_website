@@ -83,9 +83,9 @@ What do you see as the future of international sport and how can its climate imp
 
 ### Etienne
 
-There's been talk about holding the Olympics at the same venue every four years. It probably would not be as lucrative, but there are lots of ways that we could have an awesome Olympics that people came to from across the world.
+There's been talk about holding the Olympics at the same venue every four years, to reduce the considerable carbon impact of constructing the venues etc. It probably would not be as lucrative, but there are lots of ways that we could have an awesome Olympics that people came to from across the world.
 
-Of course, there would still be a very significant carbon impact, but it would also have an incredible, inspirational feel-good aspect. 
+Of course, there would still be a very significant carbon impact from that because of all the travel, but it would also have an incredible, inspirational feel-good aspect. 
 
 ### Flight Free UK
 
