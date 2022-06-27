@@ -93,7 +93,7 @@ How important is it for professional athletes to use their platforms to raise aw
 
 ### Laura
 
-It used to be scientists and philosophers that were the trusted voice, that people would listen to. Now it’s celebrities and sports people who are the trusted voice.
+It used to be scientists and philosophers that were the trusted voice – now it’s celebrities and sports people.
 
 This is something that Etienne and I have been engaging within, through [Champions for Earth](https://championsforearth.com/). We help athletes to find a way in which they feel confident to put themselves forward as ambassadors for the environment.
 
