@@ -111,7 +111,7 @@ You both just mentioned Champions for Earth, which is a movement created by you,
 
 We've been helping athletes speak out about the climate, but the main blocker for most of them is the fear of being attacked for hypocrisy.
 
-So, we are helping to create a solid defence statement. We're all hypocrites within the system, so we really need system change, but we should also focus on the changes that people are making.
+So we are helping to create a solid defence statement. We're all hypocrites within the system, so we really need system change, but we should also focus on the changes that people are already making.
 
 Athletes give people joy through their sport, and it’s important for them to be able to continue that without being paralysed by this call of hypocrisy. It really is just a distraction technique to try to discredit you, so that people aren’t listening to the important messages we’re trying to talk about.
 
