@@ -133,7 +133,7 @@ People need to know the truth. Then we need to start bringing people together to
 
 The chief of the United Nations, Antonio Gutierrez, and other hugely credible people are saying this is code red for humanity. We have to change or everything will be changed. 
 
-Once you start to see that, we have to ask how much do we want to stand by our profession’s ideals of fairness and of kindness and of care for young people? Sports is all about young people. Of course, it's for all ages but what do we want for these youngsters?
+Once you start to see that, we have to ask how can we apply that to our profession’s ideals of fairness and of kindness and of care for young people? Sports is all about young people. Of course, it's for all ages but what do we want for these youngsters?
 
 We need to come together, figure this out as sensible, responsible people, rather than just bury our heads in the sand and carry on playing our sports. We can only do that for so long before it becomes painfully clear that that's not going to work.
 
