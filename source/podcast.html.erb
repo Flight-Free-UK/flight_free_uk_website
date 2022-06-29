@@ -10,7 +10,7 @@ title: Podcast
     <div class="bg-blue-dark text-white mb-4 md:mb-12">
       <a href="<%= podcast.url %>" target="_blank" class="relative block lg:flex lg:h-56">
           <div class="absolute top-0 right-0 z-10 w-full h-full bg-no-repeat bg-right-top" style="background-image:url(/images/latest_podcast.png)"></div>
-          <div class="lg:flex w-full lg:w-1/3 lg:h-full lg:mr-6">
+          <div class="lg:flex w-full lg:w-320 h-full lg:mr-6">
               <img src="<%= podcast.cover_image %>" alt="Image for <%= podcast.title %>" class="w-full h-auto object-cover" />
           </div>
           <div class="overflow-auto lg:flex flex-col justify-center w-full lg:w-2/3 lg:h-full lg:mr-12 mb-4">
@@ -29,7 +29,7 @@ title: Podcast
     <% podcasts.each do |podcast| %>
     <div class="bg-blue-dark text-white mb-4 md:mb-12">
         <a href="<%= podcast.url %>" target="_blank" class="block lg:flex justify-center items-center lg:min-h-160">
-            <div class="flex-shrink-0 w-full lg:w-56 h-full lg:mr-6">
+            <div class="lg:flex flex-shrink-0 w-full lg:w-56 h-full lg:mr-6">
                 <img src="<%= podcast.cover_image %>" alt="Image for <%= podcast.title %>" class="w-full h-auto object-cover" />
             </div>
             <div class="flex-initial lg:mr-6 mb-4 leading-tight">
