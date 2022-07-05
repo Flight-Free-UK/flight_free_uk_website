@@ -4,8 +4,7 @@ title: What's wrong with Jet Zero?
 category: opinion
 date: 2021-09-07T10:59:21.345Z
 cover_image: /images/uploads/1-resourcewatch.org-planeonrunway-virgin-2721333_1920-1.jpg
-summary: The government's Jet Zero consultation closes on 8th September. Here's
-  our response.
+summary: The government has big plans to reduce aviation emissions. But will it work?
 author: FlightFree UK
 read_time_minute: 9
 ---
@@ -61,9 +60,7 @@ It will be a vote-winner, sure. Telling people to change how they live is never 
 
 #### The most reliable way to reduce our emissions from aviation has always been the most simple one: fly less.
 
-*Respond to the government’s consultation before 11.59pm on 8th September. [Go here to read the consultation and submit your response](https://www.gov.uk/government/consultations/achieving-net-zero-aviation-by-2050).*
-
-We have written some suggestions for answers to the questions here (thanks to GALBA for some of these responses)
+*The government ran a consultation on its Jet Zero plans in 2021. Here is our response, with help from [GALBA](https://www.galba.uk/).* 
 
 *1) Do you agree or disagree that UK domestic aviation should be net zero by 2040? How do you propose this could be implemented?*
 
