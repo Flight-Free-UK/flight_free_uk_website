@@ -50,9 +50,9 @@ Most dangerously, offsets make us believe we can reach net zero if we just pay f
 
 ### 5. Demand reduction
 
-There's little surprise, in the end, that the government’s Jet Zero plans don't mention demand reduction at all, despite expert advice from the CCC and popular pressure from campaign groups. It's a government that wants to have it all. Emissions reduction *and* endless growth. Climate action *and* business-as-usual. Cake *and* eat it. 
+There’s little surprise, in the end, that the government’s Jet Zero plans don’t mention demand reduction at all, despite expert advice from the CCC and popular pressure from campaign groups. It’s a government that wants to have it all. Emissions reduction *and* endless growth. Climate action *and* business-as-usual. Cake *and* eat it. 
 
-The reality is that we are facing climate breakdown *right now*. Not in 30 years’ time. People will lose their lives, and indeed already are, because of the climate crisis. It's an emergency, and we need an emergency response, not a shiny plan that gives big promises but essentially allows us to carry on as normal.
+The reality is that we are facing climate breakdown *right now*. Not in 30 years’ time. People will lose their lives, and indeed already are, because of the climate crisis. It’s an emergency, and we need an emergency response, not a shiny plan that gives big promises but essentially allows us to carry on as normal.
 
 It will be a vote-winner, sure. Telling people to change how they live is never going to be a popular policy. But the reality of the climate crisis is that we will have to change *everything* about the way we live – either now, through choice and good policy, or later, through force, when we don't have any choice left.
 
