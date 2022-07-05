@@ -7,7 +7,7 @@ cover_image: /images/uploads/04-2021_podcast_website_thumbnail.jpg
 summary: To celebrate Pride month we share a list of the safest countries that
   the LGBTQ+ community can reach easily without flying.
 author: FlightFree UK
-read_time_minute: 2
+read_time_minute: 3
 ---
 ## Despite some great progress in recent times, there’s still a long way to go to achieve true equality for LGBTQ+ people.
 
