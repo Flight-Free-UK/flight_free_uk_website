@@ -73,7 +73,7 @@ There are many bars, hotels and Pride festivals in Portugal, which are listed in
 
 Getting to Portugal by train is a fairly long journey that might require a stop overnight on the way, but it is possible to reach the country in 24 hours if you want to. There is a beautiful train route that takes you along the coast from Porto to Lisbon that is worth trying!
 
-The ferry from Plymouth to Santander or Bilbao can be useful here, and you can pick up a connection to Vigo, Porto and Lisbon. 
+The ferry from Plymouth to Santander or Bilbao can be useful here, and from there you can pick up a rail or coach connection to Vigo, Porto and Lisbon. 
 
 ### Happy Pride Month! 
 
