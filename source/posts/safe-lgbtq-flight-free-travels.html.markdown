@@ -19,7 +19,7 @@ There are still many places that criminalise same sex relationships and refuse t
 
 Using the [LGBTQ+ Travel Safety Index](https://www.asherfergusson.com/lgbtq-travel-safety/), we’ve chosen five countries that are known as being the most welcoming and progressive in the world, with large Pride marches and thriving LGBTQ+ communities. 
 
-#### Sweden
+## Sweden
 
 [Sweden](https://visitsweden.com/what-to-do/lgbtq/) is one of the safest countries in the world for LGBTQ+ rights and travellers. It's currently placed second on the travel safety Index, having held the top spot in previous years.
 
@@ -31,7 +31,7 @@ A new sleeper train from Brussels (launching in September) will mean you can tra
 
 Alternatively, travel via ferry to Holland (from Harwich, Hull or Newcastle), then by train to Sweden via Hamburg. There are also coaches run by [Flixbus](https://www.flixbus.co.uk/).
 
-#### Netherlands 
+## Netherlands 
 
 [The Netherlands](https://onceuponajrny.com/how-lgbt-friendly-is-the-netherlands/) has a long history of being inclusive. It was the first country to legalise marriage for LGBTQ+ people, and it has the oldest LGBT rights organisation in the world, [COC Netherlands](http://www.coc.nl/).
 
@@ -41,7 +41,7 @@ Amsterdam is a brilliant city to visit and is extremely welcoming for LGBTQ+ peo
 
 There are many ways to reach the Netherlands without flying: Amsterdam is within easy reach of the UK with a direct route on the Eurostar from London, or a direct ferry from Newcastle. You can also take ferries from Hull to Rotterdam, and from Harwich to the Hook of Holland. 
 
-#### Belgium
+## Belgium
 
 After the Netherlands, Belgium was the second country to legalise same-sex marriage and is a true advocate in Europe for LGBTQ+ rights. In fact, same-sex sexual activity has been legal there since 1795! Brussels is Belgium’s queer capital, with Pride celebrations lasting for around two weeks at the end of May and a number of events culminating in the Pride parade.
 
@@ -51,7 +51,7 @@ The city of Antwerp is equally as inclusive and has a whole host of inclusive ba
 
 When travelling to Belgium, you can catch a direct train from London St Pancras to Brussels in a little less than two hours. Flixbus takes travellers from London direct to Bruges, Antwerp or Brussels.
 
-#### Spain 
+## Spain 
 
 Spain is known for being a very welcoming country, with Madrid and Barcelona in particular two of the most visited cities for gay vacations in Europe. 
 
@@ -61,7 +61,7 @@ Madrid has a number of popular events throughout the summer, from Madrid Pride t
 
 It is possible to travel to Barcelona in a little over 9 hours from London using the Eurostar and the high speed TGV Duplex from Paris. You can also make use of the ferry service from Plymouth to Bilbao or Santander.
 
-#### Portugal
+## Portugal
 
 Portugal ranks highly on the LGBTQ+ safety index with some of the most progressive LGBTQ+ laws in the world. 
 
@@ -75,6 +75,6 @@ Getting to Portugal by train is a fairly long journey that might require a stop 
 
 The ferry from Plymouth to Santander or Bilbao can be useful here, and you can pick up a connection to Vigo, Porto and Lisbon. 
 
-## Happy Pride Month! 
+### Happy Pride Month! 
 
 *For all details about travelling to these countries (and more!) without flying, visit [seat61.com](https://www.seat61.com/index.html). The [Flixbus website](https://www.flixbus.co.uk/) will tell you if there are coaches to your desired destination. Train tickets can be booked on [Rail Europe](https://raileurope.com/).*
