@@ -2,7 +2,7 @@
 published: true
 title: "2022 podcast series: Sport and climate"
 category: climate
-date: 2022-06-24T12:35:34.469Z
+date: 2022-06-10T12:35:34.469Z
 cover_image: /images/uploads/sports_podcast_jun22_large.jpg
 summary: "Olympians Etienne Stott and Laura Baldwin join us to talk about the
   impact of sport upon the climate. "
