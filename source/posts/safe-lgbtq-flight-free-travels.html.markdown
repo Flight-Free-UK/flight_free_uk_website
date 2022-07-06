@@ -15,7 +15,7 @@ read_time_minute: 3
 
 ### And when it comes to travelling, not all countries are safe to visit. 
 
-There are still many places that criminalise same sex relationships and refuse to recognise people by their gender identity, with prison sentences and in some cases even death as a result. It’s because of this that LGBTQ+ people may have to undertake more research than a straight cisgender person to ensure they’ll be safe to be themselves wherever they choose to travel.
+There are still many places that criminalise same sex relationships and refuse to recognise people by their gender identity, with prison sentences and in some cases even death as a result. This means that LGBTQ+ people might have to undertake more research than a straight cisgender person to ensure they’ll be safe to be themselves wherever they choose to travel.
 
 Using the [LGBTQ+ Travel Safety Index](https://www.asherfergusson.com/lgbtq-travel-safety/), we’ve chosen five countries that are known as being the most welcoming and progressive in the world, with large Pride marches and thriving LGBTQ+ communities. 
 
