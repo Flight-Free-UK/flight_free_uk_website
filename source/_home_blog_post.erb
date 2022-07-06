@@ -1,4 +1,4 @@
-<a href="<%= article.url %>" class="block h-56 bg-cover bg-center" style="background-image:url(<%= article.data.cover_image %>)"></a>
+<a href="<%= article.url.force_encoding("UTF-8") %>" class="block h-56 bg-cover bg-center" style="background-image:url(<%= article.data.cover_image %>)"></a>
 <div class="px-5 py-4">
-  <h4 class="text-2xl mb-2 leading-tight"><a href="<%= article.url %>"><%= article.title %></a></h4>
+  <h4 class="text-2xl mb-2 leading-tight"><a href="<%= article.url.force_encoding("UTF-8") %>"><%= article.title %></a></h4>
 </div>
