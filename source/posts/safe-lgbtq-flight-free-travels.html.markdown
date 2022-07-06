@@ -21,7 +21,7 @@ Using the [LGBTQ+ Travel Safety Index](https://www.asherfergusson.com/lgbtq-trav
 
 ## Sweden
 
-[Sweden](https://visitsweden.com/what-to-do/lgbtq/) is one of the safest countries in the world for LGBTQ+ rights and travellers. It's currently placed second on the travel safety Index, having held the top spot in previous years.
+[Sweden](https://visitsweden.com/what-to-do/lgbtq/) is one of the safest countries in the world for LGBTQ+ rights and travellers. It’s currently placed second on the [Travel Safety Index](https://www.asherfergusson.com/lgbtq-travel-safety/), having held the top spot in previous years.
 
 [EuroPride](https://europride2022.com/) has been held in Sweden three times and Malmö was host to [WorldPride](https://www.copenhagenpride.dk/en/worldpride-2021/) in 2021. Sweden hosts the most pride festivals in the world (30!) so you won’t be short of a festival to join in with should you choose to.
 
