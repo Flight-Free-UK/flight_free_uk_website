@@ -49,7 +49,7 @@ The city of Antwerp is equally as inclusive and has a whole host of inclusive ba
 
 **How to get there**
 
-When travelling to Belgium, you can catch a direct train from London St Pancras to Brussels in a little less than two hours. Flixbus takes travellers from London direct to Bruges, Antwerp or Brussels.
+The Eurostar from London St Pancras to Brussels takes a little less than two hours. [Flixbus](https://www.flixbus.co.uk/) takes travellers from London direct to Bruges, Antwerp or Brussels.
 
 ## Spain 
 
