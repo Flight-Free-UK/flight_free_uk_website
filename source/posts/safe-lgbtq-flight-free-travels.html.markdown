@@ -2,7 +2,7 @@
 published: true
 title: The best countries for LGBTQ+ flight-free travellers
 category: travel
-date: 2022-07-05T15:19:58.729Z
+date: 2022-06-17T15:19:58.729Z
 cover_image: /images/uploads/pride_rainbow_train-sm.jpg
 summary: To celebrate Pride month we recommend some of the safest countries that
   the LGBTQ+ community can reach easily without flying.
