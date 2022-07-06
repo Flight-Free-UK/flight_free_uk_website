@@ -29,7 +29,7 @@ Using the [LGBTQ+ Travel Safety Index](https://www.asherfergusson.com/lgbtq-trav
 
 A new sleeper train from Brussels (launching in September) will mean you can travel between London and Stockholm in 24 hours, or you might want to consider a stopover in Amsterdam or Brussels (both on our list!) to break the journey. 
 
-Alternatively, travel via ferry to Holland (from Harwich, Hull or Newcastle), then by train to Sweden via Hamburg. There are also coaches run by [Flixbus](https://www.flixbus.co.uk/).
+Alternatively, travel via ferry to Holland (from Harwich, Hull or Newcastle), then by train to Sweden via Hamburg. For the budget-conscious traveller, try international coach company [Flixbus](https://www.flixbus.co.uk/), and connect via Amsterdam and Hamburg.
 
 ## Netherlands 
 
