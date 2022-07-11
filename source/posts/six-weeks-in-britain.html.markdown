@@ -55,7 +55,7 @@ I settled on Pembrokeshire, somewhere else I’d never been before. After a nigh
 
 The next week was spent alternating between walking the stunning Pembrokeshire Coast Path and doing activities. I enjoyed the UK’s smallest city – the exceedingly lovely St David’s – and did a lot of swimming, kayaking and coasteering – another bucket list tick. The highlight was learning to do a backflip cliff jump (tick), then doing a 30ft cliff jump into the same Blue Lagoon that they used for the 2012 Red Bull cliff diving world championships. The coastal walk was wonderful and it was seal pupping season, so there were loads of seals and tiny fluffy pups in many of the bays.
 
- I ended up in Fishguard, where I could have grabbed a ferry to Ireland if I’d had a bit more time, but it was time to head to north Wales to meet up with the family. On the way I stopped at an old friend’s new house in Cheltenham, always a pleasure. 
+I ended up in Fishguard, where I could have grabbed a ferry to Ireland if I’d had a bit more time, but it was time to head to north Wales to meet up with the family. On the way I stopped at an old friend’s new house in Cheltenham, always a pleasure. 
 
 > “Snowdonia is breathtaking. Everywhere you look is another magnificent view.”
 

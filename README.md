@@ -9,7 +9,7 @@ and is hosted on [Netlify](https://www.netlify.com/).
 
 To work on this website you'll need to do the following:
 
-* Install Ruby (latest version should be fine, although Netlify itself is running Ruby 2.6.2 so I run this version too)
+* Install Ruby
 * Install Ruby dependencies: `bundle install`
 * Install NodeJS (latest version should be fine)
 * Install NodeJS dependencies: `npm install`

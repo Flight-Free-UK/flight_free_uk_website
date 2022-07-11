@@ -8,9 +8,9 @@ title: Podcast
     <% podcasts = data.podcasts.values.sort_by(&:date).reverse %>
     <% podcast = podcasts.shift %>
     <div class="bg-blue-dark text-white mb-4 md:mb-12">
-      <a href="<%= podcast.url %>" target="_blank" class="relative block lg:flex lg:h-56">
+      <a href="<%= podcast.url %>" target="_blank" class="relative block lg:flex lg:h-229">
           <div class="absolute top-0 right-0 z-10 w-full h-full bg-no-repeat bg-right-top" style="background-image:url(/images/latest_podcast.png)"></div>
-          <div class="lg:flex w-full lg:w-1/3 lg:h-full lg:mr-6">
+          <div class="flex-shrink-0 w-full lg:w-320 lg:h-229 lg:mr-6">
               <img src="<%= podcast.cover_image %>" alt="Image for <%= podcast.title %>" class="w-full h-auto object-cover" />
           </div>
           <div class="overflow-auto lg:flex flex-col justify-center w-full lg:w-2/3 lg:h-full lg:mr-12 mb-4">

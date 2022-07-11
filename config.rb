@@ -1,6 +1,8 @@
 # Monkey-patch Markdown renderer to wrap images in figure with figcaption
 require "middleman-core/renderers/kramdown"
 
+Encoding.default_external = Encoding::UTF_8
+
 class Middleman::Renderers::MiddlemanKramdownHTML
   def convert_img(el, _)
     attrs = el.attr.dup
