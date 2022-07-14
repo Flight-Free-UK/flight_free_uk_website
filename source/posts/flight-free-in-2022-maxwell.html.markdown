@@ -11,9 +11,9 @@ read_time_minute: 2
 ---
 <!--StartFragment-->
 
-### **In 2016 I set up the Sheffield Environmental Movement (SEM) to help reconnect people from minority communities with the natural environment.** 
+### **In 2016 I set up the [Sheffield Environmental Movement](http://www.semcharity.org.uk/) (SEM) to help reconnect people from minority communities with the natural environment.**
 
-I had previously co-founded the 100 Black Men Walk for Health Group in 2004. The name is taken from the Million Man March civil rights protest in America where people walked to demand economic and social justice.In our case, it is about middle-aged Black men having the freedom to roam in outdoor spaces. 
+I had previously co-founded the 100 Black Men Walk for Health Group in 2004. The name is taken from the Million Man March civil rights protest in America where people walked to demand economic and social justice. In our case, it is about middle-aged Black men having the freedom to roam in outdoor spaces. 
 
 #### We walk for health and wellbeing as well as for leisure and recreation.
 
