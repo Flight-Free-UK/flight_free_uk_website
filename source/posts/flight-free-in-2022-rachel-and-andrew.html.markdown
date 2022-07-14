@@ -14,7 +14,7 @@ read_time_minute: 3
 
 ## I decided to take the Flight Free 2022 pledge whilst walking to COP26 last year.
 
-For six weeks I walked with other climate activists to Glasgow, carrying all my belongings in my backpack. We would walk anything from 10 miles to 17 miles a day through sunshine, wind and rain. At the end of each day we would take part in outreach events and sleep on church floors. 
+### For six weeks I walked with other climate activists to Glasgow, carrying all my belongings in my backpack. We would walk anything from 10 miles to 17 miles a day through sunshine, wind and rain. At the end of each day we would take part in outreach events and sleep on church floors. 
 
 > #### "A fellow walker, Lee, told me about the Flight Free UK campaign, and we all signed up."
 
