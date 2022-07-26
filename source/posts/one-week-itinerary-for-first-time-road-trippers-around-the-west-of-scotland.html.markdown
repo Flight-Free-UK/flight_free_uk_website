@@ -9,7 +9,7 @@ summary: Sunita from our team takes her van to Scotland, and shares her tips for
 author: FlightFree UK
 read_time_minute: 12
 ---
-![Sunita lies back on the windscreen of the van with a loch in the background and low white cloud](/images/uploads/scotland-roadtrip-vanlife.jpg "Sunita on the van")
+![Sunita lies back on the windscreen of the van with a loch in the background and low white cloud](/images/uploads/scotland-roadtrip-vanlife.jpg "Sunita and the van")
 
 ### Day 1: Harrogate to Loch Lomond
 
