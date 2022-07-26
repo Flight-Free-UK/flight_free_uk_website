@@ -15,7 +15,7 @@ read_time_minute: 4
 
 ### I had seen the latest climate report from the IPCC and learned about the impacts of aviation, and I felt it was [hard to justify flying just to go on holiday](https://www.samwoolfe.com/2021/08/flying-in-an-age-of-climate-breakdown.html).
 
-It felt wrong to book a flight just because it would save me money and time and easily take me to the other side of the world. Taking flights was a way of supporting something I knew was damaging, and out of concern for an ever-deteriorating climate, I felt it was important to have my actions reflect that concern. 
+Taking flights supported something I knew was damaging, and out of concern for an ever-deteriorating climate, I felt it was important to have my actions reflect that concern. 
 
 This did feel like a personal loss, though, especially since I wanted to travel to other continents, and sticking to rail and ferry felt restricting. I didn’t want to close myself off from the diversity of landscapes, cultures, and experiences that are out there.
 
