@@ -9,7 +9,7 @@ summary: After quitting flying, travel writer Sam Woolfe sets out to discover
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Flowers in front of a lake, with mountains in the background](/images/uploads/bavarian_alps_lake-lg.jpg "The Bavarian Alps ")
+![Flowers in front of a lake, with mountains in the background](/images/uploads/bavarian_alps_lake-lg.jpg "The Bavarian Alps – Lake Alpsee")
 
 ## A year ago, I cancelled a flight I had booked to Greece.
 
@@ -29,9 +29,9 @@ Getting the Eurostar to Paris from London was easier, less time-consuming, and l
 
 > "Getting the Eurostar was easier, less time-consuming, and less stressful than getting to the airport."
 
-From my base in Munich I travelled to Mittenwald and Garmisch-Partenkirchen, both near the Austrian border, set amidst verdant, mountainous scenery with gorges nearby. I also visited the Dachau Concentration Memorial Site, which was a sombre and eye-opening experience. 
+From my base in Munich I travelled to Mittenwald and Garmisch-Partenkirchen, both near the Austrian border, set amidst verdant, mountainous scenery with gorges nearby. In these towns, there are plenty of typical Bavarian houses to be found, with facade paintings depicting Christian figures or traditional village scenes. 
 
-On the train to Dachau, a local told me about the 9-euro-ticket summer offer, which meant that for the months of June, July, and August I could travel on any regional train in Germany (excluding high-speed trains) for just 9 euros. That saved me a lot on trains for the rest of the trip!
+On another day I visited the Dachau Concentration Memorial Site, which was a sombre and eye-opening experience. On the train to Dachau, a local told me about the 9-euro-ticket summer offer, which meant that for the months of June, July, and August I could travel on any regional train in Germany (excluding high-speed trains) for just 9 euros. That saved me a lot on trains for the rest of the trip!
 
 My second stop was Füssen, near the iconic and much-visited Neuschwanstein Castle, which inspired Walt Disney to create the Sleeping Beauty Castle in Disneyland. Most pictures of the castle are taken from the popular [Marienbrücke](https://de.wikipedia.org/wiki/Marienbr%C3%BCcke_(Neuschwanstein)), although this viewpoint has been closed recently due to renovation work.
 
