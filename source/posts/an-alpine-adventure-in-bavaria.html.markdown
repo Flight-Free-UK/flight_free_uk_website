@@ -33,7 +33,7 @@ From my base in Munich I travelled to Mittenwald and Garmisch-Partenkirchen, bot
 
 On the train to Dachau, a local told me about the 9-euro-ticket summer offer, which meant that for the months of June, July, and August I could travel on any regional train in Germany (excluding high-speed trains) for just 9 euros. That saved me a lot on trains for the rest of the trip!
 
-My second stop was Füssen, near the iconic and much-visited Neuschwanstein Castle, which inspired Walt Disney to create the Sleeping Beauty Castle in Disneyland. Most pictures of the castle are taken from the popular  [Marienbrücke](https://de.wikipedia.org/wiki/Marienbr%C3%BCcke_(Neuschwanstein)), although this viewpoint has been closed for several years due to major renovation work. 
+My second stop was Füssen, near the iconic and much-visited Neuschwanstein Castle, which inspired Walt Disney to create the Sleeping Beauty Castle in Disneyland. Most pictures of the castle are taken from the popular Marienbrücke, although this viewpoint has been closed recently due to renovation work.
 
 Luckily, I came across a [blog post](http://justingoesplaces.com/secret-viewpoint/) about a hidden, unofficial viewpoint, so I followed the blogger’s instructions and was able to enjoy an incredibly photogenic view of the castle without anyone else around. 
 
