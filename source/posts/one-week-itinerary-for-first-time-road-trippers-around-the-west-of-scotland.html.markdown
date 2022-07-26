@@ -137,7 +137,9 @@ Dinner at the hotel was another perfect moment; if Scotland is always like this,
 
 ### Day 8: Fort William to Harrogate
 
-With the van fixed by 12pm, we set out for the long drive back to England, bringing an end to our beautiful and epic Scottish adventure. 
+### 360 miles
+
+With the van fixed by midday, we set out for the long drive back to England, bringing an end to our beautiful and epic Scottish adventure. 
 
 I hope you are inspired by our journey to take on a Scotland road tripping adventure of your own. It’s an amazing experience, and something we'd definitely do again, and I feel much more connected to the UK having seen more of it.
 
