@@ -21,7 +21,7 @@ We made a beeline for Milarrochy Bay on the eastern side of the loch, which was 
 
 An added bonus which all ‘vanlifers’ will appreciate is that the toilets are very spacious, there’s hot running water and the disabled toilet is left unlocked overnight so you always have access, which as we know is incredibly handy when on the road!
 
-**Sleep: 1 x night free parking at Milarrochy Bay, Loch Lomond** 
+**Sleep: free parking at Milarrochy Bay, Loch Lomond** 
 
 *Tip: Download the ‘Park4Night’ app to read and leave peer-to-peer reviews about great parking spots for a restful and unbothered night’s sleep in your campervan. It’s an absolute must if you’re planning on finding nice spots to camp in, while remaining respectful of the beautiful environment.* 
 
@@ -87,7 +87,7 @@ With an evening ferry booked, we could spend a bit more time exploring Mull, so 
 
 The evening ferry was spectacular with an amazing light falling on the water, and after arriving back on the mainland we drove a little way north to find a spot to park up for the night. If you like bridges, this is your chance to drive over the remarkable Connel Bridge. 
 
-**Sleep: 1 x night lay-by by Loch Creran** 
+**Sleep: lay-by at Loch Creran** 
 
 We rested up on the A828, a wonderfully quiet road with several spacious lay-bys. It was pitch black right next to a beautiful loch with only the sounds of owls and leaves rustling in the wind. 
 
