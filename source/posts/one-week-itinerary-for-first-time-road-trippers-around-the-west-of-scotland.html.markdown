@@ -13,7 +13,7 @@ read_time_minute: 12
 
 ### Day 1: Harrogate to Loch Lomond
 
-### 230 miles
+#### 230 miles
 
 Depending on where you’re starting from, the journey to Scotland can be long! Think about your timeframe, be realistic and be safe. We set off from Harrogate in North Yorkshire and were confident that we could reach Loch Lomond the same day, but you could stop off in the gorgeous Lake District on the way, or stay in a city like Glasgow or Edinburgh, which is also a great shout if you want to stock up on anything before getting into more remote areas. 
 
