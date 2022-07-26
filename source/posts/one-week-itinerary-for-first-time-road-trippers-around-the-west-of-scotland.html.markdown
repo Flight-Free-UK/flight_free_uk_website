@@ -2,13 +2,15 @@
 published: false
 title: One week itinerary for first-time road-trippers around the west of Scotland
 category: travel
-date: 2022-07-26T14:40:39.765Z
-cover_image: /images/uploads/bavarian_alps_lake-lg.jpg
+date: 2022-07-18T14:40:39.765Z
+cover_image: /images/uploads/scotland-roadtrip.jpg
 summary: Sunita from our team takes her van to Scotland, and shares her tips for
   an awesome Scotland road trip.
 author: FlightFree UK
 read_time_minute: 12
 ---
+![Sunita lies back on the windscreen of the van with a loch in the background and low white cloud](/images/uploads/scotland-roadtrip-vanlife.jpg "Sunita on the van")
+
 ### Day 1: Harrogate to Loch Lomond
 
 ### 230 miles
@@ -54,6 +56,8 @@ We stayed in the Rugby Club car park which was not exactly glamorous but it was 
 The ferry to Mull was huge! We made sure to take advantage of the spacious top deck, which has the best views. The seats were set out in a triangle which gave an awesome view from wherever you were; a simple but effective way to make the journey even more enjoyable. It was pretty windy out on deck though, so it’s good to remember a head band or scarf and chapstick, and binoculars if you can, to see wildlife up close and nosey in on things jutting out of the water. 
 
 Mull is a beautiful island with lots of wildlife, gorgeous single track roads and some fabulous beaches. It was also wonderfully quiet when we were there. Being the first week of May we thought it might be busier, but other than a few other tourists, it was nice and peaceful with clear roads, which is great for a road trip! We had a distinct feeling of remoteness and escapism as soon as we arrived on the island, which is exactly what we needed.
+
+![There's a low sun over a field with sheep](/images/uploads/scotland-roadtrip_pennygowan-campsite.jpg "Pennygowan campsite, Isle of Mull")
 
 **Sleep: Pennygown Holiday Park.** 
 
@@ -101,6 +105,8 @@ Once we had decided which walks we wanted to do, we set off for the epic drive t
 
 Most of the time we stuck to our itinerary probably because we kept things loose and allowed for plenty of time to stray off and add things in during the days, which meant on the road we didn’t waste time on our phones working out what we were doing or how to get somewhere.
 
+![The van is parked in the car park with the dramatic Three Sisters rocks in the background](/images/uploads/scotland-roadtrip_three-sisters.jpg "Three Sisters, Glen Coe")
+
 However, things don’t always go to plan, and though we had intended to head to Fort William that night, we were busy saving a lost dog. 
 
 The poor thing had clearly lost its owners and was in distress – we couldn’t leave her in the car park alone. So we found out her name, befriended her, and after a time, she decided we were cool. 
@@ -139,4 +145,8 @@ I hope you are inspired by our journey to take on a Scotland road tripping adven
 
 Many of us are brought up with romantic narratives about road tripping around America, or the distant corners of Europe. We see movies and fall in love with places thousands of miles away, convinced we must get to them. And while these trips would be fun, why don’t we consider a local road trip around Scotland, England or Wales first? These countries are also incredibly beautiful with stunning scenery, coastlines and wildlife, yet we dismiss them all too readily. It’s bizarre when you think about it.
 
-It’s obvious that we have to fly less, but that's not a bad thing; it means we appreciate what’s around us and become so much more engaged with our local areas. A road trip in Scotland is a great flight-free, local trip to take and I recommend it wholly-heartedly.
+It’s obvious that we have to fly less, but that's not a bad thing; it means we appreciate what’s around us and become so much more engaged with our local areas. 
+
+### A road trip in Scotland is a great flight-free trip and I recommend it wholly-heartedly.
+
+![a river rushes over some rocks in the Lost Valley Walk](/images/uploads/scotland-roadtrip_lost-valley-walk.jpg "Lost Valley Walk, Glen Coe")
