@@ -2,7 +2,7 @@
 published: true
 title: An Alpine adventure in Bavaria
 category: travel
-date: 2022-07-24T10:34:46.918Z
+date: 2022-07-26T10:34:46.918Z
 cover_image: /images/uploads/bavarian_alps_lake-sm.jpg
 summary: After quitting flying, travel writer Sam Woolfe sets out to discover
   whether travelling overland can ever be a substitute for jet-setting
