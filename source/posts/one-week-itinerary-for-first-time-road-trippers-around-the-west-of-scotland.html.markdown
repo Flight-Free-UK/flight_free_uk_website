@@ -27,7 +27,7 @@ An added bonus which all ‘vanlifers’ will appreciate is that the toilets are
 
 ### Day 2: Loch Lomond to Oban
 
-### 90 miles
+#### 90 miles
 
 It’s important to break up the day with rest stops, and our first stop was Firkin Point, about halfway up Loch Lomond on the western side. To get there, we had to drive around a large part of Loch Lomond, giving us our first taste of scenic driving in Scotland. The main road (A82) goes right next to the loch, so there are incredible views of the water and across to the mountains on the other side. 
 
@@ -49,7 +49,7 @@ We stayed in the Rugby Club car park which was not exactly glamorous but it was 
 
 ### Day 3: Oban to Isle of Mull 
 
-### 20 miles
+#### 20 miles
 
 *Tip: If you’re travelling as a foot passenger, you don’t need to worry too much about grabbing a space on the ferry, but if you’re taking your campervan to the Isle of Mull, it’s much less stressful to book your place on the ferry the day before, and work out where to drive in at the port. We also rang the campsite the day before to make sure they had space.* 
 
@@ -67,7 +67,7 @@ You’re not meant to wild camp on the Isle of Mull, and being fully respectful 
 
 ### Day 4: Staffa and Iona
 
-### 45 miles out/40 miles back
+#### 45 miles out/40 miles back
 
 We took the main route (A849) around the south part of the island, heading to Fionnphort to get the ferry to Iona. It’s a fair drive along single-track roads, so we allowed ourselves plenty of time.
 
@@ -85,7 +85,7 @@ We then followed the banks of the spectacular Loch na Keal. This has to be one o
 
 ### Day 5: Isle of Mull to Dallachulish
 
-### 46 miles
+#### 46 miles
 
 With an evening ferry booked, we could spend a bit more time exploring Mull, so we headed to the northern part of the island, towards Tobermory. We visited the beautiful cows and gorgeous glass house cafe at the Isle of Mull Cheese farm, before heading over to stroll along the famous waterfront at Tobermory. We’re not one for souvenirs but after Charlie fell in love with the puffins in Staffa and as we only had one mug in the van, we’d been keeping an eye out for the perfect puffin mug, and it was here we found a beautiful tin one.  
 
@@ -99,7 +99,7 @@ We rested up on the A828, a wonderfully quiet road with several spacious lay-bys
 
 ### Day 6: Dallachulish to Glen Coe
 
-### 26 miles
+#### 26 miles
 
 After a morning coffee at Castle Stalker view (a lovely cafe on the A828) we parked up at the Glen Coe Visitor Centre, near to Glencoe village. It was a great place to start our exploration of the area: we learned about the infamous massacre and how mountain climbing in Scotland has developed over the decades. The building itself is lovely, and if you need to do any research or catch up with anything online, there is a space to plug in, charge up and do whatever you need to do. 
 
@@ -125,7 +125,7 @@ A happy ending for all involved. We retired to our van, but it was too late, too
 
 ### Day 7: Glen Coe to Glenfinnan 
 
-### 40 miles
+#### 40 miles
 
 Our unexpected overnight stop turned out to be perfect, as we could start the morning with the Lost Valley walk, a two-mile hike between the mountains, which was absolutely incredible! It involved a funky river crossing which was exciting but not for the faint-hearted as the water was running fast… 
 
@@ -147,7 +147,7 @@ Dinner at the hotel was another perfect moment; if Scotland is always like this,
 
 ### Day 8: Fort William to Harrogate
 
-### 330 miles
+#### 330 miles
 
 With the van fixed by midday, we set out for the long drive back to England, bringing an end to our beautiful and epic Scottish adventure. We had had an amazing time, and we'd definitely do again. I feel much more connected to the UK having seen more of it.
 
