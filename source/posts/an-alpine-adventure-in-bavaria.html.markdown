@@ -52,3 +52,5 @@ In the future, I’d like to travel by train and ferry to Ireland, Morocco, the 
 Giving up flying is a sacrifice in one sense, but it offers definite gains as well, such as the ability to appreciate the journey to a destination and the possibility of different and more serendipitous experiences. 
 
 #### Being able to enjoy travel without the guilt that comes from flying is a personal benefit as well, but more important than this are the actual environmental benefits involved – and in a time where many countries (including the UK) have felt the brunt of record-breaking temperatures, these benefits can’t be emphasised enough.
+
+*Sam Woolfe is a freelance writer based in London. You can find more of his work on his [website](https://www.samwoolfe.com/) and follow him on [Twitter](https://twitter.com/samwoolfe).*
