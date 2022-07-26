@@ -15,7 +15,7 @@ read_time_minute: 12
 
 ### 230 miles
 
-Depending on where you’re starting from, the journey to Scotland can be long! Think about your timeframe, be realistic and be safe. We set off from Harrogate in North Yorkshire and were confident that we could reach Loch Lomond, but you could stop off in the gorgeous Lake District on the way, or stay in a city like Glasgow or Edinburgh, which is also a great shout if you want to stock up on anything before getting into more remote areas. 
+Depending on where you’re starting from, the journey to Scotland can be long! Think about your timeframe, be realistic and be safe. We set off from Harrogate in North Yorkshire and were confident that we could reach Loch Lomond the same day, but you could stop off in the gorgeous Lake District on the way, or stay in a city like Glasgow or Edinburgh, which is also a great shout if you want to stock up on anything before getting into more remote areas. 
 
 We made a beeline for Milarrochy Bay on the eastern side of the loch, which was a dream place to park up. The car park is huge with great views, and there are lots of lovely walks nestled within lush forests. It’s also a great spot if you want to kayak, paddle board or swim. 
 
