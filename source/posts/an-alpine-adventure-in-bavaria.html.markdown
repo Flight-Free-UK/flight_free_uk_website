@@ -41,7 +41,11 @@ Luckily, I came across a [blog post](http://justingoesplaces.com/secret-viewpoi
 
 After Füssen I headed across the border to Salzburg, from where I could make the long but worthwhile visit to Eisriesenwelt, the ice cave near Werfen. Since I was in the first group of people to arrive and be led around the ice cave, we were allowed to take photos, which is normally prohibited.
 
-My last stopping point was once more in Germany: Berchtesgaden, a town in the Bavarian alps, situated close to the Watzmann mountain, Wimbachklamm gorge, the picturesque town of Ramsau, Hintersee lake, and Königssee lake – considered one of the most beautiful lakes in Germany. From there I made my way back to Munich, where I would take an early morning train to Paris, then on to London.
+My final stopping point was once more in Germany: Berchtesgaden, a town in the Bavarian Alps. From here you can see the Watzmann mountain, Germany's second highest mountain, which towers above the valleys below. This town would also be my base to visit the fairytale-like Wimbachklamm gorge, where multiple waterfalls cascade into the roaring river below. 
+
+I also visited the picturesque town of Ramsau, best known for the Church of St. Sebastian that has Reiteralpe mountain as its backdrop, then made my way through the forests to the emerald green Hintersee lake, from where you can also see a different view of the Watzmann mountain. The following day, I visited Königssee lake (often referred to as the most beautiful alpine lake in Germany), taking a boat ride from one end to the other, where another impressive lake – Obersee – is located.
+
+From there I made my way back to Munich, where I would take an early morning train to Paris, then on to London.
 
 The solo trip took 18 days in total, and while I would’ve certainly saved money and time by flying to Munich instead, I would’ve missed out on all the cities and scenery on the way. I’ve since been busy looking at other possible trips in Europe and beyond (the [Man in Seat 61](https://www.seat61.com/) has been an extremely helpful resource in this respect), eager to make more overland trips, realising the benefits of travelling in this way over flying.
 
