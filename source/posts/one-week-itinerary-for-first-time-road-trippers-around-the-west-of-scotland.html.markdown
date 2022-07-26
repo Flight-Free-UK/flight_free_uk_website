@@ -29,8 +29,6 @@ An added bonus which all ‘vanlifers’ will appreciate is that the toilets are
 
 ### 87 miles
 
-We started the morning off with a walk through the nearby woods before setting off for Oban. It was the perfect start to the day, with lush greenery, cool water, and sandy shores.
-
 It’s important to break up the day with rest stops, and our first stop was Firkin Point, about halfway up Loch Lomond on the western side. To get there, we had to drive around a large part of Loch Lomond, giving us our first taste of scenic driving in Scotland. The main road (A82) goes right next to the loch, so there are incredible views of the water and across to the mountains on the other side. 
 
 Firkin Point is a popular place for dog walkers but is otherwise generally quiet, so it’s a great place to have a nice swim. We found a good spot to have a super quick, cold dip, then warmed up on the shores and cooked something to eat while we waited for our things to dry before getting on the road again. 
