@@ -109,7 +109,7 @@ However, things don’t always go to plan, and though we had intended to head to
 
 The poor thing had clearly lost its owners and was in distress – we couldn’t leave her in the car park alone. So we found out her name, befriended her, and after a time, she decided we were cool. 
 
-As time went on and darkness fell, we’re sure she would’ve got in our van, but good news; her owners returned. Recognising a super stressed and tired-looking couple from a distance, I shouted to the two weary souls to check if they’d lost a dog. With fresh hope in their eyes, they looked at me and the dog’s tail picked up. 
+As time went on and darkness fell, we’re sure she would’ve got in our van, but good news: her owners returned. Recognising a super stressed and tired-looking couple from a distance, I shouted to the two weary souls to check if they’d lost a dog. With fresh hope in their eyes, they looked at me and the dog’s tail picked up. 
 
 A happy ending for all involved. We retired to our van, but it was too late, too wet and too dark to hike or drive somewhere else so we decided to stay overnight in the Three Sisters car park.
 
