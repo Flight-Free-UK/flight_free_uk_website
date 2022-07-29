@@ -16,7 +16,7 @@ read_time_minute: 3
 
 We would walk anything from 10 miles to 17 miles a day through sunshine, wind and rain. At the end of each day we would take part in outreach events and sleep on church floors.
 
-"A fellow walker, Lee, told me about the Flight Free UK campaign, and we all signed up."
+A fellow walker, Lee, told me about the Flight Free UK campaign, and we all signed up.
 
 The purpose of the walk was to build alliances and to spread the word with communities along the route about the need for urgent and meaningful action to address the global climate and ecological emergency. Each night, each walker would tell their personal story about how they had become an activist, and I learned so much from the personal stories of the other activists I walked with.
 
