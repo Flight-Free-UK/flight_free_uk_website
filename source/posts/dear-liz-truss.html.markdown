@@ -9,11 +9,11 @@ summary: As you take the keys to 10 Downing Street, we have a few observations
 author: FlightFree UK
 read_time_minute: 2
 ---
-## We can’t deny that the year got off to a pretty bad start with your flight to Australia in the government jet. 
+## We can’t deny that the year got off to a pretty bad start with your flight to Australia in the government jet.
 
 ### Perhaps you were advised badly; maybe you didn’t realise that burning [150 tonnes of fuel would add 500 tonnes of CO2](https://inews.co.uk/news/politics/liz-truss-australia-flew-private-jet-taxpayers-cost-1426754) to an atmosphere that’s already bulging with greenhouse gases. 
 
-Possibly you were sold on the need for “security” – a very noble aim, because of course who would not want to protect people and make sure they were safe? That’s why we fight so hard for the climate: it’s security for us, our global community, and the generations that come next. 
+Possibly you were sold on the need for “security” – a very noble aim, because of course who would not want to protect people and make sure they were safe? You just forgot to think about the security of the global community, and the generations that come next. 
 
 Don’t worry, there’s still time to rectify things, even though as recently as last month you were still flying around – [this time in a private helicopter](https://inews.co.uk/news/politics/liz-truss-charters-luxury-private-helicopter-to-campaign-tory-leadership-election-1777005). Perhaps no one told you about the fast, low-carbon way to get from London to Leeds. They might have hoodwinked you by saying that it would be quicker to visit your supporters this way, or that is was worth the emissions, even though of course you know that demonstrating climate leadership is much more powerful.
 
