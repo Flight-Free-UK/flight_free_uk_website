@@ -29,7 +29,7 @@ A lot has changed in the 12 months since you said, “flights make life worth li
 
 We understand that it’s difficult as a politician to tell the truth. It’s much easier to pretend the climate crisis is not happening, and reassure people that we can maintain our high-carbon activities whilst also reducing emissions. 
 
-It’s much easier to keep on saying things like, "the way to reduce emissions from flying is not to stop flying.” Your adviser on this one must have been really having you on. Because actually, the only way to reduce emissions from flying *is* to stop flying! It is the most immediate, most simple, and best solution to the problem. There might be room for technology in the future, but we need to be realistic about cutting emissions *now*.
+It’s much easier to keep on saying things like, "[the way to reduce emissions from flying is not to stop flying](https://www.dailymail.co.uk/news/article-10152015/COP26-Liz-Truss-says-Brits-flying.html).” Your adviser on this one must have been really having you on. Because actually, the only way to reduce emissions from flying *is* to stop flying! It is the most immediate, most simple, and best solution to the problem. There might be room for technology in the future, but we need to be realistic about cutting emissions *now*.
 
 The best joke of all is that you said you’ll likely scrap the green levy once you’ve settled in at Number 10! Imagine, the leader of a country not prioritising climate policies at this stage in the climate crisis. Yes, definitely a joke. 
 
