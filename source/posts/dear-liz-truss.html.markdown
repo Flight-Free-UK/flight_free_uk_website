@@ -33,6 +33,6 @@ It’s much easier to keep on saying things like, "[the way to reduce emissions 
 
 The best joke of all is that you said you’ll likely scrap the green levy once you’ve settled in at Number 10! Imagine, the leader of a country not prioritising climate policies at this stage in the climate crisis. Yes, definitely a joke. 
 
-Now you’re in charge, you can drop the pretence and show the country that you were having us on all along. Stop all airport expansion – more planes means more emissions. Tax aviation fuel – just think how much you could raise to fund your green aviation then! Increase APD on domestic flights and invest in rail – then there’ll be no excuse for flying from London to Leeds. Scrap frequent flyer rewards programmes and instead tax people the more they fly. The list goes on.
+Now you’re in charge, you can drop the pretence and show the country that you were having us on all along. Stop all airport expansion – more planes means more emissions. Tax aviation fuel – just think how much you could raise to fund your green aviation then! Increase APD on domestic flights and invest in rail – then there’ll be no excuse for flying from London to Leeds. Scrap frequent flyer rewards programmes and instead tax people the more they fly. Incentivise low carbon travel, not flights.
 
 ### Remember that you are now the leader of one of the most influential nations in the world. Use your influence wisely, Liz, otherwise the joke will be on all of us, and not just on you.
