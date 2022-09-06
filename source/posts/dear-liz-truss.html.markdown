@@ -19,9 +19,9 @@ Don’t worry, there’s still time to rectify things, even though as recently a
 
 In fact, you’re probably just on the verge of taking [your own advice, written in 2007](https://www.thelondoneconomic.com/news/reactions-as-quote-about-travel-comes-back-to-haunt-truss-309835/): *“Public servants should spend taxpayer’s money with the care they would give to their own. This would be reflected in changes such as travelling by economy rather than business class.”* 
 
-Can we add ‘rather than private jet’? Could we also add ‘by train rather than by air’? 
+Can we add ‘rather than private jet’? Could we also add ‘by train rather than by air’? We'll even go as far as to add an update for 2022: 
 
-We'll even go as far as to add an update for 2022: *“Public servants should treat our collective home (the earth) with as much care as they would give to their own.”* 
+*“Public servants should treat our collective home (the earth) with as much care as they would give to their own.”* 
 
 This means no more private flights to UK cities that are easily reached by train, and certainly not to the other side of the world. The cost to us is not just through our taxes (£500,000 for the Australia flight – you probably weren’t told about that part), but through our future. 
 
