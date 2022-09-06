@@ -23,7 +23,7 @@ Can we add ‘rather than private jet’? Could we also add ‘by train rather t
 
 *“Public servants should treat our collective home (the earth) with as much care as they would give to their own.”* 
 
-This means no more private flights to UK cities that are easily reached by train, and certainly not to the other side of the world. The cost to us is not just through our taxes (£500,000 for the Australia flight – you probably weren’t told about that part), but through our future. 
+This means no more private flights to UK cities that are easily reached by train, and certainly no jaunts to the other side of the world by private jet. The cost to us is not just through our taxes (£500,000 for the Australia flight – you probably weren’t told about that part), but through our future. 
 
 A lot has changed in the 12 months since you said, “flights make life worth living.” We’re certain you wouldn’t say such an insensitive thing now, when it’s clear that our high-carbon, jet-set lifestyles are directly contributing to fatal extreme weather events around the world: the Madagascar famine in November 2021, the devastating floods in Pakistan in August 2022, the hottest days ever recorded in the UK this summer. Because as you certainly know, it’s food, shelter, water and security that makes life worth living. And a stable future for our children. Not flights. 
 
