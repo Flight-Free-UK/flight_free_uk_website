@@ -70,6 +70,4 @@ Even within Houston there were [big differences in how people were affected](htt
 
 I learned that, while reducing emissions is a huge and vital task, being prepared also saves lives. And I learned that responsibility for climate change is widespread and complicated. I﻿t's the people who have the most power to make choices who have the most responsibility – people l﻿ike me. 
 
-I haven’t flown long haul since Houston, and I haven’t flown at all since 2019. 
-
-### We are all accountable for what we have done to cause this crisis, and we all need to pull our weight in the struggle against it.
+I haven’t flown long haul since Houston, and I haven’t flown at all since 2019. We are all accountable for what we have done to cause this crisis, and we all need to pull our weight in the struggle against it.
