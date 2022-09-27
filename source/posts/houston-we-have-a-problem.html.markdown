@@ -1,12 +1,12 @@
 ---
-published: false
+published: true
 title: Houston, we have a problem
 category: climate
 date: 2022-09-27T12:50:57.115Z
-cover_image: /images/uploads/100-black-men-walk.jpg
+cover_image: /images/uploads/hurricane_harvey.jpg
 summary: When Hurricane Harvey brought disaster to the USA’s oil and gas capital
-  in 2017, Maggie Robertson was on holiday in Texas. What, if anything, did her
-  brush with the hurricane teach her about climate justice?
+  in 2017, Maggie Robertson was on holiday there. What, if anything, did her
+  brush with Hurricane Harvey teach her about climate justice?
 author: FlightFree UK
 read_time_minute: 6
 ---
