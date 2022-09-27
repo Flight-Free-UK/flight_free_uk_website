@@ -26,7 +26,7 @@ Our trip to the Johnson Space Centre was fascinating. We had lunch in their visi
 
 ### Outside, the weather was deteriorating.
 
-Tours of the site were cancelled due to a lightning storm, but our friend took us over to see the Saturn V rocket, one of the type used for the Apollo programme. It really is an awe-inspiring monument to human ingenuity.
+Tours of the site were cancelled because of a lightning storm, but our friend took us over to see the Saturn V rocket, one of the type used for the Apollo programme. It really is an awe-inspiring monument to human ingenuity. 
 
 Our holiday plan had been to spend about a week in Houston, and then have two days on the Gulf Coast at a place called Port Aransas, before travelling to the state capital, Austin. Our trip to Port Aransas was now looking like it would be a wash out, but our booking was non-refundable, so we planned to go anyway. I pictured us sitting on a veranda sipping martinis while tropical rain lashed the shore, like Ernest Hemingway but with an extra dollop of British understatement. 
 
