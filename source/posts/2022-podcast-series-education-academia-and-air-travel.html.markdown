@@ -33,12 +33,19 @@ I brought up my concerns to the university and my course leader was very support
 ### Flight Free UK
 
 Milan, you are involved with the Oxford University Flying Less Group. Can you tell us what that is and how you became involved with it?
-Milan
+
+### Milan
+
 A few academics were feeling pressured to fly to conferences, and we didn't really want to, so this is where this Flying Less group came from. We realised the habits that we currently have in academia discriminate against those who don’t want to fly. 
+
 We educate people about the alternatives, and we explore the issue around how much we fly as academics even though this is in conflict with us being climate scientists. Our work is mostly internal, trying to change structures within the university to enable people not to fly.
-Flight Free UK
+
+### Flight Free UK
+
 In a world where we need to reduce emissions drastically, what do you both hope the culture of international travel and networking in academia will look like? How would you see it changing to fit in with our climate goals?
-Milan
+
+### Milan
+
 I'm really optimistic. I see this young generation of people that use all the different platforms from Slack to Zula, to whatever channel you can think of. They manage to connect with anyone in the world at any time and they have no problem connecting to people virtually. As the younger generation moves up, a lot of these habits are going to stick. 
 Flight Free UK
 Have you felt that you can still make impactful connections with people across the world without having met them in person?
