@@ -23,10 +23,15 @@ According to a study at one Swiss university, professors take on average 3.75 fl
 Abi, you were studying at Edinburgh University when you decided not to attend one of your class field trips, even though it was a compulsory part of the course, because it would mean flying to Morocco. Can you tell us more about this?
 
 ### Abi
+
 In 2019 I was studying for a Masters in environmental protection and management at the University of Edinburgh. 
+
 The field trip was to Morocco to do some environmental monitoring. Considering it was an environmental field trip, it felt at odds with my beliefs to fly, especially when the field work could have been done in the UK.
+
 I brought up my concerns to the university and my course leader was very supportive. They said I didn’t have to go, so instead I did a different project. I chose to do it on people's perceptions of flying, climate change and their behaviours. My taking a stand made the department think more about how they were choosing to advertise their courses, and how the opportunities provided for students conflicted with what we were being taught in our lessons. 
-Flight Free UK
+
+### Flight Free UK
+
 Milan, you are involved with the Oxford University Flying Less Group. Can you tell us what that is and how you became involved with it?
 Milan
 A few academics were feeling pressured to fly to conferences, and we didn't really want to, so this is where this Flying Less group came from. We realised the habits that we currently have in academia discriminate against those who don’t want to fly. 
