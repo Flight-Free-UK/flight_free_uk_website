@@ -47,19 +47,32 @@ In a world where we need to reduce emissions drastically, what do you both hope 
 ### Milan
 
 I'm really optimistic. I see this young generation of people that use all the different platforms from Slack to Zula, to whatever channel you can think of. They manage to connect with anyone in the world at any time and they have no problem connecting to people virtually. As the younger generation moves up, a lot of these habits are going to stick. 
-Flight Free UK
+
+### Flight Free UK
+
 Have you felt that you can still make impactful connections with people across the world without having met them in person?
-Milan
+
+### Milan
+
 Absolutely. There are a lot of people I collaborate with that I’ve never met in person and that's absolutely fine in order to work with them. 
+
 We're trying to push for people to fly less rather than not at all, so every now and then they could still go to a conference and meet someone in person. 
+
 There is a lot of inequality around transport. On a global scale, national scale and even on the scale of a single department, it's just a few people that take most of the flights.
 So if people would just fly less, then you have already achieved most of what you could have hoped for. 
-Abi
+
+### Abi
+
 We need to think about how people decide where this research and where these field trips are. If you are really passionate about reducing your carbon footprint, could you be researching something slightly differently?
+
 We need to think about our placement in the world and how we can research things more locally to still have a global impact. Or go once every three years rather than going three times a year.
-Milan
+
+### Milan
+
 There's also a lot of colonial history to it. Why can’t we do research in a way where we fund and train people to do research locally, rather than us flying over in order to be there in person? 
-Abi
+
+### Abi
+
 I actually had a big Twitter feud with another PhD student about this, because it’s problematic going over and doing research where locals could be doing it. There are lots of conflicts of interest when it comes to researching in countries where we have a colonial history. Maybe we should be encouraging those people to research things themselves or provide them with the opportunities to do so.
 Flight Free UK
 Abi, you stayed in the UK for your research project. Do you feel like you missed out by not going to Morocco and potentially not doing your research in other parts of the world?
