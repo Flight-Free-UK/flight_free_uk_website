@@ -136,6 +136,6 @@ Milan recommends Mont Blanc in the Alps, which you can reach easily by train fro
 
 ### Thank you to our guests Abi Whitfield and Milan Klower. You can listen to the full episode [here](https://flightfreeuk.podbean.com/e/2022-series-education-academia-and-air-travel/) and find other episodes and previous series [here](/podcast).
 
-*Credits:*
+***Credits**:*
 
-*Interview conducted and produced by Evie Vouillemin. Voiceover: Louise Millington and Anna Hughes. Intro music: The Executive Lounge By Dan Barton. Outro music: Pines and Violet by Sky Toes.*
+*Interview conducted and produced by Evie Vouillemin. Voiceover: Louise Millington and Anna Hughes. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)*
