@@ -12,12 +12,17 @@ read_time_minute: 8
 ---
 *This is episode 9 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-education-academia-and-air-travel/) and find other episodes and previous series [here](/podcast).*
 
-In this episode we explore the issue of education and air travel, with guests Abi Whitefield from the University of St Andrews, and Milan Klower from the Oxford University Flying Less Group.
-Flight Free Fact
+## In this episode we explore the issue of education and air travel, with guests Abi Whitefield from the University of St Andrews, and Milan Klöwer from the Oxford University Flying Less Group
+
+### Flight Free Fact
+
 According to a study at one Swiss university, professors take on average 3.75 flights per year, emitting approximately five tons of CO2 equivalent. This is more than three times the annual carbon budget we each need to reach in order to limit global warming to 1.5ºC.
-Flight Free UK
+
+### Flight Free UK
+
 Abi, you were studying at Edinburgh University when you decided not to attend one of your class field trips, even though it was a compulsory part of the course, because it would mean flying to Morocco. Can you tell us more about this?
-Abi
+
+### Abi
 In 2019 I was studying for a Masters in environmental protection and management at the University of Edinburgh. 
 The field trip was to Morocco to do some environmental monitoring. Considering it was an environmental field trip, it felt at odds with my beliefs to fly, especially when the field work could have been done in the UK.
 I brought up my concerns to the university and my course leader was very supportive. They said I didn’t have to go, so instead I did a different project. I chose to do it on people's perceptions of flying, climate change and their behaviours. My taking a stand made the department think more about how they were choosing to advertise their courses, and how the opportunities provided for students conflicted with what we were being taught in our lessons. 
