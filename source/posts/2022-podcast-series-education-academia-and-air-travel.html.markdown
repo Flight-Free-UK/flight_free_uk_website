@@ -10,9 +10,7 @@ summary: Should academics feel pressure to fly? What do field trips by air
 author: FlightFree UK
 read_time_minute: 8
 ---
-2022 podcast series: Education, academia and air travel
-
-This is episode \[number] of our \[year] podcast series. Listen to the episode here \[link to Podbean/hosting site] and find other episodes and previous series here \[link to podcast page on website]
+*This is episode 9 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-education-academia-and-air-travel/) and find other episodes and previous series [here](/podcast).*
 
 In this episode we explore the issue of education and air travel, with guests Abi Whitefield from the University of St Andrews, and Milan Klower from the Oxford University Flying Less Group.
 Flight Free Fact
