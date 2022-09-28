@@ -111,19 +111,31 @@ We have to change something about the pricing between train and plane tickets. F
 ### Flight Free UK
 
 Within your respective universities, do you feel that you've seen your decisions have an impact on staff and students?
-Abi
+
+### Abi
+
 The course at the University of Edinburgh had their field trip within the UK last year. When I made the decision back in 2019, there was a big meeting within the school of geosciences to talk about how decisions about flying were made.
+
 I don't know how much of an impact my decision to not go on the field trip had, as I'm sure COVID had a big impact too, but I think people are considering it more.
-Milan
+
+### Milan
+
 Back in 2018 I asked for the data on how much we have been flying in our department, then I calculated the carbon footprint so I could show the climate scientists what they were emitting. 
+
 I think that had a big impact because suddenly everyone could see what they were each responsible for. I don't necessarily like blaming individuals, but that narrative had a really big impact in terms of flying less.
+
 My happy moment was when the head of my department told me they were trying to fly half as much as they flew before. That's a big win. Many other sectors, in terms of decarbonation, could only dream about a 50% reduction!
+
 One of the big impacts also comes from talking about it. So if I say I haven’t flown to a conference and I've taken the train, the issue is raised, it’s on the table, and suddenly you’re having these discussions. That is what really makes me optimistic going forward.
-Destination of the Month
+
+### Destination of the Month
+
 Abi recommends Scotland and the Highlands as a great place to study geography, with mountains, signs of glaciation, peat and carbon sequestration, and rural and urban communities.
+
 Milan recommends Mont Blanc in the Alps, which you can reach easily by train from London with just one change in Paris. Seeing how much the glaciers have retreated is a very powerful indication of the effect of climate change on our world.
-Thank you to our guests Abi Whitfield and Milan Klower. You can listen to the full episode here \[link to Podbean/hosting site] and find other episodes and previous series here \[link to podcast page on website]
 
-Credits:
+### Thank you to our guests Abi Whitfield and Milan Klower. You can listen to the full episode [here](https://flightfreeuk.podbean.com/e/2022-series-education-academia-and-air-travel/) and find other episodes and previous series [here](/podcast).
 
-Interview conducted and produced by Evie Vouillemin. Voiceover: Louise Millington and Anna Hughes. Intro music: The Executive Lounge By Dan Barton. Outro music: Pines and Violet by Sky Toes.
+*Credits:*
+
+*Interview conducted and produced by Evie Vouillemin. Voiceover: Louise Millington and Anna Hughes. Intro music: The Executive Lounge By Dan Barton. Outro music: Pines and Violet by Sky Toes.*
