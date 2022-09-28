@@ -74,24 +74,42 @@ There's also a lot of colonial history to it. Why can’t we do research in a wa
 ### Abi
 
 I actually had a big Twitter feud with another PhD student about this, because it’s problematic going over and doing research where locals could be doing it. There are lots of conflicts of interest when it comes to researching in countries where we have a colonial history. Maybe we should be encouraging those people to research things themselves or provide them with the opportunities to do so.
-Flight Free UK
+
+### Flight Free UK
+
 Abi, you stayed in the UK for your research project. Do you feel like you missed out by not going to Morocco and potentially not doing your research in other parts of the world?
-Abi
+
+### Abi
+
 I don't feel I'm missing out because, although my research topic is focused within Scotland, I can still connect it to all the international literature that already exists. So I’m still getting the perspective of those in North America and Japan and other places.
 I do think some people would feel like they're missing out. That's one of the issues with undergraduate degrees advertising their geography degrees purely on a big trip to Antarctica or somewhere really far flung as a way to get students to come in and make money. 
+
 I think it's about changing the narrative and changing the way that people think about their university degrees and the research decisions that they're making.
+
 There are so many places to explore in the UK or Europe. There's also so much great virtual stuff now, so do you necessarily need to go to these places to learn about them?
-Flight Free UK
+
+### Flight Free UK
+
 Schools and universities are in a unique position because they're teaching the next generation and shaping future society. If you're putting students on planes, it teaches them that flying is normal. 
+
 At the same time, schools and universities are teaching about climate change and the importance of taking action, so it feels like there's a bit of a disconnect. What do you both think needs to be done in order to encourage behaviours that are positive for the environment?
-Abi
+
+### Abi
+
 I think part of it is making slow travel the easier option. Everyone goes for the cheap, easy option at the moment, and being environmentally friendly isn't necessarily the cheap, easy option.
+
 There needs to be a way for institutions to incentivise low-carbon travel, because flights being cheap and easy means that people will take them, unless they really care about the environmental impact.
-Milan
+
+### Milan
+
 During high school, we went to Prague in Czechia by train (I went to school in Hamburg).
+
 When I was a teenager, Ryanair launched their 10-euro flights, and this is where things suddenly started to change. Previously the train had been the cheapest option and flying was a luxury for people who didn’t have time to travel slowly, but now this has flipped.
+
 We have to change something about the pricing between train and plane tickets. Flights are subsidised because kerosene is not taxed. There is a lot of action needed from the government to make sure flying is priced appropriately to the damage that it causes.
-Flight Free UK
+
+### Flight Free UK
+
 Within your respective universities, do you feel that you've seen your decisions have an impact on staff and students?
 Abi
 The course at the University of Edinburgh had their field trip within the UK last year. When I made the decision back in 2019, there was a big meeting within the school of geosciences to talk about how decisions about flying were made.
