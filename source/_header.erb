@@ -16,6 +16,6 @@
        <% current = "#{path}.html" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("posts") && "be_inspired" == path ) %>
        <%= link_to name, "/#{path}.html", class: "w-full xl:w-auto mb-8 xl:mb-0 #{current ? "xl:border-b-2 border-orange" : nil}hover:text-orange" %>
     <% end %>
-    <!--<a href="https://donorbox.org/donate-to-flight-free-uk" class="custom-dbox-popup w-full xl:w-auto px-8 py-2 border-2 border-orange rounded-full bg-orange hover:bg-blue-dark text-blue-dark hover:text-white">Donate</a>-->
+    <a href="https://donorbox.org/donate-to-flight-free-uk" class="custom-dbox-popup w-full xl:w-auto px-8 py-2 border-2 border-orange rounded-full bg-orange hover:bg-blue-dark text-blue-dark hover:text-white">Donate</a>
   </nav>
 </header>
