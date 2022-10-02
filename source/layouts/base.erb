@@ -36,33 +36,37 @@
 
     gtag('config', 'UA-151318158-1');
   </script>
+  <!-- End Google Analytics code -->
 
-<!-- Facebook Pixel Code -->
-<meta name="facebook-domain-verification" content="b298ei62vrpf5nyg2mu5i47y74pr3t" />
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '252245006818254');
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=252245006818254&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
+  <!-- Facebook Pixel Code -->
+  <meta name="facebook-domain-verification" content="b298ei62vrpf5nyg2mu5i47y74pr3t" />
+  <script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '252245006818254');
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=252245006818254&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
 
-<!-- Donorbox code -->
-<script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
-<script>window.DonorBox = { widgetLinkClassName: 'custom-dbox-popup' }</script>
-<!-- End Donorbox code -->
+  <!-- Donorbox code -->
+  <script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script>
+  <script>window.DonorBox = { widgetLinkClassName: 'custom-dbox-popup' }</script>
+  <!-- End Donorbox code -->
 
-    </head>
+</head>
 <body class="font-body">
+
+<%# DONATIONS BANNER %>
+<% if false %>
 <section class="bg-blue-dark text-white py-4 flex justify-center border-b-2 border-orange">
   <a href="https://donorbox.org/flight-free-uk-annual-fundraiser-2022" class="text-white hover:text-orange">
     <p class="font-blog text-2xl lg:text-4xl leading-6 lg:leading-normal font-bold italic text-center mt-1 mb-2 tracking-wide px-2">The Flight Free <em class="text-orange">UK</em> fundraiser is now <em class="text-orange">live</em>!</p>
@@ -70,6 +74,8 @@ src="https://www.facebook.com/tr?id=252245006818254&ev=PageView&noscript=1"
     <p class="font-bold text-2xl lg:text-3xl leading-none lg:leading-normal text-center mt-4 lg:mt-0 px-2"><strong class="text-orange">Click here</strong> to go to our fundraiser page <img src="/images/click.png" alt="click here" class="hidden lg:inline-block mx-auto lg:ml-4" /></p>
   </a>
 </section>
+<% end %>
+<%# end donations banner %>
 
 <%= yield %>
 
