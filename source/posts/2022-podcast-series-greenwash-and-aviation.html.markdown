@@ -1,7 +1,7 @@
 ---
 published: true
 title: "2022 podcast series: Greenwash and aviation"
-category: opinion
+category: climate
 date: 2022-08-30T19:11:44.127Z
 cover_image: /images/uploads/august22-podcast-blog-large.jpg
 summary: We invite Futerra's Solitaire Townsend and Stay Grounded's Anne
