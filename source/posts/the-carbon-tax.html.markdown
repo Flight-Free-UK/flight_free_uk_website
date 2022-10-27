@@ -3,15 +3,15 @@ published: true
 title: The Carbon Tax
 category: opinion
 date: 2019-07-23T12:51:28.116Z
-cover_image: /images/uploads/carbon-tax.jpg
+cover_image: /images/uploads/trains-not-planes.jpg
 summary: A proposed carbon tax has hit the headlines this week. Anna Hughes
   looks at what this really means.
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows a plane flying over skyscrapers from ground level. The sky is white and overcast and the windows of the skyscrapers reflect the sky. ](/images/uploads/carbon-tax.jpg)
 
-### So the Government is [proposing a carbon tax on flights](https://www.thetimes.co.uk/article/air-travellers-to-be-hit-by-carbon-charge-on-all-tickets-hz2dnmzfp). 
+
+### So the Government is [proposing a carbon tax on flights](https://www.thetimes.co.uk/article/air-travellers-to-be-hit-by-carbon-charge-on-all-tickets-hz2dnmzfp).
 
 This sounds promising in many ways: Flight Free UK has always called for the carbon cost of transport to be reflected in the price of the ticket. And as transport secretary Chris Grayling says, it "could help inform travellers about how much carbon their journey produces.” Raised awareness of this would be most welcome. As a guide, [train travel in Europe has roughly a tenth of the emissions of theequivalent flight](https://www.seat61.com/CO2flights.htm). Yet currently rail fares are on average three times more expensive.
 
