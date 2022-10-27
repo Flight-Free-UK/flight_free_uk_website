@@ -34,8 +34,6 @@ This region is home to four main indigenous groups: the Kogi, Wiwa, Arhuaco, and
 
 We had a chance to speak to a *mamo,* learn more about the aluna, and participate in an *ofrenda*: a ritual to thank Mother Nature for all it provides and give back in intention and action. This forever changed me. 
 
-![Viviana with a young Kogi boy. ](/images/uploads/viviana-colombia.jpeg "Viviana and a young Kogi boy ")
-
 That same week, we visited some parts of La Guajira further north. It was the week after Easter break and the result of indiscriminate tourism was all around. Most places were completely empty, but you could see that only one week before it had been busy. We saw single-use plastic all over the ground and in the water. Thousands of bags, disposable cups, forks, knives and straws dotted the place. It really shattered our souls to see the state of this otherwise gorgeous backdrop. We went into the ciénaga and were the only ones for miles, surrounded by a spectacle of flamingos… and plastic.
 
 > "We saw single-use plastic all over the ground and in the water."
