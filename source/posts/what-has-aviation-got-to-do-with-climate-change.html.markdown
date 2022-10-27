@@ -3,7 +3,7 @@ published: true
 title: What has aviation got to do with climate change?
 category: climate
 date: 2020-02-28T18:34:00.503Z
-cover_image: /images/uploads/sunset-flights.jpg
+cover_image: /images/uploads/bar_chart.jpg
 summary: We explore what climate change is and how aviation contributes
 author: FlightFree UK
 read_time_minute: 3
@@ -39,8 +39,6 @@ Burning fossil fuels such as kerosene (aviation fuel) creates CO2 and other gree
 ### Individual impact
 
 Flying is the most carbon intensive form of travel, and nothing else we do raises our carbon footprint by so much, so quickly. Though the vast majority of the world’s population (around 95%) has never been on a plane, for those who do fly, those flights will make up the largest part of your carbon footprint. The website [ShamePlane](https://shameplane.com/?fromCity=Paris&fromCode=CDG&toCity=Chicago&toCode=ORD&roundtrip=true&typeofseat=3) estimates that flying to New York City from London creates enough CO2 emissions per passenger to melt 6.6m2 of Arctic sea ice. For Bangkok it's 11m2. Even short haul flights can quickly add up to unsustainable levels of CO2. We explore more about the individual impact of flying, compared to other activities, in our blog post [here](https://flightfree.co.uk/post/is-the-rising-social-stigma-around-flying-misplaced/).
-
-![](/images/uploads/bar_chart.png)
 
 ### Individual action
 
