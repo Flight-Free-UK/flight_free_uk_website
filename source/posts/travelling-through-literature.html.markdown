@@ -1,9 +1,9 @@
 ---
-published: true
+published: false
 title: Travelling through literature
 category: travel
 date: 2020-07-09T17:18:06.210Z
-cover_image: /images/uploads/globe-books.jpg
+cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
 summary: Trapped at home by the pandemic? We investigate whether books can stand
   in for adventures abroad.
 author: FlightFree UK
@@ -14,8 +14,6 @@ read_time_minute: 7
 When friends are boasting about their holidays as if they were expeditions, talking about the places they explored, the people they encountered, sometimes you might feel left out, as if you have little to contribute to the conversation.
 
 Well, there is a way to be curious about the world without harming it: read a book. 
-
-![Picture shows a close-up of an open book on a table within a library. In the middle of the open pages rests a small toy globe. ](/images/uploads/world-globe-book.jpg)
 
 Instead of taking a long haul flight to India (emissions 2 tonnes of CO2), you could read one of the many fabulous novels in English by Indian writers (emissions of a paperback book: 1 kg of CO2). They will give you an insight into Indian society and a feeling of connection that would be missing from most holiday visits. 
 
