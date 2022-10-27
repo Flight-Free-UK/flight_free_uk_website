@@ -3,7 +3,7 @@ published: true
 title: What's wrong with Jet Zero?
 category: opinion
 date: 2021-09-07T10:59:21.345Z
-cover_image: /images/uploads/1-resourcewatch.org-planeonrunway-virgin-2721333_1920-1.jpg
+cover_image: /images/uploads/trains-not-planes.jpg
 summary: The government has big plans to reduce aviation emissions. But will it work?
 author: FlightFree UK
 read_time_minute: 9
