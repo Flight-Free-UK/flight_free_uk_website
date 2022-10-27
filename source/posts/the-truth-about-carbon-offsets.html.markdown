@@ -3,15 +3,15 @@ published: true
 title: The Truth about Carbon Offsets
 category: climate
 date: 2020-02-04T15:50:48.500Z
-cover_image: /images/uploads/Tree-planting.jpg
+cover_image: /images/uploads/trains-not-planes.jpg
 summary: Environmental Sociologist Roger Tyers explains the thinking behind
   carbon offsets and asks if they can really address our rising emissions
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows four men planting a tree. They are smiling and in the background is a grassy field with tall buildings far away. ](/images/uploads/Tree-planting.jpg)
 
-### Carbon offsetting is back. 
+
+### Carbon offsetting is back.
 
 It first emerged as a popular idea in the mid-noughties, especially after Al Gore’s documentary [An Inconvenient Truth](https://www.youtube.com/watch?v=Bu6SE5TYrCM), with many airlines offering offsets to increasingly climate-conscious customers. In the following years, offsetting seemed to decline in visibility, but has recently made a resurgence as aviation emissions come under greater scrutiny. Airlines like Qantas, Lufthansa, KLM and Ryanair all offer their passengers the option of offsetting flights. [BA](https://www.britishairways.com/en-gb/information/about-ba/csr/corporate-responsibility) and [Easyjet](https://www.theguardian.com/business/2019/nov/19/easyjet-offset-carbon-emissions-flights-thomas-cook-collapse) now even pay for offsets on their customers’ behalf.
 
