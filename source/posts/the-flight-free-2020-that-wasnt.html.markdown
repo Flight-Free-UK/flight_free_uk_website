@@ -34,5 +34,3 @@ Of course, we need to do this in a way that doesn’t decimate the economy, caus
 So as lockdown is lifted and travel is once again on the cards, let’s choose low-carbon. Let’s choose close-to-home. Let’s choose a slower, more present, better type of travel that is as good for the traveller as it is for the environment. Because we desperately need to significantly reduce our emissions, and that means flying far, far less. If there’s anything we can take from lockdown, hopefully it’s to appreciate the beauty of where we are and the need to protect it.
 
 #### We started the Flight Free 2020 pledge in the context of ‘normal’. Whatever that might look like in the future, I hope it involves a respect for the living world, an understanding of the challenge facing us, and a desire to take action. And mostly, I hope that Flight Free 2021 will be a positive one.
-
-![](/images/uploads/1000-pledges.jpg)
