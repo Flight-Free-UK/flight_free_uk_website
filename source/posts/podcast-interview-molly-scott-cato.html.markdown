@@ -9,8 +9,6 @@ summary: The Green MEP for South-West England and Gibraltar talks to us about
 author: FlightFree UK
 read_time_minute: 6
 ---
-![Molly is sitting at a desk talking into a recording device. She is wearing a bright red blazer and has a reusable waterbottle in front of her. ](/images/uploads/mollytalking.jpg "Molly Scott Cato ")
-
 #### *Our interview was recorded in a cosy corner of St Stephen's Tavern on Parliament Square, a regular drinking hole for those at Westminster, with a gentle background of clinking cutlery and chatter. A transcript of the interview is below; go to our* [*Podcast* *page*](/podcast) *to hear the full interview.*
 
 ### **Molly, tell us a bit about your background in environmentalism and politics**
