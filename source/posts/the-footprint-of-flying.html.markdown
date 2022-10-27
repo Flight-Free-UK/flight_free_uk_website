@@ -3,7 +3,7 @@ published: true
 title: The footprint of flying
 category: climate
 date: 2019-06-18T13:52:23.905Z
-cover_image: /images/uploads/the-footprint-of-flying-.jpg
+cover_image: /images/uploads/trains-not-planes.jpg
 summary: Is flying really worse for the planet than eating meat?
 author: FlightFree UK
 read_time_minute: 2
@@ -29,5 +29,3 @@ The IPCC recommend that for ongoing sustainability we should exceed no more than
 > "One flight could use up your entire annual carbon allowance."
 
 Of course, we need need to be addressing all of this. Aviation, food, shipping, fast fashion, all of it. This isn't to prove that flying is ‘the worst’. Massive reductions in all areas are needed in order to bring our emissions down to where they need to be. We all need to be eating far less meat and dairy, as well as flying far, far less. But if you do fly, nothing else you do will increase your carbon footprint so much in so short a space of time, and reducing that can have the greatest impact on how you interact with the planet.
-
-![](/images/uploads/bar_chart.png)
