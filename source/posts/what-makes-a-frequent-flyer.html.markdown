@@ -8,8 +8,6 @@ summary: How many flights per year do you need to take to count as a 'frequent f
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows graphic of cartoon black planes flying over a world map leaving rails of black smog behind them. ](/images/uploads/black-plane.jpg)
-
 ### It’s a common assumption that business travellers make up the largest sector of flyers – the men in suits who are rarely out of an aeroplane seat.
 
 In fact, business flights made up just 9% of flights in 2017*, a percentage that had been falling steadily year on year even before Covid-19. There’s likely to have been an even greater decrease in business flights as a result of coronavirus lockdowns, and we can expect that number to continue to fall as many businesses settle on a digital way of working. By far the largest share of the travel market is made up of leisure flights – nearly 2/3rds of all UK flights in 2017.
