@@ -24,8 +24,6 @@ For airports, it's rising sea levels that are cause for alarm. [Approximately 80
 
 This vulnerability is not entirely surprising given that a good location for an airport is somewhere flat, with lots of space, and without lots of high buildings. Somewhere like a marshland or a coastal floodplain, perhaps – which just so happen to be the most precarious when it comes to rising waters. San Francisco International Airport is just one of the airports that is [building a wall around its runway](https://www.sfgate.com/travel/article/SFO-to-spend-more-than-1-billion-to-hold-back-14520605.php) – a Netherland’s-style dyke system for aviation, if you will.
 
-![Picture shows a plane on a runway about to take off. Theres a mirage on the runway due to the heat and the sky is yellow. ](/images/uploads/1-resourcewatch.org-planeonrunway-virgin-2721333_1920-1.jpg "Source: ResourceWatch.org")
-
 As for aircraft engines, colder air means it’s easier to generate thrust, which is why hotter regions such as the Middle East are particularly punishing for engine operation. As global surface temperatures rise, average take-off temperatures will too, which reduces the engine power-to-thrust ratio. The solution? Either longer runways, or lighter loads. This will mean that either airports need to extend runways, or airlines will need to carry fewer passengers or less cargo. 
 
 To compound things further, higher operating temperatures accelerate engine degradation which increases maintenance, repair and overhaul costs for manufacturers.
@@ -37,8 +35,6 @@ A [study of Greek airports](https://link.springer.com/article/10.1007/s10584-019
 In August 2013, [a heatwave caused problems at London City Airport](https://www.telegraph.co.uk/travel/travel-truths/why-planes-too-hot-to-fly-heat-aircraft/) because the short runways did not provide enough room for aircraft to operate in the heat. The issue saw some passengers bumped from flights to lighten the planes with airlines saying that, “Due to weather conditions, the take-off weight of the aircraft had to be reduced.” Other airports have had to completely cancel flights due to extreme heat. 
 
 Ultimately, rising global temperatures hit airlines where it most hurts: in the pocket. 
-
-![Picture shows a plane landing on a runway at dusk. The runway is surrounded by a body of water, as it's been out from the shore. High-rise flats are in the foreground. ](/images/uploads/1-qantanewsroom.com-747-landing-runwau.jpg "Source: QantaNewsroom.com")
 
 The height of the irony here is that our planet is warming as a result of an overdose of greenhouse gas emissions, primarily caused by the burning of fossil fuels. Climate change, the cause of airline’s future woes, is, in no small part, caused by the airlines themselves. The now-retired Boeing 747 jumbo jet bound from London to New York would burn through 70 tonnes of kerosene in its journey across the Atlantic. That's over 200 tonnes of climate-busting CO2 pumped straight into the upper atmosphere where it does the most damage. The [latest science](https://stay-grounded.org/fact-sheet-climate-impact/) also shows that the non-CO2 emissions from aircraft approximately triple the global warming impact of the CO2 alone.
 
