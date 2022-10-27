@@ -1,16 +1,14 @@
 ---
-published: true
+published: false
 title: The legacy of lockdown
 category: opinion
 date: 2020-04-29T15:57:54.677Z
-cover_image: /images/uploads/closed-sign.jpg
+cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
 summary: An analysis of the impact of the coronavirus lockdown on people, planet
   and the future of the aviation industry.
 author: FlightFree UK
 read_time_minute: 5
 ---
-![Picture shows a blue sign in a shop window that reads "Sorry We're Closed". ](/images/uploads/closed-sign.jpg)
-
 ### Should we be bailing out airlines…?
 
 The Coronavirus has had a massive impact, not least on the aviation industry. Last week Virgin Atlantic boss Richard Branson [drew criticism](https://www.theguardian.com/business/2020/apr/12/richard-branson-facing-backlash-over-plea-for-uk-bailout-of-virgin) when he asked the government for a £500 million bailout. So should we be giving public money to airlines? And what’s the alternative?
