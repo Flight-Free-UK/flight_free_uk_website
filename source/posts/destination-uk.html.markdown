@@ -21,15 +21,11 @@ Nowhere in the UK is more than 70 miles from the coast, so it stands to reason w
 
 Such a popular beach means the roads are a car park on sunny days, so avoid the crowds by catching the train to Rye and cycling the handful of miles along the traffic-free cycle way right to the beach.
 
-![](/images/uploads/camber-sands-high-tide.jpg "Camber Sands. Image from besidetheseaholidays.com.")
-
 #### 2. Lake District
 
 It’s an obvious one but it’s got to go on the list. The Lake District is fantastic for lovers of outdoor pursuits, including [mountain biking](https://www.pure-leisure.co.uk/10-best-mountain-biking-routes-lake-district/), road cycling, walking, climbing, [boating](https://www.lakedistrict.gov.uk/visiting/things-to-do/water) and watersports. The lakes each have their own character and the surrounding mountains make for an absolutely breathtaking view. 
 
 Towns such as Windermere, Ambleside, Kendal and Keswick are popular with tourists and offer a wide range of shops, pubs, cafes, restaurants and museums. There are also plenty of villages that offer experiences a bit more off the beaten track. The Lake District is served by two train stations: Windermere, right in the heart of the district, and Penrith to the north, and there are good [bus links.](https://www.lakedistrict.gov.uk/visiting/plan-your-visit/getting-to-the-lake-district#buses)
-
-![](/images/uploads/cycling.jpg "Cycling in the Lake District. Image from nationaltrust.org.uk.")
 
 #### 3. Wiltshire
 
@@ -37,15 +33,11 @@ For a unique and relaxing holiday experience, hire a narrowboat on one of the UK
 
 Not only is the canal a remarkable feat of engineering, with tunnels, aqueducts and the famous lock flight at [Caen Hill](https://canalrivertrust.org.uk/places-to-visit/caen-hill-locks) (29 locks in a row!), floating at an average 5 mph is a truly relaxing way to pass the time. There are plenty of canalside pubs along the way; we particularly like the [Black Horse](https://www.tripadvisor.co.uk/Attraction_Review-g528767-d5918051-Reviews-Black_Horse-Devizes_Wiltshire_England.html) at Devizes, near the top of the Caen Hill flight. With the Great Western Railway tracing the canal for much of its length, accessing the canal by rail is easy.
 
-![](/images/uploads/od4a3534.jpg "Boating in Wiltshire. Image from whitehorsenarrowboats.co.uk.")
-
 #### 4. Isles of Scilly
 
 This enchanting archipelago off the toe of Cornwall is formed of five inhabited islands in addition to countless uninhabited ones, some of which remain completely undisturbed. Hop around each island on a “tripper” [boat](https://www.visitislesofscilly.com/explore/island-hopping), hire a [bike](https://www.stmarysbikehire.co.uk/) or get your walking boots out to truly experience this English paradise. Each island offers a unique experience, but the Isles are well known for their creative communities, sweeping sea views, sandy beaches, ancient architecture and fascinating wildlife. 
 
 Travelling to the Isles flight-free is easy and a perfect way to view the Cornish coastline: take the train to Penzance then the ferry to St Mary's, the largest island of the group.
-
-![](/images/uploads/spring-aerial-view-of-st-agnes-isles-of-scilly.jpg "St. Agnes, Isles of Scilly. Image from islesofscilly-travel.co.uk.")
 
 #### 5. Jurassic Coast
 
@@ -53,15 +45,11 @@ England’s first natural UNESCO World Heritage Site begins at Orcombe Point in 
 
 There are a variety of ways to access the Jurassic Coast by public transport. Both [South Western Railway](https://www.southwesternrailway.com/) and [Great Western railway](https://www.gwr.com/) lines service the Jurassic Coast, while the [Jurassic Coaster](https://jurassiccoast.org/visit/travel-information/jurassic-coast-bus-services/) bus services allow passengers to hop on and off at many towns and villages along the coast, including Axminster and Weymouth.
 
-![](/images/uploads/durdle-door-2400x1600.jpeg "Durdle Door, Dorset. Image from sykescottages.co.uk.")
-
 #### 6. North York Moors
 
 Boasting over 1,400 miles of natural beauty, this enchanting region of Yorkshire is a treat for the senses with fragrant pine forests, shimmering coastlines and huge expanses of purple heather moorland. For those seeking an escape from city life, the North York Moors National Park has a unique tranquility. Moulded into the natural landscape are ruins that provide an insight into the underlying history and heritage, including the [Wheeldale Roman Road](https://www.english-heritage.org.uk/visit/places/wheeldale-roman-road/) and the beautiful [Rievaulx Abbey](https://www.northyorkmoors.org.uk/visiting/see-and-do/attractions/rievaulx-abbey). Stop for excellent [food](https://tasteofthenorthyorkmoors.com/home/where-to-eat/) in the pretty market towns of Helmsley, Stokesley and Pickering or try artisan coffee or macarons at [Talbot Yard Food Court](https://www.visitmalton.com/talbot-yard-food-court) in Malton - known as Yorkshire's food capital. The coastal town of Whitby is one of our favourites, famous for its [fish and chips](https://tasteofthenorthyorkmoors.com/magpie-cafe/) and numerous beaches. Don't miss a visit to the gothic ruins of Whitby Abbey to follow in the footsteps of inspired artists and writers, including Bram Stoker, the author of 'Dracula'. 
 
 Both [rail](https://www.nationalrail.co.uk/) and coach ([National Express](https://www.nationalexpress.com/en) and [Coastliner](https://www.transdevbus.co.uk/coastliner/)) services stop at the many towns surrounding the North York Moors National Park, including York, Malton and Whitby. In addition to public transport, there are some fantastic [walking](https://www.northyorkmoors.org.uk/visiting/enjoy-outdoors/walking/our-walks) and [cycling](https://www.northyorkmoors.org.uk/visiting/enjoy-outdoors/cycling) routes that allow travellers to reach those far-flung, unexplored places inaccessible by car.
-
-![](/images/uploads/staithes-image-1500x500-crop-.jpg "Staithes, North Yorkshire Coast. Image from englandscoast.com")
 
 ### Scotland
 
@@ -70,8 +58,6 @@ Both [rail](https://www.nationalrail.co.uk/) and coach ([National Express](https
 We’ve got to include the Scottish capital! It’s an awesome city nestled within great expanses of nature. Edinburgh is great for history explorers: visit the iconic [Edinburgh Castle](https://www.visitscotland.com/info/see-do/edinburgh-castle-p245821) which sits on the peak of an extinct volcano, and don’t miss a trip to the [National Museum of Scotland](https://www.visitscotland.com/info/see-do/national-museum-of-scotland-p246591) to view collections celebrating the nation’s culture, history and people. Wake up early to climb Arthur’s Seat and take in the panoramic views of the city at sunrise. 
 
 [National Express](https://www.nationalexpress.com/en) can get you to Edinburgh for a tenner, or take the train to experience the spectacular views of the East Coast railway line.
-
-![](/images/uploads/edinburgh_castle.jpg "Edinburgh Castle. Image from historic-uk.com.")
 
 #### 8. The Hebrides
 
@@ -83,18 +69,12 @@ Oban is the 'Gateway to the isles' and can be accessed by train from Glasgow. Th
 
 Head to the hillside fishing village of Mallaig for access to Skye, as well as to the Small Isles of Eigg, Rum and Muck. The train from Glasgow crosses the famous Glenfinnan viaduct, used by the Hogwarts Express in the Harry Potter films.
 
-![](/images/uploads/visitscotland_33972782806-min_1007785955.jpg "Old Man of Storr, Isle of Skye. Image from visitscotland.com.")
-
 ### Wales
 
 #### 9. Porthmadog
 
 Known as the Gateway to Snowdonia, the town of Porthmadog is flanked on one side by the ‘Moel y Gest’ mountain, while wide expanses of the Glaslyn estuary extend towards the north and east to the Snowdon range. The town itself has a busy and friendly atmosphere, with a good range of shops and attractions. Home to the Ffestiniog Railway, the Welsh Highland Railway and the smaller Welsh Highland Heritage Railway, you’ll find no better place for [steam train](https://www.festrail.co.uk/) enthusiasts. Alternatively, visit the town’s [Maritime Museum](https://porthmadog.wales/the-porthmadog-maritime-museum/) to delve into Porthmadog’s history as a thriving slate exporting and shipbuilding port. The town sits on the edge of the remote and beautiful Llŷn peninsula and is accessible on [Arriva Trains Wales](http://www.arrivatrainswales.co.uk/) from Shrewsbury.
 
-![](/images/uploads/welsh-highland-railway-caernarfon.jpg "Welsh Highland Railway. Image from raildiscoveries.com.")
-
 #### 10. Pembrokeshire
 
 For wild and strikingly beautiful landscapes, you can’t beat Pembrokeshire. Along the shores you’ll find the [Pembrokeshire Coast Path](https://www.visitpembrokeshire.com/explore-pembrokeshire/coast-path), an 186-mile trail that meanders through more than 50 beaches as well as coves, harbours, towns, villages and the smallest city in the UK - St Davids. The rocky coastline is surrounded by the sea on three sides, which makes it great for water sports in addition to activities such as cycling and [rock climbing](https://www.visitpembrokeshire.com/activities-adventure/rock-climbing). For birdwatchers, catch a [boat](http://www.pembrokeshire-islands.co.uk/boat-trips/) to view the puffins on Skomer Island or tens of thousands of gannets on Grassholm Island. Don’t miss a trip up to north Pembrokeshire in autumn to view hundreds of Atlantic grey seal pups! You can access the county by taking a train to Tenby and begin your holiday on the golden beaches. The wonderfully-named Puffin Shuttle, Poppit Rocket, Celtic Coaster and Coastal Cruiser buses form part of the excellent Pembrokeshire coastal [bus service](https://www.pembrokeshire.gov.uk/bus-routes-and-timetables/bus-routes-list-coastal-buses), which run the entire length of the Pembrokeshire Coast Path, from St Dogmaels to Amroth.
-
-![](/images/uploads/tenby.jpg "North Beach at Tenby, Pembrokeshire. Image from bluestonewales.com.")
