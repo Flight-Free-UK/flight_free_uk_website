@@ -9,8 +9,6 @@ summary: "Slow travel makes the whole experience far richer, as discovered by
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows two stationary trains parked in a French train station. The trains are red and yellow and the sky is cloudy and sunny. ](/images/uploads/train-france-unsplash-christopher-seatsea.jpg "Photo credit: Christopher @seatsea (Source: Unsplash)")
-
 ### It’s not often you get bumped up to first class for a tenner. I can’t believe my luck.
 
 The seats are like armchairs and pivot so you can recline into a perfect sleeping position. The pull-down table so generous I have plenty of space for my laptop, a coffee and a sandwich without having to channel my ninja skills, ready to catch a falling object at any moment. I managed to book last minute and the cabin is almost empty, the temperature perfectly controlled to ensure maximum comfort and I can stroll next door anytime I like for a hot meal. Oh, and did I mention the view? Train travel around Europe is a gem waiting for rediscovery.
@@ -26,8 +24,6 @@ Slow travel is set to make a comeback. Travel that reconnects you with place and
 > "This is not a holiday, this is akin to being the protagonist of a Hemmingway novel."
 
 The booking engine [Rail Europe](https://raileurope.co.uk) (formerly Loco2) offer a simple Europe-wide city to city search of alternative travel routes including overnight sleepers (expensive), high speed day trains (cheap) and every alternative you can think of in-between. 
-
-![Picture shows Alexandra taking a selfie is an enclosed train station. There are red iron beams in the roof. She is smiling, wearing a denim jacket and has a white suitcase. ](/images/uploads/alex-jellico.jpg "Alexandra happily waiting for a train ")
 
 Trains are the lowest carbon emission form of easily accessible public transport. As a passionate traveller, mother and environmental scientist I’ve completely reimagined how to explore the world. A holiday is no longer a jet to Mexico to lie by the beach for a week nor a quick weekend in Rome. I’ve rediscovered travel as something to be savoured rather than an inconvenience between home and holiday. And this excitement has been triggered by a compulsion to discover new ways to live in a world so damaged by modern lifestyles.
 
