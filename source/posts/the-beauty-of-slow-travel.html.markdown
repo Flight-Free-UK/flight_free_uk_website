@@ -3,14 +3,12 @@ published: true
 title: The beauty of slow travel
 category: travel
 date: 2019-01-05T17:58:37.224Z
-cover_image: /images/uploads/train-window.jpg
+cover_image: /images/uploads/trains-not-planes.jpg
 summary: "Flight Free UK Director Anna Hughes travels from London to Copenhagen
   by train "
 author: FlightFree UK
 read_time_minute: 3
 ---
-![View of a train window from inside the train. Four blue train seats sit across from each other, with a table between them. The view out the window shows blurred pine trees, with fields and tall hills in the background. The sky is pale blue. ](/images/uploads/kids-on-train.jpg)
-
 ### We emerge from the Channel tunnel into hills that roll just as they do in Kent.
 
 The rain still falls. Graffiti adorns trackside walls. People stand on station platforms clutching mugs of coffee as we flash by. By being on the ground we see others, the homes they have built, the infrastructure that facilitates their lives, the land they farm. The roofs are different shapes, but they are roofs. The bricks are different colours, but they are bricks. Folk carving a living from the country in which they live. It reminds us that we are all the same.
