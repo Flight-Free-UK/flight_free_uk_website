@@ -1,16 +1,16 @@
 ---
-published: true
+published: false
 title: The Path to Net Zero
 category: climate
 date: 2020-09-10T10:03:42.971Z
-cover_image: /images/uploads/climateassemblyuk.png
+cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
 summary: The citizens speak! The Climate Assembly UK has published its report,
   'The Path to net zero.' We take a look at what's in the report in order to
   answer your questions.
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows three people on a panel with an audience watching. Behind them is a background saying "Climate Assembly UK: The Path to Net Zero". ](/images/uploads/climateassemblyuk.png)
+
 
 ## What’s a Climate Assembly? Is that like a citizens’ jury?
 
