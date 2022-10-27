@@ -3,15 +3,13 @@ published: true
 title: What about tourism?
 category: opinion
 date: 2019-12-14T09:33:19.731Z
-cover_image: /images/uploads/fx58dmnrf0m01.jpg
+cover_image: /images/uploads/trains-not-planes.jpg
 summary: We know that air travel facilitates global tourism, and if we were to
   stop flying, communities who rely on our visits would suffer. But is that
   really the full story?
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows a white-sand beach with low lying palm trees leaning over the clear turquoise sea. The sky is blue and the colours of the picture look exaggerated and overly bright. ](/images/uploads/fx58dmnrf0m01.jpg)
-
 The age of the budget airline has ushered in a new type of tourism. International travel, once the preserve of the rich, is now accessible to all, and we’ve taken that freedom and run with it, with [air traffic booming](https://data.worldbank.org/indicator/IS.AIR.PSGR?end=2018&start=1990) from 1 billion passengers in 1990 to over 4 billion passengers in 2018. And that new age of international travel has unlocked a truly global society, where no corner of the world is inaccessible. We have more capacity for movement than ever before, and holidays on the other side of the world become not only normal but expected. 
 
 ### A self-fulfilling prophecy?
