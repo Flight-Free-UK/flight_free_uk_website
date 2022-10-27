@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: The Global Carbon Health Emergency
 category: opinion
 date: 2020-02-07T06:32:00.000Z
@@ -10,7 +10,7 @@ summary: "The Wuhan Coronavirus has brought air traffic across China to a
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows 3 men working behind the desk of China Southern Airlines at an airport. All three of them are wearing masks. ](/images/uploads/airlines-china-virus.jpg)
+
 
 ### *Cancelled, delayed, cancelled, cancelled* – airport departure screens across the world flash as flights to and from the Chinese regions are grounded.
 
