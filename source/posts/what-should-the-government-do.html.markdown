@@ -3,15 +3,13 @@ published: true
 title: What should the government do?
 category: opinion
 date: 2020-03-24T12:41:42.265Z
-cover_image: /images/uploads/downing-street.jpg
+cover_image: /images/uploads/trains-not-planes.jpg
 summary: The coronavirus outbreak has caused an unprecedented drop in demand for
   flights. What can the government do to ensure that climate targets are met
   once travel restrictions are lifted?
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows the outside of Number 10 Downing Street](/images/uploads/downing-street.jpg)
-
 ### In September 2019 the UK’s Committee on Climate Change wrote to the government with advice on how aviation can reach net zero by 2050.
 
  Part of the report focussed on demand, with the net zero scenario assuming 25% growth – too high according to some campaigners, but still much lower than the 70% growth that the [UK aviation industry is pushing for](https://www.sustainableaviation.co.uk/news/uk-aviation-commits-to-net-zero-carbon-emissions-by-2050/).
