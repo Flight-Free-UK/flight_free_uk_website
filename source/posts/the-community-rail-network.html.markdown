@@ -3,16 +3,16 @@ published: true
 title: The Community Rail Network
 category: travel
 date: 2020-04-01T17:57:41.561Z
-cover_image: /images/uploads/st-ives-bay.jpg
+cover_image: /images/uploads/trains-not-planes.jpg
 summary: Jools Townsend, chief executive of the Community Rail Network, looks
   forward to the return of sustainable, community-minded, flight-free and
   car-free trips
 author: FlightFree UK
 read_time_minute: 5
 ---
-![Picture shows a small train travelling across train tracks close to a white sand beach in St Ives Bay, Cornwall. The sea is clear and blue and the sun is shining. ](/images/uploads/st-ives-bay.jpg "St Ives Bay, Cornwall")
 
-### This feels like a strange time to be writing about sustainable travel. 
+
+### This feels like a strange time to be writing about sustainable travel.
 
 In the midst of a national lockdown and global pandemic, travel of any kind simply isn’t an option right now, unless you’re a key worker, keeping critical services running.
 
