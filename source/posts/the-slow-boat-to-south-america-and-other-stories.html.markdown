@@ -10,8 +10,6 @@ summary: A keen traveller, it was difficult for Lewis to reconcile his desire to
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows a cargo ship moored at a harbour. It's black with the word Panama painted on the back in white letters. It has a bright blue chimney and the sky is cloudy.](/images/uploads/cargo-ship-camille-san-vincente-unsplash-.jpg "Photo credit: Camille San Vincente (Source: Unsplash)")
-
 *We recorded an interview with Lewis which is summarised here. For the full audio interview go to our* *[podcast](https://www.flightfree.co.uk/podcast)* *page.*
 
 ### It was George Monbiot’s book [‘Heat’ ](https://www.monbiot.com/books/heat/)that switched Lewis on to the idea of not flying.
@@ -23,8 +21,6 @@ He remembers speaking to someone from Plane Stupid about his forthcoming trip to
 > "When it comes to aviation, there’s just no way around it. It’s going to take a hell of a lot of fossil fuel."
 
 ### So that was back in 2007, and Lewis made the decision to stop flying.
-
-![Lewis holds a sheet of paper with the Flight Free 2020 pledge on it. He is wearing a grey beanie and is stood next to some solar panels. ](/images/uploads/lewis-mcneill.jpg "Lewis with his Flight Free 2020 pledge ")
 
 Pretty soon, he realised the implication of his decision; a well-travelled man, it meant no more trips to South East Asia, Australia or Central America. But did it really mean that? The desire to see the world hadn’t changed, simply the means. Travel is still possible without flying. So with his girlfriend at the time, he began thinking about where they could go. They considered overland to India but decided on South America by boat. 
 
