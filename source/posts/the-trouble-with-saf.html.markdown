@@ -3,7 +3,7 @@ published: true
 title: The trouble with SAF
 category: climate
 date: 2021-10-12T16:20:33.748Z
-cover_image: /images/uploads/aeroplane_engine.jpg
+cover_image: /images/uploads/trains-not-planes.jpg
 summary: SAFs, or sustainable aviation fuels, are being heralded by the aviation
   industry as the answer to carbon emissions. But is that the full story? Finlay
   Asher and Flight Free UK explain.
@@ -11,8 +11,6 @@ author: FlightFree UK
 read_time_minute: 4
 ---
 ### There has been a lot of talk about SAF from airlines and Governments keen to show their eco credentials. But what is SAF, and is it as green as it sounds? 
-
-![Image shows an aircraft landing, focusing on the wing and engine turbine](/images/uploads/aeroplane_wing2.jpg)
 
 **Sustainable Aviation Fuels, or SAFs**, can be made from biomass (biofuel) or green electricity (electrofuel or e-fuel). Airlines claim that SAFs are climate friendly and can [reduce CO2 emissions by 70%](https://www.sustainableaviation.co.uk/wp-content/uploads/2020/02/SustainableAviation_FuelReport_20200231.pdf) vs fossil fuels. But SAFs [emit at least as much CO2 as kerosene](https://www.aef.org.uk/2021/09/21/benefits-from-sustainable-aviation-fuels-must-not-be-over-claimed-aef-highlights-in-response-to-saf-consultation/) – any greenhouse gas savings come in the production stage. For example, growing biofuels extracts carbon from the atmosphere or biosphere, whereas extracting and burning fossil fuels only adds to atmospheric carbon levels. 
 
@@ -37,8 +35,6 @@ read_time_minute: 4
 It’s been estimated that there are only sufficient resources to support approximately [5.5% of projected EU jet fuel](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf) demand in 2030 – that’s without taking into account the political or economic barriers to alternative jet fuel production, which are significant. 
 
 **Aviation biofuels, if scaled, will still cost at least 2-3 times** the current cost of untaxed fossil fuel kerosene. The production costs may be “[twice the cost of petroleum-based jet fuel production, while other conversion processes cost as much as eight times the price of petroleum fuel](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf).” 
-
-![Image shows an aeroplane wing and turbine](/images/uploads/aeroplane_wing1.jpg)
 
 **So what about e-fuels?** On paper, these give a much better solution than biofuels. They are made from water and air which are abundant resources, and can potentially be produced using sun and wind energy alone. So if production and combustion is low-carbon, what’s the problem?
 
