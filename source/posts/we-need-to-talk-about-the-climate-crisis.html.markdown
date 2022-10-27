@@ -1,16 +1,14 @@
 ---
-published: true
+published: false
 title: We need to talk about the climate crisis
 category: climate
 date: 2019-08-24T00:00:00.000Z
-cover_image: /images/uploads/infinity-solar-powerplantchimney-pollution.jpg
+cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
 summary: Maria Ardley questions why we are so reluctant to face up to the
   reality of the climate crisis, and highlights the urgent need to take action
 author: FlightFree UK
 read_time_minute: 6
 ---
-![Source: Infinity solar https://www.infinitysolar.net/burning-fossil-fuels-comes-at-a-giant-price-climate-change/](/images/uploads/infinity-solar-powerplantchimney-pollution.jpg "Source: Infinity solar ")
-
 ### I live in San Sebastian and have just been back to England for two months. In that time I tried to open a conversation about global warming with all my family and friends. I received the following responses:
 
 * Hippy! 
