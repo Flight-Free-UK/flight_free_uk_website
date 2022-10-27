@@ -3,13 +3,13 @@ published: true
 title: The great British holiday
 category: travel
 date: 2019-06-10T14:32:52.868Z
-cover_image: /images/uploads/the-great-british-holiday-.jpg
+cover_image: /images/uploads/waves.jpg
 summary: Flight Free campaigner Anna Hughes contemplates if asking people to fly
   less will mean an end to foreign holidays
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Picture shows Scarborough seafront. There's a big hotel and people are walking in the sea](/images/uploads/scarborough.jpg "Scarborough")
+
 
 ### There’s only one word for it: bracing. It takes a certain character to swim in the North Sea.
 
@@ -38,8 +38,6 @@ Now we have seen the jewels in the Phuket crown, tasted the sweet nectar of Jama
 Nevertheless, it’s unavoidable that we need to address our obsession with foreign holidays. Flying on multiple weekend breaks per year, plus that one big holiday, or sometimes two, feeds our ever-expanding aviation industry in a way that is a disaster for the environment. Travelling so far and so fast uses a hell of a lot of fossil fuel, and even if you take other steps to be environmentally-friendly, one flight can completely wipe out other savings. 
 
 So while the aim of this campaign is not to herald the end of foreign travel, it does mean doing less of something. It means not jetting off every other weekend for another city break. It means not taking domestic flights. It means reassessing our ‘must have everything now’ lifestyles, being content with where we are, not equating holidays or travel with flying. It means one big holiday per year, near or far, journeying by train or bus or boat, where the journey itself is part of the holiday. It means rediscovering the wonder of the UK.
-
-![People sitting on a wall eating fish and chips](/images/uploads/people_eating_fish_and_chips.jpg)
 
 The sun is out. Children squeal in the spray. Surfers hang out on the depths waiting to catch a wave. The beach is scattered with ball games and sand castles, sunglasses and cups of tea. For a time, the sun heats the sand. 
 
