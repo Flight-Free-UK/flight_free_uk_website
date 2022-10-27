@@ -24,33 +24,15 @@ Here’s how can you build in resilience so that the whole journey won’t colla
 While most European rail systems are nothing like Britain’s, they are usually way better and also quite similar. Once you’ve cracked how the system works, you’re set, from Hamburg to Hell.
 
 * Unlike London, most European cities (Paris and Budapest are exceptions) only have one main rail station. The chances you’ll have to race across town for a connection are slim.
-
->
-
 * Trains are generally more punctual than Brits are used to. In Sweden, the [sj.se ](https://www.sj.se/)site actually warns you of a long wait if a connection is over an hour. That said, you’d always be wise to factor in a 15-minute delay, and then also to allow for the hassle of finding your way around a new station perhaps in an unfamiliar language.
-
->
-
 * Station signs in English are ubiquitous throughout western Europe and increasingly to the east as well. Oh, and almost everywhere you go there are English speakers. If not the train staff, the person behind you, or her pal.
-
->
-
 * On departure boards and often on the train itself, they *all* use unique and consistent train numbers to identify every service, so even Cyrillic script needn’t be a issue. This is way more useful than “the 1103 to Exeter St Davids” that Brits talk of. That train number never changes along the route, although a service can have more than one. Really long distance trains often have names as well (composers and authors seem popular).
 
 > "European rail systems are usually way better than Britain's. Once you’ve cracked how the system works, you’re set!"
 
 * In addition to live screens, printed departure tables are very common, listed in time order and showing every calling point. So far as I can tell they’re always on a bright yellow background. Printed arrivals tables are *always* on white. So again, language seldom a problem.
-
->
-
 * Unlike in Britain, platforms are printed on those departure and arrival tables, because they are usually the same every day.
-
->
-
 * Also printed and posted up on platforms at many major stations are guides to the carriage layout of express trains due. They literally tell you where on the platform you should stand.
-
->
-
 * The train operators know about the key connections. Often they just involve walking across a platform to a train already waiting for you. At the very least, the train staff will announce which platform you need before you pull in and will point you in the right direction if you just say “Hamburg???” with enough implied question marks on your face.
 
 ![Picture shows a view of train tracks cutting through tree covered hills.](/images/uploads/cropped-bulgaria.jpg "Bulgaria ")
@@ -60,9 +42,6 @@ While most European rail systems are nothing like Britain’s, they are usually 
 Of course, not everything is easier over the Channel.
 
 * Britain and many countries talk about “platforms” and “tracks” interchangeably. But one platform can have two tracks. Former Eastern Bloc countries often show platform and track numbers to direct you to your train, with one typically in roman numerals. It makes sense once you twig, but Gdansk station had me baffled for a while on my first trip to Poland.
-
->
-
 * Some high speed trains have few doors, perhaps just one per carriage. And they don’t always stop for long, especially if they’re trying to make up time. You, your troop and all your luggage need to be ready to get off. I’ve seen folk whisked from Austria into Hungary when they only boarded to help a friend find a seat.
 
 ### **Pre (non) flight checks**
@@ -86,9 +65,6 @@ Travels turning a bit random can be part of the fun, but a trip unravelling comp
 ![](/images/uploads/google-maps-fail.png "Google’s suggested routes from Copenhagen to Samsø include flying but not the three ferries every day that sail from Kalundborg (Source: Google Maps)")
 
 * Language. The more you speak of the local language, the better, of course. Asking whether someone speaks English in their own tongue lessens the chance of a Gallic shrug and/or them just walking on. And if the answer is no? Your best preparation is to learn please, sorry, thanks and how to pronounce relevant place names. Oh, and smile!
-
->
-
 * Money. Yes, you probably can pay with Visa/Mastercard almost anywhere. But don’t assume so, especially beyond the eurozone/Scandinavia, and outside of major cities. The closest I’ve ever come to disaster was having only euros and some Romanian lei at the Bulgarian border station in Ruse, leaving me desperately hunting for a cash machine to buy a £2 ticket for that day’s last onward train, due to depart in 4 minutes’ time. Yes, I made my train, and the cash machine receipt became a memento in its own right.
 
 ### **Have fun!**
