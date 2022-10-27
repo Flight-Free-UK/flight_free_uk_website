@@ -1,9 +1,9 @@
 ---
-published: true
+published: false
 title: When climate responsibility breaks the heart
 category: opinion
 date: 2019-05-29T14:48:03.591Z
-cover_image: /images/uploads/heartbreak-black-and-white-piggy-back-.jpg
+cover_image: /images/uploads/credit-jayme_elkins-with_many_roots-holiday_in_scotland.jpg
 summary: Claire Thompson's sons live half a world away, in New Zealand. In over
   a decade she has only seen them twice. This is her moving testimonial.
 author: FlightFree UK
