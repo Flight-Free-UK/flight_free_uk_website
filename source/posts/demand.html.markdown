@@ -3,7 +3,7 @@ published: true
 title: The demand myth
 category: opinion
 date: 2020-11-25T09:11:46.856Z
-cover_image: /images/uploads/airport_security.jpg
+cover_image: /images/uploads/credit-jayme_elkins-with_many_roots-holiday_in_scotland.jpg
 summary: Maggie Robertson asks, is demand for flights rising? And what do we
   really demand when it comes to flying?
 author: FlightFree UK
@@ -35,5 +35,3 @@ But what would happen if the price increased? It would make flying less competit
 So is it really flying that we demand? We demand good times with our families and friends. We demand memorable occasions. We demand access to work and education.
 
 #### We have to figure out how we can have all of those things, and also demand a safe and peaceful future, and a good life for our children and grandchildren too.
-
-![group of 4 friends in a line with arms around each other facing away looking at the sun](/images/uploads/demand-for-travel-helena-lopes-pgnqt0rxwls-unsplash.jpg "Photo credit: Helena Lopes on Unsplash")
