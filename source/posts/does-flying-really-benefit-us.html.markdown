@@ -9,13 +9,13 @@ summary: Flight Free UK Director Anna Hughes takes a look at whether our flying
 author: FlightFree UK
 read_time_minute: 3
 ---
-![The picture shows a map spread on a wooden table. Surrounding the map is a mug of coffee, a magnifying glass, a camera and a sunhat. The picture is intended to depict travel planning. ](/images/uploads/travel-planning.jpg)
+
 
 > *"We have a responsibility to keep on flying… there’s a benefit to the world. Flying increases our understanding of other countries and cultures."*  
 
 *~ Roger Bray, travel and aviation journalist.*
 
-### This statement by Roger Bray was made during a BBC Radio 4 interview for the New Year's Solutions in January 2019, looking at whether or not we should keep flying. 
+### This statement by Roger Bray was made during a BBC Radio 4 interview for the New Year's Solutions in January 2019, looking at whether or not we should keep flying.
 
 Mr Bray's argument was a resounding yes: we owe it to the world to keep exploring. Discovering other countries and cultures is vital to the understanding of our fellow man.
 
