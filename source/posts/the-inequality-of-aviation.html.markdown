@@ -3,7 +3,7 @@ published: true
 title: The inequality of aviation
 category: opinion
 date: 2020-09-11T17:55:25.350Z
-cover_image: /images/uploads/unbalanced.png
+cover_image: /images/uploads/trains-not-planes.jpg
 summary: "Air travel is accessed by a tiny proportion of the global population –
   yet the negative effects are felt by us all. "
 author: FlightFree UK
