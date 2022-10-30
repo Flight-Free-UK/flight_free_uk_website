@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Individual action vs system change
 category: opinion
 date: 2020-06-04T14:33:30.781Z
