@@ -3,7 +3,7 @@ published: true
 title: '"I don’t have time!" – a rail and sail journey to Dublin'
 category: travel
 date: 2019-08-14T12:17:22.941Z
-cover_image: /images/uploads/irish-ferries-.jpg
+cover_image: /images/uploads/i-dont-have-time-screenshot.jpg
 summary: >
   Flight Free UK Director Anna Hughes travels to Dublin via train and boat, a
   journey that prompts her to question our relationship with time
