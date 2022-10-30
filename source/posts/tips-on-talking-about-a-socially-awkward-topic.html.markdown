@@ -3,7 +3,7 @@ published: true
 title: Tips on talking about a socially awkward topic
 category: opinion
 date: 2019-01-31T17:15:17.909Z
-cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
+cover_image: /images/uploads/conversation-christin-hume-unsplash.jpg
 summary: It can be difficult to speak to your friends and family about not
   flying when it challenges people’s thoughts and behaviours. Here are some tips
   that might help engage those around you.
