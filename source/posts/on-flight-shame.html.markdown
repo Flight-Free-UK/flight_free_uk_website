@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: On flight shame
 category: opinion
 date: 2022-06-14T09:17:53.668Z
