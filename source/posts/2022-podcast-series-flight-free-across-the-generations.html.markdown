@@ -58,7 +58,7 @@ Having children has a massive impact on the environment so one of my actions is 
 
 I find it quite frustrating and depressing that in this country people in my generation seem to think that, now that they have the luxury of time, they deserve to fly around the world. It is very normalised and the majority of people don’t associate flying with damage to the earth. The media has a huge part to play in what we see as normal. I dread watching quiz shows where contestants describe that they will spend prize money on a flight to somewhere exotic. 
 
-In terms of making changes, information would help people to understand the human and carbon cost of flying. When you are older, train travel does perhaps seem more daunting, and doesn’t seem as easy as flying. However we have had some fantastic holidays since we stopped flying, and there is great joy in the smallest things. 
+In terms of making changes, information would help people to understand the human and carbon cost of flying. When you are older, train travel does perhaps seem more daunting, and doesn’t seem as easy as flying. However, we have had some fantastic holidays since we stopped flying, and there is great joy in the smallest things. 
 
 ### Benjamin
 
@@ -66,7 +66,7 @@ It’s quite hard for children because decisions are often down to your parents 
 
 ### Sarah 
 
-As adults we forget how exciting it is for children to take public forms of transport. It is definitely much less stressful taking the train, you don’t worry about the security checks, and the question of will I get my luggage back? It is very relaxing to watch the world go by out the window, listen to music, play games as a family, and interact with people from the country by learning some of the language. You can have a very different type of holiday which is a much deeper and more meaningful experience. 
+As adults we forget how exciting it is to take public forms of transport. It is definitely much less stressful taking the train, you don’t worry about the security checks, and the question of will I get my luggage back? It is very relaxing to watch the world go by out the window, listen to music, play games as a family, and interact with people from the country by learning some of the language. You can have a very different type of holiday which is a much deeper and more meaningful experience. 
 
 In terms of encouraging others, I think people fear giving things up, but you can have adventure on your doorstep if you seek joy in a smaller, more meaningful way.
 
