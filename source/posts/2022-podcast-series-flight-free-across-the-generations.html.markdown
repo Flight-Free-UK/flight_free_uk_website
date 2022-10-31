@@ -46,7 +46,7 @@ When it comes to not flying, it has only ever felt good. I have never once thoug
 
 ### Benjamin
 
-I use my voice. I did a presentation to the year 5’s in my school about the use of palm oil and the damage it does to the rainforests and habitats. I’ve also made a stop motion video about the use of plastic and I’m going to make more about climate change. For my birthday I asked my friends to donate money towards adopting orangutans instead of giving me presents.
+I use my voice. I did a presentation to the year 5’s in my school about the use of palm oil and the damage it does to the rainforests and habitats. I’ve also made a stop motion video about the use of plastic and I’m going to make more about climate change. For my birthday I asked my friends to donate money towards adopting orangutangs instead of giving me presents.
 
 ### Sarah
 
@@ -70,14 +70,14 @@ As adults we forget how exciting it is for children to take public forms of tran
 
 In terms of encouraging others, I think people fear giving things up, but you can have adventure on your doorstep if you seek joy in a smaller, more meaningful way.
 
-### Destination of the Month.
+### Destination of the Month
 
 We've chosen Rosental in Austria, inspired by Benjamin’s train holiday to Austria. If you are after something closer to home we are also recommending the wonderful city of York as spoken about by Sue. 
 
 Thanks for listening!
 
-Listen to the full episode here \[link to Podbean/hosting site] and find other episodes and previous series here \[link to podcast page on website]
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/2022-series-flight-free-across-the-generations/) and find other episodes and previous series [here](/podcast)*
 
-Credits:
+**Credits:**
 
 Interview conducted and produced by Lou Millington. Voiceover: Lou Millington and Anna Hughes. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes.](https://uppbeat.io/t/sky-toes/pines-and-violet)
