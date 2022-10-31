@@ -26,7 +26,7 @@ According to a study by British Airways, the average youngster takes their first
 
 For a long time I’ve been vegan so I thought that flying was OK, because I was saving on emissions in my diet. Fifteen years ago I realised the damage of flying and decided even one flight a year was too much, so I took the pledge never to fly again. 
 
-When I first held my eldest grandchild in my arms, there was absolute joy and a rush of protective love, but on the other hand there was fear about the world he had been born into. As a grandma I have to do everything I can for my grandchildren but also for the world's children. Particularly children in the global south in the countries that have done the least to contribute to the problem who are suffering first and suffering the most. 
+When I first held my eldest grandchild in my arms, there was absolute joy and a rush of protective love, but on the other hand there was fear about the world he had been born into. As a grandma I have to do everything I can for my grandchildren but also for the world’s children. Particularly children in the global south in the countries that have done the least to contribute to the problem who are suffering first and suffering the most. 
 
 ### Benjamin
 
@@ -56,7 +56,7 @@ Having children has a massive impact on the environment so one of my actions is 
 
 ### Sue
 
-I actually find it quite frustrating and depressing that in this country that people in my generation seem to think that, now that they have the luxury of time, they deserve to fly around the world. It is very normalised and the majority of people don’t associate flying with damage to the earth. The media has a huge part to play in what we see as normal. I dread watching quiz shows where contestants describe that they will spend prize money on a flight to somewhere exotic. 
+I find it quite frustrating and depressing that in this country people in my generation seem to think that, now that they have the luxury of time, they deserve to fly around the world. It is very normalised and the majority of people don’t associate flying with damage to the earth. The media has a huge part to play in what we see as normal. I dread watching quiz shows where contestants describe that they will spend prize money on a flight to somewhere exotic. 
 
 In terms of making changes, information would help people to understand the human and carbon cost of flying. When you are older, train travel does perhaps seem more daunting, and doesn’t seem as easy as flying. However we have had some fantastic holidays since we stopped flying, and there is great joy in the smallest things. 
 
