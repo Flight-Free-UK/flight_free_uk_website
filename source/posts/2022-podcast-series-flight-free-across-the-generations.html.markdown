@@ -10,7 +10,7 @@ summary: An intergenerational conversation between three guests, each giving a
 author: FlightFree UK
 read_time_minute: 5
 ---
-*This is episode 10 of our 2022 podcast series. Listen to the episode here \[link to Podbean/hosting site] and find other episodes and previous series [here](/podcast).*
+*This is episode 10 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-flight-free-across-the-generations/) and find other episodes and previous series [here](/podcast).*
 
 ## In this month's podcast we are exploring different perspectives on reducing flying and taking positive climate actions across the generations.
 
