@@ -1,7 +1,7 @@
 ---
 published: true
 title: "2022 podcast series: Flight free across the generations"
-category: opinion
+category: climate
 date: 2022-10-31T17:06:02.861Z
 cover_image: /images/uploads/oct22podcast_thumbnail_lg.jpg
 summary: An intergenerational conversation between three guests, each giving a
