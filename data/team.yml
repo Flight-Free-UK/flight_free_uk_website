@@ -15,14 +15,6 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
-  - name: Bertie Lloyd
-    role: Social Media
-    bio: Bertie is a recent MSc Environmental Policy and Management graduate
-      currently living in London. Having written his dissertation on the future
-      of air travel sustainability, he is keen to use the experiences gained
-      from this to help engage people with the environmental issues related to
-      flying.
-    photo: /images/uploads/bertie-headshot.jpg
   - name: Emily Smith
     role: Admin
     photo: /images/uploads/emily-headshot.jpg
@@ -45,14 +37,6 @@ members:
       Gemma is passionate about the Flight Free UK campaign and helps us spread
       the word by developing our infographics.
     photo: /images/uploads/gemma.jpg
-  - bio: "After graduating with a Zoology BSc, Izzy is now pursuing a career in
-      natural history filmmaking to bring the wonders of the world to our
-      screens. She hopes to promote alternatives to flying in the film industry
-      and inspire everyone to make even the smallest changes to help protect our
-      planet. "
-    role: Admin
-    name: Izzy Collin
-    photo: /images/uploads/izzy_collin.jpg
   - name: Lou Millington
     role: Podcast
     bio: Based in Liverpool and working in the arts industry, Lou is passionate
@@ -60,22 +44,6 @@ members:
       environmental issues. Her acting and presenting skills are put to great
       use on our podcast team.
     photo: /images/uploads/3808c97e302937e9ded01e8c78e0e22b.jpg
-  - bio: "Now based in Bristol with her family, Maggie has had many managerial roles
-      at universities all over the UK. Her excellent writing skills, together
-      with her passion for environmental issues, climate change communication
-      and carbon footprinting, are put to good use as content generator for the
-      blog. "
-    name: Maggie Robertson
-    photo: /images/uploads/maggie.jpg
-    role: Blog
-  - name: Sophie Davison
-    role: Social Media
-    bio: "Based near Leeds, Sophie is an MSc Psychology graduate, with a particular
-      interest in behaviour change. Running a vintage clothing shop inspired her
-      to help others make sustainable changes. She hopes to use her knowledge of
-      behaviour change and social media to engage people in the #FlightFree2022
-      campaign."
-    photo: /images/uploads/sophie_davison.jpg
   - name: Sunita Soundur
     role: Social Media
     bio: "Engaged with many environmental and social justice issues, Sunita
