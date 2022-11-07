@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: "Destination: Scandinavia"
 category: travel
 date: 2020-10-13T14:42:58.767Z
-cover_image: /images/uploads/northern-lights.jpg
+cover_image: /images/uploads/northern-lights-canva.jpg
 summary: How can we experience the magic of Scandinavia without damaging its
   pristine landscapes and precious tundra? By swapping the plane for the train –
   and here's how.
