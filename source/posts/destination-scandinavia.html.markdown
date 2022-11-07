@@ -46,7 +46,7 @@ When we booked a Hurtigruten sailing trip along the coast of Norway, all the inf
 
 The first hiccup came before we’d even left the house, with our Eurostar from London to Brussels cancelled because of Storm Ciara. Luckily a quick call to P&O got us booked on the ferry from Hull to Rotterdam that evening. The crossing was rather rough but the good cabin and catering made up for it.
 
-![The Norway coastline with clear water and snow on the mountains](/images/uploads/norway-coastline.jpg "Heading for the Norway coastline...")
+![A boat heading along a Norwegian Fjord](/images/uploads/norway-coastline-canva.jpg "A boat heads down a Norwegian Fjord")
 
 Normally the trip from Rotterdam to Hamburg is quite straightforward but the storm was causing disruption here too. A Deutsche Bahn (DB) rail replacement bus was offered as an alternative to a cancelled train at Eindhoven and we arrived in Hamburg only four hours later than scheduled.
 
