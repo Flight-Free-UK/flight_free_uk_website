@@ -4,8 +4,8 @@ title: Should a domestic flight ban be applied in the UK?
 category: opinion
 date: 2020-07-07T15:28:04.939Z
 cover_image: /images/uploads/flight-radar.jpg
-summary: "As France introduces a policy of removing flight routes between some
-  cities linked by rail, we ask if something similar could apply in the UK "
+summary: As France introduces a policy of removing flight routes between some
+  cities linked by rail, we ask if something similar could apply in the UK
 author: FlightFree UK
 read_time_minute: 2
 ---
@@ -15,11 +15,11 @@ read_time_minute: 2
 
 ### According to [UK Government figures](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019), domestic flights generate approximately six times the emissions of National Rail services per passenger km.
 
-At a time when we must make large-scale emissions reductions if we are to limit catastrophic climate change, replacing aviation with rail on shorter journeys has the potential to have a significant impact.
+#### At a time when we must make large-scale emissions reductions if we are to limit catastrophic climate change, replacing aviation with rail on shorter journeys has the potential to have a significant impact.
 
 A﻿ new policy introduced by the French government states that flights should not compete with rail where a connection of less than 2.5 hours exists – approx 550km. We ask, could a similar policy be applied to UK domestic flights?
 
-The UK’s domestic market makes up around 5% of our total aviation emissions, which in turn accounts for about [7% of the UK’s total greenhouse gas emissions](https://www.theccc.org.uk/wp-content/uploads/2019/05/Net-Zero-Technical-report-CCC.pdf) With direct rail connections on two of the most-used flight routes ([London-Edinburgh and London-Glasgow](<https://commonslibrary.parliament.uk/domestic-flights-in-the-uk-where-do-we-fly/>)), switching from air to rail feels like an easy win. 
+The UK’s domestic market makes up around 5% of our total aviation emissions, which in turn accounts for about [7% of the UK’s total greenhouse gas emissions](https://www.theccc.org.uk/wp-content/uploads/2019/05/Net-Zero-Technical-report-CCC.pdf) With direct rail connections on two of the most-used flight routes ([London-Edinburgh and London-Glasgow](https://commonslibrary.parliament.uk/domestic-flights-in-the-uk-where-do-we-fly/)), switching from air to rail feels like an easy win. 
 
 In reality, applying France’s policy directly is unlikely to make much of an impact, with the domestic flight market made up predominantly of routes which take more than 2.5 hours by rail. However, extending the policy could make some meaningful reductions.
 
@@ -37,7 +37,7 @@ Emissions reductions on these routes have the potential to be greater than our d
 
 ### **Alternatives**
 
-Transferring 14 million passengers annually to rail would require significant changes to domestic transport: an expanded rail network, more affordable fares, and increased capacity on existing lines. The Government could go part way to raising the necessary funds by taxing aviation in the same way as other transport forms – a kerosene tax & VAT would raise an [extra £7 billion annually to HMRC](<https://earth.org/aviation-subsidies/>). The lack of tax on aviation fuel effectively gives the industry huge subsidies that keep prices low and encourage growth in an industry that is too mature and too polluting for subsidies at this level to still exist.
+Transferring 14 million passengers annually to rail would require significant changes to domestic transport: an expanded rail network, more affordable fares, and increased capacity on existing lines. The Government could go part way to raising the necessary funds by taxing aviation in the same way as other transport forms – a kerosene tax & VAT would raise an [extra £7 billion annually to HMRC](https://earth.org/aviation-subsidies/). The lack of tax on aviation fuel effectively gives the industry huge subsidies that keep prices low and encourage growth in an industry that is too mature and too polluting for subsidies at this level to still exist.
 
 Domestic flights might seem attractive in terms of journey time, but for short haul flights the travel time can be at least doubled. The fastest London-Amsterdam Eurostar is just under 4 hours, which is very close to the Heathrow-Schipol journey time once transfers and check-in time is accounted for. London-Edinburgh is 4 hrs 20 mins by train, and comparable by air.
 
