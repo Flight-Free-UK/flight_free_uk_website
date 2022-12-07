@@ -4,8 +4,8 @@ title: Should a domestic flight ban be applied in the UK?
 category: opinion
 date: 2020-07-07T15:28:04.939Z
 cover_image: /images/uploads/flight-radar.jpg
-summary: As France introduces a policy of removing flight routes between some
-  cities linked by rail, we ask if something similar could apply in the UK
+summary: "As France introduces a policy of removing flight routes between some
+  cities linked by rail, we ask if something similar could apply in the UK "
 author: FlightFree UK
 read_time_minute: 2
 ---
