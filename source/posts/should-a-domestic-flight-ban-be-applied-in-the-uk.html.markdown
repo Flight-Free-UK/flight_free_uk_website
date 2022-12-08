@@ -45,9 +45,9 @@ But we should also consider travelling less, as it’s unlikely that we could tr
 
 ### W﻿hat can we do?
 
-It’s important to put pressure on the UK government to adopt the forward-looking measures adopted in France (though the France policy stops short of being truly revolutionary, as only three flight routes will be affected). 
+It’s important to put pressure on the UK government to adopt the forward-thinking measures adopted in France (though the France policy stops short of being truly revolutionary, as only three flight routes will be affected). 
 
-B ut as well as lobbying government, we can also show what we want with our own behaviour. Industry and government respond to consumer habits, which is where our own travel choices hold a lot of power.
+But as well as lobbying government, we can also show what we want with our own behaviour. Industry and government respond to consumer habits, which is where our own travel choices hold a lot of power.
 
 Our advice is to commit to not flying domestically, and instead looking at alternative means of travel including sleeper trains and ferries. Travelling without flying within the UK can be a great experience, even on routes not served by a single train.
 
