@@ -9,7 +9,7 @@ summary: As France introduces a policy of removing flight routes between some
 author: FlightFree UK
 read_time_minute: 2
 ---
-*This article was updated in December 2022 following the news that [France’s policy to remove flights](https://www.telegraph.co.uk/world-news/2022/12/04/france-ban-short-haul-domestic-flights-rail-alternative-approved/) on three routes with rail connections would become law. It was written in collaboration with Tom Smallwood, an environmentalist (MSc) who researches and writes about how to address our high emissions, whose original article can be found on [Medium.com](https://medium.com/@tomsmallwoodenv/building-on-frances-aviation-bailout-to-reduce-the-uk-s-domestic-short-haul-flight-emissions-5839f0e075fa)*
+*This article was updated in December 2022 following the news that [France’s policy to remove flights](https://www.telegraph.co.uk/world-news/2022/12/04/france-ban-short-haul-domestic-flights-rail-alternative-approved/) on three routes with rail connections would become law. It was written in collaboration with Tom Smallwood (MSc), whose original article can be found on [Medium.com](https://medium.com/@tomsmallwoodenv/building-on-frances-aviation-bailout-to-reduce-the-uk-s-domestic-short-haul-flight-emissions-5839f0e075fa)*
 
 ![Flight radar image showing flights across UK](/images/uploads/flight-radar.jpg "Flight radar image showing flights across UK")
 
