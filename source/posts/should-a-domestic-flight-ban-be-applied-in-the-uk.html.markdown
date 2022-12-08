@@ -19,7 +19,7 @@ read_time_minute: 2
 
 A﻿ new policy introduced by the French government states that flights should not compete with rail where a connection of less than 2.5 hours exists – approx 550km. We ask, could a similar policy be applied to UK domestic flights?
 
-The UK’s domestic market makes up around 5% of our total aviation emissions, which in turn accounts for about [7% of the UK’s total greenhouse gas emissions](https://www.theccc.org.uk/wp-content/uploads/2019/05/Net-Zero-Technical-report-CCC.pdf) With direct rail connections on two of the most-used flight routes ([London-Edinburgh and London-Glasgow](https://commonslibrary.parliament.uk/domestic-flights-in-the-uk-where-do-we-fly/)), switching from air to rail feels like an easy win. 
+The UK’s domestic market makes up around 5% of our total aviation emissions, which in turn accounts for about [7% of the UK’s total greenhouse gas emissions](https://www.theccc.org.uk/wp-content/uploads/2019/05/Net-Zero-Technical-report-CCC.pdf). With direct rail connections on two of the most-used flight routes ([London-Edinburgh and London-Glasgow](https://commonslibrary.parliament.uk/domestic-flights-in-the-uk-where-do-we-fly/)), switching from air to rail feels like an easy win. 
 
 In reality, applying France’s policy directly is unlikely to make much of an impact, with the domestic flight market made up predominantly of routes which take more than 2.5 hours by rail. However, extending the policy could make some meaningful reductions.
 
