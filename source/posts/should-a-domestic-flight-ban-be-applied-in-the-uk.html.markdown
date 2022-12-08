@@ -49,7 +49,7 @@ It’s important to put pressure on the UK government to adopt the forward-think
 
 But as well as lobbying government, we can also show what we want with our own behaviour. Industry and government respond to consumer habits, which is where our own travel choices hold a lot of power.
 
-Our advice is to commit to not flying domestically, and instead looking at alternative means of travel including sleeper trains and ferries. Travelling without flying within the UK can be a great experience, even on routes not served by a single train.
+Our advice is to commit to not flying domestically, and instead look at alternative means of travel including sleeper trains and ferries. Travelling without flying within the UK can be a great experience, even on routes not served by a single train.
 
 The UK, as a historically and [disproportionately large emitter](https://ourworldindata.org/contributed-most-global-co2), has a responsibility to lead from the front. We need political will to meet our net zero targets, and we need to not be content with doing ‘just enough’ to hit 2°C. 
 
