@@ -27,7 +27,7 @@ In reality, applying France’s policy directly is unlikely to make much of an i
 
 Domestic flight routes between London and Leeds (310km), Newcastle (450km), Manchester (305km), Glasgow (660km) and Edinburgh (650km) [account for over 14 million passengers annually](https://www.caa.co.uk/Data-and-analysis/UK-aviation-market/Airports/Datasets/UK-Airport-data/Airport-data-2018/). The London-Edinburgh route is the busiest on the UK mainland, and the fourth-busiest flight route in Europe.
 
-T﻿he potential for carbon savings is huge: a one-way trip from London to Edinburgh by train produces just 34kg carbon dioxide equivalent (CO2e) per passenger as opposed to 124kg CO2e by plane. That’s a [72% reduction](www.raileurope.com) – the kind of meaningful reduction we should be looking at in our response to the climate emergency.
+T﻿he potential for carbon savings is huge: a one-way trip from London to Edinburgh by train produces just 34kg carbon dioxide equivalent (CO2e) per passenger as opposed to 124kg CO2e by plane. That’s a [72% reduction](https://www.raileurope.com/) – the kind of meaningful reduction we should be looking at in our response to the climate emergency.
 
 ### Applying the policy to international travel
 
