@@ -28,7 +28,7 @@ module.exports = {
         "text-gray-light": "#99adc1",
       },
       fontFamily: {
-        body: ["Quicksand", "sans-serif"],
+        body: ["Kollektif", "sans-serif"],
         blog: ["Helvetica", "Arial", "sans-serif"]
       },
       width: {

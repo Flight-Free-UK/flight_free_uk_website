@@ -4,6 +4,12 @@
 
 @tailwind utilities;
 
+@font-face {
+	font-family: "Kollektif";
+	src: url("/fonts/Kollektif.woff2") format("woff2"), url("/fonts/Kollektif.woff") format("woff");
+    font-display: swap;
+}
+
 /* Default 'normal' font weight for Chrome and Firefox is 400 but we were loading 300 and are now loading 500... */
 html {
 	font-weight: 500;
