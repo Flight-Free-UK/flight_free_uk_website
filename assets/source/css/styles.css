@@ -44,6 +44,10 @@ strong {
 	background-color: #204f7f;
 }
 
+#main-header a.svg:hover path {
+	fill: #f7b38a;
+}
+
 .faq-question h3 {
 	background-size: 2rem;
 	min-height: 2rem;
