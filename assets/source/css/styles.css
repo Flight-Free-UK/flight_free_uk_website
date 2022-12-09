@@ -30,7 +30,7 @@ strong {
 }
 
 #main-header.menu-active {
-	@apply fixed top-0 bottom-0 left-0 right-0;
+	@apply fixed top-0 bottom-0 left-0 right-0 p-2;
 	width: 100vw;
 	height: 100vh;
 	background-color: #204f7f;
@@ -49,8 +49,30 @@ strong {
 	@apply w-full mt-16 justify-center;
 }
 
+#main-header .logo svg {
+	width: auto;
+	height: 40px;
+}
+@media (min-width: 768px) {
+	#main-header .logo svg {
+		height: 62px;
+	}
+}
+
 #main-header a.svg:hover path {
 	fill: #f7b38a;
+}
+
+svg.arrow-curled {
+	width: auto;
+	height: 65px;
+	transform: rotate(10deg);
+}
+@media (min-width: 768px) {
+	svg.arrow-curled {
+		height: 130px;
+		transform: none;
+	}
 }
 
 .faq-question h3 {
