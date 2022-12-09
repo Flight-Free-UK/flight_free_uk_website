@@ -51,6 +51,9 @@ module.exports = {
           "3": "3rem",
           "160": "160px"
       },
+      marginTop: {
+        "14": "3.5rem"
+      },
       spacing: {
           "16-9": "56.25%",
           "square": "100%"

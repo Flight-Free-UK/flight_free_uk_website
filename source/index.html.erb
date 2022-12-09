@@ -3,7 +3,7 @@ layout: base
 title: Flight Free UK
 ---
 
-<section class="text-white bg-cover bg-right-top p-4 sm:p-0 sm:pb-12" style="background-image: url(/images/pexels-tobias-bjorkli-1559821-blue-1440x810.webp)">
+<section class="introduction text-white bg-cover bg-right-top p-4 sm:p-0 sm:pb-12" style="background-image: url(/images/pexels-tobias-bjorkli-1559821-blue-1440x810.webp)">
   <div class="container mx-auto">
     <%= partial "header" %>
     <section class="section--introduction mx-2 sm:mx-8 xl:mx-24 xxl:mx-40">
@@ -16,58 +16,19 @@ title: Flight Free UK
   </div>
 </section>
 
-<section class="bg-blue section--why-flight-free">
-    <section class="px-4 sm:px-8 xxl:px-24 mb-8 xl:mb-16 section--testimonials">
-        <h2 class="text-xl md:text-2xl xl:text-4xl leading-tight mb-8 xl:mb-10 xl:ml-6 xl:pt-4 xl:pb-2 pl-24 md:pl-16 xl:pl-32 bg-no-repeat bg-contain" style="background-image: url(/images/quotes-orange.png)">We are taking a flight free year...</h2>
-        <div class="md:flex md:justify-between md:items-stretch">
-        <% data.testimonials.values.sort_by(&:date).first(4).each do | testimonial | %>
-            <%= partial(:home_testimonial, :locals => { :name => testimonial.title, :url => testimonial.url, :cover_image => testimonial.cover_image, :quote => testimonial.quote }) %>
-        <% end %>
-        </div>
-        <p>
-            <% link_to "/blog/categories/testimonials/", class: "block text-right flex justify-end items-center text-lg xl:text-2xl text-orange py-1" do %>
-              Read all testimonials <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2" />
-            <% end %>
-        </p>
-    </section>
-
-    <section class="lg:flex px-4 sm:px-8 xxl:px-24 section--pledge">
-      <div class="lg:w-1/2 xl:w-2/3 xl:pl-2 xs:text-center lg:text-left">
-        <h2 class="text-3xl xl:text-5xl leading-tight mb-4 xs:mb-6 sm:mb-10">Pledge to be flight free in 2022</h2>
-        <p class="text-xl xl:text-3xl leading-tight lg:w-5/6 mb-4 xs:mb-6 sm:mb-12">and join the growing number of people choosing not to fly because of the climate crisis</p>
-
-        <div class="pledge-progress__container lg:flex mb-2">
-          <div class="w-full lg:w-5/6">
-
-<%# start pledge progress bar %>
-<%= partial "progress_bar" %>
-<%# end progress bar %>
-
-          </div>
-          <div class="hidden lg:inline-block lg:w-1/6">
-            <p class="text-2xl leading-tight pl-3 py-2">5k</p>
-          </div>
-        </div>
-
-        <p class="text-2xl lg:text-4xl mb-4 lg:mb-16">Help us reach 5,000!</p>
-
-        <div class="flex flex-wrap lg:flex-no-wrap justify-center lg:justify-start xl:justify-between items-center w-full xl:w-5/6 mb-2 xl:mb-8">
-          <h2 class="text-2xl lg:text-3xl xl:text-4xl mr-2 xl:mr-4 mb-2">#FlightFree2022</h2>
-          <div class="w-full flex justify-evenly xs:justify-center lg:justify-end">
-            <%= link_to "", "https://twitter.com/intent/tweet", query: { text: data.social_media.share.text, url: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 mx-4 lg:mr-0 xl:ml-12 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/twitter.svg);background-size:60%", target: "_blank" %>
-            <a href="https://instagram.com/<%= data.social_media.instagram %>" class="w-12 h-12 xl:w-16 xl:h-16 mx-4 lg:mr-0 xl:ml-12 bg-white bg-no-repeat bg-center rounded-full" style="background-image:url(/images/instagram.png);background-size:60%" target="_blank"></a>
-            <%= link_to "", "https://www.facebook.com/sharer/sharer.php", query: { u: data.social_media.share.url }, class: "w-12 h-12 xl:w-16 xl:h-16 mx-4 lg:mr-0 xl:ml-12 bg-white bg-no-repeat bg-center rounded-full", style: "background-image:url(/svg/facebook.svg);background-size:30%", target: "_blank" %>
-          </div>
-        </div>
-      </div>
-      <div class="w-full sm:w-1/2 lg:w-1/3 mx-auto xl:w-1/3 xl:mx-0">
-
-<%# start pledge form %>
-<%= partial "pledge_form", locals: { id: "home" } %>
-<%# end pledge form %>
-
-      </div>
-    </section>
+<section class="section--how bg-blue">
+  <div class="container mx-auto xl:px-16">
+    <h2 class="text-white text-4xl lg:text-5xl py-8 text-center">How?</h2>
+    <div class="md:flex md:justify-between md:items-stretch">
+      <% data.how_cards.values.first(3).each do | howto | %>
+          <%= partial(:home_howto, :locals => { :name => howto.title, :url => howto.url, :cover_image => howto.cover_image }) %>
+      <% end %>
+    </div>
+    <p>
+      <% link_to "/how-to/", class: "block text-right flex justify-end items-center text-lg xl:text-2xl text-orange py-1" do %>
+        Read all testimonials <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2" />
+      <% end %>
+    </p>
 </section>
 
 <section class="bg-blue section--why-flight-free">

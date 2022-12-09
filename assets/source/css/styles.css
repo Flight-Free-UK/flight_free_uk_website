@@ -75,6 +75,21 @@ svg.arrow-curled {
 	}
 }
 
+.left-half {
+	left: 50%;
+}
+
+.section--how--card > * {
+	max-width: 284px
+}
+
+.pin {
+	position: absolute;
+	top: -2rem;
+	left: 50%;
+	margin-left: -14px;
+}
+
 .faq-question h3 {
 	background-size: 2rem;
 	min-height: 2rem;
