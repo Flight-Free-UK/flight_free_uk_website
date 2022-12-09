@@ -30,6 +30,9 @@ strong {
 }
 
 #main-header.menu-active {
+	@apply fixed top-0 bottom-0 left-0 right-0;
+	width: 100vw;
+	height: 100vh;
 	background-color: #204f7f;
 }
 
@@ -37,11 +40,13 @@ strong {
 	background-image: url(/svg/menu_close_icon.svg);
 }
 
-#main-header.menu-active nav {
-	@apply absolute left-0 right-0;
+#main-header.menu-active nav,
+#main-header.menu-active .social-links {
 	@apply flex;
-	top: 6rem;
-	background-color: #204f7f;
+}
+
+#main-header.menu-active .social-links {
+	@apply w-full mt-16 justify-center;
 }
 
 #main-header a.svg:hover path {

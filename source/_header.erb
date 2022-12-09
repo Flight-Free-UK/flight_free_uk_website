@@ -1,27 +1,29 @@
-<header id="main-header" class="relative z-10 p-16">
-  <div class="flex flex-wrap justify-between mb-8">
+<header id="main-header" class="relative z-10 p-2 xl:p-16">
+  <div class="flex flex-wrap justify-between">
     <div class="w-1/2 flex-1 flex items-center">
       <a href="/">
         <%= partial "svg/logo.svg" %>
       </a>
     </div>
-    <div class="w-1/2 flex-1 flex justify-end items-center">
-        <nav class="flex flex-wrap justify-end items-center">
-          <a href="https://twitter.com/<%= data.social_media.twitter %>" class="svg w-10 h-10 flex justify-center" target="_blank">
-            <%= partial "svg/twitter_rounded_square.svg" %>
-          </a>
-          <a href="https://instagram.com/<%= data.social_media.instagram %>" class="svg w-10 h-10 flex items-center justify-center ml-2" target="_blank">
-            <%= partial "svg/instagram.svg" %>
-          </a>
-          <a href="https://facebook.com/<%= data.social_media.facebook %>" class="svg w-10 h-10 flex justify-center ml-2 mr-8" target="_blank">
-            <%= partial "svg/facebook_rounded_square.svg" %>
-          </a>
-          <a href="https://donorbox.org/donate-to-flight-free-uk" class="custom-dbox-popup w-full xl:w-auto px-8 py-2 border-2 border-orange rounded-xl bg-orange hover:bg-blue-dark text-white text-xl leading-tight">DONATE</a>
-        </nav>
+    <div class="xl:hidden w-1/2 flex-1 flex justify-end items-center">
+      <a href="#" id="menu-toggle" class="self-center bg-no-repeat bg-center w-10 h-10" onclick="document.getElementById('main-header').classList.toggle('menu-active')"></a>
+    </div>
+    <div class="social-links hidden w-0 flex-0 flex justify-end items-center">
+      <nav class="xl:flex flex-wrap justify-end items-center">
+        <a href="https://twitter.com/<%= data.social_media.twitter %>" class="svg w-10 h-10 flex justify-center" target="_blank">
+          <%= partial "svg/twitter_rounded_square.svg" %>
+        </a>
+        <a href="https://instagram.com/<%= data.social_media.instagram %>" class="svg w-10 h-10 flex items-center justify-center ml-2" target="_blank">
+          <%= partial "svg/instagram.svg" %>
+        </a>
+        <a href="https://facebook.com/<%= data.social_media.facebook %>" class="svg w-10 h-10 flex justify-center ml-2 mr-8" target="_blank">
+          <%= partial "svg/facebook_rounded_square.svg" %>
+        </a>
+        <a href="https://donorbox.org/donate-to-flight-free-uk" class="custom-dbox-popup w-auto px-8 py-2 border-2 border-orange rounded-xl bg-orange hover:bg-blue-dark text-white text-xl leading-tight">DONATE</a>
+      </nav>
     </div>
   </div>
   <div class="flex flex-wrap justify-end">
-    <a href="#" id="menu-toggle" class="xl:hidden self-center bg-no-repeat bg-center w-10 h-10" onclick="document.getElementById('main-header').classList.toggle('menu-active')"></a>
     <nav class="hidden xl:flex flex-wrap w-full xl:w-3/5 items-center justify-between text-2xl text-center px-6 xl:px-0 pt-10 xl:pt-0 pb-6 xl:pb-0">
     <% {
          "why_flight_free" => "Why flight free?",
