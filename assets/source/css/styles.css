@@ -82,6 +82,16 @@ svg.arrow-curled {
 .section--how--card > * {
 	max-width: 284px
 }
+@media (min-width: 768px) {
+	.section--how--card > * {
+		max-width: 190px
+	}
+}
+@media (min-width: 1024px) {
+	.section--how--card > * {
+		max-width: 284px
+	}
+}
 
 .pin {
 	position: absolute;
