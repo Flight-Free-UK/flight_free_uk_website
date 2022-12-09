@@ -1,5 +1,5 @@
-<header id="main-header" class="relative z-10 p-2 xl:p-16">
-  <div class="flex flex-wrap justify-between">
+<header id="main-header" class="relative z-10 py-2 xl:py-16 xl:px-6">
+  <div class="flex flex-wrap justify-between xl:mb-8">
     <div class="w-1/2 flex-1 flex items-center">
       <a href="/">
         <%= partial "svg/logo.svg" %>
@@ -8,30 +8,30 @@
     <div class="xl:hidden w-1/2 flex-1 flex justify-end items-center">
       <a href="#" id="menu-toggle" class="self-center bg-no-repeat bg-center w-10 h-10" onclick="document.getElementById('main-header').classList.toggle('menu-active')"></a>
     </div>
-    <div class="social-links hidden w-0 flex-0 flex justify-end items-center">
+    <div class="social-links hidden w-0 xl:flex xl:w-1/2 flex-0 flex justify-end items-center">
       <nav class="xl:flex flex-wrap justify-end items-center">
-        <a href="https://twitter.com/<%= data.social_media.twitter %>" class="svg w-10 h-10 flex justify-center" target="_blank">
+        <a href="https://twitter.com/<%= data.social_media.twitter %>" class="svg w-12 h-12 flex justify-center" target="_blank">
           <%= partial "svg/twitter_rounded_square.svg" %>
         </a>
-        <a href="https://instagram.com/<%= data.social_media.instagram %>" class="svg w-10 h-10 flex items-center justify-center ml-2" target="_blank">
+        <a href="https://instagram.com/<%= data.social_media.instagram %>" class="svg w-12 h-12 flex items-center justify-center ml-2" target="_blank">
           <%= partial "svg/instagram.svg" %>
         </a>
-        <a href="https://facebook.com/<%= data.social_media.facebook %>" class="svg w-10 h-10 flex justify-center ml-2 mr-8" target="_blank">
+        <a href="https://facebook.com/<%= data.social_media.facebook %>" class="svg w-12 h-12 flex justify-center ml-2 mr-6" target="_blank">
           <%= partial "svg/facebook_rounded_square.svg" %>
         </a>
-        <a href="https://donorbox.org/donate-to-flight-free-uk" class="custom-dbox-popup w-auto px-8 py-2 border-2 border-orange rounded-xl bg-orange hover:bg-blue-dark text-white text-xl leading-tight">DONATE</a>
+        <a href="https://donorbox.org/donate-to-flight-free-uk" class="custom-dbox-popup w-auto px-8 py-2 border-2 border-orange rounded-xl bg-orange hover:bg-blue-dark text-white text-2xl leading-tight">DONATE</a>
       </nav>
     </div>
   </div>
   <div class="flex flex-wrap justify-end">
-    <nav class="hidden xl:flex flex-wrap w-full xl:w-3/5 items-center justify-between text-2xl text-center px-6 xl:px-0 pt-10 xl:pt-0 pb-6 xl:pb-0">
+    <nav class="hidden xl:flex flex-wrap w-full xl:w-3/5 items-center justify-between px-6 xl:px-0 pt-10 xl:pt-0 pb-6 xl:pb-0 text-2xl text-center tracking-wide">
     <% {
          "why_flight_free" => "Why flight free?",
          "how_to" => "How to",
          "about" => "About",
          "articles" => "Articles",
          "podcast" => "Podcast",
-         "faq" => "FAQs"
+         "faq" => "FAQ"
        }.each do |path, name| %>
        <% current = "#{path}.html" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("posts") && "be_inspired" == path ) %>
        <%= link_to name, "/#{path}.html", class: "w-full xl:w-auto mb-8 xl:mb-0 #{current ? "xl:border-b-2 border-orange" : nil}hover:text-orange" %>
