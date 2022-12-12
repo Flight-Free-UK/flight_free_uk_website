@@ -1,6 +1,6 @@
 ---
 published: false
-title: "#FlightFree2020 podcast episode 7: behaviour change"
+title: "2020 podcast episode 7: behaviour change"
 category: opinion
 date: 2020-07-28T14:15:05.083Z
 cover_image: /images/uploads/lego-figure-in-crowd.jpg
