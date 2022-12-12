@@ -37,7 +37,7 @@ I used to see my writing as keyboard activism but in the last few years I’ve k
 
 And YES, I think that public awareness of the climate crisis has grown enormously since last Oct/Nov when Greta Thunberg, who’s vegan and doesn’t fly of course, began her climate strike and the IPCC report followed. When she spoke to Davos, she was the only speaker who didn’t fly there. Now the kids’ climate strike has actually made the news. I think this year will be the turning point as more and more people not only change the way they live but demand radical change from governments. I am – sometimes – hopeful. 
 
-### **What would you say to people who are considering signing the** **[pledge](https://www.flightfree.co.uk/pledge)** **not to fly in 2020?**
+### **What would you say to people who are considering signing the** **[pledge](https://www.flightfree.co.uk/pledge)** to take a flight free year**?**
 
 I’d say it’s not a loss or a sacrifice but a gift to the children of the future. That there are other ways to make a difference by reducing our carbon footprints. That it’s a necessary choice. But also that I’m lucky because I don’t have family abroad, and that love miles are different, so I’m not smug and I’m not pointing the finger at anyone whose circumstances are more complex than mine.
 
