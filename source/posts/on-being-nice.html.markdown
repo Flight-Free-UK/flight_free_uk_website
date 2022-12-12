@@ -9,23 +9,23 @@ summary: It’s hard to talk to your friends about climate change. But it’s re
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Image shows a man a a woman talking and drinking coffee](/images/uploads/conversation-christin-hume-unsplash.jpg "Photo credit: Christin Hume on Unsplash")
+![Image shows a man and a woman talking and drinking coffee](/images/uploads/conversation-christin-hume-unsplash.jpg "Photo credit: Christin Hume on Unsplash")
 
-## Policy makers, scientists and campaigners agree: one of the best things you can do to prevent dangerous climate change is to talk to your friends about it.
+## Policy makers, scientists and campaigners agree: one of the best things you can do to prevent dangerous climate change is talk to your friends about it.
 
 #### But how do you talk to your friends about climate change, and, in particular, not flying, while keeping them as friends?
 
-Maja Rosen, the founder of the Flight Free movement in Sweden, has written a [guide](/downloads/WeNeedToTalkAboutAviation_short_version.pdf) based on her experiences of having climate conversations, and her number one rule is, Be Nice. 
+Maja Rosén, the founder of the Flight Free movement in Sweden, has written a [guide](/downloads/WeNeedToTalkAboutAviation_short_version.pdf) based on her experiences of having climate conversations, and her number one rule is, Be Nice. 
 
 ### Stay cool, be nice
 
-First of all, staying cool is important for your own well being. You won’t always convince people to stop flying the first time you talk to them. In fact, if you ask people to pledge to be flight free, far more people say no than say yes, at least at first. You need to be prepared to be rejected without getting your feelings hurt. 
+First of all, staying cool is important for your own well being. You won’t always convince people to stop flying the first time you talk to them. You need to be prepared to be rejected without getting your feelings hurt. 
 
 > "You need to be prepared to be rejected without getting your feelings hurt."
 
-But also, people might change their mind after thinking about it and finding out more. You want to keep the conversation open for the future. If you shout at your friends they probably won’t want to talk about climate change with you again. Plus, you want them to feel that non-flyers are a pleasant group of people, otherwise, they won't want to join us. 
+But people might change their mind after thinking about it and finding out more. You want to keep the conversation open for the future. It's easy to become frustrated when people don't see things in the same way as you, but if you get annoyed at your friends they probably won’t want to talk about climate change with you again. After all, we want people to know that non-flyers are nice people, otherwise they won't want to get involved.
 
-So how do you stay nice? No two conversations go the same way, but the Flight Free UK team has put their heads together and come up with a few tips.
+So how do you stay nice? No two conversations go the same way, but here are our top tips:
 
 ### Look for the right opportunity
 
