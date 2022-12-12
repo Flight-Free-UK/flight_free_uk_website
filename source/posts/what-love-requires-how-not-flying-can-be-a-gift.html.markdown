@@ -11,8 +11,6 @@ read_time_minute: 4
 ---
 Sue Hampton has more than 30 books to her name, and is currently publishing new novella '*For Life*' in weekly instalments on [her website](https://www.suehamptonauthor.co.uk/). Her works are for both children and adults, and incorporate well-developed characters with a social and environmental narrative. Sue is a trustee for People not Borders, supporting refugees, and an activist with Campaign Against the Arms Trade. She is also an ambassador for Alopecia UK.
 
-![Picture of Sue Hampton, she's wearing pink and blue earrings and a white lace top. She is smiling and sat in front of a blurred white background. ](/images/uploads/sue-small-pic-.jpeg "Credit: Mikaela Morgan photography")
-
 ### **Tell us a bit about your past travel habits.**
 
 Because my parents never flew (or drove) I didn’t fly until I began working as a teacher and took a holiday in Corfu. After that I didn’t fly again until my thirties, when family holidays with my children ‘progressed’ beyond Scarborough and Devon and began to mean hot resorts with white beaches. In spite of the values I’d been raised with, it seemed quite normal, and I can’t say I protested much if at all.
