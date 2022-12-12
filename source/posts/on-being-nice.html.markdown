@@ -39,23 +39,27 @@ Look for the right opportunity. If they bring the subject up, great! If not, per
 
 ### "What can I do?"
 
-Many people’s top question about climate change is ‘What can I do?’ Choosing not to fly is a great place to start, but, if your friend isn’t ready to do that yet, you could suggest other actions that they find easier.  Writing to their MP, joining a campaign, eating less meat, or leaving the car at home (if they have one) are all good contributions. Take one step and the next one will seem easier.
+Many people’s top question about climate change is ‘What can I do?’ Choosing not to fly is a great place to start, but, if your friend isn’t ready to do that yet, you could suggest other actions that they find easier.  
+
+Writing to their MP, joining a campaign, eating less meat, or leaving the car at home are all good contributions. Take one step and the next one will seem easier.
 
 ### Appeal to their values
 
-Appeal to their values. Not everyone likes moral or ethical arguments. Some people like to make their own minds up. If that’s the case, you could give them the data they need. Ask your friend about their last flight, and show them how to look up the carbon emissions per passenger for that journey. Two useful numbers to remember: [emissions need to be cut in half in the next ten years](https://twitter.com/JoeriRogelj/status/1389221782272491524?s=20), and in [2018 passenger aviation was 7% of UK carbon emissions](https://www.theccc.org.uk/wp-content/uploads/2020/12/Sector-summary-Aviation.pdf). 
+Appeal to their values. Not everyone likes moral or ethical arguments. Some people like to make their own minds up. If that’s the case, you could give them the data they need. Ask your friend about their last flight, and show them how to look up the carbon emissions per passenger for that journey. 
+
+Two useful numbers to remember: [emissions need to be cut in half in the next ten years](https://twitter.com/JoeriRogelj/status/1389221782272491524?s=20), and in [2018 passenger aviation was 7% of UK carbon emissions](https://www.theccc.org.uk/wp-content/uploads/2020/12/Sector-summary-Aviation.pdf). 
 
 ### Every choice matters
 
-Changing our habits and behaviour is hard, and being made to feel guilty or shamed by others doesn’t help. It’s so easy to feel that the climate crisis is out of our control. Support your friend to feel empowered to make the right choices where they can – like where they go on holiday. Scientists agree: every choice matters. 
+Changing our habits and behaviour is hard, and being made to feel guilty or shamed by others doesn’t help. It’s so easy to feel that the climate crisis is out of our control. Support your friend to feel empowered to make impactful choices where they can – like where they go on holiday. Scientists agree: every choice matters. 
 
-> "Changing our habits and behaviour is hard. Support your friend to feel empowered to make the right choices."
+> "Changing our habits and behaviour is hard. Support your friend to feel empowered to make impactful choices."
 
 ![Image shows two women sitting beside a table talking.](/images/uploads/conversation-christina-wocintechchat-unsplash.jpg "Photo credit: Christina Wocintechchat on Unsplash")
 
 ### Don't argue
 
-Avoid getting drawn into an argument on their terms. If they try to make it a conversation about billionaires, population control, or China, you could try just calmly repeating your main point, such as ‘Emissions need to halve in ten years, and we all have a part to play.’ And then talk about something else.
+Avoid getting drawn into an argument. If your friend tries to turn the conversation towards billionaires, population control, or China, you could try calmly repeating your main point, such as ‘Emissions need to halve in ten years, and we all have a part to play.’ And then talk about something else. 
 
 ### Be inspiring
 
