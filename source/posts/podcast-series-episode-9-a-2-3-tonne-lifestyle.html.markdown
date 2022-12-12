@@ -1,6 +1,6 @@
 ---
 published: true
-title: "#FlightFree2020 podcast episode 9: a 2.3 tonne lifestyle"
+title: "2020 podcast episode 9: a 2.3 tonne lifestyle"
 category: climate
 date: 2020-09-24T13:57:38.776Z
 cover_image: /images/uploads/emilyspeaking-square.jpeg
