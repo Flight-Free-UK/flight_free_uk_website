@@ -3,7 +3,7 @@ layout: base
 title: Flight Free UK
 ---
 
-<section class="introduction text-white bg-cover bg-right-top p-4 sm:p-0 sm:pb-12" style="background-image: url(/images/pexels-tobias-bjorkli-1559821-blue-1440x810.jpg)">
+<section class="introduction text-white bg-blue bg-cover bg-right-top p-4 sm:p-0 sm:pb-12" style="background-image: url(/images/pexels-tobias-bjorkli-1559821-blue-1440x810.jpg)">
   <div class="container mx-auto">
     <%= partial "header" %>
     <section class="section--introduction mx-2 sm:mx-8 xl:mx-24 xxl:mx-40">
@@ -35,17 +35,38 @@ title: Flight Free UK
   <div class="container mx-auto px-2 lg:px-16 pt-12 pb-8">
     <h2 class="text-4xl lg:text-5xl font-bold text-center">Why?</h2>
   </div>
-  <div class="container mx-auto lg:flex items-center px-2 sm:px-8 lg:px-16 xxl:px-20 pb-8 sm:pb-16 xl:pb-24">
-    <div class="lg:w-1/2 mb-10 xl:mb-0 pl-4">
-      <img src="/images/Why-to_inspire_social_change-426x426.jpg" alt="The flight free pledge" />
+  <div class="container mx-auto lg:flex justify-center items-center px-2 sm:px-8 lg:px-16 pb-8 sm:pb-16 xl:pb-24">
+    <div id="why-images" class="mb-10 xl:mb-0 lg:pr-16">
+      <img src="/images/Why-for_the_climate-426x426.jpg" alt="Image for the climate" id="why-image-1" />
+      <img src="/images/Why-to_inspire_social_change-426x426.jpg" alt="Image to inspire social change" id="why-image-2" style="display:none;" />
+      <img src="/images/Why-to_influence_system_change-426x426.jpg" alt="Image to influence system change" id="why-image-3" style="display:none;" />
     </div>
-    <div class="lg:w-1/2 mb-4 xl:mb-6 pr-4 text-xl lg:text-4xl">
+    <div class="mb-4 xl:mb-6 lg:pl-8 lg:pr-8 text-xl lg:text-4xl">
       <ul class="leading-tight">
-        <li class="py-4"><%= partial "svg/dot_pink.svg" %><a href="javascript:void();" class="inline-block ml-4 text-blue-dark hover:text-orange border-b-8 border-white hover:border-orange">For the climate</a></li>
-        <li class="py-4"><%= partial "svg/dot_pink.svg" %><a href="javascript:void();" class="inline-block ml-4 text-blue-dark hover:text-orange border-b-8 border-white hover:border-orange">To inspire social change</a></li>
-        <li class="py-4"><%= partial "svg/dot_pink.svg" %><a href="javascript:void();" class="inline-block ml-4 text-blue-dark hover:text-orange border-b-8 border-white hover:border-orange">To influence system change</a></li>
+        <li class="py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-1" class="inline-block ml-4 text-blue-dark hover:text-orange border-b-8 border-white hover:border-orange">For the climate</a></li>
+        <li class="py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-2" class="inline-block ml-4 text-blue-dark hover:text-orange border-b-8 border-white hover:border-orange">To inspire social change</a></li>
+        <li class="py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-3" class="inline-block ml-4 text-blue-dark hover:text-orange border-b-8 border-white hover:border-orange">To influence system change</a></li>
       </ul>
     </div>
+    <script>
+      var number_of_images = 3;
+      function why_image_swap(button) {
+        var imageId = button.id.replace("button", "image");
+        var image = document.getElementById(imageId);
+        if ( image != 'undefined' && image != null ) {
+          for ( var j = 0; j < number_of_images; j++ ) {
+            document.getElementById("why-images").children[j].style.display = "none";
+          }
+          image.style.display = "inline-block";
+        }
+      }
+      for ( var i = 1; i < number_of_images + 1; i++ ) {
+        document.getElementById("why-button-"+i.toString()).addEventListener('click', function(e){
+          e.preventDefault();
+          why_image_swap(this);
+        });
+      }
+    </script>
   </div>
   <div class="container mx-auto px-2 lg:px-16">
     <p>
