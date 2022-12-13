@@ -49,6 +49,11 @@ strong {
 	@apply w-full mt-16 justify-center;
 }
 
+svg {
+	max-width: 100%;
+	height: auto;
+}
+
 #main-header .logo svg {
 	width: auto;
 	height: 40px;
