@@ -3,7 +3,7 @@ layout: base
 title: Flight Free UK
 ---
 
-<section class="introduction text-white bg-cover bg-right-top p-4 sm:p-0 sm:pb-12" style="background-image: url(/images/pexels-tobias-bjorkli-1559821-blue-1440x810.webp)">
+<section class="introduction text-white bg-cover bg-right-top p-4 sm:p-0 sm:pb-12" style="background-image: url(/images/pexels-tobias-bjorkli-1559821-blue-1440x810.jpg)">
   <div class="container mx-auto">
     <%= partial "header" %>
     <section class="section--introduction mx-2 sm:mx-8 xl:mx-24 xxl:mx-40">
@@ -19,7 +19,7 @@ title: Flight Free UK
 <section class="section--how bg-blue">
   <div class="container mx-auto px-2 lg:px-16">
     <h2 class="text-white text-4xl lg:text-5xl pt-8 pb-12 text-center">How?</h2>
-    <div class="flex flex-wrap">
+    <div class="flex flex-wrap justify-center">
       <% data.how_cards.values.first(3).each do | howto | %>
           <%= partial(:home_howto, :locals => { :name => howto.title, :url => howto.url, :cover_image => howto.cover_image }) %>
       <% end %>
@@ -37,7 +37,7 @@ title: Flight Free UK
   </div>
   <div class="container mx-auto lg:flex items-center px-2 sm:px-8 lg:px-16 xxl:px-20 pb-8 sm:pb-16 xl:pb-24">
     <div class="lg:w-1/2 mb-10 xl:mb-0 pl-4">
-      <img src="/images/Why-to_inspire_social_change-426x426.webp" alt="The flight free pledge" />
+      <img src="/images/Why-to_inspire_social_change-426x426.jpg" alt="The flight free pledge" />
     </div>
     <div class="lg:w-1/2 mb-4 xl:mb-6 pr-4 text-xl lg:text-4xl">
       <ul class="leading-tight">
