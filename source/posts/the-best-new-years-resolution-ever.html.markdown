@@ -24,7 +24,7 @@ That turned out to be the best New Year’s resolution I’ve ever made (and pro
 
 One of the first people I asked was my closest neighbour Magnus. He asked us to look after his cat while they went on holiday to Vietnam. Despite feeling pretty awkward about it (especially since he is also our landlord) I plucked up the courage to ask him if he’s worried about the climate, and if he knew how many emissions his flight would create.
 
-After our conversation I felt so relieved as he did not get offended, although perhaps was a bit surprised, and after a couple of similar meetings I realised that it actually is possible to talk about the climate. I decided to start a campaign, with the goal to make 100 000 Swedes take a Flight Free year. 
+After our conversation I felt so relieved as he did not get offended, although perhaps was a bit surprised, and after a couple of similar meetings I realised that it actually is possible to talk about the climate. I decided to start a campaign, with the goal to make 100 000 Swedes take a flight free year. 
 
 > "I realised that it actually is possible to talk about the climate."
 
