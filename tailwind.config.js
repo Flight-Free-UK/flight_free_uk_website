@@ -35,9 +35,12 @@ module.exports = {
         "title": "5rem"
       },
       width: {
+        "40": "40rem",
         "280": "280px", // 288 - (2 x 4 rounded corners)
         "288": "288px", // 320 - (2 x 16 margins)
         "320": "320px",
+        "360": "360px",
+        "640": "640px",
       },
       height: {
         "44": "44px",

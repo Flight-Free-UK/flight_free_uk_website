@@ -91,42 +91,6 @@ title: Flight Free UK
   <div class="container mx-auto px-4 sm:px-8 pt-4 sm:pt-16 pb-6 sm:pb-8 xl:px-16 xxl:px-48 xl:pt-24 xl:pb-20">
     <h2 class="text-4xl lg:text-5xl text-blue-dark mb-2 xl:mb-0">Be inspired</h2>
     <p class="text-xl xl:text-2xl text-blue mb-4 lg:mb-8 leading-tight">Our podcasts, blogs, and videos are packed full with inspiring stories of flight-free travels, motivational tales for reducing your carbon footprint, and uplifting testimonials of how taking a flight free year has changed people's lives for the better.</p>
-    <div class="md:flex justify-between mb-2 xl:mb-4">
-        <h3 class="text-2xl xl:text-4xl text-blue-dark leading-tight">
-            Listen
-        </h3>
-        <p class="hidden md:block">
-            <% link_to "/podcast.html", class: "block text-right flex justify-end items-center text-lg xl:text-2xl text-blue-dark py-1" do %>
-            Be inspired by our podcast series <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2" />
-            <% end %>
-        </p>
-    </div>
-    <div class="bg-blue-dark text-white mb-4 md:mb-12">
-        <% podcast = data.podcasts.values.sort_by(&:date).reverse.first %>
-        <a href="<%= podcast.url %>" target="_blank" class="block lg:flex justify-center items-center lg:min-h-160">
-            <div class="flex-shrink-0 w-full lg:w-56 h-full lg:mr-6">
-                <img src="<%= podcast.cover_image %>" alt="Image for <%= podcast.title %>" class="w-full h-auto object-cover" />
-            </div>
-            <div class="flex-initial lg:mr-6 mb-4 leading-tight">
-                <p class="text-xl xl:text-2xl m-4">
-                    <%= podcast.title %>
-                </p>
-                <p class="block text-base m-4 mt-0 leading-tight">
-                    <%= podcast.summary %>
-                </p>
-            </div>
-            <div class="overflow-auto flex-none lg:flex items-center lg:mr-6">
-                <p class="text-lg xl:text-xl m-4 mt-0 pl-10 bg-no-repeat bg-contain" style="background-image:url(/svg/podcast.svg)">
-                    Listen now
-                </p>
-            </div>
-        </a>
-    </div>
-    <p class="md:hidden mb-8">
-        <% link_to "/podcast.html", class: "block text-right flex justify-end items-center text-lg leading-tight text-blue-dark py-1" do %>
-        Be inspired by our podcast series <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2" />
-        <% end %>
-    </p>
 
     <div class="md:flex justify-between mb-4">
         <h3 class="text-2xl xl:text-4xl text-blue-dark leading-tight">

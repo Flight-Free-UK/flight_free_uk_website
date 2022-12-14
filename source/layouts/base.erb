@@ -102,7 +102,8 @@
       </div>
     </div>
   </footer>
-  <!-- class="is-open" is added to the modal to make it visible -->
+
+  <!-- PLEDGE MODAL class="is-open" is added to the modal to make it visible -->
   <section id="pledge-modal" aria-hidden="true" class="hidden modal">
     <div tabindex="-1" data-micromodal-close class="fixed inset-0 flex items-center justify-center" style="background-color:rgba(31, 77, 123, 0.9)">
       <div role="dialog" aria-modal="true" aria-labelledby="pledge-modal-title" class="relative px-6 py-6">
@@ -113,13 +114,31 @@
           <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
         </header>
         <div id="pledge-modal-content">
-          <!-- <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" style="min-height:430px"></iframe> -->
           <%= partial "pledge_form", locals: { id: "modal" }  %>
         </div>
       </div>
     </div>
   </section>
-  <%= partial "story_modal" %>
+
+  <!-- PLEDGE MODAL (CUSTOM) class="is-open" is added to the modal to make it visible -->
+  <section id="pledge-custom-modal" aria-hidden="true" class="hidden modal">
+    <div tabindex="-1" data-micromodal-close class="fixed inset-0 flex items-center justify-center" style="background-color:rgba(31, 77, 123, 0.9)">
+      <div role="dialog" aria-modal="true" aria-labelledby="pledge-custom-modal-title" class="relative px-6 py-6">
+        <header>
+          <h2 id="pledge-custom-modal-title" class="hidden">
+            Make your own pledge
+          </h2>
+          <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
+        </header>
+        <div id="pledge-custom-modal-content">
+          <%= partial "pledge_form_custom", locals: { id: "modal" }  %>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <%#= partial "story_modal" %>
+  
   <script type="text/javascript">
     MicroModal.init();
   </script>
