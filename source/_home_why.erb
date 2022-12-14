@@ -1,0 +1,45 @@
+<section class="section--why bg-white text-blue-dark">
+  <div class="container mx-auto px-2 lg:px-16 pt-12 pb-8">
+    <h2 class="text-4xl lg:text-5xl font-bold text-center">Why?</h2>
+  </div>
+  <div class="container mx-auto md:flex justify-center items-center px-2 sm:px-8 lg:px-16 pb-8 sm:pb-16 xl:pb-24">
+    <div id="why-images" class="md:w-1/2 lg:w-auto mb-8 pr-5 pl-5 md:pr-8 lg:pr-16 md:pl-4 lg:pl-0">
+      <img src="/images/Why-for_the_climate-426x426.jpg" alt="Image for the climate" id="why-image-1" loading="lazy" />
+      <img src="/images/Why-to_inspire_social_change-426x426.jpg" alt="Image to inspire social change" id="why-image-2" loading="lazy" style="display:none;" />
+      <img src="/images/Why-to_influence_system_change-426x426.jpg" alt="Image to influence system change" id="why-image-3" loading="lazy" style="display:none;" />
+    </div>
+    <div class="md:w-1/2 lg:w-auto mb-8 pl-8 md:pl-0 md:pr-8 text-xl lg:text-2xl xl:text-4xl">
+      <ul>
+        <li class="py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-1" class="inline-block ml-4 hover:text-orange border-b-8 border-white hover:border-orange">For the climate</a></li>
+        <li class="py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-2" class="inline-block ml-4 hover:text-orange border-b-8 border-white hover:border-orange">To inspire social change</a></li>
+        <li class="py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-3" class="inline-block ml-4 hover:text-orange border-b-8 border-white hover:border-orange">To influence system change</a></li>
+      </ul>
+    </div>
+    <script>
+      var number_of_images = 3;
+      function why_image_swap(button) {
+        var imageId = button.id.replace("button", "image");
+        var image = document.getElementById(imageId);
+        if ( image != 'undefined' && image != null ) {
+          for ( var j = 0; j < number_of_images; j++ ) {
+            document.getElementById("why-images").children[j].style.display = "none";
+          }
+          image.style.display = "inline-block";
+        }
+      }
+      for ( var i = 1; i < number_of_images + 1; i++ ) {
+        document.getElementById("why-button-"+i.toString()).addEventListener('click', function(e){
+          e.preventDefault();
+          why_image_swap(this);
+        });
+      }
+    </script>
+  </div>
+  <div class="container mx-auto px-2 lg:px-16">
+    <p>
+      <% link_to "/why_flight_free/", class: "block text-right flex justify-end items-center pt-1 pb-8 font-bold text-lg xl:text-2xl hover:text-orange" do %>
+        Find out more <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2" />
+      <% end %>
+    </p>
+  </div>
+</section>
