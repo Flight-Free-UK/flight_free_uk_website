@@ -3,7 +3,7 @@ const purgecss = require('@fullhuman/postcss-purgecss')({
     './source/**/*.erb',
   ],
   defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || [],
-  whitelist: ["ol", "figure", "figcaption", "blockquote"]
+  whitelist: ["ol", "figure", "figcaption", "blockquote", ".left-1/3"]
 })
 
 module.exports = {

@@ -80,6 +80,15 @@ svg.arrow-curled {
 	}
 }
 
+.left-quarter {
+	left: 25%;
+}
+
+.left-third,
+.xl\:left-third {
+	left: 33.33333%;
+}
+
 .left-half {
 	left: 50%;
 }
