@@ -5,7 +5,7 @@ module.exports = {
       "gray-light": "#f9f9f9"
     }),
     screens: {
-      "xs": "321px",
+      "xs": "420px",
       "sm": "540px",
       "md": "768px",
       "lg": "1024px",
@@ -77,6 +77,9 @@ module.exports = {
       },
       gridTemplateColumns: {
         "131": "1fr 3fr 1fr"
+      },
+      gridTemplateRows: {
+        "mincontent": "min-content"
       }
     }
   },
