@@ -24,6 +24,9 @@ module.exports = {
           "default": "#f7b38a",
           "shadow": "#cc875d",
         },
+        "whiteveil": {
+          "default": "rgba(255, 255, 255, 0.75)"
+        },
         "text-default": "#363636",
         "text-gray-light": "#99adc1",
       },
@@ -36,11 +39,13 @@ module.exports = {
       },
       width: {
         "40": "40rem",
+        "140": "140px",
+        "220": "220px",
         "280": "280px", // 288 - (2 x 4 rounded corners)
         "288": "288px", // 320 - (2 x 16 margins)
         "320": "320px",
         "360": "360px",
-        "640": "640px",
+        "640": "640px"
       },
       height: {
         "44": "44px",
@@ -48,7 +53,11 @@ module.exports = {
         "64": "16rem",
         "80": "20rem",
         "96": "24rem",
-        "229": "229px"
+        "140": "140px",
+        "220": "220px",
+        "229": "229px",
+        "280": "280px",
+        "440": "440px"
       },
       minHeight: {
           "3": "3rem",
