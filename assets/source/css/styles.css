@@ -30,7 +30,7 @@ strong {
 }
 
 #main-header.menu-active {
-	@apply fixed top-0 bottom-0 left-0 right-0 p-2;
+	@apply fixed top-0 bottom-0 left-0 right-0 p-4;
 	width: 100vw;
 	height: 100vh;
 	background-color: #204f7f;
