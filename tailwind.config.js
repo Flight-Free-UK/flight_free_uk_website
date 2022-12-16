@@ -78,6 +78,10 @@ module.exports = {
         "3xl": "1.5rem",
         "4xl": "2rem"
       },
+      padding: {
+        "7": "1.75rem",
+        "14": "3.5rem"
+      },
       gridTemplateColumns: {
         "131": "1fr 3fr 1fr"
       },
