@@ -1,6 +1,7 @@
-<header id="main-header" class="relative z-10 py-2 xl:py-16 xl:px-6">
-  <div class="flex flex-wrap justify-between mb-16 xl:mb-8">
-    <div class="logo w-1/2 flex-1 flex items-center">
+<header id="main-header" class="relative z-10 xl:px-16 py-2 xl:pt-10 xl:pb-8 xl:mb-16<%= " bg-blue-dark" if ! is_home %>">
+  <div class="container mx-auto">
+  <div class="flex flex-wrap justify-between mb-16 xl:mb-0">
+    <div class="logo w-1/2 flex-1 flex items-end xl:mt-6">
       <a href="/">
         <%= partial "svg/logo.svg" %>
       </a>
@@ -8,7 +9,7 @@
     <div class="xl:hidden w-1/2 flex-1 flex justify-end items-center">
       <a href="#" id="menu-toggle" class="self-center bg-no-repeat bg-center w-10 h-10" onclick="document.getElementById('main-header').classList.toggle('menu-active')"></a>
     </div>
-    <div class="social-links hidden w-0 xl:flex xl:w-1/2 flex-0 flex justify-end items-center">
+    <div class="social-links hidden w-0 xl:flex xl:w-1/2 flex-0 flex justify-end items-start">
       <nav class="xl:flex flex-wrap justify-end items-center">
         <a href="https://twitter.com/<%= data.social_media.twitter %>" class="svg w-12 h-12 flex justify-center" target="_blank">
           <%= partial "svg/twitter_rounded_square.svg" %>
@@ -19,12 +20,12 @@
         <a href="https://facebook.com/<%= data.social_media.facebook %>" class="svg w-12 h-12 flex justify-center ml-2 mr-6" target="_blank">
           <%= partial "svg/facebook_rounded_square.svg" %>
         </a>
-        <a href="https://donorbox.org/donate-to-flight-free-uk" class="custom-dbox-popup w-auto px-8 py-2 border-2 border-orange rounded-xl bg-orange hover:bg-blue-dark text-white text-2xl leading-tight">DONATE</a>
+        <a href="https://donorbox.org/donate-to-flight-free-uk" class="custom-dbox-popup w-auto px-8 py-2 border-2 border-orange rounded-2xl bg-orange hover:bg-blue-dark text-white text-2xl leading-tight">DONATE</a>
       </nav>
     </div>
   </div>
   <div class="flex flex-wrap justify-end">
-    <nav class="hidden xl:flex flex-wrap w-full xl:w-3/5 items-center justify-between px-6 xl:px-0 pt-10 xl:pt-0 pb-6 xl:pb-0 text-2xl text-center tracking-wide">
+    <nav class="hidden xl:flex flex-wrap w-full xl:w-3/5 items-center justify-around px-6 xl:px-0 pt-10 xl:pt-0 pb-6 xl:pb-0 text-2xl text-center tracking-wide">
     <% {
          "why_flight_free" => "Why flight free?",
          "how_to" => "How to",
@@ -37,5 +38,6 @@
        <%= link_to name, "/#{path}.html", class: "w-full xl:w-auto mb-8 xl:mb-0 #{current ? "xl:border-b-2 border-orange" : nil}hover:text-orange" %>
     <% end %>
     </nav>
+  </div>
   </div>
 </header>

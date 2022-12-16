@@ -35,7 +35,7 @@ module.exports = {
         blog: ["Helvetica", "Arial", "sans-serif"]
       },
       fontSize: {
-        "title": "5rem"
+        "title": "4.5rem"
       },
       width: {
         "40": "40rem",
@@ -69,6 +69,9 @@ module.exports = {
       spacing: {
           "16-9": "56.25%",
           "square": "100%"
+      },
+      lineHeight: {
+        "heading": "1.125"
       },
       borderRadius: {
         "2xl": "1rem",
