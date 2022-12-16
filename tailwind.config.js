@@ -37,6 +37,10 @@ module.exports = {
       fontSize: {
         "title": "4.5rem"
       },
+      spacing: {
+          "16-9": "56.25%",
+          "square": "100%"
+      },
       width: {
         "40": "40rem",
         "140": "140px",
@@ -63,13 +67,20 @@ module.exports = {
           "3": "3rem",
           "160": "160px"
       },
+      padding: {
+        "7": "1.75rem",
+        "14": "3.5rem"
+      },
       marginTop: {
         "14": "3.5rem"
       },
-      spacing: {
-          "16-9": "56.25%",
-          "square": "100%"
-      },
+      left: {
+        "1/4": "25%",
+        "1/3": "33.33333%",
+        "1/2": "50%",
+        "2/3": "66.66667%",
+        "3/4": "75%"
+      }
       lineHeight: {
         "heading": "1.125"
       },
@@ -77,10 +88,6 @@ module.exports = {
         "2xl": "1rem",
         "3xl": "1.5rem",
         "4xl": "2rem"
-      },
-      padding: {
-        "7": "1.75rem",
-        "14": "3.5rem"
       },
       gridTemplateColumns: {
         "131": "1fr 3fr 1fr"
