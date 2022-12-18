@@ -1,15 +1,47 @@
 ---
 title: How to
 ---
-<section class="section--how bg-blue text-white">
-  <div class="container mx-auto px-2 xl:px-16">
-    <h1 class="text-4xl lg:text-5xl pt-8 pb-12 text-center">How?</h2>
+<main>
+
+<section class="section--introduction bg-gray-light text-blue-dark">
+  <div class="container mx-auto px-8 xl:px-20 xxl:px-48 pt-12">
+    <p class="text-xl xl:text-3xl mb-6 sm:mb-8 leading-tight">Pledging not to fly can seem daunting if you don't know where to start. Our 'how to' articles can help you get cracking, with ideas for travel destinations, and everything from tips on travelling with children, to guidance on how to talk to the people around you about your pledge.</p>
+    <h1 class="text-4xl xl:text-5xl font-bold leading-tight mb-10">How to</h1>
+  </div>
+  <div class="container mx-auto px-8 xl:px-20 xxl:px-48 mb-12 md:grid grid-cols-2 gap-4">
+    <ul>
+      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">find routes and destinations</a></li>
+      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">travel with kids</a></li>
+      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">travel on a budget</a></li>
+      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">ski flight free</a></li>
+    </ul>
+    <ul>
+      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">make the most of your time</a></li>
+      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">keep your pledge</a></li>
+      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">talk about climate change</a></li>
+      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">write to your MP</a></li>
+    </ul>
+  </div>
+  <div class="container mx-auto px-8 xl:px-20 xxl:px-48">
+    <h2 class="text-3xl xl:text-4xl font-bold leading-tight mb-10">How to travel</h2>
+  </div>
+  <div class="container mx-auto px-8 xl:px-20 xxl:px-48 mb-12 md:grid grid-cols-2 gap-4">
+    <ul>
+      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">by train</a></li>
+      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">by ferry</a></li>
+      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">by electric car</a></li>
+    </ul>
+    <ul>
+      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">by bike</a></li>
+      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">by coach</a></li>
+    </ul>
   </div>
 </section>
 
-<section class="bg-gray-light">
-  <div class="container mx-auto px-4 sm:px-8 xl:px-16 xxl:px-48 pt-4 sm:pt-12 xl:pt-24 pb-12 text-blue-dark">
-    <%= partial "categories", locals: { category: nil } %>
+<section class="section--articles-travel bg-orange text-blue-dark">
+  <div class="container mx-auto px-8 xl:px-20 xxl:px-48 pt-12 pb-12">
     <%= partial "articles", locals: { articles: blog.articles } %>
   </div>
 </section>
+
+</main>
