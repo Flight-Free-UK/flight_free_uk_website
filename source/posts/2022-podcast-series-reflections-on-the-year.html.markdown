@@ -58,3 +58,7 @@ Evie picked Sports and Climate, featuring sport stars Laura Baldwin and Etienne 
 Thanks for listening and we'll be back next year with our new series, "In Conversation With." Stay safe and say grounded!
 
 *T﻿his is episode 12 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-reflections-on-the-year/) and find other episodes and previous series [here](/podcast).*
+
+***Credits:***
+
+*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington and Anna Hughes. Intro music: [The Executive Lounge By Dan Barton](https://uppbeat.io/t/dan-barton/the-executive-lounge). Outro music: [Pines and Violet by Sky Toes](https://uppbeat.io/t/sky-toes/pines-and-violet)*
