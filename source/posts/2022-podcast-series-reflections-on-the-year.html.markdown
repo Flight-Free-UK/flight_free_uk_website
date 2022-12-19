@@ -9,7 +9,7 @@ summary: The members of our team come together to reflect on Flight Free 2022
 author: FlightFree UK
 read_time_minute: 3
 ---
-*T﻿his is episode 12 of our 2022 podcast series. Listen to the episode here and find other episodes and previous series here.*
+*T﻿his is episode 12 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-reflections-on-the-year/) and find other episodes and previous series [here](/podcast).*
 
 ### As it’s coming to the end of the year, in this podcast we are reflecting on how the year’s gone, and looking ahead to Flight Free 2023 which will launch on Jan 1st next year.
 
@@ -57,4 +57,4 @@ Evie picked Sports and Climate, featuring sport stars Laura Baldwin and Etienne 
 
 Thanks for listening and we'll be back next year with our new series, "In Conversation With." Stay safe and say grounded!
 
-*T﻿his is episode 12 of our 2022 podcast series. Listen to the episode here and find other episodes and previous series here.*
+*T﻿his is episode 12 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-reflections-on-the-year/) and find other episodes and previous series [here](/podcast).*
