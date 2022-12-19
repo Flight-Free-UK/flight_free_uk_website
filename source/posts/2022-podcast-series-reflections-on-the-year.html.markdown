@@ -15,13 +15,13 @@ read_time_minute: 3
 
 This is the first year in a while that we’ve been free to travel normal again, so we start off by sharing what our year was like.
 
-#### Evie
+### Evie
 
 This is the first year I’ve made a conscious decision not to fly. Flying had always been the default option so changing the way I think has been amazing. I went to visit an old university friend who lives in Cologne, and last time I visited I flew, but this time I took the train. It was such an easy journey. My default has now changed so now I look at trains, ferries and buses rather than go straight for the flight. 
 
 > "Flying had always been the default option so changing the way I think has been amazing."
 
-#### Gemma
+### Gemma
 
 It’s been a really good year again. I’ve been to Germany, but mostly around the UK, and it’s been lovely to explore places I’ve always wanted to go but never been, including to York.
 
@@ -29,19 +29,19 @@ Then we took our summer holiday to Cornwall and my partner's sister came with us
 
 > "It’s been lovely to explore places I’ve always wanted to go but never been."
 
-#### Amy
+### Amy
 
 It felt like last year, because we were still in Covid lots of people weren’t flying anyway so there wasn’t really the opportunity to talk about holidays. But this year a lot of people have been thinking about holidays. I’ve been asked to go on two separate holidays that would have involved flying and I’ve had to say, I’d love to come but I have pledged to be flight free for the year. It opened up conversations and made me determined and helped me stick to my values. 
 
 > "It opened up conversations and made me determined and helped me stick to my values."
 
-#### Sunita
+### Sunita
 
 This year I’ve noticed a lot more people talking about not flying and being conscious about how they’re travelling. People are considering the climate, and that’s a really great thing to see.
 
 > "I’ve noticed a lot more people talking about not flying and being conscious about how they’re travelling."
 
-#### Lou
+### Lou
 
 I’ve not flown for three years but it's been nice to have that conscious decision. It’s definitely been a conversation starter. Sometimes people have just brushed it off but at the same time it’s a great way to engage with people. 
 
@@ -51,15 +51,15 @@ I’ve had some nice trips away as well. I’ve been to York a few times and I w
 
 Another thing this year is I’ve been a bit more involved in grassroots environmental climate activism and met people who are doing great work. When I mention being flight free it’s almost like people have forgotten, so it’s nice to signpost them and remind people that individual action is a big part of taking environmental activism.
 
-#### Sunita
+### Sunita
 
 There have been lots of firsts for me this year: I went to Scotland in May in a campervan, I went interrailing for the first time, and I went on the Eurostar for the first time. I’ve been to such a variety of places with lots of different vibes. 
 
-#### Anna
+### Anna
 
 This is first year I’ve been abroad since before the pandemic. Even though a lot of our messaging is showing that you don’t have to go abroad to have a great holiday, I’ve done a lot of touring in the UK! So every so often it is great to hop on a train or a bike and get across the channel and find new places. This year I cycled from Lyon to Milan with a group of other people, and I took the train down to Lyon and back from Milan. I was so pleased not to be the only person who hadn’t flown there. It shows the message is getting out there.
 
-#### Podcast of the year
+## Podcast of the year
 
 Each member of the team picked their favourite podcast episode from the year. 
 
