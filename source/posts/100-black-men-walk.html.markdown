@@ -8,7 +8,6 @@ summary: Maxwell Ayamba, co-founder of 100 Black Men Walk, shares his philosophy
   of how health, community and nature are interconnected.
 author: FlightFree UK
 read_time_minute: 5
-blog: be_inspired
 ---
 ![Maxwell Ayamba ](/images/uploads/maxwell_ayamba_landscape.jpg)
 

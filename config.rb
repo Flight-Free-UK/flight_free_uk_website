@@ -45,7 +45,7 @@ page "/admin/*", :directory_index => false
 # the original "be inspired" section
 activate :blog do |blog|
   blog.name = "be_inspired"
-  blog.prefix = "be_inspired"
+  #blog.prefix = "ffarticles"
   blog.generate_day_pages = false
   blog.generate_month_pages = false
   blog.generate_year_pages = false
@@ -68,7 +68,7 @@ activate :blog do |blog|
   blog.generate_month_pages = false
   blog.generate_year_pages = false
   blog.permalink = "how_to/{title}.html"
-  blog.sources = "how_tos/{title}.html"
+  blog.sources = "how_tos/{title}.html.markdown"
   blog.layout = "blog_howto_post_layout"
 end
 

@@ -7,7 +7,6 @@ summary: International travel is pretty difficult right now, but why look
   anywhere else when there are so many fantastic parts of the UK to explore?
 author: FlightFree UK
 read_time_minute: 7
-blog: how_to
 ---
 *This is episode seven of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-destination-uk/) and find other episodes and previous series [here.](/podcast)*
 

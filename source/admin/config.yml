@@ -11,7 +11,7 @@ slug:
 
 collections:
   - name: be_inspired
-    label: Be inspired
+    label: Articles
     folder: source/posts/
     extension: .html.markdown
     format: frontmatter
@@ -28,7 +28,7 @@ collections:
       - {label: Read time, name: read_time_minute, widget: number}
       - {label: Body, name: body, widget: markdown}
   - name: how_to
-    label: How to
+    label: How tos
     folder: source/how_tos/
     extension: .html.markdown
     format: frontmatter
