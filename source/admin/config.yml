@@ -38,6 +38,7 @@ collections:
       - {label: Cover image, name: cover_image, widget: image}
       - {label: Summary, name: summary, widget: text}
       - {label: URL, name: url, widget: string}
+      - {label: Transcript URL, name: transcript_url, widget: string}
   - name: videos
     label: Videos
     folder: data/videos
@@ -48,6 +49,26 @@ collections:
       - {label: Publish Date, name: date, widget: date}
       - {label: Cover image, name: cover_image, widget: image}
       - {label: Summary, name: summary, widget: text}
+  - name: how_cards
+    label: Homepage How cards
+    folder: data/how_cards
+    format: yml
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: URL, name: url, widget: string}
+  - name: take_challenge_squares
+    label: Homepage Take the Challenge squares
+    folder: data/take_challenge_squares
+    format: yml
+    create: true
+    fields:
+      - {label: Quote, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Name/location, name: citation, widget: string}
+      - {label: Image, name: image, widget: image}
   - name: testimonials
     label: Testimonials
     folder: data/testimonials
@@ -107,6 +128,23 @@ collections:
             fields:
               - {label: Name, name: name, widget: string}
               - {label: Role, name: role, widget: string}
+              - {label: Bio, name: bio, widget: text}
+              - {label: Photo, name: photo, widget: image}
+  - name: board
+    label: Board of Directors
+    files:
+      - label: Board of Directors
+        name: board
+        file: "data/board.yml"
+        fields:
+          - label: Members
+            name: members
+            widget: list
+            allow_add: true
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Website, name: url, widget: string}
+              - {label: Role, name: description, widget: string}
               - {label: Bio, name: bio, widget: text}
               - {label: Photo, name: photo, widget: image}
   - name: advisorygroup
