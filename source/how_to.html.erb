@@ -11,14 +11,9 @@ blog: how_to
   </div>
   <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pb-12">
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
-      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">find routes and destinations</a></li>
-      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">travel with kids</a></li>
-      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">travel on a budget</a></li>
-      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">ski flight free</a></li>
-      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">make the most of your time</a></li>
-      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">keep your pledge</a></li>
-      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">talk about climate change</a></li>
-      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">write to your MP</a></li>
+      <%- data.how_to_top_links.primary.links.each do |link| -%>
+      <li class="py-2"><%= partial "svg/dot_pink.svg" %><a href="<%= link.url %>" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange"><%= link.text %></a></li>
+      <%- end -%>
     </ul>
   </div>
   <div class="container mx-auto px-8 xl:px-32 xxl:px-48">
@@ -26,11 +21,9 @@ blog: how_to
   </div>
   <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pb-12">
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
-      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">by train</a></li>
-      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">by ferry</a></li>
-      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">by electric car</a></li>
-      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">by bike</a></li>
-      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="#" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange">by coach</a></li>
+      <%- data.how_to_top_links.secondary.links.each do |link| -%>
+      <li class="py-2"><%= partial "svg/dot_blue.svg" %><a href="<%= link.url %>" class="inline-block ml-4 text-xl xl:text-3xl hover:text-orange"><%= link.text %></a></li>
+      <%- end -%>
     </ul>
   </div>
 </section>
