@@ -63,12 +63,12 @@ end
 # the new how to section
 activate :blog do |blog|
   blog.name = "how_to"
-  blog.prefix = "how_to"
+  #blog.prefix = "how_to"
   blog.generate_day_pages = false
   blog.generate_month_pages = false
   blog.generate_year_pages = false
   blog.permalink = "how_to/{title}.html"
-  blog.sources = "how_tos/{title}.html.markdown"
+  blog.sources = "how_tos/{title}.html"
   blog.layout = "blog_howto_post_layout"
 end
 
