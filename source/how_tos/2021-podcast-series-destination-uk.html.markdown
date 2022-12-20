@@ -1,7 +1,6 @@
 ---
 published: true
 title: "2021 podcast series: Destination UK"
-category: travel
 date: 2021-07-13T19:50:25.966Z
 cover_image: /images/uploads/07-2021_podcast_thumbnail.jpg
 summary: International travel is pretty difficult right now, but why look
