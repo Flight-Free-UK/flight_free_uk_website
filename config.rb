@@ -42,7 +42,10 @@ activate :livereload
 activate :directory_indexes
 page "/admin/*", :directory_index => false
 
+# the original "be inspired" section
 activate :blog do |blog|
+  blog.name = "be_inspired"
+  blog.prefix = "be_inspired"
   blog.generate_day_pages = false
   blog.generate_month_pages = false
   blog.generate_year_pages = false
@@ -55,6 +58,18 @@ activate :blog do |blog|
       template: "/category.html"
     }
   }
+end
+
+# the new how to section
+activate :blog do |blog|
+  blog.name = "how_to"
+  blog.prefix = "how_to"
+  blog.generate_day_pages = false
+  blog.generate_month_pages = false
+  blog.generate_year_pages = false
+  blog.permalink = "how_to/{title}.html"
+  blog.sources = "how_tos/{title}.html"
+  blog.layout = "blog_howto_post_layout"
 end
 
 activate :external_pipeline,

@@ -1,13 +1,13 @@
 ---
 published: true
 title: "2021 podcast series: Destination UK"
-category: travel
 date: 2021-07-13T19:50:25.966Z
 cover_image: /images/uploads/07-2021_podcast_thumbnail.jpg
 summary: International travel is pretty difficult right now, but why look
   anywhere else when there are so many fantastic parts of the UK to explore?
 author: FlightFree UK
 read_time_minute: 7
+blog: how_to
 ---
 *This is episode seven of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-destination-uk/) and find other episodes and previous series [here.](/podcast)*
 

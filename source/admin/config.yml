@@ -10,8 +10,8 @@ slug:
   clean_accents: true
 
 collections:
-  - name: blog
-    label: Blog
+  - name: be_inspired
+    label: Be inspired
     folder: source/posts/
     extension: .html.markdown
     format: frontmatter
@@ -21,6 +21,22 @@ collections:
       - {label: Published, name: published, widget: boolean, default: true}
       - {label: Title, name: title, widget: string}
       - {label: Category, name: category, widget: select, options: [{label: "Climate", value: climate}, {label: "Opinion", value: opinion},  {label: "Travel", value: travel}, {label: "One of the 100,000", value: one_of_the_100000}, {label: "Flight Free 2020", value: flight_free_2020}, {label: "Testimonials", value: testimonials}] }
+      - {label: Publish Date, name: date, widget: datetime}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: Summary, name: summary, widget: text}
+      - {label: Author, name: author, widget: relation, collection: authors, valueField: name, searchFields: [name]}
+      - {label: Read time, name: read_time_minute, widget: number}
+      - {label: Body, name: body, widget: markdown}
+  - name: how_to
+    label: How to
+    folder: source/how_tos/
+    extension: .html.markdown
+    format: frontmatter
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: Published, name: published, widget: boolean, default: true}
+      - {label: Title, name: title, widget: string}
       - {label: Publish Date, name: date, widget: datetime}
       - {label: Cover image, name: cover_image, widget: image}
       - {label: Summary, name: summary, widget: text}
