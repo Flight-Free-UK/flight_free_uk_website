@@ -43,31 +43,6 @@ collections:
       - {label: Author, name: author, widget: relation, collection: authors, valueField: name, searchFields: [name]}
       - {label: Read time, name: read_time_minute, widget: number}
       - {label: Body, name: body, widget: markdown}
-  - name: how_to_top_links
-    label: How to page top links
-    files:
-      - label: Main "how to" links
-        name: primary
-        file: "data/how_to_top_links/primary.yml"
-        fields:
-          - label: Links
-            name: links
-            widget: list
-            allow_add: true
-            fields:
-            - {label: Text for link, name: text, widget: string}
-            - {label: URL for link, name: url, widget: string}
-      - label: Secondary "how to travel" links
-        name: secondary
-        file: "data/how_to_top_links/secondary.yml"
-        fields:
-          - label: Links
-            name: links
-            widget: list
-            allow_add: true
-            fields:
-            - {label: Text for link, name: text, widget: string}
-            - {label: URL for link, name: url, widget: string}
   - name: podcasts
     label: Podcasts
     folder: data/podcasts
@@ -90,26 +65,6 @@ collections:
       - {label: Publish Date, name: date, widget: date}
       - {label: Cover image, name: cover_image, widget: image}
       - {label: Summary, name: summary, widget: text}
-  - name: how_cards
-    label: Homepage How cards
-    folder: data/how_cards
-    format: yml
-    create: true
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: Publish Date, name: date, widget: date}
-      - {label: Cover image, name: cover_image, widget: image}
-      - {label: URL, name: url, widget: string}
-  - name: take_challenge_squares
-    label: Homepage Take the Challenge squares
-    folder: data/take_challenge_squares
-    format: yml
-    create: true
-    fields:
-      - {label: Quote, name: title, widget: string}
-      - {label: Publish Date, name: date, widget: date}
-      - {label: Name/location, name: citation, widget: string}
-      - {label: Image, name: image, widget: image}
   - name: testimonials
     label: Testimonials
     folder: data/testimonials
@@ -204,3 +159,48 @@ collections:
               - {label: Website, name: url, widget: string}
               - {label: Role, name: description, widget: string}
               - {label: Bio, name: bio, widget: text}
+  - name: how_cards
+    label: Homepage – "How?" cards
+    folder: data/how_cards
+    format: yml
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: URL, name: url, widget: string}
+  - name: take_challenge_squares
+    label: Homepage – "Take the Challenge" squares
+    folder: data/take_challenge_squares
+    format: yml
+    create: true
+    fields:
+      - {label: Quote, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Name/location, name: citation, widget: string}
+      - {label: Image, name: image, widget: image}
+  - name: how_to_top_links
+    label: How to page – top links
+    files:
+      - label: Main "how to" links
+        name: primary
+        file: "data/how_to_top_links/primary.yml"
+        fields:
+          - label: Links
+            name: links
+            widget: list
+            allow_add: true
+            fields:
+            - {label: Text for link, name: text, widget: string}
+            - {label: URL for link, name: url, widget: string}
+      - label: Secondary "how to travel" links
+        name: secondary
+        file: "data/how_to_top_links/secondary.yml"
+        fields:
+          - label: Links
+            name: links
+            widget: list
+            allow_add: true
+            fields:
+            - {label: Text for link, name: text, widget: string}
+            - {label: URL for link, name: url, widget: string}
