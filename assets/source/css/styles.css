@@ -128,17 +128,12 @@ svg.arrow-curled {
 	@apply block;
 }
 
-.faq-question p {
-	@apply text-text-default text-base leading-tight;
-}
-
 .faq-question a {
-	@apply text-orange;
-	@apply underline;
+	@apply border-b-4 border-orange;
 }
 .faq-question a:hover,
 .faq-question a:focus {
-	@apply text-blue-dark;
+	@apply text-orange;
 }
 
 @media (min-width: 1280px) {
