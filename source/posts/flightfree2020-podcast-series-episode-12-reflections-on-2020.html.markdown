@@ -1,6 +1,6 @@
 ---
 published: true
-title: "#FlightFree2020 podcast episode 12: reflections on 2020"
+title: "2020 podcast episode 12: reflections on 2020"
 category: opinion
 date: 2020-12-14T16:54:52.798Z
 cover_image: /images/uploads/screenshot_team_sq.jpg
