@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: Ferry to Shanghai
 category: travel
 date: 2020-04-07T17:25:57.872Z
-cover_image: /images/uploads/shanghai_night.jpg
+cover_image: /images/uploads/shanghai_canva.jpg
 summary: Mischa and Rosanna travelled around the world without flying, and
   recount some of the experiences they would never have had if they'd used a
   plane.
