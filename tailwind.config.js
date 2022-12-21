@@ -33,7 +33,6 @@ module.exports = {
         },
         "text-default": "#363636",
         "text-gray-light": "#99adc1",
-        "border-gray-light": "#f9f9f9"
       },
       fontFamily: {
         body: ["Kollektif", "sans-serif"],
@@ -91,6 +90,9 @@ module.exports = {
       },
       lineHeight: {
         "heading": "1.125"
+      },
+      borderWidth: {
+        "6": "6px"
       },
       borderRadius: {
         "2xl": "1rem",
