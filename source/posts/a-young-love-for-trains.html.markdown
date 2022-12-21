@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: No-fly Europe
 category: travel
 date: 2020-11-15T10:23:01.365Z
-cover_image: /images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg
+cover_image: /images/uploads/berlin_railway_platform_canva.jpg
 summary: "Germana and her thirteen-year-old son Davide write the No Fly Europe
   blog, documenting their travels by train around the continent. Davide tells
   Flight Free UK why he's loved train travel from the age of three. "
