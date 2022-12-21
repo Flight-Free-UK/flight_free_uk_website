@@ -1,6 +1,6 @@
 ---
 published: true
-title: Luton to southern Sweden
+title: Luton to Sweden
 category: travel
 date: 2022-10-27T17:04:48.038Z
 cover_image: /images/uploads/jeremy-williams-eurostar.jpeg
@@ -9,9 +9,11 @@ summary: A three-day adventure to visit friends in Sweden creates memories to
 author: FlightFree UK
 read_time_minute: 3
 ---
-### There’s an interesting narrative in airport towns such as Luton, where we live. 
+![](/images/uploads/jeremy-williams-eurostar.jpeg)
 
-#### The airport is the biggest employer in the town and so every local politician is in favour of expansion, but it feels like there is a real hypocrisy in cheerleading for airport expansion while also supporting the town’s net zero plans. 
+### There’s an interesting narrative in airport towns such as Luton, where we live.
+
+#### The airport is the biggest employer in the town and so every local politician is in favour of expansion, but it feels like there is a real hypocrisy in cheerleading for airport expansion while also supporting the town’s net zero plans.
 
 For us, not flying, and talking about why, feels all the more important.
 
