@@ -1,6 +1,6 @@
 ---
 published: true
-title: A Swedish Adventure
+title: Luton to southern Sweden
 category: travel
 date: 2022-10-27T17:04:48.038Z
 cover_image: /images/uploads/jeremy-williams-eurostar.jpeg
