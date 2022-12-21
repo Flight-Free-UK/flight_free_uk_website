@@ -1,12 +1,11 @@
 ---
-published: false
+published: true
 title: "Destination: Channel Islands"
 category: travel
 date: 2021-03-24T17:11:01.124Z
-cover_image: /images/uploads/sark.jpg
-summary: As one of the places we can travel to unrestricted, we take a look at
-  getting to the Channel Islands without flying, and why you should make this
-  your summer holiday destination of choice.
+cover_image: /images/uploads/alderney_canva.jpg
+summary: We take a look at getting to the Channel Islands without flying, and
+  why you should make this your holiday destination of choice.
 author: FlightFree UK
 read_time_minute: 3
 ---
