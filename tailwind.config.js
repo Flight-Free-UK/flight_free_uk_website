@@ -4,6 +4,10 @@ module.exports = {
       ...theme("colors"),
       "gray-light": "#f9f9f9"
     }),
+    borderColor: theme => ({
+      ...theme("colors"),
+      "gray-light": "#f9f9f9"
+    }),
     screens: {
       "xs": "420px",
       "sm": "540px",
@@ -29,6 +33,7 @@ module.exports = {
         },
         "text-default": "#363636",
         "text-gray-light": "#99adc1",
+        "border-gray-light": "#f9f9f9"
       },
       fontFamily: {
         body: ["Kollektif", "sans-serif"],
