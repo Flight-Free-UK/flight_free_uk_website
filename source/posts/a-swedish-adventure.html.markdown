@@ -3,7 +3,7 @@ published: true
 title: Luton to Sweden
 category: travel
 date: 2022-10-27T17:04:48.038Z
-cover_image: /images/uploads/jeremy-williams-eurostar.jpeg
+cover_image: /images/uploads/sweden_bridge_canva.jpg
 summary: A three-day adventure to visit friends in Sweden creates memories to
   last a lifetime for Jeremy Williams and family.
 author: FlightFree UK
