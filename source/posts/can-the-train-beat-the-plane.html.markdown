@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: Bristol to Edinburgh
 category: travel
 date: 2020-03-13T18:19:47.669Z
-cover_image: /images/uploads/edinburgh-peter-cordes-h-qx6kayujq-unsplash.jpg.crdownload.jpg
+cover_image: /images/uploads/edinburgh_canva.jpg
 summary: The eco-credentials of trains are widely known, but what about the cost
   and time comparison? Maggie Robertson forsakes Easyjet and takes her family
   from Bristol to Edinburgh by train to find out.
