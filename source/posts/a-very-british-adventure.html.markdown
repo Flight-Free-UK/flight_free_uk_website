@@ -1,6 +1,6 @@
 ---
 published: true
-title: Round Britain by bike
+title: Round Britain by Bike
 category: travel
 date: 2019-12-09T09:10:02.530Z
 cover_image: /images/uploads/roundbritainbike.jpg
