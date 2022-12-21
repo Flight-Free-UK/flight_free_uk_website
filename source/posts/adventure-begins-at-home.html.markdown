@@ -1,6 +1,6 @@
 ---
 published: true
-title: Adventure begins at home
+title: A Yorkshire adventure
 category: travel
 date: 2020-05-19T16:06:40.121Z
 cover_image: /images/uploads/alastairhumphreys.jpg
