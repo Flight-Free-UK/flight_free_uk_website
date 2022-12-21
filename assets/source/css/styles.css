@@ -13,6 +13,7 @@
 /* Default 'normal' font weight for Chrome and Firefox is 400 but we were loading 300 and are now loading 500... */
 html {
 	font-weight: 500;
+	letter-spacing: 1px;
 }
 strong {
 	font-weight: 600;
