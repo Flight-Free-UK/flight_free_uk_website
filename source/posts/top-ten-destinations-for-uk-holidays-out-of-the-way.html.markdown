@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Destination UK: Off the Beaten Track"
+title: "Destination: UK"
 category: travel
 date: 2020-07-02T07:56:56.855Z
 cover_image: /images/uploads/trains-not-planes.jpg
