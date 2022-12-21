@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: No-fly Europe
 category: travel
 date: 2020-11-15T10:23:01.365Z
