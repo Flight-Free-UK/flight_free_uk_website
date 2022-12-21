@@ -1,6 +1,6 @@
 ---
 published: true
-title: One week itinerary for first-time road-trippers around the west of Scotland
+title: Scotland road trip
 category: travel
 date: 2022-07-18T14:40:39.765Z
 cover_image: /images/uploads/scotland-roadtrip.jpg
