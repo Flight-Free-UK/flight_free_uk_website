@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: "Destination: south of France"
 category: travel
 date: 2019-09-20T11:27:29.152Z
-cover_image: /images/uploads/summer-south-france-hero.jpg
+cover_image: /images/uploads/nice_canva.jpg
 summary: The glorious south of France is a popular holiday destination for its
   great weather, fantastic coastline and incredible mountains. Here are seven
   accounts of getting there without flying.
