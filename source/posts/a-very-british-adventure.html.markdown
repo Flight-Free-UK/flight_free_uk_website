@@ -1,6 +1,6 @@
 ---
 published: true
-title: A very British adventure
+title: Round Britain by bike
 category: travel
 date: 2019-12-09T09:10:02.530Z
 cover_image: /images/uploads/roundbritainbike.jpg
