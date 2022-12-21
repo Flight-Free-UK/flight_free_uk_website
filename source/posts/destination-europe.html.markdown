@@ -47,8 +47,6 @@ There’s no shortage of [beer gardens](https://www.praguebeergarden.com/) in th
 
 It’s also possible to go from the UK to Prague in one day (check out our [Prague to Pembrokeshire in a day](https://flightfree.co.uk/post/prague-to-pembrokeshire-in-a-day/) post!), although this does involve a tight connection in Brussels.
 
-![Images shows an aerial view of Bologna, with lots of orange roofs, and green hills in the background](/images/uploads/bologna.jpg "Bologne")
-
 ## Bologne, Italy
 
 Bologna, the city where golden light blankets cobblestone streets and accordion music mingles with local church bells, and home to the world-famous bolognese sauce. Relatively quiet in comparison to Venice, Florence and Rome, Bologna has an authentic charm. It houses the [oldest university](https://www.bolognawelcome.com/en/blog/the-locations-of-the-oldest-university-in-europe) in Europe (established in 1088) along with [38 kilometres of arcades](https://www.bolognawelcome.com/en/blog/the-porticoes-of-bologna) (the porticoes of Bologna) which provide charmingly romantic spaces to socialise, eat and browse. 
@@ -60,8 +58,6 @@ For traditional food and drink, head to the [Mercato Ritrovato](https://mercator
 #### Getting there
 
 **By train:** Eurostar to Paris, TGV to Turin then Frecciarossa 500 (Italian high-speed train) to Bologna, arriving early evening.
-
-![People are sitting on a grassy slope area overlooking the city of Berlin](/images/uploads/berlin-mauerpark.jpg "Berline's Mauerpark. Image from tripsavvy.com")
 
 ## Berlin, Germany
 
