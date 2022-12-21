@@ -1,6 +1,6 @@
 ---
 published: true
-title: An Alpine adventure in Bavaria
+title: Bavaria
 category: travel
 date: 2022-07-26T10:34:46.918Z
 cover_image: /images/uploads/bavarian_alps_lake-sm.jpg
