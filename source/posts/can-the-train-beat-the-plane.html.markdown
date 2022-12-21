@@ -1,6 +1,6 @@
 ---
 published: false
-title: Can the train beat the plane?
+title: Bristol to Edinburgh
 category: travel
 date: 2020-03-13T18:19:47.669Z
 cover_image: /images/uploads/edinburgh-peter-cordes-h-qx6kayujq-unsplash.jpg.crdownload.jpg
@@ -10,9 +10,7 @@ summary: The eco-credentials of trains are widely known, but what about the cost
 author: FlightFree UK
 read_time_minute: 7
 ---
-![Picture shows Edinburgh at dusk. The city is lit up by warm yellow lights coming from windows. ](/images/uploads/edinburgh-peter-cordes-h-qx6kayujq-unsplash.jpg.crdownload.jpg "Edinburgh. Photo credit: Peter Cordes (Source: Unsplash)")
-
-### Bristol to Edinburgh and back is just the kind of journey where low cost airlines have been cleaning up. 
+### Bristol to Edinburgh is just the kind of journey where low cost airlines have been cleaning up.
 
 Economists reckon that customers will choose to fly for any journey over five hours, and with a journey time of around 5 3/4 hours, Bristol to Edinburgh is certainly that. For the last twenty years I have lived first in Bristol, then Edinburgh, then Bristol again. I’ve made dozens of journeys between them, mostly by plane, and I’ve seen both airports expand insatiably in that time.
 
