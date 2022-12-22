@@ -3,7 +3,7 @@ published: true
 title: Bavaria
 category: travel
 date: 2022-07-26T10:34:46.918Z
-cover_image: /images/uploads/bavarian_alps_lake-sm.jpg
+cover_image: /images/uploads/bavarian_alps_samwoolfe.jpg
 summary: After quitting flying, travel writer Sam Woolfe sets out to discover
   whether travelling overland can ever be a substitute for jet-setting
 author: FlightFree UK
