@@ -1,9 +1,9 @@
 ---
 published: true
-title: Lonely Planet’s Guide to Train Travel in Europe
+title: Lonely Planet Guide to Train Travel in Europe
 category: travel
 date: 2022-05-26T12:56:00.000Z
-cover_image: /images/uploads/lonely_planet.jpg
+cover_image: /images/uploads/lonely_planet_ahughes.jpg
 summary: There is a resurgence in interest in exploring Europe by rail, and
   Lonely Planet has caught the mood with a new book full of inspiration,
   information and adventures.
