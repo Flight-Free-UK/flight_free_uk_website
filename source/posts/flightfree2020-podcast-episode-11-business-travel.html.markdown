@@ -1,7 +1,7 @@
 ---
 published: true
 title: "2020 podcast episode 11: business travel"
-category: travel
+category: opinion
 date: 2020-11-30T17:47:01.570Z
 cover_image: /images/uploads/gope_walker.jpg
 summary: CEO and businessman Gope Walker has clients and staff across three
