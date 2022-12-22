@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: Umbria, Italy
 category: travel
 date: 2019-10-05T08:03:59.725Z
-cover_image: /images/uploads/partner-ouibus.jpg
+cover_image: /images/uploads/assisi_canva.jpg
 summary: Sarah Clayton from AirportWatch travelled by train and coach for a
   walking holiday in Italy, and asks if long-distance coach travel could soon
   become a popular alternative to flying.
