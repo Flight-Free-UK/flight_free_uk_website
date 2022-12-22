@@ -1,6 +1,6 @@
 ---
 published: true
-title: Sleeper train to Sicily
+title: Sicily
 category: travel
 date: 2020-06-12T09:22:13.322Z
 cover_image: /images/uploads/view-from-enna-2.jpg
@@ -13,7 +13,7 @@ read_time_minute: 4
 
 ### I’d often dreamed of European train adventures, but courage never matched imagination until I discovered the website [seat61.com](https://www.seat61.com/).
 
- Trips to Germany and the Netherlands (how easy that was!) were followed by an expedition to Transylvania – I returned without experiencing too many horror stories. And that’s how I built up my confidence to take on Sicily, famous for volcanoes and classical civilisation, but also notorious for pickpockets and *mafiosi*.
+Trips to Germany and the Netherlands (how easy that was!) were followed by an expedition to Transylvania – I returned without experiencing too many horror stories. And that’s how I built up my confidence to take on Sicily, famous for volcanoes and classical civilisation, but also notorious for pickpockets and *mafiosi*.
 
 The romantic in me chose the night sleeper from Paris, dining on board with a half bottle of *chianti.* The train follows the same route under the Alps as the Orient Express. In the morning, after an excellent barista-prepared *macchiato,* I alighted at Padua, and as I was in no rush, stayed there for a day and a night before heading to Rome for an afternoon and evening. From there I boarded a night train to Sicily.
 
@@ -42,5 +42,3 @@ If you prefer to travel by day and savour the view, take a high speed TGV train 
 Overnight engineering works can result in trains being cancelled so it is worth booking the Italian trains before buying Eurostar tickets. Thello, Trenitalia and Italo start selling around the same time as Eurostar (about six months before you travel) and, if you get in early, you can travel to Sicily and back for around £300 sharing compartments. I did it for £500 with single occupancy throughout, and I had a day each in Padua and Naples along the way, as well as an afternoon and evening in Rome.
 
 #### So I got my adventure – and without any sign of a pickpocket or *mafioso*!
-
-![Picture shows the view down a street between two buildings. Railings at the end of the street protect from the sheer drop. In the distance are foggy green hills with houses clustered on them and rolling clouds further back. The town is in the sun and the close up buildings are silhouetted in contrast to the bright view. ](/images/uploads/view-from-enna-street-lamp-sicily.jpeg)
