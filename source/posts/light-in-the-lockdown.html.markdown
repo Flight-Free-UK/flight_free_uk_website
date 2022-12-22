@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Light in the lockdown
 category: travel
 date: 2020-07-01T22:13:07.626Z
@@ -9,7 +9,7 @@ summary: "Lockdown has been difficult for lots of us. But has being forced to
 author: FlightFree UK
 read_time_minute: 3
 ---
-### Air travel has given us the whole world at our fingertips. We think of holidays and we book our flight – it is how a whole generation has been brought up. 
+### Air travel has given us the whole world at our fingertips. We think of holidays and we book our flight – it is how a whole generation has been brought up.
 
 But the coronavirus pandemic has brought an abrupt end to all that, and has taken it to an extreme – not just forced out of the sky, we are confined to the locality of our own neighbourhoods.
 
@@ -32,39 +32,14 @@ In this difficult time, it's good to share the positives.
 #### What have you found positive about lockdown?
 
 * *‘Consuming much less, spending much less money, driving much less, completing more projects’*
-
-  >
 * *‘I am happy reading. I am happy listening to music. I play my guitar. We now eat fresh bread. We don't need to be constantly doing things.’*
-
->
-
 * *‘Discovering so many walks near home that get me out into the countryside even though I live in a city. I can fit it into my everyday life without having to wait to travel.’*
-
-  >
 * *‘Identifying birds by their songs, bees by their markings & trees by their leaves. Observing a cygnet & two coots as they grow.’*
-
->
-
 * *‘Reconnecting with all the places walkable from my door, and all the species that call them home.’*
-
->
-
 * *‘The chance to spend absolutely loads of time with my beautiful son. Playing in the woods next to our house, building train tracks, river dams, forts and fires.’*
-
->
-
 * *‘More time to discover and explore local nature: woodland walks and beautiful beaches. A time for new hobbies and developing old ones: knitting, cross-stitch, baking, running and gardening. More time at home with my boyfriend and kittens. Less commuting. More online family fun.’*
-
->
-
 * *‘Clear blue skies’*
-
->
-
 * *‘Discovery of a beautiful meadow 15 mins walk from my house, and a spot where you can watch barn owls hunting just two hours’ cycle / 25 mins drive away. I live very close to Sheffield city centre, and wrongly thought I had to go further away for amazing wildlife experiences.’*
-
->
-
 * *‘Usually, we would just go to the pub. Now we go to the park and go for bike rides and see more and discover more.’*
 
 #### Do you have a positive lockdown experience to share? Get in touch: [info@flightfree.co.uk](mailto:info@flightfree.co.uk)
