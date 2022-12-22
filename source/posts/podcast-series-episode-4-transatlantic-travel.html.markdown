@@ -1,7 +1,7 @@
 ---
 published: true
 title: "2020 podcast episode 4: transatlantic travel"
-category: travel
+category: opinion
 date: 2020-04-06T17:20:59.982Z
 cover_image: /images/uploads/katerawleswoody.jpg
 summary: Author and adventurer Kate Rawles shares the tale of her transatlantic
