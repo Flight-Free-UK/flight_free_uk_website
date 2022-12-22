@@ -3,7 +3,7 @@ published: true
 title: Sicily
 category: travel
 date: 2020-06-12T09:22:13.322Z
-cover_image: /images/uploads/view-from-enna-2.jpg
+cover_image: /images/uploads/sicily_canva.jpg
 summary: Peter Gilbert travels deep into the Mediterranean by rail, and finds
   that the two day journey is worth every minute
 author: FlightFree UK
