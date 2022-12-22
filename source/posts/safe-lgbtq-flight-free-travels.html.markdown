@@ -1,6 +1,6 @@
 ---
 published: true
-title: The best countries for LGBTQ+ flight-free travellers
+title: Best countries for LGBTQ+ flight-free travellers
 category: travel
 date: 2022-06-17T15:19:58.729Z
 cover_image: /images/uploads/pride_rainbow_train-sm.jpg
