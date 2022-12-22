@@ -3,7 +3,7 @@ published: true
 title: "Destination: Spain"
 category: travel
 date: 2020-02-24T10:30:32.001Z
-cover_image: /images/uploads/SanSebastian.jpeg
+cover_image: /images/uploads/san_sebastian_tmckenna.jpeg
 summary: Our 'Destinations' series takes a look at the nation's favourite
   holiday destination, Spain.
 author: FlightFree UK
