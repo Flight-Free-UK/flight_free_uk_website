@@ -5,8 +5,8 @@ category: travel
 date: 2019-12-18T13:07:48.808Z
 cover_image: /images/uploads/ski-heather_mack.jpg
 summary: "Heather Mack tells us how travelling by coach to ski resorts across
-  Europe makes for a less stressful and more scenic journey compared to flying,
-  with the added bonus of being environmentally-friendly. "
+  Europe makes for a less stressful and more scenic journey compared to flying.
+  "
 author: FlightFree UK
 read_time_minute: 3
 ---
