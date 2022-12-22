@@ -56,12 +56,12 @@ svg {
 }
 
 #main-header .logo svg {
-	width: auto;
-	height: 40px;
+	width: 200px;
+	height: auto;
 }
 @media (min-width: 768px) {
 	#main-header .logo svg {
-		height: 62px;
+		width: 260px;
 	}
 }
 
