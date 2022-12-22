@@ -1,7 +1,7 @@
 ---
 published: true
 title: "2022 podcast series: My home town"
-category: travel
+category: opinion
 date: 2022-07-14T22:06:21.022Z
 cover_image: /images/uploads/july_podcast_thumbnail-lg.jpg
 summary: In a stay-at-home-travel special, members of the Flight Free UK team
