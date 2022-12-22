@@ -3,7 +3,7 @@ published: true
 title: Souvenir of Switzerland
 category: travel
 date: 2021-04-26T14:54:13.856Z
-cover_image: /images/uploads/matterhornreflection.jpg
+cover_image: /images/uploads/matterhorn_reflection_mrobertson.jpg
 summary: When was your last proper holiday? Maggie Robertson casts her mind back
   to a train journey to Switzerland.
 author: FlightFree UK
