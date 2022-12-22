@@ -1,7 +1,7 @@
 ---
 published: true
 title: Long Train to China
-category: travel
+category: testimonials
 date: 2019-04-11T15:06:31.352Z
 cover_image: /images/uploads/long-train-to-china.png
 summary: Research fellow Roger Tyers shares his plans for an upcoming no-fly
