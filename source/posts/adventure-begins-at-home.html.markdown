@@ -3,7 +3,7 @@ published: true
 title: A Yorkshire adventure
 category: travel
 date: 2020-05-19T16:06:40.121Z
-cover_image: /images/uploads/alastairhumphreys.jpg
+cover_image: /images/uploads/alastair_humphreys.jpg
 summary: Renowned adventurer Alastair Humphreys' many adventures include cycling
   around the world, rowing the Atlantic and walking the Empty Quarter desert.
   But on a mission to fly less, Alastair sought adventure as close to home as he
