@@ -13,40 +13,50 @@
   </div>
 </section>
 <script>
-console.log
-  //
-  // CHECKERBOARD
-  //
-  if (window.matchMedia('(max-width: 767px)').matches) {
-    // below 768 we have two squares in each row
-    // text must show in an ABBA format (with text hidden on A's)
-    for ( var i = 1; i < 11; i++ ) {
-      if( i % 4 == 1 || i % 4 == 0 ) {
-        document.getElementById("take-challenge-square-"+i).classList.toggle("hidden");
-      }
+// CHECKERBOARD
+if (window.matchMedia('(max-width: 767px)').matches) {
+  // below 768 we have two squares in each row
+  // text must show in an ABBA format (with text hidden on A's)
+  for ( var i = 1; i < 11; i++ ) {
+    if( i % 4 == 1 || i % 4 == 0 ) {
+      document.getElementById("take-challenge-square-"+i).classList.toggle("hidden");
     }
   }
-  else if (window.matchMedia('(min-width: 768px) and (max-width: 1023px)').matches) {
-    // above 768 and below 1024 we have four squares in each row
-    // text must show in an ABABBABA format (with text hidden on A's)
-    for ( var i = 1; i < 11; i++ ) {
-      if( i % 8 == 1 || i % 8 == 3 || i % 8 == 6 || i % 8 == 0 ) {
-        document.getElementById("take-challenge-square-"+i).classList.toggle("hidden");
-      }
-    }    
-  }
-  else {
-    // above 1024 we have five squares in each row
-    // for a checkerboard effect the text must show in an AB format (with text hidden on A's)
-    for ( var i = 1; i < 11; i++ ) {
-      if( i % 2 == 1 ) {
-        document.getElementById("take-challenge-square-"+i).classList.toggle("hidden");
-      }
-    }    
-  }
-  document.getElementById("take_challenge_container").addEventListener("click", function(e) {
-    var this_challenge_id = e.target.parentElement.parentElement.id;
-    var this_challenge_text_id = this_challenge_id.replace("take-challenge-", "");
-    document.getElementById("take-challenge-square-"+this_challenge_text_id).classList.toggle("hidden");
-  });
+}
+else if (window.matchMedia('(min-width: 768px) and (max-width: 1023px)').matches) {
+  // above 768 and below 1024 we have four squares in each row
+  // text must show in an ABABBABA format (with text hidden on A's)
+  for ( var i = 1; i < 11; i++ ) {
+    if( i % 8 == 1 || i % 8 == 3 || i % 8 == 6 || i % 8 == 0 ) {
+      document.getElementById("take-challenge-square-"+i).classList.toggle("hidden");
+    }
+  }    
+}
+else {
+  // above 1024 we have five squares in each row
+  // for a checkerboard effect the text must show in an AB format (with text hidden on A's)
+  for ( var i = 1; i < 11; i++ ) {
+    if( i % 2 == 1 ) {
+      document.getElementById("take-challenge-square-"+i).classList.toggle("hidden");
+    }
+  }    
+}
+
+// FLIP THE CHECKERBOARD PIECES
+document.getElementById("take_challenge_container").addEventListener("click", function(e) {
+  var this_challenge_id = e.target.parentElement.parentElement.id;
+  var this_challenge_text_id = this_challenge_id.replace("take-challenge-", "");
+  document.getElementById("take-challenge-square-"+this_challenge_text_id).classList.toggle("hidden");
+});
+
+// ADD EVENT LISTENERS FOR HOVER
+//for ( var i = 1; i < 11; i++ ) {
+//  document.getElementById("take-challenge-"+i).addEventListener("mouseover", flip_square);
+//}
+//function flip_square(square) {
+//  var this_challenge_text_id = this.id.replace("take-challenge-", "");
+//  document.getElementById("take-challenge-square-"+this_challenge_text_id).classList.toggle("hidden");
+//  console.log(this.id)
+//}
+
 </script>
