@@ -3,7 +3,7 @@ published: true
 title: Round Britain by Bike
 category: travel
 date: 2019-12-09T09:10:02.530Z
-cover_image: /images/uploads/roundbritainbike.jpg
+cover_image: /images/uploads/round_britain_bike_ahughes.jpg
 summary: Does adventure have to involve a flight? Not necessarily, says Anna
   Hughes, who went on the adventure of a lifetime without leaving Britain.
 author: FlightFree UK
