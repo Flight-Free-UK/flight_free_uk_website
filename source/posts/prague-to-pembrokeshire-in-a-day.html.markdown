@@ -1,6 +1,6 @@
 ---
 published: true
-title: Prague to Pembrokeshire in a day
+title: Pembrokeshire to Prague
 category: travel
 date: 2020-02-12T18:13:31.525Z
 cover_image: /images/uploads/anthony-delanoix-prague-unsplash.jpg
