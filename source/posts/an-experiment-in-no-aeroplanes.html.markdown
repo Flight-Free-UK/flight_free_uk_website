@@ -1,7 +1,7 @@
 ---
 published: true
 title: An experiment in No Aeroplanes
-category: travel
+category: testimonials
 date: 2019-01-07T17:54:23.131Z
 cover_image: /images/uploads/trains-not-planes.jpg
 summary: "Traveller and writer David Charles explains that giving up planes
