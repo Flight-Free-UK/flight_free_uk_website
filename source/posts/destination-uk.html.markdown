@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: Top ten UK destinations
 category: travel
 date: 2020-06-03T14:48:38.976Z
-cover_image: /images/uploads/od4a3534.jpg
+cover_image: /images/uploads/camber_sands_canva.jpg
 summary: Here are our top 10 picks for holidays in England, Scotland and Wales.
 author: FlightFree UK
 read_time_minute: 3
