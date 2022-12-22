@@ -1,6 +1,6 @@
 ---
 published: false
-title: Gran Canaria by rail and boat
+title: Cardiff to Gran Canaria
 category: travel
 date: 2019-07-22T12:48:15.477Z
 cover_image: /images/uploads/tenerife-21.jpg
