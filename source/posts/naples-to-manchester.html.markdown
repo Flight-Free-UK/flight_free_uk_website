@@ -28,8 +28,6 @@ During the pandemic I was not able to go home to Italy as much as I used to, and
 
 So when I was finally able to visit my mother in Naples, I decided that I would travel back to the UK by train. 
 
-![Image shows the bay of Naples. There is a mountain in the background and the many colourful buildings of Naples in the foreground.](/images/uploads/danilo-d-agostino-naples-unsplash.jpg "Naples")
-
 I find travelling by train very relaxing. When I take the train, the holiday starts the moment I leave home: I have books I want to read, crosswords I want to do, podcasts to listen to and thoughts to think. I look forward to the landscapes we will be crossing on the way, and also to the gentle rocking that will put me to sleep at some point. It is quality time with myself.
 
 You will agree that this is not the same experience one has during a short European flight.
@@ -41,8 +39,6 @@ Naples is in the southern part of Italy, so travelling all the way back to Manch
 Having always travelled from Italy to France overnight I had missed the scenery around the Alps, so I was looking forward to travelling to Paris by day. This time I was wide awake. 
 
 First we saw the Alps from the Italian side, around Turin, and then from the French side around Modane. The day was a little misty but gradually the mountains emerged in all their magnificence. The landscape brought me back to my winter holidays as a child and I started wondering which of these mountains we used to sledge down in the snow. There... I found it, Oulx! The train even stopped there. It was tempting to get off and have a look around, but maybe this is a plan for another trip.  
-
-![Image shows Oulx in the Alps. It is taken in the summer so there is no snow on the peak, and there is lots of green vegetation in the foreground. The sky is very blue with white fluffy clouds.](/images/uploads/lorenzo-scarcelli-oulx-alps-unsplash.jpg "Passing Oulx in the Alps")
 
 In Paris I would be taking the Eurostar for the first time. It seemed amazing to me that the trip would take only about two and a half hours – it’s exciting to know that you can get to Paris in such a short time, and that there are even more trains every day connecting the two capital cities.
 
