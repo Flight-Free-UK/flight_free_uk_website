@@ -1,7 +1,7 @@
 ---
 published: true
 title: Clipped wings, great adventures
-category: travel
+category: testimonials
 date: 2020-10-27T11:30:59.433Z
 cover_image: /images/uploads/thumbnail_josh_french-alps-vallorcine.jpg
 summary: "Josh spent the majority of his life with a serious taste for long-haul
