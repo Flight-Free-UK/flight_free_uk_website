@@ -3,7 +3,7 @@ published: true
 title: West country and Wales
 category: travel
 date: 2019-08-20T11:14:07.108Z
-cover_image: /images/uploads/family-travel-1.jpg
+cover_image: /images/uploads/glastonbury_tor_canva.jpg
 summary: "Elizabeth Roper lives with her family in the South Cotswolds, and
   shares with us the incredible holiday destinations to be found in this part of
   the world "
