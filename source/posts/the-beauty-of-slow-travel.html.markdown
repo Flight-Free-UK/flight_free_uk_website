@@ -1,6 +1,6 @@
 ---
 published: true
-title: The beauty of slow travel
+title: London to Copenhagen
 category: travel
 date: 2019-01-05T17:58:37.224Z
 cover_image: /images/uploads/trains-not-planes.jpg
