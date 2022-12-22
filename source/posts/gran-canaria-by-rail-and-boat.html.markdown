@@ -9,7 +9,7 @@ summary: Professor Trevor Dale shares his experience of an overland trip to Gran
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows a rocky mountain top in Gran Canaria. White and terracotta buildings line the right side of the frame. ](/images/uploads/gran-canaria-patricia-caro-ruiz-unsplash.jpg "Photo credit: Patricia Caro Ruiz (Source: Unsplash) ")
+
 
 ### I’d promised my Dad I'd visit him in Gran Canaria, where he moved over 20 years ago, to celebrate his 80th birthday. On previous visits we’ve always flown, but this time we were determined to travel without flying.
 
@@ -20,8 +20,6 @@ Planning our visit was a joint effort: I booked the rail tickets while my wife R
 > "We were treated to fantastic views of the Massif Central, the Alps and the Pyrenees."
 
 The following day a fast train took us to Madrid in 3 hours where we visited the Botanical Gardens and the Thyssen-Bornemisza national art museum. I snapped a picture of Andre Derain’s ‘Waterloo Bridge’ (1906) which I regarded as ‘my' bridge having spent many hours on it during the November Extinction Rebellion protests. It must have been fate, then, that we walked out of the museum into a climate protest by a group of Spanish Children. Big thumbs up!
-
-![Large ferry in the port of Tenerife. Big brown rocky hills rise behind the tall buildings surrounding the port. ](/images/uploads/tenerife-21.jpg "The ferry arrives in Tenerife")
 
 The next day the train took us to Huelva, an industrial port just north of Cadiz on Spain’s South West coast. The views from the train were a treat: castles that have featured in Game of Thrones; vast plains covered in olives and interspersed with rocky mountainous passes; a glorious sunset travelling past Seville. 
 
