@@ -10,7 +10,7 @@ summary: "Heather Mack tells us how travelling by coach to ski resorts across
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows skier facing the camera. She is wearing full ski gear including mirrored sunglasses and helmet. Behind them is and expanse of white snow with pine trees in the background. The sky is deep blue. ](/images/uploads/ski-post-photo.jpg "Heather Mack on the slopes")
+![Picture shows skier facing the camera. She is wearing full ski gear including mirrored sunglasses and helmet. Behind them is and expanse of white snow with pine trees in the background. The sky is deep blue. ](/images/uploads/heather_mack_ski.jpeg "Heather Mack on the slopes")
 
 ### For most people who ski it’s a regular part of their lives – annual family holidays or trips with friends, learning to negotiate the runs with an ease borne of having spent many years messing around on the slopes.
 
