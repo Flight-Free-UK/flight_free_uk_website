@@ -3,7 +3,7 @@ published: true
 title: Pembrokeshire to Prague
 category: travel
 date: 2020-02-12T18:13:31.525Z
-cover_image: /images/uploads/anthony-delanoix-prague-unsplash.jpg
+cover_image: /images/uploads/anthony-delanoix-prague-unsplash-square.jpg
 summary: How far is it possible to travel in one day? Karen Simmonds shares the
   story of her 1000 mile journey, crossing five borders, in a single day.
 author: FlightFree UK
