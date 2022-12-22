@@ -1,7 +1,7 @@
 ---
 published: true
 title: The great British holiday
-category: travel
+category: opinion
 date: 2019-06-10T14:32:52.868Z
 cover_image: /images/uploads/waves.jpg
 summary: Flight Free campaigner Anna Hughes contemplates if asking people to fly
