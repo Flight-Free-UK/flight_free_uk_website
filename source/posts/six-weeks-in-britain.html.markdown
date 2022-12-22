@@ -3,7 +3,7 @@ published: true
 title: Six weeks of a British summer
 category: travel
 date: 2022-03-20T09:51:01.351Z
-cover_image: /images/uploads/cairngorms_heather.jpg
+cover_image: /images/uploads/cairngorms_heather_ahughes.jpg
 summary: "If you had six weeks to go travelling, where would you go? Eddie
   picked somewhere he'd not really explored before: the UK."
 author: FlightFree UK
