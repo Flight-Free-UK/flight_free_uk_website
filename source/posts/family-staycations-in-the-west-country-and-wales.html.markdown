@@ -1,6 +1,6 @@
 ---
 published: true
-title: Family staycations in the west country and Wales
+title: West country and Wales
 category: travel
 date: 2019-08-20T11:14:07.108Z
 cover_image: /images/uploads/family-travel-1.jpg
@@ -32,8 +32,6 @@ Over the Severn, the Forest of Dean is great for family cycling, caves and the w
 
 > "We chose some places to visit where our 9-year-old might be able to learn a little, and play a lot."
 
-![](/images/uploads/family-travel-3.jpg "Exploring CADW Tintern Abbey with props ")
-
 Being loosely West Country based, we are close to the Severn bridges into south Wales. “Over the bridge” await all the glorious adventures of Welsh heritage. The ‘second Severn crossing’ to Newport, Cardiff and beyond is now toll free, and the beaches of the South Wales coast are within easy distance for a day’s fix of the ocean. Beyond Bridgend, the Bristol Channel is wide, wild and blue and has become a favourite haunt. 
 
 Our favourite spot is Southerndown Beach in Dunraven Bay, CF32 0RT. When the tide is out there is plenty of sand, as well as rich-pickings in rock pools, hermit crabs and it is rich in fossils. The beach is on the private Dunraven estate. 
@@ -44,15 +42,11 @@ Public access is allowed for a modest parking charge. It is a Blue Flag beach wi
 
 While you are at the beach, you may notice the spectacular cliffs. Dunraven Bay is on the Glamorgan Heritage Coast and the fascinating geology of the area is fully explored in the Heritage Coast Visitor Centre (free), just two minutes walk from the beach. The Centre is well set up for children with digital games to play and paper-based wildlife trails to pick up. 
 
-![](/images/uploads/family-travel-5.jpg "Exploring CADW Raglan Castle ")
-
 On the way to the Heritage Coast, there are plenty of CADW Castles to explore. CADW is the Welsh Government Heritage Service – its equivalent in England being English Heritage, and in Scotland, Historic Scotland. Caerphilly Castle is surrounded by lakes covering 30 acres and here, as well as at Castell Coch, and Raglan Castle, CADW have added wonderful enhancements to children’s enjoyment of the sites. It is well worth downloading the CADW app to enjoy augmented reality fantasy trails and detailed histories. At Raglan, a series of sculptures celebrate histories of the castle, and it was the pile of books up the library steps which really caught our imagination. 
 
 Back on English soil, we love to visit Brunel’s SS Great Britain in Bristol. It is the highest quality, best value for money visit in Bristol (apart from the wonderful Bristol Museum and Art Galleries (free/ by donation) – look out for dinosaur bones, Egyptian mummies and the gypsy caravan). 
 
 Brunel’s SS Great Britain features a highly interactive museum about Isambard Kingdom Brunel’s ship, plus some truly evocative installations including sights, sounds and smells. You can experience everything from third class bunks to first class dining in the mid-19th Century. Look out for the doctor’s office and kitchen. 
-
-![](/images/uploads/family-travel-6.jpg "All hands-on deck and emigrating to New Zealand on the SS Great Britain in Bristol ")
 
 Slightly closer to home, we enjoy kite-flying at Coaley Peak (free) near Stroud. Here are wonderful views over to the ‘other side’ of Gloucestershire and the Forest of Dean, plus the Malvern Hills and the site of the famous May Day beacon at May Hill. The gentle winds up there are constant and the site also has access to Nympsfield Long Barrow (free) which is a Neolithic (late stone age) burial chamber, upon which many local legends are based. We like to embark on some storytelling here, the remains forming the perfect listening circle. Find out more [here](https://www.english-heritage.org.uk/learn/story-of-england/prehistory/long-barrows/).
 
