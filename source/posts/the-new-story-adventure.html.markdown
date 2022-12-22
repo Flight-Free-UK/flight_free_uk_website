@@ -1,7 +1,7 @@
 ---
 published: true
 title: The 'New Story' Adventure
-category: travel
+category: testimonials
 date: 2020-08-24T12:57:39.848Z
 cover_image: /images/uploads/newstory-rosie1cropped.jpeg
 summary: The adventure world is full of people who are passionate about the
