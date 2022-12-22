@@ -1,7 +1,7 @@
 ---
 published: true
 title: Forsaking all flights
-category: travel
+category: testimonials
 date: 2019-05-31T14:44:49.466Z
 cover_image: /images/uploads/rebecca-wedding.jpg
 summary: The honeymoon is traditionally a time to push boundaries and splash out
