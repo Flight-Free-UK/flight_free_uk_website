@@ -1,7 +1,7 @@
 ---
 published: true
 title: "2020 podcast episode 10: cycle touring"
-category: travel
+category: opinion
 date: 2020-11-03T16:01:06.361Z
 cover_image: /images/uploads/debs_jo.jpg
 summary: For low-carbon travel, you can't beat the humble bicycle. We speak to
