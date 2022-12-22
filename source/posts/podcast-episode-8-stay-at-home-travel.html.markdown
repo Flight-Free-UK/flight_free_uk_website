@@ -1,7 +1,7 @@
 ---
 published: true
 title: "2020 podcast episode 8: stay-at-home travel"
-category: travel
+category: opinion
 date: 2020-08-21T11:20:07.407Z
 cover_image: /images/uploads/helensteph.jpg
 summary: "We speak to two travel writers about making the #FlightFree2020 pledge
