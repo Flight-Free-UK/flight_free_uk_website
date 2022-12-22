@@ -3,7 +3,7 @@ published: true
 title: Scotland road trip
 category: travel
 date: 2022-07-18T14:40:39.765Z
-cover_image: /images/uploads/scotland-roadtrip.jpg
+cover_image: /images/uploads/glen_coe_canva.jpg
 summary: Sunita from our team takes her van to Scotland, and shares her tips for
   an awesome Scotland road trip.
 author: FlightFree UK
