@@ -1,7 +1,7 @@
 ---
 published: true
 title: The Community Rail Network
-category: travel
+category: testimonials
 date: 2020-04-01T17:57:41.561Z
 cover_image: /images/uploads/trains-not-planes.jpg
 summary: Jools Townsend, chief executive of the Community Rail Network, looks
