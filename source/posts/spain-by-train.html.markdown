@@ -1,6 +1,6 @@
 ---
 published: true
-title: Spain by Train
+title: Lancashire to southern Spain
 category: travel
 date: 2022-02-16T19:21:37.952Z
 cover_image: /images/uploads/spain_train_canva.jpg
