@@ -3,7 +3,7 @@ published: true
 title: "Destination: UK"
 category: travel
 date: 2020-07-02T07:56:56.855Z
-cover_image: /images/uploads/trains-not-planes.jpg
+cover_image: /images/uploads/sheringham_canva.jpg
 summary: "There's no need to head abroad for holidays when we have so much here
   under our noses. Away from the crowds, delve into the hidden gems the UK has
   to offer, from market towns and canals, to castles and beaches. "
