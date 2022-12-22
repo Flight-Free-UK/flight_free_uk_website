@@ -3,7 +3,7 @@ published: true
 title: The Beauty of Slow Travel
 category: travel
 date: 2019-01-05T17:58:37.224Z
-cover_image: /images/uploads/trains-not-planes.jpg
+cover_image: /images/uploads/slow-travel_canva.jpg
 summary: "Flight Free UK Director Anna Hughes travels from London to Copenhagen
   by train "
 author: FlightFree UK
