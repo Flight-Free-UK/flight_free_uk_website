@@ -1,6 +1,6 @@
 ---
 published: true
-title: Hitting the slopes by coach
+title: Skiing by coach
 category: travel
 date: 2019-12-18T13:07:48.808Z
 cover_image: /images/uploads/ski-post-photo.jpg
