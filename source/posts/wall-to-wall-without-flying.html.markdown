@@ -1,7 +1,7 @@
 ---
 published: true
 title: Wall to Wall without flying
-category: travel
+category: testimonials
 date: 2019-08-21T11:35:51.878Z
 cover_image: /images/uploads/container-ship.jpg
 summary: Christine and Peter Lloyd spent thirteen months pedalling to the Great
