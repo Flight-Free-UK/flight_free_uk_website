@@ -1,6 +1,6 @@
 ---
 published: false
-title: London to Leverkusen by train… in an afternoon
+title: London to Leverkusen
 category: travel
 date: 2019-11-06T11:22:08.331Z
 cover_image: /images/uploads/cologne.jpg
