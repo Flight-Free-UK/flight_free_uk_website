@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: Spain by Train
 category: travel
 date: 2022-02-16T19:21:37.952Z
-cover_image: /images/uploads/pyrenees_train.jpg
+cover_image: /images/uploads/spain_train_canva.jpg
 summary: There's no better way to reach the nation's favourite holiday
   destination than by relaxing on a train, as Olga Gomez-Cash discovers.
 author: FlightFree UK
