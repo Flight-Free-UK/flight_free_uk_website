@@ -10,6 +10,8 @@ summary: Mallorca is the ultimate package holiday, but there is another side to
 author: FlightFree UK
 read_time_minute: 4
 ---
+![a sandy path leads towards the sea with mountains in the background](/images/uploads/mountain-walk-mallorca_canva.jpg "Coastal walk in Mallorca")
+
 ### For many years we have gone on self guided walking holidays with [Inntravel](https://www.inntravel.co.uk), an independent travel agent specialising in walking and cycling holidays.
 
 They are always happy to book our travel for us and we have tested then by asking them to find train routes, plus ferry when necessary, to Slovakia, Portugal and other far flung corners of Europe. So when we decided our next holiday would be walking in the mountains of Mallorca they took it in their stride.
