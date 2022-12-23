@@ -33,6 +33,14 @@ strong {
 	}
 }
 
+svg {
+	max-width: 100%;
+	height: auto;
+}
+
+/*
+ * Mobile navigation
+ */
 #main-header #menu-toggle {
 	background-image: url(/svg/menu_icon.svg);
 }
@@ -57,11 +65,6 @@ strong {
 	@apply w-full mt-16 justify-center;
 }
 
-svg {
-	max-width: 100%;
-	height: auto;
-}
-
 #main-header .logo svg {
 	width: 200px;
 	height: auto;
@@ -76,6 +79,9 @@ svg {
 	fill: #f7b38a;
 }
 
+/*
+ * Homepage
+ */
 svg.arrow-curled {
 	width: auto;
 	height: 65px;
@@ -86,19 +92,6 @@ svg.arrow-curled {
 		height: 130px;
 		transform: none;
 	}
-}
-
-.left-quarter {
-	left: 25%;
-}
-
-.left-third,
-.xl\:left-third {
-	left: 33.33333%;
-}
-
-.left-half {
-	left: 50%;
 }
 
 .section--how--card > * {
@@ -122,6 +115,9 @@ svg.arrow-curled {
 	margin-left: -14px;
 }
 
+/*
+ * FAQs page
+ */
 .faq-question h3 {
 	background-size: 2rem;
 	min-height: 2rem;
@@ -155,23 +151,61 @@ svg.arrow-curled {
 	}
 }
 
-/* blog posts */
-
-.blog-post-body a {
-	@apply underline;
-	text-decoration-color: #f7b38a;
+/*
+ * Mythbuster 
+ */
+.answered button {
+	@apply cursor-default;
 }
 
+/*
+ * Homepage videos 
+ */
+.home--videos a {
+	position: relative;
+}
+.home--videos a:after {
+	content: " ";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 40px;
+	height: 40px;
+	margin-top: -45px;
+	margin-left: -20px;
+	background: transparent url("/images/video-play-blue-dark.svg") center center no-repeat;
+}
+@media (min-width: 768px) {
+	.home--videos a:after {
+		width: 60px;
+		height: 60px;
+		margin-top: -55px;
+		margin-left: -40px;
+	}
+}
+
+/*
+ * Popups
+ */
+.modal.is-open {
+	@apply block;
+}
+
+/*
+ * Articles
+ */
+.blog-post-body a {
+	@apply border-b-4 border-orange;
+}
 .blog-post-body a:hover {
-	@apply underline;
+	@apply text-orange;
 }
 
 .blog-post-body > p,
 .blog-post-body ul,
 .blog-post-body ol,
 .blog-post-body blockquote {
-	@apply font-blog;
-	@apply font-normal leading-normal text-text-default;
+	@apply leading-normal;
 	@apply mb-6;
 }
 
@@ -215,7 +249,7 @@ svg.arrow-curled {
 }
 
 .blog-post-body blockquote p {
-	@apply font-body text-3xl text-blue-dark;
+	@apply text-3xl;
 	@apply leading-tight;
 	@apply mx-0;
 	@apply px-0;
@@ -232,8 +266,7 @@ svg.arrow-curled {
 .blog-post-body h3,
 .blog-post-body h4,
 .blog-post-body h5,
-.blog-post-body h6 {
-	@apply leading-tight text-blue-dark font-semibold;
+.blog-post-body h6 {;
 	@apply mb-6;
 }
 
@@ -249,17 +282,10 @@ svg.arrow-curled {
 	@apply text-2xl;
 }
 
-.blog-post-body h4 {
-	@apply text-xl;
-}
-
+.blog-post-body h4,
 .blog-post-body h5,
 .blog-post-body h6 {
-	@apply text-lg;
-}
-
-.blog-post-body strong {
-	@apply font-semibold;
+	@apply text-xl;
 }
 
 .blog-post-body figure img {
@@ -272,10 +298,6 @@ svg.arrow-curled {
 	@apply mt-2;
 	@apply text-center;
 	@apply leading-tight;
-}
-
-.modal.is-open {
-	@apply block;
 }
 
 .blog-post-body iframe {
@@ -342,33 +364,4 @@ svg.arrow-curled {
 
 .text-shadow {
 	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-/* Myth buster */
-.answered button {
-	@apply cursor-default;
-}
-
-/* Homepage videos */
-.home--videos a {
-	position: relative;
-}
-.home--videos a:after {
-	content: " ";
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	width: 40px;
-	height: 40px;
-	margin-top: -45px;
-	margin-left: -20px;
-	background: transparent url("/images/video-play-blue-dark.svg") center center no-repeat;
-}
-@media (min-width: 768px) {
-	.home--videos a:after {
-		width: 60px;
-		height: 60px;
-		margin-top: -55px;
-		margin-left: -40px;
-	}
 }
