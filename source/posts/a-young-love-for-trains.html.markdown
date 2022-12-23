@@ -1,7 +1,7 @@
 ---
 published: true
-title: No-fly Europe
-category: travel
+title: "Davide and Germana: no-fly Europe"
+category: testimonials
 date: 2020-11-15T10:23:01.365Z
 cover_image: /images/uploads/berlin_railway_platform_canva.jpg
 summary: "Germana and her thirteen-year-old son Davide write the No Fly Europe
