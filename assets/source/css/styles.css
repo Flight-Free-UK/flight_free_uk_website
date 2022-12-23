@@ -9,14 +9,21 @@
 	src: url("/fonts/Kollektif.woff2") format("woff2"), url("/fonts/Kollektif.woff") format("woff");
     font-display: swap;
 }
-
-/* Default 'normal' font weight for Chrome and Firefox is 400 but we were loading 300 and are now loading 500... */
-html {
-	font-weight: 500;
-	letter-spacing: 1px;
+@font-face {
+	font-family: "KollektifBold";
+	src: url("/fonts/Kollektif-Bold.woff2") format("woff2"), url("/fonts/Kollektif-Bold.woff") format("woff");
+    font-display: swap;
 }
+
+html {
+	font-family: "Kollektif", sans-serif;
+	font-weight: 400;
+	letter-spacing: 0.5px;
+}
+h1, h2, h3,
 strong {
-	font-weight: 600;
+	font-family: "KollektifBold", sans-serif;
+	font-weight: 400;
 }
 
 /* Don't restrict width for to the xs and sm breakpoints */
