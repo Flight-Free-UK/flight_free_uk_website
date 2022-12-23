@@ -9,7 +9,7 @@ summary: After quitting flying, travel writer Sam Woolfe sets out to discover
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Flowers in front of a lake, with mountains in the background](/images/uploads/bavarian_alps_lake-lg.jpg "The Bavarian Alps – Lake Alpsee")
+![Flowers in front of a lake, with mountains in the background](/images/uploads/bavarian_alps_swoolfe.jpg "The Bavarian Alps – Lake Alpsee")
 
 ## A year ago, I cancelled a flight I had booked to Greece.
 
@@ -37,7 +37,7 @@ My second stop was Füssen, near the iconic and much-visited Neuschwanstein Cast
 
 Luckily, I came across a hidden, unofficial viewpoint, so I was able to enjoy an incredibly photogenic view of the castle without anyone else around. 
 
-![A Disney-style castle in Bavaria](/images/uploads/disney_castle_bavaria.jpg "Neuschwanstein Castle – inspiration to Walt Disney")
+![A Disney-style castle in Bavaria](/images/uploads/bavaria_castle_swoolfe.jpg "Neuschwanstein Castle – inspiration to Walt Disney")
 
 After Füssen I headed across the border to Salzburg, from where I could make the long but worthwhile visit to Eisriesenwelt, the ice cave near Werfen. 
 
