@@ -12,13 +12,15 @@ read_time_minute: 4
 ---
 ![a sandy path leads towards the sea with mountains in the background](/images/uploads/mountain-walk-mallorca_canva.jpg "Coastal walk in Mallorca")
 
-### For many years we have gone on self guided walking holidays with [Inntravel](https://www.inntravel.co.uk), an independent travel agent specialising in walking and cycling holidays.
+## For many years we have gone on self guided walking holidays with [Inntravel](https://www.inntravel.co.uk), an independent travel agent specialising in walking and cycling holidays.
 
-They are always happy to book our travel for us and we have tested then by asking them to find train routes, plus ferry when necessary, to Slovakia, Portugal and other far flung corners of Europe. So when we decided our next holiday would be walking in the mountains of Mallorca they took it in their stride.
+### They are always happy to book our travel for us and we have tested then by asking them to find train routes, plus ferry when necessary, to Slovakia, Portugal and other far flung corners of Europe. 
+
+So when we decided our next holiday would be walking in the mountains of Mallorca they took it in their stride.
 
 One option was to take the Brittany ferry to northern Spain and travel south from there, but one of the joys of overland travel is the opportunity to see places along the way, so we decided to go by train through France. From Wiltshire we went to London, then it was the Eurostar to Paris and the TGV to Nimes in the south of France. An old university friend had been staying nearby so we met up for a leisurely dinner in a flower-filled courtyard, before going to our hotel.
 
-> "We decided our next holiday would be walking in the mountains of Mallorca, and our independent travel agent took it in their stride."
+> "One of the joys of overland travel is the opportunity to see places along the way."
 
 It was a short three hour train ride from Nimes to Barcelona the next morning, and we had a few hours to explore the city and enjoy a dinner before boarding the overnight ferry to Palma. It’s a nine hour crossing so we booked a cabin, but you could save some money by taking the reclining seat option.
 
