@@ -11,9 +11,9 @@ read_time_minute: 3
 ---
 ![Image shows four people walking away from the camera, wheeling suitcases next to the Eurostar train](/images/uploads/eurostar_jwilliams.jpeg "Boarding the Eurostar in St Pancras")
 
-### There’s an interesting narrative in airport towns such as Luton, where we live.
+## There’s an interesting narrative in airport towns such as Luton, where we live.
 
-#### The airport is the biggest employer in the town and so every local politician is in favour of expansion, but it feels like there is a real hypocrisy in cheerleading for airport expansion while also supporting the town’s net zero plans.
+### The airport is the biggest employer in the town and so every local politician is in favour of expansion, but it feels like there is a real hypocrisy in cheerleading for airport expansion while also supporting the town’s net zero plans.
 
 For us, not flying, and talking about why, feels all the more important.
 
