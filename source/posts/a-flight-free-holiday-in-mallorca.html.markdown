@@ -24,7 +24,9 @@ One option was to take the Brittany ferry to northern Spain and travel south fro
 
 It was a short three hour train ride from Nimes to Barcelona the next morning, and we had a few hours to explore the city and enjoy a dinner before boarding the overnight ferry to Palma. It’s a nine hour crossing so we booked a cabin, but you could save some money by taking the reclining seat option.
 
-Many people holidaying in Mallorca flock to Palma and the nearby resort of Magaluf, but we headed to the mountains in the east for some peace and tranquility. Away from the tourist bustle we often found ourselves alone on the mountain tracks, and it being orange season, there were often glasses of fresh orange juice on sale along the way – a definite highlight. Sometimes the paths had views across the Mediterranean, and at other times we walked through nature reserves where, at one point, we were lucky enough to spot a pine marten. We stayed in small, quiet hilltop villages and enjoyed the local cuisine.
+Many people holidaying in Mallorca flock to Palma and the nearby resort of Magaluf, but we headed to the mountains in the east for some peace and tranquility. Away from the tourist bustle we often found ourselves alone on the mountain tracks, and it being orange season, there were often glasses of fresh orange juice on sale along the way – a definite highlight. 
+
+Sometimes the paths had views across the Mediterranean, and at other times we walked through nature reserves where, at one point, we were lucky enough to spot a pine marten. We stayed in small, quiet hilltop villages and enjoyed the local cuisine.
 
 ![an orange grove in the sunshine](/images/uploads/orange-grove-mallorca_canva.jpg "A Mallorca orange grove")
 
@@ -34,4 +36,4 @@ From there is was back to London on the Eurostar and onward to or home in Wiltsh
 
 I love travelling overland because you aren't suddenly whisked from one climate, landscape and culture to another, but can experience all the places (and cuisines) along the way. 
 
-#### It is a great chance to chat to people and learn about them and their lives and it is very relaxing, with time to read or just gaze at the passing scenery, of which there is lots!
+### It is a great chance to chat to people and learn about them and their lives and it is very relaxing, with time to read or just gaze at the passing scenery, of which there is lots!
