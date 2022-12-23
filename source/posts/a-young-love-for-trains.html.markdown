@@ -10,7 +10,7 @@ summary: "Germana and her thirteen-year-old son Davide write the No Fly Europe
 author: FlightFree UK
 read_time_minute: 4
 ---
-![image shows Davide waiting on the platform while the train loads](/images/uploads/davide_waiting_for_train.jpg "The platform at Bardonecchia")
+![Davide and his sister on the sleeper train](/images/uploads/sleeper_train_davide.jpg "On the sleeper train")
 
 ## "Our family loves travelling around Europe by train," 13-year-old Davide writes on the [No Fly Europe blog](https://noflyeurope.home.blog/2019/04/25/a-familys-trip-by-train-from-london-to-milan/).
 
@@ -34,7 +34,7 @@ I have travelled from London to Milan by train almost every year of my life so f
 
 I like this town since I enjoy sledging there in the winter. When we stop over in the summer, I like to do big walks (you can actually walk back in to France!), cycling trips (you can rent bikes there), and going to the local swimming pool and lovely restaurants. 
 
-![image shows Davide sledging in the snow](/images/uploads/davide_sledging.jpg "Sledging in Bardonecchia")
+![image shows Davide sledging in the snow](/images/uploads/bardonecchia_sledging_davide.jpg "Sledging in Bardonecchia")
 
 There is also a bus service which is completely free of charge, which takes you to many local villages, including to the various cable cars and chairlifts which run in the winter for skiing, and in the summer for those wanting to go on long walks.
 
@@ -49,8 +49,6 @@ TGV stands for ‘Tren a Grand Vitesse’, which translates to ‘High Speed Tra
 This is because the planes use loads of fuel, and by the time you arrive at the airport from home, it has probably already taken you about an hour or so. Me and my family take the train to Italy most of the time since it’s more eco-friendly. The journey from Paris to Milan takes about 7 hours or so, but it’s worth the view and scenery, including going through the Alps.
 
 The sleeper trains often have border checks in Switzerland at about 3 AM local time but that doesn’t mean I wouldn’t recommend it. I would have a good night’s sleep anyway on the sleeper, but it means you don’t get to see as much scenery. 
-
-![Davide and his sister are on the sleeper train](/images/uploads/davide_on_sleeper_train.jpg "On the sleeper train")
 
 ### An advantage of travelling by rail around Europe is that there are excellent options to get around all the countries.
 
