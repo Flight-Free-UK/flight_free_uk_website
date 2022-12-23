@@ -123,43 +123,6 @@ svg.arrow-curled {
 }
 
 /*
- * FAQs page
- */
-.faq-question h3 {
-	background-size: 2rem;
-	min-height: 2rem;
-	background-image: url(/svg/faqs_plus.svg);
-}
-
-.faq-question.expanded h3 {
-	background-image: url(/svg/faqs_minus.svg);
-}
-
-.faq-question.expanded .answer {
-	@apply block;
-}
-
-.faq-question a {
-	@apply border-b-4 border-orange;
-}
-
-.faq-question a:hover,
-.faq-question a:focus {
-	@apply text-orange;
-}
-
-@media (min-width: 1280px) {
-	.faq-question {
-		@apply bg-auto;
-	}
-
-	.faq-question p {
-		@apply text-xl;
-		@apply mb-4;
-	}
-}
-
-/*
  * Mythbuster 
  */
 .answered button {
@@ -202,6 +165,43 @@ svg.arrow-curled {
 }
 
 /*
+ * FAQs page
+ */
+.faq-question h3 {
+	background-size: 2rem;
+	min-height: 2rem;
+	background-image: url(/svg/faqs_plus.svg);
+}
+
+.faq-question.expanded h3 {
+	background-image: url(/svg/faqs_minus.svg);
+}
+
+.faq-question.expanded .answer {
+	@apply block;
+}
+
+.faq-question a {
+	@apply border-b-4 border-orange;
+}
+
+.faq-question a:hover,
+.faq-question a:focus {
+	@apply text-orange;
+}
+
+@media (min-width: 1280px) {
+	.faq-question {
+		@apply bg-auto;
+	}
+
+	.faq-question p {
+		@apply text-xl;
+		@apply mb-4;
+	}
+}
+
+/*
  * Blog: How-tos and Articles
  */
 .blog-post-body a {
@@ -210,6 +210,10 @@ svg.arrow-curled {
 
 .blog-post-body a:hover {
 	@apply text-orange;
+}
+.blog-post-body h2,
+.blog-post-body h3 {
+	@apply leading-tight;
 }
 
 .blog-post-body>p,
@@ -231,7 +235,6 @@ svg.arrow-curled {
 }
 
 @media (min-width: 768px) {
-
 	.blog-post-body h2,
 	.blog-post-body h3,
 	.blog-post-body h4,
@@ -260,19 +263,18 @@ svg.arrow-curled {
 	}
 }
 
-.blog-post-body blockquote {
-	@apply pl-20;
-	background: url("../../../source/images/blog_post_quote_mark.png") left top no-repeat;
-}
-
 .blog-post-body blockquote p {
-	@apply text-3xl;
+	@apply text-2xl;
 	@apply leading-tight;
 	@apply italic;
 	/*font-family: "KollektifBold", sans-serif;*/
 }
 
 @media (min-width: 768px) {
+	.blog-post-body blockquote {
+		@apply pl-20;
+		background: url("../../../source/images/blog_post_quote_mark.png") left top no-repeat;
+	}
 	.blog-post-body blockquote p {
 		@apply text-4xl;
 	}
