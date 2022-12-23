@@ -24,6 +24,8 @@ It was a short three hour train ride from Nimes to Barcelona the next morning, a
 
 Many people holidaying in Mallorca flock to Palma and the nearby resort of Magaluf, but we headed to the mountains in the east for some peace and tranquility. Away from the tourist bustle we often found ourselves alone on the mountain tracks, and it being orange season, there were often glasses of fresh orange juice on sale along the way – a definite highlight. Sometimes the paths had views across the Mediterranean, and at other times we walked through nature reserves where, at one point, we were lucky enough to spot a pine marten. We stayed in small, quiet hilltop villages and enjoyed the local cuisine.
 
+![an orange grove in the sunshine](/images/uploads/orange-grove-mallorca_canva.jpg "A Mallorca orange grove")
+
 After seven days in Mallorca it was time to begin our three-day journey home. We returned to Barcelona on the daytime ferry, then after spending the night there took the train to Lille for our second overnight stop. Lille was not a city we knew but we enjoyed it immensely, eating out in pavement cafes and exploring the art galleries and Citadel. By chance we came across the Monument to the executed of Lille, a memorial to five civilians who were executed in 1915, which we found very moving. As Lille is so easy to visit by train from the UK, we resolved to return.
 
 From there is was back to London on the Eurostar and onward to or home in Wiltshire.
