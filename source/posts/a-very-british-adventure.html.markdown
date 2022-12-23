@@ -13,7 +13,7 @@ read_time_minute: 4
 
 ## What does it mean to have the adventure of a lifetime?
 
-### You might think of ‘finding yourself’ on a Thai beach, or backpacking around southern India, or canoeing the length of Brazil. 
+### You might think of ‘finding yourself’ on a Thai beach, or backpacking around southern India, or canoeing the length of Brazil.
 
 But does adventure only count if you go somewhere far away?
 
@@ -43,7 +43,9 @@ More than that, I learned a huge amount about myself. Those endless days on the 
 
 Most significantly, it cemented the idea that adventure is what you make of it, not where you go. It doesn’t have to involve somewhere far away. Adventure is about broadening our horizons, but that can mean anywhere – even in the country in which we were born. 
 
-### For me, it was about finding the extraordinary in the ordinary, and it certainly did that; I absolutely fell in love with Britain, and know that there is still as much to discover as I have already seen. 
+> "Adventure is what you make of it, not where you go. It doesn’t have to involve somewhere far away."
+
+### For me, it was about finding the extraordinary in the ordinary, and it certainly did that; I absolutely fell in love with Britain, and know that there is still as much to discover as I have already seen.
 
 ### We tend to overlook what's under our noses, but it's a truly fascinating, varied and exciting island on which we live.
 
