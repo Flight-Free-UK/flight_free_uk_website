@@ -9,7 +9,7 @@ summary: A three-day adventure to visit friends in Sweden creates memories to
 author: FlightFree UK
 read_time_minute: 3
 ---
-![](/images/uploads/jeremy-williams-eurostar.jpeg)
+![Image shows four people walking away from the camera, wheeling suitcases next to the Eurostar train](/images/uploads/eurostar_jwilliams.jpeg "Boarding the Eurostar in St Pancras")
 
 ### There’s an interesting narrative in airport towns such as Luton, where we live.
 
@@ -25,7 +25,7 @@ Day one of our journey took us from Luton to Bremen in Germany via London, Bruss
 
 In Cologne there was the option of visiting the famous cathedral right outside the station, but instead we chose to spend the sweltering summer evening in a splash park down by the Rhine. 
 
-![Standing in front of Bremen Hauptbahnhof](/images/uploads/jeremy-williams-germany.jpg "Bremen Hauptbahnhof")
+![Three people standing in front of Bremen Hauptbahnhof station with their suitcases](/images/uploads/bremen_haubtbahnhof_jwilliams.jpg "Bremen Hauptbahnhof")
 
 It was about half past eight when we arrived at our hotel in Bremen, a town in the north west of Germany, about an hour outside Hamburg. It had been a long day given that we had left our home in Luton at 6.30am, so we were keen to get the kids to bed – but they love the novelty of a hotel and were buzzing. It was interesting to think that had we flown, we would have been at our destination for several hours already. But then we would have missed out on the cities, sights and experiences along the way. We were already having a brilliant holiday and we weren’t even halfway there.
 
@@ -41,7 +41,7 @@ The final stage of our journey was to board the train for Sweden, on the afterno
 
 The thing that everyone says about train travel is that the holiday is about the journey as well as the destination. On this trip, we definitely found that to be true. It’s a 2 hour and 10 minute flight from Stansted to the nearest regional airport of Örebro. Our journey took three days. But we saw so much more: five countries rather than one, and many experiences and memories that add to the story of our holiday.
 
-![](/images/uploads/jeremy-williams-train.jpg)
+![Four people sitting around a train table playing cards](/images/uploads/train-journey_jwilliams.jpg "Aboard the train")
 
 Yes, train travel is more expensive. We can’t afford to do this regularly, especially when our 11-year-old turns 12 and no longer gets a free Interrail pass. But flying isn’t cheap either – it’s just that air passengers aren’t the ones paying the price. If we were to price in the environmental damage of flying, the comparison would be much more balanced and more of us would choose to take the train.
 
