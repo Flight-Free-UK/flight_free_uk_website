@@ -116,6 +116,9 @@ module.exports = {
         "3xl": "1.5rem",
         "4xl": "2rem"
       },
+      backgroundImage: theme => ({
+        'quotesmark': "url('../../../source/images/blog_post_quote_mark.png')",
+      }),
       gridTemplateColumns: {
         "131": "1fr 3fr 1fr"
       },

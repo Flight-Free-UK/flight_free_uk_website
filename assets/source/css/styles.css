@@ -273,7 +273,8 @@ svg.arrow-curled {
 @media (min-width: 768px) {
 	.blog-post-body blockquote {
 		@apply pl-20;
-		background: url("../../../source/images/blog_post_quote_mark.png") left top no-repeat;
+		@apply bg-quotesmark;
+		@apply bg-no-repeat;
 	}
 	.blog-post-body blockquote p {
 		@apply text-4xl;
