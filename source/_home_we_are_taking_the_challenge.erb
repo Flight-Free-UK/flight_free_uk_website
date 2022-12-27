@@ -41,22 +41,30 @@ else {
     }
   }    
 }
-
 // FLIP THE CHECKERBOARD PIECES
-document.getElementById("take_challenge_container").addEventListener("click", function(e) {
-  var this_challenge_id = e.target.parentElement.parentElement.id;
-  var this_challenge_text_id = this_challenge_id.replace("take-challenge-", "");
-  document.getElementById("take-challenge-square-"+this_challenge_text_id).classList.toggle("hidden");
-});
-
-// ADD EVENT LISTENERS FOR HOVER
-//for ( var i = 1; i < 11; i++ ) {
-//  document.getElementById("take-challenge-"+i).addEventListener("mouseover", flip_square);
-//}
-//function flip_square(square) {
-//  var this_challenge_text_id = this.id.replace("take-challenge-", "");
+take_challenge_squares_hover_states = [];
+for ( var i = 1; i < 11; i++ ) {
+  take_challenge_squares_hover_states[i] = false;
+  document.getElementById("take-challenge-"+i).addEventListener("mouseenter", flip_square);
+  document.getElementById("take-challenge-"+i).addEventListener("mouseleave", reset_square_flip_state);
+}
+function flip_square (square) {
+  var this_challenge_id = this.id.replace("take-challenge-", "");
+  if ( ! take_challenge_squares_hover_states[this_challenge_id] ) {
+    document.getElementById("take-challenge-square-"+this_challenge_id).classList.toggle("hidden");
+    take_challenge_squares_hover_states[this_challenge_id] = true;
+  }
+}
+function reset_square_flip_state (square) {
+  var this_challenge_id = this.id.replace("take-challenge-", "");
+  if ( take_challenge_squares_hover_states[this_challenge_id] ) {
+    take_challenge_squares_hover_states[this_challenge_id] = false;
+  }
+}
+//document.getElementById("take_challenge_container").addEventListener("click", function(e) {
+//  var this_challenge_id = e.target.parentElement.parentElement.id;
+//  var this_challenge_text_id = this_challenge_id.replace("take-challenge-", "");
 //  document.getElementById("take-challenge-square-"+this_challenge_text_id).classList.toggle("hidden");
-//  console.log(this.id)
-//}
+//});
 
 </script>
