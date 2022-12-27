@@ -314,10 +314,10 @@ svg.arrow-curled {
 }
 
 .blog-post-body figure figcaption {
-	@apply font-bold;
 	@apply mt-2;
 	@apply text-center;
-	@apply leading-tight;
+	font-family: "KollektifBold", sans-serif;
+	@apply leading-normal;
 }
 
 .blog-post-body iframe {
@@ -356,6 +356,7 @@ svg.arrow-curled {
 	.blog-post-body>p,
 	.blog-post-body ul,
 	.blog-post-body ol,
+	.blog-post-body figcaption,
 	.blog-post-body iframe {
 		@apply text-xl;
 		@apply mb-8;

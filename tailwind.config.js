@@ -6,7 +6,8 @@ module.exports = {
     }),
     borderColor: theme => ({
       ...theme("colors"),
-      "gray-light": "#f9f9f9"
+      "gray-light": "#f9f9f9",
+      "gray-mid": "#e7e7e7",
     }),
     screens: {
       "xs": "420px",
@@ -25,12 +26,19 @@ module.exports = {
       "2/3": "66.66667%",
       "3/4": "75%"
     },
+    flex: {
+      '1': '1 1 0%',
+      auto: '1 1 auto',
+      initial: '0 1 auto',
+      none: 'none',
+      'full': '1 0 100%',
+    },
     extend: {
       colors: {
         "blue": {
           "dark": "#1f4d7b",
           "text-light": "#3e5a90",
-          "default":"#357cb6",
+          "default": "#357cb6",
           "twitter": "#00aaec",
         },
         "orange": {
@@ -51,8 +59,8 @@ module.exports = {
         "title": "4.5rem"
       },
       spacing: {
-          "16-9": "56.25%",
-          "square": "100%"
+        "16-9": "56.25%",
+        "square": "100%"
       },
       width: {
         "140": "140px",
@@ -79,8 +87,8 @@ module.exports = {
         "440": "440px"
       },
       minHeight: {
-          "3": "3rem",
-          "160": "160px"
+        "3": "3rem",
+        "160": "160px"
       },
       padding: {
         "7": "1.75rem",

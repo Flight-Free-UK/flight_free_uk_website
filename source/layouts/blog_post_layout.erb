@@ -11,13 +11,13 @@ menu_item: articles
 
       <%= link_to "View all posts", "/articles.html", class: "text-base xl:text-lg pl-8 bg-no-repeat", style: "color:#a0a0a0;background-image:url(/svg/arrow_back.svg)" %>
 
-      <h1 class="text-4xl xl:text-5xl font-bold leading-tight mt-4 mb-6"><%= current_article.title %></h1>
-      <p class="text-xl lg:text-2xl xl:text-3xl mb-6 sm:mb-8 leading-tight"><%= current_article.data.summary %></p>
+      <h1 class="text-4xl xl:text-5xl font-bold leading-tight mt-8 mb-6"><%= current_article.title %></h1>
+      <h2 class="text-xl lg:text-2xl font-bold mb-6 sm:mb-8 leading-tight"><%= current_article.data.summary %></h2>
 
-      <div class="xl:flex border-t border-b py-3 xl:py-6 text-blue-dark items-center" style="border-color:#e7e7e7">
+      <div class="xl:flex items-center border-t-4 border-b-4 border-gray-mid py-2 text-base xl:text-lg text-blue-dark">
         <div class="flex items-center">
           <span><%= current_article.date.strftime("%d %b %Y") %></span>
-          <span class="text-2xl mx-6" style="color:#d9d9d9">&bullet;</span>
+          <span class="text-4xl mx-6 text-blue-dark">&bullet;</span>
           <span><%= current_article.data.read_time_minute %> min read</span>
         </div>
       </div>
@@ -30,14 +30,17 @@ menu_item: articles
 
   <section class="section--social-sharing">
     <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
-      <div class="border-t pt-10 text-center" style="border-color:#e7e7e7">
-        <% link_to "https://www.facebook.com/sharer/sharer.php", query: { u: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank" do %>
-          <%= image_tag "/svg/facebook_with_bg.svg", class: "inline-block w-12" %>
+      <div class="border-t-4 border-gray-mid pt-10 flex flex-wrap justify-center">
+        <h4 class="w-full flex-full text-center text-xl lg:text-2xl xl:text-3xl">Share this post</h4>
+        <% link_to "https://twitter.com/intent/tweet", query: { text: current_article.title, url: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank", class: "inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2" do %>
+          <%= partial "svg/twitter_inverse.svg" %>
         <% end %>
-        <% link_to "https://twitter.com/intent/tweet", query: { text: current_article.title, url: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank" do %>
-          <%= image_tag "/svg/twitter_with_bg.svg", class: "inline-block w-12 mx-4" %>
+        <a href="https://instagram.com/<%= data.social_media.instagram %>" target="_blank" class="inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2">
+          <%= partial "svg/instagram_inverse.svg" %>
+        </a>
+        <% link_to "https://www.facebook.com/sharer/sharer.php", query: { u: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank", class: "inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2" do %>
+          <%= partial "svg/facebook_inverse.svg" %>
         <% end %>
-        <a href="https://instagram.com/<%= data.social_media.instagram %>"><%= image_tag "/images/instagram_with_bg.png", class: "inline-block w-12" %></a>
       </div>
     </div>
   </section>
