@@ -391,3 +391,10 @@ svg.arrow-curled {
 .text-shadow {
 	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+/*
+ * Social sharing SVGs
+ */
+.social-sharing a:hover path {
+	fill: #f7b38a;
+}
