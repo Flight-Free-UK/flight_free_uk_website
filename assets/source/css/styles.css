@@ -29,6 +29,10 @@ strong {
 	font-weight: 400;
 }
 
+.text-shadow {
+	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
 /* Don't restrict width for to the xs and sm breakpoints */
 @media (max-width: 640px) {
 	.container {
@@ -207,30 +211,80 @@ svg.arrow-curled {
 .blog-post-body a {
 	@apply border-b-4 border-orange;
 }
-
 .blog-post-body a:hover {
 	@apply text-orange;
-}
-.blog-post-body h2,
-.blog-post-body h3 {
-	@apply leading-tight;
-}
-
-.blog-post-body>p,
-.blog-post-body ul,
-.blog-post-body ol,
-.blog-post-body blockquote {
-	@apply leading-normal;
-	@apply mb-6;
 }
 
 .blog-post-body ul {
 	@apply list-disc;
-	@apply pl-8;
 }
-
 .blog-post-body ol {
 	@apply list-decimal;
+}
+
+.blog-post-body h1,
+.blog-post-body h2,
+.blog-post-body h3,
+.blog-post-body h4,
+.blog-post-body h5,
+.blog-post-body h6,
+.blog-post-body p,
+.blog-post-body ul,
+.blog-post-body ol,
+.blog-post-body figcaption,
+.blog-post-body blockquote {
+	@apply leading-tight;
+}
+.blog-post-body blockquote p {
+	@apply italic;
+}
+.blog-post-body figcaption {
+	font-family: "KollektifBold", sans-serif;
+	@apply text-center;
+}
+
+.blog-post-body h1 {
+	@apply text-3xl;
+}
+.blog-post-body h2 {
+	@apply text-3xl;
+}
+.blog-post-body h3 {
+	@apply text-2xl;
+}
+.blog-post-body h4,
+.blog-post-body h5,
+.blog-post-body h6,
+.blog-post-body p,
+.blog-post-body ul,
+.blog-post-body ol,
+.blog-post-body figcaption {
+	@apply text-xl;
+}
+.blog-post-body blockquote p {
+	@apply text-2xl;
+}
+
+.blog-post-body h1,
+.blog-post-body h2,
+.blog-post-body h3,
+.blog-post-body h4,
+.blog-post-body h5,
+.blog-post-body h6 {
+	@apply mb-6;
+}
+.blog-post-body>p,
+.blog-post-body ul,
+.blog-post-body ol,
+.blog-post-body blockquote {
+	@apply mb-6;
+}
+.blog-post-body figure figcaption {
+	@apply mt-2;
+}
+
+.blog-post-body ul,
+.blog-post-body ol {
 	@apply pl-8;
 }
 
@@ -261,16 +315,7 @@ svg.arrow-curled {
 	.blog-post-body li p {
 		@apply px-0;
 	}
-}
 
-.blog-post-body blockquote p {
-	@apply text-2xl;
-	@apply leading-tight;
-	@apply italic;
-	/*font-family: "KollektifBold", sans-serif;*/
-}
-
-@media (min-width: 768px) {
 	.blog-post-body blockquote {
 		@apply pl-20;
 		@apply bg-quotesmark;
@@ -281,85 +326,18 @@ svg.arrow-curled {
 	}
 }
 
-.blog-post-body h1,
-.blog-post-body h2,
-.blog-post-body h3,
-.blog-post-body h4,
-.blog-post-body h5,
-.blog-post-body h6 {
-	;
-	@apply mb-6;
-}
-
-.blog-post-body h1 {
-	@apply text-3xl;
-}
-
-.blog-post-body h2 {
-	@apply text-3xl;
-}
-
-.blog-post-body h3 {
-	@apply text-2xl;
-}
-
-.blog-post-body h4,
-.blog-post-body h5,
-.blog-post-body h6 {
-	@apply text-xl;
-}
-
-.blog-post-body figure img {
-	@apply max-w-full;
-	@apply mx-auto;
-}
-
-.blog-post-body figure figcaption {
-	@apply mt-2;
-	@apply text-center;
-	font-family: "KollektifBold", sans-serif;
-	@apply leading-normal;
-}
-
-.blog-post-body iframe {
-	@apply max-w-full;
-	@apply w-full;
-	@apply mb-6;
-	height: auto;
-}
-
-@media (min-width: 360px) {
-	.blog-post-body iframe {
-		height: 16rem;
-	}
-}
-
-@media (min-width: 500px) {
-	.blog-post-body iframe {
-		height: 16rem;
-	}
-}
-
-@media (min-width: 640px) {
-	.blog-post-body iframe {
-		height: 24rem;
-	}
-}
-
-@media (min-width: 768px) {
-	.blog-post-body iframe {
-		height: 32rem;
-	}
-}
-
 @media (min-width: 1280px) {
-
+	.blog-post-body>p,
+	.blog-post-body ul,
+	.blog-post-body ol,
+	.blog-post-body figcaption {
+		@apply text-xl;
+	}
 	.blog-post-body>p,
 	.blog-post-body ul,
 	.blog-post-body ol,
 	.blog-post-body figcaption,
 	.blog-post-body iframe {
-		@apply text-xl;
 		@apply mb-8;
 	}
 
@@ -389,8 +367,35 @@ svg.arrow-curled {
 	}
 }
 
-.text-shadow {
-	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+.blog-post-body figure img {
+	@apply max-w-full;
+	@apply mx-auto;
+}
+.blog-post-body iframe {
+	@apply max-w-full;
+	@apply w-full;
+	@apply mb-6;
+	height: auto;
+}
+@media (min-width: 360px) {
+	.blog-post-body iframe {
+		height: 16rem;
+	}
+}
+@media (min-width: 500px) {
+	.blog-post-body iframe {
+		height: 16rem;
+	}
+}
+@media (min-width: 640px) {
+	.blog-post-body iframe {
+		height: 24rem;
+	}
+}
+@media (min-width: 768px) {
+	.blog-post-body iframe {
+		height: 32rem;
+	}
 }
 
 /*
