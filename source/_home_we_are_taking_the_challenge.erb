@@ -56,7 +56,7 @@ function flip_square () {
     take_challenge_squares_hover_states[this_challenge_id] = true;
     setTimeout ( 
       this_square.classList.toggle("opacity-0"), 
-      1000 
+      500 
     );
   }
 }
@@ -66,7 +66,10 @@ function reset_square_flip_state () {
   if ( take_challenge_squares_hover_states[this_challenge_id] ) {
     if ( ! this_square.classList.contains("transition") ) this_square.classList.add("transition", "transition-opacity", "duration-1000", "ease-in-out");
     take_challenge_squares_hover_states[this_challenge_id] = false;
-    setTimeout ( this_square.classList.toggle("opacity-0"), 1000 );
+    setTimeout ( 
+      this_square.classList.toggle("opacity-0"), 
+      500 
+    );
   }
 }
 //document.getElementById("take_challenge_container").addEventListener("click", function(e) {
