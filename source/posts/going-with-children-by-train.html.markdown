@@ -44,8 +44,6 @@ There's also the opportunity to walk about and go and visit the cafe/bar to choo
 
 A 12-hour train journey might sound like a nightmare, but it's not the same as a 12-hour flight. Regular stops provide structure and interest, and it's likely you will need to make connections in that time, which breaks things up in a positive way. Allowing extra time for connections means that interchanges can be adventures in their own right.
 
-B﻿reaking the journey overnight can be a good way to give everyone a break as well as spend time in a new city.
-
 ## **5. Add stops for lunch or overnight**
 
 A﻿s with any overland travel, the journey is part of the holiday. You can make this more intentional by incorporating overnight stops, often for no extra cost in your ticket. It's a good idea to break the journey for lunch and a walk around the area surrounding the station – dropping bags at Left Luggage can help with this.
@@ -62,11 +60,11 @@ T﻿ravelling while asleep can save time and money (compared to a hotel) and has
 
 ## 8﻿. Book early for the best price
 
-### **Tips for planning your journey**
+you can set up ticket alerts on Rail Europe which will let you know in advance when tickets go on sale.
 
-The [Man in Seat Sixty-One](www.seat61.com) website is invaluable, and the [Deutsche Bahn](https://www.bahn.de/en/view/index.shtml) website and [Rail Europe](https://raileurope.co.uk) (formerly loco2) are also really useful. To get the best prices, it's best to book early – you can set up ticket alerts on Rail Europe which will let you know in advance when tickets go on sale. I try and make sure we have a table seat, and some train companies have special family areas on their trains, so we look out for those seats where they have them.
+## **9. G﻿o with Deutsche Bahn**
 
-We have found Deutsche Bahn to be the most child friendly so far on our travels. Not only can children travel for free with their own seat, they get free toys and magazines from the cafe.
+Some train companies have special family areas on their trains, and Deutsche Bahn is widely acknowledged as the most child friendly rail operator in Europe. Not only can children travel for free with their own seat, they get free toys and magazines from the cafe. 
 
 ### **Must haves:**
 
