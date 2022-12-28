@@ -45,8 +45,12 @@ else {
 take_challenge_squares_hover_states = [];
 for ( var i = 1; i < 11; i++ ) {
   take_challenge_squares_hover_states[i] = false;
-  document.getElementById("take-challenge-"+i).addEventListener("mouseenter", flip_square);
-  document.getElementById("take-challenge-"+i).addEventListener("mouseleave", reset_square_flip_state);
+  if ('ontouchstart' in window) {
+    document.getElementById("take-challenge-"+i).addEventListener("click", flip_square);
+  } else {
+    document.getElementById("take-challenge-"+i).addEventListener("mouseover", flip_square);
+    document.getElementById("take-challenge-"+i).addEventListener("mouseleave", flip_square);
+  }
 }
 function flip_square () {
   var this_challenge_id = this.id.replace("take-challenge-", "");
@@ -56,12 +60,7 @@ function flip_square () {
     //setTimeout ( this_square.classList.toggle("opacity-0"), 500 );
     this_square.classList.toggle("opacity-0");
     take_challenge_squares_hover_states[this_challenge_id] = true;
-  }
-}
-function reset_square_flip_state () {
-  var this_challenge_id = this.id.replace("take-challenge-", "");
-  var this_square = document.getElementById("take-challenge-square-"+this_challenge_id);
-  if ( take_challenge_squares_hover_states[this_challenge_id] ) {
+  } else {
     //if ( ! this_square.classList.contains("transition") ) this_square.classList.add("transition", "transition-opacity", "duration-1000", "ease-in-out");
     //setTimeout ( this_square.classList.toggle("opacity-0"), 500 );
     this_square.classList.toggle("opacity-0");
