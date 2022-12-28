@@ -56,6 +56,8 @@ S﻿tarting with a short hop to a nearby European city can ease you into travell
 
 We have been to France, Germany, the Netherlands and Belgium, and last year we took the [Caledonian Sleeper](https://www.sleeper.scot)Sleeper trains are always a real hit with children. It's exciting to be in bed on a train, and the clever compartments, foldable beside tables and hidden sinks are a novelty. The most exciting thing is going to sleep in a busy city and waking up surrounded by Scottish mountains or cruising along the Cornish Riviera. This is true for adults as well as children! 
 
+T﻿ravelling while asleep can save time and money (compared to a hotel) and has the added excitement factor. Just remember to pack ear plugs and eye mask to ensure a sound night's sleep.
+
 ### **Tips for planning your journey**
 
 The [Man in Seat Sixty-One](www.seat61.com) website is invaluable, and the [Deutsche Bahn](https://www.bahn.de/en/view/index.shtml) website and [Rail Europe](https://raileurope.co.uk) (formerly loco2) are also really useful. To get the best prices, it's best to book early – you can set up ticket alerts on Rail Europe which will let you know in advance when tickets go on sale. I try and make sure we have a table seat, and some train companies have special family areas on their trains, so we look out for those seats where they have them.
