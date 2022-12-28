@@ -14,7 +14,7 @@ If you are a parent you might baulk at the thought of taking young children on l
 
 Many parents find that train travel suits their children better once they give it a try, so we have collected some tips from experienced mums and dads for the best ways to travel by train with kids. 
 
-## **1. Kids go free for longer** 
+## **1. Take advantage of free travel for kids**
 
 The majority of trains in Europe have free travel for children up to four years old, as opposed to up to two years old on a plane. 
 
@@ -26,11 +26,11 @@ On the [Eurostar](https://www.eurostar.com/uk-en/), kids under the age of four m
 
 Interrail is also an option. Children go free on an Interrail pass up to the age of 12, so this can work out much cheaper for families than buying tickets direct, and can give more flexibility.
 
-## **2. Take as much luggage as you need**
+## **2. Carry as much luggage as you need** 
 
 Travelling as a family often requires plenty of luggage, and one of the great advantages to travelling by train is that there are no extra costs for taking as much as you need with you. There aren’t the same limits on baby milk or food which makes the journey so much easier. 
 
-## **3. Space and comfort**
+## **3. Make the most of the space**
 
 Trains generally have more space and are much more comfortable than planes. You can easily move around if you need to, in case of tantrums or noisy episodes, and vestibule areas are great for giving your fellow passengers a break.
 
@@ -50,7 +50,7 @@ A﻿s with any overland travel, the journey is part of the holiday. You can make
 
 ## **6. Start short and work up the distance** 
 
-Our first train holiday as a family was a short hop from London to Brussels when our son was a baby. Since then we have become more confident to travel further and longer distances.
+S﻿tarting with a short hop to a nearby European city can ease you into travelling with your child, and from there you can build up the distances. 
 
 We have been to France, Germany, the Netherlands and Belgium, and last year we took the [Caledonian Sleeper](https://www.sleeper.scot) to the Highlands in Scotland. The sleeper train was a real hit with our son – he loved the fact he was in a bed on a train, and it had cool hidden compartments such as foldable bedside tables and a hidden sink. He also loved the interconnecting doors between our two rooms. The most exciting thing was going to sleep in busy, built up London and waking up surrounded by mountains and mist in Scotland.
 
