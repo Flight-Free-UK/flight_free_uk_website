@@ -22,11 +22,10 @@ const { plugins, outputfile, mode } = env == 'build'
   }
   : {
     plugins: [
-      new MiniCssExtractPlugin({filename: "stylesheets/[name].css"}),
-      new UglifyJSPlugin(),
-      new webpack.BannerPlugin(COPYRIGHT)
+      new MiniCssExtractPlugin(),
+      new webpack.BannerPlugin(COPYRIGHT),
     ],
-    outputfile: OUTPUT_FILE_MIN,
+    outputfile: OUTPUT_FILE,
     mode: 'development'
   }
 
