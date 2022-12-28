@@ -34,7 +34,7 @@ title: Podcast
                   <a href="<%= podcast.url %>" target="_blank" class="flex items-center">
                     <span class="mr-2"><%= partial "/svg/podcast-listen-now.svg" %></span> Listen now
                   </a>
-                  <%- if defined?(transcript_url) %><br>
+                  <%- if defined?(podcast.transcript_url) and podcast.transcript_url %>
                   <a href="<%= podcast.transcript_url %>" target="_blank" class="flex items-center">
                     <span class="mr-2"><%= partial "/svg/podcast-read-transcript.svg" %></span> Read transcript
                   </a>
@@ -61,7 +61,7 @@ title: Podcast
                   <a href="<%= podcast.url %>" target="_blank" class="flex items-center">
                     <span class="mr-2"><%= partial "/svg/podcast-listen-now.svg" %></span> Listen now
                   </a>
-                  <%- if defined?(transcript_url) %><br>
+                  <%- if defined?(podcast.transcript_url) and podcast.transcript_url %>
                   <a href="<%= podcast.transcript_url %>" target="_blank" class="flex items-center">
                     <span class="mr-2"><%= partial "/svg/podcast-read-transcript.svg" %></span> Read transcript
                   </a>
