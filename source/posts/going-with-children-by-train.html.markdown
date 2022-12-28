@@ -46,9 +46,9 @@ B﻿reaking the journey overnight can be a good way to give everyone a break as 
 
 ## **5. Make the journey part of the holiday**
 
-We now like to make the journey part of the holiday and the slow travel aspect becomes enjoyable, so you can stop off overnight in Brussels, Paris or Cologne or other intermediate stations for no extra cost in your ticket. It's also a good idea to break the journey for lunch and a walk around. Main stations are usually in the centre of town, so if you want to see a new city you can always drop off your bags at Left Luggage and go and explore outside the station.
+A﻿s with any overland travel, the journey is part of the holiday. You can make this more intentional by incorporating overnight stops, often for no extra cost in your ticket. It's a good idea to break the journey for lunch and a walk around the area surrounding the station – dropping bags at Left Luggage can help with this.
 
-## **Start short and work up the distance**
+## **6. Start short and work up the distance** 
 
 Our first train holiday as a family was a short hop from London to Brussels when our son was a baby. Since then we have become more confident to travel further and longer distances.
 
