@@ -4,9 +4,8 @@ title: How to travel with kids
 category: travel
 date: 2020-02-11T12:31:47.906Z
 cover_image: /images/uploads/child_train_canva.jpg
-summary: Long train journeys with children don't have to be a challenge, says
-  Susanne Treadwell, who shares her experiences of travelling by train with a
-  family.
+summary: Long train journeys with children don't have to be a challenge. Here
+  are some top tips from experienced family rail travellers.
 author: FlightFree UK
 read_time_minute: 3
 ---
