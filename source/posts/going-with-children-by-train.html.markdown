@@ -74,6 +74,4 @@ Some train companies have special family areas on their trains, and Deutsche Bah
 
 ~ Take a wheelie suitcase and rucksack each, so you can manage your luggage walking between trains. Our son managed his own rucksack and suitcase from the age of four.
 
-#### I don't miss flying and am always excited to plan our next rail adventure as a family. When talking to other parents about our holidays, it surprises me how many people don’t even consider the train as an option. I hope that by sharing our experiences, a few more families will give it a go.
-
-T﻿hanks to Susanne Treadwell for contributing to this article.
+*T﻿hanks to Susanne Treadwell for contributing to this article.*
