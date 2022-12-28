@@ -9,11 +9,9 @@ summary: Long train journeys with children don't have to be a challenge. Here
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows a little girl looking out of a train with her hands pressed against the glass. Her face is slightly reflected in the glass. ](/images/uploads/kids-on-train.jpg)
+If you are a parent you might baulk at the thought of taking young children on long train journeys, but it could be easier than you think. No travel comes without its challenges, but train travel often has advantages over flying.
 
-In the seven years since our son was born we have had six family holidays by train. We have only ever flown once with our son, and hands down we prefer train travel over flying.
-
-Here are just some of the reasons why we recommend train travel with children:
+Many parents find that train travel suits their children better once they give it a try, so we have collected some tips from experienced mums and dads for the best ways to travel by train with kids. 
 
 ### **Kids go free for longer**
 
@@ -74,3 +72,5 @@ We have found Deutsche Bahn to be the most child friendly so far on our travels.
 ~ Take a wheelie suitcase and rucksack each, so you can manage your luggage walking between trains. Our son managed his own rucksack and suitcase from the age of four.
 
 #### I don't miss flying and am always excited to plan our next rail adventure as a family. When talking to other parents about our holidays, it surprises me how many people don’t even consider the train as an option. I hope that by sharing our experiences, a few more families will give it a go.
+
+T﻿hanks to Susanne Treadwell for contributing to this article.
