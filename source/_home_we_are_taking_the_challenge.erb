@@ -52,24 +52,20 @@ function flip_square () {
   var this_challenge_id = this.id.replace("take-challenge-", "");
   var this_square = document.getElementById("take-challenge-square-"+this_challenge_id);
   if ( ! take_challenge_squares_hover_states[this_challenge_id] ) {
-    if ( this_square.classList.contains("transition") ) this_square.classList.remove("transition", "transition-opacity", "duration-1000", "ease-in-out");
+    //if ( this_square.classList.contains("transition") ) this_square.classList.remove("transition", "transition-opacity", "duration-1000", "ease-in-out");
+    //setTimeout ( this_square.classList.toggle("opacity-0"), 500 );
+    this_square.classList.toggle("opacity-0");
     take_challenge_squares_hover_states[this_challenge_id] = true;
-    setTimeout ( 
-      this_square.classList.toggle("opacity-0"), 
-      500 
-    );
   }
 }
 function reset_square_flip_state () {
   var this_challenge_id = this.id.replace("take-challenge-", "");
   var this_square = document.getElementById("take-challenge-square-"+this_challenge_id);
   if ( take_challenge_squares_hover_states[this_challenge_id] ) {
-    if ( ! this_square.classList.contains("transition") ) this_square.classList.add("transition", "transition-opacity", "duration-1000", "ease-in-out");
+    //if ( ! this_square.classList.contains("transition") ) this_square.classList.add("transition", "transition-opacity", "duration-1000", "ease-in-out");
+    //setTimeout ( this_square.classList.toggle("opacity-0"), 500 );
+    this_square.classList.toggle("opacity-0");
     take_challenge_squares_hover_states[this_challenge_id] = false;
-    setTimeout ( 
-      this_square.classList.toggle("opacity-0"), 
-      500 
-    );
   }
 }
 //document.getElementById("take_challenge_container").addEventListener("click", function(e) {
