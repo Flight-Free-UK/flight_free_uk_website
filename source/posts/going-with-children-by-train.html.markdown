@@ -52,9 +52,9 @@ A﻿s with any overland travel, the journey is part of the holiday. You can make
 
 S﻿tarting with a short hop to a nearby European city can ease you into travelling with your child, and from there you can build up the distances. 
 
-We have been to France, Germany, the Netherlands and Belgium, and last year we took the [Caledonian Sleeper](https://www.sleeper.scot) to the Highlands in Scotland. The sleeper train was a real hit with our son – he loved the fact he was in a bed on a train, and it had cool hidden compartments such as foldable bedside tables and a hidden sink. He also loved the interconnecting doors between our two rooms. The most exciting thing was going to sleep in busy, built up London and waking up surrounded by mountains and mist in Scotland.
+## 7﻿. Try sleeper trains
 
-This year we might take the new sleeper train from [Brussels to Vienna](https://www.nightjet.com/en), or the Eurostar to the south of France, or the fast train from Paris to Barcelona. All of these journeys are possible in a day, but we might stop over on the way, of course.
+We have been to France, Germany, the Netherlands and Belgium, and last year we took the [Caledonian Sleeper](https://www.sleeper.scot)Sleeper trains are always a real hit with children. It's exciting to be in bed on a train, and the clever compartments, foldable beside tables and hidden sinks are a novelty. The most exciting thing is going to sleep in a busy city and waking up surrounded by Scottish mountains or cruising along the Cornish Riviera. This is true for adults as well as children! 
 
 ### **Tips for planning your journey**
 
