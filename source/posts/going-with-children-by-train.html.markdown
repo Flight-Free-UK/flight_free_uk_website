@@ -1,9 +1,9 @@
 ---
-published: false
-title: Going with children by train
+published: true
+title: How to travel with kids
 category: travel
 date: 2020-02-11T12:31:47.906Z
-cover_image: /images/uploads/kids-on-train.jpg
+cover_image: /images/uploads/child_train_canva.jpg
 summary: Long train journeys with children don't have to be a challenge, says
   Susanne Treadwell, who shares her experiences of travelling by train with a
   family.
