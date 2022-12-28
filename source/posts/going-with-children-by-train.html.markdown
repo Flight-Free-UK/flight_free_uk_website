@@ -5,7 +5,8 @@ category: travel
 date: 2020-02-11T12:31:47.906Z
 cover_image: /images/uploads/child_train_canva.jpg
 summary: Long train journeys with children don't have to be a challenge. Here
-  are some top tips from experienced family rail travellers.
+  are some insights from experienced family rail travellers as to why the train
+  wins over the plane, and how to keep your young ones happy.
 author: FlightFree UK
 read_time_minute: 3
 ---
@@ -13,43 +14,41 @@ If you are a parent you might baulk at the thought of taking young children on l
 
 Many parents find that train travel suits their children better once they give it a try, so we have collected some tips from experienced mums and dads for the best ways to travel by train with kids. 
 
-### **Kids go free for longer**
+## **1. Kids go free for longer** 
 
-The majority of trains in Europe have free travel for children up to four years old (on aeroplanes it's typically up to two years old), and on the [Deutsche Bahn](https://www.bahn.de/en/view/index.shtml) in Germany children under the age of six can travel for free without a ticket. Even up to the age of 14, kids are free on the DB if accompanied by a parent or grandparent, if their names are added to the adult’s ticket. On the [Eurostar](https://www.eurostar.com/uk-en/), kids under the age of four must sit on a parent’s lap unless there is a spare seat available, but children of all ages can have their own seat in Germany.
+The majority of trains in Europe have free travel for children up to four years old, as opposed to up to two years old on a plane. 
+
+On the [Deutsche Bahn](https://www.bahn.de/en/view/index.shtml) in Germany, children under the age of six can travel for free without a ticket. Even up to the age of 14, kids are free on the DB if accompanied by a parent or grandparent, if their names are added to the adult’s ticket. 
+
+On the [Eurostar](https://www.eurostar.com/uk-en/), kids under the age of four must sit on a parent’s lap unless there is a spare seat available, but children of all ages can have their own seat in Germany. This means that rail travel can work out cheaper overall.
 
 > "We have only ever flown once with our son, and hands down we prefer train travel over flying."
 
-This means that rail travel can work out cheaper overall, especially in Germany. When we were booking a trip to Berlin, and on another occasion when we went to Nuremberg, I looked up the plane tickets to see what the price difference would be. I was pleasantly surprised to find that on both occasions, it was cheaper to travel by train.
-
 Interrail is also an option. Children go free on an Interrail pass up to the age of 12, so this can work out much cheaper for families than buying tickets direct, and can give more flexibility.
 
-### **Take as much luggage as you need**
+## **2. Take as much luggage as you need**
 
-We all know how much luggage you need as a family, and one of the great advantages to travelling by train is that there are no extra costs for taking luggage. There aren’t the same limits on baby milk or food which makes the journey so much easier.
+Travelling as a family often requires plenty of luggage, and one of the great advantages to travelling by train is that there are no extra costs for taking as much as you need with you. There aren’t the same limits on baby milk or food which makes the journey so much easier. 
 
-### **Space and comfort**
+## **3. Space and comfort**
 
-Trains generally have more space and are much more comfortable than planes. You can easily move around if you need to as well: on one particular journey our toddler son had a massive tantrum, and we were so relieved to be able to go somewhere away from other passengers. Afterwards he was so tired he slept for hours in his buggy by the doors – now you can't do that on a plane.
+Trains generally have more space and are much more comfortable than planes. You can easily move around if you need to, in case of tantrums or noisy episodes, and vestibule areas are great for giving your fellow passengers a break.
 
-Table seats are fantastic to be able to play board games as a family. Often our son does puzzles, crosswords or colouring, or plugs in the tablet and watches a movie, while I enjoy watching Europe zip by out the window.
+Table seats are fantastic to be able to play board games as a family. They can facilitate puzzles, crosswords or colouring, and plug sockets at tables mean that tablets or devices can be plugged in for movies or games.
 
-> "Often our son does puzzles, crosswords or colouring while I enjoy watching Europe zip by out the window."
+There's also the opportunity to walk about and go and visit the cafe/bar to choose some drinks and snacks.
 
-And of course there's also the opportunity to walk about and go and visit the cafe/bar to choose some drinks and snacks.
+## **4. Time passes differently on the train**
 
-### **Time passes differently on the train**
+A 12-hour train journey might sound like a nightmare, but it's not the same as a 12-hour flight. Regular stops provide structure and interest, and it's likely you will need to make connections in that time, which breaks things up in a positive way. Allowing extra time for connections means that interchanges can be adventures in their own right.
 
-It's easier to keep a child occupied on a long train journey versus a plane. When our son was five we travelled back from Berlin to London in one day, which is one of the longest journeys we have ever done. In total we were travelling for about 12 hours as we’d allowed extra time to make sure we made our connections, but our son was happy and occupied throughout the day. Having to change trains at Cologne and Brussels broke up the journey in a positive way, and we found changing trains relatively easy.
+B﻿reaking the journey overnight can be a good way to give everyone a break as well as spend time in a new city.
 
-> "It's easier to keep a child occupied on a long train journey versus a plane."
-
-We actually thought that journey would be really hard, but allowing extra time was a good decision as it made the journey smoother. While we usually break our journey with an overnight stay somewhere en route so we can spend some time in another city, going from Berlin to London in a day showed us that it’s possible.
-
-### **Make the journey part of the holiday**
+## **5. Make the journey part of the holiday**
 
 We now like to make the journey part of the holiday and the slow travel aspect becomes enjoyable, so you can stop off overnight in Brussels, Paris or Cologne or other intermediate stations for no extra cost in your ticket. It's also a good idea to break the journey for lunch and a walk around. Main stations are usually in the centre of town, so if you want to see a new city you can always drop off your bags at Left Luggage and go and explore outside the station.
 
-### **Start short and work up the distance**
+## **Start short and work up the distance**
 
 Our first train holiday as a family was a short hop from London to Brussels when our son was a baby. Since then we have become more confident to travel further and longer distances.
 
