@@ -43,6 +43,22 @@ collections:
       - {label: Author, name: author, widget: relation, collection: authors, valueField: name, searchFields: [name]}
       - {label: Read time, name: read_time_minute, widget: number}
       - {label: Body, name: body, widget: markdown}
+  - name: podcast_transcripts
+    label: Podcast transcripts
+    folder: source/podcast_transcripts/
+    extension: .html.markdown
+    format: frontmatter
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: Published, name: published, widget: boolean, default: true}
+      - {label: Title, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: datetime}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: Summary, name: summary, widget: text}
+      - {label: Author, name: author, widget: relation, collection: authors, valueField: name, searchFields: [name]}
+      - {label: Read time, name: read_time_minute, widget: number}
+      - {label: Body, name: body, widget: markdown}
   - name: podcasts
     label: Podcasts
     folder: data/podcasts

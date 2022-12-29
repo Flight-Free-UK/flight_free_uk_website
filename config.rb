@@ -72,6 +72,18 @@ activate :blog do |blog|
   blog.layout = "blog_post_travel_layout"
 end
 
+# the new how to section
+activate :blog do |blog|
+  blog.name = "podcast_transcripts"
+  #blog.prefix = "travel"
+  blog.generate_day_pages = false
+  blog.generate_month_pages = false
+  blog.generate_year_pages = false
+  blog.permalink = "podcast_transcripts/{title}.html"
+  blog.sources = "podcast_transcripts/{title}.html"
+  blog.layout = "blog_post_layout"
+end
+
 activate :external_pipeline,
   name: :webpack,
   command: (build? ? "npm run webpack" : "npm run webpack-watch"),
