@@ -27,9 +27,9 @@ collections:
       - {label: Author, name: author, widget: relation, collection: authors, valueField: name, searchFields: [name]}
       - {label: Read time, name: read_time_minute, widget: number}
       - {label: Body, name: body, widget: markdown}
-  - name: how_to
-    label: How tos
-    folder: source/how_tos/
+  - name: travel_articles
+    label: Travel articles
+    folder: source/posts_travel/
     extension: .html.markdown
     format: frontmatter
     create: true
@@ -179,12 +179,12 @@ collections:
       - {label: Publish Date, name: date, widget: date}
       - {label: Name/location, name: citation, widget: string}
       - {label: Image, name: image, widget: image}
-  - name: how_to_top_links
+  - name: how_to_links
     label: How to page – top links
     files:
       - label: Main "how to" links
         name: primary
-        file: "data/how_to_top_links/primary.yml"
+        file: "data/how_to_links/primary.yml"
         fields:
           - label: Links
             name: links
@@ -195,7 +195,7 @@ collections:
             - {label: URL for link, name: url, widget: string}
       - label: Secondary "how to travel" links
         name: secondary
-        file: "data/how_to_top_links/secondary.yml"
+        file: "data/how_to_links/secondary.yml"
         fields:
           - label: Links
             name: links

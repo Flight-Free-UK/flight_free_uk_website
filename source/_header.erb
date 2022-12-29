@@ -34,7 +34,7 @@
          "podcast" => "Podcast",
          "faq" => "FAQ"
        }.each do |path, name| %>
-       <% current = "#{path}.html" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("posts") && "articles" == path ) || ( current_page.path.include?("how_tos") && "how_to" == path ) %>
+       <% current = "#{path}.html" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("travel") && "how_to" == path ) || ( current_page.path.include?("posts") && !current_page.path.include?("travel") && "articles" == path ) || ( current_page.path.include?("how_tos") && "how_to" == path ) %>
        <%= link_to name, "/#{path}.html", class: "inline-block mb-8 xl:mb-0 #{!is_home ? "border-b-4" :  nil } #{current ? "border-orange" : "border-blue-dark"} leading-tight text-gray-light hover:text-orange" %>
     <% end %>
     </nav>
