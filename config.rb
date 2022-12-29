@@ -67,12 +67,12 @@ activate :blog do |blog|
   blog.generate_day_pages = false
   blog.generate_month_pages = false
   blog.generate_year_pages = false
-  blog.permalink = "travel/{title}.html"
+  blog.permalink = "travel_articles/{title}.html"
   blog.sources = "posts_travel/{title}.html"
   blog.layout = "blog_post_travel_layout"
 end
 
-# the new how to section
+# the podcast transcripts section
 activate :blog do |blog|
   blog.name = "podcast_transcripts"
   #blog.prefix = "travel"

@@ -62,7 +62,7 @@ title: Podcast
                     <span class="mr-2"><%= partial "/svg/podcast-listen-now.svg" %></span> Listen now
                   </a>
                   <%- if defined?(podcast.transcript_url) and podcast.transcript_url %>
-                  <a href="<%= podcast.transcript_url %>" target="_blank" class="flex items-center">
+                  <a href="<%= podcast.transcript_url %>" class="flex items-center">
                     <span class="mr-2"><%= partial "/svg/podcast-read-transcript.svg" %></span> Read transcript
                   </a>
                   <%- end %>
