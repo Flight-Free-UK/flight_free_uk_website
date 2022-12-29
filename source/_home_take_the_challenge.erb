@@ -25,7 +25,7 @@
 </section>
 
 <script>
-fetch('https://flightfree.jakemcmurchie.net/counter')
+fetch('https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk/counter')
   .then(response => response.json())
   .then(json => JSON.parse(json))
   .then(output => document.getElementById('counter').innerHTML = output)
@@ -35,7 +35,7 @@ fetch('https://flightfree.jakemcmurchie.net/counter')
   })
 window.addEventListener("message", (event) => {
   console.log(event)
-  if (event.origin !== "https://flightfree.jakemcmurchie.net" || event.data !== "update_counter") {
+  if (event.origin !== "https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk" || event.data !== "update_counter") {
     return;
   } else {
     console.log("Updating counter!");
