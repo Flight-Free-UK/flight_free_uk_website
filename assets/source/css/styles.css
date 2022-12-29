@@ -276,26 +276,26 @@ svg.arrow-curled {
 
 @media (min-width: 1280px) {
 	.blog-post-body h1 {
-		@apply text-4xl;
+		@apply text-title;
 	}
 
 	.blog-post-body h2 {
-		@apply text-4xl;
+		font-size: 38px;
 	}
 
 	.blog-post-body h3 {
-		@apply text-3xl;
+		font-size: 32px;
 	}
 
 	.blog-post-body h4 {
-		@apply text-2xl;
+		font-size: 26px;
 	}
 
 	.blog-post-body>p,
 	.blog-post-body ul,
 	.blog-post-body ol,
 	.blog-post-body figcaption {
-		@apply text-xl;
+		font-size: 26px;
 	}
 
 	.blog-post-body blockquote {
