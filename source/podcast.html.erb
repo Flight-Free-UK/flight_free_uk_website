@@ -16,7 +16,7 @@ title: Podcast
 
         <% podcasts = data.podcasts.values.sort_by(&:date).reverse %>
         <% podcast = podcasts.shift %>
-        <div class="bg-blue-dark text-white relative block md:flex items-stretch md:h-230 mb-4 md:mb-12">
+        <div class="bg-blue-dark text-gray-light relative block md:flex items-stretch md:h-230 mb-4 md:mb-12">
             <div class="absolute top-0 right-0 z-10 w-full h-32 bg-no-repeat bg-right-top" style="background-image:url(/images/latest_podcast.png)"></div>
             <div class="flex-shrink-0 w-full md:w-230 md:h-230 md:mr-6">
                 <img src="<%= podcast.cover_image %>" alt="Image for <%= podcast.title %>" class="object-cover w-full md:w-230 h-auto md:h-230" />
@@ -44,7 +44,7 @@ title: Podcast
         </div>
 
         <% podcasts.each do |podcast| %>
-        <div class="bg-blue-dark text-white relative block md:flex items-stretch lg:h-40 mb-4 md:mb-12">
+        <div class="bg-blue-dark text-gray-light relative block md:flex items-stretch lg:h-40 mb-4 md:mb-12">
             <div class="flex-shrink-0 w-full md:w-40 md:h-40 md:mr-6">
                 <img src="<%= podcast.cover_image %>" alt="Image for <%= podcast.title %>" class="object-cover w-full md:w-40 h-auto md:h-40" />
             </div>

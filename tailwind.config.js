@@ -1,5 +1,9 @@
 module.exports = {
   theme: {
+    textColor: theme => ({
+      ...theme("colors"),
+      "gray-light": "#f9f9f9"
+    }),
     backgroundColor: theme => ({
       ...theme("colors"),
       "gray-light": "#f9f9f9"

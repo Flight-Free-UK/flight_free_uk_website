@@ -1,5 +1,5 @@
 
-<section id="mythbusters" class="hidden bg-blue text-white">
+<section id="mythbusters" class="hidden bg-blue text-gray-light">
     <div class="container mx-auto px-2 lg:px-16">
       <h2 class="text-4xl lg:text-5xl pt-12 pb-6 text-center">Fact or fiction...?</h2>
     </div>
@@ -7,8 +7,8 @@
         <div class="p-4 sm:p-8 md:py-12 lg:p-16 bg-gray-light rounded-xl sm:rounded-4xl text-center">
             <p id="mb-question" class="text-xl md:text-2xl xl:text-4xl xl:mt-4 mb-4 md:mb-8 xl:mb-12 leading-tight"></p>
             <div id="mb-answer-options" class="flex justify-center">
-                <button id="mb-true" class="bg-blue-dark text-white hover:bg-orange text-lg sm:text-2xl uppercase border-blue-dark w-140 px-8 xl:px-8 py-1 xl:py-2 mx-1 sm:mx-4 xl:mx-8 rounded-xl sm:rounded-2xl">True</button>
-                <button id="mb-false" class="bg-blue-dark text-white hover:bg-orange text-lg sm:text-2xl uppercase border-blue-dark w-140 px-8 xl:px-8 py-1 xl:py-2 mx-1 sm:mx-4 xl:mx-8 rounded-xl sm:rounded-2xl">False</button>
+                <button id="mb-true" class="bg-blue-dark text-gray-light hover:bg-orange text-lg sm:text-2xl uppercase border-blue-dark w-140 px-8 xl:px-8 py-1 xl:py-2 mx-1 sm:mx-4 xl:mx-8 rounded-xl sm:rounded-2xl">True</button>
+                <button id="mb-false" class="bg-blue-dark text-gray-light hover:bg-orange text-lg sm:text-2xl uppercase border-blue-dark w-140 px-8 xl:px-8 py-1 xl:py-2 mx-1 sm:mx-4 xl:mx-8 rounded-xl sm:rounded-2xl">False</button>
             </div>
             <p id="mb-answer-true" class="hidden text-2xl xl:text-4xl inline-block border-4 border-orange px-8 xl:px-16 py-4 mb-4 xl:mb-8">
                 True!
@@ -18,7 +18,7 @@
             </p>
             <p id="mb-reason" class="hidden text-md xl:text-xl leading-tight xl:mx-32 mb-4 xl:mb-8"></p>
             <div id="mb-nav" class="mb-4">
-                <button id="mb-next" class="bg-blue-dark text-white hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-1 xl:py-4 mr-2">Next question</button>
+                <button id="mb-next" class="bg-blue-dark text-gray-light hover:bg-orange hover:text-blue-dark disabled:opacity-25 text-xl border-blue-dark px-8 xl:px-16 py-1 xl:py-4 mr-2">Next question</button>
             </div>
         </div>
     </div>
@@ -27,7 +27,7 @@
       <div class="md:hidden w-1/2 mx-auto py-8"><%= partial "svg/face_and_shoulders_in_profile.svg" %></div>
       <div class="hidden md:flex justify-center mx-auto col-start-2 pt-8"><%= partial "svg/face_in_profile.svg" %></div>
       <p class="col-start-3 flex justify-end">
-        <% link_to "/faq.html", class: "block text-right flex justify-end items-center pt-1 pb-8 font-bold text-lg xl:text-2xl text-white hover:text-orange" do %>
+        <% link_to "/faq.html", class: "block text-right flex justify-end items-center pt-1 pb-8 font-bold text-lg xl:text-2xl text-gray-light hover:text-orange" do %>
           Find out more <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2" />
         <% end %>
       </p>
