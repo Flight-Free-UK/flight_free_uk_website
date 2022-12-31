@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: London to Leverkusen
 category: travel
 date: 2019-11-06T11:22:08.331Z
-cover_image: /images/uploads/cologne.jpg
+cover_image: /images/uploads/cologne_canva.jpg
 summary: Does a business meeting in Europe have to mean a flight? Definitely
   not, says Martin Siegert, now he has discovered Europe’s high speed rail
   network.
