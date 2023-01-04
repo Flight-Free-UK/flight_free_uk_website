@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Top ten destinations for UK holidays
 category: travel
 date: 2020-06-03T14:48:38.976Z

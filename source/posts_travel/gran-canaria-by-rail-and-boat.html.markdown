@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Gran Canaria by rail and boat
 category: travel
 date: 2019-07-22T12:48:15.477Z

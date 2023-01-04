@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Destination UK: Off the Beaten Track"
-category: travel
+category: opinion
 date: 2020-07-02T07:56:56.855Z
 cover_image: /images/uploads/trains-not-planes.jpg
 summary: "There's no need to head abroad for holidays when we have so much here

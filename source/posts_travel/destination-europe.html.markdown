@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Destination: Europe"
 category: travel
 date: 2020-12-21T13:54:37.973Z
