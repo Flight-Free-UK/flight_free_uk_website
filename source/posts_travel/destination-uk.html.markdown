@@ -1,7 +1,7 @@
 ---
 published: true
 title: Top ten destinations for UK holidays
-category: travel
+category: opinion
 date: 2020-06-03T14:48:38.976Z
 cover_image: /images/uploads/od4a3534.jpg
 summary: Lockdown doesn't have to mean an end to holidays. There's a huge amount
