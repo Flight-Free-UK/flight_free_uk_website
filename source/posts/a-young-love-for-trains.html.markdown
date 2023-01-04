@@ -1,7 +1,7 @@
 ---
 published: true
 title: A young love of train travel
-category: travel
+category: opinion
 date: 2020-11-15T10:23:01.365Z
 cover_image: /images/uploads/germana-davide-vitor-pinto-m-gpgrgskn0-unsplash.jpg
 summary: "Germana and her son Davide write the No Fly Europe blog, documenting

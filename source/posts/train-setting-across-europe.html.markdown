@@ -1,7 +1,7 @@
 ---
 published: true
 title: Train-setting across Europe
-category: travel
+category: opinion
 date: 2019-07-17T13:07:56.915Z
 cover_image: /images/uploads/trains-not-planes.jpg
 summary: Arts and sustainability group Creative Carbon Scotland has a general

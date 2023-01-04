@@ -1,7 +1,7 @@
 ---
 published: true
 title: The slow boat to South America (and other stories)
-category: travel
+category: opinion
 date: 2019-03-25T16:36:11.305Z
 cover_image: /images/uploads/lewis-holding-pledge.jpg
 summary: A keen traveller, it was difficult for Lewis to reconcile his desire to

@@ -1,7 +1,7 @@
 ---
 published: true
 title: Travel tips for train first-timers
-category: travel
+category: opinion
 date: 2019-08-14T11:55:34.398Z
 cover_image: /images/uploads/back-seat-driver.jpeg
 summary: Ian Garman, travel blogger at Best Dead Ends, offers his advice for

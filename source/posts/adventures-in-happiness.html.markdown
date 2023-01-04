@@ -1,7 +1,7 @@
 ---
 published: true
 title: Adventures in happiness
-category: travel
+category: opinion
 date: 2019-05-16T14:53:32.344Z
 cover_image: /images/uploads/happy-boyce-1.jpg
 summary: "After travelling for eighteen months, cycling through Europe, South

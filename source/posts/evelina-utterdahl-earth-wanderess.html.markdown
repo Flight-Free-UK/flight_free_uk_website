@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Evelina Utterdahl: Earth Wanderess"
-category: travel
+category: opinion
 date: 2019-03-04T16:58:10.322Z
 cover_image: /images/uploads/evelina.jpg
 summary: "We meet Evelina Utterdahl, Swedish climate activist and eco-warrior

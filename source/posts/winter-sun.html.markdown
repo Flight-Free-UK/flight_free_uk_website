@@ -1,7 +1,7 @@
 ---
 published: true
 title: Winter Sun
-category: travel
+category: opinion
 date: 2019-12-23T01:00:00.000Z
 cover_image: /images/uploads/winter-sun-through-trees.jpeg
 summary: Paul Powlesland, founder of Lawyers for Nature and once-frequent winter
