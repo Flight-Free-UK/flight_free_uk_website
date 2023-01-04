@@ -59,6 +59,7 @@ module.exports = {
           "text-light": "#3e5a90",
           "default": "#357cb6",
           "twitter": "#00aaec",
+          "dark-translucent": "rgba(31,77,123,0.8)",
         },
         "orange": {
           "default": "#f7b38a",
