@@ -1,7 +1,7 @@
 ---
 published: true
 title: My no-fly year
-category: opinion
+category: testimonials
 date: 2019-01-28T17:30:24.567Z
 cover_image: /images/uploads/viviana-camper.jpeg
 summary: In June 2017, Viviana Jiménez took a year off flying. With family
