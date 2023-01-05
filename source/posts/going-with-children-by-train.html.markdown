@@ -12,6 +12,8 @@ read_time_minute: 3
 ---
 If you are a parent you might baulk at the thought of taking young children on long train journeys, but it could be easier than you think. No travel comes without its challenges, but train travel often has advantages over flying.
 
+A 12-hour train journey might sound like a nightmare, but it's not the same as a 12-hour flight. Regular stops provide structure and interest, and it's likely you will need to make connections in that time, which breaks things up in a positive way. Allowing extra time for connections means that interchanges can be adventures in their own right.
+
 Many parents find that train travel suits their children better once they give it a try, so we have collected some tips from experienced mums and dads for the best ways to travel by train with kids. 
 
 ## **1. Kids go free for longer**
@@ -40,37 +42,37 @@ Table seats are fantastic to be able to play board games as a family. They can f
 
 There's also the opportunity to walk about and go and visit the cafe/bar to choose some drinks and snacks.
 
-## **4. Time passes differently on the train**
-
-A 12-hour train journey might sound like a nightmare, but it's not the same as a 12-hour flight. Regular stops provide structure and interest, and it's likely you will need to make connections in that time, which breaks things up in a positive way. Allowing extra time for connections means that interchanges can be adventures in their own right.
-
-## **5. Add stops for lunch or overnight**
+## **4. Add stops for lunch or overnight**
 
 A﻿s with any overland travel, the journey is part of the holiday. You can make this more intentional by incorporating overnight stops, often for no extra cost in your ticket. It's a good idea to break the journey for lunch and a walk around the area surrounding the station – dropping bags at Left Luggage can help with this.
 
-## **6. Start short and work up the distance**
+## **5. Start short and work up the distance**
 
 S﻿tarting with a short hop to a nearby European city can ease you into travelling with your child, and from there you can build up the distances. 
 
-## 7﻿. Try sleeper trains
+## 6. Try sleeper trains
 
 Sleeper trains are always a real hit with children. It's exciting to be in bed on a train, and the clever compartments, foldable beside tables and hidden sinks are a novelty. The most exciting thing is going to sleep in a busy city and waking up surrounded by Scottish mountains or cruising along the Cornish Riviera. This is true for adults as well as children! 
 
 T﻿ravelling while asleep can save time and money (compared to a hotel) and has the added excitement factor. Just remember to pack ear plugs and eye mask to ensure a sound night's sleep.
 
-## 8﻿. Book early for the best price
+## 7﻿. Book early for the best price
 
 I﻿f you set up ticket alerts on Rail Europe you can find out in advance when tickets go on sale. 
 
-## **9. G﻿o with Deutsche Bahn**
+## **8. Top rail company: Deutsche Bahn!**
 
 Some train companies have special family areas on their trains, and Deutsche Bahn is widely acknowledged as the most child friendly rail operator in Europe. Not only can children travel for free with their own seat, they get free toys and magazines from the cafe. 
 
-### **Must haves:**
+## 9. Take food, drink and activities
 
-~ Take plenty of food and drinks, although prioritise meals and water, as it’s easy to buy a hot drink (even in your own cup!) or snacks, but it can be difficult to get your water bottle refilled. 
+A﻿ terrific advantage of train travel is there's no restriction on the amount of food and drink you can bring – other than what you can carry! A picnic lunch can be a great way to fill some time on a long train journey as well as being a novelty for the kids. Don't forget to bring plenty of water, as it’s easy to buy a hot drink or snacks, but it can be difficult to get your water bottle refilled. 
 
 ~ Take plenty of activities to entertain the kids, including card games or colouring books. It's also a good idea to download some games or videos for your electronic devices: while plugs are available for recharging, the WiFi/phone signal can be intermittent. 
+
+1﻿0. Take a wheelie suitcase and rucksack each
+
+Even young children can manage a small wheelie suitcase and backpack. Sharing the luggage out between everyone makes it much easier when walking between trains, and children love to feel helpful by taking some of the 
 
 ~ Take a wheelie suitcase and rucksack each, so you can manage your luggage walking between trains. Our son managed his own rucksack and suitcase from the age of four.
 
