@@ -1,7 +1,7 @@
 ---
 published: true
 title: Why I am flight free
-category: opinion
+category: testimonials
 date: 2019-10-29T10:42:09.377Z
 cover_image: /images/uploads/helena-snowdonia.jpg
 summary: Helena Ritter explains why she made the decision to quit flying

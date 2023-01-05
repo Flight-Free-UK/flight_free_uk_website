@@ -1,7 +1,7 @@
 ---
 published: true
 title: Tossing out the bucket list
-category: opinion
+category: testimonials
 date: 2020-03-03T12:41:04.287Z
 cover_image: /images/uploads/machupicchu-unsplash-scott-umstattd.jpg
 summary: Ellen Petry Leanse asks what impact our travel ambitions have on the

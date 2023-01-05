@@ -1,6 +1,6 @@
 ---
 published: true
-title: The slow boat to South America (and other stories)
+title: Slow boat to South America
 category: testimonials
 date: 2019-03-25T16:36:11.305Z
 cover_image: /images/uploads/lewis-holding-pledge.jpg

@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 title: No more bites of the Big Apple
-category: opinion
+category: testimonials
 date: 2020-06-23T09:20:26.478Z
 cover_image: /images/uploads/nyc.jpg
 summary: Anna Hughes asks, are we missing out by not travelling long haul?

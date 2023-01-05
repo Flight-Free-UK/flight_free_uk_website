@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 title: Does the music industry have a flying problem?
-category: opinion
+category: testimonials
 date: 2020-12-18T11:56:56.123Z
 cover_image: /images/uploads/trinity_college_choir_keith_saunders.jpg
 summary: When classical singer Nina Vinther boycotted her choir's overseas tour,

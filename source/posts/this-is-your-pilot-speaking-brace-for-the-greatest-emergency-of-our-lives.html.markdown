@@ -1,7 +1,7 @@
 ---
 published: true
-title: "This is your pilot speaking: brace for the greatest emergency of our lives"
-category: opinion
+title: "This is your pilot speaking: brace brace brace"
+category: testimonials
 date: 2021-01-07T14:44:57.978Z
 cover_image: /images/uploads/pilots-at-the-cockpit-jon-flobrant-unsplash.jpg
 summary: The climate crisis is the greatest emergency facing humanity today.

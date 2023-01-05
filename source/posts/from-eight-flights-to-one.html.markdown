@@ -1,7 +1,7 @@
 ---
 published: true
 title: From eight flights to one
-category: climate
+category: testimonials
 date: 2019-11-26T09:29:25.930Z
 cover_image: /images/uploads/christinebell.jpg
 summary: Christine Bell took eight flights in 2018, down to just one in 2019.

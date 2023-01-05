@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 title: When climate responsibility breaks the heart
-category: opinion
+category: testimonials
 date: 2019-05-29T14:48:03.591Z
 cover_image: /images/uploads/credit-jayme_elkins-with_many_roots-holiday_in_scotland.jpg
 summary: Claire Thompson's sons live half a world away, in New Zealand. In over

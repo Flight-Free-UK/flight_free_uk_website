@@ -1,7 +1,7 @@
 ---
 published: true
 title: Island Life
-category: opinion
+category: testimonials
 date: 2022-01-20T15:09:30.133Z
 cover_image: /images/uploads/isle-of-man-james-qualtrough-unsplash.jpg
 summary: "Elaine Burton shares her experience of what it's like to live on a
