@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 title: Out of Africa
-category: opinion
+category: testimonials
 date: 2021-08-26T08:57:23.035Z
 cover_image: /images/uploads/documentary-video-production-uganda.jpg
 summary: Television producer and director John Mullen explores the impact of
