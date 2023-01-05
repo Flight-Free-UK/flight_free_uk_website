@@ -1,7 +1,7 @@
 ---
 published: true
 title: "'What love requires'"
-category: climate
+category: testimonials
 date: 2019-02-22T16:50:32.841Z
 cover_image: /images/uploads/file-2-.jpg
 summary: Children's author Sue Hampton explains how not flying is not a
