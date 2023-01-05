@@ -52,11 +52,11 @@ Wild camping (pitching up away from an ‘official’ campsite) can be a terrifi
 
 ### Couchsurfing
 
-There are several networks throughout the UK and Europe that offer free accommodation in people’s houses. Couchsurfing is the oldest and most established, and there’s also Warmshowers (specifically for touring cyclists). 
+There are several networks throughout the UK and Europe that offer free accommodation in people’s houses. [Couchsurfing](https://www.couchsurfing.com/) is the oldest and most established, and there’s also [Warmshowers](https://www.warmshowers.org/) (specifically for touring cyclists). 
 
 ### Stay with a friend/houseswap
 
-Staying with friends or even houseswapping is a great way to see somewhere new while getting some free accommodation. Look up Houseswap online. 
+Staying with friends or even house-swapping is a great way to see somewhere new while getting some free accommodation. There are websites dedicated to finding your ideal houseswap location, such as [Love Home Swap](https://www.lovehomeswap.com/).
 
 ## Food
 
