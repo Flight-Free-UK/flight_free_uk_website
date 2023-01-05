@@ -44,9 +44,12 @@ window.addEventListener("message", (event) => {
     var count = parseInt(counter);
     console.log("Current count: "+count);
     if ( ! isNaN(count) ) {
-      counter = count++;
+      console.log(count)
+      count = count+1;
+      console.log(count)
+      document.getElementById("counter").innerHTML = count;
     }
-    console.log("Updated count: "+counter);
+    console.log("Updated count: "+document.getElementById("counter").innerHTML);
   }
 }, false);
 // the fudge loading html rather than via the api
