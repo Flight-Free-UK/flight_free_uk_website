@@ -46,7 +46,7 @@ Hostels are a great option for budget travel, and you’ll find them in towns an
 
 Bringing your own accommodation in the form of a tent can really keep the costs down, and you’ll find campsites in most locations across Europe. The facilities can be very satisfactory: all campsites will have washrooms, and some will also have restaurants and bars. 
 
-It's possible to camp without using a campsite: networks such as Stay in my garden and PitchUp can be a fantastic way of staying in a new location for free, at the same time as meeting people and making connections with the locals. 
+It's possible to camp without using a campsite: networks such as [Welcome to my garden](https://welcometomygarden.org/) or [Camp in my garden](https://campinmygarden.com/) can be a fantastic way of staying in a new location for free, at the same time as meeting people and making connections with the locals. 
 
 Wild camping (pitching up away from an ‘official’ campsite) can be a terrific option and gives ultimate freedom in terms of where you go, but be careful that you’re not trespassing on private land. Rules for wild camping: keep away from roads or houses, and don’t leave any rubbish or anything behind.
 
