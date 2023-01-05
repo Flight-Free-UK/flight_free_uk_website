@@ -1,7 +1,7 @@
 ---
 published: true
 title: A Champion for Earth
-category: climate
+category: testimonials
 date: 2019-07-29T12:34:18.778Z
 cover_image: /images/uploads/etienne-anna.jpg
 summary: Listen to our podcast interview with Etienne Stott, gold medal-winning
