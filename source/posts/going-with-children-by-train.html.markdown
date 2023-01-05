@@ -72,8 +72,6 @@ A﻿ terrific advantage of train travel is there's no restriction on the amount 
 
 1﻿0. Take a wheelie suitcase and rucksack each
 
-Even young children can manage a small wheelie suitcase and backpack. Sharing the luggage out between everyone makes it much easier when walking between trains, and children love to feel helpful by taking some of the 
-
-~ Take a wheelie suitcase and rucksack each, so you can manage your luggage walking between trains. Our son managed his own rucksack and suitcase from the age of four.
+Even young children can manage a small wheelie suitcase and backpack. Sharing the luggage out between everyone makes it much easier when walking between trains, and children love to feel helpful by having their own bag. Just make sure you know who has what so nothing is left behind!
 
 *T﻿hanks to Susanne Treadwell for contributing to this article.*
