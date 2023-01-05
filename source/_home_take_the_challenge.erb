@@ -16,7 +16,7 @@
   </div>
   <div class="container mx-auto px-2 lg:px-16 md:grid grid-cols-131 justify-center items-center">
     <p class="xl:order-2 col-start-3 flex justify-end">
-      <% link_to "/how_to/", class: "block text-right flex justify-end items-center pt-1 pb-8 font-bold text-lg xl:text-2xl text-gray-light hover:text-orange" do %>
+      <% link_to "/blog/categories/testimonials/", class: "block text-right flex justify-end items-center pt-1 pb-8 font-bold text-lg xl:text-2xl text-gray-light hover:text-orange" do %>
         Find out more <img src="/svg/orange_arrow_right.svg" alt="arrow graphic" width="44" height="44" class="inline-block w-8 sm:w-10 h-auto ml-2" />
       <% end %>
     </p>
@@ -34,7 +34,6 @@ fetch('https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk/coun
     console.error(error)
   })
 window.addEventListener("message", (event) => {
-  console.log(event)
   if (event.origin !== "https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk" || event.data !== "update_counter") {
     return;
   } else {

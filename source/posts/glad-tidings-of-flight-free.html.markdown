@@ -28,4 +28,4 @@ As a result I felt more connected to our friends than ever. Perhaps it’s never
 
 Of course 2020 turned out very differently from what we expected, and I expect some of the people who told me about their planned trips will have been flight free after all. I’m going to mention it again in my Christmas cards this year, but I haven’t quite decided how. Perhaps I’ll just use the hashtag #FlightFree2021. Now our friends know a bit more about me, I’m sure no further explanation is needed.
 
-#### Could you use your Christmas cards to spread the message this year? Download our flyer from our [Downloads page](/downloads).
+#### Could you use your Christmas cards to spread the message this year? Download our flyer from our [Resources page](/resources).
