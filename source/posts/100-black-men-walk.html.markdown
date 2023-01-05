@@ -1,7 +1,7 @@
 ---
 published: true
 title: Black Men Walk
-category: opinion
+category: testimonials
 date: 2021-04-22T14:20:24.064Z
 cover_image: /images/uploads/maxwell_ayamba_portrait.jpeg
 summary: Maxwell Ayamba, co-founder of 100 Black Men Walk, shares his philosophy
