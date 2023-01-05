@@ -1,7 +1,7 @@
 ---
 published: true
 title: "George Monbiot: how to stop the planet burning"
-category: opinion
+category: testimonials
 date: 2022-02-10T18:41:32.531Z
 cover_image: /images/uploads/george_monbiot.jpg
 summary: Journalist and environmental commentator George Monbiot speaks to us
