@@ -1,7 +1,7 @@
 ---
 published: true
 title: In the name of love
-category: opinion
+category: testimonials
 date: 2020-03-17T15:47:25.698Z
 cover_image: /images/uploads/claireboyf.jpg
 summary: "A global society means ‘love miles’ are common. But to avoid the
