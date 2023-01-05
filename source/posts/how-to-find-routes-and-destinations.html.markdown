@@ -23,13 +23,13 @@ Spend many happy hours scrolling through the pages while dreaming and planning. 
 
 See also: [carbon savings of rail travel](https://www.seat61.com/CO2flights)
 
-> "Train travel is a more rewarding alternative to flying which reduces our contribution to climate change and brings us closer to the countries we visit" 
+> "Train travel is a more rewarding alternative to flying which reduces our contribution to climate change and brings us closer to the countries we visit." 
 
 ~ Mark Smith, seat61.com
 
 ## Byway
 
-Take the stress out of planning your journey by letting Byway do it for you. Byway is a 100% flight-free travel agent, who will book your travel and accommodation and, as part of the package, provide a bespoke itinerary and on-trip WhatsApp support.
+Take the stress out of planning your journey by letting [Byway](https://www.byway.travel/) do it for you. Byway is a 100% flight-free travel agent, who will book your travel and accommodation and, as part of the package, provide a bespoke itinerary and on-trip WhatsApp support.
 
 Byway was founded in 2020 by Cat Jones, a keen traveller who was constantly frustrated at how hard it is to travel without flying. She set up her own company to meet that need and help others discover the wonders of overland travel. 
 
