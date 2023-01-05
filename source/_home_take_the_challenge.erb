@@ -34,6 +34,8 @@ fetch('https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk/coun
     console.error(error)
   })
 window.addEventListener("message", (event) => {
+  console.log("event.origin "+event.origin)
+  console.log("event.data "+event.data)
   if (event.origin !== "https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk" || event.data !== "update_counter") {
     return;
   } else {
