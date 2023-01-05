@@ -70,7 +70,7 @@ A﻿ terrific advantage of train travel is there's no restriction on the amount 
 
 ~ Take plenty of activities to entertain the kids, including card games or colouring books. It's also a good idea to download some games or videos for your electronic devices: while plugs are available for recharging, the WiFi/phone signal can be intermittent. 
 
-1﻿0. Take a wheelie suitcase and rucksack each
+## 1﻿0. Take a wheelie suitcase and rucksack each
 
 Even young children can manage a small wheelie suitcase and backpack. Sharing the luggage out between everyone makes it much easier when walking between trains, and children love to feel helpful by having their own bag. Just make sure you know who has what so nothing is left behind!
 
