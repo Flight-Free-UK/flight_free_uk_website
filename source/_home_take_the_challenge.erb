@@ -25,7 +25,7 @@
 </section>
 
 <script>
-fetch('https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk/counter')
+fetch('https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk/counter/')
   .then(response => response.json())
   .then(json => JSON.parse(json))
   .then(output => document.getElementById('counter').innerHTML = output)
@@ -37,12 +37,14 @@ window.addEventListener("message", (event) => {
   if (event.origin !== "https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk" || event.data !== "update_counter") {
     return;
   } else {
-    console.log("Updating counter!");
+    console.log("... Update counter message received.");
     var counter = document.getElementById("counter").innerHTML;
     var count = parseInt(counter);
+    console.log("Current count: "+count);
     if ( ! isNaN(count) ) {
       counter = count++;
     }
+    console.log("Updated count: "+counter);
   }
 }, false);
 // the fudge loading html rather than via the api
