@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Ghost flights petition: response"
-category: opinion
+category: policy-position
 date: 2022-03-02T18:12:00.817Z
 cover_image: /images/uploads/sign-ghost-flights-petition.jpg
 summary: "Here we analyse the Government's response to our petition to end ghost
