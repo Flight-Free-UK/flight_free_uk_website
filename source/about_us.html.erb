@@ -1,30 +1,36 @@
 ---
 title: About us
 ---
-<section class="bg-gray-light section--intro">
-  <div class="container mx-auto px-4 sm:px-8 xl:px-24 xxl:px-48 py-6 sm:py-12 xl:py-24 text-text-default">
-    <h1 class="text-4xl xl:text-5xl text-blue-dark mb-6">About us</h1>
-    <p class="text-2xl xl:text-3xl mb-6 xl:mb-8 leading-tight text-blue"> Our mission is to inform people of the climate impact of aviation and inspire them to travel by other means. 
-	    We ask people to take a year off flying to reduce emissions and shift the norm away from aviation.</p>	    
-    <p class="text-text-default text-lg xl:text-xl mb-4 xl:mb-8 leading-tight"> Flight Free UK began life in February 2019, inspired by the Swedish
-      <i>Flygfritt</i> (flight free) movement. In our first year, over 6,800 people took the pledge in the UK, with over 26,000 people taking the pledge globally.
-    </p>
-	  <p class="text-text-default text-lg xl:text-xl mb-4 xl:mb-8 leading-tight"> We are part of <a class="text-orange underline" href="https://vihallerosspajorden.se/in-english/" target="_blank"> We Stay on the Ground</a>, the international movement that is spreading the flight free message all over the world. 
-		  We are also members of the Europe-based organisation <a class="text-orange underline" href="https://stay-grounded.org/" target="_blank">Stay Grounded<a/>, which campaigns for a just transition away from aviation, and <a class="text-orange underline" href="https://www.wedonthavetime.org/" target="_blank"> We Don't Have Time</a>, a global social network pushing solutions to the climate crisis.
-    </p>
-	  <p class="text-text-default text-lg xl:text-xl mb-4 xl:mb-8 leading-tight"> Flight Free UK became a registered charity in June 2022. Our charity number is 1199328.
-    </p>
-    <h2 class="text-4xl xl:text-5xl text-blue-dark mb-6">The Team</h2>
-    <div class="xl:flex flex-wrap justify-center">
+<main>
+
+<section class="section--introduction bg-gray-light text-blue-dark">
+  <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
+    <h1 class="text-4xl xl:text-5xl font-bold leading-tight mb-6">About us</h1>
+    <p class="text-xl lg:text-2xl xl:text-3xl italic mb-6 sm:mb-8 leading-tight">"Our mission is to inform people of the climate impact of aviation and inspire people to travel by other means."</p>
+    <p class="text-xl lg:text-2xl xl:text-3xl mb-6 sm:mb-8 leading-tight">Flight Free UK was set up in 2018 by Anna Hughes, a behaviour change specialist and long-time advocate of flight-free travel. We challenge people to take a year off flying to reduce emissions and shift the norm away from aviation. Our short-term challenge is a great way to inspire long-term behaviour change, and we show that individual consumer choices can lead to industry and system change.</p>
+    <p class="text-xl lg:text-2xl xl:text-3xl mb-6 sm:mb-8 leading-tight">Prompted by the IPCC '12 year' report, and inspired by the Swedish flygfritt (flight free) movement, Flight Free UK launched its first 'flight free year' pledge in 2019. We collected over 6000 pledges from people promising to take a year off flying, before Covid came along and took the decision out of people's hands. You can read how Covid affected our campaign <a href="/articles" class="border-b-4 border-orange hover:text-orange">on our blog</a>. Despite the travel difficulties brought about by the pandemic, we have continued to inspire people to travel without flying for the sake of the climate.</p>
+    <p class="text-xl lg:text-2xl xl:text-3xl mb-6 sm:mb-8 leading-tight">We know that <a href="#" class="border-b-4 border-orange hover:text-orange">individual action alone isn't enough</a> when it comes to responding to the climate emergency, but our campaign is about more than lots of individuals changing their travel behaviour. Our collective action puts pressure on government and industry to make low-carbon travel more accessible for more people. More powerfully, we are heavily influenced by those around us, so as more people choose to stay on the ground, many more will follow.</p>
+    <p class="text-xl lg:text-2xl xl:text-3xl mb-6 sm:mb-8 leading-tight">At Flight Free UK we focus on just one of the measures that will lead to a reduction in aviation, and we are part of a network of campaigns working in other areas, including <a href="#" class="border-b-4 border-orange hover:text-orange">resisting airport expansion</a>, <a href="#" class="border-b-4 border-orange hover:text-orange">demanding fair taxation</a>, and <a href="#" class="border-b-4 border-orange hover:text-orange">exposing government and industry greenwash</a>.</p>
+    <p class="text-xl lg:text-2xl xl:text-3xl mb-6 sm:mb-8 leading-tight">Our positive campaign empowers and inspires people to give flight-free travel a try, for the sake of the climate and for their own benefit as travellers.</p>
+    <h3 class="text-2xl lg:text-3xl xl:text-4xl mb-6 sm:mb-8 leading-tight">What do people say about us?</h3>
+    <p class="text-xl lg:text-2xl xl:text-3xl italic mb-6 sm:mb-8 leading-tight">"Flight Free UK made me change the way I travel, and I take every opportunity to pass on the message." ~ Jayne, Leeds</p>
+    <p class="text-xl lg:text-2xl xl:text-3xl italic leading-tight">"Flight Free UK feels like being part of a community that really does understand and really does care." ~ Sian, Bristol</p>
+  </div>
+</section>
+
+<section class="section--team bg-gray-light text-blue-dark">
+  <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
+    <h2 class="text-4xl xl:text-5xl font-bold leading-tight mb-10">The team</h2>
+    <div class="xl:flex flex-wrap">
       <% data.team.members.each do |member| %>
       <div class="md:flex">
-	      <div class="md:flex-shrink-0">
-          <%= image_tag member.photo, class: "inline-block mb-6 rounded", style: "width: 19rem" %>
+	      <div class="md:flex-shrink-0 mr-8">
+          <%= image_tag member.photo, class: "inline-block mb-4 md:mb-12", style: "width: 17rem" %>
 	      </div>
-        <div class="lg:mt-8 sm:mx-8 mb-12 xl:mb-0">
-          <h3 class="text-2xl xl:text-3xl text-blue-dark"><%= member.name %></h3>
-          <h3 class="text-xl xl:text-2xl text-blue-dark mb-4"><%= member.role %></h3>
-          <p class="text-text-default text-lg xl:text-xl mb-4 xl:mb-8 leading-tight"><%= member.bio %></p>
+        <div class="xl:mx-12 mb-12 xl:mb-0">
+          <h3 class="text-2xl xl:text-4xl font-bold mb-2 md:mb-4"><%= member.name %></h3>
+          <p class="text-xl lg:text-2xl xl:text-3xl mb-2 md:mb-4"><%= member.role %></p>
+          <p class="text-xl mb-2 md:mb-4 leading-tight"><%= member.bio %></p>
         </div>
       </div>
       <% end %>
@@ -32,36 +38,41 @@ title: About us
   </div>
 </section>
 
-<section class="bg-gray-light section--advisory-group">
-  <div class="container mx-auto px-4 sm:px-8 xl:px-24 xxl:px-48 pb-6 text-text-default">
-    <h2 class="text-4xl xl:text-5xl text-blue-dark mb-6">Advisory Group</h2>
-    <div class="xl:flex flex-wrap justify-center mb-6 xl:mb-24">
-      <% data.advisorygroup.members.each do |member| %>
-        <div class="xl:flex">
-          <div class="flex-shrink-0 xl:w-1/4">
-            <h3 class="text-xl xl:text-2xl text-blue-dark underline"><a href="<%= member.url %>" target="_blank"><%= member.name %></a></h3>
-            <h3 class="text-lg xl:text-xl text-blue-dark mb-4"><%= member.description %></h3>
-          </div>
-          <div class="mt-1 mb-4">
-            <p class="text-text-default text-lg xl:text-xl mb-4 leading-tight"><%= member.bio %></p>
-          </div>
+<section class="section--team bg-gray-light text-blue-dark">
+  <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
+    <h2 class="text-4xl xl:text-5xl font-bold leading-tight mb-10">Board of directors</h2>
+    <p class="text-xl lg:text-2xl xl:text-3xl mb-6 sm:mb-8 leading-tight">We are governed by a Board of Directors that meets regularly to ensure we fulfil our charitable duties and adhere to Charity Commission guidelines.</p>
+    <div class="xl:flex flex-wrap">
+      <% data.board.members.each do |member| %>
+      <div class="md:flex">
+	      <div class="md:flex-shrink-0 mr-8">
+        <%- if member.photo -%>
+          <%= image_tag member.photo, class: "inline-block mb-4 md:mb-12", style: "width: 17rem" %>
+        <%- else -%>
+          <img src="/svg/person-placeholder.svg" class="inline-block mb-4 md:mb-12" style="width:17rem;" />
+        <%- end -%>
+	      </div>
+        <div class="xl:mx-12 mb-12 xl:mb-0">
+          <h3 class="text-2xl xl:text-3xl mb-2 md:mb-4"><%= member.name %></h3>
+          <p class="text-xl lg:text-2xl xl:text-3xl mb-2 md:mb-4"><%= member.role %></p>
+          <p class="text-xl mb-2 md:mb-4 leading-tight"><%= member.bio %></p>
         </div>
+      </div>
       <% end %>
     </div>
   </div>
 </section>
 
-<section class="bg-gray-light section--funding">
-  <div class="container mx-auto px-4 sm:px-8 xl:px-24 xxl:px-48 pb-6 sm:pb-12 xl:pb-24 text-text-default">
-    <h2 class="text-4xl xl:text-5xl text-blue-dark mb-6">Funding</h2>
-    <p class="text-text-default text-lg xl:text-xl mb-4 xl:mb-8 leading-tight">Our funding comes from various charitable trusts, transport campaign groups and generous individuals. We run an annual fundraising campaign for our supporters. To find out about making a regular donation to Flight Free UK, please <a href="/contact_us" class="text-orange underline">get in touch</a>.</p>
-    <p class="text-text-default text-lg xl:text-xl mb-4 xl:mb-8 leading-tight">Benefactors include David MacKellar, Woodlands TV, the Marmot Charitable Trust and the Foundation for Integrated Transport.</p>
-    <p class="md:flex md:items-center text-text-default text-lg xl:text-xl leading-tight"><img src="/images/uploads/logo-fit.png" alt="Foundation for Integrated Transport logo" width="320" height="44" class="mr-8 mb-8" /> <img src="/images/uploads/logo-woodlands.png" alt="Woodlands TV logo" width="320" height="44" class="mr-8 mb-8" /></p>
+<section class="section--advisory-group bg-gray-light text-blue-dark">
+  <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
+    <h2 class="text-4xl xl:text-5xl mb-6">Advisory Group</h2>
+    <p class="text-xl lg:text-2xl xl:text-3xl mb-6 sm:mb-8 leading-tight">
+      Our advisory group is made up of industry experts and campaigners:
+      <% data.advisorygroup.members.each do |member| -%>
+      <a href="<%= member.url %>" class="border-b-4 border-orange hover:text-orange"><%= member.name %></a>, <%= member.description %>;
+      <% end -%>
+    </p>
   </div>
 </section>
 
-<section class="bg-gray-light section--credits">
-  <div class="container mx-auto px-4 sm:px-8 xl:px-24 xxl:px-48 pb-6 sm:pb-12 xl:pb-24 text-text-default">
-    <p class="text-lg xl:text-xl leading-tight mb-6 text-center">Website design by <a class="text-orange underline" href="https://madebynika.com/" target="_blank"> Rosa van Wyk</a>.<br />Software development by <a class="text-orange underline" href="https://uk.linkedin.com/in/eugene-bolshakov-66a7513" target="_blank"> Eugene Bolshakov</a>.<br />Web support by <a class="text-orange underline" href="https://www.jakemcmurchie.net" target="_blank"> Jake McMurchie</a>. </p>
-  </div>
-</section>
+</main>

@@ -1,65 +1,85 @@
+---
+menu_item: articles
+---
+
 <% wrap_layout :layout do %>
-  <% author = data.authors.values.find { |author| current_article.data.author == author.name } %>
-  <main class="bg-gray-50">
-    <div class="container mx-auto px-8 lg:px-16 xl:px-40 xxl:px-64 py-6 xl:pt-16 xl:pb-20 text-blue-dark">
-      <%= link_to "View all posts", "/be_inspired.html", class: "text-base xl:text-lg pl-8 bg-no-repeat", style: "color:#a0a0a0;background-image:url(/svg/arrow_back.svg)" %>
-      <h1 class="text-3xl xl:text-5xl text-blue-dark mt-3 xl:mt-6 mb-3 xl:mb-4 leading-tight"><%= current_article.title %></h1>
-      <h2 class="text-2xl xl:text-3xl mb-8 leading-tight"><%= current_article.data.summary %></h2>
-      <div class="xl:flex border-t border-b py-3 xl:py-6 text-blue-dark items-center" style="border-color:#e7e7e7">
-        <div class="flex">
-          <span class="w-8 h-8 rounded-full bg-no-repeat bg-white bg-contain mr-4" style="background-image:url(<%= author.avatar %>)"></span>
-          <span class="text-lg self-center"><%= author.name %></span>
-          <span class="hidden xl:block text-2xl mx-6" style="color:#d9d9d9">&bullet;</span>
-        </div>
+
+<main class="bg-gray-light text-blue-dark">
+
+  <section class="section--introduction">
+    <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
+
+      <%= link_to "View all posts", "/articles.html", class: "text-base xl:text-lg text-blue-dark pl-8 bg-no-repeat", style: "color:#a0a0a0;background-image:url(/svg/arrow_back.svg)" %>
+
+      <h1 class="text-4xl xl:text-title font-bold leading-tight mt-8 mb-6"><%= current_article.title %></h1>
+      <h2 class="text-2xl xl:text-subtitle font-bold mb-6 sm:mb-8 leading-tight"><%= current_article.data.summary %></h2>
+
+      <div class="xl:flex items-center border-t-4 border-b-4 border-gray-mid py-2 text-base xl:text-lg text-blue-dark">
         <div class="flex items-center">
           <span><%= current_article.date.strftime("%d %b %Y") %></span>
-          <span class="text-2xl mx-6" style="color:#d9d9d9">&bullet;</span>
+          <span class="text-4xl mx-6 text-blue-dark">&bullet;</span>
           <span><%= current_article.data.read_time_minute %> min read</span>
         </div>
       </div>
-      <div class="blog-post-body pt-6 xl:pt-12 xl:pb-4">
+    </div>
+  </section>
+
+  <section class="blog-post-body container mx-auto px-8 xl:px-32 xxl:px-48 pb-6 sm:pb-8">
         <%= yield %>
-      </div>
-      <div class="border-t pt-10 text-center" style="border-color:#e7e7e7">
-        <% link_to "https://www.facebook.com/sharer/sharer.php", query: { u: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank" do %>
-          <%= image_tag "/svg/facebook_with_bg.svg", class: "inline-block w-12" %>
+  </section>
+
+  <section class="section--social-sharing social-sharing">
+    <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
+      <div class="border-t-4 border-gray-mid pt-10 flex flex-wrap justify-center">
+        <h4 class="w-full flex-full text-center text-xl">Share this post</h4>
+        <% link_to "https://twitter.com/intent/tweet", query: { text: current_article.title, url: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank", class: "inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2" do %>
+          <%= partial "svg/twitter_inverse.svg" %>
         <% end %>
-        <% link_to "https://twitter.com/intent/tweet", query: { text: current_article.title, url: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank" do %>
-          <%= image_tag "/svg/twitter_with_bg.svg", class: "inline-block w-12 mx-4" %>
+        <a href="https://instagram.com/<%= data.social_media.instagram %>" target="_blank" class="inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2">
+          <%= partial "svg/instagram_inverse.svg" %>
+        </a>
+        <% link_to "https://www.facebook.com/sharer/sharer.php", query: { u: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank", class: "inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2" do %>
+          <%= partial "svg/facebook_inverse.svg" %>
         <% end %>
-        <a href="https://instagram.com/<%= data.social_media.instagram %>"><%= image_tag "/images/instagram_with_bg.png", class: "inline-block w-12" %></a>
       </div>
     </div>
-  </main>
-  <section class="bg-gray-light">
-    <div class="container mx-auto px-8 xl:px-16 xxl:px-48 py-12 xl:pt-24 xl:pb-16 text-blue-dark">
-      <div class="flex justify-between mb-12">
+  </section>
+
+  <section class="section--other-posts">
+    <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
         <h2 class="text-2xl xl:text-3xl">Other posts</h2>
-        <div class="text-right">
-          <% link_to "/be_inspired.html", class: "text-lg xl:text-xl text-orange" do %>
+        <div class="text-right pb-6 sm:pb-8">
+          <% link_to "/how_to.html", class: "text-lg xl:text-xl hover:text-orange" do %>
             View all
             <%= image_tag "/svg/orange_arrow_right.svg", class: "inline-block w-8 ml-2" %>
           <% end %>
         </div>
-      </div>
       <%
-        other_posts_count = [3, blog.articles.size - 1].min
+        other_posts_count = [5, blog.articles.size - 1].min
         other_posts = [current_article.article_next, current_article.article_previous].compact
         while other_posts.size < other_posts_count do
           other_posts = ([other_posts.first.article_next] + other_posts + [other_posts.last.article_previous]).compact.select { |article| article.slug != current_article.slug }
         end
       %>
-      <div class="xl:flex justify-between">
-        <div class="xl:w-1/3 xl:mr-6 mb-8 bg-white text-blue-dark">
+      <div id="blog-posts" class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4">
+        <div class="mb-8 flex justify-center items-center">
           <%= partial "home_blog_post", locals: { article: other_posts[0] } %>
         </div>
-        <div class="xl:w-1/3 xl:mx-3 mb-8 bg-white text-blue-dark">
+        <div class="mb-8 flex justify-center items-center">
           <%= partial "home_blog_post", locals: { article: other_posts[1] } %>
         </div>
-        <div class="xl:w-1/3 xl:ml-6 mb-8 bg-white text-blue-dark">
+        <div class="mb-8 flex justify-center items-center">
           <%= partial "home_blog_post", locals: { article: other_posts[2] } %>
+        </div>
+        <div class="mb-8 flex justify-center items-center">
+          <%= partial "home_blog_post", locals: { article: other_posts[3] } %>
+        </div>
+        <div class="mb-8 flex justify-center items-center">
+          <%= partial "home_blog_post", locals: { article: other_posts[4] } %>
         </div>
       </div>
     </div>
   </section>
 <% end %>
+
+</main>

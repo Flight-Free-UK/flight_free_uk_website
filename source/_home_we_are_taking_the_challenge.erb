@@ -1,0 +1,76 @@
+<section class="section--why bg-gray-light text-blue-dark pb-12">
+  <div class="container mx-auto px-2 lg:px-16 py-12">
+    <h2 class="text-4xl lg:text-5xl font-bold text-center">We are taking the challenge!</h2>
+  </div>
+  <div class="container mx-auto px-2 flex justify-center relative h-280 xl:h-440 overflow-hidden">
+    <div id="take_challenge_container" class="mx-auto inline-grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5">
+      <%- count = 1 -%>
+      <%- take_challenge_square_items = data.take_challenge_squares.values.sort_by(&:date).first(10) -%>
+      <%- take_challenge_square_items.each do | take_challenge_square | -%>
+        <%= partial(:home_take_challenge_square, :locals => { :title => take_challenge_square.title, :citation => take_challenge_square.citation, :image => take_challenge_square.image, :count => count }) %>
+        <%- count = count + 1 -%>
+      <%- end -%>
+  </div>
+</section>
+<script>
+// CHECKERBOARD
+if (window.matchMedia('(max-width: 767px)').matches) {
+  // below 768 we have two squares in each row
+  // text must show in an ABBA format (with text hidden on A's)
+  for ( var i = 1; i < 11; i++ ) {
+    if( i % 4 == 1 || i % 4 == 0 ) {
+      document.getElementById("take-challenge-square-"+i).classList.toggle("opacity-0");
+    }
+  }
+}
+else if (window.matchMedia('(min-width: 768px) and (max-width: 1023px)').matches) {
+  // above 768 and below 1024 we have four squares in each row
+  // text must show in an ABABBABA format (with text hidden on A's)
+  for ( var i = 1; i < 11; i++ ) {
+    if( i % 8 == 1 || i % 8 == 3 || i % 8 == 6 || i % 8 == 0 ) {
+      document.getElementById("take-challenge-square-"+i).classList.toggle("opacity-0");
+    }
+  }    
+}
+else {
+  // above 1024 we have five squares in each row
+  // for a checkerboard effect the text must show in an AB format (with text hidden on A's)
+  for ( var i = 1; i < 11; i++ ) {
+    if( i % 2 == 1 ) {
+      document.getElementById("take-challenge-square-"+i).classList.toggle("opacity-0");
+    }
+  }    
+}
+// FLIP THE CHECKERBOARD PIECES
+take_challenge_squares_hover_states = [];
+for ( var i = 1; i < 11; i++ ) {
+  take_challenge_squares_hover_states[i] = false;
+  if ('ontouchstart' in window) {
+    document.getElementById("take-challenge-"+i).addEventListener("click", flip_square);
+  } else {
+    document.getElementById("take-challenge-"+i).addEventListener("mouseover", flip_square);
+    document.getElementById("take-challenge-"+i).addEventListener("mouseleave", flip_square);
+  }
+}
+function flip_square () {
+  var this_challenge_id = this.id.replace("take-challenge-", "");
+  var this_square = document.getElementById("take-challenge-square-"+this_challenge_id);
+  if ( ! take_challenge_squares_hover_states[this_challenge_id] ) {
+    //if ( this_square.classList.contains("transition") ) this_square.classList.remove("transition", "transition-opacity", "duration-1000", "ease-in-out");
+    //setTimeout ( this_square.classList.toggle("opacity-0"), 500 );
+    this_square.classList.toggle("opacity-0");
+    take_challenge_squares_hover_states[this_challenge_id] = true;
+  } else {
+    //if ( ! this_square.classList.contains("transition") ) this_square.classList.add("transition", "transition-opacity", "duration-1000", "ease-in-out");
+    //setTimeout ( this_square.classList.toggle("opacity-0"), 500 );
+    this_square.classList.toggle("opacity-0");
+    take_challenge_squares_hover_states[this_challenge_id] = false;
+  }
+}
+//document.getElementById("take_challenge_container").addEventListener("click", function(e) {
+//  var this_challenge_id = e.target.parentElement.parentElement.id;
+//  var this_challenge_text_id = this_challenge_id.replace("take-challenge-", "");
+//  document.getElementById("take-challenge-square-"+this_challenge_text_id).classList.toggle("opacity-0");
+//});
+
+</script>

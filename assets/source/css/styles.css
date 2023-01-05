@@ -4,12 +4,33 @@
 
 @tailwind utilities;
 
-/* Default 'normal' font weight for Chrome and Firefox is 400 but we were loading 300 and are now loading 500... */
-html {
-	font-weight: 500;
+@font-face {
+	font-family: "Kollektif";
+	src: url("/fonts/Kollektif.woff2") format("woff2"), url("/fonts/Kollektif.woff") format("woff");
+	font-display: swap;
 }
+
+@font-face {
+	font-family: "KollektifBold";
+	src: url("/fonts/Kollektif-Bold.woff2") format("woff2"), url("/fonts/Kollektif-Bold.woff") format("woff");
+	font-display: swap;
+}
+
+html {
+	font-family: "Kollektif", sans-serif;
+	font-weight: 400;
+	letter-spacing: 0.5px;
+}
+
+h1,
+h2,
 strong {
-	font-weight: 600;
+	font-family: "KollektifBold", sans-serif;
+	font-weight: 400;
+}
+
+.text-shadow {
+	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /* Don't restrict width for to the xs and sm breakpoints */
@@ -19,11 +40,22 @@ strong {
 	}
 }
 
+svg {
+	max-width: 100%;
+	height: auto;
+}
+
+/*
+ * Mobile navigation
+ */
 #main-header #menu-toggle {
 	background-image: url(/svg/menu_icon.svg);
 }
 
 #main-header.menu-active {
+	@apply fixed top-0 bottom-0 left-0 right-0 p-4 flex;
+	width: 100vw;
+	height: 100vh;
 	background-color: #204f7f;
 }
 
@@ -31,13 +63,114 @@ strong {
 	background-image: url(/svg/menu_close_icon.svg);
 }
 
-#main-header.menu-active nav {
-	@apply absolute left-0 right-0;
+#main-header.menu-active nav,
+#main-header.menu-active .social-links {
 	@apply flex;
-	top: 6rem;
-	background-color: #204f7f;
 }
 
+#main-header.menu-active .social-links {
+	@apply w-full mt-16 justify-center;
+}
+
+#main-header .logo svg {
+	width: 200px;
+	height: auto;
+}
+
+@media (min-width: 768px) {
+	#main-header .logo svg {
+		width: 260px;
+	}
+}
+
+#main-header a.svg:hover path {
+	fill: #f7b38a;
+}
+
+/*
+ * Homepage
+ */
+svg.arrow-curled {
+	width: auto;
+	height: 65px;
+	transform: rotate(10deg);
+}
+
+@media (min-width: 768px) {
+	svg.arrow-curled {
+		height: 130px;
+		transform: none;
+	}
+}
+
+.section--how--card>* {
+	max-width: 284px
+}
+
+@media (min-width: 768px) {
+	.section--how--card>* {
+		max-width: 190px
+	}
+}
+
+@media (min-width: 1024px) {
+	.section--how--card>* {
+		max-width: 284px
+	}
+}
+
+.pin {
+	position: absolute;
+	top: -2rem;
+	left: 50%;
+	margin-left: -14px;
+}
+
+/*
+ * Mythbuster 
+ */
+.answered button {
+	@apply cursor-default;
+}
+
+/*
+ * Homepage videos 
+ */
+.home--videos a {
+	position: relative;
+}
+
+.home--videos a:after {
+	content: " ";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 40px;
+	height: 40px;
+	margin-top: -45px;
+	margin-left: -20px;
+	background: transparent url("/images/video-play-blue-dark.svg") center center no-repeat;
+}
+
+@media (min-width: 768px) {
+	.home--videos a:after {
+		width: 60px;
+		height: 60px;
+		margin-top: -55px;
+		margin-left: -40px;
+	}
+}
+
+/*
+ * Popups
+ */
+.modal.is-open {
+	@apply block;
+}
+
+/*
+ * FAQs page
+ */
 .faq-question h3 {
 	background-size: 2rem;
 	min-height: 2rem;
@@ -52,17 +185,13 @@ strong {
 	@apply block;
 }
 
-.faq-question p {
-	@apply text-text-default text-base leading-tight;
+.faq-question a {
+	@apply border-b-4 border-orange;
 }
 
-.faq-question a {
-	@apply text-orange;
-	@apply underline;
-}
 .faq-question a:hover,
 .faq-question a:focus {
-	@apply text-blue-dark;
+	@apply text-orange;
 }
 
 @media (min-width: 1280px) {
@@ -76,76 +205,23 @@ strong {
 	}
 }
 
-/* blog posts */
-
+/*
+ * Blog: How-tos and Articles
+ */
 .blog-post-body a {
-	@apply underline;
-	text-decoration-color: #f7b38a;
+	@apply border-b-4 border-orange;
 }
 
 .blog-post-body a:hover {
-	@apply underline;
-}
-
-.blog-post-body > p,
-.blog-post-body ul,
-.blog-post-body ol,
-.blog-post-body blockquote {
-	@apply font-blog;
-	@apply font-normal leading-normal text-text-default;
-	@apply mb-6;
+	@apply text-orange;
 }
 
 .blog-post-body ul {
 	@apply list-disc;
-	@apply pl-8;
 }
 
 .blog-post-body ol {
 	@apply list-decimal;
-	@apply pl-8;
-}
-
-@media (min-width: 768px) {
-	.blog-post-body h2,
-	.blog-post-body h3,
-	.blog-post-body h4,
-	.blog-post-body h5,
-	.blog-post-body h6,
-	.blog-post-body > p,
-	.blog-post-body ul,
-	.blog-post-body ol,
-	.blog-post-body > div {
-		@apply mx-16;
-		@apply px-16;
-	}
-
-	/* purgecss ignore */
-	.blog-post-body > div.twitter-tweet {
-		@apply mx-48;
-		@apply pl-0;
-		@apply pr-16;
-	}
-
-	.blog-post-body li {
-		@apply ml-12;
-	}
-	.blog-post-body li p {
-		@apply px-0;
-	}
-}
-
-.blog-post-body blockquote p {
-	@apply font-body text-3xl text-blue-dark;
-	@apply leading-tight;
-	@apply mx-0;
-	@apply px-0;
-}
-@media (min-width: 768px) {
-	.blog-post-body blockquote p {
-		@apply text-4xl;
-		@apply pl-16 border-l-2 border-gray-200;
-	}
 }
 
 .blog-post-body h1,
@@ -153,11 +229,25 @@ strong {
 .blog-post-body h3,
 .blog-post-body h4,
 .blog-post-body h5,
-.blog-post-body h6 {
-	@apply leading-tight text-blue-dark font-semibold;
-	@apply mb-6;
+.blog-post-body h6,
+.blog-post-body p,
+.blog-post-body ul,
+.blog-post-body ol,
+.blog-post-body figcaption,
+.blog-post-body blockquote {
+	@apply leading-tight;
 }
 
+.blog-post-body blockquote p {
+	@apply italic;
+}
+
+.blog-post-body figcaption {
+	font-family: "KollektifBold", sans-serif;
+	@apply text-center;
+}
+
+/* text size */
 .blog-post-body h1 {
 	@apply text-3xl;
 }
@@ -170,68 +260,120 @@ strong {
 	@apply text-2xl;
 }
 
-.blog-post-body h4 {
+.blog-post-body h4,
+.blog-post-body h5,
+.blog-post-body h6,
+.blog-post-body p,
+.blog-post-body ul,
+.blog-post-body ol,
+.blog-post-body figcaption {
 	@apply text-xl;
 }
 
+.blog-post-body blockquote p {
+	@apply text-2xl;
+}
+
+@media (min-width: 1280px) {
+	.blog-post-body h1 {
+		@apply text-title;
+	}
+
+	.blog-post-body h2 {
+		font-size: 38px;
+	}
+
+	.blog-post-body h3 {
+		font-size: 32px;
+	}
+
+	.blog-post-body h4 {
+		font-size: 26px;
+	}
+
+	.blog-post-body>p,
+	.blog-post-body ul,
+	.blog-post-body ol,
+	.blog-post-body figcaption {
+		font-size: 22px;
+	}
+
+	.blog-post-body blockquote {
+		background: url('blog_post_quote_mark.png') no-repeat;
+	}
+
+	.blog-post-body blockquote p {
+		@apply text-4xl;
+	}
+}
+
+/* margin and padding */
+.blog-post-body h1,
+.blog-post-body h2,
+.blog-post-body h3,
+.blog-post-body h4,
 .blog-post-body h5,
 .blog-post-body h6 {
-	@apply text-lg;
+	@apply mb-6;
 }
 
-.blog-post-body strong {
-	@apply font-semibold;
-}
-
-.blog-post-body figure img {
-	@apply max-w-full;
-	@apply mx-auto;
+.blog-post-body>p,
+.blog-post-body ul,
+.blog-post-body ol,
+.blog-post-body blockquote {
+	@apply mb-6;
 }
 
 .blog-post-body figure figcaption {
-	@apply font-bold;
 	@apply mt-2;
-	@apply text-center;
-	@apply leading-tight;
 }
 
-.modal.is-open {
-	@apply block;
+.blog-post-body ul,
+.blog-post-body ol {
+	@apply pl-8;
 }
 
-.blog-post-body iframe {
-	@apply max-w-full;
-	@apply w-full;
-	@apply mb-6;
-	height: auto;
-}
-@media (min-width: 360px) {
-	.blog-post-body iframe {
-		height: 16rem;
-	}
-}
-@media (min-width: 500px) {
-	.blog-post-body iframe {
-		height: 16rem;
-	}
-}
-@media (min-width: 640px) {
-	.blog-post-body iframe {
-		height: 24rem;
-	}
-}
 @media (min-width: 768px) {
-	.blog-post-body iframe {
-		height: 32rem;
+
+	.blog-post-body h2,
+	.blog-post-body h3,
+	.blog-post-body h4,
+	.blog-post-body h5,
+	.blog-post-body h6,
+	.blog-post-body>p,
+	.blog-post-body ul,
+	.blog-post-body ol,
+	.blog-post-body>div {
+		@apply mx-24;
+	}
+
+	/* purgecss ignore */
+	.blog-post-body>div.twitter-tweet {
+		@apply mx-48;
+		@apply pl-0;
+		@apply pr-16;
+	}
+
+	.blog-post-body li {
+		@apply ml-12;
+	}
+
+	.blog-post-body li p {
+		@apply px-0;
+	}
+
+	.blog-post-body blockquote {
+		@apply pl-20;
 	}
 }
 
 @media (min-width: 1280px) {
-	.blog-post-body > p,
+
+	.blog-post-body>p,
 	.blog-post-body ul,
 	.blog-post-body ol,
+	.blog-post-body figcaption,
 	.blog-post-body iframe {
-		@apply text-xl;
 		@apply mb-8;
 	}
 
@@ -243,53 +385,47 @@ strong {
 	.blog-post-body h6 {
 		@apply mb-8;
 	}
+}
 
-	.blog-post-body h1 {
-		@apply text-4xl;
+.blog-post-body figure img {
+	@apply max-w-full;
+	@apply mx-auto;
+}
+
+.blog-post-body iframe {
+	@apply max-w-full;
+	@apply w-full;
+	@apply mb-6;
+	height: auto;
+}
+
+@media (min-width: 360px) {
+	.blog-post-body iframe {
+		height: 16rem;
 	}
+}
 
-	.blog-post-body h2 {
-		@apply text-4xl;
-	}
-
-	.blog-post-body h3 {
-		@apply text-3xl;
-	}
-
-	.blog-post-body h4 {
-		@apply text-2xl;
+@media (min-width: 500px) {
+	.blog-post-body iframe {
+		height: 16rem;
 	}
 }
 
-.text-shadow {
-	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+@media (min-width: 640px) {
+	.blog-post-body iframe {
+		height: 24rem;
+	}
 }
 
-/* Myth buster */
-.answered button {
-	@apply cursor-default;
-}
-
-/* Homepage videos */
-.home--videos a {
-	position: relative;
-}
-.home--videos a:after {
-	content: " ";
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	width: 40px;
-	height: 40px;
-	margin-top: -45px;
-	margin-left: -20px;
-	background: transparent url("/images/video-play-blue-dark.svg") center center no-repeat;
-}
 @media (min-width: 768px) {
-	.home--videos a:after {
-		width: 60px;
-		height: 60px;
-		margin-top: -55px;
-		margin-left: -40px;
+	.blog-post-body iframe {
+		height: 32rem;
 	}
+}
+
+/*
+ * Social sharing SVGs
+ */
+.social-sharing a:hover path {
+	fill: #f7b38a;
 }

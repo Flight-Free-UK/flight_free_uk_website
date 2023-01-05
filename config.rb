@@ -42,7 +42,10 @@ activate :livereload
 activate :directory_indexes
 page "/admin/*", :directory_index => false
 
+# the original "be inspired" section
 activate :blog do |blog|
+  blog.name = "be_inspired"
+  #blog.prefix = "ffarticles"
   blog.generate_day_pages = false
   blog.generate_month_pages = false
   blog.generate_year_pages = false
@@ -55,6 +58,30 @@ activate :blog do |blog|
       template: "/category.html"
     }
   }
+end
+
+# the new how to section
+activate :blog do |blog|
+  blog.name = "travel_articles"
+  #blog.prefix = "travel"
+  blog.generate_day_pages = false
+  blog.generate_month_pages = false
+  blog.generate_year_pages = false
+  blog.permalink = "travel_articles/{title}.html"
+  blog.sources = "posts_travel/{title}.html"
+  blog.layout = "blog_post_travel_layout"
+end
+
+# the podcast transcripts section
+activate :blog do |blog|
+  blog.name = "podcast_transcripts"
+  #blog.prefix = "travel"
+  blog.generate_day_pages = false
+  blog.generate_month_pages = false
+  blog.generate_year_pages = false
+  blog.permalink = "podcast_transcripts/{title}.html"
+  blog.sources = "podcast_transcripts/{title}.html"
+  blog.layout = "blog_post_layout"
 end
 
 activate :external_pipeline,

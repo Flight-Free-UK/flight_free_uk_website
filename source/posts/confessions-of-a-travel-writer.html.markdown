@@ -1,7 +1,7 @@
 ---
 published: false
 title: Confessions of a travel writer
-category: travel
+category: opinion
 date: 2020-01-10T18:52:21.753Z
 cover_image: /images/uploads/HannaLindon1.jpg
 summary: "Hanna Lindon, freelance travel journalist, explains what taking the

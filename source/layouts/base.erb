@@ -5,27 +5,28 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <link rel="preload" as="font" href="/fonts/Kollektif.woff2" type="font/woff2" crossorigin />
+
   <% title = [current_page.data.title, "Flight Free UK"].compact.uniq.join(" | ") %>
   <title><%= title %></title>
   <meta property="og:title" content="<%= current_article ? current_article.title : title %>"/>
 
-  <% description = "Fight climate change: make the pledge to be flight free in 2022" %>
+  <% description = "Fight climate change: make the pledge to be flight free in 2023" %>
   <meta name="description" content="<%= description %>"/>
   <meta property="og:description" content="<%= current_article ? current_article.data.summary : description %>"/>
 
   <meta property="og:type" content="<%= current_article ? "article" : "website" %>"/>
-  <meta property="og:image" content="https://flightfree.co.uk<%= current_article ? image_path(current_article.data.cover_image) : "/images/flight-free-pledge-2022.jpg" %>"/>
+  <meta property="og:image" content="https://flightfree.co.uk<%= current_article ? image_path(current_article.data.cover_image) : "/images/flight-free-pledge-2023.jpg" %>"/>
   <meta property="og:image:alt" content="<%= current_article ? current_article.data.summary : description %>"/>
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="<%= data.social_media.twitter %>" />
   <meta name="twitter:title" content="<%= current_article ? current_article.title : title %>" />
   <meta name="twitter:description" content="<%= current_article ? current_article.data.summary : description %>" />
-  <meta name="twitter:image" content="https://flightfree.co.uk<%= current_article ? image_path(current_article.data.cover_image) : "/images/flight-free-pledge-2022.jpg" %>" />
+  <meta name="twitter:image" content="https://flightfree.co.uk<%= current_article ? image_path(current_article.data.cover_image) : "/images/flight-free-pledge-2023.jpg" %>" />
 
   <%= stylesheet_link_tag "main" %>
   <%= javascript_include_tag "https://unpkg.com/micromodal/dist/micromodal.min.js" %>
-  <link href="https://fonts.googleapis.com/css?family=Quicksand:500,600&display=swap" rel="stylesheet">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-151318158-1"></script>
@@ -65,75 +66,13 @@
 </head>
 <body class="font-body">
 
-<%# DONATIONS BANNER %>
-<% if false %>
-<section class="bg-blue-dark text-white py-4 flex justify-center border-b-2 border-orange">
-  <a href="https://donorbox.org/flight-free-uk-annual-fundraiser-2022" class="text-white hover:text-orange">
-    <p class="font-blog text-2xl lg:text-4xl leading-6 lg:leading-normal font-bold italic text-center mt-1 mb-2 tracking-wide px-2">The Flight Free <em class="text-orange">UK</em> fundraiser is now <em class="text-orange">live</em>!</p>
-    <p class="text-base md:text-lg lg:text-2xl leading-tight lg:leading-normal text-center md:w-2/3 xl:w-full mt-4 lg:mt-0 mx-auto px-2">We are fundraising so we can reach <strong class="text-orange">more</strong> people with our campaign and inspire <strong class="text-orange">more</strong> climate action</p>
-    <p class="font-bold text-2xl lg:text-3xl leading-none lg:leading-normal text-center mt-4 lg:mt-0 px-2"><strong class="text-orange">Click here</strong> to go to our fundraiser page <img src="/images/click.png" alt="click here" class="hidden lg:inline-block mx-auto lg:ml-4" /></p>
-  </a>
-</section>
-<% end %>
-<%# end donations banner %>
-
 <%= yield %>
 
-  <section class="bg-orange">
-    <div class="container mx-auto">
-      <div class="px-4 sm:px-8 xl:px-16 xxl:px-48 pt-4 pb-5 xs:py-6 sm:py-8 xl:py-12 leading-tight text-center">
-        <h2 class="text-lg sm:text-3xl xl:text-5xl text-blue-dark mb-4 xs:mb-6 sm:mb-8 xl:mb-8">Take the flight free pledge today!</h2>
-        <button class="bg-white text-blue-dark text-lg sm:text-2xl w-auto px-4 sm:px-20 py-2 sm:py-4" data-micromodal-trigger="pledge-modal">Sign the pledge</button>
-      </div>
-    </div>
-  </section>
-  <footer class="bg-blue-dark">
-    <div class="container mx-auto">
-      <div class="flex flex-wrap justify-between xl:items-center bg-blue-dark px-4 sm:px-8 xxl:px-24 py-4 sm:py-8 text-white text-sm xl:text-base leading-tight">
-        <nav class="flex flex-wrap w-1/2 xl:w-auto justify-start mb-4 sm:mb-0">
-          <%= link_to "About us", "/about_us.html", class: "w-full sm:w-auto mb-1 sm:mr-4" %>
-          <%= link_to "Contact", "/contact_us.html", class: "w-full sm:w-auto mb-1 sm:mr-4" %>
-          <%= link_to "Downloads", "/downloads.html", class: "w-full sm:w-auto mb-1" %>
-        </nav>
-        <nav class="flex flex-wrap xl:w-1/3 sm:justify-end xl:justify-start mb-4 sm:mb-0">
-          <a href="https://twitter.com/<%= data.social_media.twitter %>" class="w-8 h-8 flex justify-center bg-white rounded-full" target="_blank">
-            <%= image_tag "/svg/twitter.svg", class: "w-4" %>
-          </a>
-          <a href="https://instagram.com/<%= data.social_media.instagram %>" class="w-8 h-8 flex items-center justify-center bg-white rounded-full ml-2 sm:ml-2" target="_blank">
-            <%= image_tag "/images/instagram.png", class: "w-4" %>
-          </a>
-          <a href="https://facebook.com/<%= data.social_media.facebook %>" class="w-8 h-8 flex justify-center bg-white rounded-full ml-2 sm:ml-2" target="_blank">
-            <%= image_tag "/svg/facebook.svg", class: "w-2" %>
-          </a>
-        </nav>
-        <nav class="flex flex-wrap w-full xl:w-1/3 justify-between sm:justify-start xl:justify-end">
-          <%= link_to "Terms and conditions", "/terms_and_conditions.html", class: "block mb-2 xl:mb-0 sm:mr-4" %>
-          <%= link_to "Privacy Policy", "/privacy_policy.html", class: "block mb-2 xl:mb-0" %>
-        </nav>
-      </div>
-    </div>
-  </footer>
-  <!-- class="is-open" is added to the modal to make it visible -->
-  <section id="pledge-modal" aria-hidden="true" class="hidden modal">
-    <div tabindex="-1" data-micromodal-close class="fixed inset-0 flex items-center justify-center" style="background-color:rgba(31, 77, 123, 0.9)">
-      <div role="dialog" aria-modal="true" aria-labelledby="pledge-modal-title" class="relative px-6 py-6">
-        <header>
-          <h2 id="pledge-modal-title" class="hidden">
-            Sign the pledge
-          </h2>
-          <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
-        </header>
-        <div id="pledge-modal-content">
-          <!-- <iframe src="https://services.wedonthavetime.org/campaign/kzsAyW1/" style="min-height:430px"></iframe> -->
-          <%= partial "pledge_form", locals: { id: "modal" }  %>
-        </div>
-      </div>
-    </div>
-  </section>
-  <%= partial "story_modal" %>
-  <script type="text/javascript">
-    MicroModal.init();
-  </script>
-  <%= javascript_include_tag "main.js" %>
+<%# start footer %>
+    <%= partial "footer" %>
+<%# end footer %>
+
+<%= javascript_include_tag "main.js" %>
+
 </body>
 </html>

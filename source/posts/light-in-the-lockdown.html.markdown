@@ -1,7 +1,7 @@
 ---
 published: false
 title: Light in the lockdown
-category: travel
+category: opinion
 date: 2020-07-01T22:13:07.626Z
 cover_image: /images/uploads/lockdown.jpeg
 summary: "Lockdown has been difficult for lots of us. But has being forced to

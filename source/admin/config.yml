@@ -10,8 +10,8 @@ slug:
   clean_accents: true
 
 collections:
-  - name: blog
-    label: Blog
+  - name: be_inspired
+    label: Articles
     folder: source/posts/
     extension: .html.markdown
     format: frontmatter
@@ -20,7 +20,39 @@ collections:
     fields:
       - {label: Published, name: published, widget: boolean, default: true}
       - {label: Title, name: title, widget: string}
-      - {label: Category, name: category, widget: select, options: [{label: "Climate", value: climate}, {label: "Opinion", value: opinion},  {label: "Travel", value: travel}, {label: "One of the 100,000", value: one_of_the_100000}, {label: "Flight Free 2020", value: flight_free_2020}, {label: "Testimonials", value: testimonials}] }
+      - {label: Category, name: category, widget: select, options: [{label: "Testimonials", value: testimonials}, {label: "How-to", value: how-to}, {label: "Explainer", value: explainer}, {label: "Climate", value: climate}, {label: "Policy position", value: policy-position}, {label: "Opinion", value: opinion}] }
+      - {label: Publish Date, name: date, widget: datetime}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: Summary, name: summary, widget: text}
+      - {label: Author, name: author, widget: relation, collection: authors, valueField: name, searchFields: [name]}
+      - {label: Read time, name: read_time_minute, widget: number}
+      - {label: Body, name: body, widget: markdown}
+  - name: travel_articles
+    label: Travel articles
+    folder: source/posts_travel/
+    extension: .html.markdown
+    format: frontmatter
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: Published, name: published, widget: boolean, default: true}
+      - {label: Title, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: datetime}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: Summary, name: summary, widget: text}
+      - {label: Author, name: author, widget: relation, collection: authors, valueField: name, searchFields: [name]}
+      - {label: Read time, name: read_time_minute, widget: number}
+      - {label: Body, name: body, widget: markdown}
+  - name: podcast_transcripts
+    label: Podcast transcripts
+    folder: source/podcast_transcripts/
+    extension: .html.markdown
+    format: frontmatter
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - {label: Published, name: published, widget: boolean, default: true}
+      - {label: Title, name: title, widget: string}
       - {label: Publish Date, name: date, widget: datetime}
       - {label: Cover image, name: cover_image, widget: image}
       - {label: Summary, name: summary, widget: text}
@@ -38,6 +70,7 @@ collections:
       - {label: Cover image, name: cover_image, widget: image}
       - {label: Summary, name: summary, widget: text}
       - {label: URL, name: url, widget: string}
+      - {label: Transcript URL, name: transcript_url, widget: string}
   - name: videos
     label: Videos
     folder: data/videos
@@ -109,6 +142,23 @@ collections:
               - {label: Role, name: role, widget: string}
               - {label: Bio, name: bio, widget: text}
               - {label: Photo, name: photo, widget: image}
+  - name: board
+    label: Board of Directors
+    files:
+      - label: Board of Directors
+        name: board
+        file: "data/board.yml"
+        fields:
+          - label: Members
+            name: members
+            widget: list
+            allow_add: true
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Website, name: url, widget: string}
+              - {label: Role, name: description, widget: string}
+              - {label: Bio, name: bio, widget: text}
+              - {label: Photo, name: photo, widget: image}
   - name: advisorygroup
     label: Advisory Group
     files:
@@ -125,3 +175,48 @@ collections:
               - {label: Website, name: url, widget: string}
               - {label: Role, name: description, widget: string}
               - {label: Bio, name: bio, widget: text}
+  - name: how_cards
+    label: Homepage – "How?" cards
+    folder: data/how_cards
+    format: yml
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Cover image, name: cover_image, widget: image}
+      - {label: URL, name: url, widget: string}
+  - name: take_challenge_squares
+    label: Homepage – "Take the Challenge" squares
+    folder: data/take_challenge_squares
+    format: yml
+    create: true
+    fields:
+      - {label: Quote, name: title, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Name/location, name: citation, widget: string}
+      - {label: Image, name: image, widget: image}
+  - name: how_to_links
+    label: How to page – top links
+    files:
+      - label: Main "how to" links
+        name: primary
+        file: "data/how_to_links/primary.yml"
+        fields:
+          - label: Links
+            name: links
+            widget: list
+            allow_add: true
+            fields:
+            - {label: Text for link, name: text, widget: string}
+            - {label: URL for link, name: url, widget: string}
+      - label: Secondary "how to travel" links
+        name: secondary
+        file: "data/how_to_links/secondary.yml"
+        fields:
+          - label: Links
+            name: links
+            widget: list
+            allow_add: true
+            fields:
+            - {label: Text for link, name: text, widget: string}
+            - {label: URL for link, name: url, widget: string}

@@ -1,21 +1,43 @@
-<header class="relative z-10 flex flex-wrap justify-between px-4 sm:px-8 xxl:px-24 pt-6 sm:pt-10 pb-6 sm:pb-10" id="main-header">
-  <div class="w-2/3 xl:w-2/5">
-    <% link_to "/" do %>
-      <%= image_tag "svg/logo.svg", alt: "Flight Free UK Logo" %>
-    <% end %>
+<header id="main-header" class="relative z-10<%= " xl:px-10 xl:pt-3 xl:pb-4 mb-16" if is_home %><%= " px-4 xl:px-14 py-4 xl:pt-10 xl:pb-8 bg-blue-dark" if ! is_home %> text-gray-light">
+  <div class="container mx-auto">
+  <div class="flex flex-wrap justify-between">
+    <div class="logo w-1/2 flex-1 flex items-end xl:mt-6">
+      <a href="/">
+        <%= partial "svg/logo.svg" %>
+      </a>
+    </div>
+    <div class="xl:hidden w-1/2 flex-1 flex justify-end items-center">
+      <a href="#" id="menu-toggle" class="self-center bg-no-repeat bg-center w-10 h-10" onclick="document.getElementById('main-header').classList.toggle('menu-active')"></a>
+    </div>
+    <div class="social-links hidden w-0 xl:flex xl:w-1/2 flex-0 flex justify-end items-start">
+      <nav class="flex flex-wrap justify-center md:justify-end items-center">
+        <a href="https://facebook.com/<%= data.social_media.facebook %>" class="svg w-12 h-12 flex justify-center mx-1 mb-2" target="_blank">
+          <%= partial "svg/facebook_rounded_square.svg" %>
+        </a>
+        <a href="https://instagram.com/<%= data.social_media.instagram %>" class="svg w-12 h-12 flex items-center justify-center mx-1 mb-2" target="_blank">
+          <%= partial "svg/instagram.svg" %>
+        </a>
+        <a href="https://twitter.com/<%= data.social_media.twitter %>" class="svg w-12 h-12 flex justify-center mx-1 mb-2" target="_blank">
+          <%= partial "svg/twitter_rounded_square.svg" %>
+        </a>
+        <a href="https://donorbox.org/donate-to-flight-free-uk" class="custom-dbox-popup w-auto mx-1 ml-4 mb-2 px-8 py-2 border-2 border-orange rounded-2xl bg-orange hover:bg-blue-dark text-gray-light text-xl leading-tight">DONATE</a>
+      </nav>
+    </div>
   </div>
-  <a href="#" id="menu-toggle" class="xl:hidden self-center bg-no-repeat bg-center w-10 h-10" onclick="document.getElementById('main-header').classList.toggle('menu-active')"></a>
-  <nav class="hidden xl:flex flex-wrap w-full xl:w-3/5 items-center justify-between text-xl text-center px-6 xl:px-0 pt-10 xl:pt-0 pb-6 xl:pb-0">
+  <div class="flex flex-wrap justify-end">
+    <nav class="hidden xl:flex flex-col xl:flex-row flex-wrap w-full xl:w-3/5 items-center justify-around xl:justify-between px-8 xl:pl-0 xl:pr-8 pt-10 xl:pt-0 pb-6 xl:pb-0 text-2xl text-center tracking-wide">
     <% {
          "why_flight_free" => "Why flight free?",
-         "take_action" => "Take action",
-         "be_inspired" => "Be inspired",
+         "how_to" => "How to",
+         "about_us" => "About",
+         "articles" => "Articles",
          "podcast" => "Podcast",
-         "faq" => "FAQs"
+         "faq" => "FAQ"
        }.each do |path, name| %>
-       <% current = "#{path}.html" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("posts") && "be_inspired" == path ) %>
-       <%= link_to name, "/#{path}.html", class: "w-full xl:w-auto mb-8 xl:mb-0 #{current ? "xl:border-b-2 border-orange" : nil}hover:text-orange" %>
+       <% current = "#{path}.html" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("travel") && "how_to" == path ) || ( current_page.path.include?("posts") && !current_page.path.include?("travel") && "articles" == path ) || ( current_page.path.include?("how_tos") && "how_to" == path ) %>
+       <%= link_to name, "/#{path}.html", class: "inline-block mb-8 xl:mb-0 #{!is_home ? "border-b-4" :  nil } #{current ? "border-orange" : "border-blue-dark"} leading-tight text-gray-light hover:text-orange" %>
     <% end %>
-    <a href="https://donorbox.org/donate-to-flight-free-uk" class="custom-dbox-popup w-full xl:w-auto px-8 py-2 border-2 border-orange rounded-full bg-orange hover:bg-blue-dark text-blue-dark hover:text-white">Donate</a>
-  </nav>
+    </nav>
+  </div>
+  </div>
 </header>
