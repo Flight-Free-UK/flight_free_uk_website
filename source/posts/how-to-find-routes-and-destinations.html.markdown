@@ -1,7 +1,7 @@
 ---
 published: true
 title: How to find routes and destinations
-category: opinion
+category: how-to
 date: 2023-01-04T22:34:24.280Z
 cover_image: /images/uploads/map_plan_canva.jpg
 summary: From handy websites to flight-free travel agents, here are our top
