@@ -54,13 +54,13 @@ S﻿tarting with a short hop to a nearby European city can ease you into travell
 
 ## 7﻿. Try sleeper trains
 
-We have been to France, Germany, the Netherlands and Belgium, and last year we took the [Caledonian Sleeper](https://www.sleeper.scot)Sleeper trains are always a real hit with children. It's exciting to be in bed on a train, and the clever compartments, foldable beside tables and hidden sinks are a novelty. The most exciting thing is going to sleep in a busy city and waking up surrounded by Scottish mountains or cruising along the Cornish Riviera. This is true for adults as well as children! 
+Sleeper trains are always a real hit with children. It's exciting to be in bed on a train, and the clever compartments, foldable beside tables and hidden sinks are a novelty. The most exciting thing is going to sleep in a busy city and waking up surrounded by Scottish mountains or cruising along the Cornish Riviera. This is true for adults as well as children! 
 
 T﻿ravelling while asleep can save time and money (compared to a hotel) and has the added excitement factor. Just remember to pack ear plugs and eye mask to ensure a sound night's sleep.
 
 ## 8﻿. Book early for the best price
 
-you can set up ticket alerts on Rail Europe which will let you know in advance when tickets go on sale.
+I﻿f you set up ticket alerts on Rail Europe you can find out in advance when tickets go on sale. 
 
 ## **9. G﻿o with Deutsche Bahn**
 
