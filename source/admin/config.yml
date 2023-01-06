@@ -159,22 +159,6 @@ collections:
               - {label: Role, name: description, widget: string}
               - {label: Bio, name: bio, widget: text}
               - {label: Photo, name: photo, widget: image}
-  - name: advisorygroup
-    label: Advisory Group
-    files:
-      - label: Advisory Group Members
-        name: advisorygroup
-        file: "data/advisorygroup.yml"
-        fields:
-          - label: Members
-            name: members
-            widget: list
-            allow_add: true
-            fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Website, name: url, widget: string}
-              - {label: Role, name: description, widget: string}
-              - {label: Bio, name: bio, widget: text}
   - name: how_cards
     label: Homepage – "How?" cards
     folder: data/how_cards
