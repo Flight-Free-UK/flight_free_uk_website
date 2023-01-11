@@ -12,7 +12,7 @@ blog: travel_articles
   <div class="container mx-auto xl:px-32 xxl:px-48 pb-12">
     <ul class="md:grid md:grid-cols-2 gap-4 ff-bullets">
       <%- data.how_to_links.primary.links.each do |link| -%>
-      <li class="py-2 md:py-4 flex items-center"><%= partial "svg/dot_pink.svg" %><a href="<%= link.url %>" target="_blank" class="ml-1 md:ml-4 text-xl xl:text-3xl hover:text-orange"><%= link.text %></a></li>
+      <li class="py-1 sm:py-2 md:py-4 flex items-center"><span class="inline-block xs:mx-2"><%= partial "svg/dot_pink.svg" %></span><a href="<%= link.url %>" target="_blank" class="ml-1 md:ml-4 text-xl xl:text-3xl hover:text-orange"><%= link.text %></a></li>
       <%- end -%>
     </ul>
   </div>
@@ -22,7 +22,7 @@ blog: travel_articles
   <div class="container mx-auto xl:px-32 xxl:px-48 pb-12">
     <ul class="md:grid md:grid-cols-2 gap-4 ff-bullets">
       <%- data.how_to_links.secondary.links.each do |link| -%>
-      <li class="py-2 md:py-4 flex items-center"><%= partial "svg/dot_blue.svg" %><a href="<%= link.url %>" target="_blank" class="ml-1 md:ml-4 text-xl xl:text-3xl hover:text-orange"><%= link.text %></a></li>
+      <li class="py-1 sm:py-2 md:py-4 flex items-center"><span class="inline-block xs:mx-2"><%= partial "svg/dot_blue.svg" %></span><a href="<%= link.url %>" target="_blank" class="ml-1 md:ml-4 text-xl xl:text-3xl hover:text-orange"><%= link.text %></a></li>
       <%- end -%>
     </ul>
   </div>
