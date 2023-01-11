@@ -24,9 +24,10 @@ html {
 
 h1,
 h2,
-strong {
+strong,
+.font-bold {
 	font-family: "KollektifBold", sans-serif;
-	font-weight: 400;
+	font-weight: 400 !important;
 }
 
 .text-shadow {
@@ -40,6 +41,7 @@ strong {
 	}
 }
 
+/* Make sure SVGs sca;e appropriately */
 svg {
 	max-width: 100%;
 	height: auto;

@@ -1,6 +1,6 @@
 <section class="section--how bg-blue text-gray-light px-4">
   <div class="container mx-auto xl:px-16">
-    <h2 class="text-4xl lg:text-5xl pt-8 pb-12 text-center">How?</h2>
+    <h2 class="text-2xl sm:text-4xl lg:text-5xl pt-8 pb-12 text-center">How?</h2>
     <div class="flex flex-wrap justify-center">
       <% data.how_cards.values.first(3).each do | howto | %>
           <%= partial(:home_howto, :locals => { :name => howto.title, :url => howto.url, :cover_image => howto.cover_image }) %>
