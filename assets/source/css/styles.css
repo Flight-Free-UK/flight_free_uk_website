@@ -55,7 +55,7 @@ svg {
 }
 
 #main-header.menu-active {
-	@apply fixed top-0 bottom-0 left-0 right-0 p-4 flex;
+	@apply fixed overflow-auto top-0 bottom-0 left-0 right-0 p-4 flex;
 	width: 100vw;
 	height: 100vh;
 	background-color: #204f7f;
@@ -71,7 +71,7 @@ svg {
 }
 
 #main-header.menu-active .social-links {
-	@apply w-full mt-16 justify-center;
+	@apply w-full mt-8 justify-center;
 }
 
 #main-header .logo svg {
