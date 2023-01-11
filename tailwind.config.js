@@ -96,10 +96,9 @@ module.exports = {
         "200": "200px",
         "220": "220px",
         "230": "230px",
-        "280": "280px", // 288 - (2 x 4 rounded corners)
+        "280": "280px", // for pledge form and hands SVG
         "288": "288px",
         "320": "320px",
-        "343": "343px", // for hands SVG
         "360": "360px",
         "640": "640px"
       },
@@ -109,7 +108,7 @@ module.exports = {
         "64": "16rem",
         "80": "20rem",
         "96": "24rem",
-        "124": "124px", // for hands SVG
+        "104": "104px", // for hands SVG
         "140": "140px",
         "200": "200px",
         "220": "220px",
