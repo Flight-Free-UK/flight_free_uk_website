@@ -104,7 +104,13 @@ svg {
 }
 
 .section--how--card>* {
-	max-width: 284px
+	max-width: 256px
+}
+
+@media (min-width: 420px) {
+	.section--how--card>* {
+		max-width: 284px
+	}
 }
 
 @media (min-width: 768px) {
