@@ -103,6 +103,9 @@ svg {
 	}
 }
 
+/*
+ * Homepage 'How' section
+ */
 .section--how--card>* {
 	max-width: 256px
 }
@@ -133,7 +136,21 @@ svg {
 }
 
 /*
- * Mythbuster 
+ * Homepage 'Why' section
+ */
+.section--why li svg {
+	width: 20px;
+	height: auto;
+}
+
+@media (min-width: 768px) {
+	.section--why li svg {
+		width: 32px;
+	}
+}
+
+/*
+ * Homepage 'Mythbuster / Fact or Fiction' section
  */
 .answered button {
 	@apply cursor-default;
