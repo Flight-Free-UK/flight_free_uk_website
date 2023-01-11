@@ -4,15 +4,15 @@ menu_item: how_to
 
 <% wrap_layout :layout do %>
 
-<main class="bg-gray-light text-blue-dark">
+<main>
 
-  <section class="section--introduction">
-    <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
+  <section class="section--introduction bg-gray-light text-blue-dark px-4">
+    <div class="container mx-auto xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
 
-      <%= link_to "view all posts", "/how_to.html", class: "text-base xl:text-lg text-blue-dark pl-8 bg-no-repeat", style: "background-image:url(/svg/arrow_back.svg)" %>
+      <%= link_to "view all posts", "/how_to.html", class: "text-lg text-blue-dark pl-8 bg-no-repeat", style: "background-image:url(/svg/arrow_back.svg)" %>
 
-      <h1 class="text-4xl xl:text-title font-bold leading-tight mt-8 mb-6"><%= current_article.title %></h1>
-      <h2 class="text-2xl xl:text-subtitle font-bold mb-6 sm:mb-8 leading-tight"><%= current_article.data.summary %></h2>
+      <h1 class="text-2xl xs:text-3xl sm:text-4xl xl:text-title font-bold leading-tight mt-8 mb-6"><%= current_article.title %></h1>
+      <h2 class="text-xl sm:text-3xl xl:text-subtitle font-bold mb-6 sm:mb-8 leading-tight"><%= current_article.data.summary %></h2>
 
       <div class="xl:flex items-center border-t-4 border-b-4 border-gray-mid py-2 text-base xl:text-lg text-blue-dark">
         <div class="flex items-center">
@@ -24,12 +24,14 @@ menu_item: how_to
     </div>
   </section>
 
-  <section class="blog-post-body container mx-auto px-8 xl:px-32 xxl:px-48 pb-6 sm:pb-8">
-        <%= yield %>
+  <section class="blog-post-body bg-gray-light text-blue-dark px-4">
+    <div class="container mx-auto xl:px-32 xxl:px-48 pb-6 sm:pb-8">
+      <%= yield %>
+    </div>
   </section>
 
-  <section class="section--social-sharing social-sharing">
-    <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
+  <section class="section--social-sharing social-sharing bg-gray-light text-blue-dark px-4">
+    <div class="container mx-auto xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
       <div class="border-t-4 border-gray-mid pt-10 flex flex-wrap justify-center">
         <h4 class="w-full flex-full text-center text-xl">Share this post</h4>
         <% link_to "https://twitter.com/intent/tweet", query: { text: current_article.title, url: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank", class: "inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2" do %>
@@ -45,8 +47,8 @@ menu_item: how_to
     </div>
   </section>
 
-  <section class="section--other-posts">
-    <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
+  <section class="section--other-posts bg-gray-light text-blue-dark px-4">
+    <div class="container mx-auto xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
         <h2 class="text-2xl xl:text-3xl">Other posts</h2>
         <div class="text-right pb-6 sm:pb-8">
           <% link_to "/how_to.html", class: "text-lg xl:text-xl hover:text-orange" do %>

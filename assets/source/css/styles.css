@@ -274,15 +274,15 @@ svg {
 
 /* text size */
 .blog-post-body h1 {
-	@apply text-3xl;
+	@apply text-2xl;
 }
 
 .blog-post-body h2 {
-	@apply text-3xl;
+	@apply text-xl font-bold;
 }
 
 .blog-post-body h3 {
-	@apply text-2xl;
+	@apply text-xl font-bold;
 }
 
 .blog-post-body h4,
@@ -297,6 +297,20 @@ svg {
 
 .blog-post-body blockquote p {
 	@apply text-2xl;
+}
+
+@media (min-width: 420px) {
+	.blog-post-body h1 {
+		@apply text-2xl;
+	}
+	
+	.blog-post-body h2 {
+		@apply text-xl;
+	}
+	
+	.blog-post-body h3 {
+		@apply text-2xl;
+	}
 }
 
 @media (min-width: 1280px) {
