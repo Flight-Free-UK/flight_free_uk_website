@@ -4,33 +4,33 @@ blog: travel_articles
 ---
 <main>
 
-<section class="section--introduction bg-gray-light text-blue-dark">
-  <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12">
+<section class="section--introduction bg-gray-light text-blue-dark px-4">
+  <div class="container mx-auto xl:px-32 xxl:px-48 pt-12">
     <p class="text-xl xl:text-3xl mb-6 sm:mb-8 leading-tight">Pledging not to fly can seem daunting if you don't know where to start. Our 'how to' articles can help you get cracking, with ideas for travel destinations, and everything from tips on travelling with children, to guidance on how to talk to the people around you about your pledge.</p>
-    <h1 class="text-4xl xl:text-5xl font-bold leading-tight mb-10">How to</h1>
+    <h1 class="text-2xl xs:text-3xl sm:text-4xl md:text-5xl font-bold leading-tight mb-4 md:mb-10">How to</h1>
   </div>
-  <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pb-12">
-    <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
+  <div class="container mx-auto xl:px-32 xxl:px-48 pb-12">
+    <ul class="md:grid md:grid-cols-2 gap-4 ff-bullets">
       <%- data.how_to_links.primary.links.each do |link| -%>
-      <li class="mt-1 py-2 flex items-center"><%= partial "svg/dot_pink.svg" %><a href="<%= link.url %>" target="_blank" class="ml-1 md:ml-4 text-xl xl:text-3xl hover:text-orange"><%= link.text %></a></li>
+      <li class="py-2 md:py-4 flex items-center"><%= partial "svg/dot_pink.svg" %><a href="<%= link.url %>" target="_blank" class="ml-1 md:ml-4 text-xl xl:text-3xl hover:text-orange"><%= link.text %></a></li>
       <%- end -%>
     </ul>
   </div>
-  <div class="container mx-auto px-8 xl:px-32 xxl:px-48">
-    <h2 class="text-3xl xl:text-4xl font-bold leading-tight mb-10">How to travel</h2>
+  <div class="container mx-auto xl:px-32 xxl:px-48">
+    <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold leading-tight mb-4 md:mb-10">How to travel</h2>
   </div>
-  <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pb-12">
-    <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
+  <div class="container mx-auto xl:px-32 xxl:px-48 pb-12">
+    <ul class="md:grid md:grid-cols-2 gap-4 ff-bullets">
       <%- data.how_to_links.secondary.links.each do |link| -%>
-      <li class="mt-1 py-2 flex items-center"><%= partial "svg/dot_blue.svg" %><a href="<%= link.url %>" target="_blank" class="ml-1 md:ml-4 text-xl xl:text-3xl hover:text-orange"><%= link.text %></a></li>
+      <li class="py-2 md:py-4 flex items-center"><%= partial "svg/dot_blue.svg" %><a href="<%= link.url %>" target="_blank" class="ml-1 md:ml-4 text-xl xl:text-3xl hover:text-orange"><%= link.text %></a></li>
       <%- end -%>
     </ul>
   </div>
 </section>
 
-<section class="section--articles-travel bg-orange text-blue-dark">
-  <div class="container mx-auto px-8 xl:px-32 xxl:px-48 pt-12 pb-12">
-    <h2 class="text-4xl xl:text-5xl font-bold leading-tight mb-10">Destination inspiration</h2>
+<section class="section--articles-travel bg-orange text-blue-dark px-4">
+  <div class="container mx-auto xl:px-32 xxl:px-48 pt-12 pb-12">
+    <h2 class="text-2xl xs:text-3xl sm:text-4xl md:text-5xl font-bold leading-tight mb-10">Destination inspiration</h2>
     <p class="text-xl xl:text-3xl mb-6 sm:mb-8 leading-tight">Be inspired by these stories of overland travel from past pledgers. If you have a destination to add to the list, please <a href="mailto:info@flightfree.co.uk" class="border-b-4 border-blue-dark hover:text-white">get in touch</a></p>
     <%= partial "articles", locals: { articles: blog.articles } %>
   </div>

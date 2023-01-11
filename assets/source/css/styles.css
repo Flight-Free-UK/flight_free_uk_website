@@ -41,9 +41,17 @@ strong,
 	}
 }
 
-/* Make sure SVGs sca;e appropriately */
+/* Make sure SVGs scale appropriately */
 svg {
 	max-width: 100%;
+	height: auto;
+}
+
+/*
+ * SVG buttons in lists
+ */
+.ff-bullets li svg {
+	width: 20px;
 	height: auto;
 }
 
@@ -135,14 +143,6 @@ svg {
 	top: -2rem;
 	left: 50%;
 	margin-left: -14px;
-}
-
-/*
- * Homepage 'Why' section
- */
-.section--why li svg {
-	width: 20px;
-	height: auto;
 }
 
 @media (min-width: 768px) {
