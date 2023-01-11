@@ -90,14 +90,14 @@ svg {
 /*
  * Homepage
  */
-svg.arrow-curled {
+.section--introduction--text svg {
 	width: auto;
 	height: 65px;
 	transform: rotate(10deg);
 }
 
 @media (min-width: 768px) {
-	svg.arrow-curled {
+	.section--introduction--text svg {
 		height: 130px;
 		transform: none;
 	}

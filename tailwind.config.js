@@ -28,6 +28,18 @@ module.exports = {
       "gray-light": "#f9f9f9",
       "gray-mid": "#e7e7e7",
     }),
+    backgroundPosition: {
+      bottom: 'bottom',
+      center: 'center',
+      left: 'left',
+      'left-bottom': 'left bottom',
+      'left-top': 'left top',
+      right: 'right',
+      'right-bottom': 'right bottom',
+      'right-top': 'right top',
+      top: 'top',
+      'center-bottom': 'center bottom',
+    },
     screens: {
       "xs": "420px",
       "sm": "540px",
