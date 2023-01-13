@@ -21,7 +21,7 @@ html {
 	font-weight: 400;
 	/*letter-spacing: 0.5px;*/
 }
-@media (max-width: 640px) {
+@media (min-width: 768px) {
 	html {
 		letter-spacing: 0.5px;
 	}
