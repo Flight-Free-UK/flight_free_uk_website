@@ -21,6 +21,11 @@ html {
 	font-weight: 400;
 	/*letter-spacing: 0.5px;*/
 }
+@media (max-width: 640px) {
+	html {
+		letter-spacing: 0.5px;
+	}
+}
 
 h1,
 h2,
