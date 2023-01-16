@@ -5,7 +5,7 @@ const webpack = require('webpack')
 const env = process.env.WEBPACK_ENV
 
 const OUTPUT_FILENAME = 'site'
-const COPYRIGHT = `@copyright Flight Free UK 2020`
+const COPYRIGHT = `@copyright Flight Free UK 2023`
 
 const OUTPUT_FILE = `${OUTPUT_FILENAME}.js`
 const OUTPUT_FILE_MIN = `${OUTPUT_FILENAME}.min.js`
