@@ -398,7 +398,7 @@ svg {
 	/* purgecss ignore */
 	.blog-post-body blockquote {
 		@apply pl-20;
-		background: url('/7d095e210cac28139d400a25924f2f52.png') no-repeat;
+		background: url('/images/blog_post_quote_mark.png') no-repeat;
 	}
 }
 
