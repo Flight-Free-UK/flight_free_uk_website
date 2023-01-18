@@ -1,12 +1,12 @@
 ---
-published: false
+published: true
 title: In conversation with Emily Tulloh
 date: 2023-01-18T22:14:33.601Z
 cover_image: /images/uploads/jan23_podcast_emily_tulloh.jpg
 summary: Community engagement specialist Emily Tulloh chats to us about our new
   pledge options, and shares her own travel plans for 2023.
 author: FlightFree UK
-read_time_minute: 5
+read_time_minute: 6
 ---
 This is episode 1 of our 2023 series. Listen to the episode here and find other episodes and previous series here.
 
@@ -54,10 +54,26 @@ Emily
 
 This has been the cause of a lot of conversations between me and my parents! For a while I thought I would never fly again, then I realised I would lose out on big things, for example if my sister had a baby. So I will fly to Australia, but I will do so infrequently. I think there are a lot of people in similar positions. 
 
-My sister is in Australia but my parents are in Edinburgh. They are going to joing the pledge not to fly in Europe, but they will be going to Australia to see their parents and their daughter.
+My sister is in Australia but my parents are in Edinburgh. They are going to join the pledge not to fly in Europe, but they will be going to Australia to see their parents and their daughter.
 
 Anna
 
 It’s a lot easier to travel to Edinburgh without flying! Do you travel up and down between London and Edinburgh frequently? 
 
 Emily
+
+Yes, I take the train all the time. I go back every couple of months. I have taken the sleeper train – including a time when the sleeper train broke down and we had to get a coach, which was not great!
+
+Anna
+
+It’s worth remembering travel can be a nightmare regardless of whether you travel by train or fly! 
+
+You might not know but London to Edinburgh is the UK’s busiest air route. It seems crackers that it should be, because it's so easy to travel by train. We try to encourage people not to fly domestically, which is an absolute minimum for the pledge.
+
+Emily
+
+Talking about domestic travel, I’d like to go to Ireland or Northern Ireland this year, and I’ll go by Rail and Sail. 
+
+Anna
+
+Thanks for joining us, Emily, and for giving your insights into our campaign. If you are inspired to sign up for a flight free year or to make your own pledge, you can do so on our website which is [flightfree.co.uk](http://flightfree.co.uk)
