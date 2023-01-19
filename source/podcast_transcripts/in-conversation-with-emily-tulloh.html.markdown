@@ -8,7 +8,7 @@ summary: Community engagement specialist Emily Tulloh chats to us about our new
 author: FlightFree UK
 read_time_minute: 6
 ---
-*This is episode 1 of our 2023 series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-tulloh/) and find other episodes and previous series [here](/podcast).*
+*This is episode 1 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-tulloh/) and find other episodes and previous series [here](/podcast).*
 
 ## Welcome to a brand new series of the flight free podcast and our first ‘In conversation with’. 
 
@@ -80,4 +80,10 @@ Talking about domestic travel, I’d like to go to Ireland or Northern Ireland t
 
 Thanks for joining us, Emily, and for giving your insights into our campaign. 
 
-If you are inspired to sign up for a flight free year or to make your own pledge, you can do so on our website: [flightfree.co.uk](http://flightfree.co.uk)
+### If you are inspired to sign up for a flight free year or to make your own pledge, you can do so on our website: [flightfree.co.uk](http://flightfree.co.uk)
+
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-tulloh/) and find other episodes and previous series [here](/podcast).* 
+
+**Credits:**
+
+*Interview conducted and produced by Anna Hughes. Voiceover: Louise Millington. Intro music: [](https://uppbeat.io/t/dan-barton/the-executive-lounge) Outro music: [Call to Arms by](https://uppbeat.io/t/aaFron-paul-low/call-to-arms)*
