@@ -10,21 +10,13 @@ read_time_minute: 6
 ---
 # 2023 podcast series: In Conversation With…Helen Coffey
 
-
-
 This is episode 2 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-helen-coffey/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)
 
-
-
 Today we are joined by Helen Coffey, head of travel at The Independent. She published her first book last year: ‘Zero Altitude: How I learned to fly less and travel more’. Helen has taken the flight free pledge for the past four years, which is quite a radical move for a travel writer. 
-
-
 
 ### Helen
 
 Travel writing was very new to me, other than being a person that liked going on holiday as most of us do. The more I've done it, the more I notice how travel encapsulates so many things.  Experiencing different cultures, seeing new places. That’s why I think the pledge is so great because it’s giving you an alternative way to travel. I do still think that it’s important that we leave our little island, see other places and talk to other people. A lot of the tourism models that have prevailed over the last hundred years need to change, because when you are just dropping into places, you are not really seeing things.
-
-
 
 ### Flight Free UK
 
@@ -34,21 +26,15 @@ You were on our podcast back in 2020 when the flight free year wasn’t quite as
 
 That year felt like a cheat year, so I renewed my pledge for 2021. But that was still a  weird year for travel, with traffic light systems and all kinds of things. So in 2022, I thought I’ll do it again and funnily enough, when you’ve taken the pledge three years in a row, your habits have changed. People assume it was something to tick off a list and now I can go back onto a plane. But actually that’s not the case. The marvels of slow travel are much more enjoyable and rewarding. 
 
-
-
 ### Flight Free UK
 
 That's the whole idea behind asking people to try a year without flying: to give it a try, in order to gain an insight into alternative ways of travel and the benefits of staying grounded. 
-
-
 
 We are very keen to show that not flying does not mean not travelling, so can you tell us about the trips that you managed to go on, despite Covid? 
 
 ### Helen
 
 The furthest I have been is Morocco. It was a 10 day trip and it was amazing. Getting there by ferry gave me this incredible feeling to arrive and think ‘I’ve made it’ as we pulled into this new country that I’d never been to. 
-
-
 
 I’ve experienced a lot of European trips by train but also by ferry: I’ve taken the ferry to the Hoek of Holland to get to Amsterdam, and I’ve also taken the ferry from Portsmouth to get to Santander and Bilbao in Spain. From there I explored more of Spain by coach and by train. It turns trips into adventures.
 
@@ -68,8 +54,6 @@ How has your life as a travel writer changed since taking the pledge?
 
 I take fewer trips but the ones I take are more intentional. As a travel writer, you get invited on lots of press trips that have all been organised by the tourist board or a chain of hotels. It’s easy to say yes. In 2019, I calculated that I’d taken 26 flights in 6 months, which is pretty much the equivalent of one a week. What was so distressing is that sometimes I didn’t even want to go. It now feels to me like such a waste. 
 
-
-
 I’d stopped appreciating it. And the difference now is that I plan my trips, and when you get to do it, it's exciting, it's not just another trip that I have to go on for my job. 
 
 ### Flight Free UK
@@ -80,11 +64,7 @@ So let's talk about your book Zero Altitude. It’s great! You are an amazing wr
 
 I wanted it to be a combination of being an honest travelogue and an exploration of the facts about flying. I think lots of people know that flying creates a lot of carbon emissions, but it seems very complicated, and with offsetting and new technology, they think it's probably alright. That's certainly what I thought before doing the research. 
 
-
-
 But in the course of talking to climate change scientists and experts, I realised that it’s not actually very complicated at all. If the question is do we need to fly less, the answer is yes.
-
-
 
 Flying at the current level cannot be part of a net zero society because of the high number of emissions. The technology that exists is very far off being done at any kind of scale. There are solutions, but they are no match for the number of flights we take, but there’s no talk from any politicians about reducing the number of flights.
 
@@ -92,17 +72,11 @@ Flying at the current level cannot be part of a net zero society because of the 
 
 There are so many things that need to happen to reduce demand for aviation such as fair pricing e.g. taxing the fuel and using the money to subsidise more rail travel. But also, if everybody had this information, then more people would make different choices. 
 
-
-
 How has your outlook about travel changed? 
 
 ### Helen
 
-
-
 I had the idea that taking the flight free pledge in 2020 would be a quirky New Years Resolution that would give me a great angle as a travel writer. However, I now feel almost like a completely different person to when I started. I think it’s very unlikely that flying will ever be a regular feature of my life again. 
-
-
 
 The main outlook change for me has been the enjoyability of slow travel. Once you’ve experienced it, it’s a game changer. Being immersed in the landscape as you travel and making that as much of the trip as well as where you are going – I’m realising how true the cliche ‘It’s not about the destination, it’s about the journey’ is. I think I’m a bit of a slow travel addict, which has been the most surprising turn of events. Thank you for kind of introducing me to it all and changing my life for the better! 
 
@@ -116,15 +90,12 @@ There’s another new sleeper train launching in May, from Brussels to Berlin, s
 
 ### Flight Free UK
 
-Thank you so much Helen, it’s so inspiring to hear your experiences and I’m sure you will inspire and have inspired lots of people to take our flight free challenge as well. **\
-If you are inspired to sign up for a flight free year or to make your own pledge, you can do so on our website: [flightfree.co.uk](http://flightfree.co.uk)**
+Thank you so much Helen, it’s so inspiring to hear your experiences and I’m sure you will inspire and have inspired lots of people to take our flight free challenge as well. **If you are inspired to sign up for a flight free year or to make your own pledge, you can do so on our website: [flightfree.co.uk](http://flightfree.co.uk)**
 
 You can find Helen [@LenniCoffey](https://twitter.com/lennicoffey?lang=en)  on Twitter and of course at the [Independent](https://www.independent.co.uk/author/helen-coffey). 
 
 Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-helen-coffey/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/) .
 
-
-
 Credits:
 
-*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music: [](https://uppbeat.io/t/dan-barton/the-executive-lounge) [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)*
+*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music:* [](https://uppbeat.io/t/dan-barton/the-executive-lounge)* [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)*
