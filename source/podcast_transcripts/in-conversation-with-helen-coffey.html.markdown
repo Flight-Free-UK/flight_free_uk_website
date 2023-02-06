@@ -36,7 +36,7 @@ We are very keen to show that not flying does not mean not travelling, so can yo
 
 ### Helen
 
-The furthest I have been is Morocco. It was a 10 day trip and it was amazing. Getting there by ferry gave me this incredible feeling to arrive and think ‘I’ve made it’ as we pulled into this new country that I’d never been to. 
+The furthest I have been is Morocco. It was a 10 day trip and it was amazing. Getting there by ferry was a wonderful way to arrive. You kind of think, ‘I’ve made it!’ as you pull into a new country.
 
 I’ve experienced a lot of European trips by train but also by ferry: I’ve taken the ferry to the Hoek of Holland to get to Amsterdam, and I’ve also taken the ferry from Portsmouth to get to Santander and Bilbao in Spain. From there I explored more of Spain by coach and by train. It turns trips into adventures.
 
