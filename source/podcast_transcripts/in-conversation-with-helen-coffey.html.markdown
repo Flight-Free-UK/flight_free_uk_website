@@ -94,12 +94,12 @@ There’s another new sleeper train launching in May, from Brussels to Berlin, s
 
 ### Flight Free UK
 
-Thank you so much Helen, it’s so inspiring to hear your experiences and I’m sure you will inspire and have inspired lots of people to take our flight free challenge as well. **If you are inspired to sign up for a flight free year or to make your own pledge, you can do so on our website: [flightfree.co.uk](http://flightfree.co.uk)**
+Thank you so much Helen, it’s so inspiring to hear your experiences and I’m sure you will inspire and have inspired lots of people to take our flight free challenge as well. If you are inspired to sign up for a flight free year or to make your own pledge, you can do so on our website: [flightfree.co.uk](http://flightfree.co.uk)
 
-You can find Helen [@LenniCoffey](https://twitter.com/lennicoffey?lang=en)  on Twitter and of course at the [Independent](https://www.independent.co.uk/author/helen-coffey). 
+You can find Helen [@LenniCoffey](https://twitter.com/lennicoffey?lang=en) on Twitter and of course at the [Independent](https://www.independent.co.uk/author/helen-coffey). 
 
-Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-helen-coffey/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/) .
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-helen-coffey/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/) .*
 
-Credits:
+*Credits:*
 
-*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music:* [](https://uppbeat.io/t/dan-barton/the-executive-lounge)* [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)*
+*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music: [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)*
