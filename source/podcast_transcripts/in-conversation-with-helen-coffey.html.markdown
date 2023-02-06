@@ -1,30 +1,32 @@
 ---
 published: true
-title: In conversation with Helen Coffey
+title: "2023 podcast series: In conversation with Helen Coffey"
 date: 2023-02-03T22:01:41.272Z
 cover_image: /images/uploads/websitepodbean.jpg
 summary: Helen Coffey, head of travel at The Independent, joins us to discuss
-  her experience of taking the flight free pledge for the past three years. 
+  her experience of taking the flight free pledge for the fourth year in a row. 
 author: FlightFree UK
 read_time_minute: 6
 ---
-# 2023 podcast series: In Conversation With…Helen Coffey
+*This is episode two of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-helen-coffey/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)*
 
-This is episode 2 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-helen-coffey/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)
+## Today we are joined by Helen Coffey, head of travel at The Independent. 
 
-Today we are joined by Helen Coffey, head of travel at The Independent. She published her first book last year: ‘Zero Altitude: How I learned to fly less and travel more’. Helen has taken the flight free pledge for the past four years, which is quite a radical move for a travel writer. 
+### She published her first book last year: ‘Zero Altitude: How I learned to fly less and travel more’. Helen has taken the flight free pledge for the past four years, which is quite a radical move for a travel writer. 
 
 ### Helen
 
-Travel writing was very new to me, other than being a person that liked going on holiday as most of us do. The more I've done it, the more I notice how travel encapsulates so many things.  Experiencing different cultures, seeing new places. That’s why I think the pledge is so great because it’s giving you an alternative way to travel. I do still think that it’s important that we leave our little island, see other places and talk to other people. A lot of the tourism models that have prevailed over the last hundred years need to change, because when you are just dropping into places, you are not really seeing things.
+The longer I've been a travel writer, the more I notice how travel encapsulates so many things. Experiencing different cultures, seeing new places. I think that it’s important that we leave our little island, to see other places and talk to other people. A lot of the tourism models that have prevailed over the last hundred years need to change, because when you are just dropping into places, you are not really seeing things.
 
 ### Flight Free UK
 
-You were on our podcast back in 2020 when the flight free year wasn’t quite as we expected. Yet you stuck with it and signed up for the flight free pledge again!
+You were on our podcast in 2020 when the flight free year wasn’t quite as we expected. Yet you stuck with it and signed up for the flight free pledge again!
 
 ### Helen
 
-That year felt like a cheat year, so I renewed my pledge for 2021. But that was still a  weird year for travel, with traffic light systems and all kinds of things. So in 2022, I thought I’ll do it again and funnily enough, when you’ve taken the pledge three years in a row, your habits have changed. People assume it was something to tick off a list and now I can go back onto a plane. But actually that’s not the case. The marvels of slow travel are much more enjoyable and rewarding. 
+2020 felt like a cheat year, so I renewed my pledge for 2021. But that was still a strange year for travel, with traffic light systems and all kinds of things. So in 2022, I thought I’ll do it again. Funnily enough, when you’ve taken the pledge three years in a row, your habits have changed. 
+
+People assume it was something to tick off a list and now I've done it, I can go back onto a plane. But actually that’s not the case. The marvels of slow travel are much more enjoyable and rewarding. 
 
 ### Flight Free UK
 
