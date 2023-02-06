@@ -1,6 +1,6 @@
 ---
 published: true
-title: "2023 podcast series: In conversation with Helen Coffey"
+title: In conversation with Helen Coffey
 date: 2023-02-03T22:01:41.272Z
 cover_image: /images/uploads/websitepodbean.jpg
 summary: Helen Coffey, head of travel at The Independent, joins us to discuss
