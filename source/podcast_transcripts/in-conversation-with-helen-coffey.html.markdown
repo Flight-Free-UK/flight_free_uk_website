@@ -46,7 +46,9 @@ Have you done any of the night trains? 
 
 ### Helen
 
-There was a new sleeper train from Paris to Vienna, which I'd been desperate to try, so I did that in December. You can get an afternoon Eurostar to Paris and from there, an overnight train, so you wake up in Vienna at around 10 in the morning. Depending on where you are going, if there’s a sleeper train it can often work out feeling quicker than taking a plane which is a big selling point to people whose argument is that they are time poor. Sleeping is dead time anyway. 
+There was a new sleeper train from Paris to Vienna, which I'd been desperate to try, so I did that in December. You can get an afternoon Eurostar to Paris and from there, an overnight train, so you wake up in Vienna at around 10 in the morning. 
+
+Depending on where you are going, if there’s a sleeper train it can often work out feeling quicker than taking a plane which is a big selling point to people whose argument is that they are time poor. Sleeping is dead time anyway. 
 
 ### Flight Free UK
 
@@ -54,33 +56,33 @@ How has your life as a travel writer changed since taking the pledge?
 
 ### Helen
 
-I take fewer trips but the ones I take are more intentional. As a travel writer, you get invited on lots of press trips that have all been organised by the tourist board or a chain of hotels. It’s easy to say yes. In 2019, I calculated that I’d taken 26 flights in 6 months, which is pretty much the equivalent of one a week. What was so distressing is that sometimes I didn’t even want to go. It now feels to me like such a waste. 
+I take fewer trips but the ones I take are more intentional. As a travel writer, you get invited on lots of press trips that have been organised by the tourist board or a chain of hotels, and it’s easy to say yes. In 2019, I calculated that I’d taken 26 flights in 6 months, which is pretty much the equivalent of one a week. What was so distressing is that sometimes I didn’t even want to go. It now feels to me like such a waste. 
 
 I’d stopped appreciating it. And the difference now is that I plan my trips, and when you get to do it, it's exciting, it's not just another trip that I have to go on for my job. 
 
 ### Flight Free UK
 
-So let's talk about your book Zero Altitude. It’s great! You are an amazing writer.
+So let's talk about your book Zero Altitude. It’s great! 
 
 ### Helen
 
 I wanted it to be a combination of being an honest travelogue and an exploration of the facts about flying. I think lots of people know that flying creates a lot of carbon emissions, but it seems very complicated, and with offsetting and new technology, they think it's probably alright. That's certainly what I thought before doing the research. 
 
-But in the course of talking to climate change scientists and experts, I realised that it’s not actually very complicated at all. If the question is do we need to fly less, the answer is yes.
+But in the course of talking to climate change scientists and experts, I realised that it’s not actually very complicated at all. If the question is, do we need to fly less, the answer is, yes.
 
-Flying at the current level cannot be part of a net zero society because of the high number of emissions. The technology that exists is very far off being done at any kind of scale. There are solutions, but they are no match for the number of flights we take, but there’s no talk from any politicians about reducing the number of flights.
+> If the question is, do we need to fly less, the answer is, yes.
+
+Flying at the current level cannot be part of a net zero society because of the high number of emissions. The technology that exists is very far off being implemented at any kind of scale. There are solutions, but they are no match for the number of flights we take, and there’s no talk from any politicians about reducing the number of flights. 
 
 ### Flight Free UK
-
-There are so many things that need to happen to reduce demand for aviation such as fair pricing e.g. taxing the fuel and using the money to subsidise more rail travel. But also, if everybody had this information, then more people would make different choices. 
 
 How has your outlook about travel changed? 
 
 ### Helen
 
-I had the idea that taking the flight free pledge in 2020 would be a quirky New Years Resolution that would give me a great angle as a travel writer. However, I now feel almost like a completely different person to when I started. I think it’s very unlikely that flying will ever be a regular feature of my life again. 
+I had the idea that taking the flight free pledge in 2020 would be a quirky New Years Resolution that would give me a great angle as a travel writer. I now feel almost like a completely different person to when I started. I think it’s very unlikely that flying will ever be a regular feature of my life again. 
 
-The main outlook change for me has been the enjoyability of slow travel. Once you’ve experienced it, it’s a game changer. Being immersed in the landscape as you travel and making that as much of the trip as well as where you are going – I’m realising how true the cliche ‘It’s not about the destination, it’s about the journey’ is. I think I’m a bit of a slow travel addict, which has been the most surprising turn of events. Thank you for kind of introducing me to it all and changing my life for the better! 
+The main outlook change for me has been the enjoyability of slow travel. Once you’ve experienced it, it’s a game changer. Being immersed in the landscape as you travel and making that as much of the trip as well as where you are going – I’m realising how true the cliche is, that it’s not about the destination, it’s about the journey. I think I’m a bit of a slow travel addict, which has been the most surprising turn of events. 
 
 ### Flight Free UK
 
