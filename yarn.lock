@@ -7638,7 +7638,7 @@
   "resolved" "https://registry.npmjs.org/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz"
   "version" "2.1.0"
 
-"netlify-cli@^2.69.1":
+"netlify-cli@^2.71.0":
   "integrity" "sha512-763qnilecCVkY6HsZl9Ke8ab4oXUghBJh2dgtg/ZGwgzuQNCjAlTT8n54DFxEuw9Sx0tySDviOLKimHITKa01Q=="
   "resolved" "https://registry.npmjs.org/netlify-cli/-/netlify-cli-2.71.0.tgz"
   "version" "2.71.0"
