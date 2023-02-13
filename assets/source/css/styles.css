@@ -264,11 +264,13 @@ svg {
 .blog-post-body ul,
 .blog-post-body ol,
 .blog-post-body figcaption,
-.blog-post-body blockquote {
+.blog-post-body blockquote,
+blockquote {
 	@apply leading-tight;
 }
 
-.blog-post-body blockquote p {
+.blog-post-body blockquote p,
+blockquote p {
 	@apply italic;
 }
 
@@ -300,7 +302,8 @@ svg {
 	@apply text-xl;
 }
 
-.blog-post-body blockquote p {
+.blog-post-body blockquote p,
+blockquote p {
 	@apply text-2xl;
 }
 
@@ -342,7 +345,8 @@ svg {
 		font-size: 22px;
 	}
 
-	.blog-post-body blockquote p {
+	.blog-post-body blockquote p,
+	blockquote p {
 		@apply text-4xl;
 	}
 }
@@ -381,7 +385,8 @@ svg {
 	.blog-post-body ol {
 		@apply px-24;
 	}
-	.blog-post-body blockquote p {
+	.blog-post-body blockquote p
+	blockquote p {
 		@apply px-0;
 	}
 
@@ -401,7 +406,8 @@ svg {
 	}
 
 	/* purgecss ignore */
-	.blog-post-body blockquote {
+	.blog-post-body blockquote,
+	blockquote {
 		@apply pl-20;
 		background: url('/images/blog_post_quote_mark.png') no-repeat;
 	}
