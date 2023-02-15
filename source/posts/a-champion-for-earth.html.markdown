@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: A Champion for Earth
 category: testimonials
 date: 2019-07-29T12:34:18.778Z
@@ -10,8 +10,6 @@ author: FlightFree UK
 read_time_minute: 6
 ---
 ### This is the fourth instalment of our podcast series of interviews. You can listen to the full podcas[](https://www.flightfree.co.uk/podcast/episode/c2c15969/vipul-patel)t [](https://soundcloud.com/info-728724237/vipul-patel)[here](https://soundcloud.com/info-728724237/etienne-stott) and find a summary below. You can listen to our other podcast episodes on our [podcast page](https://flightfree.co.uk/podcast/).
-
-![Etienne is holding a piece of paper with the Flight Free 2020 pledge on it. He is standing in front of a hedge and has a navy blue short sleeved shirt on. ](/images/uploads/etienne-scott-holding-pledge-.jpg "Etienne Stott, Olympic champion")
 
 We interview Etienne Stott, Olympian and gold medallist in the London 2012 Olympics. Since retiring from the sport he’s become very involved in environmental activism, especially with [Extinction Rebellion](https://rebellion.earth/). Etienne has signed our [flight free 2020 pledge](https://www.flightfree.co.uk/pledge), partly as a way to reduce his own carbon footprint, but also as a symbolic act which encourages people to think about their travel choices.
 
