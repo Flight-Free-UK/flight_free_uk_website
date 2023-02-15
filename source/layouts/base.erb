@@ -15,8 +15,20 @@
   <meta name="description" content="<%= description %>"/>
   <meta property="og:description" content="<%= current_article ? current_article.data.summary : description %>"/>
 
+<%# Get the current image (which is set in the admin for posts and can be overidden in a page ERB template %>
+<%- 
+if current_article
+  sm_image = current_article.data.cover_image
+else
+  if current_page && current_page.data.cover_image
+    sm_image = current_page.data.cover_image
+  else
+    sm_image = "/images/flight-free-pledge-2023.jpg"
+  end
+end -%>
+
   <meta property="og:type" content="<%= current_article ? "article" : "website" %>"/>
-  <meta property="og:image" content="https://flightfree.co.uk<%= current_article ? image_path(current_article.data.cover_image) : "/images/flight-free-pledge-2023.jpg" %>"/>
+  <meta property="og:image" content="https://flightfree.co.uk<%= sm_image %>"/>
   <meta property="og:image:alt" content="<%= current_article ? current_article.data.summary : description %>"/>
 
   <meta name="twitter:card" content="summary_large_image" />

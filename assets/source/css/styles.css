@@ -1,8 +1,17 @@
 @tailwind base;
-
 @tailwind components;
-
 @tailwind utilities;
+
+@layer utilities {
+	.underline-orange {
+		text-decoration-color: #f7b38a;
+		text-decoration-thickness: 11%;
+	}
+	.underline-blue {
+		text-decoration-color: #357cb6;
+		text-decoration-thickness: 11%;
+	}
+}
 
 @font-face {
 	font-family: "Kollektif";
@@ -21,6 +30,7 @@ html {
 	font-weight: 400;
 	/*letter-spacing: 0.5px;*/
 }
+
 @media (min-width: 768px) {
 	html {
 		letter-spacing: 0.5px;
@@ -216,7 +226,7 @@ svg {
 }
 
 .faq-question a {
-	@apply border-b-4 border-orange;
+	@apply underline underline-orange;
 }
 
 .faq-question a:hover,
@@ -239,7 +249,7 @@ svg {
  * Blog: How-tos and Articles
  */
 .blog-post-body a {
-	@apply border-b-4 border-orange;
+	@apply underline underline-orange;
 }
 
 .blog-post-body a:hover {
@@ -264,11 +274,13 @@ svg {
 .blog-post-body ul,
 .blog-post-body ol,
 .blog-post-body figcaption,
-.blog-post-body blockquote {
+.blog-post-body blockquote,
+blockquote {
 	@apply leading-tight;
 }
 
-.blog-post-body blockquote p {
+.blog-post-body blockquote p,
+blockquote p {
 	@apply italic;
 }
 
@@ -300,7 +312,8 @@ svg {
 	@apply text-xl;
 }
 
-.blog-post-body blockquote p {
+.blog-post-body blockquote p,
+blockquote p {
 	@apply text-2xl;
 }
 
@@ -308,11 +321,11 @@ svg {
 	.blog-post-body h1 {
 		@apply text-2xl;
 	}
-	
+
 	.blog-post-body h2 {
 		@apply text-xl;
 	}
-	
+
 	.blog-post-body h3 {
 		@apply text-2xl;
 	}
@@ -342,7 +355,8 @@ svg {
 		font-size: 22px;
 	}
 
-	.blog-post-body blockquote p {
+	.blog-post-body blockquote p,
+	blockquote p {
 		@apply text-4xl;
 	}
 }
@@ -381,7 +395,8 @@ svg {
 	.blog-post-body ol {
 		@apply px-24;
 	}
-	.blog-post-body blockquote p {
+
+	.blog-post-body blockquote p blockquote p {
 		@apply px-0;
 	}
 
@@ -401,7 +416,8 @@ svg {
 	}
 
 	/* purgecss ignore */
-	.blog-post-body blockquote {
+	.blog-post-body blockquote,
+	blockquote {
 		@apply pl-20;
 		background: url('/images/blog_post_quote_mark.png') no-repeat;
 	}
