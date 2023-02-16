@@ -32,12 +32,13 @@ Best ports for travelling by foot are Newhaven, Fishguard, Harwich, and Holyhead
 
 #### Walking times for others:
 
+L﻿iverpool (for Belfast) = 5 minute walk from Hamilton Square station (Birkenhead)\
+Plymouth = 30 minute walk from Plymouth station\
+Poole = 25 minute walk from Poole station\
 Portsmouth = 25 minute walk from Portsmouth and Southsea station\
 Dover = 35 minute walk from Dover Priory station\
-Newcastle = 20 mins from nearest Metro station\
 Hull = 1 hour walk from Hull station\
-Poole = 25 mins walk from Poole station\
-Plymouth = 30 mins walk from Plymouth station
+Newcastle = 20 minute walk from nearest Metro station 
 
 ## Companies, tickets and timetables
 
