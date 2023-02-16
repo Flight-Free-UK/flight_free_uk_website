@@ -53,6 +53,8 @@ There are five main ferry companies operating out of the UK and Ireland: DFDS, S
 
 [Brittany Ferries](https://www.brittany-ferries.co.uk/) will take you from Portsmouth to Caen, St Malo, Le Havre, Cherbourg, Bilbao or Santander, Poole to Cherbourg, Plymouth to Roscoff or Santander, Rosslaire to Bilbao, and Cork to Roscoff.
 
+[I﻿rish Ferries](https://www.irishferries.com/uk-en/travel-to-ireland/) cover the journey between Dublin and Holyhead, Dublin and Cherbourg, and Dover to Calais.
+
 ## Rail and Sail
 
 The [‘rail and sail’](https://www.stenaline.co.uk/rail-and-sail) ticket is a fantastic option for cheap travel, and is available on Stena Line routes to Ireland and the Netherlands. The ticket includes train travel to the port, and onwards at the other end, meaning you can get from most major UK towns to Dublin or any Dutch city for just £50. 
