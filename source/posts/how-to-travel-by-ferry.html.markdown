@@ -8,7 +8,7 @@ summary: Tips for travelling by sea
 author: FlightFree UK
 read_time_minute: 3
 ---
-![](/images/uploads/how-to-travel-by-ferry-routes-sm.jpg)
+![](/images/uploads/how-to-travel-by-ferry_routes.jpg)
 
 There are multiple locations around the UK mainland where you can take a ferry to Europe, Northern Ireland or one of our glorious archipelagos. Taking the ferry is a relaxing and adventurous way to travel, and if you take a bike or go by foot, the emissions savings are huge.
 
