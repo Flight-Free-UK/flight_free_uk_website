@@ -1,7 +1,6 @@
 ---
-published: false
+published: true
 title: "2020 podcast episode 5: carbon offsets and green technology"
-category: climate
 date: 2020-05-07T14:35:11.333Z
 cover_image: /images/uploads/trees-planting.jpg
 summary: We talk to Dr Roger Tyers from the University of Southampton about the
@@ -9,6 +8,7 @@ summary: We talk to Dr Roger Tyers from the University of Southampton about the
   aviation.
 author: FlightFree UK
 read_time_minute: 8
+category: climate
 ---
 ## This podcast is episode 5 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
