@@ -38,7 +38,8 @@ Poole = 25 minute walk from Poole station\
 Portsmouth = 25 minute walk from Portsmouth and Southsea station\
 Dover = 35 minute walk from Dover Priory station\
 Hull = 1 hour walk from Hull station\
-Newcastle = 20 minute walk from nearest Metro station 
+Newcastle = 20 minute walk from nearest Metro station \
+C﻿airnryan = the nearest station is Stranraer, 7 miles away, so from there you can get a bus or a taxi 
 
 ## Companies, tickets and timetables
 
