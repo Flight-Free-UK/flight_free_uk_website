@@ -4,10 +4,64 @@ title: How to travel by ferry
 category: how-to
 date: 2023-02-15T19:02:30.389Z
 cover_image: /images/uploads/trains-not-planes.jpg
-summary: Tips and tricks for travelling over the sea
+summary: Tips for travelling by sea
 author: FlightFree UK
-read_time_minute: 1
+read_time_minute: 3
 ---
 ![](/images/uploads/how-to-travel-by-ferry-routes-sm.jpg)
 
 There are multiple locations around the UK mainland where you can take a ferry to Europe, Northern Ireland or one of our glorious archipelagos. Taking the ferry is a relaxing and adventurous way to travel, and if you take a bike or go by foot, the emissions savings are huge.
+
+## Why travel by ferry?
+
+Picture the scene: you wake in your cabin and open the blinds to see the sun rising over the Bay of Biscay. The land draws steadily nearer until you pull into the port in the same way as the explorers and travellers of old would once have done.
+
+Arriving by sea is the most romantic and adventurous way to discover a new place. There’s plenty to do on board with cafes, restaurants, bars, duty-free, child-friendly areas, comfortable seating and plenty of space. Many ferry routes offer an overnight crossing, which means you can travel in comfort while you sleep.
+
+## Car vs bike vs foot
+
+Taking your car on the ferry can remove loads of the hassle from a family holiday, and if there are four of you in the car, your share of the emissions are much lower than flying. 
+
+The most eco-friendly way to travel by ferry is either as a foot passenger or with a bike, arriving at the port by train. Many ferries cater well for bikes, with bike racks on the Harwich-Hook of Holland ferry (unsurprising for the Dutch destination). 
+
+It’s so easy to travel as a foot passenger, with swift check-in times and easy transfers to the port, although check before you travel: the P&O Liverpool-Dublin line, DFDS Dover to Calais and Dunkirk, or Brittany ferries Portsmouth to Le Havre do not carry foot passengers.
+
+Best ports for travelling by foot are Newhaven, Fishguard, Harwich, and Holyhead, where the stations are adjacent to the pier. The ports on the other end are similarly easy transfer to the station, apart from Dublin, where you might need to get a taxi. 
+
+**Walking times for others:**
+
+Portsmouth = 25 minute walk from Portsmouth and Southsea station
+
+Dover = 35 minute walk from Dover Priory station
+
+Newcastle = 20 mins from nearest Metro station
+
+Hull = 1 hour walk from Hull station
+
+Poole = 25 mins walk from Poole station
+
+Plymouth = 30 mins walk from Plymouth station
+
+## Companies, tickets and timetables
+
+There are four main ferry companies operating between the UK and Europe. For timetables, prices and to book tickets, visit their websites:
+
+[DFDS ferries](https://www.dfds.com/en-gb/passenger-ferries) run from Dover to Calais and Dunkirk, Newhaven to Dieppe, and Newcastle to Amsterdam.
+
+[Stena Line](https://www.stenaline.co.uk/) operates between Holyhead and Dublin, Fishguard and Rosslaire, and Harwich and Hoek van Holland. 
+
+[P&O ferries](https://www.poferries.com/en) are on the Dover to Calais route, Hull to Rotterdam and Liverpool to Dublin.
+
+[Brittany Ferries](https://www.brittany-ferries.co.uk/) will take you from Portsmouth to Caen, St Malo, Le Havre or Cherbourg, Bilbao to Santander, Poole to Cherbourg, and Plymouth to Roscoff or Santander.
+
+## Rail and Sail
+
+The [‘rail and sail’](https://www.stenaline.co.uk/rail-and-sail) ticket is a fantastic option for cheap travel, and is available on Stena Line routes to Ireland and the Netherlands. The ticket includes train travel to the port, and onwards at the other end, meaning you can get from most major UK towns to Dublin or any Dutch city for just £50. 
+
+## Tips for travelling by ferry
+
+* arrive in good time. Most ports have cafes so you can hang out there while you wait to load, whether you’re arriving by car, bike or on foot
+* take sea-sickness tablets for a smooth crossing
+* bring an eye mask and ear plugs if travelling over night
+* book in advance for the best prices
+* keep space in your bag for duty-free purchases!
