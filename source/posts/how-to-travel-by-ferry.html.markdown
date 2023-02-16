@@ -26,20 +26,15 @@ The most eco-friendly way to travel by ferry is either as a foot passenger or wi
 
 It’s so easy to travel as a foot passenger, with swift check-in times and easy transfers to the port, although check before you travel: the P&O Liverpool-Dublin line, DFDS Dover to Calais and Dunkirk, or Brittany ferries Portsmouth to Le Havre do not carry foot passengers.
 
-Best ports for travelling by foot are Newhaven, Fishguard, Harwich, and Holyhead, where the stations are adjacent to the pier. The ports on the other end are similarly easy transfer to the station, apart from Dublin, where you might need to get a taxi. 
+Best ports for travelling by foot are Newhaven, Fishguard, Harwich, and Holyhead, where the stations are adjacent to the pier. The ports on the other end have a similarly easy transfer to the station, apart from Dublin, where you might want to get a taxi. 
 
-**Walking times for others:**
+#### Walking times for others:
 
-Portsmouth = 25 minute walk from Portsmouth and Southsea station
-
-Dover = 35 minute walk from Dover Priory station
-
-Newcastle = 20 mins from nearest Metro station
-
-Hull = 1 hour walk from Hull station
-
-Poole = 25 mins walk from Poole station
-
+Portsmouth = 25 minute walk from Portsmouth and Southsea station\
+Dover = 35 minute walk from Dover Priory station\
+Newcastle = 20 mins from nearest Metro station\
+Hull = 1 hour walk from Hull station\
+Poole = 25 mins walk from Poole station\
 Plymouth = 30 mins walk from Plymouth station
 
 ## Companies, tickets and timetables
