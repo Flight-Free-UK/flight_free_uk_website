@@ -1,13 +1,13 @@
 ---
-published: false
+published: true
 title: "2020 podcast episode 6: flight-free Europe"
-category: opinion
 date: 2020-06-15T11:16:19.997Z
 cover_image: /images/uploads/microphone.jpeg
 summary: We hear from Dr Alexandra Jellicoe about what the climate crisis and
   covid-19 means for travel
 author: FlightFree UK
 read_time_minute: 9
+category: opinion
 ---
 ## This podcast is episode 6 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 
