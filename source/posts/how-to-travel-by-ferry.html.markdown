@@ -51,7 +51,7 @@ There are five main ferry companies operating out of the UK and Ireland: DFDS, S
 
 [P&O ferries](https://www.poferries.com/en) are on the Dover to Calais route, Hull to Rotterdam, Cairnryan to Larne and Liverpool to Dublin. 
 
-[Brittany Ferries](https://www.brittany-ferries.co.uk/) will take you from Portsmouth to Caen, St Malo, Le Havre or Cherbourg, Bilbao and Santander, Poole to Cherbourg, and Plymouth to Roscoff or Santander.
+[Brittany Ferries](https://www.brittany-ferries.co.uk/) will take you from Portsmouth to Caen, St Malo, Le Havre, Cherbourg, Bilbao or Santander, Poole to Cherbourg, and Plymouth to Roscoff or Santander.
 
 ## Rail and Sail
 
