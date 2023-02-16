@@ -3,7 +3,7 @@ published: true
 title: How to travel by ferry
 category: how-to
 date: 2023-02-15T19:02:30.389Z
-cover_image: /images/uploads/trains-not-planes.jpg
+cover_image: /images/uploads/ferry_canva.jpg
 summary: Tips for travelling by sea
 author: FlightFree UK
 read_time_minute: 3
