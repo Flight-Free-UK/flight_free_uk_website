@@ -24,7 +24,7 @@ Taking your car on the ferry can remove loads of the hassle from a family holida
 
 The most eco-friendly way to travel by ferry is either as a foot passenger or with a bike, arriving at the port by train. Many ferries cater well for bikes, with bike racks on the Harwich-Hook of Holland ferry (unsurprising for the Dutch destination). 
 
-![Chart showing the emissions for different transport modes. Train is lowest, plane is highest.](/images/uploads/co2-emissions-blog.jpg)
+![Chart showing the emissions for different transport modes. Train is lowest, plane is highest.](/images/uploads/co2-emissions-transport-blog.jpg)
 
 It’s so easy to travel as a foot passenger, with swift check-in times and easy transfers to the port, although check before you travel: the P&O Liverpool-Dublin line, DFDS Dover to Calais and Dunkirk, or Brittany ferries Portsmouth to Le Havre do not carry foot passengers.
 
