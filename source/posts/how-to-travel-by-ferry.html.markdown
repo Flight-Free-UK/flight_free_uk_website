@@ -43,15 +43,15 @@ C﻿airnryan = the nearest station is Stranraer, 7 miles away, so from there you
 
 ## Companies, tickets and timetables
 
-There are four main ferry companies operating between the UK and Europe. For timetables, prices and to book tickets, visit their websites:
+There are five main ferry companies operating out of the UK and Ireland: DFDS, Stena Line, P&O, Brittany Ferries and Irish Ferries. For timetables, prices and to book tickets, visit their websites: 
 
 [DFDS ferries](https://www.dfds.com/en-gb/passenger-ferries) run from Dover to Calais and Dunkirk, Newhaven to Dieppe, and Newcastle to Amsterdam.
 
-[Stena Line](https://www.stenaline.co.uk/) operates between Holyhead and Dublin, Fishguard and Rosslaire, and Harwich and Hoek van Holland. 
+[Stena Line](https://www.stenaline.co.uk/) operates between Cairnryan and Belfast, Liverpool (Birkenhead) and Belfast, Holyhead and Dublin, Fishguard and Rosslaire, Rosslaire and Cherbourg, and Harwich and Hoek van Holland. 
 
-[P&O ferries](https://www.poferries.com/en) are on the Dover to Calais route, Hull to Rotterdam and Liverpool to Dublin.
+[P&O ferries](https://www.poferries.com/en) are on the Dover to Calais route, Hull to Rotterdam, Cairnryan to Larne and Liverpool to Dublin. 
 
-[Brittany Ferries](https://www.brittany-ferries.co.uk/) will take you from Portsmouth to Caen, St Malo, Le Havre or Cherbourg, Bilbao to Santander, Poole to Cherbourg, and Plymouth to Roscoff or Santander.
+[Brittany Ferries](https://www.brittany-ferries.co.uk/) will take you from Portsmouth to Caen, St Malo, Le Havre or Cherbourg, Bilbao and Santander, Poole to Cherbourg, and Plymouth to Roscoff or Santander.
 
 ## Rail and Sail
 
