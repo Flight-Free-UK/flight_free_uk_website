@@ -92,6 +92,7 @@ module.exports = {
         "square": "100%"
       },
       width: {
+        "17": "17rem",
         "20": "20px",
         "140": "140px",
         "200": "200px",
