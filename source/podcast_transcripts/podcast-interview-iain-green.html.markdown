@@ -1,9 +1,8 @@
 ---
 published: true
 title: "Podcast interview: Iain Green"
-category: opinion
-date: 2019-12-10T13:31:57.052Z
-cover_image: /images/uploads/iain-green.jpg
+date: 2019-10-12T14:46:42.653Z
+cover_image: /images/uploads/the_flight_free_podcast_website_image.jpg
 summary: Wildlife photographer Iain Green tells us what led to his decision to
   stop flying 14 years ago, and how he found the wildlife experience of his
   career in his own back garden.
@@ -12,7 +11,7 @@ read_time_minute: 4
 ---
 ### We welcome Iain Green, renowned wildlife photographer for the fifth instalment of our podcast series of interviews. You can listen to the full podcast [here](https://soundcloud.com/info-728724237/iain-green) and find a summary below. You can listen to our other podcast episodes on our [podcast page.](https://flightfree.co.uk/podcast/)
 
-![Picture shows Iain holding a piece of paper with the Flight Free 2020 pledge on it. He is standing outside the entrance to the Bristol Museum and Art Gallery, and is smiling. ](/images/uploads/iain-green.jpg "Iain holding his Flight Free 2020 pledge")
+![Picture shows Iain holding a piece of paper with the Flight Free 2020 pledge on it. He is standing outside the entrance to the Bristol Museum and Art Gallery, and is smiling. ](/images/uploads/iain-green.jpg)
 
 Our conversation takes place in the Greenwich ecology park, one of Iain’s favourite places. It’s a small nature reserve on the North Greenwich peninsula, right next to the O2 arena and the Thames, and feels very peaceful and secluded despite being so close to some very busy parts of London. 
 

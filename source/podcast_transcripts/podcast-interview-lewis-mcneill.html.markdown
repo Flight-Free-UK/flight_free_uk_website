@@ -1,14 +1,13 @@
 ---
 published: true
-title: Slow boat to South America
-category: testimonials
-date: 2019-03-25T16:36:11.305Z
-cover_image: /images/uploads/lewis-holding-pledge.jpg
+title: "Podcast interview: Lewis McNeill"
+date: 2019-03-25T17:00:00.000Z
+cover_image: /images/uploads/the_flight_free_podcast_website_image.jpg
 summary: A keen traveller, it was difficult for Lewis to reconcile his desire to
   travel with his ambition to reduce his carbon footprint. But by giving up
   flying Lewis realised he would gain much more.
 author: FlightFree UK
-read_time_minute: 3
+read_time_minute: 2
 ---
 *We recorded an interview with Lewis which is summarised here. For the full audio interview go to our* *[podcast](https://www.flightfree.co.uk/podcast)* *page.*
 

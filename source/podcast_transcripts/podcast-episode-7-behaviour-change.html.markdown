@@ -1,7 +1,6 @@
 ---
-published: false
+published: true
 title: "2020 podcast episode 7: behaviour change"
-category: opinion
 date: 2020-07-28T14:15:05.083Z
 cover_image: /images/uploads/lego-figure-in-crowd.jpg
 summary: Awareness of climate change is rising, but our behaviour doesn't always
@@ -9,6 +8,7 @@ summary: Awareness of climate change is rising, but our behaviour doesn't always
   Cardiff University about the psychology of behaviour change.
 author: FlightFree UK
 read_time_minute: 10
+category: opinion
 ---
 ## This podcast is episode 7 of our #FlightFree2020 series. You can listen to the podcast, and access the rest of the series, at our [podcast page](https://flightfree.co.uk/podcast/).
 

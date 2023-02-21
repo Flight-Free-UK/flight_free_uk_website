@@ -1,17 +1,14 @@
 ---
 published: true
-title: A Champion for Earth
-category: testimonials
-date: 2019-07-29T12:34:18.778Z
-cover_image: /images/uploads/etienne-anna.jpg
+title: "Podcast interview: Etienne Stott"
+date: 2019-07-29T15:51:16.222Z
+cover_image: /images/uploads/the_flight_free_podcast_website_image.jpg
 summary: Listen to our podcast interview with Etienne Stott, gold medal-winning
   canoeist and environmental activist
 author: FlightFree UK
-read_time_minute: 6
+read_time_minute: 5
 ---
 ### This is the fourth instalment of our podcast series of interviews. You can listen to the full podcas[](https://www.flightfree.co.uk/podcast/episode/c2c15969/vipul-patel)t [](https://soundcloud.com/info-728724237/vipul-patel)[here](https://soundcloud.com/info-728724237/etienne-stott) and find a summary below. You can listen to our other podcast episodes on our [podcast page](https://flightfree.co.uk/podcast/).
-
-![Etienne is holding a piece of paper with the Flight Free 2020 pledge on it. He is standing in front of a hedge and has a navy blue short sleeved shirt on. ](/images/uploads/etienne-scott-holding-pledge-.jpg "Etienne Stott, Olympic champion")
 
 We interview Etienne Stott, Olympian and gold medallist in the London 2012 Olympics. Since retiring from the sport he’s become very involved in environmental activism, especially with [Extinction Rebellion](https://rebellion.earth/). Etienne has signed our [flight free 2020 pledge](https://www.flightfree.co.uk/pledge), partly as a way to reduce his own carbon footprint, but also as a symbolic act which encourages people to think about their travel choices.
 
@@ -102,5 +99,3 @@ We live in an internationalised world where cheap air travel seems necessary. Bu
 *Much food for thought, much self-examination we need to do, and much thinking about the implications of our actions. Starting with the* *[flight free 2020 pledge](https://www.flightfree.co.uk/pledge)! Thanks so much for signing, it’s amazing to have your support, and it’s great to be here in lovely Nottingham finding new treasures under our noses. Thanks Etienne.*
 
 Listen to the full interview and take it with you on [our podcast.](https://www.flightfree.co.uk/podcast/episode/c2d7dc67/etienne-stott)
-
-![Anna Hughes and Etienne are taking a selfie together in front of a inner city canal. Etienne is holding a piece of paper with the Flight Free 2020 pedge on it. ](/images/uploads/etienne-anna.jpg "Etienne Stott and Flight Free campaigner Anna Hughes")
