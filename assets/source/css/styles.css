@@ -11,6 +11,10 @@
 		text-decoration-color: #357cb6;
 		text-decoration-thickness: 11%;
 	}
+	.underline-gray-light {
+		text-decoration-color: #f9f9f9;
+		text-decoration-thickness: 11%;
+	}
 }
 
 @font-face {
