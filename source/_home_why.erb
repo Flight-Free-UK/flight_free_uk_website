@@ -5,9 +5,9 @@
   <div class="container mx-auto md:flex justify-center items-center sm:px-8 lg:px-16 pb-8">
     <div class="md:w-1/2 md:order-2 lg:w-auto mb-8 px-5 sm:pl-8 md:pl-0 xl:pr-8 text-xl lg:text-2xl xl:text-4xl flex justify-center">
       <ul id="why-buttons" class="ff-bullets">
-        <li class="py-2 md:py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-1" class="inline-block ml-3 md:ml-4 underline underline-orange hover:text-orange">For the climate</a></li>
-        <li class="py-2 md:py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-2" class="inline-block ml-3 md:ml-4 underline underline-gray-light hover:text-orange">To inspire social change</a></li>
-        <li class="py-2 md:py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-3" class="inline-block ml-3 md:ml-4 underline underline-gray-light hover:text-orange">To influence system change</a></li>
+        <li class="py-2 md:py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-1" class="inline-block ml-2 md:ml-4 hover:text-orange border-b-4 border-orange">For the climate</a></li>
+        <li class="py-2 md:py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-2" class="inline-block ml-2 md:ml-4 hover:text-orange border-b-4 border-gray-light">To inspire social change</a></li>
+        <li class="py-2 md:py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-3" class="inline-block ml-2 md:ml-4 hover:text-orange border-b-4 border-gray-light">To influence system change</a></li>
       </ul>
     </div>
     <div id="why-images" class="md:w-1/2 lg:w-auto mb-8 px-5 md:pr-8 lg:pr-16 md:pl-4 lg:pl-0 grid grid-cols-1 text-center">
@@ -25,9 +25,9 @@
         for ( var j = 0; j < number_of_images; j++ ) {
           var currentButton = document.getElementById("why-buttons").children[j].children[1];
           var currentImage = document.getElementById("why-images").children[j];
-          if ( currentButton != 'undefined' && currentButton != null && currentButton.classList.contains("underline-orange")) {
-            currentButton.classList.remove("underline-orange");
-            currentButton.classList.add("underline-gray-light");
+          if ( currentButton != 'undefined' && currentButton != null && currentButton.classList.contains("border-orange")) {
+            currentButton.classList.remove("border-orange");
+            currentButton.classList.add("border-gray-light");
           }
           if ( currentImage != 'undefined' && currentImage != null && currentImage.classList.contains("visible")) {
             currentImage.classList.remove("visible");
@@ -35,9 +35,9 @@
           }
         }
         // make the required ones visible
-        if ( ! button.classList.contains("underline-orange")) {
-          button.classList.remove("underline-gray-light");
-          button.classList.add("underline-orange");
+        if ( ! button.classList.contains("border-orange")) {
+          button.classList.remove("border-gray-light");
+          button.classList.add("border-orange");
         }
         if ( image != 'undefined' && image != null && ! image.classList.contains("visible")) {
           image.classList.remove("invisible");
