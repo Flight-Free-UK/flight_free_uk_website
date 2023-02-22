@@ -3,7 +3,7 @@ published: true
 title: Travelling through literature
 category: opinion
 date: 2020-07-09T17:18:06.210Z
-cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
+cover_image: /images/uploads/book_globe_canva.jpg
 summary: Trapped at home by the pandemic? We investigate whether books can stand
   in for adventures abroad.
 author: FlightFree UK
