@@ -400,7 +400,7 @@ blockquote p {
 		@apply px-24;
 	}
 
-	.blog-post-body blockquote p blockquote p {
+	.blog-post-body blockquote p {
 		@apply px-0;
 	}
 
@@ -422,7 +422,7 @@ blockquote p {
 	/* purgecss ignore */
 	.blog-post-body blockquote,
 	blockquote {
-		@apply pl-20;
+		@apply px-24;
 		background: url('/images/blog_post_quote_mark.png') no-repeat;
 	}
 }
