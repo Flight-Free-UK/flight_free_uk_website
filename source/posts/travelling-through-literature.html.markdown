@@ -4,8 +4,8 @@ title: Travelling through literature
 category: opinion
 date: 2020-07-09T17:18:06.210Z
 cover_image: /images/uploads/book_globe_canva.jpg
-summary: Trapped at home by the pandemic? We investigate whether books can stand
-  in for adventures abroad.
+summary: Trying to cut down on the air miles? We investigate whether books can
+  stand in for adventures abroad.
 author: FlightFree UK
 read_time_minute: 7
 ---
