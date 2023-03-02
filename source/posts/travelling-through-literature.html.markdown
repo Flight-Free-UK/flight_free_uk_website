@@ -21,7 +21,7 @@ Instead of an American road trip (emissions 2.8 tonnes of CO2 per person), treat
 
 > Instead of taking a flight to India (2 tonnes CO2), you could read a novel by an Indian writer (1 kg CO2).
 
-In the UK we love our holidays abroad. The places we choose to visit become part of our identity, a form of self expression. That's not new. Ever since wealthy eighteenth century Brits toured Europe and filled their houses with the art they acquired, we have used travel to cement our social status. But the books you have read are also a great way to show where you are coming from, and where you are heading. Books can change you, just as travel can.
+In the UK we love our holidays abroad. The places we choose to visit become part of our identity, a form of self expression. That‘s not new. Ever since wealthy eighteenth century Brits toured Europe and filled their houses with the art they acquired, we have used travel to cement our social status. But the books you have read are also a great way to show where you are coming from, and where you are heading. Books can change you, just as travel can.
 
 We've brought together some books that made us feel it was almost like being there. Do you have a favourite to add to our list? [Let us know](mailto:info@flightfree.co.uk). 
 
