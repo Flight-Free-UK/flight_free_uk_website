@@ -11,6 +11,10 @@
 		text-decoration-color: #357cb6;
 		text-decoration-thickness: 11%;
 	}
+	.underline-gray-light {
+		text-decoration-color: #f9f9f9;
+		text-decoration-thickness: 11%;
+	}
 }
 
 @font-face {
@@ -396,7 +400,7 @@ blockquote p {
 		@apply px-24;
 	}
 
-	.blog-post-body blockquote p blockquote p {
+	.blog-post-body blockquote p {
 		@apply px-0;
 	}
 
@@ -418,7 +422,7 @@ blockquote p {
 	/* purgecss ignore */
 	.blog-post-body blockquote,
 	blockquote {
-		@apply pl-20;
+		@apply pl-24;
 		background: url('/images/blog_post_quote_mark.png') no-repeat;
 	}
 }
