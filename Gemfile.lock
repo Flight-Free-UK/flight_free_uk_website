@@ -64,7 +64,7 @@ GEM
       activesupport (>= 6.1, < 7.0)
       addressable (~> 2.4)
       backports (~> 3.6)
-      bundler (~> 2.3.17)
+      bundler (~> 2.0)
       contracts (~> 0.13.0)
       dotenv
       erubis
@@ -105,7 +105,7 @@ GEM
     parslet (2.0.0)
     public_suffix (4.0.7)
     racc (1.6.0)
-    rack (2.2.6.2)
+    rack (2.2.6.3)
     rack-livereload (0.3.17)
       rack
     rb-fsevent (0.11.1)
