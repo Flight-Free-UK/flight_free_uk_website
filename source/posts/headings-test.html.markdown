@@ -20,10 +20,14 @@ read_time_minute: 1
 
 ###### T﻿his is Heading 6
 
+T﻿his is body text
+
 **T﻿his is bold**
 
 *T﻿his is italic*
 
+## T﻿his is Heading 2
 
+## **T﻿his is Heading 2 bold**
 
-T﻿his is Heading 1 bold
+T﻿his is body text
