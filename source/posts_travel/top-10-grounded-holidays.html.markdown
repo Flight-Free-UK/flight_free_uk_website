@@ -41,7 +41,7 @@ There are plenty of mid-distance cycle routes to choose from in the UK, but perh
 
 The northern Spanish beaches are fantastic: plenty of sand, great weather, and not as overwhelmingly crowded as those near Barcelona on the Mediterranean coast. The seafood-lovers paradise of San Sebastian is easily reached from Bilbao or Santander, which is where ferries from England’s south coast arrive.
 
-![]()
+![sand dunes at Camber sands](/images/uploads/camber_sands-2_canva.jpg "Camber sands, East Sussex")
 
 ### Camber Sands 
 
