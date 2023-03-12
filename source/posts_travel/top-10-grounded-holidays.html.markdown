@@ -2,17 +2,19 @@
 published: true
 title: Top 10 grounded holidays
 date: 2023-01-05T17:43:23.736Z
-cover_image: /images/uploads/sunita_beachy-head.jpeg
-summary: Not flying doesn't mean not travelling. Here are 10 super suggestions
-  for grounded adventures in both the UK and Europe.
+cover_image: /images/uploads/lake_como_canva-sq.jpg
+summary: Here are 10 super suggestions for grounded adventures in both the UK
+  and Europe.
 author: FlightFree UK
 read_time_minute: 2
 ---
 ## If you like: mountains and lakes
 
-### Zurich/ Lake Como
+### Zurich/Lake Como
 
 The northern Italian/Swiss lakes are stunning, and an easy train ride. Connect in Paris for a fast train to Zurich, then onward travel to stations around Lake Como. The train ride itself is worth it for the stunning views over the lakes.
+
+![Lake Como, Italy](/images/uploads/lake_como_canva.jpg "Bellagio, Lake Como, Italy")
 
 ### Lake District
 
@@ -26,7 +28,9 @@ Trains take you to Penrith for the north lakes, or right to the heart of the act
 
 Dutch cities are famous for their cycling culture, but for something a little less hectic than Amsterdam, try Utrecht. This university city has everything you would want for a Netherlands getaway with canals, beautiful architecture and bikes everywhere. There's even a Miffy museum. 
 
-Make it more of an adventure and ride there: it's 85km through the Dutch countryside  from Hoek van Holland, where the ferry from Harwich arrives, 60km from Rotterdam (ferry from Hull) or 40km from Amsterdam (ferry from Newcastle).
+Make it more of an adventure and ride there: it's 85km through the Dutch countryside  from Hoek van Holland (ferry from Harwich) or Europort (ferry from Hull),  o﻿r 68km from IJmuiden (ferry from Newcastle), which takes you through Amsterdam on the way.
+
+![](/images/uploads/utrecht_canva.jpg)
 
 ### Coast to coast
 
