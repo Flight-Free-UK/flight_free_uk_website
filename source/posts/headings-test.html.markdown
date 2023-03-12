@@ -31,3 +31,7 @@ T﻿his is body text
 ## **T﻿his is Heading 2 bold**
 
 T﻿his is body text
+
+S﻿o what is the actual width of the column? How wide will the words go if I just keep on typing? Will it go really wide?
+
+> S﻿o what is the actual width of the column using the quote setting? How wide will the words go if I just keep on typing? Will it go really wide?
