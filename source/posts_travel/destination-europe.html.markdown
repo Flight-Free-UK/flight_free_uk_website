@@ -1,19 +1,19 @@
 ---
 published: true
 title: "Destination: Europe"
-category: travel
 date: 2020-12-21T13:54:37.973Z
 cover_image: /images/uploads/utrecht_canva.jpg
 summary: Our ‘Destinations’ series takes a look at how to get to some of
   Europe’s most popular cities without flying
 author: FlightFree UK
 read_time_minute: 5
+category: travel
 ---
 ### For many people, taking a city break will involve a flight. But it doesn’t have to. We explore how to reach your favourite city break destination without flying. 
 
 We are so lucky that the huge variety offered by continental Europe is right on our doorstep. Travelling overland might seem longer, but once you’ve factored in transfers, baggage claim and check-in time, air travel doesn’t work out as quick as you think. In any case, the beauty of overland travel is that the journey is part of the destination. So sit back, relax and enjoy the ride!
 
-![Image shows a black railing in front of a low-level canal in Utrecht](/images/uploads/sven-de-koe-utrecht-unsplash.jpg "Utrecht. Photo by Sven de Koe on Unsplash")
+![Image shows a bicycle leaning against the railings of a low-level canal in Utrecht](/images/uploads/utrecht_canva.jpg)
 
 ## Utrecht, Netherlands
 
