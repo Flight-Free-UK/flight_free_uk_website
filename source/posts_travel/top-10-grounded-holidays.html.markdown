@@ -3,12 +3,11 @@ published: true
 title: Top 10 grounded holidays
 date: 2023-01-05T17:43:23.736Z
 cover_image: /images/uploads/lake_como_canva-sq.jpg
-summary: Here are 10 super suggestions for grounded adventures in both the UK
-  and Europe.
+summary: Here are 10 super suggestions for grounded adventures in both the UK and Europe
 author: FlightFree UK
 read_time_minute: 2
 ---
-## If you like: mountains and lakes
+## 1. If you like: mountains and lakes
 
 ### Zurich/Lake Como
 
@@ -22,7 +21,7 @@ The mountains and lakes of the Lake District are among the most beautiful in the
 
 Trains take you to Penrith for the north lakes, or right to the heart of the action in Windermere. YHA accommodation means there are plenty of options for a budget holiday.
 
-## If you like: cycling
+## 2. If you like: cycling
 
 ### Utrecht
 
@@ -36,17 +35,19 @@ Make it more of an adventure and ride there: it's 85km through the Dutch country
 
 There are plenty of mid-distance cycle routes to choose from in the UK, but perhaps the most iconic is a coast-to-coast route, where you dip your rear wheel in the Irish sea at one end and your front wheel in the North sea at the other. We recommend Hadrian’s cycleway – full of history as well as stunning scenery. The [Sustrans website](https://www.sustrans.org.uk/) will tell you everything you need to know.
 
-## If you like: beaches
+## 3. If you like: beaches
 
 ### San Sebastian
 
 The northern Spanish beaches are fantastic: plenty of sand, great weather, and not as overwhelmingly crowded as those near Barcelona on the Mediterranean coast. The seafood-lovers paradise of San Sebastian is easily reached from Bilbao or Santander, which is where ferries from England’s south coast arrive.
 
+![]()
+
 ### Camber Sands 
 
 As the name suggests, this is a beautifully sandy beach on the East Sussex coast, with miles of sand dunes and a wide, flat beach. It's very popular in the summer but beat the traffic by taking the train to the historic town of Rye, and cycling the 3.5 miles along the National Cycle Network to the coast. Rye is worth a visit in itself, with a beautiful harbour, excellent food and a castle.
 
-## If you like: food
+## 4. If you like: food
 
 ### Paris
 
@@ -56,7 +57,7 @@ There are few places better than Paris for food. Two recommendations for street 
 
 Bristol has a vibrant food scene and is especially good for vegans. You’ll find one of the best food markets in the UK at St Nicholas Markets – overflowing at lunch times, with street food options from all over the globe.
 
-## If you like: city breaks
+## 5. If you like: city breaks
 
 ### Prague
 
