@@ -29,7 +29,7 @@ Dutch cities are famous for their cycling culture, but for something a little le
 
 Make it more of an adventure and ride there: it's 85km through the Dutch countryside  from Hoek van Holland (ferry from Harwich) or Europort (ferry from Hull),  o﻿r 68km from IJmuiden (ferry from Newcastle), which takes you through Amsterdam on the way.
 
-![](/images/uploads/utrecht_canva.jpg)
+![bicycle in front of railing on canal in Utrecht](/images/uploads/utrecht_canva.jpg "Utrecht")
 
 ### Coast to coast
 
