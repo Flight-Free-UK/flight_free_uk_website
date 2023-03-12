@@ -13,13 +13,13 @@ read_time_minute: 2
 
 The northern Italian/Swiss lakes are stunning, and an easy train ride. Connect in Paris for a fast train to Zurich, then onward travel to stations around Lake Como. The train ride itself is worth it for the stunning views over the lakes.
 
-![Lake Como, Italy](/images/uploads/lake_como_canva.jpg "Bellagio, Lake Como, Italy")
-
 ### Lake District
 
 The mountains and lakes of the Lake District are among the most beautiful in the world. This treasured national park has it all, from mountain biking and extreme sports, to museums and art galleries, and bougie food destinations. Take a boat trip or climb England’s highest peak, Scafell Pike. 
 
 Trains take you to Penrith for the north lakes, or right to the heart of the action in Windermere. YHA accommodation means there are plenty of options for a budget holiday.
+
+![Lake Como, Italy](/images/uploads/lake_como_canva.jpg "Bellagio, Lake Como, Italy")
 
 ## 2. If you like: cycling
 
@@ -29,11 +29,11 @@ Dutch cities are famous for their cycling culture, but for something a little le
 
 Make it more of an adventure and ride there: it's 85km through the Dutch countryside  from Hoek van Holland (ferry from Harwich) or Europort (ferry from Hull),  o﻿r 68km from IJmuiden (ferry from Newcastle), which takes you through Amsterdam on the way.
 
-![bicycle in front of railing on canal in Utrecht](/images/uploads/utrecht_canva.jpg "Utrecht")
-
 ### Coast to coast
 
 There are plenty of mid-distance cycle routes to choose from in the UK, but perhaps the most iconic is a coast-to-coast route, where you dip your rear wheel in the Irish sea at one end and your front wheel in the North sea at the other. We recommend Hadrian’s cycleway – full of history as well as stunning scenery. The [Sustrans website](https://www.sustrans.org.uk/) will tell you everything you need to know.
+
+![bicycle in front of railing on canal in Utrecht](/images/uploads/utrecht_canva.jpg "Utrecht")
 
 ## 3. If you like: beaches
 
@@ -41,11 +41,11 @@ There are plenty of mid-distance cycle routes to choose from in the UK, but perh
 
 The northern Spanish beaches are fantastic: plenty of sand, great weather, and not as overwhelmingly crowded as those near Barcelona on the Mediterranean coast. The seafood-lovers paradise of San Sebastian is easily reached from Bilbao or Santander, which is where ferries from England’s south coast arrive.
 
-![sand dunes at Camber sands](/images/uploads/camber_sands-2_canva.jpg "Camber sands, East Sussex")
-
 ### Camber Sands 
 
 As the name suggests, this is a beautifully sandy beach on the East Sussex coast, with miles of sand dunes and a wide, flat beach. It's very popular in the summer but beat the traffic by taking the train to the historic town of Rye, and cycling the 3.5 miles along the National Cycle Network to the coast. Rye is worth a visit in itself, with a beautiful harbour, excellent food and a castle.
+
+![sand dunes at Camber sands](/images/uploads/camber_sands-2_canva.jpg "Camber sands, East Sussex")
 
 ## 4. If you like: food
 
@@ -68,3 +68,5 @@ The Czech capital is a favourite for stag dos and birthday parties, but there's 
 The Scottish capital is always a winning destination, wherever you live. With historic architecture (Edinburgh castle) standing side-by-side with nature walks (Arthur’s seat), views across the Firth of Forth, bustling docks, great shopping and museums, and of course the famous festival, Edinburgh tops our list hands down. 
 
 It’s very easy to get to from all over the UK, with direct trains from Glasgow, Aberdeen and Inverness, as well as London, Manchester, Birmingham, Bristol and Southampton.
+
+![bridge in Prague](/images/uploads/anthony-delanoix-prague-unsplash.jpg "Prague")
