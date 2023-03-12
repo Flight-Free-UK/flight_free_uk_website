@@ -69,4 +69,4 @@ The Scottish capital is always a winning destination, wherever you live. With hi
 
 It’s very easy to get to from all over the UK, with direct trains from Glasgow, Aberdeen and Inverness, as well as London, Manchester, Birmingham, Bristol and Southampton.
 
-![bridge in Prague](/images/uploads/anthony-delanoix-prague-unsplash.jpg "Prague")
+![bridge in Prague](/images/uploads/anthony-delanoix-prague-unsplash.jpg "Charles bridge, Prague")
