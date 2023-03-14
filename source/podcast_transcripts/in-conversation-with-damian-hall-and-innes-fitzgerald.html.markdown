@@ -129,7 +129,7 @@ Spread things out, allow time for delays, take breaks and take some of your own 
 
 ### Innes
 
-We went to Belgium for a race a couple of weeks ago, so the whole team went on the Eurostar. The rest of the team was really surprised at how quick and smooth it was. They said it was so much easier than flying, which was encouraging. Because sometimes we don’t have a choice, it's what the team managers decide. Because I think more athletes would like to take the more environmental option if it was there. 
+We went to Belgium for a race a couple of weeks ago, so the whole team went on the Eurostar. The rest of the team was really surprised at how quick and smooth it was. They said it was so much easier than flying, which was encouraging. We don’t really have a choice, it's what the team managers decide, but I think more athletes would like to take the more environmental option if it was there. 
 
 ### Flight Free UK
 
