@@ -1,13 +1,13 @@
 ---
 published: true
 title: "2022 podcast series: Greenwash and aviation"
-category: climate
 date: 2022-08-30T19:11:44.127Z
-cover_image: /images/uploads/august22-podcast-blog-large.jpg
+cover_image: /images/uploads/aug22_podcast.jpg
 summary: We invite Futerra's Solitaire Townsend and Stay Grounded's Anne
   Kretzschmar to discuss greenwash in the aviation industry.
 author: FlightFree UK
 read_time_minute: 6
+category: climate
 ---
 <!--StartFragment-->
 
