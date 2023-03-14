@@ -1,13 +1,13 @@
 ---
 published: true
 title: "2022 podcast series: My home town"
-category: opinion
 date: 2022-07-14T22:06:21.022Z
-cover_image: /images/uploads/july_podcast_thumbnail-lg.jpg
+cover_image: /images/uploads/july22_podcast.jpg
 summary: In a stay-at-home-travel special, members of the Flight Free UK team
   talk about what makes their home town so special.
 author: FlightFree UK
 read_time_minute: 6
+category: opinion
 ---
 *This is episode 7 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-my-home-town/) and find other episodes and previous series [here](/podcast).*
 
