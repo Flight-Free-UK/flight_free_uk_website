@@ -71,7 +71,7 @@ Damian, you are also trying to cut down on your emissions for your own races. Wh
 
 ### Damian
 
-I used to fly almost around three times a year for international races and in 2019 actually I flew five times. Towards the end of that year I started thinking about my emissions, my footprint and my effect on the planet, and I haven’t flown since. 
+I used to fly almost around three times a year for international races and in 2019 I flew five times. Towards the end of that year I started thinking about my emissions, my footprint and my effect on the planet, and I haven’t flown since. 
 
 So what I do now is I think, how important is that event or challenge that I might consider going to? How important is it really? I wrote a list and I scratched a few parts off, for example, there’s a race I’d love to do on the other side of India, but realistically there’s no way of getting there without two flights, so I’ve decided I’m never going to do that. So I narrowed my list down to two or three things globally that I really want to do. 
 
