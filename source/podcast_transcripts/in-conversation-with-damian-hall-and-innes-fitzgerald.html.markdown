@@ -99,7 +99,7 @@ Do you think that there are enough places in the UK for your racing? Should we f
 
 ### Innes
 
-There are a lot of locations in the UK for cross country events, and I run on a track in the summer. So in terms of competing in a country there’s no need to go abroad. It becomes more difficult if you are the top athlete and you want to compete against people who are at your level and the only people who are at your level are abroad. Then it becomes more challenging. 
+There are a lot of locations in the UK for cross country events, and I run on a track in the summer. So in terms of competing in a country there’s no need to go abroad. It becomes more difficult if you are the top athlete and you want to compete against people who are at your level, and the only people who are at your level are abroad. Then it becomes more challenging. 
 
 ### Flight Free UK
 
@@ -111,7 +111,7 @@ It was the Cross Country Championships in Turin in Italy. The rest of the team w
 
 ### Flight Free UK
 
-Do you think that it would be easier if you were to do it again? Because now you’ve done it you might have a better idea of how to preserve your energy to make sure your performance is as good as it can be.
+Do you think that it would be easier if you were to do it again? Now you’ve done it, you might have a better idea of how to preserve your energy to make sure your performance is as good as it can be.
 
 ### Innes
 
