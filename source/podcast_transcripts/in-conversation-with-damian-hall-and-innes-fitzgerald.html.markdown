@@ -73,7 +73,7 @@ Damian, you are also trying to cut down on your emissions for your own races. Wh
 
 I used to fly almost around three times a year for international races and in 2019 I flew five times. Towards the end of that year I started thinking about my emissions, my footprint and my effect on the planet, and I haven’t flown since. 
 
-So what I do now is I think, how important is that event or challenge that I might consider going to? How important is it really? I wrote a list and I scratched a few parts off, for example, there’s a race I’d love to do on the other side of India, but realistically there’s no way of getting there without two flights, so I’ve decided I’m never going to do that. So I narrowed my list down to two or three things globally that I really want to do. 
+So what I do now is I think, how important is that event or challenge that I might consider going to? How important is it really? I wrote a list and I scratched a few off, for example, there’s a race I’d love to do on the other side of India, but realistically there’s no way of getting there without two flights, so I’ve decided I’m never going to do that. So I narrowed my list down to two or three things globally that I really want to do. 
 
 The next question is what’s the lowest carbon way you can get there? For example, I used to fly to the Ultra-trail du Mont Blanc, and now I get the train. I appreciate it does cost a little bit more and not everyone can do that, but I’ve got the train there twice and it was really easy. 
 
