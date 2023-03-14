@@ -77,8 +77,6 @@ So what I do now is I think, how important is that event or challenge that I mig
 
 The next question is what’s the lowest carbon way you can get there? For example, I used to fly to the Ultra-trail du Mont Blanc, and now I get the train. I appreciate it does cost a little bit more and not everyone can do that, but I’ve got the train there twice and it was really easy. 
 
-That’s my checklist that I go through now. So scratched a load of bucket list races off. But there are two or three left that I think I can justify to myself, as I’ve only got so many more years at doing this. There are two or three big things left. But I will still travel with unease. 
-
 ### Flight Free UK
 
 Do you think there's a culture of flying that is particularly prevalent in athletics? Is it the same in other areas or is there a pressure to fly for athletes? 
