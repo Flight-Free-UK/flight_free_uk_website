@@ -1,14 +1,14 @@
 ---
 published: true
 title: "2022 podcast series: Don't Look Up"
-category: opinion
 date: 2022-02-28T11:36:25.064Z
-cover_image: /images/uploads/feb22_podcast_image.jpg
+cover_image: /images/uploads/feb22_podcast.jpg
 summary: Inspired by the recent film Don't Look Up, we speak to filmmaker Franny
   Armstrong and climate scientist Peter Kalmus about how we can inspire climate
   action through fiction.
 author: FlightFree UK
 read_time_minute: 4
+category: opinion
 ---
 ***This is episode 2 of our 2022 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-dpq7u-11ba6d6) and find other episodes and previous series [here](/podcast/).***
 
