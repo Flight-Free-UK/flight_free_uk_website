@@ -137,7 +137,7 @@ Do you think there are specific things that the industry could do to encourage t
 
 ### Innes
 
-I think incentivising not flying would definitely help. It is not what the government’s doing right now. Sir David King said recently that he doesn’t think that athletes should be not allowed to fly, but that they should be given a carbon budget that they can use in their career. It showed that we shouldn’t be taking flying for granted but we shouldn’t cancel out flying completely. 
+I think incentivising not flying would definitely help. It is not what the government’s doing right now. Sir David King said recently that he doesn’t think that athletes should be not allowed to fly, but that they should be given a carbon budget that they can use in their career. So we shouldn’t be taking flying for granted but we shouldn’t cancel out flying completely. 
 
 ### Flight Free UK
 
@@ -151,20 +151,18 @@ Another area would be the events themselves. Over 90% of the footprint of the bi
 
 ### Flight Free UK
 
-Finally, the big questions: Innes, for a runner of your standard, the Olympics is something that you must have somewhere in your head. And it’s a massive international event that will very likely require a flight. What’s your take on that? 
+So the big questions then! Innes, for a runner of your standard, the Olympics is something that you must have somewhere in your head. And it’s a massive international event that will very likely require a flight. What’s your take on that? 
 
 ### Innes
 
 Obviously the Olympics is the biggest dream and just to go would be the most amazing opportunity. I’d love to go but I can’t say how I’d behave at the moment. The carbon emissions that come from holding such huge events is just astronomical. We’ll have to wait and see what happens – that is my biggest dream.
 
-You can find Innes on Instagram [@innes_fitzgerald](https://www.instagram.com/innes_fitzgerald/) and Damian on twitter [@Ultra_Damo](https://twitter.com/Ultra_Damo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Damian also has his own [website](https://www.ultradamo.com/) where you can find more information on his book and his work with The Green Runners. 
+*You can find Innes on Instagram [@innes_fitzgerald](https://www.instagram.com/innes_fitzgerald/) and Damian on twitter [@Ultra_Damo](https://twitter.com/Ultra_Damo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). Damian also has his own [website](https://www.ultradamo.com/) where you can find more information on his book and his work with The Green Runners.* 
 
-Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-damian-hall-and-innes-fitzgerald/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/) 
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-damian-hall-and-innes-fitzgerald/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).*
 
 ### If you are inspired to sign up for a flight free year or to make your own pledge, you can do so on our website: [flightfree.co.uk](http://flightfree.co.uk)
 
 Credits:
 
-Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music: [](https://uppbeat.io/t/dan-barton/the-executive-lounge) [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero) 
-
-<!--EndFragment-->
+Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music: [](https://uppbeat.io/t/dan-barton/the-executive-lounge) [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)
