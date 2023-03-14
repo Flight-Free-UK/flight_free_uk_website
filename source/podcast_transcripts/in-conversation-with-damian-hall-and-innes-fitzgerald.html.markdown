@@ -61,7 +61,7 @@ Damian, you said you have been inspired by Innes. Can you explain why?
 
 ### Damian 
 
-When I saw Innes story shared on social media, there were several of us sharing the story and saying how cool it was, especially because you are so young. I have a friend who also decided not to fly, and the response he got from the selectors was not sympathetic or encouraging. It was surprisingly unsupportive – it was really disappointing. 
+I saw Innes' story on social media, and there were several of us sharing the story and saying how cool it was, especially because you are so young. I have a friend who also decided not to fly, and the response he got from the selectors was not sympathetic or encouraging. It was surprisingly unsupportive – it was really disappointing. 
 
 For me and my friend we’ve got a lot less to lose by opting out of some things whereas for Innes it seems such a brave decision, which is reflected by the mainstream response it got. 
 
