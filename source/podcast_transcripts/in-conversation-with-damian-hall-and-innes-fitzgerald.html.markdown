@@ -7,7 +7,7 @@ summary: Joining us this month are runners Innes Fitzgerald, who refused to fly
   to Australia for the world cross country championships, and Damian Hall,
   co-founder of Green Runners.
 author: FlightFree UK
-read_time_minute: 10
+read_time_minute: 7
 ---
 *This is episode 3 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-damian-hall-and-innes-fitzgerald/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)*.
 
