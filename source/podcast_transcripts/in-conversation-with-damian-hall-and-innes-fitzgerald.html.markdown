@@ -95,7 +95,7 @@ I don’t think that’s the only way. It’s not that I wouldn’t go at all bu
 
 ### Flight Free UK
 
-Do you think that there are enough places in the UK for your racing that actually we don’t need to do all this world stuff we could focus much more on the local maybe keep those international events more infrequently? 
+Do you think that there are enough places in the UK for your racing? Should we focus more on local events and hold international events more infrequently? 
 
 ### Innes
 
