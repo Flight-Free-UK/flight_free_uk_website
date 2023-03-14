@@ -31,7 +31,7 @@ Have you always seen yourself as having a responsibility to reduce your emission
 
 ### Innes
 
-I’ve always been quite aware of the environment and I think that’s true of young people nowadays. I’ve been educated by my parents, so I’ve learned about the environmental impacts and that kind of led me to not want to fly at the moment. 
+I’ve always been quite aware of the environment and I think that’s true of young people nowadays. I’ve been educated by my parents, so I’ve learned about the environmental impacts and that led me to not want to fly at the moment. 
 
 ### Flight Free UK
 
