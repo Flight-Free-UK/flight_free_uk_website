@@ -47,7 +47,7 @@ Damian, you said you have been inspired by Innes. Can you explain why?
 
 ### Damian 
 
-I saw Innes' story on social media, and there were several of us sharing the story and saying how cool it was, especially because she is so young. I have a friend who also decided not to fly, and the response he got from the selectors was not sympathetic or encouraging. It was surprisingly unsupportive – it was really disappointing.
+I saw Innes' story on social media, and there were several of us sharing the story and saying how cool it was, especially because she is so young. I have a friend who also decided not to fly, and the response he got from the selectors was not sympathetic or encouraging. It was surprisingly unsupportive which was really disappointing. 
 
 For me and my friend we’ve got a lot less to lose by opting out of some things whereas for Innes it seems such a brave decision, which is reflected by the mainstream response it got. 
 
@@ -57,7 +57,7 @@ Damian, you are also trying to cut down on your emissions for your own races. Wh
 
 ### Damian
 
-I used to fly almost around three times a year for international races and in 2019 I flew five times. Towards the end of that year I started thinking about my emissions, my footprint and my effect on the planet, and I haven’t flown since. 
+I used to fly around three times a year for international races and in 2019 I flew five times. Towards the end of that year I started thinking about my emissions, my footprint and my effect on the planet, and I haven’t flown since. 
 
 So what I do now is I think, how important is that event or challenge that I might consider going to? How important is it really? I wrote a list and I scratched a few off, for example, there’s a race I’d love to do on the other side of India, but realistically there’s no way of getting there without two flights, so I’ve decided I’m never going to do that. So I narrowed my list down to two or three things globally that I really want to do. 
 
@@ -69,15 +69,13 @@ Do you think there's a culture of flying that is particularly prevalent in athle
 
 ### Damian
 
-In my area of athletics, most of the glamourous races are abroad in the mountains, often in the Alps or the Dolomites or in America. Obviously social media is a big factor. You see these wonderful pictures of people running in these amazing mountains and it kind of feels like everybody’s travelling to run in the mountains. And I think a lot of us can do better than that. 
+In my area of athletics, most of the glamourous races are abroad in the mountains, often in the Alps or the Dolomites or in America. Obviously social media is a big factor. You see these wonderful pictures of people running in these amazing mountains and it feels like everybody’s travelling to run in the mountains. 
 
-In a way, lockdown came at the right time. We couldn't travel and some of us got out in Britain. I feel like most of my running friends are travelling less and when they do, they are thinking about trains or getting together in a van or a car which is an improvement. I feel like in my area of the sport there is a cultural shift. 
+In a way, lockdown came at the right time. We couldn’t travel and some of us got out in Britain. I feel like most of my running friends are travelling less and when they do, they are thinking about trains or getting together in a van or a car which is an improvement. I feel like in my area of the sport there is a cultural shift. 
 
 ### Innes
 
-I think that if you are a top athlete you are expected to fly. There’s also a lot about training at altitude, and you see that on social media. 
-
-I don’t think that’s the only way. It’s not that I wouldn’t go at all but you have to question whether it’s actually beneficial. I think that it depends on the person and how their body is affected by altitude or not. In terms of racing there definitely is a pressure to fly even if it is indirectly. 
+I think that if you are a top athlete you are expected to fly. There’s also a lot about training at altitude, and you see that on social media. I think that it depends on the person and how their body is affected by altitude or not. In terms of racing there definitely is a pressure to fly even if it is indirectly. 
 
 ### Flight Free UK
 
@@ -85,7 +83,7 @@ Do you think that there are enough places in the UK for your racing? Should we f
 
 ### Innes
 
-There are a lot of locations in the UK for cross country events, and I run on a track in the summer. So in terms of competing in a country there’s no need to go abroad. It becomes more difficult if you are the top athlete and you want to compete against people who are at your level, and the only people who are at your level are abroad. Then it becomes more challenging. 
+There are a lot of locations in the UK for cross country events, and I run on a track in the summer, so in terms of competing in a country there’s no need to go abroad. It becomes more difficult if you are the top athlete and you want to compete against people who are at your level, and the only people who are at your level are abroad. Then it becomes more challenging.  
 
 ### Flight Free UK
 
@@ -97,19 +95,11 @@ It was the Cross Country Championships in Turin in Italy. The rest of the team w
 
 ### Flight Free UK
 
-Do you think that it would be easier if you were to do it again? Now you’ve done it, you might have a better idea of how to preserve your energy to make sure your performance is as good as it can be.
-
-### Innes
-
-The first time you go to a race you don’t know how to prepare yourself, so the first time you travel somewhere you don’t know how to prepare yourself. I’m only going to learn the more times I do it. 
-
-### Flight Free UK
-
 Damian, do you have any tips for Innes? What’s your experience been like? 
 
 ### Damian
 
-Taking these ethical stances may compromise your performances and that makes it even more impressive that Innes has chosen to do that. It is interesting that you’ve never flown before. Although flying sounds relaxing, it isn’t necessarily – it’s often very cramped. There’s a lot of waiting around in airports, and I get dehydrated because they take your water away and I often forget to get some more. Your flight might only be two hours but actually you have to get to the airport 2/3 hours before that, so it’s not always that much smoother. 
+Taking these ethical stances may compromise your performances and that makes it even more impressive that Innes has chosen to do that. Flying might sound relaxing, but it isn’t necessarily – it’s often very cramped. There’s a lot of waiting around in airports, and I get dehydrated because they take your water away and I often forget to get some more. Your flight might only be two hours but actually you have to get to the airport 2-3 hours before that, so it’s not always that much smoother. 
 
 Spread things out, allow time for delays, take breaks and take some of your own snacks rather than having to rely on what's on the trolley. I must admit that the first time I travelled to a race by train my race was terrible. I don’t think that was the factor as I had arrived a day earlier and had plenty of rest. But time to rest and time to recover by getting there a day earlier is definitely what I’d recommend. 
 
