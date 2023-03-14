@@ -23,7 +23,7 @@ Innes, tell us about deciding not to travel to Australia for the world cross cou
 
 It was a really tough decision. I wanted to go to Australia but I couldn’t really justify going so I wrote a letter to British Athletics and told them I didn’t want to go because of the flight and the environmental consequences of that.
 
-I was quite shocked originally by the media attention! I wanted to share it because I wanted people to talk about it, but I was a bit overwhelmed by the fact that there were so many people who were sharing it. Most of them were supportive. 
+I was quite shocked originally by the media attention! I wanted to share it because I wanted people to talk about it, but I was a bit overwhelmed by the fact that there were so many people who were sharing it. Most of them were supportive though.
 
 ### Flight Free UK
 
