@@ -1,13 +1,13 @@
 ---
 published: true
 title: "2022 podcast series: Sport and climate"
-category: climate
 date: 2022-06-10T12:35:34.469Z
-cover_image: /images/uploads/sports_podcast_jun22_large.jpg
+cover_image: /images/uploads/june22_podcast.jpg
 summary: "Olympians Etienne Stott and Laura Baldwin join us to talk about the
   impact of sport upon the climate. "
 author: FlightFree UK
 read_time_minute: 8
+category: climate
 ---
 *This is episode six of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-sport-and-climate/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).*
 
