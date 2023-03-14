@@ -1,14 +1,14 @@
 ---
 published: true
 title: "2022 podcast series: Flight free across the generations"
-category: climate
 date: 2022-10-31T17:06:02.861Z
-cover_image: /images/uploads/oct22podcast_thumbnail_lg.jpg
+cover_image: /images/uploads/oct22_podcast.jpg
 summary: An intergenerational conversation between three guests, each giving a
   different perspective on reducing flying and responding to the climate crisis
   with positive actions.
 author: FlightFree UK
 read_time_minute: 5
+category: climate
 ---
 *This is episode 10 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-flight-free-across-the-generations/) and find other episodes and previous series [here](/podcast).*
 
