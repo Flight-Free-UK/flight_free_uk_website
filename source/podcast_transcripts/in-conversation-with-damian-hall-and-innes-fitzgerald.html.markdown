@@ -11,9 +11,9 @@ read_time_minute: 7
 ---
 *This is episode 3 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-damian-hall-and-innes-fitzgerald/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)*.
 
-## In this episode we meet runners Innes Fitzgerald and Damian Hall. 
+## In this episode we meet runners Innes Fitzgerald and Damian Hall.
 
-### Innes recently made headlines by refusing to fly to Australia to take part in the world cross country championships, and Damian is an established ultra-marathon runner who is the co-founder of Green Runners and author of We Can’t Run Away From This. 
+### Innes recently made headlines by refusing to fly to Australia to take part in the world cross country championships, and Damian is an established ultra-marathon runner who is the co-founder of Green Runners and author of We Can’t Run Away From This.
 
 ### Flight Free UK
 
@@ -21,23 +21,9 @@ Innes, tell us about deciding not to travel to Australia for the world cross cou
 
 ### Innes
 
-I wrote a letter to British Athletics and told them I didn’t want to go because of the flight and the environmental consequences of that.
+It was a really tough decision. I wanted to go to Australia but I couldn’t really justify going so I wrote a letter to British Athletics and told them I didn’t want to go because of the flight and the environmental consequences of that.
 
-### Flight Free UK
-
-How have you responded to the media attention? Has it been quite surprising that everybody is interested in your story?
-
-### Innes
-
-I was quite shocked originally! I wanted to share it because I wanted people to talk about it, but I was a bit overwhelmed by the fact that there were so many people who were sharing it. Most of them were supportive.
-
-### Flight Free UK
-
-Can you talk us through why you made this decision in the first place? 
-
-### Innes
-
-It was a really tough decision. I wanted to go to Australia but I couldn’t really justify going so it took me a while to work out how I was going to go about it. So I wrote the letter to British Athletics and that was kind of it!
+I was quite shocked originally by the media attention! I wanted to share it because I wanted people to talk about it, but I was a bit overwhelmed by the fact that there were so many people who were sharing it. Most of them were supportive. 
 
 ### Flight Free UK
 
