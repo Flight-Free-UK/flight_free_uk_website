@@ -1,13 +1,13 @@
 ---
 published: true
 title: Bavaria
-category: travel
 date: 2022-07-26T10:34:46.918Z
 cover_image: /images/uploads/bavarian_alps_samwoolfe.jpg
 summary: After quitting flying, travel writer Sam Woolfe sets out to discover
   whether travelling overland can ever be a substitute for jet-setting
 author: FlightFree UK
 read_time_minute: 4
+category: travel
 ---
 ![Flowers in front of a lake, with mountains in the background](/images/uploads/bavarian_alps_swoolfe.jpg "The Bavarian Alps – Lake Alpsee")
 
@@ -21,13 +21,13 @@ This felt like a personal loss, especially since I wanted to travel to other con
 
 But I started to realise that overland travel can be exciting in its own right, offering experiences that you miss out on when flying – the scenery and places you pass on the way being especially appealing. Not having to deal with airports (and needing to make my way to and from them) was a big bonus as well. 
 
-> "Overland travel can be exciting in its own right, offering experiences that you miss out on when flying."
+> Overland travel can be exciting in its own right, offering experiences that you miss out on when flying.
 
 Since I enjoy hiking and spending time in nature, especially mountains, I looked at how I could make that happen with train travel. There’s a direct train from Gare de l’Est in Paris to Munich, which would be a great base from which to explore Bavaria and the Bavarian Alps, and I could also hop across the Austrian border to Salzburg and visit the largest ice cave in the world near Werfen.
 
 Getting the Eurostar to Paris from London was easier, less time-consuming, and less stressful than getting to the airport, and since I arrived in the centre of Paris, I was near enough my accommodation to walk there and enjoy my new surroundings. The six-hour train to Munich seemed inconvenient at first, but it didn’t feel that long in reality, as I was switching between enjoying the scenery and watching films on my laptop. The time flew by. 
 
-> "Getting the Eurostar was easier, less time-consuming, and less stressful than getting to the airport."
+> Getting the Eurostar was easier, less time-consuming, and less stressful than getting to the airport.
 
 From my base in Munich I travelled to Mittenwald and Garmisch-Partenkirchen, both near the Austrian border, set amidst verdant, mountainous scenery with gorges nearby. In these towns, there are plenty of typical Bavarian houses to be found, with facade paintings depicting Christian figures or traditional village scenes. 
 
@@ -51,12 +51,14 @@ From there I made my way back to Munich, where I would take an early morning tra
 
 The solo trip took 18 days in total, and while I would certainly have saved money and time by flying to Munich instead, I would’ve missed out on all the cities and scenery on the way. I’ve since been busy looking at other possible trips in Europe and beyond (the [Man in Seat 61](https://www.seat61.com/) has been an extremely helpful resource in this respect), eager to make more overland trips, realising the benefits of travelling in this way over flying. 
 
-> "I’ve been eager to make more overland trips, realising the benefits of travelling in this way over flying."
+> I’ve been eager to make more overland trips, realising the benefits of travelling in this way over flying.
 
 In the future, I’d like to travel by train and ferry to Ireland, Morocco, the Balkans, and hopefully someday travel to Thailand via the Trans-Siberian Railway and then make my way back to Europe via Central Asia. 
 
 Giving up flying is a sacrifice in one sense, but it offers definite gains as well, such as the ability to appreciate the journey to a destination and the possibility of different and more serendipitous experiences. 
 
-### Being able to enjoy travel without the guilt that comes from flying is a personal benefit as well, but more important than this are the actual environmental benefits involved – and in a time where many countries (including the UK) have felt the brunt of record-breaking temperatures, these benefits can’t be emphasised enough.
+Being able to enjoy travel without the guilt that comes from flying is a personal benefit as well, but more important than this are the actual environmental benefits involved. 
+
+### In a time where many countries (including the UK) have felt the brunt of record-breaking temperatures, these benefits can’t be emphasised enough. 
 
 *Sam Woolfe is a freelance writer based in London. You can find more of his work on his [website](https://www.samwoolfe.com/) and follow him on [Twitter](https://twitter.com/samwoolfe).*
