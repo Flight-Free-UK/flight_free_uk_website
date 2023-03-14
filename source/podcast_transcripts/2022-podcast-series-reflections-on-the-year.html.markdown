@@ -1,13 +1,13 @@
 ---
 published: true
 title: "2022 podcast series: Reflections on the year"
-category: opinion
 date: 2022-12-17T14:44:19.558Z
-cover_image: /images/uploads/december22-podcast-blog.jpg
+cover_image: /images/uploads/dec22_podcast.jpg
 summary: "The members of our team come together to reflect on Flight Free 2022
   and look forward to Flight Free 2023. "
 author: FlightFree UK
 read_time_minute: 3
+category: opinion
 ---
 *T﻿his is episode 12 of our 2022 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2022-series-reflections-on-the-year/) and find other episodes and previous series [here](/podcast).*
 
