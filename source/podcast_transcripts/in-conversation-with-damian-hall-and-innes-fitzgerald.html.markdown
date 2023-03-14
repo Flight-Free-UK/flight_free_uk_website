@@ -89,7 +89,7 @@ In a way, lockdown came at the right time. We couldn't travel and some of us got
 
 ### Innes
 
-Yes I think that if you are a top athlete you are expected to fly. There’s also a lot about training at altitude, and you see that on social media. 
+I think that if you are a top athlete you are expected to fly. There’s also a lot about training at altitude, and you see that on social media. 
 
 I don’t think that’s the only way. It’s not that I wouldn’t go at all but you have to question whether it’s actually beneficial. I think that it depends on the person and how their body is affected by altitude or not. In terms of racing there definitely is a pressure to fly even if it is indirectly. 
 
