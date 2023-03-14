@@ -1,14 +1,14 @@
 ---
 published: true
 title: "2022 podcast series: Earth Day"
-category: climate
 date: 2022-04-22T21:46:40.253Z
-cover_image: /images/uploads/april22_podcast_blog.jpg
+cover_image: /images/uploads/april22_podcast.jpg
 summary: The Earth Day theme this year is Invest in our Planet. We speak to two
   entrepreneurs about how our spending power can help the earth as well as the
   economy.
 author: FlightFree UK
 read_time_minute: 9
+category: climate
 ---
 *This is episode 4 of our 2022 podcast series. Listen to the episode [here](https://www.podbean.com/ew/pb-smsk3-120950f) and find other episodes and previous series [here](/podcast/).* 
 
