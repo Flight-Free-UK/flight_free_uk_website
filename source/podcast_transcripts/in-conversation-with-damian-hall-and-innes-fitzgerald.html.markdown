@@ -3,9 +3,9 @@ published: true
 title: In conversation with Damian Hall and Innes Fitzgerald
 date: 2023-03-13T21:12:56.825Z
 cover_image: /images/uploads/march.jpg
-summary: In this episode we are talking to Innes Fitzgerald, who refused to fly
-  to Australia to take part in the world cross country championships, and Damian
-  Hall, co-founder of Green Runners and author of We Can’t Run Away From This.
+summary: Runners Innes Fitzgerald, who refused to fly to Australia for the world
+  cross country championships, and Damian Hall, author of We Can’t Run Away From
+  This, join us this month.
 author: FlightFree UK
 read_time_minute: 10
 ---
