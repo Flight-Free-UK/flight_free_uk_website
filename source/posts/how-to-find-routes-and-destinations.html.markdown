@@ -35,7 +35,7 @@ Byway was founded in 2020 by Cat Jones, a keen traveller who was constantly frus
 
 You can choose from pre-designed trips or create your own from scratch, and there are plenty of options to get you excited about your holiday on the [Byway](https://www.byway.travel/) trip builder. 
 
-F﻿light Free UK supporters get £50 off a Byway holiday! 
+F﻿light Free UK supporters get £50 off a Byway holiday! Just add the code FLIGHTFREE2023 at the checkout. Byway will also donate 3% of the total amount you spend to Flight Free UK. 
 
 > Byway made the experience so simple and provided great information beforehand. So helpful and accessible before and during the trip. We will definitely use them again!
 
