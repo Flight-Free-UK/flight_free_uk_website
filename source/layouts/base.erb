@@ -11,30 +11,37 @@
   <title><%= title %></title>
   <meta property="og:title" content="<%= current_article ? current_article.title : title %>"/>
 
-  <% description = "Fight climate change: make the pledge to be flight free in 2023" %>
-  <meta name="description" content="<%= description %>"/>
-  <meta property="og:description" content="<%= current_article ? current_article.data.summary : description %>"/>
-
-<%# Get the current image (which is set in the admin for posts and can be overidden in a page ERB template %>
-<%- 
-if current_article
-  sm_image = current_article.data.cover_image
-else
-  if current_page && current_page.data.cover_image
-    sm_image = current_page.data.cover_image
+  <% description_default = "Fight climate change: make the pledge to be flight free in 2023" %>
+  <%- 
+  if current_article
+    sm_image = current_article.data.cover_image
+    description = current_article.data.summary
   else
-    sm_image = "/images/flight-free-pledge-2023.jpg"
-  end
-end -%>
+    # cover image
+    if current_page && current_page.data.cover_image
+      sm_image = current_page.data.cover_image
+    else
+      sm_image = "/images/flight-free-pledge-2023.jpg"
+    end
+    # description
+    if current_page && current_page.data.summary
+      description = current_page.data.summary
+    else
+      description = description_default
+    end
+  end -%>
+
+  <meta name="description" content="<%= description %>"/>
+  <meta property="og:description" content="<%= description %>"/>
 
   <meta property="og:type" content="<%= current_article ? "article" : "website" %>"/>
   <meta property="og:image" content="https://flightfree.co.uk<%= sm_image %>"/>
-  <meta property="og:image:alt" content="<%= current_article ? current_article.data.summary : description %>"/>
+  <meta property="og:image:alt" content="<%= description %>"/>
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="<%= data.social_media.twitter %>" />
   <meta name="twitter:title" content="<%= current_article ? current_article.title : title %>" />
-  <meta name="twitter:description" content="<%= current_article ? current_article.data.summary : description %>" />
+  <meta name="twitter:description" content="<%= description %>" />
   <meta name="twitter:image" content="https://flightfree.co.uk<%= sm_image %>" />
 
   <%= stylesheet_link_tag "main" %>

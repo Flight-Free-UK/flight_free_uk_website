@@ -45,7 +45,6 @@ page "/admin/*", :directory_index => false
 # the original "be inspired" section
 activate :blog do |blog|
   blog.name = "be_inspired"
-  #blog.prefix = "ffarticles"
   blog.generate_day_pages = false
   blog.generate_month_pages = false
   blog.generate_year_pages = false
@@ -63,7 +62,6 @@ end
 # the new how to section
 activate :blog do |blog|
   blog.name = "travel_articles"
-  #blog.prefix = "travel"
   blog.generate_day_pages = false
   blog.generate_month_pages = false
   blog.generate_year_pages = false
@@ -75,13 +73,12 @@ end
 # the podcast transcripts section
 activate :blog do |blog|
   blog.name = "podcast_transcripts"
-  #blog.prefix = "travel"
   blog.generate_day_pages = false
   blog.generate_month_pages = false
   blog.generate_year_pages = false
   blog.permalink = "podcast_transcripts/{title}.html"
   blog.sources = "podcast_transcripts/{title}.html"
-  blog.layout = "blog_post_layout"
+  blog.layout = "podcast_transcript_layout"
 end
 
 activate :external_pipeline,

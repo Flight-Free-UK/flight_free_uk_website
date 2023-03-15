@@ -44,6 +44,7 @@ html {
 h1,
 h2,
 strong,
+b,
 .font-bold {
 	font-family: "KollektifBold", sans-serif;
 	font-weight: 400 !important;
@@ -337,31 +338,45 @@ blockquote p {
 
 @media (min-width: 1280px) {
 	.blog-post-body h1 {
-		@apply text-title;
+		font-size: 36px;
 	}
 
 	.blog-post-body h2 {
-		font-size: 38px;
+		font-size: 32px;
 	}
 
 	.blog-post-body h3 {
 		font-size: 32px;
+		@apply font-normal;
 	}
 
 	.blog-post-body h4 {
-		font-size: 26px;
+		font-size: 28px;
+		font-family: "KollektifBold", sans-serif;
+		@apply font-normal;
+	}
+
+	.blog-post-body h5 {
+		font-size: 28px;
+		@apply font-normal;
+	}
+
+	.blog-post-body h6 {
+		font-size: 24px;
+		font-family: "KollektifBold", sans-serif;
+		@apply font-normal;
 	}
 
 	.blog-post-body p,
 	.blog-post-body ul,
 	.blog-post-body ol,
 	.blog-post-body figcaption {
-		font-size: 22px;
+		font-size: 20px;
 	}
 
 	.blog-post-body blockquote p,
 	blockquote p {
-		@apply text-4xl;
+		font-size: 32px;
 	}
 }
 
@@ -389,6 +404,7 @@ blockquote p {
 
 @media (min-width: 768px) {
 
+	.blog-post-body h1,
 	.blog-post-body h2,
 	.blog-post-body h3,
 	.blog-post-body h4,

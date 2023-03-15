@@ -1,0 +1,6 @@
+
+        <a href="<%= article.url.force_encoding("UTF-8") %>" class="w-200 h-200 grid grid-cols-1 hover:text-orange">
+            <%- if article.data.cover_image -%>
+            <img src="<%= image_path(article.data.cover_image) %>" loading="lazy" class="w-200 h-200 object-cover row-start-1 col-start-1" />
+            <%- end -%>
+        </a>

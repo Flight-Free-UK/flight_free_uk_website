@@ -11,7 +11,7 @@ module.exports = {
       "4xl": "2.25rem",
       "5xl": "3rem",
       "6xl": "4rem",
-      "subtitle": "2rem",
+      "subtitle": "1.75rem",
       "title": "3rem",
       "homepage": "4.5rem",
     },
