@@ -19,7 +19,7 @@ The [Seat61.com](https://www.seat61.com/) website includes information on flight
 
 Spend many happy hours scrolling through the pages while dreaming and planning. Here are a few pages that might be particularly useful for the most popular holiday destinations for UK travellers: 
 
-[Spain](https://www.seat61.com/Spain.htm) I [France](https://www.seat61.com/France.htm) I [Ireland](https://www.seat61.com/train-and-ferry-to-dublin.htm) I [Portugal](https://www.seat61.com/Portugal.htm) I [Greece](https://www.seat61.com/Greece.htm)
+[Spain](https://www.seat61.com/Spain.htm) / [France](https://www.seat61.com/France.htm) / [Ireland](https://www.seat61.com/train-and-ferry-to-dublin.htm) / [Portugal](https://www.seat61.com/Portugal.htm) / [Greece](https://www.seat61.com/Greece.htm)
 
 See also: [carbon savings of rail travel](https://www.seat61.com/CO2flights)
 
@@ -49,10 +49,12 @@ Some route options or rail providers don’t always work with Rail Europe, so so
 
 Other booking websites include Rome2Rio (just de-select the ‘flight’ option) and the Trainline. For coach travel, we recommend Flixbus.
 
-> "The train accounts for just 0.6% of carbon emissions produced by the transport sector - while carrying 10% of its passengers." 
+> The train accounts for just 0.6% of carbon emissions produced by the transport sector - while carrying 10% of its passengers.
 
 ~ RailEurope
 
-### For route ideas and accounts of other people’s journeys, head to our Destination Inspiration pages.
+### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
 ### Follow these links for specific information on how to travel by train | by bike | by ferry | by coach | by electric car
+
+ Follow these links for specific information on how to travel by train | by bike | by ferry | by coach | by electric car
