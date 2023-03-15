@@ -47,11 +47,11 @@ Formerly Loco2, [Rail Europe](https://raileurope.com/) is an excellent resource 
 
 Some route options or rail providers don’t always work with Rail Europe, so some clever searching is sometimes needed. Use in tandem with [seat61.com](http://seat61.com) for best results! 
 
-Other booking websites include Rome2Rio (just de-select the ‘flight’ option) and the Trainline. For coach travel, we recommend Flixbus.
-
 > The train accounts for just 0.6% of carbon emissions produced by the transport sector - while carrying 10% of its passengers.
 
 ~ RailEurope
+
+Other booking websites include [Rome2Rio](https://www.rome2rio.com/) (just de-select the ‘flight’ option) and the [Trainline](https://www.thetrainline.com/). For coach travel, we recommend [Flixbus](https://www.flixbus.com/).
 
 ### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
