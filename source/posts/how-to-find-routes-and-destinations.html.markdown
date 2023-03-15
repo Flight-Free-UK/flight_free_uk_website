@@ -7,7 +7,7 @@ cover_image: /images/uploads/map_plan_canva.jpg
 summary: From handy websites to flight-free travel agents, here are our top
   recommendations for where to find routes and destinations
 author: FlightFree UK
-read_time_minute: 0
+read_time_minute: 2
 ---
 ![a train speeds through the countryside](/images/uploads/train_countryside_canva.jpg)
 
@@ -19,11 +19,11 @@ The [Seat61.com](https://www.seat61.com/) website includes information on flight
 
 Spend many happy hours scrolling through the pages while dreaming and planning. Here are a few pages that might be particularly useful for the most popular holiday destinations for UK travellers: 
 
-[Spain](https://www.seat61.com/Spain.htm) ~ [France](https://www.seat61.com/France.htm) ~ [Ireland](https://www.seat61.com/train-and-ferry-to-dublin.htm) ~ [Portugal](https://www.seat61.com/Portugal.htm) ~ [Greece](https://www.seat61.com/Greece.htm)
+[Spain](https://www.seat61.com/Spain.htm) I [France](https://www.seat61.com/France.htm) I [Ireland](https://www.seat61.com/train-and-ferry-to-dublin.htm) I [Portugal](https://www.seat61.com/Portugal.htm) I [Greece](https://www.seat61.com/Greece.htm)
 
 See also: [carbon savings of rail travel](https://www.seat61.com/CO2flights)
 
-> "Train travel is a more rewarding alternative to flying which reduces our contribution to climate change and brings us closer to the countries we visit." 
+> Train travel is a more rewarding alternative to flying which reduces our contribution to climate change and brings us closer to the countries we visit.
 
 ~ Mark Smith, seat61.com
 
@@ -35,7 +35,9 @@ Byway was founded in 2020 by Cat Jones, a keen traveller who was constantly frus
 
 You can choose from pre-designed trips or create your own from scratch, and there are plenty of options to get you excited about your holiday on the [Byway](https://www.byway.travel/) trip builder. 
 
-> "Byway made the experience so simple and provided great information beforehand. So helpful and accessible before and during the trip. We will definitely use them again!" 
+F﻿light Free UK supporters get £50 off a Byway holiday! 
+
+> Byway made the experience so simple and provided great information beforehand. So helpful and accessible before and during the trip. We will definitely use them again!
 
 ~ Byway customer, Trustpilot
 
