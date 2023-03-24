@@ -55,4 +55,4 @@ Taking the train was logistically complicated as well, and there were some hidde
 
 The level of complexity will hopefully change as more people take an interest in long-distance train travel, and we’re satisfied to be doing our bit to help move the trend in that direction. Indeed, since our holiday, a new sleeper service to Stockholm has launched, so you can now travel our entire route in under 24 hours. 
 
-###### But regardless of the cost and the logistics, we wouldn’t have done it any other way: we saw more of the world, cut our carbon emissions, and created memories to last a lifetime.
+##### But regardless of the cost and the logistics, we wouldn’t have done it any other way: we saw more of the world, cut our carbon emissions, and created memories to last a lifetime.
