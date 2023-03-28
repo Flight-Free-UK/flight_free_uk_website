@@ -1,19 +1,14 @@
 ---
 published: false
-title: Consultation on Air Passenger Duty (APD)
-category: climate
+title: The government's policy on Air Passenger Duty (APD)
+category: policy-position
 date: 2021-05-20T16:21:40.382Z
 cover_image: /images/uploads/departures.jpg
-summary: Flight Free UK responds to the government's consultation on APD.
+summary: On 1st April 2023, the government halved APD on domestic flights. We
+  explain why that's the wrong policy.
 author: FlightFree UK
 read_time_minute: 7
 ---
-## Introduction
-
-The government is running a consultation on Air Passenger Duty (APD). The proposals are to reduce the amount of APD charged in domestic airline tickets, and introduce new ‘bands’ of taxation for international flights.
-
-The [consultation](https://www.gov.uk/government/consultations/consultation-on-aviation-tax-reform) closes on June 14th 2021.
-
 The government says that the aim of the tax rethink is to balance domestic connectivity with our environmental goals. The UK has a legally-binding target [to reach net zero carbon emissions by 2050](https://www.gov.uk/government/news/uk-becomes-first-major-economy-to-pass-net-zero-emissions-law). While the government is relying on carbon offsetting and carbon capture and storage (CCS) to reach this goal, there is no doubt that reducing emissions at source is a vital part of reaching net zero, and indeed, more reliable than offsetting or CCS.
 
 > "There is no doubt that reducing emissions at source is a vital part of reaching net zero."
