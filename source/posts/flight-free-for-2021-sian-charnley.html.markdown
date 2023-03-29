@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free for 2021: Siân Charnley"
+title: Siân
 category: testimonials
 date: 2021-02-09T00:14:57.484Z
 cover_image: /images/uploads/testimonial-sian.jpg
