@@ -29,7 +29,7 @@ Perú is an enormous country full of interesting historic, natural and cultural 
 
 As with many such tourism concentrates, the government has had to take extraordinary measures to control the site. Visits need to be booked in advance, and there is a limit on the amount of time a visitor can stay there. Even so, what you mostly see if you visit Machu Picchu is other people visiting Machu Picchu.
 
-![Picture shows Machu Picchu with its steep tree covered peaks and expansive stone structures and levels. Clouds are covering taller peaks that surround Machu Picchu in the background. ](/images/uploads/machupicchu-unsplash-scott-umstattd.jpg "Photo Credit: Scott Umstattd (Source: Unsplash) ")
+![Picture shows Machu Picchu with its steep tree covered peaks and expansive stone structures and levels. Clouds are covering taller peaks that surround Machu Picchu in the background. ](/images/uploads/machupicchu-unsplash-scott-umstattd.jpg "Machu Picchu. Photo Credit: Scott Umstattd (Source: Unsplash) ")
 
 Cusco, the gateway town to Machu Picchu has been clamouring for a new airport for a long time, with the stated purpose to double the amount of passenger traffic going to the city. 
 
