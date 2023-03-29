@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight free in 2022: Tamsin"
+title: Tamsin
 category: testimonials
 date: 2021-09-01T10:28:02.897Z
 cover_image: /images/uploads/tamsin-statement.jpg
