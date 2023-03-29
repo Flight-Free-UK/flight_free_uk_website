@@ -59,13 +59,13 @@ Furthermore, travelling by road in Perú is really dangerous. Most mountain road
 
 Our response to that is to promote what we call "travel with dignity". If we're going to ask people to consider alternatives to flying, we have to have alternatives which are comfortable, safe and environmentally sound, and available to more than just a small part of the population. This cannot be achieved solely through individual action; it requires the involvement of both government and the transport industry.
 
-### The improvement in the Peruvian economy over the past 20 years has been reflected in a constant increase in the number of Peruvians who take domestic flights.
+##### The improvement in the Peruvian economy over the past 20 years has been reflected in a constant increase in the number of Peruvians who take domestic flights.
 
 Even so, half of the population has never flown, and much of the rest fly only very occasionally. That's not a political or environmental decision, it's a purely economic decision, and reflects the enormous gap between rich and poor in the country.
 
 For decades, the entire continent of Latin America has been at the top of world inequality measures. Economic inequality means inequality in energy consumption and carbon emissions, too. The "average" Peruvian is not high on the list of carbon emitters, which gives the not-so-average Peruvians – the ones whose budget or employment allows them to fly many times per year – a convenient excuse for not worrying about their own carbon footprint.
 
-### If there is one thing we could achieve from the Flight Free movement, I would hope it would be to convince these privileged members of Peruvian society that their individual lifestyle choices cannot be justified by the involuntary poverty of the majority of the population.
+##### If there is one thing we could achieve from the Flight Free movement, I would hope it would be to convince these privileged members of Peruvian society that their individual lifestyle choices cannot be justified by the involuntary poverty of the majority of the population.
 
 For better or worse, the pandemic-related lockdown has shown many people that flying is not as necessary as they thought it was. 
 
