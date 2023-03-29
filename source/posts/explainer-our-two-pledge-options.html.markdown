@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Explainer: our two pledge options"
+title: Our two pledge options
 category: explainer
 date: 2023-01-24T12:21:50.144Z
 cover_image: /images/uploads/trains-not-planes.jpg
