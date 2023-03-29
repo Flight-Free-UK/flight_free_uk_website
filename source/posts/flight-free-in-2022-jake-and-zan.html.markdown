@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight free in 2022: Jake and Zan"
+title: Jake and Zan
 category: testimonials
 date: 2022-04-27T11:47:24.724Z
 cover_image: /images/uploads/jake_zan_testimonial_sm.jpg
