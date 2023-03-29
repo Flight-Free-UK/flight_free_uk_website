@@ -1,11 +1,12 @@
 ---
 published: false
-title: Why we shouldn't cut Air Passenger Duty (APD)
+title: Aviation and taxation
 category: policy-position
 date: 2023-03-29T08:11:14.113Z
 cover_image: /images/uploads/departures.jpg
-summary: On 1st April 2023, the government halved APD on domestic flights. We
-  explain why that's the wrong policy.
+summary: "No tax on airline fuel, no VAT on tickets, and from 1st April 2023, a
+  lower rate of APD on domestic flights. We explore why aviation is so radically
+  under-taxed. "
 author: FlightFree UK
 read_time_minute: 7
 ---
@@ -21,17 +22,13 @@ Reducing emissions at source is a vital part of reaching net zero, and is more r
 
 It is easy to make statements about maintaining our current lifestyles while also achieving our environmental goals, and much harder to convincingly demonstrate how this is possible. Decreasing the only tax currently applied to aviation will lead to an increase in the number of domestic flights in the UK. More flights means more emissions. 
 
-This is a nonsensical move by a government whose Parliament has declared a Climate Emergency.
+#### APD is necessary
 
-## APD is necessary
-
-APD is currently the only way in which air travel is taxed. Airline tickets are VAT-exempt, alongside need-related items such as food and baby clothes, and there is no tax on aviation fuel, giving it an unfair advantage over other, less polluting forms of transport. Reducing APD would make an already cheap form of transport even cheaper, and make it even harder for consumers to make low-carbon choices.
+APD is currently the only way in which air travel is taxed. Airline tickets are VAT-exempt, and there is no tax on aviation fuel, giving it an unfair advantage over other, less polluting forms of transport. Reducing APD will make an already cheap form of transport even cheaper, and make it even harder for consumers to make low-carbon choices. 
 
 To be emphatic, this is the *only* *tax* we have on flights. A progressive environmental policy would be for all goods and services to be taxed according to their environmental cost.
 
-> "Reducing APD would make an already cheap form of transport even cheaper, and make it even harder for consumers to make low-carbon choices."
-
-The current APD bands show that APD on business and first class flights (the Standard Rate) is approximately double that for economy tickets (the Reduced Rate). We know that business and first class tickets are, on average, [five times more expensive](https://www.ft.com/content/867a5342-c94c-43f6-9783-a817443c9471) than economy and that business class emits about three times more carbon per passenger than economy (DfT figures). A better model would be for APD on business class tickets to therefore be at least three times higher than on economy class tickets.
+> Reducing APD will make an already cheap form of transport even cheaper, and make it even harder for consumers to make low-carbon choices. 
 
 Revenue from APD is used to fund vital services across the UK. It would be regressive to reduce the funds available for services that benefit everyone, in order to benefit a minority of flyers (less than 50% of UK residents fly in any given year) or frequent flyers (the 15% of UK residents who take 70% of the flights).
 
@@ -92,7 +89,3 @@ We should be doing all we can to reduce demand for flights, both domestically an
 It is incumbent on a government to act in the best interests of all, which includes those affected negatively by an increase in the number of domestic flights within the UK as well as an increase in international flights from the UK. 
 
 ### In a time of climate emergency, and on a finite planet, it is more important than ever to be a world leader on climate action. Any reduction in tax on this highly-polluting form of transport would be a mistake and would take us further away from our climate targets.
-
-*This commentary makes up the basis of the Flight Free UK response to the government's consultation on APD. To read the consultation and submit your own response, go [here](https://www.gov.uk/government/consultations/consultation-on-aviation-tax-reform). The consultation closes at midnight on 14th June.* 
-
-*We also have an open response and invite representatives of organisations to sign our statement. Please [get in touch](mailto:info@flightfree.co.uk) to express your interest.*
