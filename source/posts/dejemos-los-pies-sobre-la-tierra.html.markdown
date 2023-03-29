@@ -35,7 +35,7 @@ Cusco, the gateway town to Machu Picchu has been clamouring for a new airport fo
 
 But Cusco is already collapsing under the pressure of tourism. There is nowhere to build the hotels necessary to accommodate twice as many tourists. The city's streets cannot handle the current traffic, much less the increase which will result. And that's just Cusco: doubling the tourist population will put an unbearable load on Machu Picchu, the Inca Trail and the Sacred Valley.
 
-##### It's hard to know how to deal with these issues. "Good" tourism would be more respectful of the land and cultures being visited, more aware that a tourist is essentially a guest in someone else's living environment, and above all much lower intensity.
+It's hard to know how to deal with these issues. "Good" tourism would be more respectful of the land and cultures being visited, more aware that a tourist is essentially a guest in someone else's living environment, and above all much lower intensity.
 
 While tourism does bring economic benefit for some, it produces hardship for others; the conversion of housing into hotels can significantly increase the cost of housing, and the huge demand for water resulting from the hospitality industry can lead to water shortages or tax increases.
 
