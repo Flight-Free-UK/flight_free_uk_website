@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free for 2021: Poppy Okotcha"
+title: Poppy
 category: testimonials
 date: 2021-05-25T21:22:49.328Z
 cover_image: /images/uploads/testimonial-poppy.jpg
