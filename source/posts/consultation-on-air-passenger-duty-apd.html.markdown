@@ -1,15 +1,21 @@
 ---
 published: false
-title: The government's policy on Air Passenger Duty (APD)
+title: Why we need Air Passenger Duty (APD)
 category: policy-position
-date: 2021-05-20T16:21:40.382Z
+date: 2023-03-29T08:11:14.113Z
 cover_image: /images/uploads/departures.jpg
 summary: On 1st April 2023, the government halved APD on domestic flights. We
   explain why that's the wrong policy.
 author: FlightFree UK
 read_time_minute: 7
 ---
-The government says that the aim of the tax rethink is to balance domestic connectivity with our environmental goals. The UK has a legally-binding target [to reach net zero carbon emissions by 2050](https://www.gov.uk/government/news/uk-becomes-first-major-economy-to-pass-net-zero-emissions-law). While the government is relying on carbon offsetting and carbon capture and storage (CCS) to reach this goal, there is no doubt that reducing emissions at source is a vital part of reaching net zero, and indeed, more reliable than offsetting or CCS.
+A﻿ir Passenger Duty (APD) has been halved on domestic flights, from £13 for a single journey to £6.50. The government says that this will balance domestic connectivity with our environmental goals. 
+
+I﻿t's hard to see how r﻿educing the cost of flying, thereby enabling people to fly more, will help the UK reach its legally-binding target [to reach net zero carbon emissions by 2050](https://www.gov.uk/government/news/uk-becomes-first-major-economy-to-pass-net-zero-emissions-law). 
+
+
+
+While the government is relying on carbon offsetting and carbon capture and storage (CCS) to reach this goal, there is no doubt that reducing emissions at source is a vital part of reaching net zero, and indeed, more reliable than offsetting or CCS. 
 
 > "There is no doubt that reducing emissions at source is a vital part of reaching net zero."
 
