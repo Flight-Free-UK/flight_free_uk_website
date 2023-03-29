@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free for 2021: Armelle Ferguson"
+title: Armelle
 category: testimonials
 date: 2021-01-05T12:17:05.205Z
 cover_image: /images/uploads/testimonial-armelle.jpg
