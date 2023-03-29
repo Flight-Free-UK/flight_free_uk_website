@@ -1,9 +1,9 @@
 ---
 published: true
 title: '"Dejemos los pies sobre la tierra"'
-category: opinion
+category: testimonials
 date: 2020-05-27T11:35:10.751Z
-cover_image: /images/uploads/bruno.jpg
+cover_image: /images/uploads/bruno-peru_rici-lake.jpg
 summary: "Rici Lake from Flight Free Perú explains the challenges and benefits
   of reducing aviation in a country that relies so heavily on tourism. "
 author: FlightFree UK
@@ -15,11 +15,15 @@ read_time_minute: 5
 
 ### The project *Dejemos los pies sobre la tierra* – "Let's keep our feet on the ground" – was inspired in part by the insistence of young activists like Greta Thunberg that not flying is an important individual contribution to reducing global carbon emissions.
 
-Both individual and institutional responses are necessary. But there will be no institutional response without a demonstration that individuals are willing to change their own lives in response to the emergency. It is undeniable that the carbon cost of flying is very hard to justify. So that message needs to get out.
+##### Both individual and institutional responses are necessary. But there will be no institutional response without a demonstration that individuals are willing to change their own lives in response to the emergency. 
 
-As we say [on our web page](https://dejemoslospiessobrelatierra.blogspot.com/p/campana.html), a single flight between Lima and Madrid produces as much carbon emissions in a few hours as the average Peruvian produces in an entire year.
+It is undeniable that the carbon cost of flying is very hard to justify. So that message needs to get out.
 
-#### Encouraging people to fly less collides with the perception that tourism is tremendously important to the Peruvian economy, and that asking people to not visit Perú is antipatriotic.
+A single flight between Lima and Madrid produces as much carbon emissions in a few hours as the average Peruvian produces in an entire year.
+
+##### However, the challenge with encouraging people to fly less is that tourism is tremendously important to the Peruvian economy.
+
+Asking people to not visit Perú is antipatriotic. 
 
 Our response has been to underline the fact that we are not asking people to not visit Perú, but rather that they be aware of the carbon cost of their visit, and that they try to maximise the benefit associated with that cost.
 
