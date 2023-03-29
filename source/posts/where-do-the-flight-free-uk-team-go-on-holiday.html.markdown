@@ -1,6 +1,6 @@
 ---
 published: true
-title: Where the Flight Free UK team goes on holiday
+title: Where Flight Free UK goes on holiday
 category: opinion
 date: 2021-08-31T11:48:27.664Z
 cover_image: /images/uploads/sunita_beachy-head.jpeg
