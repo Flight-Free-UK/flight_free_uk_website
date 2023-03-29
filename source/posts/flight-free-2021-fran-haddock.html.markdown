@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free for 2021: Fran Haddock"
+title: Fran
 category: testimonials
 date: 2021-05-01T19:34:12.663Z
 cover_image: /images/uploads/fran-haddock-quote.jpg
