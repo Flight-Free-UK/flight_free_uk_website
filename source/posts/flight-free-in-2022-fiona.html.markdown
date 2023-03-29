@@ -1,6 +1,6 @@
 ---
 published: true
-title: Fiona Wood
+title: Fiona
 category: testimonials
 date: 2022-01-10T09:59:39.781Z
 cover_image: /images/uploads/fiona_testimonial.jpg
