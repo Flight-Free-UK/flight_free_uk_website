@@ -43,13 +43,15 @@ But Cusco is already collapsing under the pressure of tourism. There is nowhere 
 
 While tourism does bring economic benefit for some, it produces hardship for others; the conversion of housing into hotels can significantly increase the cost of housing, and the huge demand for water resulting from the hospitality industry can lead to water shortages or tax increases.
 
-In many ways, mass tourism is an extractive industry: it seeks to extract economic value from some attraction, whether natural or historic or cultural, and in doing so it modifies the resource in ways which make it unrecognisable. Monuments crumble from the constant passage of hands and feet; cityscapes are dismantled to build hotels and fast food outlets; wilderness is overrun by hordes of travellers who trample the vegetation and discard their garbage and waste products.
+##### In many ways, mass tourism is an extractive industry.
 
-> "In many ways, mass tourism is an extractive industry: it seeks to extract economic value from some attraction, and in doing so it modifies the resource in ways which make it unrecognisable."
+It seeks to extract economic value from some attraction, whether natural or historic or cultural, and in doing so it modifies the resource in ways which make it unrecognisable. Monuments crumble from the constant passage of hands and feet; cityscapes are dismantled to build hotels and fast food outlets; wilderness is overrun by hordes of travellers who trample the vegetation and discard their garbage and waste products.
+
+> The Peruvian economy would benefit more from a traveller who spent a month in Perú than from three travellers who spent one week each.
 
 Tourism can certainly contribute to a local economy, but the Peruvian economy would benefit more from a traveller who spent a month in Perú than from three travellers who spent one week each. Part of the solution needs to be finding economic activities other than tourism, so that places like Cusco can prosper without having to suffer from extractive tourism.
 
-#### It's actually very hard to make the argument that no-one should fly inside Perú, and we don't try to deny it.
+##### It's actually very hard to make the argument that no-one should fly inside Perú, and we don't try to deny it.
 
 A large part of Perú is mountainous and, unlike Switzerland, doesn’t have drilled tunnels through the mountains. The mountain pass on the central highway reaches 4,818m (15,807 feet) and is subject to frequent closures because of snow. The eight-hour, 420-km drive from Lima to Huancayo (the capital of the Central Andes region) can be extended to 12 hours or several days in bad weather, yet could be achieved with a 45-minute flight of less than 200 km. It's almost certain that if you fly, you emit less carbon than you would by driving a private vehicle. Even taking a bus can represent similar carbon consumption to flying, in part because most of the buses used in Perú are badly maintained and well past the end of their useful life.
 
