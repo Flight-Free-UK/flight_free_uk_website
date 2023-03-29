@@ -15,7 +15,7 @@ read_time_minute: 5
 
 ### The project *Dejemos los pies sobre la tierra* – "Let's keep our feet on the ground" – was inspired in part by the insistence of young activists like Greta Thunberg that not flying is an important individual contribution to reducing global carbon emissions.
 
-##### Both individual and institutional responses are necessary. But there will be no institutional response without a demonstration that individuals are willing to change their own lives in response to the emergency. 
+##### Both individual and institutional responses are necessary. But there will be no institutional response without a demonstration that individuals are willing to change their own lives in response to the emergency.
 
 It is undeniable that the carbon cost of flying is very hard to justify. So that message needs to get out.
 
@@ -23,17 +23,23 @@ A single flight between Lima and Madrid produces as much carbon emissions in a f
 
 ##### However, the challenge with encouraging people to fly less is that tourism is tremendously important to the Peruvian economy.
 
-Asking people to not visit Perú is antipatriotic. 
+Asking people to not visit Perú could be seen as antipatriotic. 
 
 Our response has been to underline the fact that we are not asking people to not visit Perú, but rather that they be aware of the carbon cost of their visit, and that they try to maximise the benefit associated with that cost.
 
-Perú is an enormous country full of interesting historic, natural and cultural attractions. And yet, 95% of foreign visitors go to one small place: [Machu Picchu](https://flightfree.co.uk/post/tossing-out-my-bucket-list/). As with many such tourism concentrates, the government has had to take extraordinary measures to control the site. Visits need to be booked in advance, and there is a limit on the amount of time a visitor can stay there. Even so, what you mostly see if you visit Machu Picchu is other people visiting Machu Picchu.
+Perú is an enormous country full of interesting historic, natural and cultural attractions. And yet, 95% of foreign visitors go to one small place: [Machu Picchu](https://flightfree.co.uk/post/tossing-out-my-bucket-list/). 
+
+> What you mostly see if you visit Machu Picchu is other people visiting Machu Picchu.
+
+As with many such tourism concentrates, the government has had to take extraordinary measures to control the site. Visits need to be booked in advance, and there is a limit on the amount of time a visitor can stay there. Even so, what you mostly see if you visit Machu Picchu is other people visiting Machu Picchu.
 
 ![Picture shows Machu Picchu with its steep tree covered peaks and expansive stone structures and levels. Clouds are covering taller peaks that surround Machu Picchu in the background. ](/images/uploads/machupicchu-unsplash-scott-umstattd.jpg "Photo Credit: Scott Umstattd (Source: Unsplash) ")
 
-Cusco, the gateway town to Machu Picchu has been clamouring for a new airport for a long time, with the stated purpose to double the amount of passenger traffic going to the city. But Cusco is already collapsing under the pressure of tourism. There is nowhere to build the hotels necessary to accommodate twice as many tourists. The city's streets cannot handle the current traffic, much less the increase which will result. And that's just Cusco: doubling the tourist population will put an unbearable load on Machu Picchu, the Inca Trail and the Sacred Valley.
+Cusco, the gateway town to Machu Picchu has been clamouring for a new airport for a long time, with the stated purpose to double the amount of passenger traffic going to the city. 
 
-#### It's hard to know how to deal with these issues. "Good" tourism would be more respectful of the land and cultures being visited, more aware that a tourist is essentially a guest in someone else's living environment, and above all much lower intensity.
+But Cusco is already collapsing under the pressure of tourism. There is nowhere to build the hotels necessary to accommodate twice as many tourists. The city's streets cannot handle the current traffic, much less the increase which will result. And that's just Cusco: doubling the tourist population will put an unbearable load on Machu Picchu, the Inca Trail and the Sacred Valley.
+
+##### It's hard to know how to deal with these issues. "Good" tourism would be more respectful of the land and cultures being visited, more aware that a tourist is essentially a guest in someone else's living environment, and above all much lower intensity.
 
 While tourism does bring economic benefit for some, it produces hardship for others; the conversion of housing into hotels can significantly increase the cost of housing, and the huge demand for water resulting from the hospitality industry can lead to water shortages or tax increases.
 
