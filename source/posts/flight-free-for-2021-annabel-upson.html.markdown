@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free for 2021: Annabel Upson"
+title: Annabel
 category: testimonials
 date: 2021-06-08T16:50:55.429Z
 cover_image: /images/uploads/testimonial-annabel.jpg
