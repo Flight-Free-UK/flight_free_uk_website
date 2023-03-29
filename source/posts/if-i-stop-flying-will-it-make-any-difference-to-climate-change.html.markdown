@@ -1,6 +1,6 @@
 ---
 published: true
-title: If I stop flying will it make any difference to climate change?
+title: Individual action vs system change
 category: opinion
 date: 2022-01-05T17:39:24.208Z
 cover_image: /images/uploads/girl-looking-at-aeroplane.jpg
