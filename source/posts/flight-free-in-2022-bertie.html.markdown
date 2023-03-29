@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight free in 2022: Bertie"
+title: Bertie
 category: testimonials
 date: 2021-09-01T10:33:50.348Z
 cover_image: /images/uploads/bertie-statement.jpg
