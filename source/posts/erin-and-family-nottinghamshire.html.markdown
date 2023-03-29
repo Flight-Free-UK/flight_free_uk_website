@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight free in 2022: Erin and family"
+title: Erin and family
 category: testimonials
 date: 2021-10-21T17:49:33.536Z
 cover_image: /images/uploads/erin-statement.jpg
