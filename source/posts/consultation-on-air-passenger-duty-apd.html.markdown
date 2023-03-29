@@ -1,6 +1,6 @@
 ---
 published: false
-title: Why we need Air Passenger Duty (APD)
+title: Why we shouldn't cut Air Passenger Duty (APD)
 category: policy-position
 date: 2023-03-29T08:11:14.113Z
 cover_image: /images/uploads/departures.jpg
@@ -9,15 +9,15 @@ summary: On 1st April 2023, the government halved APD on domestic flights. We
 author: FlightFree UK
 read_time_minute: 7
 ---
-A﻿ir Passenger Duty (APD) has been halved on domestic flights, from £13 for a single journey to £6.50. The government says that this will balance domestic connectivity with our environmental goals. 
+## A﻿ir Passenger Duty (APD) has been halved on domestic flights, from £13 for a single journey to £6.50.
+
+#### The government says that this will balance domestic connectivity with our environmental goals.
 
 I﻿t's hard to see how r﻿educing the cost of flying, thereby enabling people to fly more, will help the UK reach its legally-binding target [to reach net zero carbon emissions by 2050](https://www.gov.uk/government/news/uk-becomes-first-major-economy-to-pass-net-zero-emissions-law). 
 
+Reducing emissions at source is a vital part of reaching net zero, and is more reliable than the government's preferred tactics of offsetting or carbon capture and storage (CCS). 
 
-
-While the government is relying on carbon offsetting and carbon capture and storage (CCS) to reach this goal, there is no doubt that reducing emissions at source is a vital part of reaching net zero, and indeed, more reliable than offsetting or CCS. 
-
-> "There is no doubt that reducing emissions at source is a vital part of reaching net zero."
+> Reducing emissions at source is a vital part of reaching net zero.
 
 It is easy to make statements about maintaining our current lifestyles while also achieving our environmental goals, and much harder to convincingly demonstrate how this is possible. Decreasing the only tax currently applied to aviation will lead to an increase in the number of domestic flights in the UK. More flights means more emissions. 
 
