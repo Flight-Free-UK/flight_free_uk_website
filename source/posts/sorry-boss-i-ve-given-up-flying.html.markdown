@@ -10,25 +10,25 @@ summary: When Eddie decided to stop flying, it had a knock-on effect at work. He
 author: FlightFree UK
 read_time_minute: 5
 ---
-![Picture shows Anna Hughes, Neil, Eddie and Helen at a Christian Climate Action event. They are smiling with their arms around each other and Anna is holding a Flight Free Pledge page in her hand. Eddie has a sign round his neck which reads 'hunger strike day 2'. There are people chatting behind them and they are outside. ](/images/uploads/anna-neil-eddie-helen.christianclimateaction.jpg "Anna from Flight Free UK with Neil, Eddie and Helen from Christian Climate Action")
+### I’d never really flown much – just a handful of holidays with my family.
 
-## I’d never really flown much.
+##### I hadn’t flown for about nine years before I took some time off to travel around East Asia and Australasia where I learnt that I loved mountain trekking, scuba diving and experiencing other cultures.
 
-A handful of holidays with my family. I hadn’t flown for about nine years before I took some time off to travel around East Asia and Australasia where I learnt that I loved mountain trekking, scuba diving and experiencing other cultures.
+I came back to a new job. After much anticipation, I got to go to our Poland office in Katowice for a two-day ‘Product All Hands’ meeting. This seemed like such a great perk – I love travelling! Some other people from other parts of Eastern Europe had never flown before in their life. I booked my flight for the weekend before and took the opportunity to visit Krakow and the amazing yet harrowing Auschwitz. 
 
-I came back to a new job. After much anticipation, I got to go to our Poland office in Katowice for a two-day ‘Product All Hands’ meeting. This seemed like such a great perk – I love travelling! Some other people from other parts of Eastern Europe had never flown before in their life. I got my flight booked the weekend before and took the opportunity to visit Krakow and the amazing yet harrowing Auschwitz.
+The following weekend, I was on another flight, this time to Taiwan for a four-day conference in Taipei where we tested our product. Again, I took the opportunity to see an exciting new city. I was put up in by far the fanciest hotel I’ve ever set foot in, and I enjoyed some wonderful restaurants, the hotel spa and generally living the high life. I even stayed for an extra week so I could experience more of Taiwan, scuba dive off an island off the east coast and trek in the mountains. It was an absolute dream! 
 
-The following weekend work put me on another flight, this time to Taiwan for a four-day conference in Taipei where we tested our product. Again, I took the opportunity to see an exciting new city. Work put me up in by far the fanciest hotel I’ve ever set foot in. I enjoyed some wonderful restaurants, the hotel spa and generally living the high life. I even stayed for an extra week (in hostels not hotels) so I could experience more of Taiwan, scuba diving off an island off the east coast and trekking in the mountains. It was an absolute dream!
+A few months after these trips I stumbled upon a ‘Heading For Extinction’ talk by my local Extinction Rebellion group. I was completely taken back. I’d always thought I’d been ‘doing my bit’, reducing my plastic waste, not owning a car, and going vegan, but the problem was a couple of orders of magnitude worse than I’d thought. The level of injustice was heartbreaking. 
 
-A few months after these trips I stumbled upon a ‘Heading For Extinction’ talk put on by Extinction Rebellion. I was completely taken back. I’d always thought I’d been ‘doing my bit’, reducing my plastic waste, not owning a car, and going vegan, but the problem was a couple of orders of magnitude worse than I’d thought. The level of injustice was heartbreaking.
-
-> "I’d always thought I’d been ‘doing my bit’, but the problem was much worse than I’d thought."
+> I’d always thought I’d been ‘doing my bit’, but the problem was much worse than I’d thought.
 
 I did WWF’s [footprint calculator](https://footprint.wwf.org.uk/#/) and Global Footprint Network’s [footprint calculator](https://www.footprintcalculator.org/) and I realised that those two work flights I’d taken that year made up more than half of my carbon footprint!
 
-### I could easily have said, “Oh well, those flights were offset by work so it’s fine.”
+##### I could easily have said, “Oh well, those flights were offset by work so it’s fine.”
 
-But I think carbon offsetting is basically used as a coverup for us folk in rich countries to quell the guilt we feel about the devastation we’re causing. I think we shouldn’t be using our privilege to have fun at the expense of the health, livelihoods, homes and lives of others. We should be using our privilege to create system change for those without such privilege, and those in future generations that don’t even have a life yet, let alone a voice. Carbon offsetting doesn’t change the system, and it takes years to actually offset, while the devastation is already happening now.
+But I think carbon offsetting is basically used as a coverup for us folk in rich countries to quell the guilt we feel about the devastation we’re causing. I think we shouldn’t be using our privilege to have fun at the expense of the health, livelihoods, homes and lives of others. 
+
+We should be using our privilege to create system change for those without such privilege, and those in future generations that don’t even have a life yet, let alone a voice. Carbon offsetting doesn’t change the system, and it takes years to actually offset, while the devastation is already happening now.
 
 I could (like other colleagues) have said, "It's for work, so it doesn't count. I have to do it," as if making our company's product is more important than a hospitable planet. I couldn't imagine trying to explain that to my children in 20 years time. My conscience wouldn't allow me to make such excuses. This was one of my opportunities to live in the reality of the truth and be the system change. 
 
