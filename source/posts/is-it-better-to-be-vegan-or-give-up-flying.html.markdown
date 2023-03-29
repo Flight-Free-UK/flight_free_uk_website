@@ -1,6 +1,6 @@
 ---
 published: true
-title: Is it better to be vegan or give up flying?
+title: Stop eating meat or stop flying?
 category: explainer
 date: 2022-04-25T11:19:14.447Z
 cover_image: /images/uploads/vegan-flightfree.jpg
