@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight free in 2022: Emily"
+title: Emily
 category: testimonials
 date: 2021-09-01T10:38:02.519Z
 cover_image: /images/uploads/emily-statement.jpg
