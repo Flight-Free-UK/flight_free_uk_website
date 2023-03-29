@@ -56,6 +56,6 @@ The more people that take this stance, wherever they possibly can, the more our 
 
 > It’s basic economics: if we want to change the supply we need to change the demand.
 
-Since Covid hit, flying has stopped except for a few executives. So the company has been forced to invest in infrastructure to make working from home and international conference calls work well. Now we only need more people saying a hard no to flying. That will start the social change needed for us to stay with the green new normal.
+Since Covid, flying has stopped except for a few executives. So the company has been forced to invest in infrastructure to make working from home and international conference calls work well. Now we only need more people saying a hard no to flying. That will start the social change needed for us to stay with the green new normal.
 
 In general, people tend to avoid talking about the climate. They will often quickly change the topic about anything that involves personal change. I could easily have gone along with the crowd and continued to fly for work. And while I know it takes a lot more than personal change, I will live to my values, as my small act of rebellion.
