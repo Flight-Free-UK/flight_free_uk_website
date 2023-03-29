@@ -1,6 +1,6 @@
 ---
 published: true
-title: "George Monbiot: how to stop the planet burning"
+title: George Monbiot
 category: testimonials
 date: 2022-02-10T18:41:32.531Z
 cover_image: /images/uploads/george_monbiot.jpg
