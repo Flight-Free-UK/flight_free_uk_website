@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight free in 2022: Jonathan and Liffy"
+title: Jonathan and Liffy
 category: testimonials
 date: 2021-11-18T17:43:05.389Z
 cover_image: /images/uploads/jonathanandliffy-statement.jpg
