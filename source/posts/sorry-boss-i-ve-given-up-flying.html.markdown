@@ -30,9 +30,9 @@ But I think carbon offsetting is basically used as a coverup for us folk in rich
 
 We should be using our privilege to create system change for those without such privilege, and those in future generations that don’t even have a life yet, let alone a voice. Carbon offsetting doesn’t change the system, and it takes years to actually offset, while the devastation is already happening now.
 
-I could (like other colleagues) have said, “It’s for work, so it doesn’t count. I have to do it.“ I couldn’t imagine trying to explain that to my children in 20 years’ time. My conscience wouldn’t allow me to make such excuses. This was my opportunity to accept reality, and be the change. 
+> We should be using our privilege to create system change for those without such privilege.
 
-> I couldn’t imagine trying to explain still flying to my children in 20 years’ time. My conscience wouldn’t allow me to make such excuses.
+I could (like other colleagues) have said, “It’s for work, so it doesn’t count. I have to do it.“ I couldn’t imagine trying to explain that to my children in 20 years’ time. My conscience wouldn’t allow me to make such excuses. This was my opportunity to accept reality, and be the change. 
 
 As a Christian, I aim to love my neighbour as myself. This means in all my decisions, I can’t choose an option that puts others in harm’s way, when an option not to, or an option that is less harmful, is available. If I am choosing to do something that is directly contributing to the climate emergency, like flying, and therefore making life very difficult for millions of people around the world, when I could simply not fly, I am not being a true disciple.
 
@@ -50,6 +50,8 @@ A few months later my team’s facilitator was organising the team flight out to
 
 When I reiterated this, my team facilitator said, “I thought that was only outside of work. I thought you might be able to make an exception as, you know, it’s work.” I politely refused, saying that whether I fly for work or for pleasure, it’s still other people’s lives at stake. I don’t like disappointing people, and although the conversation made me nervous before and rattled through my head for a while after, I was confident I’d done the right thing.
 
+> Although the conversation made me nervous before and rattled through my head for a while after, I was confident I’d done the right thing.
+
 In the end, my company has been very accommodating. After a couple of awkward conversations with my team facilitator, I was not pressured again into flying for any reason. About eight months on my CEO actually changed company policy, not to allow groups larger than five to fly out anywhere, giving the climate emergency as a reason. I was astounded! I got to talk with him and support his decision. 
 
 The more people that take this stance, wherever they possibly can, the more our culture and infrastructure will have to adapt. We've already seen this start to happen with the rise of vegan options and vegan restaurants. It’s basic economics: if we want to change the supply we need to change the demand.
@@ -58,4 +60,6 @@ The more people that take this stance, wherever they possibly can, the more our 
 
 Since Covid, the company has been forced to invest in infrastructure to make working from home and international conference calls work well. Now we only need more people saying a hard no to flying. That will start the social change needed for us to stay with the green new normal.
 
-In general, people tend to avoid talking about the climate. They will often quickly change the topic about anything that involves personal change. I could easily have gone along with the crowd and continued to fly for work. And while I know it takes a lot more than personal change, I will live to my values, as my small act of rebellion.
+In general, people tend to avoid talking about the climate. They will often quickly change the topic about anything that involves personal change. 
+
+##### I could easily have gone along with the crowd and continued to fly for work. And while I know it takes a lot more than personal change, I will live to my values, as my small act of rebellion.
