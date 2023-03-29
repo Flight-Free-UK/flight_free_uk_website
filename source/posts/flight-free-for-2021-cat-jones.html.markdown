@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free for 2021: Cat Jones"
+title: Cat Jones
 category: testimonials
 date: 2021-02-16T15:55:00.476Z
 cover_image: /images/uploads/testimoinal-cat.jpg
