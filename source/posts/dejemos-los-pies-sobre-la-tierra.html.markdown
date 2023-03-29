@@ -65,8 +65,6 @@ Even so, half of the population has never flown, and much of the rest fly only v
 
 For decades, the entire continent of Latin America has been at the top of world inequality measures. Economic inequality means inequality in energy consumption and carbon emissions, too. The "average" Peruvian is not high on the list of carbon emitters, which gives the not-so-average Peruvians – the ones whose budget or employment allows them to fly many times per year – a convenient excuse for not worrying about their own carbon footprint.
 
-##### If there is one thing we could achieve from the Flight Free movement, I would hope it would be to convince these privileged members of Peruvian society that their individual lifestyle choices cannot be justified by the involuntary poverty of the majority of the population.
+If there is one thing we could achieve from the Flight Free movement, I would hope it would be to convince these privileged members of Peruvian society that their individual lifestyle choices cannot be justified by the involuntary poverty of the majority of the population.
 
-For better or worse, the pandemic-related lockdown has shown many people that flying is not as necessary as they thought it was. 
-
-##### And, if they thought about it, they might conclude that intercontinental travel presents some pretty serious risks, top of which is being a contributor to the climate emergency.
+##### For better or worse, the pandemic-related lockdown has shown many people that flying is not as necessary as they thought it was. And, if they thought about it, they might conclude that intercontinental travel presents some pretty serious risks, top of which is being a contributor to the climate emergency.
