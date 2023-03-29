@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free in 2022: Rachel and Andrew"
+title: Rachel and Andrew
 category: testimonials
 date: 2022-07-15T13:38:37.407Z
 cover_image: /images/uploads/rachel_andrew_testimonial-sm.jpg
