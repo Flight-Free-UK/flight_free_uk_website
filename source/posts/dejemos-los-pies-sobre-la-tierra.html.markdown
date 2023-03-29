@@ -13,7 +13,7 @@ read_time_minute: 5
 
 ![](/images/uploads/flightfreeperu.jpg "Rici, his wife Liana Cisneros who set up the campaign, and activists from Fridays for the Future and MOCICC, the Citizens' Movement on Climate Change")
 
-### The project *Dejemos los pies sobre la tierra* – "Let's keep our feet on the ground" – was inspired in part by the insistence of young activists like Greta Thunberg that not flying is an important individual contribution to reducing global carbon emissions.
+### *Dejemos los pies sobre la tierra* – "Let's keep our feet on the ground" – was inspired by the insistence of young activists like Greta Thunberg that not flying is an important individual contribution to reducing global carbon emissions.
 
 ##### Both individual and institutional responses are necessary. But there will be no institutional response without a demonstration that individuals are willing to change their own lives in response to the emergency.
 
