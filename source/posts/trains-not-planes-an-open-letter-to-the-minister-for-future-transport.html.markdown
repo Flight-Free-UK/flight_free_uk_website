@@ -1,7 +1,7 @@
 ---
 published: true
-title: "Trains not planes: an open letter to the Minister for Future Transport"
-category: opinion
+title: Open letter to the Minister for Future Transport
+category: policy-position
 date: 2021-09-22T11:02:35.594Z
 cover_image: /images/uploads/trains-not-planes.jpg
 summary: Recent claims by the Government that we need to keep flying in order to
