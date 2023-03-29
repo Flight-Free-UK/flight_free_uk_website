@@ -15,15 +15,11 @@ read_time_minute: 5
 
 ### *Dejemos los pies sobre la tierra* – "Let's keep our feet on the ground" – was inspired by the insistence of young activists like Greta Thunberg that not flying is an important individual contribution to reducing global carbon emissions.
 
-##### Both individual and institutional responses are necessary. But there will be no institutional response without a demonstration that individuals are willing to change their own lives in response to the emergency.
-
-It is undeniable that the carbon cost of flying is very hard to justify. So that message needs to get out.
+##### Both individual and institutional responses are necessary. But there will be no institutional response without showing that individuals are willing to change their own lives in response to the emergency.
 
 A single flight between Lima and Madrid produces as much carbon emissions in a few hours as the average Peruvian produces in an entire year.
 
-##### However, the challenge with encouraging people to fly less is that tourism is tremendously important to the Peruvian economy.
-
-Asking people to not visit Perú could be seen as antipatriotic. 
+However, the challenge with encouraging people to fly less is that tourism is tremendously important to the Peruvian economy. Asking people to not visit Perú could be seen as antipatriotic. 
 
 Our response has been to underline the fact that we are not asking people to not visit Perú, but rather that they be aware of the carbon cost of their visit, and that they try to maximise the benefit associated with that cost.
 
