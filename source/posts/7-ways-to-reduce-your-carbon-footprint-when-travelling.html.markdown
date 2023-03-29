@@ -1,6 +1,6 @@
 ---
 published: true
-title: 7 ways to reduce your carbon footprint when travelling
+title: 7 ways to reduce your travel footprint
 category: climate
 date: 2021-01-12T15:11:40.133Z
 cover_image: /images/uploads/lucas-wesney-landscape-woman-unsplash.jpg
