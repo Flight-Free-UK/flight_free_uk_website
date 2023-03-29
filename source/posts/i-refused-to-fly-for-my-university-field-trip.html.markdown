@@ -23,7 +23,9 @@ It takes a lot of conviction and guts to start bucking that trend. But that’s 
 
 “The field trip was to Morocco, and according to the WWF, the return flight would produce 2.2 tonnes of carbon dioxide – equivalent to the annual emissions of the average person in India. I try to do a lot of things to be more environmentally friendly, but that flight alone would have bumped up my carbon footprint for the year by a quarter. 
 
-“I told my course director before I had even applied that I would not be attending the field trip because it would involve flying. I was anxious about telling them as it was marketed as a compulsory degree component, and I was scared they would say that I had to go. To be honest, if that had been the case, I wouldn’t have applied for the course, even though I really wanted to! But they were completely supportive and began planning alternative activities for me. They even looked into overland travel to Morocco but in the end it was decided I would undertake an individual study here in the UK.”
+“I told my course director before I had even applied that I would not be attending the field trip because it would involve flying. I was anxious about telling them as it was marketed as a compulsory degree component, and I was scared they would say that I had to go. 
+
+"To be honest, if that had been the case, I wouldn’t have applied for the course, even though I really wanted to! But they were completely supportive and began planning alternative activities for me. They even looked into overland travel to Morocco but in the end it was decided I would undertake an individual study here in the UK.”
 
 The study, which focussed on environmental behaviours, included a public survey on behaviour change. Many of the people questioned said that they tried to reduce the amount they fly in order to limit their impact upon the environment.
 
