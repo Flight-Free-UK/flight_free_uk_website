@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free for 2021: Gope Walker"
+title: Gope
 category: testimonials
 date: 2021-01-18T12:17:39.537Z
 cover_image: /images/uploads/testimonial-gope.jpg
