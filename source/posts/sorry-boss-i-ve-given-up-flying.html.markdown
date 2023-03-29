@@ -46,18 +46,16 @@ I said, “Oh, heads up, for reasons obvious from the talk I gave the other day,
 
 It was a bit awkward. I had rehearsed what I wanted to say in my head countless times. The reasons for not flying are obvious from a justice and planetary perspective, but because flying is so cheap, it’s the obvious choice for a business. Quick fixes like carbon offsets or swapping to recycled printer paper are the things businesses look for, decisions someone else can make that doesn’t get in the way of making money, but can make the company look like it’s doing something good.
 
-A few months later my team’s facilitator was organising the team flight out to Romania to visit the contractors that we were working with. I realised that I would be expected to go, even though I’d said I wouldn’t be flying any more. When I reiterated this, my team facilitator said, “I thought that was only outside of work. I thought you might be able to make an exception as, you know, it’s work.” I politely refused, saying that whether I fly for work or for pleasure, it’s still other people’s lives at stake. I don’t like disappointing people, and although the conversation made me nervous before and rattled through my head for a while after, I was confident I’d done the right thing.
+A few months later my team’s facilitator was organising the team flight out to Romania to visit the contractors that we were working with. I realised that I would be expected to go, even though I’d said I wouldn’t be flying any more. 
 
-Before lockdown, the whole team was flying out to Romania (~1000 miles away) every other month. These whole-day meetings are good for team building and easier conversation, but that’s not at all worth it in my books. Each meeting has a carbon footprint larger than my entire year.
-
-##### To my mind, my choice is a form of nonviolent direct action that many of us can take to change our culture away from our fossil fuel addiction.
-
-The more people that also take this stance, wherever they possibly can, the more our culture and infrastructure will have to adapt to accommodate us. We've already seen this start to happen with the rise of vegan options and vegan restaurants. It’s basic economics: if we want to change the supply we need to change the demand.
-
-> "The more people that also take this stance, the more our culture and infrastructure will have to adapt to accommodate us."
+When I reiterated this, my team facilitator said, “I thought that was only outside of work. I thought you might be able to make an exception as, you know, it’s work.” I politely refused, saying that whether I fly for work or for pleasure, it’s still other people’s lives at stake. I don’t like disappointing people, and although the conversation made me nervous before and rattled through my head for a while after, I was confident I’d done the right thing.
 
 In the end, my company has been very accommodating. After a couple of awkward conversations with my team facilitator, I was not pressured again into flying for any reason. About eight months on my CEO actually changed company policy, not to allow groups larger than five to fly out anywhere, giving the climate emergency as a reason. I was astounded! I got to talk with him and support his decision. 
 
+The more people that take this stance, wherever they possibly can, the more our culture and infrastructure will have to adapt. We've already seen this start to happen with the rise of vegan options and vegan restaurants. It’s basic economics: if we want to change the supply we need to change the demand.
+
+> It’s basic economics: if we want to change the supply we need to change the demand.
+
 Since Covid hit, flying has stopped except for a few executives. So the company has been forced to invest in infrastructure to make working from home and international conference calls work well. Now we only need more people saying a hard no to flying. That will start the social change needed for us to stay with the green new normal.
 
-#### In general, people tend to avoid talking about the climate. They will often quickly change the topic about anything that involves personal change. I could easily have gone along with the crowd and continued to fly for work. And while I know it takes a lot more than personal change, I will live to my values, while also calling for corporate change. This was my small act of rebellion against a selfish and immoral business culture. We can all make our personal demands.
+In general, people tend to avoid talking about the climate. They will often quickly change the topic about anything that involves personal change. I could easily have gone along with the crowd and continued to fly for work. And while I know it takes a lot more than personal change, I will live to my values, as my small act of rebellion.
