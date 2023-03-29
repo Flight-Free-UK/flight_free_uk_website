@@ -30,19 +30,19 @@ But I think carbon offsetting is basically used as a coverup for us folk in rich
 
 We should be using our privilege to create system change for those without such privilege, and those in future generations that don’t even have a life yet, let alone a voice. Carbon offsetting doesn’t change the system, and it takes years to actually offset, while the devastation is already happening now.
 
-I could (like other colleagues) have said, "It's for work, so it doesn't count. I have to do it." I couldn't imagine trying to explain that to my children in 20 years time. My conscience wouldn't allow me to make such excuses. This was my opportunity to accept reality, and be the change. 
+I could (like other colleagues) have said, “It’s for work, so it doesn’t count. I have to do it.“ I couldn’t imagine trying to explain that to my children in 20 years’ time. My conscience wouldn’t allow me to make such excuses. This was my opportunity to accept reality, and be the change. 
 
-> I couldn't imagine trying to explain still flying to my children in 20 years time. My conscience wouldn't allow me to make such excuses.
+> I couldn’t imagine trying to explain still flying to my children in 20 years’ time. My conscience wouldn’t allow me to make such excuses.
 
-As a Christian, I aim to love my neighbour as myself. This means in all my decisions, I can’t choose an option that puts others in harm's way, when an option not to, or an option that is less harmful, is available. If I am choosing to do something that is directly contributing to the climate emergency, like flying, and therefore making life very difficult for millions of people around the world, when I could simply not fly, I am not being a true disciple.
+As a Christian, I aim to love my neighbour as myself. This means in all my decisions, I can’t choose an option that puts others in harm’s way, when an option not to, or an option that is less harmful, is available. If I am choosing to do something that is directly contributing to the climate emergency, like flying, and therefore making life very difficult for millions of people around the world, when I could simply not fly, I am not being a true disciple.
 
 ##### A couple of months later I told my team at work that I wouldn’t be flying again.
 
 This wasn’t much of a surprise as I’d given a talk to about half the company the month before about the global climate catastrophe. 
 
-I said, "Oh, heads up, for reasons obvious from the talk I gave the other day, I'm no longer flying. I realise that'll cause problems and I realise that my contract says that I need to be willing to travel but I'm no longer going to fly. I'm happy for it to be taken as high as it needs to be, but I'm more comfortable quitting than I am flying. I'm sorry for the annoyance and the problems that'll cause, but I don't think we should, so I'm not."
+I said, “Oh, heads up, for reasons obvious from the talk I gave the other day, I’m no longer flying. I realise that’ll cause problems and I realise that my contract says that I need to be willing to travel but I’m no longer going to fly. I’m happy for it to be taken as high as it needs to be, but I’m more comfortable quitting than I am flying. I’m sorry for the annoyance and the problems that’ll cause, but I don't think we should, so I’m not.“
 
-> "I'm more comfortable quitting my job than I am flying."
+> I told the boss, "I’m more comfortable quitting my job than I am flying." 
 
 It was a bit awkward. I had rehearsed what I wanted to say in my head countless times. The reasons for not flying are obvious from a justice and planetary perspective, but because flying is so cheap, it’s the obvious choice for a business. Quick fixes like carbon offsets or swapping to recycled printer paper are the things businesses look for, decisions someone else can make that doesn’t get in the way of making money, but can make the company look like it’s doing something good.
 
@@ -50,7 +50,7 @@ A few months later my team’s facilitator was organising the team flight out to
 
 Before lockdown, the whole team was flying out to Romania (~1000 miles away) every other month. These whole-day meetings are good for team building and easier conversation, but that’s not at all worth it in my books. Each meeting has a carbon footprint larger than my entire year.
 
-### To my mind, my choice is a form of nonviolent direct action that many of us can take to change our culture away from our fossil fuel addiction.
+##### To my mind, my choice is a form of nonviolent direct action that many of us can take to change our culture away from our fossil fuel addiction.
 
 The more people that also take this stance, wherever they possibly can, the more our culture and infrastructure will have to adapt to accommodate us. We've already seen this start to happen with the rise of vegan options and vegan restaurants. It’s basic economics: if we want to change the supply we need to change the demand.
 
@@ -61,9 +61,3 @@ In the end, my company has been very accommodating. After a couple of awkward co
 Since Covid hit, flying has stopped except for a few executives. So the company has been forced to invest in infrastructure to make working from home and international conference calls work well. Now we only need more people saying a hard no to flying. That will start the social change needed for us to stay with the green new normal.
 
 #### In general, people tend to avoid talking about the climate. They will often quickly change the topic about anything that involves personal change. I could easily have gone along with the crowd and continued to fly for work. And while I know it takes a lot more than personal change, I will live to my values, while also calling for corporate change. This was my small act of rebellion against a selfish and immoral business culture. We can all make our personal demands.
-
-God bless you with powerful positive impact in whatever actions you're doing, and with joy in the local wonders of this planet. 
-
-Eddie, [Christian Climate Action](https://christianclimateaction.org/).
-
-(thoughts and opinions are my own, thank you Anna for editing my ramblings)
