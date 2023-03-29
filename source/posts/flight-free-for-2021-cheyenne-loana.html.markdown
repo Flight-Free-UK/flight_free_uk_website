@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free for 2021: Cheyenne Loana"
+title: Cheyenne
 category: testimonials
 date: 2021-06-12T13:50:33.906Z
 cover_image: /images/uploads/testimonial-cheyenne.jpg
