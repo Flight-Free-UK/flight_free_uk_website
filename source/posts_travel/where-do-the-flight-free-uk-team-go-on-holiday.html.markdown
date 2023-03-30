@@ -1,7 +1,6 @@
 ---
 published: true
 title: Flight Free UK holidays!
-category: opinion
 date: 2021-08-31T11:48:27.664Z
 cover_image: /images/uploads/sunita_beachy-head.jpeg
 summary: "From cycling in Scotland to relaxing in Cornwall and everywhere in
