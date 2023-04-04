@@ -10,13 +10,7 @@ summary: >
 author: FlightFree UK
 read_time_minute: 6
 ---
-<!--StartFragment-->
-
-This is episode 4 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-turner/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)
-
-
-
-In this episode we meet Emily Turner, who came to internet fame earlier this year when she took advantage of the government's £2 bus scheme and rode local buses all the way from London to Edinburgh. 
+*This is episode 4 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-turner/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)*
 
 ### Emily 
 
@@ -28,7 +22,9 @@ Why do you love a bus so much?
 
 ### Emily 
 
-When I was at university in Canada I got a free bus pass. I was incredibly lonely and I was in a beautiful city on the ocean of Halifax, so I found it soothing to ride the buses. I’d put my headphones on and go wherever it took me. So when I moved to Britain I did the same thing. I once took every bus in London, which took way longer than I anticipated! I think if you’re not going anywhere in particular, you can put on a podcast or music and see where it takes you. It’s also particularly great on a double decker bus where you can see so far, explore unexpected places and go a lot further than if you were walking and see a lot more than when you are on a bike. 
+When I was at university in Canada I got a free bus pass. I was incredibly lonely and I was in a beautiful city on the ocean of Halifax, so I found it soothing to ride the buses. I’d put my headphones on and go wherever it took me. 
+
+So when I moved to Britain I did the same thing. I once took every bus in London, which took way longer than I anticipated! I think if you’re not going anywhere in particular, you can put on a podcast or music and see where it takes you. It’s also particularly great on a double decker bus where you can see so far, explore unexpected places and go a lot further than if you were walking and see a lot more than when you are on a bike. 
 
 ### Flight Free UK
 
@@ -36,9 +32,7 @@ There are many ways to get from London to Edinburgh, so where did the idea to ge
 
 ### Emily 
 
-I’d always wondered how far you could get on local buses. I’ve taken all the variations of routes to Edinburgh you mentioned and I like Edinburgh a lot as a destination. I’m a big theatre fan and have worked at the Fringe. Last year my partner and I rode our bikes from Newcastle to Berwick so I spotted the X18 bus that did that route. It’s such a long, beautiful bus. 
-
-
+I’d always wondered how far you could get on local buses. I’ve taken all the variations of routes to Edinburgh and I like Edinburgh a lot as a destination. I’m a big theatre fan and have worked at the Fringe. Last year my partner and I rode our bikes from Newcastle to Berwick so I spotted the X18 bus that did that route. It’s such a long, beautiful bus. 
 
 So I’d been saying I wanted to do this for ages, and with the government’s £2 fare scheme, it was going to make it way cheaper than it would have been otherwise. 
 
@@ -50,9 +44,7 @@ Let’s get into the details of the trip! 
 
 I was wary that Sunday and Saturday services aren’t great so I needed to get as far as I could on the Friday. I was also wary that in the winter at 5pm I could end up in the middle of nowhere, in the dark, without a hotel. I left at 5am, took a night bus just down the road to Manor House, then another to Enfield and then another to Potters Bar. Then to Luton and onwards. 
 
-
-
-I had some one minute interchanges that I doubted I would make and I definitely didn’t! But there was enough to make sure I got to where I needed to go.
+I had some one minute interchanges that I doubted I would make and I definitely didn’t! But there were enough options to make sure I got to where I needed to go. 
 
 ### Flight Free UK
 
@@ -76,7 +68,9 @@ Did you have a favourite part? 
 
 ### Emily
 
-Probably the Northumberland coast. I had the memories of cycling that route – the bus goes basically the route we cycled. It’s so beautiful up there. I also took the 840 on the Saturday which is apparently the most scenic bus in Britain. It was stunning. It goes from Leeds to Whitby, you go through all these valleys. I’ve heard people describe coaches around South America where you feel like you are going to fall off a cliff. It felt like that! Sadly the route between Derby and Chesterfield was quite dark by the time I was there but there are lots of stunning views there. It’s such a beautiful way to see so much of the country. 
+Probably the Northumberland coast. I had the memories of cycling that route – the bus goes basically the route we cycled. It’s so beautiful up there. 
+
+I also took the 840 on the Saturday which is apparently the most scenic bus in Britain. It was stunning. It goes from Leeds to Whitby, you go through all these valleys. I’ve heard people describe coaches around South America where you feel like you are going to fall off a cliff. It felt like that! Sadly the route between Derby and Chesterfield was quite dark by the time I was there but there are lots of stunning views there. It’s such a beautiful way to see so much of the country. 
 
 ### Flight Free UK
 
@@ -110,8 +104,6 @@ This trip was all about the journey rather than the destination. Is that your mo
 
 Definitely yes! A lot of people pointed out it’s going to be more expensive getting to Edinburgh this way, if you include the overnight stays. But that’s not why I did it. 
 
-
-
 Whenever I go to a new city I spend a lot of time on the public transport because it’s an interesting way to see the people and get such a feel for a place. I think it’s the most authentic way to see a city. 
 
 ### Flight Free UK
@@ -120,20 +112,12 @@ Should we look to home-grown adventures a bit more to satisfy our adventurous it
 
 ### Emily
 
-There are a lot of people that won’t see it as a real holiday, or an exciting adventure. But I had 22,000 people cheering me on on twitter, it was so exciting to them! I’ve had people message me since saying they’ve been inspired to do something similar. Life is so much better when you are excited and interested in your surroundings. 
+There are a lot of people that won’t see it as a real holiday, or an exciting adventure. But I had 22,000 people cheering me on on Twitter, so it was exciting to them! I’ve had people message me since saying they’ve been inspired to do something similar. Life is so much better when you are excited and interested in your surroundings. 
 
+*You can find Emily on Twitter: [@etwritehome](https://twitter.com/ETWriteHome)* 
 
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-turner/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)* 
 
-You can find Emily on Twitter: [@etwritehome](https://twitter.com/ETWriteHome) 
+*Credits:*
 
-
-
-Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-turner/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/) 
-
-Credits:
-
-Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music: [](https://uppbeat.io/t/dan-barton/the-executive-lounge) [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero) 
-
-
-
-<!--EndFragment-->
+*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music: [](https://uppbeat.io/t/dan-barton/the-executive-lounge) [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)*
