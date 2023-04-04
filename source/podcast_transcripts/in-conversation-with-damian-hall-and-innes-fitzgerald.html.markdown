@@ -2,7 +2,7 @@
 published: true
 title: In conversation with Damian Hall and Innes Fitzgerald
 date: 2023-03-13T21:12:56.825Z
-cover_image: /images/uploads/march.jpg
+cover_image: /images/uploads/mar23_podcast.jpg
 summary: Joining us this month are runners Innes Fitzgerald, who refused to fly
   to Australia for the world cross country championships, and Damian Hall,
   co-founder of Green Runners.
