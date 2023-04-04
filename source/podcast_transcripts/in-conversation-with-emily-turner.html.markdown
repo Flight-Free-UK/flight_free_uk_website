@@ -10,7 +10,7 @@ summary: >
 author: FlightFree UK
 read_time_minute: 6
 ---
-*This is episode 4 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-turner/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)*
+*This is episode 4 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-turner/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).*
 
 ### Emily 
 
