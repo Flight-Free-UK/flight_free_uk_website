@@ -2,7 +2,7 @@
 published: true
 title: In conversation with Helen Coffey
 date: 2023-02-03T22:01:41.272Z
-cover_image: /images/uploads/websitepodbean.jpg
+cover_image: /images/uploads/feb23_podcast.jpg
 summary: Helen Coffey, head of travel at The Independent, joins us to discuss
   her experience of taking the flight free pledge for the fourth year in a row. 
 author: FlightFree UK
