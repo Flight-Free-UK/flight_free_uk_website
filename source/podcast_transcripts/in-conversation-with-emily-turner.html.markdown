@@ -116,7 +116,7 @@ There are a lot of people that won’t see it as a real holiday, or an exciting 
 
 *You can find Emily on Twitter: [@etwritehome](https://twitter.com/ETWriteHome)* 
 
-*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-turner/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)* 
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-emily-turner/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).* 
 
 *Credits:*
 
