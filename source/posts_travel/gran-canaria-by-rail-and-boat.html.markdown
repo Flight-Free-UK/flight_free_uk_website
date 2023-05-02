@@ -1,16 +1,14 @@
 ---
 published: true
 title: Cardiff to Gran Canaria
-category: travel
 date: 2019-07-22T12:48:15.477Z
 cover_image: /images/uploads/gran_canaria_canva.jpg
 summary: Professor Trevor Dale shares his experience of an overland trip to Gran
   Canaria, a journey that the vast majority of people make by air
 author: FlightFree UK
 read_time_minute: 3
+category: travel
 ---
-
-
 ### I’d promised my Dad I'd visit him in Gran Canaria, where he moved over 20 years ago, to celebrate his 80th birthday. On previous visits we’ve always flown, but this time we were determined to travel without flying.
 
 Gran Canaria is one of Spain’s volcanic Canary Islands off the coast of North West Africa and was Christopher Columbus’s stopping off point on his trips to the Americas. Nowadays it is best known as a tourist destination. The mountainous interior of Gran Canaria offers a dramatic and at times austere landscape that contrasts with the ring of coastal settlements, the preferred destination for the 4.5 million tourists who contribute over 80% of the island’s GDP.
@@ -29,8 +27,8 @@ Without a doubt the trip was more expensive than flying. The return trains from 
 
 The best part of the trip, apart from spending five brilliant days with my Dad, was the travel itself. It's the little stories that decorate an adventure: being in Barcelona for the celebrations the night they won the Spanish League title, a misunderstanding over seat bookings that Microsoft Translator converted into an amusing discussion of ‘Blue Cranes’ and the fantastic people you meet on the way.
 
-> "The best part of the trip, apart from five days with my Dad, was the travel itself. It's the little stories that decorate an adventure."
+> The best part of the trip, apart from five days with my Dad, was the travel itself. It's the little stories that decorate an adventure.
 
 The most compelling reason for not flying is of course avoiding contributing to climate breakdown. 
 
-#### But more than the reduced carbon footprint, not flying has taught me to value the journey as much as the destination.
+##### But more than the reduced carbon footprint, not flying has taught me to value the journey as much as the destination.
