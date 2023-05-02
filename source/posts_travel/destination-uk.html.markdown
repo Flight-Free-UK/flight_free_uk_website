@@ -7,7 +7,7 @@ summary: Here are our top 10 picks for holidays in England, Scotland and Wales.
 author: FlightFree UK
 read_time_minute: 3
 ---
-### England
+## England
 
 #### 1. Camber Sands
 
@@ -45,7 +45,7 @@ Boasting over 1,400 miles of natural beauty, this enchanting region of Yorkshire
 
 Both [rail](https://www.nationalrail.co.uk/) and coach ([National Express](https://www.nationalexpress.com/en) and [Coastliner](https://www.transdevbus.co.uk/coastliner/)) services stop at the many towns surrounding the North York Moors National Park, including York, Malton and Whitby. In addition to public transport, there are some fantastic [walking](https://www.northyorkmoors.org.uk/visiting/enjoy-outdoors/walking/our-walks) and [cycling](https://www.northyorkmoors.org.uk/visiting/enjoy-outdoors/cycling) routes that allow travellers to reach those far-flung, unexplored places inaccessible by car.
 
-### Scotland
+## Scotland
 
 #### 7. Edinburgh
 
@@ -63,7 +63,7 @@ Oban is the 'Gateway to the isles' and can be accessed by train from Glasgow. Th
 
 Head to the hillside fishing village of Mallaig for access to Skye, as well as to the Small Isles of Eigg, Rum and Muck. The train from Glasgow crosses the famous Glenfinnan viaduct, used by the Hogwarts Express in the Harry Potter films.
 
-### Wales
+## Wales
 
 #### 9. Porthmadog
 
