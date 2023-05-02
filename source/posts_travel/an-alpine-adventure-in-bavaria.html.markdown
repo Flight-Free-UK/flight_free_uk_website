@@ -11,9 +11,9 @@ category: travel
 ---
 ![Flowers in front of a lake, with mountains in the background](/images/uploads/bavarian_alps_swoolfe.jpg "The Bavarian Alps – Lake Alpsee")
 
-## A year ago, I cancelled a flight I had booked to Greece.
+### A year ago, I cancelled a flight I had booked to Greece.
 
-### I had seen the latest climate report from the IPCC and learned about the impacts of aviation, and I felt it was [hard to justify flying just to go on holiday](https://www.samwoolfe.com/2021/08/flying-in-an-age-of-climate-breakdown.html).
+##### I had seen the latest climate report from the IPCC and learned about the impacts of aviation, and I felt it was [hard to justify flying just to go on holiday](https://www.samwoolfe.com/2021/08/flying-in-an-age-of-climate-breakdown.html).
 
 Taking flights supported something I knew was damaging, and out of concern for an ever-deteriorating climate, I felt it was important to have my actions reflect that concern. 
 
@@ -59,6 +59,6 @@ Giving up flying is a sacrifice in one sense, but it offers definite gains as we
 
 Being able to enjoy travel without the guilt that comes from flying is a personal benefit as well, but more important than this are the actual environmental benefits involved. 
 
-### In a time where many countries (including the UK) have felt the brunt of record-breaking temperatures, these benefits can’t be emphasised enough. 
+##### In a time where many countries (including the UK) have felt the brunt of record-breaking temperatures, these benefits can’t be emphasised enough.
 
 *Sam Woolfe is a freelance writer based in London. You can find more of his work on his [website](https://www.samwoolfe.com/) and follow him on [Twitter](https://twitter.com/samwoolfe).*
