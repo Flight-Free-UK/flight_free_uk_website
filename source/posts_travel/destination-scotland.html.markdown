@@ -125,7 +125,7 @@ It promised to be the ultimate adventure, with plenty of hiking, climbing and ka
 
 ![Picture shows a tiny frog resting on someones hand. In the background is blurred greenery. ](/images/uploads/lochan-trail-2-min.jpg "Lochan trails")
 
-No trip to Glencoe is complete without visiting Ben Nevis. After hiking the first half an hour I left my friends to tackle the rest of the climb and drove with my boyfriend along Glen Nevis for a quieter walk to the [Steall Falls](https://visitfortwilliam.co.uk/about-ben-nevis-in-fort-william-and-ben-nevis-webcam/steall-falls-walk-in-glen-nevis-gorge-ben-nevis). We’d escaped the crowds at Ben Nevis to discover a beautiful valley filled with gorse, wild flowers and cascading streams. I rested and took in the views of the waterfall, leaving the precarious high-wire bridge to my boyfriend.
+No trip to Glencoe is complete without visiting Ben Nevis. After hiking the first half an hour I left my friends to tackle the rest of the climb and drove with my boyfriend along Glen Nevis for a quieter walk to the [Steall Falls](https://visitfortwilliam.co.uk/pages/a-great-low-level-walk-in-glen-nevis-fort-william-bbb0fbcc). We’d escaped the crowds at Ben Nevis to discover a beautiful valley filled with gorse, wild flowers and cascading streams. I rested and took in the views of the waterfall, leaving the precarious high-wire bridge to my boyfriend.
 
 Being immersed in the sounds, scents and sights of wildlife, rivers and forests was a welcome break from city life. We learned about the history of the area from the little folk [museum](https://www.visitscotland.com/info/see-do/glencoe-folk-museum-p246611), the Glencoe Massacre Memorial Site and Signal Rock, which was fascinating.
 
