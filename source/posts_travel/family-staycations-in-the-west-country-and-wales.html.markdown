@@ -1,7 +1,6 @@
 ---
 published: true
 title: West country and Wales
-category: travel
 date: 2019-08-20T11:14:07.108Z
 cover_image: /images/uploads/glastonbury_tor_canva.jpg
 summary: "Elizabeth Roper lives with her family in the South Cotswolds, and
@@ -9,12 +8,13 @@ summary: "Elizabeth Roper lives with her family in the South Cotswolds, and
   the world "
 author: FlightFree UK
 read_time_minute: 5
+category: travel
 ---
 ![](/images/uploads/family-travel-1.jpg)
 
 ### As a working mum on a modest budget I am perhaps lucky that I do not have to curtail my family’s holiday plans for the sake of our poorly planet.
 
-I have not flown for 21 years. We took the train to Barcelona on our honeymoon in 2007, and since then have not left our shores. 
+##### I have not flown for 21 years. We took the train to Barcelona on our honeymoon in 2007, and since then have not left our shores. 
 
 I think a little secret to finding excitement with the sometimes over-familiar Britain is to look a little beyond the usual resorts and destinations and find real adventures in the familiar places just by learning more. 
 
@@ -22,7 +22,7 @@ As a museums researcher, married to an archaeologist, I do maintain that if it i
 
 ![](/images/uploads/family-travel-2.jpg "A hill top walk at National Trust Dyrham Park, near Bath ")
 
-> "If it is something new and refreshing that you seek, then I suggest that you look no further than the stories and sites of our own native culture."
+> If it is something new and refreshing that you seek, then I suggest that you look no further than the stories and sites of our own native culture.
 
 Whilst we have the benefit of a 9-year-old with a massive imagination, he, like children generally, cannot be relied upon to explore museums, galleries or historic sites with the greatest level of concentration. As a result, we chose some places to visit where he might be able to learn a little, and play a lot. 
 
@@ -30,7 +30,7 @@ We live in Wotton Under Edge in the South Cotswolds. Bristol is a 30 minute driv
 
 Over the Severn, the Forest of Dean is great for family cycling, caves and the wonderful folk culture of the Dean Heritage Centre trails and exhibits. Just 40 minutes from us is the beautiful Wye Valley and my personal place of pilgrimage, Tintern Abbey.
 
-> "We chose some places to visit where our 9-year-old might be able to learn a little, and play a lot."
+> We chose some places to visit where our 9-year-old might be able to learn a little, and play a lot.
 
 Being loosely West Country based, we are close to the Severn bridges into south Wales. “Over the bridge” await all the glorious adventures of Welsh heritage. The ‘second Severn crossing’ to Newport, Cardiff and beyond is now toll free, and the beaches of the South Wales coast are within easy distance for a day’s fix of the ocean. Beyond Bridgend, the Bristol Channel is wide, wild and blue and has become a favourite haunt. 
 
@@ -38,7 +38,7 @@ Our favourite spot is Southerndown Beach in Dunraven Bay, CF32 0RT. When the tid
 
 Public access is allowed for a modest parking charge. It is a Blue Flag beach with good water quality and there is a Lifeguard Station. The author accepts no responsibility for the reader's safety on the beach, but everything is in place for a wonderful day! There is small takeaway booth with pasties and ice creams. Southerndown is an excellent surfing beach, with a shallow shelf suitable for safe body/boogie boarding. 
 
-> "Beyond Bridgend, the Bristol Channel is wide, wild and blue and has become a favourite haunt."
+> Beyond Bridgend, the Bristol Channel is wide, wild and blue and has become a favourite haunt.
 
 While you are at the beach, you may notice the spectacular cliffs. Dunraven Bay is on the Glamorgan Heritage Coast and the fascinating geology of the area is fully explored in the Heritage Coast Visitor Centre (free), just two minutes walk from the beach. The Centre is well set up for children with digital games to play and paper-based wildlife trails to pick up. 
 
@@ -52,7 +52,7 @@ Slightly closer to home, we enjoy kite-flying at Coaley Peak (free) near Stroud.
 
 My last, brief recommendation is the glories of WWT (Wildfowl and Wetland Trust), Slimbridge. This has a rightful claim to the birthplace of nature conservation in the UK. Today, Sir Peter Scott’s detailed observations of migrating birds on the tidal Severn Estuary have inspired a wonderful visitor attraction, which acts as a gateway to nature conservation philosophy for young families. There are waterfowl, otters, amphibians, talks, walks and the peaceful and inspiring bird hides looking out over the wetlands. My son loves to spot the star of the show in the Kingfisher Hide. 
 
-> "There are waterfowl, otters, amphibians, talks, walks and the peaceful and inspiring bird hides looking out over the wetlands."
+> There are waterfowl, otters, amphibians, talks, walks and the peaceful and inspiring bird hides looking out over the wetlands.
 
 ![](/images/uploads/family-travel-7.jpg "WWT Slimbridge Canoe Safari")
 
@@ -62,4 +62,4 @@ Some websites to recommend, as I realise I could write a book on what I love abo
 
 Isambard Kingdom Brunel’s Bristol Temple Meads station is a destination in itself! (Find out more at the Great Western Railway [website](https://www.gwr.com/))
 
-#### **Happy travels – and be green where you can!**
+##### **Happy travels – and be green where you can!**
