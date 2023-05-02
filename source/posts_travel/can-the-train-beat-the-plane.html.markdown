@@ -1,7 +1,6 @@
 ---
 published: true
 title: Bristol to Edinburgh
-category: travel
 date: 2020-03-13T18:19:47.669Z
 cover_image: /images/uploads/edinburgh_canva.jpg
 summary: The eco-credentials of trains are widely known, but what about the cost
@@ -9,16 +8,17 @@ summary: The eco-credentials of trains are widely known, but what about the cost
   from Bristol to Edinburgh by train to find out.
 author: FlightFree UK
 read_time_minute: 7
+category: travel
 ---
-## Bristol to Edinburgh is just the kind of journey where low cost airlines have been cleaning up.
+### Bristol to Edinburgh is just the kind of journey where low cost airlines have been cleaning up.
 
-### Economists reckon that customers will choose to fly for any journey over five hours, and with a journey time of around 5 3/4 hours, Bristol to Edinburgh is certainly that. 
+##### Economists reckon that customers will choose to fly for any journey over five hours, and with a journey time of around 5 3/4 hours, Bristol to Edinburgh is certainly that.
 
 For the last twenty years I have lived first in Bristol, then Edinburgh, then Bristol again. I’ve made dozens of journeys between them, mostly by plane, and I’ve seen both airports expand insatiably in that time.
 
 Since we moved back to Bristol when our son was three, we have travelled to Edinburgh every year to see our old friends. My flight shame has been building for years, but I took it as read that flights were cheaper and quicker. It seemed unreasonable to ask my family to pay more for their trip. Last year I reached a tipping point and became determined that next time I booked a trip to Edinburgh, it would be by train.
 
-> "I became determined that next time I booked a trip to Edinburgh, it would be by train."
+> I became determined that next time I booked a trip to Edinburgh, it would be by train.
 
 We chose a long weekend in February half term for our trip. I was travelling with my husband and our 11-year-old climate-activist son, T. To make the most of the views and the changing scenery we planned to arrive in Edinburgh before dark, and though it’s possible to be in Edinburgh by lunchtime if you are prepared to leave Bristol at 0632, we went for the more leisurely mid-morning departure.
 
@@ -44,7 +44,7 @@ So how does the train compare with flying? Undoubtedly, the train takes longer. 
 
 Having said that, flying doesn’t always go smoothly. Twice I have had to wait over an hour for a taxi at Bristol airport, and once our flight was delayed by six hours because of snow on the runway. Whether you fly or take the train, delays are all too common. But the main consideration is that the concentrated time on the train is ideal for relaxing, reading and chatting, where time at the airport is full of stress and distraction.
 
-> "The concentrated time on the train is ideal for relaxing, reading and chatting. Time at the airport is full of stress and distraction." 
+> The concentrated time on the train is ideal for relaxing, reading and chatting. Time at the airport is full of stress and distraction. 
 
 As for cost, our train tickets cost £288.40 including a booking fee. That was for flexible off-peak return tickets that could be used on any train. We made the most of the flexibility and travelled home via the east coast, for a whole new set of vistas and cities: the famous Tyne bridges in Newcastle, Durham Cathedral, Sheffield steelworks and the flooded midlands where swans and herons presided over newly-created glassy lakes. 
 
@@ -52,12 +52,12 @@ Had we needed to cancel, we could have done so for a £10 fee. Our Family and Fr
 
 Airlines advertise Bristol to Edinburgh fares of just £21 each way, but those fares aren’t available on a Friday in the school holidays. For our journey the total cost for our party of three would have been £237.94. We would have had to add around £55.00 for buses to and from the airport at each end (more for taxis), giving a total cost of £293. There are also extra fees each way to reserve your seats or check a bag. And flexible tickets cost much, much more. On this occasion, the train wins on price.
 
-> "On this occasion, the train wins on price." 
+> On this occasion, the train wins on price.
 
 Perhaps the only comparison that ought to matter is carbon emissions. In *[How Bad are Bananas?](https://www.waterstones.com/book/how-bad-are-bananas/mike-berners-lee/9781846688911)* Mike Berners-Lee estimated that, for a similar length of journey, the train’s emissions are about one third of flying. The carbon intensity of our electricity has halved since that book was written, though this journey is at least partly by diesel train. To keep your emissions as low as possible choose the west coast route and travel standard class.
 
 I think many of us have fallen for the low-cost airlines’ own publicity when it comes to the cost of flying. Trains are not always more expensive, and, on key inter-city routes, may not be that much slower. Airlines rarely acknowledge the environmental cost, except to suggest that offsetting could make your flight carbon neutral – although there are [huge problems](https://flightfree.co.uk/post/the-truth-about-carbon-offsets/) associated with that.
 
-### But we would do well to remember that part of the joy of travel is the experience of getting there, not just the act of arrival. 
+##### But we would do well to remember that part of the joy of travel is the experience of getting there, not just the act of arrival.
 
-## And to really experience our country: the size of it, and the variety of its landscapes, the train can’t be beaten.
+##### And to really experience our country: the size of it, and the variety of its landscapes, the train can’t be beaten.
