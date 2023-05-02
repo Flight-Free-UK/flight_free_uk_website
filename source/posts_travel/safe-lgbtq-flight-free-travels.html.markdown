@@ -75,6 +75,6 @@ Getting to Portugal by train is a fairly long journey that might require a stop 
 
 The ferry from Plymouth to Santander or Bilbao can be useful here, and from there you can pick up a rail or coach connection to Vigo, Porto and Lisbon. 
 
-### Happy Pride Month! 
+## Happy Pride Month! 
 
 *For all details about travelling to these countries (and more!) without flying, visit [seat61.com](https://www.seat61.com/index.html). The [Flixbus website](https://www.flixbus.co.uk/) will tell you if there are coaches to your desired destination. Train tickets can be booked on [Rail Europe](https://raileurope.com/).*
