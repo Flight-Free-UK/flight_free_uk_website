@@ -11,9 +11,9 @@ category: travel
 ---
 ![Sunita lies back on the windscreen of the van with a loch in the background and low white cloud](/images/uploads/scotland-roadtrip-vanlife.jpg "Sunita and the van")
 
-### Day 1: Harrogate to Loch Lomond
+## Day 1: Harrogate to Loch Lomond
 
-##### 230 miles
+#### 230 miles
 
 Depending on where you’re starting from, the journey to Scotland can be long! Think about your timeframe, be realistic and be safe. We set off from Harrogate in North Yorkshire and were confident that we could reach Loch Lomond the same day, but you could stop off in the gorgeous Lake District on the way, or stay in a city like Glasgow or Edinburgh, which is also a great shout if you want to stock up on anything before getting into more remote areas. 
 
@@ -21,13 +21,13 @@ We made a beeline for Milarrochy Bay on the eastern side of the loch, which was 
 
 An added bonus which all ‘vanlifers’ will appreciate is that the toilets are very spacious, there’s hot running water and the disabled toilet is left unlocked overnight so you always have access, which as we know is incredibly handy when on the road!
 
-**Sleep: free parking at Milarrochy Bay, Loch Lomond** 
+#### **Sleep: free parking at Milarrochy Bay, Loch Lomond** 
 
 *Tip: Download the ‘Park4Night’ app to read and leave peer-to-peer reviews about great parking spots for a restful and unbothered night’s sleep in your campervan. It’s an absolute must if you’re planning on finding nice spots to camp in, while remaining respectful of the beautiful environment.* 
 
-### Day 2: Loch Lomond to Oban
+## Day 2: Loch Lomond to Oban
 
-##### 90 miles
+#### 90 miles
 
 It’s important to break up the day with rest stops, and our first stop was Firkin Point, about halfway up Loch Lomond on the western side. To get there, we had to drive around a large part of Loch Lomond, giving us our first taste of scenic driving in Scotland. The main road (A82) goes right next to the loch, so there are incredible views of the water and across to the mountains on the other side. 
 
@@ -43,13 +43,13 @@ Oban is one of the busier areas we visited on this trip. It’s a bustling fishi
 
 Once we arrived in Oban we took ourselves for a casual jaunt around the town, then walked up to McCaig’s Tower, the large circular fort that overlooks the town from near the top of the hill. It’s well worth the climb for the peace and solitude as well as the incredible view over Oban Bay, and we were treated to the most striking pink sunset. 
 
-**Sleep: car park.**
+#### **Sleep: car park.**
 
 We stayed in the Rugby Club car park which was not exactly glamorous but it was quiet and safe nestled near residential roads, and only a short away from the main town. 
 
-### Day 3: Oban to Isle of Mull 
+## Day 3: Oban to Isle of Mull 
 
-##### 20 miles
+#### 20 miles
 
 *Tip: If you’re travelling as a foot passenger, you don’t need to worry too much about grabbing a space on the ferry, but if you’re taking your campervan to the Isle of Mull, it’s much less stressful to book your place on the ferry the day before, and work out where to drive in at the port. We also rang the campsite the day before to make sure they had space.* 
 
@@ -59,15 +59,15 @@ Mull is a beautiful island with lots of wildlife, gorgeous single track roads an
 
 ![There's a low sun over a field with sheep](/images/uploads/scotland-roadtrip_pennygowan-campsite.jpg "Pennygowan campsite, Isle of Mull")
 
-**Sleep: Pennygown Holiday Park.** 
+#### **Sleep: Pennygown Holiday Park.** 
 
 You’re not meant to wild camp on the Isle of Mull, and being fully respectful of Scotland’s nature and conservation efforts, we booked a van pitch for two nights at £25 a night. On our first evening we were privy to another glorious sunset with a full end-to-end rainbow… talk about a magical place! It was an incredible place to sleep.
 
 *Tip: Staying in a campsite is a good thing to do halfway through a road trip to enjoy a warm shower, wash your pans properly and catch up with laundry if you need to. We didn’t actually need to do anything other than shower at this point, but it’s great to have the option. The owner also tipped us off on a scenic route we might not have found out about!*
 
-### Day 4: Staffa and Iona
+## Day 4: Staffa and Iona
 
-##### 45 miles out/40 miles back
+#### 45 miles out/40 miles back
 
 We took the main route (A849) around the south part of the island, heading to Fionnphort to get the ferry to Iona. It’s a fair drive along single-track roads, so we allowed ourselves plenty of time.
 
@@ -83,9 +83,9 @@ Once back on Mull we took a different route back to the campsite, as recommended
 
 We then followed the banks of the spectacular Loch na Keal. This has to be one of our favourite moments of the trip; we saw deer, owls, birds of prey, cattle, horses and lots of sweet little lambs. This road is long and windy, and seemingly endless. At one point, we thought it was never going to end (and we didn’t want it to either!) Just when you thought it might all be over, we’d round another corner and something else magnificent would come into view. The water and misty air made it epic in every sense of the word. This could be one of the best and most memorable scenic roads I’ve ever travelled on. 
 
-### Day 5: Isle of Mull to Dallachulish
+## Day 5: Isle of Mull to Dallachulish
 
-##### 46 miles
+#### 46 miles
 
 With an evening ferry booked, we could spend a bit more time exploring Mull, so we headed to the northern part of the island, towards Tobermory. We visited the beautiful cows and gorgeous glass house cafe at the Isle of Mull Cheese farm, before heading over to stroll along the famous waterfront at Tobermory. We’re not one for souvenirs but after Charlie fell in love with the puffins in Staffa and as we only had one mug in the van, we’d been keeping an eye out for the perfect puffin mug, and it was here we found a beautiful tin one.  
 
@@ -93,13 +93,13 @@ With an evening ferry booked, we could spend a bit more time exploring Mull, so 
 
 The evening ferry was spectacular with an amazing light falling on the water, and after arriving back on the mainland we drove a little way north to find a spot to park up for the night. If you like bridges, this is your chance to drive over the remarkable Connel Bridge. 
 
-**Sleep: lay-by at Loch Creran** 
+#### **Sleep: lay-by at Loch Creran** 
 
 We rested up on the A828, a wonderfully quiet road with several spacious lay-bys. It was pitch black right next to a beautiful loch with only the sounds of owls and leaves rustling in the wind. 
 
-### Day 6: Dallachulish to Glen Coe
+## Day 6: Dallachulish to Glen Coe
 
-##### 26 miles
+#### 26 miles
 
 After a morning coffee at Castle Stalker view (a lovely cafe on the A828) we parked up at the Glen Coe Visitor Centre, near to Glencoe village. It was a great place to start our exploration of the area: we learned about the infamous massacre and how mountain climbing in Scotland has developed over the decades. The building itself is lovely, and if you need to do any research or catch up with anything online, there is a space to plug in, charge up and do whatever you need to do. 
 
@@ -121,11 +121,11 @@ Time went on, it started to rain and darkness fell, and we were starting to worr
 
 A happy ending for all involved. We went back to the van but it was too late, too wet and too dark to hike or drive somewhere else so we decided to stay overnight in the Three Sisters car park.
 
-**Sleep: Three Sisters Viewpoint car park, Glen Coe**
+#### **Sleep: Three Sisters Viewpoint car park, Glen Coe**
 
-### Day 7: Glen Coe to Glenfinnan 
+## Day 7: Glen Coe to Glenfinnan 
 
-##### 40 miles
+#### 40 miles
 
 Our unexpected overnight stop turned out to be perfect, as we could start the morning with the Lost Valley walk, a two-mile hike down a nearby gulley, which was absolutely incredible! It involved a funky river crossing which was exciting but not for the faint-hearted as the water was running fast… 
 
@@ -145,9 +145,9 @@ Rather than sit in the van for hours, we found a nearby place to have a lovely d
 
 Dinner at the hotel was another perfect moment; if Scotland is always like this, I’d like to move here! 
 
-### Day 8: Fort William to Harrogate
+## Day 8: Fort William to Harrogate
 
-##### 330 miles
+#### 330 miles
 
 With the van fixed by midday, we set out for the long drive back to England, bringing an end to our beautiful and epic Scottish adventure. We had an amazing time, and we'd definitely do it again. I feel much more connected to the UK now, having seen more of it.
 
@@ -155,6 +155,6 @@ Many of us are brought up with romantic narratives about road tripping around Am
 
 It’s obvious that we have to fly less, but that's not a bad thing; it means we appreciate what’s around us and become so much more engaged with our local areas. 
 
-##### A road trip in Scotland is a great flight-free trip and I recommend it whole-heartedly.
+#### A road trip in Scotland is a great flight-free trip and I recommend it whole-heartedly.
 
 ![a river rushes over some rocks in the Lost Valley Walk](/images/uploads/scotland-roadtrip_lost-valley-walk.jpg "Lost Valley Walk, Glen Coe")
