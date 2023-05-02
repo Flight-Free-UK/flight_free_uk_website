@@ -1,29 +1,29 @@
 ---
 published: true
 title: Six weeks of a British summer
-category: travel
 date: 2022-03-20T09:51:01.351Z
 cover_image: /images/uploads/cairngorms_heather_ahughes.jpg
 summary: "If you had six weeks to go travelling, where would you go? Eddie
   picked somewhere he'd not really explored before: the UK."
 author: FlightFree UK
 read_time_minute: 6
+category: travel
 ---
 *Cover image: heather in the Cairngorms*
 
-## Five years ago I spent several months travelling around the Philippines, New Zealand, Australia, Thailand and Cambodia, to fill a gap between finishing one job and starting another.
+### Five years ago I spent several months travelling around the Philippines, New Zealand, Australia, Thailand and Cambodia, to fill a gap between finishing one job and starting another.
 
-### It took going to the other side of the world for me to realise that I should really explore more of the cluster of islands where I grew up: the British Isles. Saving up so much money to go to the opposite side of the planet didn’t really make much sense.
+##### It took going to the other side of the world for me to realise that I should really explore more of the cluster of islands where I grew up: the British Isles. Saving up so much money to go to the opposite side of the planet didn’t really make much sense.
 
 Fast forward five years, and I now had another between-jobs opportunity, with five weeks of leave accrued from the job I was about to leave, and a delayed start on my new job, giving me six weeks to explore. 
 
-> "Saving up so much money to go to the opposite side of the planet didn’t really make much sense."
+> Saving up so much money to go to the opposite side of the planet didn’t really make much sense.
 
 By this point I had already decided to quit flying, having realised the extent of the climate emergency, and the massive emissions that come from travelling by air. Where else would I spend my six weeks but in Great Britain?
 
 The hardest part was deciding where to go and what to do. I love nature, so whale and dolphin spotting in the Hebrides was on the list. But then there were new adventure sports to try and old ones that I would love to do again: coasteering, canyoning, sea kayaking, kitesurfing, bungee jumping, rock climbing… 
 
-> "Where else would I spend my six weeks but in Great Britain?"
+> Where else would I spend my six weeks but in Great Britain?
 
 Or maybe something more gentle, like fell-walking, fishing, foraging, wild camping, or even a silent retreat? And don’t forget the world class distilleries, breweries, museums, music festivals, castles and other heritage sites to be found all over the UK.
 
@@ -31,7 +31,7 @@ With so much choice, I kept putting off making a plan, only deciding at the last
 
 The Caledonian Sleeper took me to Edinburgh, and from there it was a daytime train to Aviemore. The scenic views rushing past the train windows were wonderful, and it was reviving to be back in the countryside and to see mountains again (“Mountains, Gandalf!”).
 
-> "There’s something incredible about being in the mountains." 
+> There’s something incredible about being in the mountains.
 
 I spent several days deep inside the Cairngorms, sleeping in bothies, wild-camping and bagging five or six Munros a day. There’s something incredible about being in the mountains. I love the achievement of climbing, and the freedom to go wherever you choose. When drinking from springs, summiting mountains and wild camping there’s a visceral sense of primitive freedom, especially when you are days from civilisation. 
 
@@ -39,7 +39,7 @@ The mountains are full of surprises: a beautiful view, some wild deer chilling w
 
 Like with any walking, you have plenty of time to process all of your stored-up thoughts, or just turn your brain off as you put one foot in front of the other. It’s just what I needed when most of my life is spent cooped up in cities staring at computers. 
 
-> "It’s just what I needed when most of my life is spent cooped up in cities staring at computers." 
+> It’s just what I needed when most of my life is spent cooped up in cities staring at computers. 
 
 A swampy puddle on day one had turned out to be a lot deeper than I expected, and I went in half way up my leg. Then not stopping to fully dry everything out properly, or really managing my wet feet at all, meant that after a few days some trench foot set in! Walking at all was painful. So I retreated out of the Cairngorms, then hopped on a train to Edinburgh for a little foot recovery time in the great indoors.
 
@@ -47,7 +47,7 @@ As luck would have it, the Edinburgh Fringe was on, so I spent a few days exerci
 
 After a delicious meal out with the very friendly Czech couple I’d met in my dorm, and a tipple of Becherovka, I caught the sleeper train back south to base camp. Less than 24 hours later all my stuff was washed and repacked, ready for my next adventure: a weekend being a roadie at [David’s Tent festival](https://www.davidstent.net/uk-summer-festival) in West Sussex. 
 
-> "Less than 24 hours later all my stuff was washed and repacked, ready for my next adventure."
+> Less than 24 hours later all my stuff was washed and repacked, ready for my next adventure.
 
 I’ve volunteered at this festival pretty much every year for the last five years, and it’s always one of the highlights of my year: helping the bands on and off stage, sorting out equipment, and being on hand to help with any problems. I always have a good laugh with the backstage team, and there’s an incredible community among the hundreds of volunteers.  And of course, the music is awe-inspiring. After a wonderful five days it was back to base camp again to organise the next two weeks before the family gathering. 
 
@@ -57,7 +57,7 @@ The next week was spent alternating between walking the stunning Pembrokeshire C
 
 I ended up in Fishguard, where I could have grabbed a ferry to Ireland if I’d had a bit more time, but it was time to head to north Wales to meet up with the family. On the way I stopped at an old friend’s new house in Cheltenham, always a pleasure. 
 
-> “Snowdonia is breathtaking. Everywhere you look is another magnificent view.”
+> Snowdonia is breathtaking. Everywhere you look is another magnificent view.
 
 Snowdonia is breathtaking. Everywhere you look is another magnificent view. We found some charming lakes and an impressive 73m waterfall too: Pistyll Rhaeadr, the 7th biggest in the UK. As well as lots of walking, we spent a day hiring bikes and cycling down to the sea. I hope to go back to the area soon to do the Welsh 3000s with a friend, a challenge that involves climbing all the mountains in Wales higher than 3000ft in 24 hours.
 
@@ -67,12 +67,12 @@ At last it was back to base camp for the final time to prepare for starting my n
 
 Trying not to sound too much like a travel agent, mainly that there are so many more adventures to be had here in the UK than I’d ever realised. So many things I’d presumed were only available in more exotic destinations are available right here on our doorstep. A lot of the scenery is far more stunning than I expected, and I’ve still never even stepped foot in Ireland! There’s so much more to discover. 
 
-> “So many things I’d presumed were only available in more exotic destinations are available right here on our doorstep.”
+> So many things I’d presumed were only available in more exotic destinations are available right here on our doorstep.
 
 I could easily have spent the six weeks just walking or Munro-bagging or surfing or learning a couple of new extreme sports – I’ve hardly scratched the surface of all there is to do. 
 
 I think we overlook Britain when we’re planning our holidays, but my trip turned out to be even better than I’d hoped. The weather was surprisingly good too, and some sunburn even managed to sneak through my factor 50+. It was great to do nearly all of it by train, by bike, or on my own two feet. 
 
-#### Ample adventures accomplished and many memories made, and all without it costing the earth.
+##### Ample adventures accomplished and many memories made, and all without it costing the earth.
 
 *Written by Eddie Latimer. You can read more from Eddie [here](/post/sorry-boss-i-ve-given-up-flying).*
