@@ -1,7 +1,6 @@
 ---
 published: true
 title: A Yorkshire adventure
-category: travel
 date: 2020-05-19T16:06:40.121Z
 cover_image: /images/uploads/alastair_humphreys.jpg
 summary: On a mission to fly less, round-world cyclist Alastair Humphreys sought
@@ -9,12 +8,11 @@ summary: On a mission to fly less, round-world cyclist Alastair Humphreys sought
   home county of Yorkshire.
 author: FlightFree UK
 read_time_minute: 5
+category: travel
 ---
-![Picture shows Alastair with his bicycle looking out on to a green and hilly landscape](/images/uploads/yorkshire_view_ahumphreys.jpg "Yorkshire view")
+### The allure of travel differs for each of us.
 
-## The allure of travel differs for each of us.
-
-### But whatever it is that lures us to the corners of the earth, there is usually one unifying thread: the aeroplane that gets us there.
+##### But whatever it is that lures us to the corners of the earth, there is usually one unifying thread: the aeroplane that gets us there.
 
 However, flying is not only terrible for the environment and our conscience, it also consumes a significant percentage of our holiday budget and — for short breaks — a painful proportion of our time away. Add on to the flights themselves the hours of airport shuttles, early check-ins and ‘just in case’ time and you often end up wasting a whole day of your trip at each end. 
 
@@ -22,7 +20,7 @@ Back in my 20s, I spent four years cycling around the world. It was the adventur
 
 I grew up in Yorkshire and — like many of our tribe — identify proudly and loudly as a Yorkshireman. But I was aware that there was much of my home county that I knew nothing about. And so I decided to spend a month cycling around Yorkshire, wild camping and following my nose along the way.
 
-> "I wanted to see whether I could find a local journey that replicated some of the freedom, spontaneity, curiosity and variety of my continent-crossing years."
+> I wanted to see whether I could find a local journey that replicated some of the freedom, spontaneity, curiosity and variety of my continent-crossing years.
 
 I pushed aside thoughts of Machu Picchu, Milan or Miami as I lifted my bike off the train in Middlesbrough on a grey, wet morning. But the sun came out as I followed well-marked trails through Teeside’s engineering and industrial heritage to the coast, fired with calories from my debut ‘parmo’ lunch. From the very first push of the pedals the ride began taking me to places I had never explored before.
 
@@ -34,7 +32,7 @@ A few nights later I was high on the North Yorkshire Moors, dozing off on a bed 
 
 When deciding to spend a whole month cycling only in Yorkshire, my biggest concern had been that even God’s own county might not be sufficiently varied to keep me interested. Yet if you can persuade yourself to travel slowly and with curiosity, more and more is revealed to you. I found myself wishing that I had two months, or three, or six to spend on this journey through what I had anticipated would be familiar scenes. 
 
-> "I found myself wishing that I had two months, or three, or six to spend on this journey."
+> I found myself wishing that I had two months, or three, or six to spend on this journey.
 
 I had never visited the hilly coast around Staithes and Robin Hood’s Bay, nor the red roofed villages in the peaceful, rolling Wolds. Pedal 20 or 30 miles and everything changes in Yorkshire. Contrast the balancing boulders of millstone grit at Brimham Rocks in Nidderdale with the dramatic panorama of the Hole of Horcum, which folklore has it was formed by the irate Wade the Giant. Or compare the photogenic (read: hilly) Dales with the Industrial Revolution’s dark satanic mills of South and West Yorkshire.
 
@@ -48,12 +46,12 @@ My overall impression from all the brief daily conversations was of a matter-of-
 
 I had been curious whether I could have a genuine “travel” experience – a memorable journey – without flying half way around the world. Could a mere month pedalling in my home county in any way replicate the years I spent cycling across continent after continent? The answer to these questions was a resounding ‘yes’.
 
-> "I had been curious whether I could have a genuine “travel” experience without flying half way around the world. The answer was a resounding ‘yes’."
+> I had been curious whether I could have a genuine “travel” experience without flying half way around the world. The answer was a resounding ‘yes’.
 
 Eventually, and somewhat reluctantly, came the final miles of the journey. I had zig-zagged from the north-east coast down to the Humber bridge, and from West Yorkshire to Tan Hill (Britain’s highest pub) on the Cumbrian border. And now I was circling back towards home, down into the dales and villages that I knew so well from growing up. I cycled the bridleways where I first dabbled with off-road cycling as a boy. I passed the pub I used to work in, and my old school. The memories lay thick all around me.
 
 Until, at last, I arrived at the house I grew up in, the house where my parents still live today. 
 
-#### As it was when I completed my round-the-world cycle, the end of my adventure was to arrive back home and sit down for a nice cup of tea – Yorkshire Tea, of course.
+##### As it was when I completed my round-the-world cycle, the end of my adventure was to arrive back home and sit down for a nice cup of tea – Yorkshire Tea, of course.
 
 *Read more about Alastair and his adventures at his [website](https://alastairhumphreys.com/).* [](https://www.alastairhumphreys.com)
