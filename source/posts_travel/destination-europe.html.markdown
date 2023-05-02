@@ -9,7 +9,7 @@ author: FlightFree UK
 read_time_minute: 5
 category: travel
 ---
-### For many people, taking a city break will involve a flight. But it doesn’t have to. We explore how to reach your favourite city break destination without flying. 
+## For many people, taking a city break will involve a flight. But it doesn’t have to. We explore how to reach your favourite city break destination without flying. 
 
 We are so lucky that the huge variety offered by continental Europe is right on our doorstep. Travelling overland might seem longer, but once you’ve factored in transfers, baggage claim and check-in time, air travel doesn’t work out as quick as you think. In any case, the beauty of overland travel is that the journey is part of the destination. So sit back, relax and enjoy the ride!
 
