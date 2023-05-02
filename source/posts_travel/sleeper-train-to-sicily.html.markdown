@@ -1,13 +1,13 @@
 ---
 published: true
 title: Sicily
-category: travel
 date: 2020-06-12T09:22:13.322Z
 cover_image: /images/uploads/sicily_canva.jpg
 summary: Peter Gilbert travels deep into the Mediterranean by rail, and finds
   that the two day journey is worth every minute
 author: FlightFree UK
 read_time_minute: 4
+category: travel
 ---
 ![Picture shows a hill covered in buildings and structures. An evening sun is shining on the hill and the other side is in shade. In the background is an expanse of green hilly terrain with a small layer of cloud covering to tops of the hills. The sky above is blue. In the bottom left corner of the picture are the tops of trees silhouetted against the view. ](/images/uploads/view-from-enna-2.jpg "View from Enna")
 
@@ -41,4 +41,4 @@ If you prefer to travel by day and savour the view, take a high speed TGV train 
 
 Overnight engineering works can result in trains being cancelled so it is worth booking the Italian trains before buying Eurostar tickets. Thello, Trenitalia and Italo start selling around the same time as Eurostar (about six months before you travel) and, if you get in early, you can travel to Sicily and back for around £300 sharing compartments. I did it for £500 with single occupancy throughout, and I had a day each in Padua and Naples along the way, as well as an afternoon and evening in Rome.
 
-#### So I got my adventure – and without any sign of a pickpocket or *mafioso*!
+##### So I got my adventure – and without any sign of a pickpocket or *mafioso*!
