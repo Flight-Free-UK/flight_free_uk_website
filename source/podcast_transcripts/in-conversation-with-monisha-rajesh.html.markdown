@@ -2,13 +2,16 @@
 published: true
 title: In conversation with Monisha Rajesh
 date: 2023-05-09T16:53:08.828Z
-cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
+cover_image: /images/uploads/2023april_podcast_monisha.jpg
 summary: Journalist, author and train travel aficionado Monisha Rajesh joins us
-  to talk about her upcoming book on sleeper trains.
+  to talk about her love of rail adventures and her upcoming book on sleeper
+  trains.
 author: FlightFree UK
 read_time_minute: 6
 ---
-## This month we are speaking to Monisha Rajesh, a journalist, author and train travel aficionado, who is currently writing her fourth book about train travel. 
+*This is episode 5 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-monisha-rajesh/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).*
+
+## This month we are speaking to Monisha Rajesh, a journalist, author and train travel aficionado, who is currently writing her fourth book about train travel.
 
 The first, Around India in 80 trains, was published in 2012, then it was followed by Around the World in 80 trains, then Epic train journeys. Her current project and book is all about sleeper trains. 
 
@@ -28,7 +31,7 @@ I’ve fortunately done a lot of my bucket list already. One place I haven’t g
 
 There’s a lot to explore closer to home, and there are so many stories to find close by that I don’t feel like I need to do that long-haul travel to find those stories any more. 
 
-### Lot of people think it would be a nightmare going by train with kids. Can you give us a few tips for travelling with children? 
+### Lot of people think it would be a nightmare going by train with kids. Can you give us a few tips for travelling with children?
 
 When you’re travelling with kids, it’s worth paying that little bit extra to make sure you have everything you need. It just takes away the stress. 
 
@@ -67,3 +70,9 @@ The main thing is, don’t be scared! Don’t worry about sharing compartments w
 And plan in advance – give yourself about three months. 
 
 ##### Find out more about Monisha Rajesh at [monisharajesh.com](http://monisharajesh.com), or @monisha_rajesh on social media.
+
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-monisha-rajesh/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).* 
+
+*Credits:*
+
+*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music:* [](https://uppbeat.io/t/dan-barton/the-executive-lounge)* [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)*
