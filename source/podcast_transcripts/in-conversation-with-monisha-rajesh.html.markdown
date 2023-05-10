@@ -13,7 +13,7 @@ read_time_minute: 6
 
 ## This month we are speaking to Monisha Rajesh, a journalist, author and train travel aficionado, who is currently writing her fourth book about train travel.
 
-#### The first, Around India in 80 trains, was published in 2012, then it was followed by Around the World in 80 trains, then Epic train journeys. Her current project and book is all about sleeper trains. 
+#### The first, Around India in 80 trains, was published in 2012, then it was followed by Around the World in 80 trains, then Epic train journeys. Her current project and book is all about sleeper trains.
 
 ### We start by asking Monisha about her latest adventure.
 
@@ -75,4 +75,4 @@ And plan in advance – give yourself about three months. 
 
 *Credits:*
 
-Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music: [](https://uppbeat.io/t/dan-barton/the-executive-lounge) [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)
+*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music: [](https://uppbeat.io/t/dan-barton/the-executive-lounge) [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)*
