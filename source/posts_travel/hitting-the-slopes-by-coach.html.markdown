@@ -14,7 +14,7 @@ category: travel
 
 ### For most people who ski it’s a regular part of their lives – annual family holidays or trips with friends, learning to negotiate the runs with an ease borne of having spent many years messing around on the slopes.
 
-##### I started relatively late. It was at the age of 23 that I took a ‘career’ break and did a ski season, which was a bit old to start. Since then I’ve been on four long ski holidays, almost always by coach. 
+##### I started relatively late. It was at the age of 23 that I took a ‘career’ break and did a ski season, which was a bit old to start. Since then I’ve been on four long ski holidays, almost always by coach.
 
 At first I flew. But while planning a last-minute trip with some friends (four days before we left!), we found it was much cheaper and easier to travel by coach. The environmental impact was a bonus.
 
@@ -38,10 +38,10 @@ Even as a late starter, skiing is something I’ve absolutely fallen in love wit
 
 ### Fact file:
 
-##### Typical price for flights = £60 + £40-£60 transfer
+**Typical price for flights = £60 + £40-£60 transfer**
 
-##### Typical price for coach = Tickets from £65
+**Typical price for coach = Tickets from £65**
 
-##### Total CO2 per person from London to Chamonix by plane = 181.5 kg
+**Total CO2 per person from London to Chamonix by plane = 181.5 kg**
 
-##### Total CO2 per person from London to Chamonix by coach = 31.8 kg
+**Total CO2 per person from London to Chamonix by coach = 31.8 kg**
