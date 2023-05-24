@@ -58,7 +58,7 @@ Airlines advertise Bristol to Edinburgh fares of just £21 each way, but those f
 
 Perhaps the only comparison that ought to matter is carbon emissions. In *[How Bad are Bananas?](https://www.waterstones.com/book/how-bad-are-bananas/mike-berners-lee/9781846688911)* Mike Berners-Lee estimated that, for a similar length of journey, the train’s emissions are about one third of flying. The carbon intensity of our electricity has halved since that book was written, though this journey is at least partly by diesel train. To keep your emissions as low as possible choose the west coast route and travel standard class.
 
-> Perhaps the only comparison that ought to matter is carbon emissions. F*[How Bad are Bananas?](https://www.waterstones.com/book/how-bad-are-bananas/mike-berners-lee/9781846688911)* Mike Berners-Lee estimated that, for a similar length of journey, the train’s emissions are about one third of flying.
+> Perhaps the only comparison that ought to matter is carbon emissions. For a similar length of journey, the train’s emissions are about one third of flying.
 
 I think many of us have fallen for the low-cost airlines’ own publicity when it comes to the cost of flying. Trains are not always more expensive, and, on key inter-city routes, may not be that much slower. Airlines rarely acknowledge the environmental cost, except to suggest that offsetting could make your flight carbon neutral – although there are [huge problems](https://flightfree.co.uk/post/the-truth-about-carbon-offsets/) associated with that.
 
