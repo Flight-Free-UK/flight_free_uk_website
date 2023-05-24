@@ -59,10 +59,10 @@ Did you know that Alderney also has its own unique blond hedgehogs? Ferries to A
 
 Sark is three miles long and a mile and half wide, and is just under an hour away from Jersey or Guernsey by ferry. With no cars or streetlights, it’s an ideal place for stargazing and was designated the world’s first dark sky island in 2011.
 
+
+
 ![](/images/uploads/quotes4.jpg)
 
 Herm, a tiny island three miles from Guernsey, is part of the Guernsey Bailiwick. With no cars (and no airport) it’s the place to get away from it all. It’s twenty minutes from St Peter Port on Guernsey by passenger ferry. There’s a rather fabulous hotel, the White House, that doesn’t have a television, telephones or clocks. 
 
-![](/images/uploads/quotes5.jpg)
-
-COVID 19 travel advice for Jersey is available [here](https://www.gov.je/Health/Coronavirus/Travel/Pages/CoronavirusTravelAdvice.aspx), and for Guernsey it’s [here](https://covid19.gov.gg/guidance/travel).
+> M﻿y sister lives on Jersey so I visit often. I love all the independent shops and cafes, the  beautiful big beaches and the massive waves. The lovely thing about being on an island us that everything is so easy to access.
