@@ -29,11 +29,17 @@ You can travel to the Channel Islands from the UK without flying: all the island
 
 *~ M﻿ary Collett, Bristol* 
 
-Jersey is the biggest of the Channel Islands at about 47 square miles. The main town, St Helier, is full of bustling markets, shops and restaurants, and a lively waterfront overlooking the sweeping St Aubin’s Bay with Elizabeth Castle on its rock. The tidal range is huge, exposing miles of sand at low tide in the many bays around the island. St Ouen’s Bay in the west is perfect for surfing, and the cliffs in the north are fantastic for rock climbing. 
+Jersey is the biggest of the Channel Islands at about 47 square miles. The main town, St Helier, is full of bustling markets, shops and restaurants, and a lively waterfront overlooking the sweeping St Aubin’s Bay with Elizabeth Castle on its rock. 
+
+The tidal range is huge, exposing miles of sand at low tide in the many bays around the island. St Ouen’s Bay in the west is perfect for surfing, and the cliffs in the north are fantastic for rock climbing. 
 
 ![Image shows a basin of yachts with a church and lots of buildings on the hill in the background](/images/uploads/stpeterport.jpg "St Peter Port, Guernsey")
 
-Guernsey is the flattest of the islands and slightly smaller than its big sister Jersey. It’s a little more sedate in its pace of life and has a more rural feel. If you are exploring, it's good to know that the network of ‘rouettes tranquilles’ gives priority to walkers, cyclists and horse riders. St Peter Port is a jewel of a town, with cobbled streets bedecked with bunting, clustered around a harbour filled with yachts. Victor Hugo wrote part of Les Miserables while he was exiled here in the 1850s. You can visit his house high above the town, where each room is lushly decorated in a different style – just make sure you book in advance.
+Guernsey is slightly smaller than its big sister Jersey. It’s a little more sedate in its pace of life and has a more rural feel. If you are exploring, it's good to know that the network of ‘rouettes tranquilles’ gives priority to walkers, cyclists and horse riders. 
+
+St Peter Port is a jewel of a town, with cobbled streets bedecked with bunting, clustered around a harbour filled with yachts. Victor Hugo wrote part of Les Miserables while he was exiled here in the 1850s. You can visit his house high above the town, where each room is lushly decorated in a different style – just make sure you book in advance.
+
+> M﻿any years ago we took my dear Mum and Dad on the overnight ferry for a few days in lovely Jersey. We had cabins and a good night's sleep! What a joy. We stayed in Gorey, visited Mont Orgueil Castle, had a lovely day at the zoo, went shopping in St Helier, went to Jersey Pearl and the butterly farm. Lovely memorable trip. 
 
 ![](/images/uploads/quotes2.jpg)
 
