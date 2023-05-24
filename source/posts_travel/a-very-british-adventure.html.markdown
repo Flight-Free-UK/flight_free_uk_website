@@ -45,8 +45,8 @@ Most significantly, it cemented the idea that adventure is what you make of it, 
 
 > Adventure is what you make of it, not where you go. It doesn’t have to involve somewhere far away.
 
-##### For me, it was about finding the extraordinary in the ordinary, and it certainly did that; I absolutely fell in love with Britain, and know that there is still as much to discover as I have already seen.
+For me, it was about finding the extraordinary in the ordinary, and it certainly did that; I absolutely fell in love with Britain, and know that there is still as much to discover as I have already seen.
 
 ##### We tend to overlook what's under our noses, but it's a truly fascinating, varied and exciting island on which we live.
 
-*Anna Hughes is author of Eat Sleep Cycle: a bike ride around the coast of Britain. Read more on her website:* *[annacycles.co.uk](http://annacycles.co.uk)*
+*Anna Hughes is author of 'Eat Sleep Cycle: a bike ride around the coast of Britain'. Read more on her website:* *[annacycles.co.uk](http://annacycles.co.uk)*
