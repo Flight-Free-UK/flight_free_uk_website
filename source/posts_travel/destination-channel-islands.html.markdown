@@ -49,6 +49,10 @@ The high speed ferry from Poole travels to St Peter Port in under three hours, t
 
 The conventional ferry from Portsmouth takes seven hours – why not read The Guernsey Literary and Potato Peel Pie Society (or watch the 2018 film) on the voyage?  
 
+> A﻿rriving in the harbour of St Peter Port is a wonderful moment. It looks so pretty with the houses rising steeply up the hill. Wandering around is a pleasure because of the lovely narrow passageways and staircases between the houses. The island's smallness is rather nice as it's easy to get around and the bus service is excellent. I always make sure to seek out some Guernsey Gâche (a traditional fruit loaf) when I'm there.
+
+***~﻿ Clifton Hughes, Hertfordshire***
+
 ![](/images/uploads/clonque-bay-alderney_canva.jpg "Clonque Bay, Alderney")
 
 Alderney, three and half miles long and a mile and a half wide, is the most northerly of the main islands – closer to France than it is to its sister islands. It’s known for its white sandy beaches, wildlife and fortifications, and for having its own [Womble](http://www.bbc.co.uk/ahistoryoftheworld/objects/KbrGaWZpQj2npZdbHWvwrA).  
@@ -60,10 +64,6 @@ Did you know that Alderney also has its own unique blond hedgehogs? Ferries to A
 ***~﻿ Helen Coffey, Folkestone***
 
 Sark is three miles long and a mile and half wide, and is just under an hour away from Jersey or Guernsey by ferry. With no cars or streetlights, it’s an ideal place for stargazing and was designated the world’s first dark sky island in 2011.
-
-> A﻿rriving in the harbour of St Peter Port is a wonderful moment. It looks so pretty with the houses rising steeply up the hill. Wandering around is a pleasure because of the lovely narrow passageways and staircases between the houses. The island's smallness is rather nice as it's easy to get around and the bus service is excellent. I always make sure to seek out some Guernsey Gâche (a traditional fruit loaf) when I'm there.
-
-***~﻿ Clifton Hughes, Hertfordshire***
 
 Herm, a tiny island three miles from Guernsey, is part of the Guernsey Bailiwick. With no cars (and no airport) it’s the place to get away from it all. It’s twenty minutes from St Peter Port on Guernsey by passenger ferry. There’s a rather fabulous hotel, the White House, that doesn’t have a television, telephones or clocks. 
 
