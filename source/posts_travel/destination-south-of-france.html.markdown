@@ -10,7 +10,7 @@ author: FlightFree UK
 read_time_minute: 5
 category: travel
 ---
-## Tom Barbour, Glasgow to the Alps
+#### Tom Barbour, Glasgow to the Alps
 
 We were so pleased that we booked our half term ski trip by train (using [Rail Europe](https://www.raileurope.com/en-gb)). It cost more than flying – over twice as much – but that’s more of a result of a lack of taxes on flying than the train company’s fault. It’s not a level playing field.
 
@@ -24,7 +24,7 @@ Initially the kids were put off by the thought of the long journey by train, and
 
 I’ve written to the Scottish Government asking that they look into supporting direct trains from Glasgow and Edinburgh to Paris. That would really open up non-flying travel opportunities for Scots. The Scottish Transport Minister did write back to me saying that one of the reasons that sleeper trains from Scotland to Paris and beyond were impractical was due to competition from ‘low cost airlines.’ A frustrating and ludicrous response given that airport tax is a devolved matter that the Scottish Government could change and therefore tip the balance in favour of the train. Hopefully they’ll be reviewing this. But as for the actual travel, I much preferred it over flying, not just because of the emission reduction, but because it was fun.
 
-## Ruth Hancock, Devon to Pyrenees
+#### Ruth Hancock, Devon to Pyrenees
 
 My partner and I go to the Pyrenees every summer for a walking holiday. From Devon it takes about three hours to get to London, then we go by Eurostar to Paris, Tarbes on the TGV then up into the hills by smaller trains and buses. For more remote road access we find hitching pretty quick. We find the public transport in France is well joined up, with the trains and buses all being run in synchronicity by SNCF.
 
@@ -38,7 +38,7 @@ We always travel on the top deck of the TGV, which makes it more exciting becaus
 
 We’re thinking about going to Morocco before too long, as apparently they have a good train system, and the Anti Atlas mountains would be nice for some mid-winter warmth.
 
-## Sandy Robertson, London to Juan les Pins
+#### Sandy Robertson, London to Juan les Pins
 
 We travel to Juan Les Pins at least once a year as our family has a place there. We usually fly to Nice Côte d'Azur airport and hire a car but as a family we have been trying to reduce our impact on the planet, and our most recent step towards that goal has been to try to give up flying.
 
@@ -52,7 +52,7 @@ The queue for the Eurostar was a bit of a crush but we were through passport con
 
 The Eurostar return for two adults and two under-fours (including child seat for toddler which made it much more comfortable but isn’t required) was £398. It cost us £8.60 to get to St Pancras, and a further £117.06 for the Marseille-Juan Les Pins return. Total £523.66 return – which would have been cheaper had I remembered to book earlier!
 
-## Eve Hart, Lancashire to Avignon
+#### Eve Hart, Lancashire to Avignon
 
 We live in Ramsbottom, a small town in the very north of Greater Manchester. It’s 944 miles from Avignon in the South of France, but our family holiday there by train was the most successful ever.
 
@@ -72,7 +72,7 @@ The seats on the Eurostar were large and comfortable, and with a table between u
 
 It’s only 27 miles from Ramsbottom to Manchester Airport and whilst we could still have seen the amazing Roman Pont du Gard, jumped in the pool, climbed up to Cathar Castles and paddled in the Herault river, we didn’t want to fly when there was an exciting alternative on offer. We so enjoyed our family time en route to France, and even with cancellations and delays on the way home, we’d certainly do it again.
 
-## Rob Hughes, London to Carcassonne
+#### Rob Hughes, London to Carcassonne
 
 We’re going to a wedding near Carcassonne, and didn’t want to fly because “Flying burns more oil!” says Lola (age 4). It looks like a nice place, so we thought we’d make a holiday of it.
 
@@ -92,7 +92,7 @@ Bryony (mum): Timings are important, so it’s nice to chose a train that fits w
 
 You have to make the journey part of the holiday, rather than something to endure like flying. It’s a different mindset. With that, Luca and I are off to the buffet car to get a drink…
 
-## Deborah Tomkins, Bristol to Nice
+#### Deborah Tomkins, Bristol to Nice
 
 I was attending a conference at the A Rocha centre of Les Courmettes, about a half hour bus ride from Nice, up in the mountains.
 
@@ -106,7 +106,7 @@ We arrived in Nice very early in the morning as the sun was rising. It was amazi
 
 My family and friends were astonished that I travelled in this way. It would have taken less than two hours from Bristol airport (plus the waiting around, of course, and travel to and from both airports), and they clearly couldn’t understand why I would waste time travelling. But as well as the carbon emissions being so much lower, I have found that slow travel is a great way to get a feel of a place and the people, and to get a sense of how far away somewhere really is. There’s a world of difference between Bristol and Nice, and the difference unfolded gradually.
 
-## Steve Masters, Newbury to Hendaye
+#### Steve Masters, Newbury to Hendaye
 
 A friend and I had decided to take on a cycling challenge: *Raid Pyrenean,* a 450-mile ride across the mountains from the Atlantic coast to the Mediterranean. The challenge is to do it in less than 100 hours.
 
