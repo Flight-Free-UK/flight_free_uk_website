@@ -21,15 +21,17 @@ Both French and English are official languages, and it’s a real treat to wande
 
 ***~﻿ Steph Parker, Jersey/London***
 
-The five main Channel Islands, Jersey, Guernsey, Alderney, Sark and Herm each have their own culture and charm. They are famed for knitwear, cream, seafood, and potatoes – a sought-after delicacy on the islands. With the sunniest weather in the British Isles, the islands have beautiful sandy beaches and quiet lanes. History lovers will want to visit the Neolithic remains and World War II museums (the islands were occupied by Germany during the war). 
+The five main Channel Islands, Jersey, Guernsey, Alderney, Sark and Herm each have their own culture and charm. They are famed for knitwear, cream, seafood, and potatoes – a sought-after delicacy on the islands. 
 
-![](/images/uploads/mont-orgueil-castle-jersey_canva.jpg "Mont Orgueil castle, Jersey")
+With the sunniest weather in the British Isles, the islands have beautiful sandy beaches and quiet lanes. History lovers will want to visit the Neolithic remains and World War II museums (the islands were occupied by Germany during the war). 
 
 You can travel to the Channel Islands from the UK without flying: all the islands are well connected by ferries from the UK and from northern France, and you can’t beat the excitement of arriving by sea right into the heart of St Helier or St Peter Port. 
 
 > W﻿e had a trip to Sark by boat when our children were little. It was beautiful – very peaceful and with no cars it was the ideal destination with young children. We hired bikes and cycled round the island. It remains one of our favourite holidays ever...
 
 ***~ M﻿ary Collett, Bristol*** 
+
+![](/images/uploads/mont-orgueil-castle-jersey_canva.jpg "Mont Orgueil castle, Jersey")
 
 Jersey is the biggest of the Channel Islands at about 47 square miles. The main town, St Helier, is full of bustling markets, shops and restaurants, and a lively waterfront overlooking the sweeping St Aubin’s Bay with Elizabeth Castle on its rock. 
 
