@@ -60,6 +60,6 @@ Some websites to recommend, as I realise I could write a book on what I love abo
 
 [The Great West Way](https://www.greatwestway.co.uk/) [](https://www.greatwestway.co.uk/)is a 2019 initiative to reveal the attractions on the roads and rail west from London to Bristol. [](http://www.kypwest.org.uk/)[Know Your Place](http://www.kypwest.org.uk/) is a heritage portal for the west, which features layers of historic mapping so that you can see how your chosen adventure locations have developed over time. Information from archaeology and archives are here all in one place. 
 
-Isambard Kingdom Brunel’s Bristol Temple Meads station is a destination in itself! (Find out more at the Great Western Railway [website](https://www.gwr.com/))
+Isambard Kingdom Brunel’s Bristol Temple Meads station is a destination in itself! (Find out more at the Great Western Railway [website](https://www.gwr.com/)).
 
 ##### Happy travels – and be green where you can!
