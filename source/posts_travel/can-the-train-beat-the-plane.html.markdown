@@ -42,7 +42,7 @@ Crossing the border into Scotland the hills grew more dramatic and then abruptly
 
 We spilled gratefully out of the station and straight on to one of Europe’s most beautiful boulevards, Princes Street, five minutes’ walk from our hotel.
 
-##### So how does the train compare with flying? 
+##### So how does the train compare with flying?
 
 Undoubtedly, the train takes longer. If all goes well, when we fly we arrive four and a half hours after setting off. Our train journey, door to door, would have been just under seven hours without the delay. 
 
