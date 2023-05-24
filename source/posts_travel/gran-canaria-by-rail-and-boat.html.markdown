@@ -9,7 +9,9 @@ author: FlightFree UK
 read_time_minute: 3
 category: travel
 ---
-### I’d promised my Dad I'd visit him in Gran Canaria, where he moved over 20 years ago, to celebrate his 80th birthday. On previous visits we’ve always flown, but this time we were determined to travel without flying.
+### I’d promised my Dad I'd visit him in Gran Canaria, where he moved over 20 years ago, to celebrate his 80th birthday. 
+
+##### On previous visits we’ve always flown, but this time we were determined to travel without flying.
 
 Gran Canaria is one of Spain’s volcanic Canary Islands off the coast of North West Africa and was Christopher Columbus’s stopping off point on his trips to the Americas. Nowadays it is best known as a tourist destination. The mountainous interior of Gran Canaria offers a dramatic and at times austere landscape that contrasts with the ring of coastal settlements, the preferred destination for the 4.5 million tourists who contribute over 80% of the island’s GDP.
 
