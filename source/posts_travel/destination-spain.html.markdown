@@ -93,19 +93,13 @@ You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see fl
 
 ## Other destinations
 
-#### Canary islands
+**Canary islands:** train to Seville/Huelva, ferry to Canary Islands
 
-~ train to Seville/Huelva, ferry to Canary Islands
+**Balearic islands:** TGV to Barcelona, ferry to Ibiza/[Mallorca](https://flightfree.co.uk/post/a-flight-free-holiday-in-mallorca/)/Minorca
 
-#### Balearic islands
+**Gibraltar:** TGV to Barcelona, AVE to Antequera-Santa Ana, regional train to Algeciras, bus to Gibraltar.
 
-~ TGV to Barcelona, ferry to Ibiza/[Mallorca](https://flightfree.co.uk/post/a-flight-free-holiday-in-mallorca/)/Minorca
-
-#### Gibraltar
-
-~ TGV to Barcelona, AVE to Antequera-Santa Ana, regional train to Algeciras, bus to Gibraltar.
-
-From the south of Spain you can even go on to Morocco, with a ferry or hovercraft across the Straits of Gibraltar.
+From the south of Spain you can even go on to Morocco, with a ferry or hovercraft across the Strait of Gibraltar.
 
 ![](/images/uploads/castillo.jpg)
 
