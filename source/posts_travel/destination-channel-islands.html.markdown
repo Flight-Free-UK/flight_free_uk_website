@@ -1,17 +1,23 @@
 ---
 published: true
 title: "Destination: Channel Islands"
-category: travel
 date: 2021-03-24T17:11:01.124Z
 cover_image: /images/uploads/alderney_canva.jpg
 summary: We take a look at getting to the Channel Islands without flying, and
   why you should make this your holiday destination of choice.
 author: FlightFree UK
 read_time_minute: 3
+category: travel
 ---
-For a holiday as exotic as it is close to home, look no further than the Channel Islands. This archipelago in the English Channel has a unique sense of otherworldliness while being reassuringly familiar. Both French and English are official languages, and it’s a real treat to wander through *Les Jardins de la Mer* while using UK currency and without needing a passport – though you will need photo ID to travel. 
+### For a holiday as exotic as it is close to home, look no further than the Channel Islands. 
 
-![Quote says: "Growing up on Jersey, the beach and the sea have always been a huge part of my life. Travelling back home via the ferry gives me a sense of adventure and excitement you just can't get in the same way from air travel, as the island slowly creeps into view, rounding those gorgeous headlands, or seeing those ancient castles.” Steph Parker, Jersey/London](/images/uploads/quotes6.jpg)
+##### This archipelago in the English Channel has a unique sense of otherworldliness while being reassuringly familiar. 
+
+Both French and English are official languages, and it’s a real treat to wander through *Les Jardins de la Mer* while using UK currency and without needing a passport – though you will need photo ID to travel. 
+
+> G﻿rowing up on Jersey, the beach and the sea have always been a huge part of my life. Travelling back home via the ferry gives me a sense of adventure and excitement you just can't get in the same way from air travel, as the island slowly creeps into view, rounding those gorgeous headlands, or seeing those ancient castles.
+
+###### *~﻿ Steph Parker, Jersey/London*
 
 The five main Channel Islands, Jersey, Guernsey, Alderney, Sark and Herm each have their own culture and charm. They are famed for knitwear, cream, seafood, and potatoes – a sought-after delicacy on the islands. With the sunniest weather in the British Isles, the islands have beautiful sandy beaches and quiet lanes. History lovers will want to visit the Neolithic remains and World War II museums (the islands were occupied by Germany during the war). 
 
