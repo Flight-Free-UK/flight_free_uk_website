@@ -17,7 +17,7 @@ Both French and English are official languages, and it’s a real treat to wande
 
 > G﻿rowing up on Jersey, the beach and the sea have always been a huge part of my life. Travelling back home via the ferry gives me a sense of adventure and excitement you just can't get in the same way from air travel, as the island slowly creeps into view, rounding those gorgeous headlands, or seeing those ancient castles.
 
-###### *~﻿ Steph Parker, Jersey/London*
+***~﻿ Steph Parker, Jersey/London***
 
 The five main Channel Islands, Jersey, Guernsey, Alderney, Sark and Herm each have their own culture and charm. They are famed for knitwear, cream, seafood, and potatoes – a sought-after delicacy on the islands. With the sunniest weather in the British Isles, the islands have beautiful sandy beaches and quiet lanes. History lovers will want to visit the Neolithic remains and World War II museums (the islands were occupied by Germany during the war). 
 
@@ -55,14 +55,16 @@ Did you know that Alderney also has its own unique blond hedgehogs? Ferries to A
 
 > It's not a matter of distance, it's a matter of something you haven't experienced before. The Channel Islands have their own micro-climate – it's so warm, it feels so much like properly going on holiday. One of my friends got married in Alderney and it was just magical floating in the sea thinking, there's nothing familiar about this.
 
-![](/images/uploads/quotes3.jpg)
+***~﻿ Helen Coffey, Folkestone***
 
 Sark is three miles long and a mile and half wide, and is just under an hour away from Jersey or Guernsey by ferry. With no cars or streetlights, it’s an ideal place for stargazing and was designated the world’s first dark sky island in 2011.
 
+> A﻿rriving in the harbour of St Peter Port is a wonderful moment. It looks so pretty with the houses rising steeply up the hill. Wandering around is a pleasure because of the lovely narrow passageways and staircases between the houses. The island's smallness is rather nice as it's easy to get around and the bus service is excellent. I always make sure to seek out some Guernsey Gâche (a traditional fruit loaf) when I'm there.
 
-
-![](/images/uploads/quotes4.jpg)
+***~﻿ Clifton Hughes, Hertfordshire***
 
 Herm, a tiny island three miles from Guernsey, is part of the Guernsey Bailiwick. With no cars (and no airport) it’s the place to get away from it all. It’s twenty minutes from St Peter Port on Guernsey by passenger ferry. There’s a rather fabulous hotel, the White House, that doesn’t have a television, telephones or clocks. 
 
 > M﻿y sister lives on Jersey so I visit often. I love all the independent shops and cafes, the  beautiful big beaches and the massive waves. The lovely thing about being on an island us that everything is so easy to access.
+
+***~﻿ Becca Sayers, Cardiff***
