@@ -39,12 +39,10 @@ Taking a flight is a habit, and airlines want you to think that way. While the p
 
 Price-wise, it was fairly comparable. £200 for Eurostar. £90 for Cologne train. €8 for S-Bahn. €20 for taxi. I left at 1300 and arrived at my hotel at 1800. Quite competitive with the flight on both cost and time (BA flights to Frankfurt are £200-300 each way, depending on timings). The difference is that I had some nice food, did some work and didn’t have to breath high-altitude recycled air in a seat crammed in twenty centimetres behind someone else’s.
 
-### For European meetings, try the train. If you do, I reckon you’ll do it again.
+##### For European meetings, try the train. If you do, I reckon you’ll do it again.
 
 *Martin is a glaciologist and Director of the Grantham Institute at Imperial College London. Read their list of ‘9 things you can do about climate change’* *[here](https://www.imperial.ac.uk/media/imperial-college/grantham-institute/public/publications/9-things-you-can-do-about-climate-change---full-text.pdf).* 
 
 *\* Eurostar allows through-booking on its website for some onward journeys, which can be useful as it means if your first train is delayed and you miss your connection, you can get on the next one with no trouble.*
 
 *For tips on booking overland travel in Europe, check out our blogs "[Trainsetting across Europe](https://flightfree.co.uk/post/train-setting-across-europe/)" and "[Travel tips for train first-timers](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/)"*
-
-![Picture shows a selfie taken by Martin, in the background is a large cathedral in Cologne. Martin is in the foreground smiling, wearing a coat and scarf. ](/images/uploads/martin-at-cologne-cathedral.jpg "A touch of sightseeing: Martin in Cologne")
