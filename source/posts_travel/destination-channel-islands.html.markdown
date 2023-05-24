@@ -27,7 +27,7 @@ You can travel to the Channel Islands from the UK without flying: all the island
 
 > W﻿e had a trip to Sark by boat when our children were little. It was beautiful – very peaceful and with no cars it was the ideal destination with young children. We hired bikes and cycled round the island. It remains one of our favourite holidays ever...
 
-*~ M﻿ary Collett, Bristol* 
+***~ M﻿ary Collett, Bristol*** 
 
 Jersey is the biggest of the Channel Islands at about 47 square miles. The main town, St Helier, is full of bustling markets, shops and restaurants, and a lively waterfront overlooking the sweeping St Aubin’s Bay with Elizabeth Castle on its rock. 
 
@@ -41,13 +41,19 @@ St Peter Port is a jewel of a town, with cobbled streets bedecked with bunting, 
 
 > M﻿any years ago we took my dear Mum and Dad on the overnight ferry for a few days in lovely Jersey. We had cabins and a good night's sleep! What a joy. We stayed in Gorey, visited Mont Orgueil Castle, had a lovely day at the zoo, went shopping in St Helier, went to Jersey Pearl and the butterly farm. Lovely memorable trip. 
 
-![](/images/uploads/quotes2.jpg)
+***~﻿ Jacky Jenkins, East Sussex***
 
-The high speed ferry from Poole travels to St Peter Port in under three hours, then continues on to St Helier, arriving an hour and a half later. The English Channel can be rough so be sure to stock up on sea-sickness tablets before you depart. The conventional ferry from Portsmouth takes seven hours – why not read The Guernsey Literary and Potato Peel Pie Society (or watch the 2018 film) on the voyage?  
+The high speed ferry from Poole travels to St Peter Port in under three hours, then continues on to St Helier, arriving an hour and a half later. The English Channel can be rough so be sure to stock up on sea-sickness tablets before you depart. 
+
+The conventional ferry from Portsmouth takes seven hours – why not read The Guernsey Literary and Potato Peel Pie Society (or watch the 2018 film) on the voyage?  
 
 ![Image shows pale sand on a beach, a turquoise sea and a rocky promontory on the horizon](/images/uploads/alderney.jpg "Alderney")
 
-Alderney, three and half miles long and a mile and a half wide, is the most northerly of the main islands – closer to France than it is to its sister islands. It’s known for its white sandy beaches, wildlife and fortifications, and for having its own [Womble](http://www.bbc.co.uk/ahistoryoftheworld/objects/KbrGaWZpQj2npZdbHWvwrA).  Did you know that Alderney also has its own unique blond hedgehogs? Ferries to Alderney depart twice a day from Guernsey. 
+Alderney, three and half miles long and a mile and a half wide, is the most northerly of the main islands – closer to France than it is to its sister islands. It’s known for its white sandy beaches, wildlife and fortifications, and for having its own [Womble](http://www.bbc.co.uk/ahistoryoftheworld/objects/KbrGaWZpQj2npZdbHWvwrA).  
+
+Did you know that Alderney also has its own unique blond hedgehogs? Ferries to Alderney depart twice a day from Guernsey. 
+
+> It's not a matter of distance, it's a matter of something you haven't experienced before. The Channel Islands have their own micro-climate – it's so warm, it feels so much like properly going on holiday. One of my friends got married in Alderney and it was just magical floating in the sea thinking, there's nothing familiar about this.
 
 ![](/images/uploads/quotes3.jpg)
 
