@@ -9,9 +9,11 @@ author: FlightFree UK
 read_time_minute: 3
 category: travel
 ---
-### For a holiday as exotic as it is close to home, look no further than the Channel Islands. 
+![](/images/uploads/st-peter-port-harbour-guernsey_canva.jpg "St Peter Port, Guernsey")
 
-##### This archipelago in the English Channel has a unique sense of otherworldliness while being reassuringly familiar. 
+### For a holiday as exotic as it is close to home, look no further than the Channel Islands.
+
+##### This archipelago in the English Channel has a unique sense of otherworldliness while being reassuringly familiar.
 
 Both French and English are official languages, and it’s a real treat to wander through *Les Jardins de la Mer* while using UK currency and without needing a passport – though you will need photo ID to travel. 
 
@@ -21,7 +23,7 @@ Both French and English are official languages, and it’s a real treat to wande
 
 The five main Channel Islands, Jersey, Guernsey, Alderney, Sark and Herm each have their own culture and charm. They are famed for knitwear, cream, seafood, and potatoes – a sought-after delicacy on the islands. With the sunniest weather in the British Isles, the islands have beautiful sandy beaches and quiet lanes. History lovers will want to visit the Neolithic remains and World War II museums (the islands were occupied by Germany during the war). 
 
-![Image shows a busy shopping street in St Helier, with bunting strung across the street and lots of people out and about](/images/uploads/st_helier.jpg "St Helier, the main town in Jersey")
+![](/images/uploads/mont-orgueil-castle-jersey_canva.jpg "Mont Orgueil castle, Jersey")
 
 You can travel to the Channel Islands from the UK without flying: all the islands are well connected by ferries from the UK and from northern France, and you can’t beat the excitement of arriving by sea right into the heart of St Helier or St Peter Port. 
 
@@ -33,7 +35,7 @@ Jersey is the biggest of the Channel Islands at about 47 square miles. The main 
 
 The tidal range is huge, exposing miles of sand at low tide in the many bays around the island. St Ouen’s Bay in the west is perfect for surfing, and the cliffs in the north are fantastic for rock climbing. 
 
-![Image shows a basin of yachts with a church and lots of buildings on the hill in the background](/images/uploads/stpeterport.jpg "St Peter Port, Guernsey")
+![](/images/uploads/clonque-bay-alderney_canva.jpg "Clonque Bay, Alderney")
 
 Guernsey is slightly smaller than its big sister Jersey. It’s a little more sedate in its pace of life and has a more rural feel. If you are exploring, it's good to know that the network of ‘rouettes tranquilles’ gives priority to walkers, cyclists and horse riders. 
 
@@ -47,7 +49,7 @@ The high speed ferry from Poole travels to St Peter Port in under three hours, t
 
 The conventional ferry from Portsmouth takes seven hours – why not read The Guernsey Literary and Potato Peel Pie Society (or watch the 2018 film) on the voyage?  
 
-![Image shows pale sand on a beach, a turquoise sea and a rocky promontory on the horizon](/images/uploads/alderney.jpg "Alderney")
+![](/images/uploads/corbiere-lighthouse-jersey_canva.jpg "Corbiere lighthouse, Jersey")
 
 Alderney, three and half miles long and a mile and a half wide, is the most northerly of the main islands – closer to France than it is to its sister islands. It’s known for its white sandy beaches, wildlife and fortifications, and for having its own [Womble](http://www.bbc.co.uk/ahistoryoftheworld/objects/KbrGaWZpQj2npZdbHWvwrA).  
 
