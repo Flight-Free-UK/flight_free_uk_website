@@ -9,7 +9,9 @@ author: FlightFree UK
 read_time_minute: 5
 category: travel
 ---
-## For many people, taking a city break will involve a flight. But it doesn’t have to. We explore how to reach your favourite city break destination without flying. 
+### For many people, taking a city break will involve a flight. 
+
+##### But it doesn’t have to. We explore how to reach your favourite city break destination without flying. 
 
 We are so lucky that the huge variety offered by continental Europe is right on our doorstep. Travelling overland might seem longer, but once you’ve factored in transfers, baggage claim and check-in time, air travel doesn’t work out as quick as you think. In any case, the beauty of overland travel is that the journey is part of the destination. So sit back, relax and enjoy the ride!
 
@@ -75,4 +77,4 @@ Everywhere you look in Berlin, you can feel the true weight of this city’s tum
 
 *Most journeys can be booked through [RailEurope.co.uk](https://www.raileurope.com). For tips on how to travel and where to book, see [seat61.com](https://www.seat61.com)*
 
-#### *France and Spain are the most popular destinations for UK travellers. Check out our separate guides for those countries: [Destination Spain](/post/destination-spain) and [Destination south of France](/post/destination-south-of-france).*
+##### *France and Spain are the most popular destinations for UK travellers. Check out our separate guides for those countries: [Destination Spain](/post/destination-spain) and [Destination south of France](/post/destination-south-of-france).*
