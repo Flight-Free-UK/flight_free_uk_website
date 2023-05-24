@@ -114,4 +114,4 @@ This part was definitely a highlight – the boarding of the train onto a ferry,
 
 I haven’t flown for more than a decade so when deciding how to travel to Copenhagen, taking a plane wasn’t ever an option. I find that helps – I have no idea of the cost comparison, or the time comparison, because it makes no odds – I don’t fly, and that’s that. 
 
-#### The outcome is low-carbon, guilt-free travel, which is not only good for the environment, but enriches my experience as a traveller – and that’s something you can’t put a price on.
+##### The outcome is low-carbon, guilt-free travel, which is not only good for the environment, but enriches my experience as a traveller – and that’s something you can’t put a price on.
