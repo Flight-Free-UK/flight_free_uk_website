@@ -13,7 +13,7 @@ read_time_minute: 2
 
 ![Flight radar image showing flights across UK](/images/uploads/flight-radar.jpg "Flight radar image showing flights across UK")
 
-### According to [UK Government figures](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019), domestic flights generate approximately six times the emissions of National Rail services per passenger km.
+### According to [UK Government figures](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2019), domestic flights generate approximately six times the emissions of National Rail services per passenger km. 
 
 ##### At a time when we must make large-scale emissions reductions if we are to limit catastrophic climate change, replacing aviation with rail on shorter journeys has the potential to have a significant impact.
 
