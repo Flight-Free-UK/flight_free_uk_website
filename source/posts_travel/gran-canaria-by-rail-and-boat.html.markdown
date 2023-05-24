@@ -13,9 +13,13 @@ category: travel
 
 ##### On previous visits we’ve always flown, but this time we were determined to travel without flying.
 
-Gran Canaria is one of Spain’s volcanic Canary Islands off the coast of North West Africa and was Christopher Columbus’s stopping off point on his trips to the Americas. Nowadays it is best known as a tourist destination. The mountainous interior of Gran Canaria offers a dramatic and at times austere landscape that contrasts with the ring of coastal settlements, the preferred destination for the 4.5 million tourists who contribute over 80% of the island’s GDP.
+Gran Canaria is one of Spain’s volcanic Canary Islands off the coast of North West Africa and was Christopher Columbus’s stopping off point on his trips to the Americas. Nowadays it is best known as a tourist destination. 
 
-Planning our visit was a joint effort: I booked the rail tickets while my wife Rose sorted out the ferry and hotel bookings. The London to Paris leg was on Eurostar (during the Easter Extinction Rebellion protests – we were very grateful that they had not decided to block the railways!), then after crossing Paris to the Gare de Lyon we boarded the train to Barcelona. Following the advice of the excellent ‘[The Man in Seat 61’ ](https://www.seat61.com/)website we had booked upstairs seats on the TGV, and during the 6 hour trip were treated to fantastic views of the Massif Central, the Alps and the Pyrenees, arriving early enough in the evening for a beer and tapas. 
+The mountainous interior of Gran Canaria offers a dramatic and at times austere landscape that contrasts with the ring of coastal settlements, the preferred destination for the 4.5 million tourists who contribute over 80% of the island’s GDP.
+
+Planning our visit was a joint effort: I booked the rail tickets while my wife Rose sorted out the ferry and hotel bookings. The London to Paris leg was on Eurostar (during the Easter Extinction Rebellion protests – we were very grateful that they had not decided to block the railways!), then after crossing Paris to the Gare de Lyon we boarded the train to Barcelona. 
+
+Following the advice of the excellent ‘[The Man in Seat 61’ ](https://www.seat61.com/)website we had booked upstairs seats on the TGV, and during the 6 hour trip were treated to fantastic views of the Massif Central, the Alps and the Pyrenees, arriving early enough in the evening for a beer and tapas. 
 
 > We were treated to fantastic views of the Massif Central, the Alps and the Pyrenees.
 
