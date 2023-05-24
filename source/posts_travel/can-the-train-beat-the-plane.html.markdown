@@ -62,6 +62,6 @@ Perhaps the only comparison that ought to matter is carbon emissions. In *[How B
 
 I think many of us have fallen for the low-cost airlines’ own publicity when it comes to the cost of flying. Trains are not always more expensive, and, on key inter-city routes, may not be that much slower. Airlines rarely acknowledge the environmental cost, except to suggest that offsetting could make your flight carbon neutral – although there are [huge problems](https://flightfree.co.uk/post/the-truth-about-carbon-offsets/) associated with that.
 
-##### But we would do well to remember that part of the joy of travel is the experience of getting there, not just the act of arrival.
+But we would do well to remember that part of the joy of travel is the experience of getting there, not just the act of arrival.
 
 ##### And to really experience our country: the size of it, and the variety of its landscapes, the train can’t be beaten.
