@@ -10,13 +10,15 @@ author: FlightFree UK
 read_time_minute: 10
 category: travel
 ---
-## The beauty of Scandinavia attracts wilderness enthusiasts and urban dwellers alike.
+### The beauty of Scandinavia attracts wilderness enthusiasts and urban dwellers alike.
 
-With snow-scapes, fjords, vibrant cities, cycle-friendly culture, welcoming locals and of course the breathtaking Northern Lights, Scandinavia has huge variety, and it’s accessible overland from the UK in little more than a day. Here are four accounts of getting to Sweden, Norway, Finland and Denmark flight free.
+##### With snow-scapes, fjords, vibrant cities, cycle-friendly culture, welcoming locals and of course the breathtaking Northern Lights, Scandinavia has huge variety, and it’s accessible overland from the UK in little more than a day. 
+
+Here are four accounts of getting to Sweden, Norway, Finland and Denmark flight free.
 
 ## 🇸🇪 Sweden by train
 
-#### – Anca Rusu
+#### ~ Anca Rusu
 
 Since moving to London I have occasionally flown to visit my family who are scattered across Europe. The first and last time I took a plane to Sweden was in 2018 and it felt like a good deal, costing no more than a meal for two at a cheap London eatery. But I’d been aware of the hidden cost of flying for years: the tax avoidance, unjust airport expansions, slow pace of decarbonising, huge carbon footprint, exponential growth of the sector…
 
@@ -40,7 +42,7 @@ I’m hoping that the proposed Swedish Rail [sleeper](https://www.independent.co
 
 ## 🇳🇴 Norway by ferry and train (and rail replacement bus)
 
-#### – Ian and Gilly Charters
+#### ~ Ian and Gilly Charters
 
 When we booked a Hurtigruten sailing trip along the coast of Norway, all the information pointed to us travelling from Yorkshire to Bergen by air. But the [Man in Seat 61](www.seat61.com) said it was possible overland, so we began looking into it. Part of the enjoyment of a holiday is researching schedules and routes and adding in detours and stopovers, although planning well in advance doesn’t necessarily mean things go to plan...
 
@@ -80,7 +82,7 @@ After travelling from our home in Sheffield to Hull, we took the overnight ferry
 
 Cycling in the Netherlands is a joy, especially with children, and we reached our first camping spot near Den Haag with little trouble. Less than 24 hours after we left home we had the tent up and the children were swimming and canoeing in a canal about 50 metres from the tent. The holiday had definitely begun.
 
-> Cycling in the Netherlands is a joy.
+> Cycling in the Netherlands is a joy, especially with children.
 
 Our biggest travel day involved getting us, our bikes, twelve panniers, a 90-litre trailer bag and folding trailer on and off four trains from Den Haag in the Netherlands to Lübeck in Germany. The German trains were incredible: space for 18 bicycles, each with its own numbered slot, which was a delight for a family who often try to squeeze four bikes into the inadequate spaces on British trains. It was quite anxiety-inducing making sure that everything went to plan, but despite a delay and one missed connection we arrived at the campsite just before it closed and managed to put up our tent before it got dark.
 
