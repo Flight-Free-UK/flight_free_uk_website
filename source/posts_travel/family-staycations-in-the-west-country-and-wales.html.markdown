@@ -14,7 +14,7 @@ category: travel
 
 ### As a working mum on a modest budget I am perhaps lucky that I do not have to curtail my family’s holiday plans for the sake of our poorly planet.
 
-##### I have not flown for 21 years. We took the train to Barcelona on our honeymoon in 2007, and since then have not left our shores. 
+##### I have not flown for 21 years. We took the train to Barcelona on our honeymoon in 2007, and since then have not left our shores.
 
 I think a little secret to finding excitement with the sometimes over-familiar Britain is to look a little beyond the usual resorts and destinations and find real adventures in the familiar places just by learning more. 
 
@@ -62,4 +62,4 @@ Some websites to recommend, as I realise I could write a book on what I love abo
 
 Isambard Kingdom Brunel’s Bristol Temple Meads station is a destination in itself! (Find out more at the Great Western Railway [website](https://www.gwr.com/))
 
-##### **Happy travels – and be green where you can!**
+##### Happy travels – and be green where you can!
