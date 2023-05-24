@@ -37,8 +37,6 @@ Jersey is the biggest of the Channel Islands at about 47 square miles. The main 
 
 The tidal range is huge, exposing miles of sand at low tide in the many bays around the island. St Ouen’s Bay in the west is perfect for surfing, and the cliffs in the north are fantastic for rock climbing. 
 
-![](/images/uploads/clonque-bay-alderney_canva.jpg "Clonque Bay, Alderney")
-
 Guernsey is slightly smaller than its big sister Jersey. It’s a little more sedate in its pace of life and has a more rural feel. If you are exploring, it's good to know that the network of ‘rouettes tranquilles’ gives priority to walkers, cyclists and horse riders. 
 
 St Peter Port is a jewel of a town, with cobbled streets bedecked with bunting, clustered around a harbour filled with yachts. Victor Hugo wrote part of Les Miserables while he was exiled here in the 1850s. You can visit his house high above the town, where each room is lushly decorated in a different style – just make sure you book in advance.
@@ -51,7 +49,7 @@ The high speed ferry from Poole travels to St Peter Port in under three hours, t
 
 The conventional ferry from Portsmouth takes seven hours – why not read The Guernsey Literary and Potato Peel Pie Society (or watch the 2018 film) on the voyage?  
 
-![](/images/uploads/corbiere-lighthouse-jersey_canva.jpg "Corbiere lighthouse, Jersey")
+![](/images/uploads/clonque-bay-alderney_canva.jpg "Clonque Bay, Alderney")
 
 Alderney, three and half miles long and a mile and a half wide, is the most northerly of the main islands – closer to France than it is to its sister islands. It’s known for its white sandy beaches, wildlife and fortifications, and for having its own [Womble](http://www.bbc.co.uk/ahistoryoftheworld/objects/KbrGaWZpQj2npZdbHWvwrA).  
 
@@ -72,3 +70,5 @@ Herm, a tiny island three miles from Guernsey, is part of the Guernsey Bailiwick
 > M﻿y sister lives on Jersey so I visit often. I love all the independent shops and cafes, the  beautiful big beaches and the massive waves. The lovely thing about being on an island us that everything is so easy to access.
 
 ***~﻿ Becca Sayers, Cardiff***
+
+![](/images/uploads/corbiere-lighthouse-jersey_canva.jpg "Corbiere lighthouse, Jersey")
