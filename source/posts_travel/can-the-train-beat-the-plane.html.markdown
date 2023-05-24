@@ -28,6 +28,8 @@ Bristol Temple Meads station is shabby and beautiful. We boarded a crowded Cross
 
 At Birmingham we swapped to the swifter, smoother, quieter and more modern Avanti West Coast train to Edinburgh. And now the real geography lesson began. We had left the well-mannered fields of the West behind. First came miles of northern towns: Crewe, Warrington, Wigan, Preston. Gothic red-brick towers, canals, cranes and scrapyards. 
 
+> First came miles of northern towns: Crewe, Warrington, Wigan, Preston. Gothic red-brick towers, canals, cranes and scrapyards. 
+
 Later, brick was replaced by stone – first grey stone, then red. The towns melted away into smooth green hills which became steeper, more rugged. Lancaster, Penrith, Carlisle. Pasture became moor. The railway ran alongside a river and the M6, threading its way through steep valleys and cuttings. Rain was falling, and water streamed off the hillsides to join the rushing river.
 
 Then we stopped. We waited. The train manager made an announcement about overhead power lines. Admittedly, it looked extremely windy. We gazed at the mossy banks of a cutting topped by a dry-stone wall. Rain pelted the window. We weren’t worried. We had no more connections to make, and plenty of time to reach Edinburgh.
@@ -38,9 +40,11 @@ T and I took a walk up to the ‘shop’, otherwise known as the buffet, where h
 
 Crossing the border into Scotland the hills grew more dramatic and then abruptly fell away as we crossed the floodplain of the River Clyde near Carstairs. Our arrival in Edinburgh was theatrical, gliding past Murrayfield Stadium and beneath the clifftop Castle, then coming to a halt at Waverley Station, 42 minutes late, but still in daylight. 
 
-### We spilled gratefully out of the station and straight on to one of Europe’s most beautiful boulevards, Princes Street, five minutes’ walk from our hotel.
+We spilled gratefully out of the station and straight on to one of Europe’s most beautiful boulevards, Princes Street, five minutes’ walk from our hotel.
 
-So how does the train compare with flying? Undoubtedly, the train takes longer. If all goes well, when we fly we arrive four and a half hours after setting off. Our train journey, door to door, would have been just under seven hours without the delay. 
+##### So how does the train compare with flying? 
+
+Undoubtedly, the train takes longer. If all goes well, when we fly we arrive four and a half hours after setting off. Our train journey, door to door, would have been just under seven hours without the delay. 
 
 Having said that, flying doesn’t always go smoothly. Twice I have had to wait over an hour for a taxi at Bristol airport, and once our flight was delayed by six hours because of snow on the runway. Whether you fly or take the train, delays are all too common. But the main consideration is that the concentrated time on the train is ideal for relaxing, reading and chatting, where time at the airport is full of stress and distraction.
 
@@ -51,8 +55,6 @@ As for cost, our train tickets cost £288.40 including a booking fee. That was f
 Had we needed to cancel, we could have done so for a £10 fee. Our Family and Friends Railcard, which costs £30 for a year, gave us a discount of a third off the adult tickets and 60% off the child ticket, so it would have paid for itself on this trip alone. (If you don’t have children, consider the Two Together Railcard instead.) Furthermore, because our train to Edinburgh was more than half an hour late, we can claim back 25% of the return fare, bringing the cost down to £217.
 
 Airlines advertise Bristol to Edinburgh fares of just £21 each way, but those fares aren’t available on a Friday in the school holidays. For our journey the total cost for our party of three would have been £237.94. We would have had to add around £55.00 for buses to and from the airport at each end (more for taxis), giving a total cost of £293. There are also extra fees each way to reserve your seats or check a bag. And flexible tickets cost much, much more. On this occasion, the train wins on price.
-
-> On this occasion, the train wins on price.
 
 Perhaps the only comparison that ought to matter is carbon emissions. In *[How Bad are Bananas?](https://www.waterstones.com/book/how-bad-are-bananas/mike-berners-lee/9781846688911)* Mike Berners-Lee estimated that, for a similar length of journey, the train’s emissions are about one third of flying. The carbon intensity of our electricity has halved since that book was written, though this journey is at least partly by diesel train. To keep your emissions as low as possible choose the west coast route and travel standard class.
 
