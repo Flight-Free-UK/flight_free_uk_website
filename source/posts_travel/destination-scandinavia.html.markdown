@@ -68,7 +68,7 @@ It was obviously much more expensive to travel by rail (£800 pp) compared to fl
 
 ## 🇫🇮 Finland by bicycle, train and ferry
 
-#### – the Clines family
+#### ~ the Clines family
 
 We’re a car-free family that loves to travel, happiest taking off on our bicycles with camping gear in tow. In 2018 a work conference in Helsinki meant that Finland was on the list. It would be easier to fly, certainly, but after weeks of researching whether it would be possible to travel as a family with all of our bikes and gear by train and ferry, we decided to go for it.
 
@@ -96,7 +96,7 @@ There are quicker ways to travel to Finland and back, and cheaper ones too, but 
 
 ## 🇩🇰 Denmark by train
 
-#### – Anna Hughes
+#### ~ Anna Hughes
 
 It was my first time in the Channel Tunnel and I tried not to picture the vast amounts of water pushing down from above as we hurtled through the darkness. But soon we emerged into northern France, into hills that roll just as they do in Kent. Commuters held coffee cups on station platforms; the buildings had French-style roofs and French-coloured bricks, but they were buildings, roofs and bricks all the same. This is what you miss out on with air travel – seeing the subtleties, the everyday lives of the people you are passing, understanding how everything is stitched together.
 
