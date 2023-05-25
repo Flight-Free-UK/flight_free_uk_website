@@ -1,6 +1,6 @@
 ---
 published: true
-title: Umbria, Italy
+title: Overnight coach to Umbria, Italy
 date: 2019-10-05T08:03:59.725Z
 cover_image: /images/uploads/assisi_canva.jpg
 summary: Sarah Clayton from AirportWatch travelled by train and coach for a
