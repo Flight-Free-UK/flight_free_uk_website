@@ -12,7 +12,7 @@ category: travel
 ---
 ### Since the first Bradshaw’s Continental Railway Guide was published in 1847, publishers have been trying to explain Europe’s railways for the benefit of travellers.
 
-There’s no one perfect way to describe the complexity of a railway network. A map shows you where you can go, but not which places are worth going to. A timetable tells you when a train leaves or arrives, but not whether you will be able to eat or sleep on board.
+##### There’s no one perfect way to describe the complexity of a railway network. A map shows you where you can go, but not which places are worth going to. A timetable tells you when a train leaves or arrives, but not whether you will be able to eat or sleep on board.
 
 Reading timetables is a dying art now that we have apps and websites to plan our journeys, but apps can feel a bit like blundering around in a darkened room with only a laser pen for illumination. You can see what you point it at, but remain in ignorance of everything outside its beam. 
 
