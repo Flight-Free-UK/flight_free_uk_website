@@ -1,6 +1,6 @@
 ---
 published: true
-title: Pembrokeshire to Prague
+title: Prague to Pembrokeshire
 date: 2020-02-12T18:13:31.525Z
 cover_image: /images/uploads/anthony-delanoix-prague-unsplash-square.jpg
 summary: How far is it possible to travel in one day? Karen Simmonds shares the
