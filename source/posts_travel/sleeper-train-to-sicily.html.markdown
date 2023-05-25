@@ -13,7 +13,7 @@ category: travel
 
 ### I’d often dreamed of European train adventures, but courage never matched imagination until I discovered the website [seat61.com](https://www.seat61.com/).
 
-Trips to Germany and the Netherlands (how easy that was!) were followed by an expedition to Transylvania – I returned without experiencing too many horror stories. And that’s how I built up my confidence to take on Sicily, famous for volcanoes and classical civilisation, but also notorious for pickpockets and *mafiosi*.
+##### Trips to Germany and the Netherlands (how easy that was!) were followed by an expedition to Transylvania – I returned without experiencing too many horror stories. And that’s how I built up my confidence to take on Sicily, famous for volcanoes and classical civilisation, but also notorious for pickpockets and *mafiosi*.
 
 The romantic in me chose the night sleeper from Paris, dining on board with a half bottle of *chianti.* The train follows the same route under the Alps as the Orient Express. In the morning, after an excellent barista-prepared *macchiato,* I alighted at Padua, and as I was in no rush, stayed there for a day and a night before heading to Rome for an afternoon and evening. From there I boarded a night train to Sicily.
 
@@ -23,7 +23,7 @@ One oddity about travelling to Sicily by train is that some of it is by train fe
 
 ![The picture shows a closeup shot of a map of Italy, with Sicily at the bottom. ](/images/uploads/italy-sicily.jpg)
 
-#### That first Sicilian oddity was followed by others. Its desserts for starters.
+##### That first Sicilian oddity was followed by others. Its desserts for starters.
 
  I made the mistake on my morning of arrival of ordering *granita* (thinking granola) to discover that Sicilians habitually feast on ice cream for breakfast. *Cannoli* is another strange one, a hot dog shaped pastry containing whipped ricotta and pistachio. The wise practice social distancing *before* taking a bite (oops!). And then there’s the garish green Sicilian *cassata*, famous throughout Italy. For a hemispherical bun it takes some beating. The Catanian version, in an indelicate but popular memorial to their patron saint, is iced white then topped with a glacé cherry. I’ll spare you the gory details; suffice to say that Saint Agatha came to a sticky end.
 
