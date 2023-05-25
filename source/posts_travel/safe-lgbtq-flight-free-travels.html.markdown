@@ -11,9 +11,9 @@ category: travel
 ---
 ![Image shows a cartoon train on a rainbow](/images/uploads/pride_rainbow_train-lg.jpg)
 
-## Despite some great progress in recent times, there’s still a long way to go to achieve true equality for LGBTQ+ people.
+### Despite some great progress in recent times, there’s still a long way to go to achieve true equality for LGBTQ+ people.
 
-#### And when it comes to travelling, not all countries are safe to visit. 
+##### And when it comes to travelling, not all countries are safe to visit. 
 
 There are still many places that criminalise same sex relationships and refuse to recognise people by their gender identity, with prison sentences and in some cases even death as a result. This means that LGBTQ+ people might have to undertake more research than a straight cisgender person to ensure they’ll be safe to be themselves wherever they choose to travel.
 
@@ -75,6 +75,6 @@ Getting to Portugal by train is a fairly long journey that might require a stop 
 
 The ferry from Plymouth to Santander or Bilbao can be useful here, and from there you can pick up a rail or coach connection to Vigo, Porto and Lisbon. 
 
-## Happy Pride Month! 
+##### Happy Pride Month! 
 
 *For all details about travelling to these countries (and more!) without flying, visit [seat61.com](https://www.seat61.com/index.html). The [Flixbus website](https://www.flixbus.co.uk/) will tell you if there are coaches to your desired destination. Train tickets can be booked on [Rail Europe](https://raileurope.com/).*
