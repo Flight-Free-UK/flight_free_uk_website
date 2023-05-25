@@ -155,6 +155,6 @@ Many of us are brought up with romantic narratives about road tripping around Am
 
 It’s obvious that we have to fly less, but that's not a bad thing; it means we appreciate what’s around us and become so much more engaged with our local areas. 
 
-#### A road trip in Scotland is a great flight-free trip and I recommend it whole-heartedly.
+##### A road trip in Scotland is a great flight-free trip and I recommend it whole-heartedly.
 
 ![a river rushes over some rocks in the Lost Valley Walk](/images/uploads/scotland-roadtrip_lost-valley-walk.jpg "Lost Valley Walk, Glen Coe")
