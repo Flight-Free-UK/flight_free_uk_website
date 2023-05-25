@@ -55,5 +55,3 @@ There are four flights a week between Naples and Manchester, and it takes only 2
 I wish governments and train companies did more to encourage people to travel by train. This is a sustainable and more humane way of travelling. It requires a change of mindset: the journey is part of the fun and not a chore to get over with. Something is slowly changing with new low-cost train companies in the UK, and more sleeper train journeys starting across Europe.
 
 ##### My experience of travelling by train was so completely positive that I am already planning the next trip. Perhaps next time I can have a stop-over in Paris instead, or in Turin where I can visit other friends and family.
-
-##### If only the Eurostar started to take bikes again, it would be perfect!
