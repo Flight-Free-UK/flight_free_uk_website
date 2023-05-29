@@ -67,7 +67,7 @@ The kids were awesome. We said a couple of times that they were good age for it.
 
 **George:** I liked the couchette because I slept really high up. 
 
-**Andy:** It’s worth adding that we’re not novices at European train travel. A 10th wedding anniversary trip hit all the right notes: breakfast in London, lunch in Paris and dinner in Barcelona (a great line stolen, shamelessly, from the awesome Man in Seat61). However this was the first time, if you exclude the sleeper to Scotland, that we’ve taken the kids, and the first time we’ve combined train and ferry.
+**Andy:** It’s worth adding that we’re not novices at European train travel. A 10th wedding anniversary trip hit all the right notes: breakfast in London, lunch in Paris and dinner in Barcelona (a great line stolen, shamelessly, from the awesome [Man in Seat Sixty-One](https://www.seat61.com/)). However this was the first time, if you exclude the sleeper to Scotland, that we’ve taken the kids, and the first time we’ve combined train and ferry. 
 
 **Freddie:** Overall, I liked the travel more than the holiday!
 
