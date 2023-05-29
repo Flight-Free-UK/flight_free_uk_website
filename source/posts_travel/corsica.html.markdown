@@ -25,6 +25,8 @@ We chose Corsica because we wanted to go somewhere warm with sandy beaches that 
 
 **Andy:** With flying off the table, the journey to Corsica would feature taxi, train, tube, Eurostar, Metro, double decker TGV, overnight ferry, bus and a hire car. All together that sounds a bit much but the outbound journey was at a very relaxed pace. 
 
+![](/images/uploads/prosecco-on-train_claire-gilbert.jpg)
+
 Rather than rushing through Paris we spent two nights there. We spent the morning strolling along the Promenade Plantée and indulging in the cafe culture, ate crepes and croissants, visited the funfair set up in the Tuileries Gardens and stopped for some fun and games (and drinks) at Paris Plage on the Seine. As well as breaking up the travel, this day wandering around felt like a bonus mini city break to start our holiday.
 
 **George, 12:** The trains to London and Paris were good fun. The wifi wasn’t amazing but we had games and plenty of food to pass the time.
@@ -35,21 +37,31 @@ I loved how the train from Paris to Marseille was a double decker. We sat higher
 
 **Andy:** We had allowed plenty of time for our ferry transfer but, as we sat enjoying the train picnic we had bought that morning – bread, meat, cheese and wine – our buffer was steadily eroded. Delays caused by a fire beside the line meant that we arrived more than two and half hours late, and only managed to reach the port in time to wave our ferry goodbye. Plan B was hastily formed: we would be able to board a ferry bound for Corsica later that evening.
 
+![](/images/uploads/corsica-ferries_canva.jpg "Corsica ferries docked at Ajaccio")
+
 **George:** Even though we only booked the ferry just before it left we got a cabin and had somewhere nice to sleep. We dumped our bags and after some drinks in the bar and time on a games machine (for free) we went out on deck. As there was very little light, you could really see the moon and the stars – the moon was big and bright. I slept well. It was nice as the ferry wasn’t too noisy, and it rocked you to sleep.
 
-**Andy:** Rather than docking at Ajaccio on the west coast, our replacement overnight ferry dropped us at L’Île-Rousse in the north of Corsica. We therefore had an unplanned train trip across the green, mountainous spine of Corsica. Wow! What a journey that was: through the rugged Corsican wilderness, mountain tunnels, bridges and old towns. We arrived in Ajaccio early in the afternoon rather than first thing in the morning, which meant that rather than killing time we could check into our villa straight away. It couldn't have worked out better!
+**Andy:** Rather than docking at Ajaccio on the west coast, our replacement overnight ferry dropped us at L’Île-Rousse in the north of Corsica. We therefore had an unplanned train trip across the green, mountainous spine of Corsica. 
+
+![](/images/uploads/corte-corsica_canva.jpg "Corte, central Corsica")
+
+Wow! What a journey that was: through the rugged Corsican wilderness, mountain tunnels, bridges and old towns. We arrived in Ajaccio early in the afternoon rather than first thing in the morning, which meant that rather than killing time we could check into our villa straight away. It couldn't have worked out better!
+
+> We had an unplanned train trip across the green, mountainous spine of Corsica, through the rugged Corsican wilderness, mountain tunnels, bridges and old towns. Wow! What a journey that was.
 
 **George:** We had a great time in Corsica. We went to lots of beaches and got to swim in the sea with our snorkels. We had a feline visitor to our villa during our stay, and for Mum’s birthday we went to an outdoor restaurant with a meat grill and wild cats scrounging for food – I loved it. 
 
 **Freddie:** We got to watch the sun set over the cove that our villa overlooked while watching the water sparkle. 
 
-**Claire:** For the return leg we swapped to the day ferry and overnight train. We were most apprehensive about the return ferry trip as it was eight hours and we didn’t know if this would feel really long. We needn’t have worried. Foot passengers boarded first, so we were able to claim a nice space with a table. We had lots to eat, books to read, games to play and devices for all other distractions. 
+![](/images/uploads/corsica_claire-gilbert.jpg "The bay at Ajaccio")
+
+**Claire:** For the return leg we swapped to the day ferry and overnight train. We were most apprehensive about the return ferry trip as it was eight hours and we didn’t know if this would feel too long. We needn’t have worried. Foot passengers boarded first, so we were able to claim a nice space with a table. We had lots to eat, books to read, games to play and devices for all other distractions.
 
 **Andy:** It wasn't how Claire would have chosen to spend her birthday but it was certainly memorable and a chilled bottle of Prosecco was enjoyed. 
 
 **Claire:** We had left our villa in Corsica at 07.00 and arrived in Paris, Gare d'Austerlitz, exactly 24 hours later. A quick transfer and breakfast meant we were back in London just after 11.00, and home in Oxford by 3pm. 
 
-The kids were awesome. We said a couple of times that they were good age for it. They were able to be flexible when plans had to change, and they were able to walk a fair distance with a bit of luggage without too much moaning. They were able to entertain themselves for stretches of travel which meant we were also able to relax. 
+The kids were awesome. We said a couple of times that they were good age for it. They were able to be flexible when plans had to change, and they were able to walk a fair distance with a bit of luggage without too much moaning. They could entertain themselves for stretches of travel which meant we were also able to relax. 
 
 **Freddie:** The sleeper train wasn't quite as comfy as the overnight ferry and there was less room to stretch out. You couldn’t get anything to eat or play like you could on the ferry. But it was still nice to look out of the window and see the beautiful landscape. 
 
@@ -58,3 +70,5 @@ The kids were awesome. We said a couple of times that they were good age for it.
 **Andy:** It’s worth adding that we’re not novices at European train travel. A 10th wedding anniversary trip hit all the right notes: breakfast in London, lunch in Paris and dinner in Barcelona (a great line stolen, shamelessly, from the awesome Man in Seat61). However this was the first time, if you exclude the sleeper to Scotland, that we’ve taken the kids, and the first time we’ve combined train and ferry.
 
 **Freddie:** Overall, I liked the travel more than the holiday!
+
+> Overall, I liked the travel more than the holiday! (Freddie, 9)
