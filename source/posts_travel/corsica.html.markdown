@@ -53,7 +53,7 @@ Wow! What a journey that was: through the rugged Corsican wilderness, mountain t
 
 **Freddie:** We got to watch the sun set over the cove that our villa overlooked while watching the water sparkle. 
 
-![](/images/uploads/corsica_claire-gilbert.jpg "The bay at Ajaccio")
+![](/images/uploads/corsica_claire-gilbert.jpg "Plage de Campomoro")
 
 **Claire:** For the return leg we swapped to the day ferry and overnight train. We were most apprehensive about the return ferry trip as it was eight hours and we didn’t know if this would feel too long. We needn’t have worried. Foot passengers boarded first, so we were able to claim a nice space with a table. We had lots to eat, books to read, games to play and devices for all other distractions.
 
