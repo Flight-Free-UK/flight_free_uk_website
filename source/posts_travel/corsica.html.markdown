@@ -16,11 +16,13 @@ read_time_minute: 4
 
 **Andy:** The adventure of different forms of transport and lure of travelling overland is strong. I want to enjoy, rather than endure, the journey, and to do that it sometimes pays to slow down. If I’m honest I also enjoyed the planning, sifting through the options and connections.
 
+> I want to enjoy, rather than endure, the journey.
+
 **Claire:** For me it’s the carbon impact of flying. We came to the conclusion that flying simply isn’t compatible with our sustainability goals or how we aim to live.
 
-> We came to the conclusion that flying simply isn’t compatible with our sustainability goals or how we aim to live.
-
 We chose Corsica because we wanted to go somewhere warm with sandy beaches that was slightly more adventurous than the south of France or northern Spain. Corsica and Sardinia have been on Andy’s list for a while. It promised (and delivered) a mix of spectacular scenery, fabulous food and beautiful beaches. 
+
+> We came to the conclusion that flying simply isn’t compatible with our sustainability goals or how we aim to live.
 
 **Andy:** With flying off the table, the journey to Corsica would feature taxi, train, tube, Eurostar, Metro, double decker TGV, overnight ferry, bus and a hire car. All together that sounds a bit much but the outbound journey was at a very relaxed pace. 
 
