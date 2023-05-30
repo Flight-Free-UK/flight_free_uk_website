@@ -4,8 +4,7 @@ title: Corsica
 date: 2023-05-29T16:32:11.293Z
 cover_image: /images/uploads/ajaccio-corsica_canva.jpg
 summary: For a slightly more adventurous holiday, how about a ferry and train
-  combo to the Mediterranean island of Corsica? Claire and Andy Gilbert tell us
-  how.
+  combo to the Mediterranean island of Corsica? The Gilbert family tells us how.
 author: FlightFree UK
 read_time_minute: 4
 ---
