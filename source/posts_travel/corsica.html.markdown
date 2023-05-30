@@ -24,7 +24,7 @@ We chose Corsica because we wanted to go somewhere warm with sandy beaches that 
 
 > Flying simply isn’t compatible with our sustainability goals or how we aim to live.
 
-**Andy:** With flying off the table, the journey to Corsica would feature taxi, train, tube, Eurostar, Metro, double decker TGV, overnight ferry, bus and a hire car. All together that sounds a bit much but the outbound journey was at a very relaxed pace. 
+**Andy:** With flying off the table, the journey to Corsica would feature taxi, train, tube, Eurostar, Metro, double decker TGV, overnight ferry, bus and a hire car. All together that sounds a bit much but the journey was at a very relaxed pace. 
 
 Rather than rushing through Paris we spent two nights there. We spent the morning strolling along the Promenade Plantée and indulging in the cafe culture, ate crepes and croissants, visited the funfair set up in the Tuileries Gardens and stopped for some fun and games (and drinks) at Paris Plage on the Seine. As well as breaking up the travel, this day wandering around felt like a bonus mini city break to start our holiday.
 
