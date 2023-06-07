@@ -17,6 +17,15 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
+  - name: Bo Richards
+    role: Social media
+    bio: Sustainability enthusiast Bo has got everything covered, from making her
+      own crochet clothing from scrap or second-hand wool, to holidaying by
+      train. She’s also an organiser for the community working group at the
+      UKYCC (UK Youth Climate Coalition). A favourite flight free trip was
+      through the Alps to Interlaken in Switzerland, and a dream trip would be
+      through the Balkans (specifically Montenegro) in a campervan.
+    photo: /images/uploads/bo_richards.jpg
   - name: Evie Vouillemin
     role: Podcast
     photo: /images/uploads/evie_vouillemin.jpg
