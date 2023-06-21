@@ -28,7 +28,7 @@ I’ve written to the Scottish Government asking that they look into supporting 
 
 My partner and I go to the Pyrenees every summer for a walking holiday. From Devon it takes about three hours to get to London, then we go by Eurostar to Paris, Tarbes on the TGV then up into the hills by smaller trains and buses. For more remote road access we find hitching pretty quick. We find the public transport in France is well joined up, with the trains and buses all being run in synchronicity by SNCF.
 
-![Picture shows the Pyrenees mountains. There is a lush green grassy valley with trees lining the sides. The hills of the valley lead up to the Pyrenees mountain range and the peaks are covered in snow. The sky is bright blue with a few clouds. ](/images/uploads/pyrenees.jpg "The Pyrenees")
+![Picture shows the Pyrenees mountains. There is a lush green grassy valley with trees lining the sides. The hills of the valley lead up to the Pyrenees mountain range and the peaks are covered in clouds. The sky is blue.](/images/uploads/pyrennes_canva.jpg "The Pyrenees")
 
 We spend a couple of weeks backpacking, sometimes walking in and out of France and Spain a couple of times a day on the HRP (Haute Route Pyrenees) or using the GR 10 (French side route) or GR11 (Spanish side). We can do five or six nights wild camping, then drop down into a town for a shower at a campsite, a meal in a restaurant, and resupply with dry food for the next leg.
 
@@ -76,7 +76,7 @@ It’s only 27 miles from Ramsbottom to Manchester Airport and whilst we could s
 
 We’re going to a wedding near Carcassonne, and didn’t want to fly because “Flying burns more oil!” says Lola (age 4). It looks like a nice place, so we thought we’d make a holiday of it.
 
-![Carcasonne](/images/uploads/carcasonne.jpg "Carcasonne")
+![Images shows Carcasonne church and the rooftops of the surrounding buildings](/images/uploads/carcasonne_canva.jpg "Carcasonne")
 
 We’ve taken a fair few flights as a family (we lived in Zambia for two years), but are now trying to do all family holidays by ground travel only. So far, we’ve been by train/boat/bike to Denmark, Netherlands, Belgium, Italy, Isle of Man, Scotland (day and night trains) and Spain.
 
