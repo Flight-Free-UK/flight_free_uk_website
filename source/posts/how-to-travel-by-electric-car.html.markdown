@@ -20,7 +20,7 @@ Battery manufacture also has an impact. The estimate is that [CO2 emissions from
 
 But overall, electric cars come out on top. In 2018, [a government paper](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/739460/road-to-zero.pdf) found that taking into account the electricity source and the energy used for battery production, an electric car in the UK had greenhouse gas emissions 66% lower than a petrol car and 60% lower than a diesel car. This will continue to drop as electricity generation in the UK moves further towards renewable energy. 
 
-The overall cost is also lower: although the initial cost of purchasing an electric car might be higher, on a typical journey you’ll spend less on charging than you would compared to petrol or diesel. 
+The overall cost is also lower: although purchasing an electric car might cost more initially, on a typical journey you’ll spend less than you would compared to petrol or diesel. 
 
 \[chart/infographic]
 
