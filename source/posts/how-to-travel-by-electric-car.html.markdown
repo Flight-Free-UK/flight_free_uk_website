@@ -66,4 +66,4 @@ Tesla GPS shows you all the chargers in range. Charging is free when you use the
 
 > Our experience shows that road-tripping in an EV is completely doable. There were a few niggles, and it is still not quite as easy as doing the same journey in a car running on petrol or diesel. Nevertheless, it is not far off, and you get plenty of benefits besides. Fuel is cheaper (or free), Tesla drivers at least get plenty of kudos from passers-by, and you get to travel without the guilt of adding unnecessary carbon dioxide to the atmosphere.
 
-M﻿ore tips can be found in this article: <https://www.theaa.com/european-breakdown-cover/driving-in-europe/charging-around-europe-in-an-electric-vehicle>
+#### M﻿ore tips can be found in this article: <https://www.theaa.com/european-breakdown-cover/driving-in-europe/charging-around-europe-in-an-electric-vehicle>
