@@ -8,9 +8,9 @@ summary: We look at the practicalities of holidaying in an electric vehicle
 author: FlightFree UK
 read_time_minute: 3
 ---
-##### For many people, driving on holiday is a good option, for practical or logistical reasons. Choosing an electric car is a great way to cut your travel emissions.
+#### For many people, driving on holiday is a good option, for practical or logistical reasons. Choosing an electric car is a great way to cut your travel emissions.
 
-### Why travel by electric car?
+## Why travel by electric car?
 
 Electric cars produce zero tailpipe emissions, meaning that they don’t contribute to air pollution or climate change in the same way that ICE (internal combustion engine) cars do. 
 
@@ -24,7 +24,7 @@ The overall cost is also lower: although the initial cost of purchasing an elect
 
 \[chart/infographic]
 
-### Range anxiety
+## Range anxiety
 
 The faster you drive, the faster you will use up your available fuel. With fewer chargers than petrol stations, this means that some planning is required. 
 
@@ -38,7 +38,7 @@ On a road trip, expect to charge twice a day. Fast chargers can give an 80% char
 
 Driving style and ambient temperature both make a difference to available range. Avoid harsh braking and accelerating to increase the efficiency of the vehicle, and be aware that range goes down in low temperatures. Going uphill also uses ‘miles’ up more quickly. 
 
-### Driving abroad
+## Driving abroad
 
 The charging network in Europe is rapidly growing, with the Netherlands topping the table for the highest number of chargers, and Germany, France and the UK coming next.
 
@@ -52,7 +52,7 @@ Be sure to cover the legal requirements of driving abroad: valid driving licence
 
 Personal travel insurance and comprehensive European breakdown cover with UK repatriation are also recommended.
 
-### Tesla
+## Tesla
 
 Tesla has its own network of chargers all over Europe. Initially these could only be used by Tesla drivers, but the network is now opening up. Tesla can charge from other chargers too. 
 
