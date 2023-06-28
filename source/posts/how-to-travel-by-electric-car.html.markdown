@@ -16,9 +16,9 @@ Electric cars produce zero tailpipe emissions, meaning that they don’t contrib
 
 That doesn’t mean electric cars are entirely zero-emission. Tyre and brake wear generate emissions and particulate pollution, and it depends heavily on how the electricity is generated. 
 
-Battery manufacture also has an impact. The estimate is that CO2 emissions from electric car production are 59% higher than for ICE vehicles, [before the car has even hit the road](https://www.sciencedirect.com/science/article/pii/S1876610217309049).
+Battery manufacture also has an impact. The estimate is that [CO2 emissions from electric car production are 59% higher than for ICE vehicles](https://www.sciencedirect.com/science/article/pii/S1876610217309049), before the car has even hit the road.
 
-But overall, electric cars come out on top. In 2018, a government paper found that taking into account the electricity source and the energy used for battery production, an electric car in the UK had greenhouse gas emissions 66% lower than a petrol car and 60% lower than a diesel car. This will continue to drop as electricity generation in the UK moves further towards renewable energy. 
+But overall, electric cars come out on top. In 2018, [a government paper](<17 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/739460/road-to-zero.pdf>) found that taking into account the electricity source and the energy used for battery production, an electric car in the UK had greenhouse gas emissions 66% lower than a petrol car and 60% lower than a diesel car. This will continue to drop as electricity generation in the UK moves further towards renewable energy. 
 
 The overall cost is also lower: although the initial cost of purchasing an electric car might be higher, on a typical journey you’ll spend less on charging than you would compared to petrol or diesel. 
 
