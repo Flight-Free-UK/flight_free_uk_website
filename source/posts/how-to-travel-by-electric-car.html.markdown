@@ -3,11 +3,13 @@ published: true
 title: How to travel by electric car
 category: how-to
 date: 2022-12-02T16:23:25.999Z
-cover_image: /images/uploads/ferry_canva.jpg
+cover_image: /images/uploads/ev1_canva-sm.jpg
 summary: We look at the practicalities of holidaying in an electric vehicle
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/ev1_canva.jpg)
+
 #### For many people, driving on holiday is a good option, for practical or logistical reasons. Choosing an electric car is a great way to cut your travel emissions.
 
 ## Why travel by electric car?
@@ -33,6 +35,8 @@ Map out your charging spots in advance and keep an eye on your available range. 
 Some charging points are less picturesque, such as those in motorway service stations, but taking frequent breaks is recommended for motorway travel, so this gives an extra incentive to have a rest. Conventional fuel stations also increasingly offer electric charge points.
 
 [ZapMap](https://www.zap-map.com/live/) shows all the electric charging points in the UK.
+
+![](/images/uploads/ev2_canva.jpg)
 
 On a road trip, expect to charge twice a day. Fast chargers can give an 80% charge in less than an hour, whereas ‘destination’ chargers take a few hours to fully charge – typically once you’ve reached your destination, or over night.
 
