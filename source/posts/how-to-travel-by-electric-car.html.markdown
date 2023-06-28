@@ -36,8 +36,6 @@ Some charging points are less picturesque, such as those in motorway service sta
 
 [ZapMap](https://www.zap-map.com/live/) shows all the electric charging points in the UK.
 
-![](/images/uploads/ev2_canva.jpg)
-
 On a road trip, expect to charge twice a day. Fast chargers can give an 80% charge in less than an hour, whereas ‘destination’ chargers take a few hours to fully charge – typically once you’ve reached your destination, or over night.
 
 Driving style and ambient temperature both make a difference to available range. Avoid harsh braking and accelerating to increase the efficiency of the vehicle, and be aware that range goes down in low temperatures. Going uphill also uses ‘miles’ up more quickly. 
@@ -51,6 +49,8 @@ Sites such as [PlugShare](https://www.plugshare.com/) or [Chargemap](https://cha
 Most require a network RFID card, key-fob or app – you won’t be able to pay with a credit or debit card.
 
 Do your research before you leave as it’s hard enough to keep up with the different systems in a familiar language, so it will be harder when it’s not in English.
+
+![](/images/uploads/ev2_canva.jpg)
 
 Be sure to cover the legal requirements of driving abroad: valid driving licence, third-party insurance, valid road tax and MOT test, insurance green card (if applicable), passport, international driving permit (if applicable), vehicle registration document (V5C certificate or VE103 for hire/lease vehicles), UK number plate stickers, Crit’Air vignette (France only). Some countries require vehicles to carry accessories such as a first aid kit, fire extinguisher, high visibility jacket for each occupant, warning triangle, headlamp beam deflectors and spare bulbs.
 
