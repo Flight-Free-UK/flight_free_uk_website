@@ -24,7 +24,7 @@ But overall, electric cars come out on top. In 2018, [a government paper](https:
 
 The overall cost is also lower: although purchasing an electric car might cost more initially, on a typical journey you’ll spend less than you would compared to petrol or diesel. 
 
-\[chart/infographic]
+![](/images/uploads/electric-vs-petrol-car-emissions-flightfreeuk.jpg "How do electric and petrol cars compare?")
 
 ## Range anxiety
 
