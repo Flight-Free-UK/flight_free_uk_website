@@ -4,13 +4,13 @@ title: In conversation with Quintin Lake
 date: 2023-06-28T20:27:05.449Z
 cover_image: /images/uploads/june-3-.jpg
 summary: Photographer, walker and adventurer Quintin Lake joins us to talk about
-  his recent trip capturing the coastline of Britain. 
+  his long-distance walking trips including around the coastline of Britain
 author: FlightFree UK
 read_time_minute: 6
 ---
-*This is episode 6 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-quintin-lake/)  and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)* 
+*This is episode 6 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-quintin-lake/)  and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)*.
 
-## This month we are joined by Quintin Lake, a photographer, walker and adventurer.
+### This month we are joined by Quintin Lake, a photographer, walker and adventurer.
 
 ### Quintin
 
@@ -42,13 +42,13 @@ Every walking day was planned in advance which was challenging because of the we
 
 ### Flight Free UK
 
-The photographs on your website ‘The Perimeter’ are stunning. There’s a focus on the lesser spotted things. Is that part of your style?
+The photographs on your website ‘[The Perimeter](https://theperimeter.uk/)’ are stunning. There’s a focus on the lesser spotted things. Is that part of your style?
 
 ### Quintin
 
 Yes, and that’s why I think the journey had value. We’re all familiar with the ‘iconic coast’ – the white cliffs, the Lizard, the stacks of Duncansby – yet my experience was more about capturing the subtle plays of light or the little things. That’s the joy of a long walk like this, it’s the unexpected moments. 
 
-I love long walks because they open up creativity. Human-powered travel allows you to slow down and see things. There’s something about sleeping on the ground and on the earth, and seeing the stars at night. After a couple of days of that, you get in the rhythm of what matters. It allows me to see things more sharply.
+I love long walks because they open up creativity. Human-powered travel allows you to slow down and see things. There’s something about sleeping on the ground and on the earth, and seeing the stars at night. After a couple of days of that, you get into the rhythm of what matters. It allows me to see things more sharply.
 
 ### Flight Free UK
 
@@ -82,10 +82,10 @@ I would encourage people not to be too worried about wild camping. As long as yo
 
 If you are new to long distance walking, start with an easier trail, for example, the Thames path, or the South Downs way. Or further north it could be an easier section of the Pennine Way or the Speyside Way. They would all be great ones to start with. 
 
-You can find more about Quintin at his website, <https://theperimeter.uk/>, or on Twitter or Instagram @quintinlake
+##### You can find more about Quintin at his website, [theperimeter.uk](https://theperimeter.uk/), or on [Twitter](https://twitter.com/quintinlake) or [Instagram](https://www.instagram.com/quintinlake/) @quintinlake
 
-Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-quintin-lake/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/) 
+*Listen to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-quintin-lake/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/).*
 
-Credits:
+***Credits:***
 
-Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music: [](https://uppbeat.io/t/dan-barton/the-executive-lounge) [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)
+*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music: [](https://uppbeat.io/t/dan-barton/the-executive-lounge) [Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)*
