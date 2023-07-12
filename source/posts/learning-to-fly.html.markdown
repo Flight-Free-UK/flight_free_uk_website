@@ -38,7 +38,7 @@ Yet all this can be achieved without getting on a plane. We are so lucky with Eu
 
 ###### If you know of a school that offers trips by air and want to help buck the trend, we recommend writing a letter to the school. The more that climate concerns are raised, the more likely it is that future policy might change to reflect the reality of the climate crisis. Be polite and factual, but also include your personal motivations and feelings. 
 
-Here is an example letter, written by our Director to a local school. 
+Here is an example letter, written by our Director to a family member's school. 
 
 *Dear Mr X.* 
 
