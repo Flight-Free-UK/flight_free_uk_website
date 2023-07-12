@@ -8,11 +8,11 @@ summary: For an ultra-low carbon holiday, Ali chose a week cycling around
 author: FlightFree UK
 read_time_minute: 6
 ---
-![](/images/uploads/sardinia_canva.jpg "Beach at La Pelosa in Sardinia")
+![](/images/uploads/sardinia_canva.jpg "The beach at La Pelosa in northern Sardinia")
 
-## Cycle touring is my preferred way to holiday. 
+### Cycle touring is my preferred way to holiday. 
 
-#### It’s an enjoyable and social hobby that is a unique way to explore: you can have a fairly intimate relationship with the places you’re passing through, while still being able to cover a reasonable distance. 
+##### It’s an enjoyable and social hobby that is a unique way to explore: you can have a fairly intimate relationship with the places you’re passing through, while still being able to cover a reasonable distance. 
 
 It’s also a fabulous way to stay physically and mentally fit and healthy, especially for someone like me with knee problems.
 
