@@ -1,9 +1,9 @@
 ---
 published: true
-title: "Flight free in 2022: Sunita"
+title: Sunita
 category: testimonials
 date: 2021-09-01T10:14:35.343Z
-cover_image: /images/uploads/sunita-statement-.jpg
+cover_image: /images/uploads/sunita-testimonial-cover.jpg
 summary: “It feels wrong to take a flight knowing that the carbon emissions will
   affect families all over the world.”
 author: FlightFree UK
