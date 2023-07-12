@@ -1,9 +1,9 @@
 ---
 published: true
-title: Poppy
+title: Poppy Okotcha
 category: testimonials
 date: 2021-05-25T21:22:49.328Z
-cover_image: /images/uploads/testimonial-poppy.jpg
+cover_image: /images/uploads/poppy-okotcha-testimonial-cover.jpg
 summary: "Devon-based Poppy Okotcha shares her motivations for taking the
   #FlightFree pledge. "
 author: FlightFree UK
