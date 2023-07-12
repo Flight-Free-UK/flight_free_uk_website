@@ -3,7 +3,7 @@ published: true
 title: Erin and family
 category: testimonials
 date: 2021-10-21T17:49:33.536Z
-cover_image: /images/uploads/erin-statement.jpg
+cover_image: /images/uploads/erin-testimonial-cover.jpg
 summary: "\"Not flying this year, or next year, or maybe ever, is one of those
   choices for our family. It's one way for us to be part of the solution to
   climate change and not part of the problem.\""
