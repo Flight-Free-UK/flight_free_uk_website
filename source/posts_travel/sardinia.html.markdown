@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Sardinia
 date: 2023-07-12T10:17:34.699Z
 cover_image: /images/uploads/sardinia_canva_cover.jpg
@@ -8,7 +8,7 @@ summary: For an ultra-low carbon holiday, Ali chose a week cycling around
 author: FlightFree UK
 read_time_minute: 6
 ---
-![](/images/uploads/sardinia_canva.jpg "La Pelosa beach in Sardinia")
+![](/images/uploads/sardinia_canva.jpg "Beach at La Pelosa in Sardinia")
 
 ## Cycle touring is my preferred way to holiday. 
 
