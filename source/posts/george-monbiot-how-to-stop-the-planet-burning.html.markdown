@@ -13,6 +13,8 @@ read_time_minute: 4
 
 *His work '[attempts to confront power with research, and to tell the stories you would prefer not to hear](https://www.monbiot.com/about/introduction-on-trying-to-be-less-wrong/).'* 
 
+![](/images/uploads/george-monbiot-testimonial-body.jpg)
+
 ### The particular problem with flying is that you produce an awful lot of greenhouse gas emissions very quickly indeed, and you can undo in one day all the savings you might have made in the rest of the year. 
 
 ##### The other problem is that it’s perhaps the hardest of all the carbon-intensive things we do to decarbonise and replace with a technological substitute. So all the talk of greener planes tends to be just talk.
