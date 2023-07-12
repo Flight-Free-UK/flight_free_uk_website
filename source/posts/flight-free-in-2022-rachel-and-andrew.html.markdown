@@ -3,7 +3,7 @@ published: true
 title: Rachel and Andrew
 category: testimonials
 date: 2022-07-15T13:38:37.407Z
-cover_image: /images/uploads/rachel_andrew_testimonial-sm.jpg
+cover_image: /images/uploads/rachel-and-andrew-cover.jpg
 summary: '"We all need to dig a little deeper and think about the daily
   decisions we make: what we consume, and the impact our purchases have on our
   planet."'
