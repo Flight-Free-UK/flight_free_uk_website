@@ -3,7 +3,7 @@ published: true
 title: Annabel
 category: testimonials
 date: 2021-06-08T16:50:55.429Z
-cover_image: /images/uploads/testimonial-annabel.jpg
+cover_image: /images/uploads/annabel-testimonial-cover.jpg
 summary: "Annabel Upson promotes sustainable travel through her company,
   Travelling Whale, and tells us why she took the #FlightFree pledge."
 author: FlightFree UK
