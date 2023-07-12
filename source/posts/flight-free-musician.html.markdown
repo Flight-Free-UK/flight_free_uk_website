@@ -3,7 +3,7 @@ published: true
 title: Nina
 category: testimonials
 date: 2020-12-18T11:56:56.123Z
-cover_image: /images/uploads/trinity_college_choir_keith_saunders.jpg
+cover_image: /images/uploads/nina-testimonial-cover.jpg
 summary: When classical singer Nina Vinther boycotted her choir's overseas tour,
   it was relocated to the UK. She explores the difficulty in changing a culture.
 author: FlightFree UK
