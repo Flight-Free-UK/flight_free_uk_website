@@ -9,7 +9,7 @@ summary: '"This Christmas we are going to see our daughter in Granada by train.
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Image shows a couple standing in an art studio holding a card that says flight free for the climate. Both people have grey hair. Jonathan is wearing a checked blue/purple shirt and Liffy is wearing a colourful jumper](/images/uploads/jonathanandliffy-statement.jpg)
+![](/images/uploads/jonathan-and-liffy-testimonial-body.jpg)
 
 ### Liffy:
 
