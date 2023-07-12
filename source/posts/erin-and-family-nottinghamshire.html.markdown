@@ -10,7 +10,7 @@ summary: "\"Not flying this year, or next year, or maybe ever, is one of those
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Image shows a couple kneeling down outside with their two children holding a phone that says flight free for the climate on the screen. Both parents have brown hair. All four of them have their faces painted, Erin and her partner have small planet Earths on their cheeks, their son has the Earth painted to cover his face and their daughter has pink face paint.](/images/uploads/erin-statement.jpg)
+![Image shows a couple kneeling down outside with their two children holding a phone that says flight free for the climate on the screen. Both parents have brown hair. All four of them have their faces painted, Erin and her partner have small planet Earths on their cheeks, their son has the Earth painted to cover his face and their daughter has pink face paint.](/images/uploads/erin-and-family-testimonial-body.jpg)
 
 ### A relative said to me, "I want to see the barrier reef before it's too late." 
 
