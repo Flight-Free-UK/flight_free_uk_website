@@ -11,17 +11,17 @@ read_time_minute: 2
 ---
 ![](/images/uploads/fiona-testimonial-body.jpg)
 
-### During my degree I came to realise that flying is one of the most environmentally damaging things we can do. 
+### During my degree I came to realise that flying is one of the most environmentally damaging things we can do.
 
-##### The university had organised flights for an ecology field course in Ireland, but a friend and I decided we would get there by public transport instead. 
+##### The university had organised flights for an ecology field course in Ireland, but a friend and I decided we would get there by public transport instead.
 
 On the way to catch the return coach at Shannon airport, my fellow environmental science and ecology students said, ‘The flight is going anyway,’ and that I was being ridiculous. 
 
-I wasn’t swayed from my convictions. Eventually those flights will stop going, if we stop taking them. I have been flight free since 2008 and am never intending on flying again.
+I wasn’t swayed from my convictions. Eventually those flights will stop going, if we stop taking them. I have been flight free since 2008 and am intending on never flying again.
 
 > Eventually those flights will stop going, if we stop taking them.
 
-##### In 2010 my sister wanted to go to Canada on a working holiday. 
+##### In 2010 my sister wanted to go to Canada on a working holiday.
 
 I wanted to go too but without flying. We took trains, coaches and ferries across Europe, Russia, Mongolia, China and South Korea. In South Korea we boarded the Hanjin Yantian, a 300m long container ship, for 11 days of travel across the Pacific to Long Beach, California. 
 
