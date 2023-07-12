@@ -3,7 +3,7 @@ published: true
 title: Fiona
 category: testimonials
 date: 2022-01-10T09:59:39.781Z
-cover_image: /images/uploads/fiona_testimonial.jpg
+cover_image: /images/uploads/fiona-cover.jpg
 summary: '"After going around the whole world without flying, I can say that
   flight free travel is never dull."'
 author: FlightFree UK
