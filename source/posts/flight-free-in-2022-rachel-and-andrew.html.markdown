@@ -10,6 +10,8 @@ summary: '"We all need to dig a little deeper and think about the daily
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/rachel-and-andrew-testimonial-body.jpg)
+
 ### I decided to take the Flight Free 2022 pledge whilst walking to COP26 last year.
 
 ##### For six weeks I walked with other climate activists to Glasgow, carrying all my belongings in my backpack.
