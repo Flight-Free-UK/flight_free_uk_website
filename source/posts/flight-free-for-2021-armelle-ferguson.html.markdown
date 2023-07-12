@@ -3,7 +3,7 @@ published: true
 title: Armelle
 category: testimonials
 date: 2021-01-05T12:17:05.205Z
-cover_image: /images/uploads/testimonial-armelle.jpg
+cover_image: /images/uploads/armelle-testimonial-cover.jpg
 summary: "Sustainable fashion journalist Armelle Ferguson shares why she has
   chosen to be #FlightFree for 2021."
 author: FlightFree UK
