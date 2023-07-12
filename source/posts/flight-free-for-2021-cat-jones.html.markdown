@@ -3,7 +3,7 @@ published: true
 title: Cat Jones
 category: testimonials
 date: 2021-02-16T15:55:00.476Z
-cover_image: /images/uploads/testimoinal-cat.jpg
+cover_image: /images/uploads/cat-jones-testimonial-cover.jpg
 summary: "Byway Travel founder, Cat Jones, tells us why she decided to go
   #FlightFree for 2021."
 author: FlightFree UK
