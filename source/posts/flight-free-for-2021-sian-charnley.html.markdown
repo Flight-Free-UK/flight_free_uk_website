@@ -3,7 +3,7 @@ published: true
 title: Siân
 category: testimonials
 date: 2021-02-09T00:14:57.484Z
-cover_image: /images/uploads/testimonial-sian.jpg
+cover_image: /images/uploads/sian-testimonial-cover.jpg
 summary: "Bristol-based Siân has been #FlightFree since the 1970s! She tells us
   her story. "
 author: FlightFree UK
