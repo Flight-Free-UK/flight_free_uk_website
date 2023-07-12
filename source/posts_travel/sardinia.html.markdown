@@ -2,12 +2,14 @@
 published: false
 title: Sardinia
 date: 2023-07-12T10:17:34.699Z
-cover_image: /images/uploads/corte-corsica_canva.jpg
+cover_image: /images/uploads/sardinia_canva_cover.jpg
 summary: For an ultra-low carbon holiday, Ali chose a week cycling around
   Sardinia, travelling there by train and ferry
 author: FlightFree UK
 read_time_minute: 6
 ---
+![](/images/uploads/sardinia_canva.jpg "La Pelosa beach in Sardinia")
+
 ## Cycle touring is my preferred way to holiday. 
 
 #### It’s an enjoyable and social hobby that is a unique way to explore: you can have a fairly intimate relationship with the places you’re passing through, while still being able to cover a reasonable distance. 
