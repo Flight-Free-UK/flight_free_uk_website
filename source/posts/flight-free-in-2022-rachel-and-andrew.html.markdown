@@ -10,9 +10,9 @@ summary: '"We all need to dig a little deeper and think about the daily
 author: FlightFree UK
 read_time_minute: 3
 ---
-## I decided to take the Flight Free 2022 pledge whilst walking to COP26 last year.
+### I decided to take the Flight Free 2022 pledge whilst walking to COP26 last year.
 
-### For six weeks I walked with other climate activists to Glasgow, carrying all my belongings in my backpack.
+##### For six weeks I walked with other climate activists to Glasgow, carrying all my belongings in my backpack.
 
 We would walk anything from 10 miles to 17 miles a day through sunshine, wind and rain. At the end of each day we would take part in outreach events and sleep on church floors.
 
@@ -42,6 +42,6 @@ We cannot ignore that time is running out.
 
 All of us now understand the effects caused by the planet warming. We see it on our screens daily: ice caps are melting, oceans are rising, crops are failing, people in the global south are starving, floods and forest fires are worsening, and species are becoming extinct at a rapid rate. 
 
-#### We all need to dig a little deeper and think about the daily decisions we make: what we consume, and the impact our purchases have on our planet. 
+### We all need to dig a little deeper and think about the daily decisions we make: what we consume, and the impact our purchases have on our planet.
 
-### We are the decision makers – we must be the change makers. I have found that the cure for anxiety is action.
+##### We are the decision makers – we must be the change makers. I have found that the cure for anxiety is action.
