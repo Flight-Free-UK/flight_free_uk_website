@@ -3,7 +3,7 @@ published: true
 title: Francisca
 category: testimonials
 date: 2021-04-11T13:41:17.562Z
-cover_image: /images/uploads/fransisca-rockey-quote.jpg
+cover_image: /images/uploads/francisca-testimonial-cover.jpg
 summary: "Black Geographers founder Francisca Rockey, shares why she has decided
   to take a #FlightFree year. "
 author: FlightFree UK
