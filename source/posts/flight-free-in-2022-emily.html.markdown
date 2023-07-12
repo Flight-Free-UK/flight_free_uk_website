@@ -3,7 +3,7 @@ published: true
 title: Emily
 category: testimonials
 date: 2021-09-01T10:38:02.519Z
-cover_image: /images/uploads/emily-statement.jpg
+cover_image: /images/uploads/emily-testimonial-cover.jpg
 summary: “I am re-evaluating my approach to travel – it doesn’t feel right to be
   able to travel so quickly and so cheaply.”
 author: FlightFree UK
