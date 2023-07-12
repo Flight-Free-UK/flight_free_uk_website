@@ -3,7 +3,7 @@ published: true
 title: Nick
 category: testimonials
 date: 2020-12-03T14:30:14.807Z
-cover_image: /images/uploads/testimonial-nick.jpg
+cover_image: /images/uploads/nick-testimonial-cover.jpg
 summary: "GALBA campaigner Nick Hodgkinson tells us why he signed the
   #FlightFree2021 pledge."
 author: FlightFree UK
