@@ -32,11 +32,11 @@ There is no doubt that school trips offer a rich, unforgettable experience, and 
 
 Yet all this can be achieved without getting on a plane. We are so lucky with Europe – all of the educational experiences that we’re looking for are right here on our doorstep, available by train, coach, and boat: transport options that are much more compatible with our climate situation.
 
-### Travel is a wonderful gift that teaches us about the world and our place in it. But does air travel do that? Or are we just learning how to fly? 
+##### Travel is a wonderful gift that teaches us about the world and our place in it. But does air travel do that? Or are we just learning how to fly? 
 
 \*\**
 
-If you know of a school that offers trips by air and want to help buck the trend, we recommend writing a letter to the school. The more that climate concerns are raised, the more likely it is that future policy might change to reflect the reality of the climate crisis. Be polite and factual, but also include your personal motivations and feelings. 
+###### If you know of a school that offers trips by air and want to help buck the trend, we recommend writing a letter to the school. The more that climate concerns are raised, the more likely it is that future policy might change to reflect the reality of the climate crisis. Be polite and factual, but also include your personal motivations and feelings. 
 
 Here is an example letter, written by our Director to a local school. 
 
