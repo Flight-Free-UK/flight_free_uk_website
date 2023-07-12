@@ -3,7 +3,7 @@ published: true
 title: Cheyenne
 category: testimonials
 date: 2021-06-12T13:50:33.906Z
-cover_image: /images/uploads/testimonial-cheyenne.jpg
+cover_image: /images/uploads/cheyenne-testimonial-cover.jpg
 summary: "Glasgow-based Cheyenne shares her experiences of being #FlightFree
   while still visiting her family and friends in Germany. "
 author: FlightFree UK
