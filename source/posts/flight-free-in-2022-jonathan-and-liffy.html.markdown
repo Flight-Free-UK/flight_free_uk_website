@@ -3,7 +3,7 @@ published: true
 title: Jonathan and Liffy
 category: testimonials
 date: 2021-11-18T17:43:05.389Z
-cover_image: /images/uploads/jonathanandliffy-statement.jpg
+cover_image: /images/uploads/jonathan-and-liffy-cover.jpg
 summary: '"This Christmas we are going to see our daughter in Granada by train.
   When you travel like this, the simple things become the adventure."'
 author: FlightFree UK
