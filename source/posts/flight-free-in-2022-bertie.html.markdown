@@ -3,7 +3,7 @@ published: true
 title: Bertie
 category: testimonials
 date: 2021-09-01T10:33:50.348Z
-cover_image: /images/uploads/bertie-statement.jpg
+cover_image: /images/uploads/bertie-testimonial-cover.jpg
 summary: “Collective individual actions are a crucial way of working towards
   government and system change.”
 author: FlightFree UK
