@@ -3,7 +3,7 @@ published: true
 title: Tamsin
 category: testimonials
 date: 2021-09-01T10:28:02.897Z
-cover_image: /images/uploads/tamsin-statement.jpg
+cover_image: /images/uploads/tamsin-testimonial-cover.jpg
 summary: “Signing the pledge feels like a step towards hope and a better future
   for our planet.”
 author: FlightFree UK
