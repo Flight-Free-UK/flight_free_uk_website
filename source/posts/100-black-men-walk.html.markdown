@@ -9,9 +9,9 @@ summary: Maxwell Ayamba, co-founder of 100 Black Men Walk, shares his philosophy
 author: FlightFree UK
 read_time_minute: 5
 ---
-![Maxwell Ayamba ](/images/uploads/maxwell_ayamba_landscape.jpg)
+![Maxwell Ayamba ](/images/uploads/maxwell-testimonial-body.jpg)
 
-### The 100 Black Men Walk group is a name taken from the Million Man March civil rights protest in America where people walked to demand economic and social justice. 
+### The 100 Black Men Walk group is a name taken from the Million Man March civil rights protest in America where people walked to demand economic and social justice.
 
 ##### In our case, it is about middle-aged Black men having the freedom to roam in the outdoor space such as the countryside. ‘Walk and talk’ is our motto, for our health and wellbeing.
 
@@ -25,7 +25,7 @@ Our walking group is now known as the Walk4Health Group. It is gender and age mi
 
 ![Walk4Health walking group before the start of their walk](/images/uploads/100-black-men-walk.jpg "Walk4Health walking group")
 
-##### In 2016 I set up the Sheffield Environmental Movement (SEM) to help facilitate the reconnection of people from minority communities with the natural environment for health and wellbeing as well as leisure recreation. 
+##### In 2016 I set up the Sheffield Environmental Movement (SEM) to help facilitate the reconnection of people from minority communities with the natural environment for health and wellbeing as well as leisure recreation.
 
 We deliver activities such as historical guided walks, foraging, farm visits, countryside discovery, coarse fishing, horse riding, OPAL citizen science surveys, environmental photograph/pottery sessions, weekend residentials in the countryside and many other outdoor activities. This helps to empower and enable people to access outdoor green spaces and the wider countryside independently. 
 
@@ -45,7 +45,7 @@ I suppose the Covid-19 pandemic has demonstrated how important access to nature 
 
 Access to natural green space is very important, but in many cases it is made difficult by a lack of affordable public transport or lack of awareness of where these places are. Reliable and well-routed bus services will encourage and motivate people to have genuine travel experience without having to travel far. 
 
-##### I agree that it's possible to find adventure and have exciting experiences here in the UK without having to fly halfway around the world. 
+##### I agree that it's possible to find adventure and have exciting experiences here in the UK without having to fly halfway around the world.
 
 However, the groups I work with have limited exposure and information about what is out there in Britain. People will only travel locally if they feel a sense of belonging so that when they visit they will not be treated as strangers in their own country. Where people experience racism or are not made to feel a sense of belonging this will discourage them from wanting to visit, revisit or recommend to friends and families to visit.
 
@@ -63,6 +63,6 @@ Nature is no respecter of race, class or status; we are all in this together. My
 
 We have borrowed this world. We as human beings are co-existing with other species and life-forms and we must act responsibly to pass it on to future generations. 
 
-##### It is a question of being conscious of our actions and how they impact on others and our planet. Think globally, act locally. 
+##### It is a question of being conscious of our actions and how they impact on others and our planet. Think globally, act locally.
 
 *Maxwell was a guest at our event in February 2021, ‘Destination: UK’, which you can watch here.*
