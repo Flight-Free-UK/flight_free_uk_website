@@ -3,7 +3,7 @@ published: true
 title: Maxwell
 category: testimonials
 date: 2021-04-22T14:20:24.064Z
-cover_image: /images/uploads/maxwell_ayamba_portrait.jpeg
+cover_image: /images/uploads/maxwell-testimonial-cover.jpg
 summary: Maxwell Ayamba, co-founder of 100 Black Men Walk, shares his philosophy
   of how health, community and nature are interconnected.
 author: FlightFree UK
