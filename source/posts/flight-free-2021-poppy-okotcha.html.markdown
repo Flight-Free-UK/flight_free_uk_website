@@ -47,4 +47,4 @@ I have family scattered over the globe: my dad in Nigeria, and others in South A
 
 So I get that not flying is not for everyone, and there is no shame or judgement in that. We exist within systems that are rooted in profit over human and planetary wellbeing, so we can only do as much as we can with our given situations. As with all these things, there is no one-size-fits-all and that’s ok.
 
-If we have a particular set of opportunities and privileges that are conducive to making this choice, it’s there, if we want it.
+##### If we have a particular set of opportunities and privileges that are conducive to making this choice, it’s there, if we want it.
