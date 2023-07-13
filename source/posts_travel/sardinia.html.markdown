@@ -3,7 +3,7 @@ published: true
 title: Sardinia
 date: 2023-07-12T11:28:11.755Z
 cover_image: /images/uploads/sardinia_canva_cover.jpg
-summary: For an ultra-low carbon holiday, Alison chose a week cycling around
+summary: For an ultra-low carbon holiday, Ali chose a week cycling around
   Sardinia, travelling there by train and ferry
 author: FlightFree UK
 read_time_minute: 6
