@@ -35,7 +35,9 @@ If aviation transformed overnight into a carbon-negative industry, I’d still c
 
 Flying is a perfect example of how, when it comes to climate change, the actions of the privileged few can harm so many of those contributing the least to this problem.
 
-In my eyes going flight free is a responsible use of privilege. In the world we live in, of course, not everyone has this choice; going flight free can be costly and time-hungry. But some of us do, and while we push for changes that make it possible for everyone, it’s a huge power to be able to choose to go flight free or at least travel more consciously if we can.
+##### In my eyes going flight free is a responsible use of privilege. 
+
+In the world we live in, of course, not everyone has this choice; going flight free can be costly and time-hungry. But some of us do, and while we push for changes that make it possible for everyone, it’s a huge power to be able to choose to go flight free or at least travel more consciously if we can.
 
 Here are some questions that I ask myself before travelling:
 
