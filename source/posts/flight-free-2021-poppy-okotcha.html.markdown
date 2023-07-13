@@ -13,7 +13,7 @@ read_time_minute: 2
 
 ### Back in the spring of 2019 I had a penny drop moment.
 
-##### Lots of learning had culminated with listening to Gem Bendell’s ‘Deep Adaption: A Map For Navigating Climate Tragedy’. 
+##### Lots of learning had culminated with listening to Gem Bendell’s ‘Deep Adaption: A Map For Navigating Climate Tragedy’.
 
 Knowing we are facing climate catastrophe that is devastating lives (most dramatically those contributing least to the problem), is very different from believing and acting upon that belief. 
 
@@ -32,3 +32,19 @@ I saw so much of Europe, met kind travellers. Out of the train window, I waved a
 ##### This experience of travel connected me to place. I felt the size of the Earth and all the people filling her. She felt small and homey.
 
 If aviation transformed overnight into a carbon-negative industry, I’d still choose to travel on land.
+
+Flying is a perfect example of how, when it comes to climate change, the actions of the privileged few can harm so many of those contributing the least to this problem.
+
+In my eyes going flight free is a responsible use of privilege. In the world we live in, of course, not everyone has this choice; going flight free can be costly and time-hungry. But some of us do, and while we push for changes that make it possible for everyone, it’s a huge power to be able to choose to go flight free or at least travel more consciously if we can.
+
+Here are some questions that I ask myself before travelling:
+
+1. do I need to make this trip?
+2. can I make this trip with other people either by sharing a ride or taking public transport?
+3. is there a less carbon-heavy transport option, for example, the train?
+
+I have family scattered over the globe: my dad in Nigeria, and others in South Africa, America and Europe. 
+
+So I get that not flying is not for everyone, and there is no shame or judgement in that. We exist within systems that are rooted in profit over human and planetary wellbeing, so we can only do as much as we can with our given situations. As with all these things, there is no one-size-fits-all and that’s ok.
+
+If we have a particular set of opportunities and privileges that are conducive to making this choice, it’s there, if we want it.
