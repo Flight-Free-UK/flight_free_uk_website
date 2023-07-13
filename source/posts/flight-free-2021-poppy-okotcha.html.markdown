@@ -39,7 +39,7 @@ Flying is a perfect example of how, when it comes to climate change, the actions
 
 In the world we live in, of course, not everyone has this choice; going flight free can be costly and time-hungry. But some of us do, and while we push for changes that make it possible for everyone, it’s a huge power to be able to choose to go flight free or at least travel more consciously if we can.
 
-Here are some questions that I ask myself before travelling:
+##### Here are some questions that I ask myself before travelling:
 
 1. do I need to make this trip?
 2. can I make this trip with other people either by sharing a ride or taking public transport?
