@@ -9,13 +9,13 @@ summary: "Ex-model and horticulturalist Poppy Okotcha shares her motivations for
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/testimonial-poppy.jpg)
+![](/images/uploads/poppy-testimonial-body.jpg)
 
-### Back in the spring of 2019 I had a penny drop moment. 
+### Back in the spring of 2019 I had a penny drop moment.
 
-##### Lots of learning had culminated with listening to Gem Bendell’s ‘Deep Adaption: A Map For Navigating Climate Tragedy’.
+##### Lots of learning had culminated with listening to Gem Bendell’s ‘Deep Adaption: A Map For Navigating Climate Tragedy’. 
 
-Knowing we are facing climate catastrophe that is devastating lives (most dramatically those contributing least to the problem), is very different from believing and acting upon that belief.
+Knowing we are facing climate catastrophe that is devastating lives (most dramatically those contributing least to the problem), is very different from believing and acting upon that belief. 
 
 I switched from knowing to believing. The grief that came with that belief was immense. I have made both major and minor lifestyle changes since, one being that I simply no longer feel comfortable flying.
 
