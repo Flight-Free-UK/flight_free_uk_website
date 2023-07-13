@@ -64,5 +64,3 @@ Nature is no respecter of race, class or status; we are all in this together. My
 We have borrowed this world. We as human beings are co-existing with other species and life-forms and we must act responsibly to pass it on to future generations. 
 
 ##### It is a question of being conscious of our actions and how they impact on others and our planet. Think globally, act locally.
-
-*Maxwell was a guest at our event in February 2021, ‘Destination: UK’, which you can watch here.*
