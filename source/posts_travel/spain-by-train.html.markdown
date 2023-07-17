@@ -45,3 +45,25 @@ Slow travel is a journey and adventure that widens the scope of the holiday. I e
 Whenever my friends at home told people how I had travelled there, it was fun to watch the curiosity over their faces as they asked me about cost, time, etc and as they started to believe that such a thing could be possible. 
 
 ##### All travel changes you. As an EU citizen living in the UK, I visit family two to three times a year. I am now determined to continue to keep my bilingual and bicultural life alive as sustainably as I can as I travel back and forth between my homes.
+
+#### I﻿tinerary
+
+* Preston 
+* London (stay overnight)
+* Paris
+* Barcelona (stay overnight) 
+* Cordoba
+* Malaga 
+* La Linea (by bus) 
+
+*S﻿ince this first occasion, Olga has now repeated the journey many times over. Variations in travel include:*
+
+*1. taking the overnight train from Paris to Perpignan then to Barcelona by bus* 
+
+*2. Barcelona>Madrid, Madrid> Malaga*
+
+*3. Barcelona>Madrid, Madrid> Algeciras* 
+
+*3. Barcelona > Cordoba, Cordoba> Algeciras* 
+
+*4. Stopping overnight in Paris and Madrid*
