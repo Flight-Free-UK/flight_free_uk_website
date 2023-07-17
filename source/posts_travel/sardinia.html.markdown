@@ -75,22 +75,22 @@ The lessons I took from this train adventure were:
 
 #### I﻿tinerary
 
-London\
-Paris\
-Turin (stay overnight)\
-Genoa \
-Overnight ferry\
-Porto Torres\
-Cagliari
+* London
+* Paris
+* Turin (stay overnight)
+* Genoa
+* Overnight ferry
+* Porto Torres
+* Cagliari
 
 **Return:**
 
-Cagliari\
-Porto Torres \
-Overnight ferry\
-Genoa\
-Milan\
-Paris\
-London
+* Cagliari
+* Porto Torres 
+* Overnight ferry
+* Genoa
+* Milan
+* Paris
+* London
 
 ###### Cost: £650
