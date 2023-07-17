@@ -10,9 +10,9 @@ read_time_minute: 6
 ---
 ![](/images/uploads/sardinia_canva.jpg "The beach at La Pelosa in northern Sardinia")
 
-### Cycle touring is my preferred way to holiday. 
+### Cycle touring is my preferred way to holiday.
 
-##### It’s an enjoyable and social hobby that is a unique way to explore: you can have a fairly intimate relationship with the places you’re passing through, while still being able to cover a reasonable distance. 
+##### It’s an enjoyable and social hobby that is a unique way to explore: you can have a fairly intimate relationship with the places you’re passing through, while still being able to cover a reasonable distance.
 
 It’s also a fabulous way to stay physically and mentally fit and healthy, especially for someone like me with knee problems.
 
@@ -72,3 +72,25 @@ The lessons I took from this train adventure were:
 * allow a decent time to transfer between trains or ferries. It’s a lot less stressful and sitting watching the world go by in a European train station is a joy
 * take plenty of breaks. Overnight stops are a chance to explore somewhere else
 * take your own refreshments especially once you are off the beaten track. Have some emergency snacks and use every opportunity to fill up water bottles
+
+#### I﻿tinerary
+
+London\
+Paris\
+Turin (stay overnight)\
+Genoa \
+Overnight ferry\
+Porto Torres\
+Cagliari
+
+**Return:**
+
+Cagliari\
+Porto Torres \
+Overnight ferry\
+Genoa\
+Milan\
+Paris\
+London
+
+###### Cost: £650
