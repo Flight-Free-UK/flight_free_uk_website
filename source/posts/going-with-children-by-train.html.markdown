@@ -56,7 +56,7 @@ S﻿tarting with a short hop to a nearby European city can ease you into travell
 
 ## 6. Try sleeper trains
 
-Sleeper trains are always a real hit with children. It's exciting to be in bed on a train, and the clever compartments, foldable beside tables and hidden sinks are a novelty. The most exciting thing is going to sleep in a busy city and waking up surrounded by Scottish mountains or cruising along the Cornish Riviera. This is true for adults as well as children! 
+Sleeper trains are always a real hit with children. It's exciting to be in bed on a train, and the clever compartments, foldable beside tables and hidden sinks are a novelty. The most exciting thing is going to sleep in a busy city and waking up surrounded by mountains or countryside. This is true for adults as well as children! 
 
 T﻿ravelling while asleep can save time and money (compared to a hotel) and has the added excitement factor. Just remember to pack ear plugs and eye mask to ensure a sound night's sleep.
 
