@@ -64,35 +64,3 @@ Would I do it again? In a heartbeat, though I’d need the luxury of both a good
 * Groningen > Rotterdam > Antwerp > Brussels > London > Edinburgh
 
 ###### Cost £837 (includes 5 overnight transits, which saves on hotels)
-
-Edinburgh - London coach £31
-
-London - Brussels £29
-
-Brussels - Cologne £29
-
-Cologne - Hamburg £15
-
-Hamburg - Stockholm £95
-
-Stockholm - Helsinki £85
-
-Helsinki - Oulu £119
-
-Oulu - Roavaniemi £21
-
-Rovaniemi - Helsinki £42
-
-Helsinki - Travemunde - £217
-
-Travemunde - Hamburg - £17 
-
-Hamburg - The Hague £38
-
-The Hague - Groningen - £26
-
-Groningen - Brussells £22
-
-Brussels - London £29
-
-London - Edinburgh £22
