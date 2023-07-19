@@ -53,6 +53,6 @@ Some route options or rail providers don’t always work with Rail Europe, so so
 
 Other booking websites include [Rome2Rio](https://www.rome2rio.com/) (just de-select the ‘flight’ option) and the [Trainline](https://www.thetrainline.com/). For coach travel, we recommend [Flixbus](https://www.flixbus.com/).
 
-### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
+##### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
-### Follow these links for specific information on how to travel by train | by bike | by ferry | by coach | by electric car
+###### Follow these links for specific information on how to travel by train | by bike | by ferry | by coach | by electric car
