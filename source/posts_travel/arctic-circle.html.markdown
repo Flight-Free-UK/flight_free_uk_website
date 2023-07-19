@@ -9,11 +9,11 @@ summary: How far would you go for Parkrun? Chris Russell takes a combination of
 author: FlightFree UK
 read_time_minute: 5
 ---
-![](/images/uploads/rovaniemi-arctic-circle-finland_canva-body.jpg)
+![](/images/uploads/rovaniemi-arctic-circle-finland_canva-body.jpg "Santa Claus Village in Rovaniemi, Finland")
 
-### The most northerly Parkrun in the world is in Oulu, Finland. 
+### The most northerly Parkrun in the world is in Oulu, Finland.
 
-##### As a keen Parkrunner with over 100 under my belt, I was intrigued by the possibility of adding Oulu to my list. 
+##### As a keen Parkrunner with over 100 under my belt, I was intrigued by the possibility of adding Oulu to my list.
 
 I’d always wanted to visit Scandinavia, and with the Arctic Circle and the Santa Claus village just a few hours beyond, plans for a trip started to form.
 
