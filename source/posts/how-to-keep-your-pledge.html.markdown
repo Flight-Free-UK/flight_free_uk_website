@@ -38,11 +38,11 @@ I love this Swiss idea showing that we often miss picturesque spots much closer 
 
 How many flights would you take in a typical year? Work out the carbon footprint of those journeys using [Flight Emission Map](https://flightemissionmap.org/) and celebrate the carbon savings. Add a tally to your calendar of how much you're saving as you move through the year.
 
+![A tiny stone statue of buddha in an autumn park is covered in moss. ](/images/uploads/credit-sophia-cheng-photo-walk-local-area.jpeg "Can you get much more local? A discovery on a local walk. Image credit: Sophia Cheng")
+
 #### 6. Be intentional about who influences you
 
 Tackle your flight FOMO head on by following slow-travellers on your instagram feed, or #vanlife on Facebook. Read the inspiring [travel stories](https://flightfree.co.uk/how_to/#destination-inspiration) and [testimonials](https://flightfree.co.uk/blog/categories/testimonials/) on our website to show that you’re not missing out. Unsubscribe from all those airline newsletters and join the subculture of people keeping their feet on the ground. 
-
-![A tiny stone statue of buddha in an autumn park is covered in moss. ](/images/uploads/credit-sophia-cheng-photo-walk-local-area.jpeg "Can you get much more local? A discovery on a local walk. Image credit: Sophia Cheng")
 
 #### 7. M﻿ake plans
 
