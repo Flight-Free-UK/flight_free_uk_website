@@ -38,17 +38,11 @@ I love this Swiss idea showing that we often miss picturesque spots much closer 
 
 How many flights would you take in a typical year? Work out the carbon footprint of those journeys using [Flight Emission Map](https://flightemissionmap.org/) and celebrate the carbon savings. Add a tally to your calendar of how much you're saving as you move through the year.
 
-#### 6. Pay your dues
-
-After tracking how much carbon you've saved, consider making a donation to an organisation working to draw down more carbon. 
-
-#### 7. Be intentional about who influences you
+#### 6. Be intentional about who influences you
 
 Tackle your flight FOMO head on by following slow-travellers on your instagram feed, or #vanlife on Facebook. Join the subculture of people keeping their feet on the ground.
 
 ![A tiny stone statue of buddha in an autumn park is covered in moss. ](/images/uploads/credit-sophia-cheng-photo-walk-local-area.jpeg "Can you get much more local? A discovery on a local walk. Image credit: Sophia Cheng")
-
-## Now that we've launched our pledge for 2021, here are our tips for starting out as you mean to go on:
 
 **1.** Book your leave in advance and plan your holidays seasonally. 
 
