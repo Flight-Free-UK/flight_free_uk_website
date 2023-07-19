@@ -9,7 +9,7 @@ summary: From handy websites to flight-free travel agents, here are our top
 author: FlightFree UK
 read_time_minute: 2
 ---
-![a train speeds through the countryside](/images/uploads/train_countryside_canva.jpg)
+![](/images/uploads/map_plan_canva.jpg)
 
 ## The Man in Seat 61
 
