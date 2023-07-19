@@ -62,7 +62,7 @@ T﻿ravelling while asleep can save time and money (compared to a hotel) and has
 
 ## 7﻿. Book early for the best price
 
-I﻿f you set up ticket alerts on Rail Europe you can find out in advance when tickets go on sale. 
+I﻿f you set up ticket alerts on [Rail Europe](https://www.raileurope.com/) you can find out in advance when tickets go on sale. 
 
 ## **8. Top rail company: Deutsche Bahn!**
 
