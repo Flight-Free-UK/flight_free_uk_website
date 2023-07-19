@@ -55,4 +55,4 @@ Other booking websites include [Rome2Rio](https://www.rome2rio.com/) (just de-se
 
 ##### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
-###### Follow these links for specific information on how to travel by train | by bike | by ferry | by coach | by electric car
+###### Follow these links for specific information on how to travel [by train](https://www.seat61.com/) | [by bike](https://www.sustrans.org.uk/national-cycle-network/) | [by ferry](/post/how-to-travel-by-ferry/) | [by coach](https://www.flixbus.co.uk/) | [by electric car](/post/how-to-travel-by-electric-car/)
