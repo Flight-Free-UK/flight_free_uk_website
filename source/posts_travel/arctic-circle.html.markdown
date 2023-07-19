@@ -23,7 +23,7 @@ With invaluable help from [Seat61](https://www.seat61.com/Finland.htm) and [Rome
 
 On the way back it would be a little different: the longer ferry from Helsinki to Travemunde (on the Baltic sea coast of Germany, just north west of Hamburg), then the train back via the Netherlands. There I would meet my mum, also a keen Parkrunner, so she could tick off the Z in her Parkrun A-Z with Zuiderpark Parkrun in The Hague.
 
-Starting in Edinburgh might sound a bit of a hassle but the 4.5 hour journey down to London tends to pass quickly, with beautiful scenery on the East Coast Main Line. Unfortunately, a train strike got in the way of that on this particular trip, so I took the overnight Megabus to London. It was amazing value, though I find it hard to sleep on a coach. I used Hussle to book a cheap session at the YMCA pool in central London to have a swim and shower to refresh after the journey. 
+Starting in Edinburgh might sound a bit of a hassle but the 4.5 hour journey down to London tends to pass quickly, with beautiful scenery on the East Coast Main Line. Unfortunately, a train strike got in the way of that on this particular trip, so I took the overnight Megabus to London. It was amazing value, though I find it hard to sleep on a coach. I used [Hussle](https://www.hussle.com/) to book a cheap session at the YMCA pool in central London to have a swim and shower to refresh after the journey. 
 
 The Eurostar to Brussels came next, then it was another train to Cologne where I stayed for a night and most of the next day, an unexpected highlight, with the city's charming Christmas market still open at the start of January – a real contrast to the commercial ones in the UK. Then after an evening train to Hamburg I boarded the recently-launched sleeper train to Stockholm. 
 
@@ -45,7 +45,7 @@ The holiday concluded with a few days in the Netherlands, and a final long day o
 
 Would I do it again? In a heartbeat, though I’d need the luxury of both a good amount of time and money. However, I’d much rather do a trip like this every few years than jet off more frequently. My main advice is to break the journey up a bit and not spend too many nights in a row travelling if you can avoid it. Take some books and don’t forget to look out of the window!
 
-##### Itinerary:
+#### Itinerary:
 
 * Edinburgh > London by overnight coach
 * London > Brussels > Cologne (stay overnight)
