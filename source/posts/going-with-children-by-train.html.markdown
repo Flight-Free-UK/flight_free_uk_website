@@ -10,7 +10,11 @@ summary: Long train journeys with children don't have to be a challenge. Here
 author: FlightFree UK
 read_time_minute: 3
 ---
-If you are a parent you might baulk at the thought of taking young children on long train journeys, but it could be easier than you think. No travel comes without its challenges, but train travel often has advantages over flying.
+![](/images/uploads/child_train_canva.jpg)
+
+### If you are a parent you might baulk at the thought of taking young children on long train journeys, but it could be easier than you think. 
+
+##### No travel comes without its challenges, but train travel often has advantages over flying.
 
 A 12-hour train journey might sound like a nightmare, but it's not the same as a 12-hour flight. Regular stops provide structure and interest, and it's likely you will need to make connections in that time, which breaks things up in a positive way. Allowing extra time for connections means that interchanges can be adventures in their own right.
 
@@ -24,7 +28,7 @@ On the [Deutsche Bahn](https://www.bahn.de/en/view/index.shtml) in Germany, chil
 
 On the [Eurostar](https://www.eurostar.com/uk-en/), kids under the age of four must sit on a parent’s lap unless there is a spare seat available, but children of all ages can have their own seat in Germany. This means that rail travel can work out cheaper overall.
 
-> "We have only ever flown once with our son, and hands down we prefer train travel over flying." 
+> We have only ever flown once with our son, and hands down we prefer train travel over flying.
 
 ~﻿ Susanne Treadwell
 
@@ -68,7 +72,7 @@ Some train companies have special family areas on their trains, and Deutsche Bah
 
 A﻿ terrific advantage of train travel is there's no restriction on the amount of food and drink you can bring – other than what you can carry! A picnic lunch can be a great way to fill some time on a long train journey as well as being a novelty for the kids. Don't forget to bring plenty of water, as it’s easy to buy a hot drink or snacks, but it can be difficult to get your water bottle refilled. 
 
-~ Take plenty of activities to entertain the kids, including card games or colouring books. It's also a good idea to download some games or videos for your electronic devices: while plugs are available for recharging, the WiFi/phone signal can be intermittent. 
+Take plenty of activities to entertain the kids, including card games or colouring books. It's also a good idea to download some games or videos for your electronic devices: while plugs are available for recharging, the WiFi/phone signal can be intermittent. 
 
 ## 1﻿0. Take a wheelie suitcase and rucksack each
 
