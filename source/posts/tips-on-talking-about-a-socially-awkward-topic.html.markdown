@@ -1,7 +1,7 @@
 ---
 published: true
 title: Tips on talking about a socially awkward topic
-category: opinion
+category: how-to
 date: 2019-01-31T17:15:17.909Z
 cover_image: /images/uploads/conversation-christin-hume-unsplash.jpg
 summary: It can be difficult to speak to your friends and family about not
@@ -10,17 +10,17 @@ summary: It can be difficult to speak to your friends and family about not
 author: FlightFree UK
 read_time_minute: 2
 ---
-## **Make it personal**
+## **T﻿ell your story**
 
-People relate to personal stories and are likely to be engaged by your passion for the subject, rather than gloomy climate forecasts or scary statistics. Talk about why not flying, or flying less, is important to you. Tell a story about a flight-free holiday you have had. 
+Talk about why not flying, or flying less, is important to you. Tell a story about a flight-free holiday you have had. Making it personal usually helps others to not feel attacked. 
+
+## **Ask questions rather than challenge**
+
+Someone has just mentioned their forthcoming trip by air. The expected reaction is usually to ooh and aah about the holiday even though you might want to say, ‘flying is really bad for the environment’. How about asking, ‘Have you considered travelling to x location (i.e. closer to home)?’ or ‘Did you know you can get there by train?’ If you ask in a non-challenging way, it should open up a conversation rather than shut it down. 
 
 ## **Keep it positive**
 
 Try to avoid negative or guilt-inducing language. Talk about how taking action on issues such as this can make a positive impact: we can make a difference with our actions; we will leave a better world for our children if we take action now; not flying doesn't mean not travelling; this isn't about giving something up, it's about doing things differently for the benefit of future generations; being one of 100,000 making a change is very empowering.
-
-## **Ask questions rather than challenge**
-
-Someone has just mentioned their forthcoming trip to Lanzarote. You could stay quiet while others ooh and aah about the holiday. You could say, ‘But flying is really bad for the environment’. How about asking, ‘Do you know the carbon footprint of the flight?' or 'Would you give up flying for a year for the sake of the environment?’ It opens the debate without causing hackles to rise. It doesn't attack the planned holiday, but talks about future travel. It could lead people to ask, ‘Why?’ which allows further conversation, can open the concept of a flight-free year, and gives the opportunity to talk about environmental issues.
 
 ## **Have a few facts up your sleeve**
 
