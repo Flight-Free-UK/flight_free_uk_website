@@ -4,9 +4,8 @@ title: How to travel on a budget
 category: how-to
 date: 2023-01-05T16:28:36.134Z
 cover_image: /images/uploads/budet_travel_canva.jpg
-summary: The three main areas of expenditure on a holiday are transport,
-  accommodation and food, so we take a look at how to keep the cost down in
-  those areas
+summary: "Flight-free travel doesn't have to be more expensive. We take a look
+  at how to keep the cost down when it comes to travelling overland. "
 author: FlightFree UK
 read_time_minute: 1
 ---
