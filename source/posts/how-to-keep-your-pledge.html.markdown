@@ -28,7 +28,7 @@ Don't take your local area for granted – exchange what we might think of as �
 
 #### 3. Go under your own steam
 
-Take a leaf out of the travellers of old who walked everywhere – or could you opt to cycle instead? This doesn’t just reduce your emissions, but is great for your physical and mental health as well. Get inspired by the wealth of travel walking literature, including the work of [Rebecca Solnit](http://rebeccasolnit.net/books/) and [Robert MacFarlane](https://www.penguin.co.uk/authors/32424/robert-macfarlane.html). 
+Take a leaf out of the travellers of old who walked everywhere – or could you opt to cycle instead? This doesn’t just reduce your emissions, it is great for your physical and mental health as well. Get inspired by the wealth of travel walking literature, including the work of [Rebecca Solnit](http://rebeccasolnit.net/books/) and [Robert MacFarlane](https://www.penguin.co.uk/authors/32424/robert-macfarlane.html). 
 
 #### 4. Swap out the photo op for something close by
 
