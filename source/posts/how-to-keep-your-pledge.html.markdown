@@ -10,9 +10,9 @@ read_time_minute: 2
 ---
 ![Image shows three friends on a beach looking out to sea](/images/uploads/credit-jayme_elkins-with_many_roots-holiday_in_scotland.jpg "Scotland holiday. Image credit: Jayme Elkins-With Many Roots")
 
-### Twelve months without flying can be pretty tough if you’re usually on a plane every few weeks or months. 
+### Twelve months without flying can be pretty tough if you’re usually on a plane every few weeks or months.
 
-##### Enthusiasm for the challenge can wane especially as the autumn and winter months approach. That's when those adverts for city getaways or cheap flights might be more tempting than ever. 
+##### Enthusiasm for the challenge can wane especially as the autumn and winter months approach. That's when those adverts for city getaways or cheap flights might be more tempting than ever.
 
 Here are some tips to help you not to break your pledge, from one of our pledgers, [Sophia Cheng](http://www.withmanyroots.com):
 
@@ -40,16 +40,10 @@ How many flights would you take in a typical year? Work out the carbon footprint
 
 #### 6. Be intentional about who influences you
 
-Tackle your flight FOMO head on by following slow-travellers on your instagram feed, or #vanlife on Facebook. Join the subculture of people keeping their feet on the ground.
+Tackle your flight FOMO head on by following slow-travellers on your instagram feed, or #vanlife on Facebook. Read the inspiring [travel stories](https://flightfree.co.uk/how_to/#destination-inspiration) and [testimonials](https://flightfree.co.uk/blog/categories/testimonials/) on our website to show that you’re not missing out. Unsubscribe from all those airline newsletters and join the subculture of people keeping their feet on the ground. 
 
 ![A tiny stone statue of buddha in an autumn park is covered in moss. ](/images/uploads/credit-sophia-cheng-photo-walk-local-area.jpeg "Can you get much more local? A discovery on a local walk. Image credit: Sophia Cheng")
 
-**1.** Book your leave in advance and plan your holidays seasonally. 
+#### 7. M﻿ake plans
 
-**2.** Put a map on the wall with your plans drawn on it as a visual reminder of what you have to look forward to. 
-
-**3.** Read the inspiring blogs on the [Flight Free website](https://flightfree.co.uk/be_inspired/) to show that you’re not missing out.
-
-**4.** Keep count of all the carbon you’ve saved as you go along.
-
-**5.** Unsubscribe from all those airline newsletters...
+Book your leave in advance and plan your holidays seasonally. Put a map on the wall with your plans drawn on it as a visual reminder of what you have to look forward to.
