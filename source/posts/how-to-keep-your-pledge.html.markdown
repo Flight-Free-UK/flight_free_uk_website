@@ -18,7 +18,7 @@ Here are some tips to help you not to break your pledge, from one of our pledger
 
 #### 1. Pledge with a buddy
 
-Remember the old adage, “If you want to go fast go alone but if you want to go far go together.” Pledging with a buddy can help temper the flight sales emails and the social media targeting directed at you.
+Remember the old adage, “If you want to go fast, go alone, but if you want to go far, go together.” Pledging with a buddy can help temper the flight sales emails and the social media targeting directed at you.
 
 #### 2. Stay local and curious
 
@@ -36,7 +36,7 @@ I love this Swiss idea showing that we often miss picturesque spots much closer 
 
 #### 5. Feel good about your emissions reduction
 
-How many flights would you take in a typical year? Work out the carbon footprint of those journeys using [Flight Emission Map](https://flightemissionmap.org/) and celebrate the carbon savings.
+How many flights would you take in a typical year? Work out the carbon footprint of those journeys using [Flight Emission Map](https://flightemissionmap.org/) and celebrate the carbon savings. Add a tally to your calendar of how much you're saving as you move through the year.
 
 #### 6. Pay your dues
 
