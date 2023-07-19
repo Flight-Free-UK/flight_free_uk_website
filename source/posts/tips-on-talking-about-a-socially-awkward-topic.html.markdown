@@ -20,17 +20,11 @@ Someone has just mentioned their forthcoming trip by air. The expected reaction 
 
 ## **Keep it positive**
 
-Try to avoid negative or guilt-inducing language. Talk about how taking action on issues such as this can make a positive impact: we can make a difference with our actions; we will leave a better world for our children if we take action now; not flying doesn't mean not travelling; this isn't about giving something up, it's about doing things differently for the benefit of future generations; being one of 100,000 making a change is very empowering.
+Try to avoid negative or guilt-inducing language. Talk about how taking action on issues such as this can make a positive impact: we can make a difference with our actions; we will leave a better world for our children if we take action now; not flying doesn't mean not travelling; this isn't about giving something up, it's about doing things differently for the benefit of future generations.
 
 ## **Have a few facts up your sleeve**
 
 Some general facts, such as one long-haul flight being the equivalent of driving for a year, could add punch to your conversation. If we are to follow IPCC guidelines, our individual carbon output needs to be reduced to between 2 and 3 tonnes per year. Flying to Gran Canaria emits 1 tonne of CO2 – half your annual allowance! 
-
-## **Remember that the challenge is only for a year**
-
-We're not asking people to stop flying for good. This challenge is the aviation equivalent of 'Stoptober', where people give up smoking, or 'Veganuary', where animal products are off the menu. Even frequent fliers could challenge themselves to try different methods of transport for one year – and this might be the incentive they need! 
-
-- - -
 
 ## **Have courage!**
 
