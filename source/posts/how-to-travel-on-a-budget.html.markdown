@@ -9,56 +9,50 @@ summary: "Flight-free travel doesn't have to be more expensive. We take a look
 author: FlightFree UK
 read_time_minute: 1
 ---
-## Transport
 
-### Take the coach
 
-Travelling by coach is probably the cheapest way to travel, and can even rival budget airlines. There are several coach companies that provide long-distance travel through Europe, and we recommend [Flixbus](https://www.flixbus.co.uk/). Their coaches are modern and comfortable, with charging points and wifi so there's plenty to keep you occupied. The network covers an extensive number of European destinations from Sweden to Spain and everywhere in between.
+#### 1. Take the coach
 
-Overnight coach travel can be a great way to cover some miles while you sleep, although comfort varies. Top recommendation: eye mask, ear plugs and neck pillow!
+Coach travel is generally the cheapest way to travel, and can even rival budget airlines. There’s an extensive network of coach routes throughout the UK and Europe, including Flixbus, Megabus and National Express. 
 
-Carbon emissions of coach travel are around 40% of air travel, so you’re making a great saving on emissions as well as cash.
+It’s not the most luxurious way to travel, but coaches can be an excellent option, with comfy seating, wifi, at-seat charging and regular comfort stops. 
 
-### Go by ferry
+For coach travel inspiration, go here: [Overnight By Coach](https://flightfree.co.uk/travel_articles/overnight-by-coach/)
 
-Taking the ferry to the continent is often much cheaper than going by train. There are lots of options from the south and east coast of England, all the way from Plymouth to Newcastle. Our ‘How to travel by ferry’ page will tell you everything you need to know.
+#### 2. Rail and Sail
 
-### Try Rail and Sail
+Some ferry routes from the UK offer a ‘rail and sail’ option, which combines train travel and the ferry crossing into one ticket, making the overall journey much cheaper. 
 
-Speaking of ferries, the ‘[Rail and Sail](https://www.stenaline.co.uk/rail-and-sail)’ ticket offer from Stena line means that getting to the Netherlands or Ireland by a combination of train and boat can often work out cheaper than flying. The ticket covers any UK rail station, so you can travel from your home to Dublin via Holyhead, to Belfast via Stranraer, or any Dutch station via Harwich for a fixed price.
+These include StenaLine ferries to Hoek van Holland (from Harwich), Belfast (from Cairnryan) and Rosslare (from Fishguard), and also Irish ferries from Holyhead to Dublin. 
 
-### Interrail
+Tickets are mostly less than £50 from most train stations across the UK. You can even travel all the way from Glasgow to Belfast for just £35.
 
-No longer the preserve of backpacking students, [Interrail](https://www.interrail.eu/en) has seen a resurgence in recent years. Buying a pass can work out to be very cost-effective if your journey has several legs. Look out for sales on Interrail passes throughout the year. 
+Buy at the Trainline.
 
-### Book early
+#### 3. Plan ahead
 
-As with any travel, the earlier you book, the cheaper it is. You can set alerts on [RailEurope](https://www.raileurope.com/) to let you know when tickets go on sale.
+As with any type of travel, the earlier you book, the cheaper it is. Set alerts on RailEurope to let you know when tickets go on sale.
 
-## Accommodation
+#### 4. Go by bike
 
-### Hostelling
+For the ultimate budget holiday, try a bike tour! You don’t pay anything for the travel itself, just extra cake to fuel the journey. Check out our ‘How to travel by bike’ pages for tips on making a go of it on two wheels.
 
-Hostels are a great option for budget travel, and you’ll find them in towns and cities across the UK and Europe. Accommodation is basic, usually in a dorm with other people, with shared bathrooms and self-service kitchen facilities. 
+Trains, ferries and bikes are a great combination, so take the Rail and Sail to go further afield, for example to explore the cycling utopia that is the Netherlands. 
 
-### Camping
+#### 5. Buy a Euro Anytime Return train ticket 
 
-Bringing your own accommodation in the form of a tent can really keep the costs down, and you’ll find campsites in most locations across Europe. The facilities can be very satisfactory: all campsites will have washrooms, and some will also have restaurants and bars. 
+Getting across the UK to London (for Eurostar) or to one of the south coast ports is often the most expensive part of a European trip. National Rail offers a ‘Euro Anytime Return’ which can save a few quid for this part of your journey. 
 
-It's possible to camp without using a campsite: networks such as [Welcome to my garden](https://welcometomygarden.org/) or [Camp in my garden](https://campinmygarden.com/) can be a fantastic way of staying in a new location for free, at the same time as meeting people and making connections with the locals. 
+The ticket is valid for two months after your departure date, so should cover all but the longest travel adventures, and is available to buy at the ticket office to anyone with a Eurostar or Rail Sea international ticket, or buy online at [trainsplit.com](http://trainsplit.com). 
 
-Wild camping (pitching up away from an ‘official’ campsite) can be a terrific option and gives ultimate freedom in terms of where you go, but be careful that you’re not trespassing on private land. Rules for wild camping: keep away from roads or houses, and don’t leave any rubbish or anything behind.
+#### 6. Interrail
 
-### Couchsurfing
+No longer the preserve of backpacking students, Interrail has seen a resurgence in recent years. Buying a pass can work out to be very cost-effective if your journey has several legs. Look out for sales on Interrail passes throughout the year.
 
-There are several networks throughout the UK and Europe that offer free accommodation in people’s houses. [Couchsurfing](https://www.couchsurfing.com/) is the oldest and most established, and there’s also [Warmshowers](https://www.warmshowers.org/) (specifically for touring cyclists). 
+#### 7. Go by ferry
 
-### Stay with a friend/houseswap
+Taking the ferry to the continent is slower, but often much cheaper than going by train, especially for foot or bicycle passengers. There are lots of options from the south and east coast of England, all the way from Plymouth to Newcastle. Our ‘How to travel by ferry’ page will tell you everything you need to know.
 
-Staying with friends or even house-swapping is a great way to see somewhere new while getting some free accommodation. There are websites dedicated to finding your ideal houseswap location, such as [Love Home Swap](https://www.lovehomeswap.com/).
+#### 8. Travel overnight
 
-## Food
-
-### Markets
-
-Keep your eating costs down by seeking out local markets wherever you’re travelling. Not only is it an excellent way to save a few pennies, it has the advantage of immersing you in the local culture and cuisine. Markets have a great vibe and can provide all your food needs at a very low price.
+Overnight coaches and sleeper trains can give great value for money, mainly because they remove the need for a hotel. In addition, travelling while you sleep is a great use of time, and the recent resurgence of sleeper trains has opened many more destinations across Europe.
