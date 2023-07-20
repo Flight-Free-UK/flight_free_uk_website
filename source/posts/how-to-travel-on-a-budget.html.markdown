@@ -7,7 +7,7 @@ cover_image: /images/uploads/budet_travel_canva.jpg
 summary: "Flight-free travel doesn't have to be more expensive. We take a look
   at how to keep the cost down when it comes to travelling overland. "
 author: FlightFree UK
-read_time_minute: 1
+read_time_minute: 2
 ---
 
 
