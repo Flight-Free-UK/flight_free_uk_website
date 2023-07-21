@@ -9,11 +9,9 @@ summary: "Flight-free travel doesn't have to be more expensive. We take a look
 author: FlightFree UK
 read_time_minute: 2
 ---
-
-
 #### 1. Take the coach
 
-Coach travel is generally the cheapest way to travel, and can even rival budget airlines. There’s an extensive network of coach routes throughout the UK and Europe, including Flixbus, Megabus and National Express. 
+Coach travel is generally the cheapest way to travel, and can even rival budget airlines. There’s an extensive network of coach routes throughout the UK and Europe, including [Flixbus](https://flixbus.com/), [Megabus](https://uk.megabus.com/journey-planner/map) and [National Express](https://www.nationalexpress.com/en). 
 
 It’s not the most luxurious way to travel, but coaches can be an excellent option, with comfy seating, wifi, at-seat charging and regular comfort stops. 
 
@@ -23,11 +21,11 @@ For coach travel inspiration, go here: [Overnight By Coach](https://flightfree.
 
 Some ferry routes from the UK offer a ‘rail and sail’ option, which combines train travel and the ferry crossing into one ticket, making the overall journey much cheaper. 
 
-These include StenaLine ferries to Hoek van Holland (from Harwich), Belfast (from Cairnryan) and Rosslare (from Fishguard), and also Irish ferries from Holyhead to Dublin. 
+These include [StenaLine](https://www.stenaline.co.uk/rail-and-sail/to-ireland) ferries to Hoek van Holland (from Harwich), Belfast (from Cairnryan) and Rosslare (from Fishguard), and also Irish ferries from Holyhead to Dublin. 
 
 Tickets are mostly less than £50 from most train stations across the UK. You can even travel all the way from Glasgow to Belfast for just £35.
 
-Buy at the Trainline.
+Buy at the [Trainline](https://www.thetrainline.com/trains/great-britain/rail-and-sail).
 
 #### 3. Plan ahead
 
