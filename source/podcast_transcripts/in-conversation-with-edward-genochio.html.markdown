@@ -11,11 +11,11 @@ read_time_minute: 4
 ---
 *This is episode 7 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-edward-genochio/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast/)*.
 
-### This month Edward Genochio shares the story of his epic three-month bike and rail trip around Europe, visiting every one of the 33 countries on the Interrail network. 
+## This month Edward Genochio shares the story of his epic three-month bike and rail trip around Europe, visiting every one of the 33 countries on the Interrail network.
 
-##### The adventure was called 33 Rides, and you can find out more about it on Twitter [here](https://twitter.com/33rides) and the 33 Rides website [here](https://www.33rides.com/). 
+#### The adventure was called 33 Rides, and you can find out more about it on Twitter [here](https://twitter.com/33rides) and the 33 Rides website [here](https://www.33rides.com/). 
 
-Here’s Edward's story:
+##### O﻿ver to you Edward: 
 
 An advert popped up for Interrail’s 50th anniversary with a special offer of 50% off Interrail passes. I thought this was too good an offer to refuse so I bought a couple of tickets for me and my partner Aina, not knowing where or what or even when we’d be able to go. 
 
