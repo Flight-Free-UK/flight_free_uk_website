@@ -39,21 +39,21 @@ By that stage we were running out of time and had to go quite quickly home, scoo
 
 We are now having to adjust to life where sometimes we stay in the same place for more than one day.
 
-##### Quick fire questions:
+#### Quick fire questions:
 
-#### What was your favourite part?
+##### What was your favourite part?
 
 There were so many highlights, but the Finland train, the train that goes on the ferry going to Sicily, trains in Scandinavia, having the Brompton bikes, cycling in Turkey, in Galicia in Spain, and along the Bosphorus in Istanbul where we saw dolphins. 
 
-#### How many trains did you take in total?
+##### How many trains did you take in total?
 
 About 176! It was quite a lot. Our most trains in a day was 18 or something like that.
 
-#### What was your longest stint on a train?
+##### What was your longest stint on a train?
 
 The longest single journey was across Turkey from Ankara to Kars and was 27 hours. 
 
-#### And the bike?
+##### And the bike?
 
 About 80 or 90 km which was decent for us. We deliberately set out for this to be a fair balance between the trains and the bicycles – obviously we did many more kms overall on the trains but time-wise we aimed for it to be 50:50.
 
