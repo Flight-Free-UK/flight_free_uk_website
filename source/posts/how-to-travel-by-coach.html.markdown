@@ -13,7 +13,7 @@ read_time_minute: 3
 
 #### Coaches have come a long way since their horse-drawn namesakes of the early 1800’s.
 
-#### But just as every good Sherlock Holmes adventure began with a coach arriving at 221b Baker Street, coaches today depart for a staggering number of locations across the UK and Europe and the potential for adventure is huge. ‘Come Watson, the game is afoot…’
+#### Just as every good Sherlock Holmes adventure began with a coach arriving at 221b Baker Street, coaches today depart for a staggering number of locations across the UK and Europe and the potential for adventure is huge. ‘Come Watson, the game is afoot…’ 
 
 ## Why travel by coach?
 
