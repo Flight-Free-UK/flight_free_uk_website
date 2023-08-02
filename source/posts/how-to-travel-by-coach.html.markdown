@@ -51,7 +51,7 @@ Coach travel is incredibly flexible; if you simply want to get from A to B then 
 
 #### Travelling overnight
 
-Taking an overnight coach is the ultimate in budget travel, as you save on a hotel or hostel, and it can work out much cheaper than a sleeper train. It’s very rare you will get a bed, though, so it won’t be the most comfortable night's sleep. A travel pillow, eye mask and earplugs can really help, and waking up in a new exciting destination will make all that tiredness disappear…  
+Taking an overnight coach is the ultimate in budget travel, as you save on a hotel or hostel, and it can work out much cheaper than a sleeper train. It’s very rare you will get a bed, though, so it won’t be the most comfortable night’s sleep. A travel pillow, eye mask and earplugs can really help, and waking up in a new exciting destination will make all that tiredness disappear…  
 
 ## Tips for travelling by coach
 
