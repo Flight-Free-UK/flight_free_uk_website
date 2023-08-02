@@ -25,7 +25,7 @@ But this is Flight Free UK, how do modern coaches compare to flying? Well, per p
 
 ## Companies, timetables and tickets
 
-Coach travel is incredibly flexible; if you simply want to get from A to B then a company like [National Express](https://www.nationalexpress.com/en) will do that for you. However, if you fancy a coach tour where you travel from location to location whilst staying at hotels or B&B’s overnight, then a company like Shearings has got you covered. 
+Coach travel is incredibly flexible; if you simply want to get from A to B then a company like [National Express](https://www.nationalexpress.com/en) will do that for you. However, if you fancy a coach tour where you travel from location to location whilst staying at hotels or B&B’s overnight, then a company like [Shearings](https://www.shearings.com/) has got you covered. 
 
 [CheckMyBus](https://www.checkmybus.co.uk/) is a fantastic website that lets you search for coach and bus routes across many different providers letting you find the cheapest fees and giving plenty of date and time flexibility.
 
@@ -43,7 +43,7 @@ Coach travel is incredibly flexible; if you simply want to get from A to B then 
 
 #### Coach tours
 
-[Shearings](https://www.checkmybus.co.uk/) is a coach tour operator with an astonishing variety of holidays and tours, from 4 days in Scotland to 16 days in Croatia. Alfa Travel is another coach tour company that specialises in UK coach holidays, with a modern fleet of coaches and some lovely destinations to boot.
+[Shearings](https://www.shearings.com/) is a coach tour operator with an astonishing variety of holidays and tours, from 4 days in Scotland to 16 days in Croatia. [Alfa Travel](https://www.alfatravel.co.uk/coach-holidays/)specialises in UK coach holidays, with a modern fleet of coaches and some lovely destinations to boot.
 
 #### Travelling overnight
 
