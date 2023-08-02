@@ -3,13 +3,15 @@ published: true
 title: How to travel by coach
 category: how-to
 date: 2023-08-02T10:41:41.699Z
-cover_image: /images/uploads/snow-express-ski-coach.jpg
+cover_image: /images/uploads/coach-travel1_canva-cover.jpg
 summary: "Coach travel is a fantastic option for those on a budget, and can be
   comfy and convenient as well. "
 author: FlightFree UK
 read_time_minute: 3
 ---
-#### Coaches have come a long way since their horse-drawn namesakes of the early 1800’s. 
+![](/images/uploads/coach-travel1_canva.jpg)
+
+#### Coaches have come a long way since their horse-drawn namesakes of the early 1800’s.
 
 #### But just as every good Sherlock Holmes adventure began with a coach arriving at 221b Baker Street, coaches today depart for a staggering number of locations across the UK and Europe and the potential for adventure is huge. ‘Come Watson, the game is afoot…’
 
