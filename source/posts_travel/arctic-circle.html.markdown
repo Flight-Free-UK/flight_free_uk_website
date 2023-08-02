@@ -23,6 +23,8 @@ With invaluable help from [Seat61](https://www.seat61.com/Finland.htm) and [Rome
 
 On the way back it would be a little different: the longer ferry from Helsinki to Travemunde (on the Baltic sea coast of Germany, just north west of Hamburg), then the train back via the Netherlands. There I would meet my mum, also a keen Parkrunner, so she could tick off the Z in her Parkrun A-Z with Zuiderpark Parkrun in The Hague.
 
+![Chris Russell holds the Parkrun sign in a very snowy Oulu](/images/uploads/oulu_parkrun_crussell.jpg "At the Oulu Parkrun")
+
 Starting in Edinburgh might sound a bit of a hassle but the 4.5 hour journey down to London tends to pass quickly, with beautiful scenery on the East Coast Main Line. Unfortunately, a train strike got in the way of that on this particular trip, so I took the overnight Megabus to London. It was amazing value, though I find it hard to sleep on a coach. I used [Hussle](https://www.hussle.com/) to book a cheap session at the YMCA pool in central London to have a swim and shower to refresh after the journey. 
 
 The Eurostar to Brussels came next, then it was another train to Cologne where I stayed for a night and most of the next day, an unexpected highlight, with the city's charming Christmas market still open at the start of January – a real contrast to the commercial ones in the UK. Then after an evening train to Hamburg I boarded the recently-launched sleeper train to Stockholm. 
@@ -38,6 +40,8 @@ A day in Helsinki included my first visit to a Finnish sauna. I hadn't realised 
 After one final night train I arrived in Oulu. The [world’s most northerly Parkrun](https://www.parkrun.fi/pokkinen/) did not disappoint, with a warm welcome from the regulars and a nice course along a river. It was very snowy indeed! Some hardy locals were taking a dip in the lake and my eyelashes had frozen by the end. My local Parkrun in Edinburgh usually has a few hundred runners, whereas this one had just eight of us – quite a contrast! Everyone went back to the local market for a coffee and cake afterwards, which was a nice way to meet some locals.
 
 The next day I took the train for the final stretch north to Rovaniemi, a small town just on the edge of the Arctic Circle famous for its Santa Claus Village. I spent a few days there, snowshoeing, taking more saunas, and even going to see Santa himself (free to see him, €50 for the photo), before heading back down to Helsinki. 
+
+![Photo taken out of the window on a ferry](/images/uploads/baltic_ferry_crussell.jpg "Detoxing on the ferry")
 
 From there it was the long ferry across the Baltic Sea all the way to Travemunde on the north German coast – around 30 hours. This was a real highlight of the trip. WiFi was available at a price, but I chose to disconnect and spend the time reading, listening to music and enjoying the views. There was a gym and on-board sauna (of course!) but mostly I was forced to relax and switch off. It was a real bonus just to be able to sit down and read.
 
