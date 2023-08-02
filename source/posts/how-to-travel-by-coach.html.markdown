@@ -47,7 +47,7 @@ Coach travel is incredibly flexible; if you simply want to get from A to B then 
 
 #### Coach tours
 
-[Shearings](https://www.shearings.com/) is a coach tour operator with an astonishing variety of holidays and tours, from 4 days in Scotland to 16 days in Croatia. [Alfa Travel](https://www.alfatravel.co.uk/coach-holidays/)specialises in UK coach holidays, with a modern fleet of coaches and some lovely destinations to boot.
+[Shearings](https://www.shearings.com/) is a coach tour operator with an astonishing variety of holidays and tours, from four days in Scotland to 16 days in Croatia. [Alfa Travel](https://www.alfatravel.co.uk/coach-holidays/)specialises in UK coach holidays, with a modern fleet of coaches and some lovely destinations to boot. 
 
 #### Travelling overnight
 
