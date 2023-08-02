@@ -59,3 +59,5 @@ Taking an overnight coach is the ultimate in budget travel, as you save on a hot
 * Pack plenty of snacks. Most coach journeys will incorporate regular stop-offs at service stations, but even so, you don't want to be caught out.
 * Virtually all coaches have charging points so you can take headphones / laptops safe in the knowledge you can keep them charged on the road.
 * Wear comfortable clothes, take a travel pillow, and if you get restless when seated for even a short length of time, then try [these handy seated stretches](https://www.oxygenmag.com/workouts-for-women/stretching-workouts-for-women/5-seated-stretches-to-do-while-traveling/)!
+
+![](/images/uploads/snow-express-ski-coach.jpg "The Snow Express coach goes direct to the Alps from London – perfect for ski fans")
