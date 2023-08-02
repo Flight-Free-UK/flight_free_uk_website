@@ -39,7 +39,7 @@ Coach travel is incredibly flexible; if you simply want to get from A to B then 
 
 #### European travel
 
-[Flixbus](https://www.flixbus.co.uk/) operates a fleet of recognisably bright green coaches across Europe, so if your desire for adventure is tugging you further afield then Flixbus can get you there; from Birmingham to Berlin, or Bristol to Bruges. They too have a [nifty map of destinations](https://www.flixbus.co.uk/bus-routes).
+[Flixbus](https://www.flixbus.co.uk/) operates a fleet of recognisably bright green coaches across Europe, so if your desire for adventure is tugging you further afield then Flixbus can get you there, from Birmingham to Berlin, or Bristol to Bruges. They too have a [nifty map of destinations](https://www.flixbus.co.uk/bus-routes).
 
 [Megabus](https://uk.megabus.com/) also offers a small number of European destinations, including Paris, Brussels and Amsterdam.
 
