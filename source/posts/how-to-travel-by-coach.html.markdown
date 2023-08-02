@@ -27,7 +27,7 @@ But this is Flight Free UK, so how do modern coaches compare to flying? Well, pe
 
 ## Companies, timetables and tickets
 
-Coach travel is incredibly flexible; if you simply want to get from A to B then a company like [National Express](https://www.nationalexpress.com/en) will do that for you. However, if you fancy a coach tour where you travel from location to location whilst staying at hotels or B&B’s overnight, then a company like [Shearings](https://www.shearings.com/) has got you covered. 
+Coach travel is incredibly flexible; if you simply want to get from A to B then a company like [National Express](https://www.nationalexpress.com/en) will do that for you. However, if you fancy a coach tour where you travel from location to location whilst staying at hotels or B&Bs overnight, then a company like [Shearings](https://www.shearings.com/) has got you covered. 
 
 [CheckMyBus](https://www.checkmybus.co.uk/) is a fantastic website that lets you search for coach and bus routes across many different providers letting you find the cheapest fees and giving plenty of date and time flexibility.
 
