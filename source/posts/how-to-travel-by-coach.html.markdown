@@ -13,7 +13,7 @@ read_time_minute: 3
 
 #### Coaches have come a long way since their horse-drawn namesakes of the early 1800’s.
 
-#### Just as every good Sherlock Holmes adventure began with a coach arriving at 221b Baker Street, coaches today depart for a staggering number of locations across the UK and Europe and the potential for adventure is huge. ‘Come Watson, the game is afoot…’ 
+#### Just as every good Sherlock Holmes adventure began with a coach arriving at 221b Baker Street, coaches today depart for a staggering number of locations across the UK and Europe and the potential for adventure is huge. ‘Come Watson, the game is afoot…’
 
 ## Why travel by coach?
 
@@ -51,7 +51,9 @@ Coach travel is incredibly flexible; if you simply want to get from A to B then 
 
 #### Travelling overnight
 
-Taking an overnight coach is the ultimate in budget travel, as you save on a hotel or hostel, and it can work out much cheaper than a sleeper train. It’s very rare you will get a bed, though, so it won’t be the most comfortable night’s sleep. A travel pillow, eye mask and earplugs can really help, and waking up in a new exciting destination will make all that tiredness disappear…  
+Taking an overnight coach is the ultimate in budget travel, as you save on a hotel or hostel, and it can work out much cheaper than a sleeper train. It’s very rare you will get a bed, though, so it won’t be the most comfortable night’s sleep. 
+
+A travel pillow, eye mask and earplugs can really help, and waking up in a new exciting destination will make all that tiredness disappear…  
 
 ## Tips for travelling by coach
 
