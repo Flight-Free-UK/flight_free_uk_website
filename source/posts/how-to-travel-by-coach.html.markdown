@@ -43,7 +43,7 @@ Coach travel is incredibly flexible; if you simply want to get from A to B then 
 
 [Megabus](https://uk.megabus.com/) also offers a small number of European destinations, including Paris, Brussels and Amsterdam.
 
-[S﻿nowExpress](https://www.snowexpress.co.uk/) goes direct to the Alps from London Victoria coach station, meaning you can ski low-carbon on a budget.
+[S﻿nowExpress](https://www.snowexpress.co.uk/) is specifically for skiers, and goes direct to the Alps from London Victoria coach station, meaning you can ski low-carbon *and* on a budget. 
 
 #### Coach tours
 
