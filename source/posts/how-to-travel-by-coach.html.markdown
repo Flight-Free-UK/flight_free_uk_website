@@ -25,25 +25,25 @@ But this is Flight Free UK, how do modern coaches compare to flying? Well, per p
 
 ## Companies, timetables and tickets
 
-Coach travel is incredibly flexible; if you simply want to get from A to B then a company like National Express will do that for you. However, if you fancy a coach tour where you travel from location to location whilst staying at hotels or B&B’s overnight, then a company like Shearings has got you covered. 
+Coach travel is incredibly flexible; if you simply want to get from A to B then a company like [National Express](https://www.nationalexpress.com/en) will do that for you. However, if you fancy a coach tour where you travel from location to location whilst staying at hotels or B&B’s overnight, then a company like Shearings has got you covered. 
 
-CheckMyBus is a fantastic website that lets you search for coach and bus routes across many different providers letting you find the cheapest fees and giving plenty of date and time flexibility.
+[CheckMyBus](https://www.checkmybus.co.uk/) is a fantastic website that lets you search for coach and bus routes across many different providers letting you find the cheapest fees and giving plenty of date and time flexibility.
 
 #### UK travel
 
-National Express is the UK’s number 1 coach company, and for good reason; free WiFi, power sockets, comfy seats and exceptional safety ratings have lead them to garner over 29,000 five-star reviews on TrustPilot – and be featured in the top ten single by the Divine Comedy. If you’re looking for travel within the UK then National Express are definitely worth looking at. Plus, they have this nifty map of their destinations.
+[National Express](https://www.nationalexpress.com/en) is the UK’s number 1 coach company, and for good reason; free WiFi, power sockets, comfy seats and exceptional safety ratings have lead them to garner over 29,000 five-star reviews on TrustPilot – and be featured in the top ten single by the Divine Comedy. If you’re looking for travel within the UK then National Express are definitely worth looking at. Plus, they have [this nifty map of their destinations](https://routemap.nationalexpress.com/#xd_co_f=ZTllNDkyNTgtODNkMS00ZWM5LWI2ZjctNjg3Mzg0ZDU2ZGM2~).
 
-Megabus serves over 100 destinations across the UK and offers extremely competitive ticket prices. It’s worth noting that Megabus are a Tesco Reward Partner – Tesco Clubcard vouchers are 2x their value on the reward scheme.
+[Megabus](https://uk.megabus.com/) serves over 100 destinations across the UK and offers extremely competitive ticket prices. It’s worth noting that Megabus are a Tesco Reward Partner – Tesco Clubcard vouchers are 2x their value on the reward scheme.
 
 #### European travel
 
-Flixbus operates a fleet of recognisably bright green coaches across Europe, so if your desire for adventure is tugging you further afield then Flixbus can get you there; from Birmingham to Berlin, or Bristol to Bruges. They too have a nifty map of destinations.
+[Flixbus](https://www.flixbus.co.uk/) operates a fleet of recognisably bright green coaches across Europe, so if your desire for adventure is tugging you further afield then Flixbus can get you there; from Birmingham to Berlin, or Bristol to Bruges. They too have a [nifty map of destinations](https://www.flixbus.co.uk/bus-routes).
 
-Megabus also offers a small number of European destinations, including Paris, Brussels and Amsterdam.
+[Megabus](https://uk.megabus.com/) also offers a small number of European destinations, including Paris, Brussels and Amsterdam.
 
 #### Coach tours
 
-Shearings is a coach tour operator with an astonishing variety of holidays and tours, from 4 days in Scotland to 16 days in Croatia. Alfa Travel is another coach tour company that specialises in UK coach holidays, with a modern fleet of coaches and some lovely destinations to boot.
+[Shearings](https://www.checkmybus.co.uk/) is a coach tour operator with an astonishing variety of holidays and tours, from 4 days in Scotland to 16 days in Croatia. Alfa Travel is another coach tour company that specialises in UK coach holidays, with a modern fleet of coaches and some lovely destinations to boot.
 
 #### Travelling overnight
 
