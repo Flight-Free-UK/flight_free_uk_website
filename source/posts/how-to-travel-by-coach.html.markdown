@@ -21,7 +21,7 @@ Unlike in Sherlock’s time, there is no chance you’ll be asked to dismount wh
 
 But that’s not the end of the benefits to travelling by modern coach. Comfortable, safe and timely, just one coach keeps around 50 cars off the road, and if coach journeys increased by just 15% per year in the UK we’d be seeing around 47 million fewer cars on our roads. And, contrary to popular belief, there are toilets onboard! 
 
-But this is Flight Free UK, how do modern coaches compare to flying? Well, per person per journey, coaches produce five times less CO2 than air travel. That’s a staggering environmental saving and comes with the fascinating bonus of being able to watch the scenery roll past beyond your window. Ralph Waldo Emerson spoke wisely indeed with his advice to find the journey’s end in every step of the road!
+But this is Flight Free UK, so how do modern coaches compare to flying? Well, per person per journey, coaches produce five times less CO2 than air travel. That’s a staggering environmental saving and comes with the fascinating bonus of being able to watch the scenery roll past beyond your window. Ralph Waldo Emerson spoke wisely indeed with his advice to find the journey’s end in every step of the road!
 
 ![](/images/uploads/co2-emissions-passenger-transport-ffuk.jpg "Coach travel is a very carbon-efficient way to get around")
 
