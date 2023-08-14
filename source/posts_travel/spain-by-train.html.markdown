@@ -67,3 +67,5 @@ Whenever my friends at home told people how I had travelled there, it was fun to
 *3. Barcelona > Cordoba, Cordoba> Algeciras* 
 
 *4. Stopping overnight in Paris and Madrid*
+
+###### C﻿ost: around £300 each way if planned well in advance
