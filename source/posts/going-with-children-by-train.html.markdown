@@ -12,7 +12,7 @@ read_time_minute: 3
 ---
 ![](/images/uploads/child_train_canva.jpg)
 
-### If you are a parent you might baulk at the thought of taking young children on long train journeys, but it could be easier than you think. 
+### If you are a parent you might baulk at the thought of taking young children on long train journeys, but it could be easier than you think.
 
 ##### No travel comes without its challenges, but train travel often has advantages over flying.
 
@@ -59,6 +59,10 @@ S﻿tarting with a short hop to a nearby European city can ease you into travell
 Sleeper trains are always a real hit with children. It's exciting to be in bed on a train, and the clever compartments, foldable beside tables and hidden sinks are a novelty. The most exciting thing is going to sleep in a busy city and waking up surrounded by mountains or countryside. This is true for adults as well as children! 
 
 T﻿ravelling while asleep can save time and money (compared to a hotel) and has the added excitement factor. Just remember to pack ear plugs and eye mask to ensure a sound night's sleep.
+
+> Train travel is the better choice for giving your children more space to play, for fostering a sense of wonder and curiosity at what passes by the train window, for helping them appreciate distances between destinations, and for protecting the world they will inherit.
+
+~﻿ Nick, Campaign for Family-Friendly Trains 
 
 ## 7﻿. Book early for the best price
 
