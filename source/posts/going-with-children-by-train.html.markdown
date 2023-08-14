@@ -70,7 +70,11 @@ I﻿f you set up ticket alerts on [Rail Europe](https://www.raileurope.com/) you
 
 ## **8. Top rail company: Deutsche Bahn!**
 
-Some train companies have special family areas on their trains, and Deutsche Bahn is widely acknowledged as the most child friendly rail operator in Europe. Not only can children travel for free with their own seat, they get free toys and magazines from the cafe. 
+Some train companies have special family areas on their trains, and Deutsche Bahn is one of the most child friendly rail operator in Europe. Not only can children travel for free with their own seat, they get free toys and magazines from the cafe. 
+
+T﻿rains in Sweden, Norway, Austria and Switzerland also have excellent provision for children, with family areas and dedicated play spaces.
+
+![](/images/uploads/train-child-play-area1.jpg "The children's area on a Swiss Rail train")
 
 ## 9. Take food, drink and activities
 
