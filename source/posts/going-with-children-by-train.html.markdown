@@ -62,7 +62,7 @@ T﻿ravelling while asleep can save time and money (compared to a hotel) and has
 
 > Train travel is the better choice for giving your children more space to play, for fostering a sense of wonder and curiosity at what passes by the train window, for helping them appreciate distances between destinations, and for protecting the world they will inherit.
 
-~﻿ Nick, Campaign for Family-Friendly Trains 
+~﻿ Nick, [Campaign for Family-Friendly Trains](https://familyfriendlytrains.com/) 
 
 ## 7﻿. Book early for the best price
 
@@ -87,3 +87,5 @@ Take plenty of activities to entertain the kids, including card games or colouri
 Even young children can manage a small wheelie suitcase and backpack. Sharing the luggage out between everyone makes it much easier when walking between trains, and children love to feel helpful by having their own bag. Just make sure you know who has what so nothing is left behind!
 
 *T﻿hanks to Susanne Treadwell for contributing to this article.*
+
+*F﻿ind out more about travelling with children by train at the [Campaign for Family-Friendly Trains website](https://familyfriendlytrains.com/), where you will find advice, stories from parents and practical information.*
