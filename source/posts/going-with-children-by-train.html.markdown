@@ -90,4 +90,4 @@ Even young children can manage a small wheelie suitcase and backpack. Sharing th
 
 *T﻿hanks to Susanne Treadwell for contributing to this article.*
 
-*F﻿ind out more about travelling with children by train at the [Campaign for Family-Friendly Trains website](https://familyfriendlytrains.com/), where you will find advice, stories from parents and practical information.*
+###### *F﻿ind out more about travelling with children by train at the [Campaign for Family-Friendly Trains website](https://familyfriendlytrains.com/), where you will find advice, stories from parents and practical information.*
