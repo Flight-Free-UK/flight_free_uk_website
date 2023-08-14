@@ -68,11 +68,13 @@ T﻿ravelling while asleep can save time and money (compared to a hotel) and has
 
 I﻿f you set up ticket alerts on [Rail Europe](https://www.raileurope.com/) you can find out in advance when tickets go on sale. 
 
-## **8. Top rail company: Deutsche Bahn!**
+## **8. Check the rail provider for family provision** 
 
-Some train companies have special family areas on their trains, and Deutsche Bahn is one of the most child friendly rail operator in Europe. Not only can children travel for free with their own seat, they get free toys and magazines from the cafe. 
+Some train companies have special family areas on their trains or designated play areas. 
 
-T﻿rains in Sweden, Norway, Austria and Switzerland also have excellent provision for children, with family areas and dedicated play spaces.
+S﻿candinavian trains score highly, as do those in Czechia, Germany, and Switzerland, with family compartments, pram space and play facilities on most services. 
+
+O﻿ther regions have family facilities on some operators, so check before you travel.
 
 ![](/images/uploads/train-child-play-area1.jpg "The children's area on a Swiss Rail train")
 
