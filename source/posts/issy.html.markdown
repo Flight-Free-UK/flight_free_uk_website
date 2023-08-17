@@ -11,9 +11,9 @@ read_time_minute: 3
 ---
 ![](/images/uploads/issy-stephens-testimonial-body.jpg)
 
-### Going to conferences is an important part of academic life. 
+### Going to conferences is an important part of academic life.
 
-##### It’s a great way to network with experts in your field, learn about cutting-edge research, brainstorm and develop your career. 
+##### It’s a great way to network with experts in your field, learn about cutting-edge research, brainstorm and develop your career.
 
 However, it feels uncomfortable to arrive at a conference to talk about sustainable technologies having just flown there.  
 
@@ -21,7 +21,7 @@ In June 2022, I took the train from Birmingham New Street to Stockholm Central f
 
 For this journey, the total cost was around £350 versus about £200 for flights (excluding luggage, connections and transfers).  
 
-I started a PhD because I wanted to make a difference with science and help stop catastrophic climate change. It feels ironic and wasteful that this research is used to justify flying to short conferences when there are alternatives available. One return flight to Rome from London emits as much CO2 per capita as going vegan for an entire year saves. 
+I started a PhD because I wanted to make a difference with science and help stop catastrophic climate change. It feels ironic and wasteful that this research is used to justify flying to short conferences when there are alternatives available. 
 
 If researchers don’t understand the need to not fly, and lead by example, how can we ever expect anyone else to? It feels extremely disingenuous to not engage with these implications. One journey probably doesn’t make a huge difference in emissions, but each one changes perceptions and gets our friends and colleagues thinking about the options. The time for excuses has run out. Leading with business travel would create some hope that a different future is possible.  
 
