@@ -35,4 +35,6 @@ In fact, time felt more efficient as most of the trains had wifi so I could work
 
 I want to be a part of building the new world, which means confronting and challenging my own learnt behaviours, and weaving sustainable systems choices into how I live my life as well as do my research.   
 
-Since that trip, I have no longer just travelled. Every journey is an adventure, with stopovers in places I never would have seen otherwise. I have since been by train to Madrid, Barcelona, the south of France and Cologne, and am planning to go to Gothenburg in Sweden in October for a conference via a very similar route as I did before. I plan to come back via Copenhagen and Berlin, to stop for a couple of days and explore. I am hoping to take some colleagues with me, to try a long train journey for themselves. I hope others can find the same empowerment in flight free travel.
+Since that trip, I have no longer just travelled. Every journey is an adventure, with stopovers in places I never would have seen otherwise. I have since been by train to Madrid, Barcelona, the south of France and Cologne, and am planning to go to Gothenburg in Sweden in October for a conference via a very similar route as I did before. I plan to come back via Copenhagen and Berlin, to stop for a couple of days and explore. 
+
+I am hoping to take some colleagues with me, to try a long train journey for themselves. I hope others can find the same empowerment in flight free travel.
