@@ -27,9 +27,9 @@ I loved being able to get up and buy food in different places. I also managed to
 
 I started a PhD because I wanted to make a difference and help stop catastrophic climate change. It feels ironic and wasteful that this research is used to justify flying to short conferences when there are alternatives available. 
 
-If researchers don’t understand the need to not fly, and lead by example, how can we ever expect anyone else to? It feels extremely disingenuous not to engage with these implications. One journey probably doesn’t make a huge difference in emissions, but each one changes perceptions and gets our friends and colleagues thinking about the options. The time for excuses has run out. Leading with business travel would create some hope that a different future is possible.
+If researchers don’t understand the need to stay grounded when possible, and lead by example, how can we ever expect anyone else to? It feels extremely disingenuous not to engage with these implications. One journey probably doesn’t make a huge difference in emissions, but each one changes perceptions and gets our friends and colleagues thinking about the options. The time for excuses has run out. Leading with business travel would create some hope that a different future is possible. 
 
-> If researchers don’t understand the need to not fly, and lead by example, how can we ever expect anyone else to?
+> If researchers don’t understand the need to stay grounded when possible, and lead by example, how can we ever expect anyone else to?
 
 The logistics of crossing multiple countries and booking multiple tickets can be daunting. If you don't know anyone who has done a journey like this and can advise you, it's scary to book it all. Flights are so easy to just book and sort out, whereas trains require more planning and thought. For this reason I now try to offer help and advice to anyone who wants it. 
 
