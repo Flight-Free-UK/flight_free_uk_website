@@ -83,7 +83,7 @@ The journey from Barcelona to Córdoba is a great chance to take in a big slice
 
 There is an alternative. The slow-travel aficionados at [Europe by Rail](https://www.europebyrail.eu/online-route-maps-17th-edition/17th-edition-historic-spain-route-20/) also recommend the much cheaper zen-like 10 hour trek of the Torre del Oro. Leaving Barcelona at half past eight in the morning, it skirts the east coast before turning inland and passing through the dramatic Despeñaperros National Park, before finally arriving into Cordoba in time for dinner. 
 
-The danger to this route is you might get sidetracked and find yourself hopping off the train to explore UNESCO-listed [Tarragona](https://www.low-carb-travel.info/train-to-spain/hop-offs/spain/tarragona) or [Valencia](https://www.low-carb-travel.info/train-to-spain/hop-offs/spain/valencia) where you could join the [Saturday swimmers](https://www.low-carb-travel.info/scribblngs/valencia-swim-bike-eat-repeat) for a dip. You may never want to leave
+The danger to this route is you might get sidetracked and find yourself hopping off the train to explore UNESCO-listed [Tarragona](https://www.low-carb-travel.info/train-to-spain/hop-offs/spain/tarragona) or [Valencia](https://www.low-carb-travel.info/train-to-spain/hop-offs/spain/valencia) where you could join the [Saturday swimmers](https://www.low-carb-travel.info/scribblngs/valencia-swim-bike-eat-repeat) for a dip. You may never want to leave.
 
 #### Córdoba
 
