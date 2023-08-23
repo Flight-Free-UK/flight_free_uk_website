@@ -20,7 +20,13 @@ Howard Osborne takes us from the Rhondda valley in south Wales to Ronda in the s
 
 Hop on the train at Dinas ([Rhondda](https://www.rctcbc.gov.uk/EN/Tourism/Home.aspx)) and head down to Cardiff where you change trains for London. 
 
-Got to St Pancras early? Great, you can check your bags into a locker and pick one of these things to do around St Pancras
+Got to St Pancras early? Great, you can check your bags [into a locker](https://www.left-baggage.co.uk/en) and pick one of these things to do around St Pancras: 
+
+* [British Library](https://www.bl.uk/). There’s always something to have a browse through at this cathedral of knowledge and it’s a nice place to sit and have cuppa. 
+* [Crick Institute](https://www.crick.ac.uk/whats-on/exhibitions). While we are in St Pancras working out whether we should get a latte or a moccacino to take on Eurostar, some of the world’s leading scientists are working at the cutting edge of biomedical research. Curious to find out more? Pop over the road to the Crick Institute exhibition.
+* [Camley Street Natural Park](www.wildlondon.org.uk). This slice of well-managed wilderness is a gem and it shows how easy it is to reimagine our cities with room for all. 
+* [London Canal Museum](www.canalmuseum.org.uk). If you're curious about the canal running through this bit of London, what better place to find out than the Canal Museum? 
+* [St Pancras New Church](www.stpancraschurch.org). As the parish grew in the early 19th Century, a new church was commissioned in a neo-classical style. It’s well worth a compare and contrast with the [old church](www.posp.co.uk), especially if you're into architecture. 
 
 #### London to Paris by Eurostar
 
