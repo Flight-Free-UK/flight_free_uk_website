@@ -51,7 +51,7 @@ The other option is to cross Paris by foot. It takes about an hour to wander bet
 
 At quarter past nine each evening, an Intercités de Nuit train heads down to the little twin villages of Latour-de-Carol and Enveitg on the Spanish border.
 
-Night trains aren’t for everybody. If you are not sure whether Intercités de Nuit night trains are your thing, here’s a [quick guide](https://www.low-carb-travel.info/articles/what-are-french-night-trains-like). If you decide that you’d rather your bed didn’t move while you sleep, you could grab a hotel room and take a morning train to Barcelona (watch out for the lagoon-loving flamingos after Narbonne).
+Night trains aren’t for everybody. If you are not sure whether Intercités de Nuit night trains are your thing, here’s a [quick guide](https://www.low-carb-travel.info/articles/what-are-french-night-trains-like). If you decide that you’d rather your bed didn’t move while you sleep, you could grab a hotel room and take a morning train to Barcelona (keep an eye out for the lagoon-loving flamingos after Narbonne). 
 
 The night train heads into the Pyrenees following the course of the River Ariège and skirts around Andorra before dipping into Upper Cerdanya – the only part of France on the Iberian Peninsula.
 
