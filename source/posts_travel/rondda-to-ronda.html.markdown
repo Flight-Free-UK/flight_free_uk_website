@@ -107,7 +107,7 @@ If the places you passed through on the way down just felt like a sneaky preview
 
 Just an hour and 20 minutes from Madrid is Aragon’s capital, [Zaragoza](https://www.low-carb-travel.info/train-to-spain/hop-offs/spain/zaragoza). As well as being home to one Moorish palace, two cathedrals and a [Third Millennium bridge](https://www.spain.info/en/places-of-interest/puente-tercer-milenio/), it’s also the place to see some of the biggest and smallest of Goya’s masterpieces.
 
-One of the cathedrals, El Pilar, is home to Goya’s frescos and is quite simply massive. Meanwhile, the [Goya Museum](https://museogoya.fundacionibercaja.es/en/) contains some of his finest etchings. Maybe this is also the place to get a souvenir – if not a Goya masterpiece, pick up a t-shirt from [Dacapo](https://dacapozgza.es/), a local enterprise working on issues of social justice (and practical help).
+One of the cathedrals, El Pilar, is home to Goya’s frescos and is quite simply massive. Meanwhile, the [Goya Museum](https://museogoya.fundacionibercaja.es/en/) contains some of his finest etchings. Maybe this is also the place to get a souvenir – if not a Goya masterpiece, pick up a t-shirt from [Dacapo](https://dacapozgza.es/), a local enterprise working on issues of social justice.
 
 #### Zaragoza to San Sebastian
 
