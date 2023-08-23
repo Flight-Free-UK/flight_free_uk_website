@@ -10,6 +10,8 @@ read_time_minute: 6
 ---
 ![](/images/uploads/ronda-andalusia_canva-body.jpg)
 
+
+
 ### I﻿t’s a well-worn narrative that the journey is part of the destination.
 
 ##### So what if you take that to the extreme, and make a holiday purely out of the stop-offs along the way?
@@ -132,3 +134,5 @@ From San Sebastian it’s just a short hop on the Euskotren to Hendaye where you
 After seeing the finest of France and Spain, maybe it’s time to head home, but if you are not in a hurry and have a couple of hours to spare you could try practicing your new found hop-off skills this side of the Channel. Why not visit Bath or Bristol and see Blighty in a new way...
 
 ![](/images/uploads/bath_canva.jpg "Pulteney Bridge in Bath")
+
+*T﻿he [original version](https://www.low-carb-travel.info/train-to-spain/inspire-me/rhondda-to-ronda) of this article appears on Howard Osborne's website, Low-carb travel. Read the full article, and more of Howard's musings, [here](https://www.low-carb-travel.info/home).*
