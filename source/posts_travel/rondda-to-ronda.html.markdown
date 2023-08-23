@@ -10,17 +10,17 @@ read_time_minute: 6
 ---
 ![](/images/uploads/ronda-andalusia_canva-body.jpg "The Puente Nuevo (new bridge) in Ronda, Andalusia, built 1793")
 
-### I﻿t’s a well-worn narrative that the journey is part of the destination. 
+### I﻿t’s a well-worn narrative that the journey is part of the destination.
 
-##### So what if you take that to the extreme, and make a holiday purely out of the stop-offs along the way? 
+##### So what if you take that to the extreme, and make a holiday purely out of the stop-offs along the way?
 
 Howard Osborne takes us from the Rhondda valley in south Wales to Ronda in the south of Spain, via every stop on the way. 
 
 #### Rhondda – Cardiff – London
 
-Hop on the train at Dinas ([Rhondda](https://www.rctcbc.gov.uk/EN/Tourism/Home.aspx)) and head down to Cardiff where you can change trains for London. 
+Hop on the train at Dinas ([Rhondda](https://www.rctcbc.gov.uk/EN/Tourism/Home.aspx)) and head down to Cardiff where you change trains for London. 
 
-Got to St Pancras early? Great, you can check your bags into a locker and pick one of these [things to do around St Pancras](https://www.low-carb-travel.info/train-to-spain/hop-offs/uk/london-st-pancras).
+Got to St Pancras early? Great, you can check your bags into a locker and pick one of these things to do around St Pancras
 
 #### London to Paris by Eurostar
 
