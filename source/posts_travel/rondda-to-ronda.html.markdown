@@ -119,7 +119,7 @@ When you get to San Sebastian, why not go for a genteel swim at La Concha beach,
 
 #### San Sebastian to Paris
 
-From San Sebastian it’s just a short hop on the Euskotren to Hendaye where you can get a 4-hour TGV back to Paris, or slow down and stop off for an hour or two at Saint Jean de Luz, [Bayonne](https://www.low-carb-travel.info/train-to-spain/hop-offs/france/bayonne) or [Bordeaux](https://www.low-carb-travel.info/train-to-spain/hop-offs/france/bordeaux). Alternatively, if you’ve developed a liking for night trains, you can take one from Hendaye to Paris in the summer months
+From San Sebastian it’s just a short hop on the Euskotren to Hendaye where you can get a 4-hour TGV back to Paris, or slow down and stop off for an hour or two at Saint Jean de Luz, [Bayonne](https://www.low-carb-travel.info/train-to-spain/hop-offs/france/bayonne) or [Bordeaux](https://www.low-carb-travel.info/train-to-spain/hop-offs/france/bordeaux). Alternatively, if you’ve developed a liking for night trains, you can take one from Hendaye to Paris in the summer months.
 
 #### Paris to Rhondda – seeing the UK in a new light?
 
