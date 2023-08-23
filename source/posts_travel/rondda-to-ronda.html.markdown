@@ -8,7 +8,7 @@ summary: Howard Osborne takes us on an adventure from South Wales to the South
 author: FlightFree UK
 read_time_minute: 6
 ---
-![](/images/uploads/ronda-andalusia_canva-body.jpg "The Puente Nuevo (new bridge) in Ronda, Andalusia, built 1793")
+![](/images/uploads/ronda-andalusia_canva-body.jpg)
 
 ### I﻿t’s a well-worn narrative that the journey is part of the destination.
 
@@ -92,6 +92,8 @@ Whichever way you choose, arriving into [Córdoba](https://www.low-carb-travel.
 #### Final stop… Ronda
 
 There’s a distinct pleasure in wandering back and forth across the Puente Nuevo and Puente Viejo bridges which span the chasm that runs through Ronda, dividing the old and new towns, as well as visiting sites like the Arabic baths that remind us of Ronda’s varied past.
+
+![](/images/uploads/ronda-andalusia_canva-body.jpg "The Puente Nuevo (new bridge) in Ronda, Andalusia, built 1793")
 
 It’s a pleasure long-enjoyed by the British stationed in Gibraltar, who used to come up here to escape the mid-summer heat. Orson Welles and Hemingway were also regular visitors, drawn by bullfighting.
 
