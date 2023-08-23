@@ -71,7 +71,7 @@ It also stops at Ripoll, a spiritual home for many Catalans as it’s the final
 
 After that, there’s Vic, the home of Fuet sausage, which also has a Cathedral covered in Josep Maria Sert’s haunting murals.
 
-After Vic, the train enters Barcelona’s industrial and commuter belt
+After Vic, the train enters Barcelona’s industrial and commuter belt.
 
 #### Barcelona
 
