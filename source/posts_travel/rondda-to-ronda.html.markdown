@@ -130,3 +130,5 @@ From San Sebastian it’s just a short hop on the Euskotren to Hendaye where you
 #### Paris to Rhondda – seeing the UK in a new light?
 
 After seeing the finest of France and Spain, maybe it’s time to head home, but if you are not in a hurry and have a couple of hours to spare you could try practicing your new found hop-off skills this side of the Channel. Why not visit Bath or Bristol and see Blighty in a new way...
+
+![](/images/uploads/bath_canva.jpg "Pulteney Bridge in Bath")
