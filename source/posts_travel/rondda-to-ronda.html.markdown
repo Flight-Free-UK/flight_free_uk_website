@@ -26,7 +26,7 @@ Got to St Pancras early? Great, you can check your bags [into a locker](https://
 * [Crick Institute](https://www.crick.ac.uk/whats-on/exhibitions). While we are in St Pancras working out whether we should get a latte or a moccacino to take on Eurostar, some of the world’s leading scientists are working at the cutting edge of biomedical research. Curious to find out more? Pop over the road to the Crick Institute exhibition.
 * [Camley Street Natural Park](https://www.wildlondon.org.uk/camley-street-natural-park). This slice of well-managed wilderness is a gem and it shows how easy it is to reimagine our cities with room for all. 
 * [London Canal Museum](https://www.canalmuseum.org.uk). If you're curious about the canal running through this bit of London, what better place to find out than the Canal Museum? 
-* [St Pancras New Church](www.stpancraschurch.org). As the parish grew in the early 19th Century, a new church was commissioned in a neo-classical style. It’s well worth a compare and contrast with the [old church](www.posp.co.uk), especially if you're into architecture. 
+* [St Pancras New Church](https://www.stpancraschurch.org). As the parish grew in the early 19th Century, a new church was commissioned in a neo-classical style. It’s well worth a compare and contrast with the [old church](https://www.posp.co.uk), especially if you're into architecture. 
 
 #### London to Paris by Eurostar
 
