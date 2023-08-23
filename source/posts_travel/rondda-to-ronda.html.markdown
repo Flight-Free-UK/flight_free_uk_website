@@ -89,7 +89,7 @@ The danger to this route is you might get sidetracked and find yourself hopp
 
 Whichever way you choose, arriving into [Córdoba](https://www.low-carb-travel.info/train-to-spain/hop-offs/spain/c%C3%B3rdoba) from Barcelona and walking to the Mezquita through Victoria Gardens, suffused with the smell of orange blossom, brings home how dramatically diverse Spain is and always has been. You might want to spend a day or two here before getting back on the tracks.
 
-#### Final stop…Ronda
+#### Final stop… Ronda
 
 There’s a distinct pleasure in wandering back and forth across the Puente Nuevo and Puente Viejo bridges which span the chasm that runs through Ronda, dividing the old and new towns, as well as visiting sites like the Arabic baths that remind us of Ronda’s varied past.
 
