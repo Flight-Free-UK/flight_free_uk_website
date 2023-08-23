@@ -18,7 +18,7 @@ Howard Osborne takes us from the Rhondda valley in south Wales to Ronda in the s
 
 #### Rhondda – Cardiff – London
 
-Hop on the train at Dinas ([Rhondda](https://www.rctcbc.gov.uk/EN/Tourism/Home.aspx)) and head down to Cardiff where you change trains for London. 
+Hop on the train at Dinas ([Rhondda](https://www.rctcbc.gov.uk/EN/Tourism/Home.aspx)) and head down to Cardiff where you change trains for London. The Regents canal makes for a pleasant walk between London Paddington station (where your Cardiff train arrives) and St Pancras (where the Eurostar departs). Alternatively, take the Circle line or Hammersmith and City line between the stations.
 
 Got to St Pancras early? Great, you can check your bags [into a locker](https://www.left-baggage.co.uk/en) and pick one of these things to do nearby:
 
@@ -27,6 +27,8 @@ Got to St Pancras early? Great, you can check your bags [into a locker](https://
 * [Camley Street Natural Park](https://www.wildlondon.org.uk/camley-street-natural-park). This slice of well-managed wilderness is a gem and it shows how easy it is to reimagine our cities with room for all. 
 * [London Canal Museum](https://www.canalmuseum.org.uk). If you're curious about the canal running through this bit of London, what better place to find out than the Canal Museum? 
 * [St Pancras New Church](https://www.stpancraschurch.org). As the parish grew in the early 19th Century, a new church was commissioned in a neo-classical style. It’s well worth a comparison with the [old church](https://www.posp.co.uk), especially if you're into architecture. 
+
+![](/images/uploads/st-pancras_canva-body.jpg "St Pancras station in London")
 
 #### London to Paris by Eurostar
 
@@ -76,6 +78,8 @@ After Vic, the train enters Barcelona’s industrial and commuter belt.
 #### Barcelona
 
 Barcelona, like Paris, is quite understandably on most bucket lists of places to visit, with the sublime works of Gaudi and loads of good grub.
+
+![](/images/uploads/la-sagrada-familia-barcelona_canva-body.jpg "La Sagrada Familia in Barcelona")
 
 #### Barcelona to Córdoba
 
