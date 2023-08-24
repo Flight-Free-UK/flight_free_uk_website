@@ -9,9 +9,9 @@ read_time_minute: 4
 ---
 ![](/images/uploads/montecatini-tuscany_canva-body.jpg "The village of Montecatini Terme in Tuscany")
 
-### When I spotted an advert for a choral singing holiday in Italy [www.choritalia.com](http://www.choritalia.com), my first thought was, “Oh, that looks good!” 
+### When I spotted an advert for a [choral singing holiday in Italy](http://www.choritalia.com), my first thought was, “Oh, that looks good!”
 
-##### I've been on quite a few singing holidays both in the UK and abroad, and I welcome the opportunity to do more with like-minded people. 
+##### I've been on quite a few singing holidays both in the UK and abroad, and I welcome the opportunity to do more with like-minded people.
 
 ##### My second thought was, “Can I combine this with a holiday with my partner? And can we do it by rail?” 
 
