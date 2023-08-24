@@ -10,7 +10,7 @@ read_time_minute: 6
 ---
 ![](/images/uploads/rondda-to-ronda.jpg)
 
-### I﻿t’s a well-worn narrative that the journey is part of the destination.
+### I﻿t’s a well-worn narrative of flight-free travel that the journey is part of the destination. 
 
 ##### So what if you take that to the extreme, and make a holiday purely out of the stop-offs along the way?
 
