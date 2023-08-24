@@ -21,6 +21,8 @@ Out of the two of us, I am the less enthusiastic about long-distance rail travel
 
 From York, we travelled to Paris where we stayed overnight at a hotel near Gare de Lyon, then caught an early high-speed train the next morning to Turin. Onwards from Turin it was much slower, with quite a few stops, but the train follows the coastline so there were glorious views of a sun-speckled sea and the Cinque Terre seaside towns. It was a very long day, so next time I would stay overnight in Turin to get the majority of travel out of the way on day one.
 
+> The train follows the coastline so there were glorious views of a sun-speckled sea and the Cinque Terre seaside towns
+
 The choral retreat was in Montecatini Terme, a spa town in Tuscany. Most of the other people came by plane (they were from all over Europe, US and Canada), though at least two other people came from the UK by train, and one from Norway, for similar reasons to us. Phil spent time walking and exploring while I was on the course, then we had a further week in Montecatini for our holiday.
 
 We took some very cheap day trips by train: £5 each to Florence (horribly crowded), Lucca (lovely and not too crowded) and Pistoia (very lovely and not crowded at all) and did some walking, bird spotting (LOTS of egrets!) and weird-building-exploring. The hotel had a pool with lots of seating, so we relaxed with books and endless games of Yanif.
@@ -36,6 +38,8 @@ The [train](http://www.trenitalia.com) departed Turin at 07.30, bang on time, an
 After that, it speeds up, reaching speeds of 300 kmph, arriving in Paris for lunchtime. The train was running a bit late by this time so we only had time to grab a sandwich before heading to the Metro to transfer from Gare de Lyon to Gare du Nord. It’s only two stops but quite a distance between the two stations, so allow plenty of time as the trains are not that frequent. Boarding Eurostar and going through immigration seemed very much easier this year, with more help around and less of a sense of controlled panic. 
 
 We could have been home in York by 19.30 but, due to a technical hitch with the Booking Officer (me) who misread the timetable, we actually got back home at 21.30. The sun set in a dramatic and wide open sky, which reminded us how much we still like the UK, even though it had barely stopped raining while we were away.
+
+> It is much more pleasant, and much less stressful than flying. Local trains in Italy are cheap, so do take advantage and get around.
 
 It’s a long journey, and it’s more expensive than flying. Booking early keeps the prices lower but it’s still a lot. Travel by train shouldn’t be this much – we are the ones saving the planet after all! In terms of distance, the most expensive bits are UK and Eurostar. But it is much more pleasant, and much less stressful. Local trains in Italy are cheap cheap cheap, so do take advantage and get around. No need to pre-book.
 
