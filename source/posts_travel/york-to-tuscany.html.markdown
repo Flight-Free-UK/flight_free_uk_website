@@ -47,31 +47,21 @@ The wonderful [www.Seat61.com](http://www.Seat61.com) can answer most of your qu
 
 ##### Itinerary:
 
-York
-
-London
-
-Paris (stay overnight)
-
-Turin
-
-Asti
-
-Viareggio
-
-Montecatini Terme
+* York
+* London
+* Paris (stay overnight)
+* Turin
+* Asti
+* Viareggio
+* Montecatini Terme
 
 **Return:**
 
-Montecatini Terme
-
-Turin (stay overnight)
-
-Paris
-
-London
-
-York
+* Montecatini Terme
+* Turin (stay overnight)
+* Paris
+* London
+* York
 
 ###### Cost: £1457 for two
 
