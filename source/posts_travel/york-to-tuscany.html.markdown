@@ -25,6 +25,8 @@ The choral retreat was in Montecatini Terme, a spa town in Tuscany. Most of the 
 
 We took some very cheap day trips by train: £5 each to Florence (horribly crowded), Lucca (lovely and not too crowded) and Pistoia (very lovely and not crowded at all) and did some walking, bird spotting (LOTS of egrets!) and weird-building-exploring. The hotel had a pool with lots of seating, so we relaxed with books and endless games of Yanif.
 
+![](/images/uploads/lucca-tuscany_canva.jpg "Lucca, Tuscany")
+
 On the return trip we decided on two nights in Turin, finding a cheap hotel (Hotel Torino) across the road from Porta Susa which was our departure station. Not being city people, we were a bit worried about being there, but it turned out to be immensely enjoyable. The wide streets with covered walkways made walking in the heat quite bearable, and the integrated transport system made getting further afield very easy. A three euro ticket gets you all-day travel on the buses, metro and trams (though the metro was closed for work). 
 
 Other than walking and looking at the many wonderful buildings, we went to the Egyptian Museum, which was enthralling and kept us open-mouthed for three or four hours, and to the Fiat Factory in [Lingotto](https://en.wikipedia.org/wiki/Lingotto) which satisfies the car enthusiast, the architecture enthusiast and the plant enthusiast – the roof still has the old track where they tested the cars, and has now been made into a long garden of heat tolerant plants which are useful to study in these days of climate change.
