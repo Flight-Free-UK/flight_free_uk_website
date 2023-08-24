@@ -3,7 +3,7 @@ published: true
 title: York to Tuscany
 date: 2023-08-24T10:34:16.357Z
 cover_image: /images/uploads/montecatini-tuscany_canva-cover.jpg
-summary: A two-day train adventure from the north of England to Tuscany
+summary: Caroline takes to the rails for a singing holiday in Tuscany
 author: FlightFree UK
 read_time_minute: 4
 ---
@@ -11,7 +11,7 @@ read_time_minute: 4
 
 ### When I spotted an advert for a [choral singing holiday in Italy](http://www.choritalia.com), my first thought was, “Oh, that looks good!”
 
-##### I've been on quite a few singing holidays both in the UK and abroad, and I welcome the opportunity to do more with like-minded people.
+### I've been on quite a few singing holidays both in the UK and abroad, and I welcome the opportunity to do more with like-minded people.
 
 ##### My second thought was, “Can I combine this with a holiday with my partner? And can we do it by rail?” 
 
