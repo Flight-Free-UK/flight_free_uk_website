@@ -8,9 +8,7 @@ summary: Howard Osborne takes us on an adventure from South Wales to the South
 author: FlightFree UK
 read_time_minute: 6
 ---
-![](/images/uploads/ronda-andalusia_canva-body.jpg)
-
-
+![](/images/uploads/rondda-to-ronda.jpg)
 
 ### I﻿t’s a well-worn narrative that the journey is part of the destination.
 
