@@ -3,7 +3,7 @@ published: true
 title: In conversation with Philippa Robb
 date: 2023-08-29T09:13:39.440Z
 cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
-summary: We speak to transport campaigner Philippa Robb about the difficult
+summary: We speak to transport campaigner Philippa Robb about her difficult
   decision not to travel to South Africa after her father's death
 author: FlightFree UK
 read_time_minute: 4
