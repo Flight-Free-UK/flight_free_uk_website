@@ -38,7 +38,9 @@ I recently refused an invitation to go to the middle east to celebrate my godfat
 
 It’s difficult because it would be so easy to say, just this once. People call them love miles. 
 
-I did slightly battle with the fact that in 2014 and 2016 I went to see my mum in Joh﻿annesburg with my son. What was it about my dad that I wasn’t going to show those ‘love miles’? It wasn’t anything about my dad, because I loved him as much as my mum. But I thought, what am I going out there for? At some point in your life you have to make the choice between the generation that’s passing and the generation that’s coming in.
+I did slightly battle with the fact that in 2014 and 2016 I went to see my mum in Joh﻿annesburg with my son. What was it about my dad that I wasn’t going to show those ‘love miles’? It wasn’t anything about my dad, because I loved him as much as my mum. But I thought, what am I going out there for? 
+
+##### At some point in your life you have to make the choice between the generation that’s passing and the generation that’s coming in.
 
 *F﻿ind out more about Philippa on Twitter: @cyclethecity*
 
