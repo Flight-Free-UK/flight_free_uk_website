@@ -2,19 +2,19 @@
 published: true
 title: In conversation with Philippa Robb
 date: 2023-08-29T09:13:39.440Z
-cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
+cover_image: /images/uploads/philippa_robb-podcast-website-podbean.jpg
 summary: We speak to transport campaigner Philippa Robb about her difficult
   decision not to travel to South Africa after her father's death
 author: FlightFree UK
 read_time_minute: 4
 ---
-*T﻿his is episode 8 of our 2023 podcast series. Listen to the episode here and find other episodes and previous series [here](/podcast).*
+*T﻿his is episode 8 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-philippa-robb/) and find other episodes and previous series [here](/podcast).*
 
 ## This month we are talking about the difficult decisions that you might have to take if you have family abroad but you have chosen not to fly.
 
 #### We are speaking to Philippa Robb, a transport campaigner, who recently made the difficult decision not to travel to South Africa, where she grew up, when her father died.
 
-##### Philippa: 
+##### Philippa:
 
 I work as smarter transport officer, encouraging people out of cars. I was born in the UK, grew up in South Africa, went to Italy, back to South Africa, then on to the US, before moving to Britain in my 20s. 
 
@@ -42,6 +42,6 @@ I did slightly battle with the fact that in 2014 and 2016 I went to see my mum i
 
 ##### At some point in your life you have to make the choice between the generation that’s passing and the generation that’s coming in.
 
-*F﻿ind out more about Philippa on Twitter: @cyclethecity*
+*F﻿ind out more about Philippa on Twitter: [@cyclethecity](https://twitter.com/cyclethecity)*
 
-*L﻿isten to the full episode here and find other episodes and previous series [here](/podcast).*
+*L﻿isten to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-philippa-robb/) and find other episodes and previous series [here](/podcast).*
