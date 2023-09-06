@@ -1,15 +1,17 @@
 ---
-published: false
+published: true
 title: How to travel by bike
 category: how-to
 date: 2023-09-06T17:09:40.581Z
-cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
+cover_image: /images/uploads/anna_hughes_touring_bike-cover.jpg
 summary: It's the ultimate low-carbon form of transport, and is cheap and
   adventurous too. Read our tips for how to get the most out of a bicycle tour.
 author: FlightFree UK
 read_time_minute: 4
 ---
-#### Cycle tours are a fantastic way to travel, requiring very little equipment and giving a unique view of the world. And the engine is you, so depending on what you’re fuelled with, they can be very low carbon!
+![](/images/uploads/anna_hughes_touring_bike-body.jpg)
+
+#### Cycle touring is a fantastic way to travel, requiring very little equipment and giving a unique view of the world. And the engine is you, so depending on what you’re fuelled with, a bike tour can be very low carbon! 
 
 ## Why travel by bike?
 
