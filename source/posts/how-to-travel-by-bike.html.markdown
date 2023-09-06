@@ -32,31 +32,31 @@ Touring bikes are specifically aimed at the cycle touring market because they ar
 
 The beauty of cycle touring is that the adventure starts the moment you leave your front door. There are probably many interesting routes near to where you live, so it’s not always necessary to ‘go’ somewhere to start your tour. 
 
-The National Cycle Network is a network of traffic-free and on-road routes, managed by the charity Sustrans. The Sustrans website can give lots of inspiration for a UK cycle tour.
+The [National Cycle Network](https://www.sustrans.org.uk/national-cycle-network/) is a network of traffic-free and on-road routes, managed by the charity [Sustrans](https://www.sustrans.org.uk/). The [Sustrans website](https://www.sustrans.org.uk/) can give lots of inspiration for a UK cycle tour.
 
-Other recommended reading: Lost Lanes by Jack Thurston. These delightful books take you along small roads and forgotten byways in a variety of day-long rides that cover the length and breadth of Britain.
+Other recommended reading: [Lost Lanes by Jack Thurston](https://lostlanes.co.uk/). These delightful books take you along small roads and forgotten byways in a variety of day-long rides that cover the length and breadth of Britain.
 
 ## Touring in Europe
 
-Eurovelo is your go-to resource here, with a vast network of way-marked cycle routes that cover all the corners of Europe and everything in between. 
+[Eurovelo](https://en.eurovelo.com/) is your go-to resource here, with a vast network of way-marked cycle routes that cover all the corners of Europe and everything in between. 
 
-The Netherlands is a particular highlight, with world-class cycling infrastructure in towns, cities and countryside. Belgium also deserves a mention, and of course Denmark. But you’ll find something in whichever country you pick – look for the greenways (Voie Verte in France, Via Verde in Spain, etc)
+The Netherlands is a particular highlight, with world-class cycling infrastructure in towns, cities and countryside. Belgium also deserves a mention, and of course Denmark. But you’ll find something in whichever country you pick – look for the greenways (Voie Verte in France, Vias Verdes in Spain, etc)
 
 ## Taking your bike on the train
 
 Combining trains and bicycles is a great way to get further afield, and really keeps things low-carbon. Plan ahead, though, and be prepared for things to go askew – it is sometimes very easy to take your bike on the train, and sometimes a real pain. 
 
-Intercity/fast trains in the UK require you to make a reservation for your bicycle. You can do this at the time of booking with some providers, for example GWR. If you can’t book your bicycle at the same time as your ticket, contact the rail company via social media and they will book it for you quickly and efficiently. 
+Intercity/fast trains in the UK require you to make a reservation for your bicycle. You can do this at the time of booking with some providers, for example [GWR](https://www.gwr.com/). If you can’t book your bicycle at the same time as your ticket, contact the rail company via social media and they will book it for you quickly and efficiently. 
 
 Slower, local trains don’t require a booking, but you can only take your bike at off-peak times.
 
-In continental Europe, high-speed trains will only carry bicycles if they are in a bag. This can be a very useful option for going far afield, but can be a bit fiddly, so practice dismantling and bagging your bike before you go. 
+In continental Europe, high-speed trains will only carry bicycles if they are [in a bag](https://www.tredz.co.uk/bike-cycling-bags). This can be a very useful option for going far afield, but can be a bit fiddly, so practice dismantling and bagging your bike before you go. 
 
 Local, slower trains don’t usually require a reservation, and will have a dedicated space for bicycles. They’re usually a bit cheaper, too, so can be a great option for a hop-on-hop-off tour.
 
 ## Taking your bike on the ferry
 
-Eurostar is not always bike-friendly, so a better option might be to take a ferry. With ferries to Santander, St Malo, Dieppe, Calais, Dunkirk, Hoek van Holland and many more destinations, the options for where to start your bike tour are extensive. Fares are very reasonable when travelling with a bicycle on a ferry. 
+Eurostar is not always bike-friendly, so a better option might be to take a ferry. With ferries to Santander, St Malo, Dieppe, Calais, Dunkirk, Hoek van Holland and [many more destinations](/post/how-to-travel-by-ferry), the options for where to start your bike tour are extensive. Fares are very reasonable when travelling with a bicycle on a ferry. 
 
 ## Accommodation
 
@@ -72,4 +72,4 @@ The accepted advice is, ‘eat before you get hungry and drink before you get th
 
 ## Maintenance
 
-The best maintenance is preventative, so get your bike checked by a qualified mechanic before you leave. It’s also a really good idea to learn how to fix a puncture, as that’s the most likely affliction to occur on a bike tour, and you don’t want it to be a reason not to be able to continue.
+The best maintenance is preventative, so get your bike checked by a qualified mechanic before you leave. It’s also a really good idea to learn [how to fix a puncture](https://www.youtube.com/watch?v=Q2sKMqB9QCg), as that’s the most likely affliction to occur on a bike tour, and you don’t want it to be a reason not to be able to continue.
