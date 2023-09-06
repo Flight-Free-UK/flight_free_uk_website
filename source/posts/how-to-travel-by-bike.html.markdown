@@ -11,7 +11,7 @@ read_time_minute: 4
 ---
 ![](/images/uploads/anna_hughes_touring_bike-body.jpg)
 
-#### Cycle touring is a fantastic way to travel, requiring very little equipment and giving a unique view of the world. And the engine is you, so depending on what you’re fuelled with, a bike tour can be very low carbon! 
+#### Cycle touring is a fantastic way to travel, requiring very little equipment and giving a unique view of the world. And the engine is you, so depending on what you’re fuelled with, a bike tour can be very low carbon!
 
 ## Why travel by bike?
 
@@ -53,6 +53,8 @@ Slower, local trains don’t require a booking, but you can only take your bike 
 In continental Europe, high-speed trains will only carry bicycles if they are [in a bag](https://www.tredz.co.uk/bike-cycling-bags). This can be a very useful option for going far afield, but can be a bit fiddly, so practice dismantling and bagging your bike before you go. 
 
 Local, slower trains don’t usually require a reservation, and will have a dedicated space for bicycles. They’re usually a bit cheaper, too, so can be a great option for a hop-on-hop-off tour.
+
+![](/images/uploads/bike-bag-train-ahughes.jpeg "A bike bagged up ready to go on the train")
 
 ## Taking your bike on the ferry
 
