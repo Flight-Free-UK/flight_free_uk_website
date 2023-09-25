@@ -3,44 +3,45 @@
 @tailwind utilities;
 
 @layer utilities {
-	.underline-orange {
-		text-decoration-color: #f7b38a;
-		text-decoration-thickness: 11%;
-	}
+    .underline-orange {
+        text-decoration-color: #f7b38a;
+        text-decoration-thickness: 11%;
+    }
 
-	.underline-blue {
-		text-decoration-color: #357cb6;
-		text-decoration-thickness: 11%;
-	}
+    .underline-blue {
+        text-decoration-color: #357cb6;
+        text-decoration-thickness: 11%;
+    }
 
-	.underline-gray-light {
-		text-decoration-color: #f9f9f9;
-		text-decoration-thickness: 11%;
-	}
+    .underline-gray-light {
+        text-decoration-color: #f9f9f9;
+        text-decoration-thickness: 11%;
+    }
 }
 
 @font-face {
-	font-family: "Kollektif";
-	src: url("/fonts/Kollektif.woff2") format("woff2"), url("/fonts/Kollektif.woff") format("woff");
-	font-display: swap;
+    font-family: "Kollektif";
+    src: url("/fonts/Kollektif.woff2") format("woff2"), url("/fonts/Kollektif.woff") format("woff");
+    font-display: swap;
 }
 
 @font-face {
-	font-family: "KollektifBold";
-	src: url("/fonts/Kollektif-Bold.woff2") format("woff2"), url("/fonts/Kollektif-Bold.woff") format("woff");
-	font-display: swap;
+    font-family: "KollektifBold";
+    src: url("/fonts/Kollektif-Bold.woff2") format("woff2"), url("/fonts/Kollektif-Bold.woff") format("woff");
+    font-display: swap;
 }
 
 html {
-	font-family: "Kollektif", sans-serif;
-	font-weight: 400;
-	/*letter-spacing: 0.5px;*/
+    font-family: "Kollektif", sans-serif;
+    font-weight: 400;
+
+    scroll-behavior: smooth;
 }
 
 @media (min-width: 768px) {
-	html {
-		letter-spacing: 0.5px;
-	}
+    html {
+        letter-spacing: 0.5px;
+    }
 }
 
 h1,
@@ -48,227 +49,227 @@ h2,
 strong,
 b,
 .font-bold {
-	font-family: "KollektifBold", sans-serif;
-	font-weight: 400 !important;
+    font-family: "KollektifBold", sans-serif;
+    font-weight: 400 !important;
 }
 
 .text-shadow {
-	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /* Don't restrict width for to the xs and sm breakpoints */
 @media (max-width: 640px) {
-	.container {
-		max-width: 100%;
-	}
+    .container {
+        max-width: 100%;
+    }
 }
 
 /* Make sure SVGs scale appropriately */
 svg {
-	max-width: 100%;
-	height: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 /*
  * SVG buttons in lists
  */
 .ff-bullets li svg {
-	width: 20px;
-	height: auto;
+    width: 20px;
+    height: auto;
 }
 
 /*
  * Mobile navigation
  */
 #main-header #menu-toggle {
-	background-image: url(/svg/menu_icon.svg);
+    background-image: url(/svg/menu_icon.svg);
 }
 
 #main-header.menu-active {
-	@apply fixed overflow-auto top-0 bottom-0 left-0 right-0 p-4 flex;
-	width: 100vw;
-	height: 100vh;
-	background-color: #204f7f;
+    @apply fixed overflow-auto top-0 bottom-0 left-0 right-0 p-4 flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: #204f7f;
 }
 
 #main-header.menu-active #menu-toggle {
-	background-image: url(/svg/menu_close_icon.svg);
+    background-image: url(/svg/menu_close_icon.svg);
 }
 
 #main-header.menu-active nav,
 #main-header.menu-active .social-links {
-	@apply flex;
+    @apply flex;
 }
 
 #main-header.menu-active .social-links {
-	@apply w-full mt-8 justify-center;
+    @apply w-full mt-8 justify-center;
 }
 
 #main-header .logo svg {
-	width: 200px;
-	height: auto;
+    width: 200px;
+    height: auto;
 }
 
 @media (min-width: 768px) {
-	#main-header .logo svg {
-		width: 260px;
-	}
+    #main-header .logo svg {
+        width: 260px;
+    }
 }
 
 #main-header a.svg:hover path {
-	fill: #f7b38a;
+    fill: #f7b38a;
 }
 
 /*
  * Homepage
  */
 .section--introduction--text svg {
-	width: auto;
-	height: 65px;
-	transform: rotate(10deg);
+    width: auto;
+    height: 65px;
+    transform: rotate(10deg);
 }
 
 @media (min-width: 768px) {
-	.section--introduction--text svg {
-		height: 130px;
-		transform: none;
-	}
+    .section--introduction--text svg {
+        height: 130px;
+        transform: none;
+    }
 }
 
 /*
  * Homepage 'How' section
  */
 .section--how--card>* {
-	max-width: 256px
+    max-width: 256px
 }
 
 @media (min-width: 420px) {
-	.section--how--card>* {
-		max-width: 284px
-	}
+    .section--how--card>* {
+        max-width: 284px
+    }
 }
 
 @media (min-width: 768px) {
-	.section--how--card>* {
-		max-width: 190px
-	}
+    .section--how--card>* {
+        max-width: 190px
+    }
 }
 
 @media (min-width: 1024px) {
-	.section--how--card>* {
-		max-width: 284px
-	}
+    .section--how--card>* {
+        max-width: 284px
+    }
 }
 
 .pin {
-	position: absolute;
-	top: -2rem;
-	left: 50%;
-	margin-left: -14px;
+    position: absolute;
+    top: -2rem;
+    left: 50%;
+    margin-left: -14px;
 }
 
 @media (min-width: 768px) {
-	.section--why li svg {
-		width: 32px;
-	}
+    .section--why li svg {
+        width: 32px;
+    }
 }
 
 /*
  * Homepage 'Mythbuster / Fact or Fiction' section
  */
 .answered button {
-	@apply cursor-default;
+    @apply cursor-default;
 }
 
 /*
  * Homepage videos 
  */
 .home--videos a {
-	position: relative;
+    position: relative;
 }
 
 .home--videos a:after {
-	content: " ";
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	width: 40px;
-	height: 40px;
-	margin-top: -45px;
-	margin-left: -20px;
-	background: transparent url("/images/video-play-blue-dark.svg") center center no-repeat;
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    margin-top: -45px;
+    margin-left: -20px;
+    background: transparent url("/images/video-play-blue-dark.svg") center center no-repeat;
 }
 
 @media (min-width: 768px) {
-	.home--videos a:after {
-		width: 60px;
-		height: 60px;
-		margin-top: -55px;
-		margin-left: -40px;
-	}
+    .home--videos a:after {
+        width: 60px;
+        height: 60px;
+        margin-top: -55px;
+        margin-left: -40px;
+    }
 }
 
 /*
  * Popups
  */
 .modal.is-open {
-	@apply block;
+    @apply block;
 }
 
 /*
  * FAQs page
  */
 .faq-question h3 {
-	background-size: 2rem;
-	min-height: 2rem;
-	background-image: url(/svg/faqs_plus.svg);
+    background-size: 2rem;
+    min-height: 2rem;
+    background-image: url(/svg/faqs_plus.svg);
 }
 
 .faq-question.expanded h3 {
-	background-image: url(/svg/faqs_minus.svg);
+    background-image: url(/svg/faqs_minus.svg);
 }
 
 .faq-question.expanded .answer {
-	@apply block;
+    @apply block;
 }
 
 .faq-question a {
-	@apply underline underline-orange;
+    @apply underline underline-orange;
 }
 
 .faq-question a:hover,
 .faq-question a:focus {
-	@apply text-orange;
+    @apply text-orange;
 }
 
 @media (min-width: 1280px) {
-	.faq-question {
-		@apply bg-auto;
-	}
+    .faq-question {
+        @apply bg-auto;
+    }
 
-	.faq-question p {
-		@apply text-xl;
-		@apply mb-4;
-	}
+    .faq-question p {
+        @apply text-xl;
+        @apply mb-4;
+    }
 }
 
 /*
  * Blog: How-tos and Articles
  */
 .blog-post-body a {
-	@apply underline underline-orange;
+    @apply underline underline-orange;
 }
 
 .blog-post-body a:hover {
-	@apply text-orange;
+    @apply text-orange;
 }
 
 .blog-post-body ul {
-	@apply list-disc;
+    @apply list-disc;
 }
 
 .blog-post-body ol {
-	@apply list-decimal;
+    @apply list-decimal;
 }
 
 .blog-post-body h1,
@@ -283,30 +284,30 @@ svg {
 .blog-post-body figcaption,
 .blog-post-body blockquote,
 blockquote {
-	@apply leading-tight;
+    @apply leading-tight;
 }
 
 .blog-post-body blockquote p,
 blockquote p {
-	@apply italic;
+    @apply italic;
 }
 
 .blog-post-body figcaption {
-	font-family: "KollektifBold", sans-serif;
-	@apply text-center;
+    font-family: "KollektifBold", sans-serif;
+    @apply text-center;
 }
 
 /* text size */
 .blog-post-body h1 {
-	@apply text-2xl;
+    @apply text-2xl;
 }
 
 .blog-post-body h2 {
-	@apply text-xl font-bold;
+    @apply text-xl font-bold;
 }
 
 .blog-post-body h3 {
-	@apply text-xl font-bold;
+    @apply text-xl font-bold;
 }
 
 .blog-post-body h4,
@@ -316,70 +317,70 @@ blockquote p {
 .blog-post-body ul,
 .blog-post-body ol,
 .blog-post-body figcaption {
-	@apply text-xl;
+    @apply text-xl;
 }
 
 .blog-post-body blockquote p,
 blockquote p {
-	@apply text-2xl;
+    @apply text-2xl;
 }
 
 @media (min-width: 420px) {
-	.blog-post-body h1 {
-		@apply text-2xl;
-	}
+    .blog-post-body h1 {
+        @apply text-2xl;
+    }
 
-	.blog-post-body h2 {
-		@apply text-xl;
-	}
+    .blog-post-body h2 {
+        @apply text-xl;
+    }
 
-	.blog-post-body h3 {
-		@apply text-2xl;
-	}
+    .blog-post-body h3 {
+        @apply text-2xl;
+    }
 }
 
 @media (min-width: 1280px) {
-	.blog-post-body h1 {
-		font-size: 36px;
-	}
+    .blog-post-body h1 {
+        font-size: 36px;
+    }
 
-	.blog-post-body h2 {
-		font-size: 32px;
-	}
+    .blog-post-body h2 {
+        font-size: 32px;
+    }
 
-	.blog-post-body h3 {
-		font-size: 32px;
-		@apply font-normal;
-	}
+    .blog-post-body h3 {
+        font-size: 32px;
+        @apply font-normal;
+    }
 
-	.blog-post-body h4 {
-		font-size: 28px;
-		font-family: "KollektifBold", sans-serif;
-		@apply font-normal;
-	}
+    .blog-post-body h4 {
+        font-size: 28px;
+        font-family: "KollektifBold", sans-serif;
+        @apply font-normal;
+    }
 
-	.blog-post-body h5 {
-		font-size: 28px;
-		@apply font-normal;
-	}
+    .blog-post-body h5 {
+        font-size: 28px;
+        @apply font-normal;
+    }
 
-	.blog-post-body h6 {
-		font-size: 24px;
-		font-family: "KollektifBold", sans-serif;
-		@apply font-normal;
-	}
+    .blog-post-body h6 {
+        font-size: 24px;
+        font-family: "KollektifBold", sans-serif;
+        @apply font-normal;
+    }
 
-	.blog-post-body p,
-	.blog-post-body ul,
-	.blog-post-body ol,
-	.blog-post-body figcaption {
-		font-size: 20px;
-	}
+    .blog-post-body p,
+    .blog-post-body ul,
+    .blog-post-body ol,
+    .blog-post-body figcaption {
+        font-size: 20px;
+    }
 
-	.blog-post-body blockquote p,
-	blockquote p {
-		font-size: 32px;
-	}
+    .blog-post-body blockquote p,
+    blockquote p {
+        font-size: 32px;
+    }
 }
 
 /* margin and padding */
@@ -392,152 +393,152 @@ blockquote p {
 .blog-post-body p,
 .blog-post-body ul,
 .blog-post-body ol {
-	@apply pb-6;
+    @apply pb-6;
 }
 
 .blog-post-body figure figcaption {
-	@apply pt-2;
+    @apply pt-2;
 }
 
 .blog-post-body ul,
 .blog-post-body ol {
-	@apply pl-8;
+    @apply pl-8;
 }
 
 @media (min-width: 768px) {
 
-	.blog-post-body h1,
-	.blog-post-body h2,
-	.blog-post-body h3,
-	.blog-post-body h4,
-	.blog-post-body h5,
-	.blog-post-body h6,
-	.blog-post-body p,
-	.blog-post-body ul,
-	.blog-post-body ol {
-		@apply px-24;
-	}
+    .blog-post-body h1,
+    .blog-post-body h2,
+    .blog-post-body h3,
+    .blog-post-body h4,
+    .blog-post-body h5,
+    .blog-post-body h6,
+    .blog-post-body p,
+    .blog-post-body ul,
+    .blog-post-body ol {
+        @apply px-24;
+    }
 
-	.blog-post-body blockquote p {
-		@apply px-0;
-	}
+    .blog-post-body blockquote p {
+        @apply px-0;
+    }
 
-	/* purgecss ignore */
-	.blog-post-body div.twitter-tweet {
-		@apply mx-48;
-		@apply pl-0;
-		@apply pr-16;
-	}
+    /* purgecss ignore */
+    .blog-post-body div.twitter-tweet {
+        @apply mx-48;
+        @apply pl-0;
+        @apply pr-16;
+    }
 
-	.blog-post-body li {
-		@apply ml-12;
-	}
+    .blog-post-body li {
+        @apply ml-12;
+    }
 
-	.blog-post-body li p {
-		@apply px-0;
-	}
+    .blog-post-body li p {
+        @apply px-0;
+    }
 
-	/* purgecss ignore */
-	.blog-post-body blockquote,
-	blockquote {
-		@apply pl-24;
-		background: url('/images/blog_post_quote_mark.png') no-repeat;
-	}
+    /* purgecss ignore */
+    .blog-post-body blockquote,
+    blockquote {
+        @apply pl-24;
+        background: url('/images/blog_post_quote_mark.png') no-repeat;
+    }
 }
 
 @media (min-width: 1280px) {
 
-	.blog-post-body h1,
-	.blog-post-body h2,
-	.blog-post-body h3,
-	.blog-post-body h4,
-	.blog-post-body h5,
-	.blog-post-body h6,
-	.blog-post-body p,
-	.blog-post-body ul,
-	.blog-post-body ol,
-	.blog-post-body figcaption,
-	.blog-post-body iframe {
-		@apply pb-8;
-	}
+    .blog-post-body h1,
+    .blog-post-body h2,
+    .blog-post-body h3,
+    .blog-post-body h4,
+    .blog-post-body h5,
+    .blog-post-body h6,
+    .blog-post-body p,
+    .blog-post-body ul,
+    .blog-post-body ol,
+    .blog-post-body figcaption,
+    .blog-post-body iframe {
+        @apply pb-8;
+    }
 }
 
 .blog-post-body figure img {
-	@apply max-w-full;
-	@apply mx-auto;
+    @apply max-w-full;
+    @apply mx-auto;
 }
 
 .blog-post-body iframe {
-	@apply max-w-full;
-	@apply w-full;
-	@apply pb-6;
-	height: auto;
+    @apply max-w-full;
+    @apply w-full;
+    @apply pb-6;
+    height: auto;
 }
 
 @media (min-width: 360px) {
-	.blog-post-body iframe {
-		height: 16rem;
-	}
+    .blog-post-body iframe {
+        height: 16rem;
+    }
 }
 
 @media (min-width: 500px) {
-	.blog-post-body iframe {
-		height: 16rem;
-	}
+    .blog-post-body iframe {
+        height: 16rem;
+    }
 }
 
 @media (min-width: 640px) {
-	.blog-post-body iframe {
-		height: 24rem;
-	}
+    .blog-post-body iframe {
+        height: 24rem;
+    }
 }
 
 @media (min-width: 768px) {
-	.blog-post-body iframe {
-		height: 32rem;
-	}
+    .blog-post-body iframe {
+        height: 32rem;
+    }
 }
 
 /* H5 and H6 */
 .blog-post-body h5,
 .blog-post-body h6 {
-	@apply text-xl;
-	@apply leading-tight;
-	@apply font-normal;
-	@apply pb-6;
+    @apply text-xl;
+    @apply leading-tight;
+    @apply font-normal;
+    @apply pb-6;
 }
 
 .blog-post-body h6 {
-	font-family: "KollektifBold", sans-serif;
+    font-family: "KollektifBold", sans-serif;
 }
 
 @media (min-width: 768px) {
 
-	.blog-post-body h5,
-	.blog-post-body h6 {
-		@apply px-24;
-	}
+    .blog-post-body h5,
+    .blog-post-body h6 {
+        @apply px-24;
+    }
 }
 
 @media (min-width: 1280px) {
 
-	.blog-post-body h5,
-	.blog-post-body h6 {
-		@apply pb-8;
-	}
+    .blog-post-body h5,
+    .blog-post-body h6 {
+        @apply pb-8;
+    }
 
-	.blog-post-body h5 {
-		font-size: 28px;
-	}
+    .blog-post-body h5 {
+        font-size: 28px;
+    }
 
-	.blog-post-body h6 {
-		font-size: 24px;
-	}
+    .blog-post-body h6 {
+        font-size: 24px;
+    }
 }
 
 /*
  * Social sharing SVGs
  */
 .social-sharing a:hover path {
-	fill: #f7b38a;
+    fill: #f7b38a;
 }
