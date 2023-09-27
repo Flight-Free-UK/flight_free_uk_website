@@ -11,7 +11,7 @@ slug:
 
 collections:
   - name: be_inspired
-    label: Articles
+    label: Be inspired
     folder: source/posts/
     extension: .html.markdown
     format: frontmatter
