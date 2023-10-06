@@ -1,6 +1,6 @@
 ---
 published: true
-title: Poppy
+title: "Poppy: using privilege wisely"
 category: testimonials
 date: 2022-05-05T21:22:49.328Z
 cover_image: /images/uploads/poppy-okotcha-testimonial-cover.jpg
