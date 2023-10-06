@@ -1,10 +1,10 @@
 ---
 published: true
-title: "Poppy: using privilege wisely"
+title: "Poppy: going flight free is a responsible use of privilege"
 category: testimonials
 date: 2022-05-05T21:22:49.328Z
 cover_image: /images/uploads/poppy-okotcha-testimonial-cover.jpg
-summary: "Ex-model and horticulturalist Poppy Okotcha shares her motivations for
+summary: "Model and horticulturalist Poppy Okotcha shares her motivations for
   taking the flight free pledge. "
 author: FlightFree UK
 read_time_minute: 2
