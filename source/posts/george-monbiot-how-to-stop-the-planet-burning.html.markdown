@@ -1,6 +1,6 @@
 ---
 published: true
-title: "George Monbiot: the importance of living your values"
+title: "George Monbiot: living your values"
 category: testimonials
 date: 2022-02-10T18:41:32.531Z
 cover_image: /images/uploads/george-monbiot-testimonial-cover.jpg
