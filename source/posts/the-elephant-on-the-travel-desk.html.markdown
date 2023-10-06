@@ -1,6 +1,6 @@
 ---
 published: true
-title: The elephant on the travel desk
+title: "Gavin Haines: The elephant on the travel desk"
 category: testimonials
 date: 2019-10-16T06:40:48.273Z
 cover_image: /images/uploads/gavin-haines.jpg
