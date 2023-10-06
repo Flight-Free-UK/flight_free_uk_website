@@ -1,6 +1,6 @@
 ---
 published: true
-title: Cat Jones, founder of flight-free travel agent Byway
+title: Cat Jones, founder of Byway
 category: testimonials
 date: 2021-02-16T15:55:00.476Z
 cover_image: /images/uploads/cat-jones-testimonial-cover.jpg
