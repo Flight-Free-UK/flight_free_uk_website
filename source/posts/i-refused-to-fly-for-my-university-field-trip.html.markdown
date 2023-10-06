@@ -1,6 +1,6 @@
 ---
 published: true
-title: '"I refused to fly for my university field trip"'
+title: 'Abby: "I refused to fly for a university field trip"'
 category: testimonials
 date: 2019-10-25T06:34:45.122Z
 cover_image: /images/uploads/abi-whitfield_sq.jpg
