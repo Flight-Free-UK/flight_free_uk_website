@@ -1,6 +1,6 @@
 ---
 published: true
-title: Erin and family
+title: "Erin: flight-free family"
 category: testimonials
 date: 2021-10-21T17:49:33.536Z
 cover_image: /images/uploads/erin-testimonial-cover.jpg
