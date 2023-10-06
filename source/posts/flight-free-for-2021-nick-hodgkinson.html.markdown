@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Nick: campaigning against airport expansion"
+title: "Nick: no airport expansion"
 category: testimonials
 date: 2020-12-03T14:30:14.807Z
 cover_image: /images/uploads/nick-testimonial-cover.jpg
