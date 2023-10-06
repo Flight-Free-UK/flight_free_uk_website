@@ -1,6 +1,6 @@
 ---
 published: true
-title: In the name of love
+title: "Claire: In the name of love"
 category: testimonials
 date: 2020-03-17T15:47:25.698Z
 cover_image: /images/uploads/claireboyf.jpg
