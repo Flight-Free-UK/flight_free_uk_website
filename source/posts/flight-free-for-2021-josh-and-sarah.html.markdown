@@ -35,6 +35,6 @@ I’ve not flown for more than three years, but in that time I feel like I’ve 
 
 My personal experience has taught me that we really don’t need to fly so much. In the UK we are blessed to be surrounded by awesome landscapes and opportunities that many of us overlook. Now is the time to embrace them because it’s our responsibility to look at our individual lifestyles and make choices which prioritise the environment.
 
-Stopping flying actually opened a world of possibilities and it’s a decision we’re proud to have made.
+##### Stopping flying actually opened a world of possibilities and it’s a decision we’re proud to have made.
 
-*Read more from Josh and Sarah at their website, Veggie Vagabonds.*
+*Read more from Josh and Sarah at their website, [Veggie Vagabonds](https://veggievagabonds.com/).*
