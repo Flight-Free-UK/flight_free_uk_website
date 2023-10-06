@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Josh and Sarah "
+title: "Josh and Sarah: better adventures"
 category: testimonials
 date: 2021-03-20T16:22:49.939Z
 cover_image: /images/uploads/josh-and-sarah-testimonial-cover.jpg
