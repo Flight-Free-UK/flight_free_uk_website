@@ -1,6 +1,6 @@
 ---
 published: true
-title: '"Dejemos los pies sobre la tierra"'
+title: 'Bruno: "Dejemos los pies sobre la tierra"'
 category: testimonials
 date: 2020-05-27T11:35:10.751Z
 cover_image: /images/uploads/bruno-peru_rici-lake.jpg
