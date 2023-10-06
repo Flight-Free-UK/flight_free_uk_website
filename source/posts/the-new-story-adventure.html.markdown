@@ -1,9 +1,9 @@
 ---
 published: true
-title: The 'New Story' Adventure
+title: "Rosie and Mike: a new story"
 category: testimonials
 date: 2020-08-24T12:57:39.848Z
-cover_image: /images/uploads/newstory-rosie1cropped.jpeg
+cover_image: /images/uploads/newstory-rosie2.jpg
 summary: The adventure world is full of people who are passionate about the
   outdoors and the planet. But with exploration comes a significant impact,
   especially if it involves a flight. How can we change the narrative and create
