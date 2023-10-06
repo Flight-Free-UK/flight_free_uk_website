@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Annabel: sustainable travel with Travelling Whale"
+title: "Annabel: sustainable travel"
 category: testimonials
 date: 2021-06-08T16:50:55.429Z
 cover_image: /images/uploads/annabel-testimonial-cover.jpg
