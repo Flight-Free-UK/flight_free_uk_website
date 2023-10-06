@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Maxwell: "We are part of nature."'
+title: 'Maxwell Ayamba: "We are part of nature."'
 category: testimonials
 date: 2021-04-22T14:20:24.064Z
 cover_image: /images/uploads/maxwell-testimonial-cover.jpg
