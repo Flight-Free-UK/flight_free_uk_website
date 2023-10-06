@@ -1,6 +1,6 @@
 ---
 published: true
-title: Jake and Zan
+title: "Jake and Zan: flight-free musicians"
 category: testimonials
 date: 2022-04-27T11:47:24.724Z
 cover_image: /images/uploads/jake-and-zan-testimonial-cover.jpg
