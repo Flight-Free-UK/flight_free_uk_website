@@ -4,8 +4,8 @@ title: "Gope: reducing business flights"
 category: testimonials
 date: 2021-01-18T12:17:39.537Z
 cover_image: /images/uploads/gope-testimonial-cover.jpg
-summary: "Triathlete and IT consultant Gope Walker shares why he and his
-  business decided to go #FlightFree."
+summary: Triathlete and IT consultant Gope Walker shares why he and his business
+  decided to go flight free.
 author: FlightFree UK
 read_time_minute: 2
 ---
