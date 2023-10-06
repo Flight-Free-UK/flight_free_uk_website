@@ -1,6 +1,6 @@
 ---
 published: true
-title: Winter Sun
+title: "Paul Powlesland: Winter Sun"
 category: testimonials
 date: 2019-12-23T01:00:00.000Z
 cover_image: /images/uploads/winter-sun-through-trees.jpeg
