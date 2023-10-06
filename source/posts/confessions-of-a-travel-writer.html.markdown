@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Hannah Lindon: Confessions of a travel writer"
+title: "Hannah Lindon: confessions of a travel writer"
 category: testimonials
 date: 2020-01-10T18:52:21.753Z
 cover_image: /images/uploads/HannaLindon1.jpg
