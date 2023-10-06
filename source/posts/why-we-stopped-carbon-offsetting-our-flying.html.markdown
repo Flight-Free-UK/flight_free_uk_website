@@ -1,6 +1,6 @@
 ---
 published: true
-title: Why we stopped carbon-offsetting our flying
+title: "Linda: why we stopped carbon offsetting"
 category: testimonials
 date: 2019-04-02T15:31:57.714Z
 cover_image: /images/uploads/linda-thomas.jpg
