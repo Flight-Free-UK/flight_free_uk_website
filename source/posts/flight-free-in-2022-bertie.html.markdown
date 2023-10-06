@@ -1,6 +1,6 @@
 ---
 published: true
-title: Bertie
+title: 'Bertie: "My brother stopped flying, then so did I."'
 category: testimonials
 date: 2021-09-01T10:33:50.348Z
 cover_image: /images/uploads/bertie-testimonial-cover.jpg
