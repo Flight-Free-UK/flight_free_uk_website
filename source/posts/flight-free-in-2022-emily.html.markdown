@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Emily: re-evaluating our approach to travel"
+title: "Emily: re-evaluating travel"
 category: testimonials
 date: 2021-09-01T10:38:02.519Z
 cover_image: /images/uploads/emily-testimonial-cover.jpg
