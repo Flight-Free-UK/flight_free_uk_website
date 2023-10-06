@@ -1,6 +1,6 @@
 ---
 published: true
-title: Gope
+title: "Gope: reducing business flights"
 category: testimonials
 date: 2021-01-18T12:17:39.537Z
 cover_image: /images/uploads/gope-testimonial-cover.jpg
