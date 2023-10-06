@@ -1,6 +1,6 @@
 ---
 published: true
-title: Jonathan and Liffy
+title: "Jonathan and Liffy: travelling through art"
 category: testimonials
 date: 2021-11-18T17:43:05.389Z
 cover_image: /images/uploads/jonathan-and-liffy-testimonial-cover.jpg
