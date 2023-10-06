@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Poppy: going flight free is a responsible use of privilege"
+title: Poppy Okotcha on responsibility and privilege
 category: testimonials
 date: 2022-05-05T21:22:49.328Z
 cover_image: /images/uploads/poppy-okotcha-testimonial-cover.jpg
