@@ -1,6 +1,6 @@
 ---
 published: true
-title: The Lifeboat Station Project
+title: "Jack: discovering our amazing coastline"
 category: testimonials
 date: 2021-02-10T13:03:00.000Z
 cover_image: /images/uploads/lifeboatstationproject-by-jack-lowe_dunmore-east_crew_2017-09-06-scaled-e1612624325322.jpg
