@@ -1,6 +1,6 @@
 ---
 published: true
-title: Addressing academia's carbon footprint
+title: "Milena: flight-free academic"
 category: testimonials
 date: 2019-08-07T12:22:18.936Z
 cover_image: /images/uploads/milena-busch.jpg
