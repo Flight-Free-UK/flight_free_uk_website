@@ -1,6 +1,6 @@
 ---
 published: true
-title: Making the journey part of the adventure
+title: "Athlyn: Making the journey into the adventure"
 category: testimonials
 date: 2020-06-29T12:53:54.962Z
 cover_image: /images/uploads/arctic-circle-train.jpg
