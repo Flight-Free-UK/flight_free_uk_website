@@ -1,6 +1,6 @@
 ---
 published: true
-title: This is your pilot speaking
+title: "Dan Tipney: former pilot"
 category: testimonials
 date: 2021-01-07T14:44:57.978Z
 cover_image: /images/uploads/pilots-at-the-cockpit-jon-flobrant-unsplash.jpg
