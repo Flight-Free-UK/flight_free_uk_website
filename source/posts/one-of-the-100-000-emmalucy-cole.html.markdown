@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free for 2020: EmmaLucy Cole"
+title: "EmmaLucy Cole: making change happen"
 category: testimonials
 date: 2020-02-10T17:43:34.113Z
 cover_image: /images/uploads/emmalucy.jpg
