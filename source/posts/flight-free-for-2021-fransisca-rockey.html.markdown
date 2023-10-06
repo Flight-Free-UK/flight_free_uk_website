@@ -1,6 +1,6 @@
 ---
 published: true
-title: Francisca
+title: "Francisca: decolonising our travel mindset"
 category: testimonials
 date: 2021-04-11T13:41:17.562Z
 cover_image: /images/uploads/francisca-testimonial-cover.jpg
