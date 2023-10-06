@@ -1,6 +1,6 @@
 ---
 published: true
-title: Issy
+title: "Issy: not flying for academic conferences"
 category: testimonials
 date: 2023-08-17T08:02:12.233Z
 cover_image: /images/uploads/issy-stephens-testimonial-cover.jpg
