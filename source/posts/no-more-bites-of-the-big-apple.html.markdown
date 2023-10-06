@@ -1,6 +1,6 @@
 ---
 published: true
-title: No more bites of the Big Apple
+title: "Anna: No more bites of the Big Apple"
 category: testimonials
 date: 2020-06-23T09:20:26.478Z
 cover_image: /images/uploads/nyc.jpg
