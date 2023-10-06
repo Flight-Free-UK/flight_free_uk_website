@@ -1,6 +1,6 @@
 ---
 published: true
-title: Cheyenne
+title: "Cheyenne: living away from family"
 category: testimonials
 date: 2021-06-12T13:50:33.906Z
 cover_image: /images/uploads/cheyenne-testimonial-cover.jpg
@@ -13,7 +13,7 @@ read_time_minute: 3
 
 ### I was a frequent flyer and I loved it!
 
-##### Living abroad, I thought I depended on flights to see my family and friends, and I was spoiled by my parents' contagious lust for vacations in foreign places. 
+##### Living abroad, I thought I depended on flights to see my family and friends, and I was spoiled by my parents' contagious lust for vacations in foreign places.
 
 But in late September 2019, just when I got back from my travel-marathon through Montreal, the United States, South Africa and Mozambique (all in one summer!!), I was hit by a heart-felt realisation of the environmental damage caused by my adventures. Through my many flights, I was destroying the very thing I sought to see! 
 
@@ -23,9 +23,7 @@ My eco-anxiety and grief for the planet hit hard as I spent countless days cryin
 
 Here I am, still living abroad, yet still visiting family and friends and proudly maintaining my second year in a row of being flight-free. 
 
-Here I am, still living abroad, yet still visiting family and friends and proudly maintaining my second year in a row of being flight-free. 
-
-##### I am still a traveller, just slower and more conscious, more aligned with my values and what truly matters to me: the health of the planet and ecosystems. 
+##### I am still a traveller, just slower and more conscious, more aligned with my values and what truly matters to me: the health of the planet and ecosystems.
 
 I feel more connected to the lands I travel through and have got a better understanding of my travel distances. I love to witness all the different destinations I'm passing through on my train journeys from Scotland (my place of study) to Germany (my family home) and am amazed at how quickly I can travel across places, especially within Europe. How often do you think about how many different countries you've passed when you just fly across them and don't notice any borders? 
 
@@ -41,6 +39,6 @@ For some people it might be difficult to understand but ultimately, I am not jus
 
 I am not (yet) saying I'll *NEVER* fly again, but I do believe that we all carry a responsibility to make our decisions well informed and with greater awareness of the damaging consequences for our planet and people. Right now, we have only nine years left to reach net zero emissions. We need to do everything within our capabilities to prevent reaching those irreversible tipping points. 
 
-##### I hope more people will be inspired to quit/reduce their flights. 
+##### I hope more people will be inspired to quit/reduce their flights.
 
 ##### Together, we can take action and everyone has the capacity to contribute to positive change.
