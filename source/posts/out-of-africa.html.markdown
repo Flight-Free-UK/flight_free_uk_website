@@ -1,6 +1,6 @@
 ---
 published: true
-title: "John: international documentary making without flying"
+title: "John: no-fly documentary-making"
 category: testimonials
 date: 2021-08-26T08:57:23.035Z
 cover_image: /images/uploads/documentary-video-production-uganda.jpg
