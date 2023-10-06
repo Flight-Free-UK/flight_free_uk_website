@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Flight Free for 2020: Jusep Moreno"
+title: "Jusep: flight-free in 2020"
 category: testimonials
 date: 2019-12-23T09:17:41.536Z
 cover_image: /images/uploads/jusep.jpeg
