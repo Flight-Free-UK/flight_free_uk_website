@@ -4,10 +4,10 @@ title: "Rosie and Mike: the New Story Adventure"
 category: testimonials
 date: 2020-08-24T12:57:39.848Z
 cover_image: /images/uploads/rosie-mike-testimonial-cover.jpg
-summary: The adventure world is full of people who are passionate about the
+summary: "The adventure world is full of people who are passionate about the
   outdoors and the planet. But with exploration comes a significant impact,
   especially if it involves a flight. How can we change the narrative and create
-  a New Story?
+  a New Story? "
 author: FlightFree UK
 read_time_minute: 6
 ---
