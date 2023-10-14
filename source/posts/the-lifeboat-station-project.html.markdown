@@ -1,9 +1,9 @@
 ---
 published: true
-title: "Jack: photographing our coastline"
+title: "Jack: the lifeboat station project"
 category: testimonials
 date: 2021-02-10T13:03:00.000Z
-cover_image: /images/uploads/lifeboatstationproject-by-jack-lowe_dunmore-east_crew_2017-09-06-scaled-e1612624325322.jpg
+cover_image: /images/uploads/lsp_dungeness-pic-of-jack-lowe-by-john-chennells-.jpg
 summary: Photographer Jack Lowe, on a mission to photograph each of the UK’s 238
   lifeboat stations, shares with us his love for our fascinating coastline.
 author: FlightFree UK
