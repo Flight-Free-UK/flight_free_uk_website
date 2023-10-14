@@ -3,7 +3,7 @@ published: true
 title: "John: no-fly documentary-making"
 category: testimonials
 date: 2021-08-26T08:57:23.035Z
-cover_image: /images/uploads/documentary-video-production-uganda.jpg
+cover_image: /images/uploads/john-testimonial-cover.jpg
 summary: Television producer and director John Mullen explores the impact of
   film making in countries that would usually involve a flight
 author: FlightFree UK
