@@ -3,7 +3,7 @@ published: true
 title: "Athlyn: Making the journey into the adventure"
 category: testimonials
 date: 2020-06-29T12:53:54.962Z
-cover_image: /images/uploads/arctic-circle-train.jpg
+cover_image: /images/uploads/athlyn-testimonial-cover.jpg
 summary: In deciding not to fly, Athlyn Cathcart-Keays discovers how the journey
   can become the adventure
 author: FlightFree UK
