@@ -3,7 +3,7 @@ published: true
 title: "Jools: the Community Rail Network"
 category: testimonials
 date: 2020-04-01T17:57:41.561Z
-cover_image: /images/uploads/trains-not-planes.jpg
+cover_image: /images/uploads/jools-testimonial-cover.jpg
 summary: Jools Townsend, chief executive of the Community Rail Network, looks
   forward to the return of sustainable, community-minded, flight-free and
   car-free trips
