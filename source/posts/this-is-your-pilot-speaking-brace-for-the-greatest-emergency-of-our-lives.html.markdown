@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Dan Tipney: former pilot"
+title: "Dan Tipney: a former pilot's story"
 category: testimonials
 date: 2021-01-07T14:44:57.978Z
 cover_image: /images/uploads/pilots-at-the-cockpit-jon-flobrant-unsplash.jpg
