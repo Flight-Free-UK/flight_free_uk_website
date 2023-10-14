@@ -9,6 +9,8 @@ summary: Television producer and director John Mullen explores the impact of
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/john-testimonial-body.jpg)
+
 In 2019, the BBC’s flagship news programme, Today, produced a lengthy profile of Greta Thunberg. The interview was sympathetic – but there was a problem. The presenter had flown to Stockholm to talk to her. The programme’s editor shrugged: “It felt awkward but we did not have the time for trains or boats.” 
 
 I’ve worked in factual television for around two decades. I have taken my share (and many other people’s share) of flights around the world. I recognise the sentiment of the Today editor – “we did not have time.” 
