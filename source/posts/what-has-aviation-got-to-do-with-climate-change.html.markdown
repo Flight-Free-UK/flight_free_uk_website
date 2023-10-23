@@ -33,7 +33,9 @@ If we are to move to a low-carbon society, cutting out non-essential sources of 
 
 #### Non-CO2 emissions
 
-Flying also generates NOx and water vapour in the form of contrails. Also radiative forcing means that emissions at altitude are likely to be two-three times higher than emissions at ground level. Greenhouse gas emissions stay in the atmosphere for a lot longer than the duration of your flight.
+CO2 is responsible for [only about a third of aviation's warming effect](https://ourworldindata.org/co2-emissions-from-aviation). Non-CO2 emissions such as nitrous oxide and water vapour in the form of contrails make up the rest.
+
+Emissions at altitude have more of a warming effect than emissions at ground level, meaning that [aviation's contribution to global warming is higher than the CO2](https://ourworldindata.org/co2-emissions-from-aviation) emissions alone.
 
 #### Global climate justice
 
