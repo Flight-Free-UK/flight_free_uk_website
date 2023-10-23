@@ -15,7 +15,7 @@ There are lots of things that we as individuals can do to reduce emissions, incl
 
 Taking a fight can often wipe out any savings made elsewhere. While aviation is said to be responsible for just 2% global emissions, that’s because globally, hardly anyone flies. When we look on an individual level, it’s much higher. 
 
-![](/images/uploads/bar_chart.jpg)
+![](/images/uploads/aviation-and-climate-change.jpg)
 
 For example, a long haul flight to Indonesia generates more emissions per passenger than eating meat for a year or driving your car for a year.
 
