@@ -19,7 +19,7 @@ Taking a flight can often wipe out any savings made elsewhere. While aviation is
 
 For example, a long haul flight to Indonesia generates more emissions per passenger than eating meat for a year or driving your car for a year.
 
-More comparisons with flight emissions: 
+Other comparisons: 
 
 * H﻿eating your home for a year = 2.7 tonnes CO2 = a return flight to LA (2.69 tonnes CO2)
 * E﻿ating meat for a year = 2.06 tonnes CO2 = a return flight to Mumbai (2 tonnes CO2)
