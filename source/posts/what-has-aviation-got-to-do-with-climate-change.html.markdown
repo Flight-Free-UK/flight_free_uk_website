@@ -39,7 +39,9 @@ Emissions at altitude have more of a warming effect than emissions at ground lev
 
 #### Global climate justice
 
-The communities around the world that have done the least to cause the climate crisis are the ones suffering the most, and this injustice is even more stark when it comes to aviation. Just 5% of the global population flies in any given year, 1% of people produce 50% of aviation emissions, yet we all suffer the consequences of rising greenhouse gas emissions. 
+The communities around the world that have done the least to cause the climate crisis are the ones suffering the most, and this injustice is even more stark when it comes to aviation. 
+
+Only around [10% of the global population flies in any given year and 1% of people produce 50% of aviation emissions](https://partner.sciencenorway.no/climate-change-global-warming-transport/1-of-people-cause-half-of-global-aviation-emissions-most-people-in-fact-never-fly/1773607), yet we all suffer the consequences of rising greenhouse gas emissions. 
 
 #### What about travel?
 
