@@ -17,13 +17,15 @@ Taking a fight can often wipe out any savings made elsewhere. While aviation is 
 
 ![](/images/uploads/bar_chart.jpg)
 
-For example, a long haul flight to Indonesia generates more emissions per passenger than eating meat for a year or driving your car for a year (see bottom of page for links and a breakdown of the calculations).
+For example, a long haul flight to Indonesia generates more emissions per passenger than eating meat for a year or driving your car for a year.
 
 More comparisons with flight emissions: 
 
 * H﻿eating your home for a year = 2.7 tonnes CO2 = a return flight to LA (2.69 tonnes CO2)
 * E﻿ating meat for a year = 2.06 tonnes CO2 = a return flight to Mumbai (2 tonnes CO2)
 * D﻿riving a car for a year = 1.73 tonnes CO2 = a return flight to New York (1.75 tonnes CO2)
+
+ *~ see bottom of page for links and a breakdown of the calculations*
 
 When we consider that the recommended sustainable footprint is just 2.3 tonnes per year, each, we quickly see that there simply isn’t any room for flights once we have included the things that are essential to living, such as food, shelter and warmth. 
 
