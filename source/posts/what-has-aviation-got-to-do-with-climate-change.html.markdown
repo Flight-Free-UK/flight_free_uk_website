@@ -21,9 +21,9 @@ For example, a long haul flight to Indonesia generates more emissions per passen
 
 Other comparisons: 
 
-* H﻿eating your home for a year = 2.7 tonnes CO2 = a return flight to LA (2.69 tonnes CO2)
-* E﻿ating meat for a year = 2.06 tonnes CO2 = a return flight to Mumbai (2 tonnes CO2)
-* D﻿riving a car for a year = 1.73 tonnes CO2 = a return flight to New York (1.75 tonnes CO2)
+* H﻿eating your home for a year: 2.7 tonnes CO2 = a return flight to LA (2.69 tonnes CO2)
+* E﻿ating meat for a year: 2.06 tonnes CO2 = a return flight to Mumbai (2 tonnes CO2)
+* D﻿riving a car for a year: 1.73 tonnes CO2 = a return flight to New York (1.75 tonnes CO2)
 
   *~ see bottom of page for links and a breakdown of the calculations*
 
