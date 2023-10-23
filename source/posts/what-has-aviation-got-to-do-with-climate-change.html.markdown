@@ -17,15 +17,13 @@ Taking a fight can often wipe out any savings made elsewhere. While aviation is 
 
 ![](/images/uploads/bar_chart.jpg)
 
-For example, a long haul flight to Indonesia generates more emissions per passenger than eating meat for a year or driving your car for a year (see bottom of page for a breakdown of the calculations).
+For example, a long haul flight to Indonesia generates more emissions per passenger than eating meat for a year or driving your car for a year (see bottom of page for links and a breakdown of the calculations).
 
-More comparisons with flight emissions*: 
+More comparisons with flight emissions: 
 
 * H﻿eating your home for a year = 2.7 tonnes CO2 = a return flight to LA (2.69 tonnes CO2)
 * E﻿ating meat for a year = 2.06 tonnes CO2 = a return flight to Mumbai (2 tonnes CO2)
 * D﻿riving a car for a year = 1.73 tonnes CO2 = a return flight to New York (1.75 tonnes CO2)
-
-*\*﻿flight emissions data from [flightemissionmap.org](www.flightemissionmap.org) accessed 2nd February 2021*
 
 When we consider that the recommended sustainable footprint is just 2.3 tonnes per year, each, we quickly see that there simply isn’t any room for flights once we have included the things that are essential to living, such as food, shelter and warmth. 
 
@@ -47,4 +45,10 @@ Not flying doesn’t mean not travelling, and there are plenty of places we can 
 
 ###### E﻿missions calculations
 
-According to [this article](ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), a medium meat eater generates 5.63kg CO2 per day through their diet, making 2.06 tonnes per year (we chose ‘medium meat eater’ rather than ’high’ or ’low’ because according to [this BBC article](https://www.bbc.co.uk/news/explainers-59232599) from 2019, the average person eats 85g meat per day, which falls into the ‘medium meat eater’ bracket).
+According to [this article](ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), a medium meat eater generates 5.63kg CO2 per day through their diet, making 2.06 tonnes per year (we chose ‘medium meat eater’ rather than ’high’ or ’low’ because according to [this BBC article](https://www.bbc.co.uk/news/explainers-59232599) from 2019, the average person eats 85g meat per day, which falls into the ‘medium meat eater’ bracket). 
+
+Flight emissions data is from [flightemissionmap.org](www.flightemissionmap.org) 
+
+D﻿riving data is from [nimblefins.co.uk](https://www.nimblefins.co.uk/average-co2-emissions-car-uk)
+
+All sources accessed 2nd February 2021
