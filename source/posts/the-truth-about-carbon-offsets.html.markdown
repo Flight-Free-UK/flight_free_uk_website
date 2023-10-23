@@ -9,11 +9,9 @@ summary: Environmental sociologist Roger Tyers explains the thinking behind
 author: FlightFree UK
 read_time_minute: 4
 ---
+### Carbon offsetting first emerged as a popular idea in the mid-noughties, especially after Al Gore’s documentary [An Inconvenient Truth](https://www.youtube.com/watch?v=Bu6SE5TYrCM), with many airlines offering offsets to increasingly climate-conscious customers. 
 
-
-### Carbon offsetting is back.
-
-It first emerged as a popular idea in the mid-noughties, especially after Al Gore’s documentary [An Inconvenient Truth](https://www.youtube.com/watch?v=Bu6SE5TYrCM), with many airlines offering offsets to increasingly climate-conscious customers. In the following years, offsetting seemed to decline in visibility, but has recently made a resurgence as aviation emissions come under greater scrutiny. Airlines like Qantas, Lufthansa, KLM and Ryanair all offer their passengers the option of offsetting flights. [BA](https://www.britishairways.com/en-gb/information/about-ba/csr/corporate-responsibility) and [Easyjet](https://www.theguardian.com/business/2019/nov/19/easyjet-offset-carbon-emissions-flights-thomas-cook-collapse) now even pay for offsets on their customers’ behalf.
+In recent years, offsetting has made a resurgence as aviation emissions come under greater scrutiny. Airlines like Qantas, Lufthansa, KLM and Ryanair all offer their passengers the option of offsetting flights. [BA](https://www.britishairways.com/en-gb/information/about-ba/csr/corporate-responsibility) and [Easyjet](https://www.theguardian.com/business/2019/nov/19/easyjet-offset-carbon-emissions-flights-thomas-cook-collapse) now even pay for offsets on their customers’ behalf. 
 
 Offsetting offers the promise of making flights ‘carbon neutral’. But how exactly do offsets work, and can they be trusted?
 
