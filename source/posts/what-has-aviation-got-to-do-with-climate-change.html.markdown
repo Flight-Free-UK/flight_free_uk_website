@@ -2,7 +2,7 @@
 published: true
 title: Aviation and climate change
 category: explainer
-date: 2020-02-28T18:34:00.503Z
+date: 2021-02-02T18:34:00.503Z
 cover_image: /images/uploads/bar_chart.jpg
 summary: We examine how aviation relates to climate change, and why addressing
   our emissions from flying is so important
