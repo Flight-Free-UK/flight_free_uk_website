@@ -3,8 +3,8 @@ published: true
 title: The truth about carbon offsets
 category: explainer
 date: 2020-02-04T15:50:48.500Z
-cover_image: /images/uploads/trains-not-planes.jpg
-summary: Environmental Sociologist Roger Tyers explains the thinking behind
+cover_image: /images/uploads/carbon-offsets-canva.jpg
+summary: Environmental sociologist Roger Tyers explains the thinking behind
   carbon offsets and asks if they can really address our rising emissions
 author: FlightFree UK
 read_time_minute: 4
