@@ -10,7 +10,9 @@ summary: SAFs, or sustainable aviation fuels, are heralded by the aviation
 author: FlightFree UK
 read_time_minute: 4
 ---
-### There is a lot of talk about SAF from airlines and Governments keen to show their eco credentials. But what is SAF, and is it as green as it sounds? 
+### There is a lot of talk about SAF from airlines and Governments keen to show their eco credentials. 
+
+##### But what is SAF, and is it as green as it sounds? 
 
 Sustainable Aviation Fuels, or SAFs, can be made from biomass (biofuel) or green electricity (electrofuel or e-fuel). Airlines claim that SAFs are climate friendly and can [reduce CO2 emissions by 70%](https://www.sustainableaviation.co.uk/wp-content/uploads/2020/02/SustainableAviation_FuelReport_20200231.pdf) vs fossil fuels. 
 
