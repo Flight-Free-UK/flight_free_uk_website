@@ -10,13 +10,13 @@ summary: SAFs, or sustainable aviation fuels, are heralded by the aviation
 author: FlightFree UK
 read_time_minute: 4
 ---
-### There is a lot of talk about SAF from airlines and Governments keen to show their eco credentials. 
+### There is a lot of talk about SAF from airlines and Governments keen to show their eco credentials.
 
 ##### But what is SAF, and is it as green as it sounds? 
 
 Sustainable Aviation Fuels, or SAFs, can be made from biomass (biofuel) or green electricity (electrofuel or e-fuel). Airlines claim that SAFs are climate friendly and can [reduce CO2 emissions by 70%](https://www.sustainableaviation.co.uk/wp-content/uploads/2020/02/SustainableAviation_FuelReport_20200231.pdf) vs fossil fuels. 
 
-But SAFs [emit at least as much CO2 as kerosene](https://www.aef.org.uk/2021/09/21/benefits-from-sustainable-aviation-fuels-must-not-be-over-claimed-aef-highlights-in-response-to-saf-consultation/) when burned – any greenhouse gas savings come in the production stage. For example, biofuels extract carbon from the atmosphere or biosphere during the growing stage, so the amount of carbon absorbed can be claimed as an emissions savings. In most cases, the figure is optimistic.
+But SAFs [emit at least as much CO2 as kerosene](https://www.aef.org.uk/2021/09/21/benefits-from-sustainable-aviation-fuels-must-not-be-over-claimed-aef-highlights-in-response-to-saf-consultation/) when burned – any greenhouse gas savings come in the production stage. For example, biofuels extract carbon from the atmosphere or biosphere as they grow, so the amount of carbon absorbed can be claimed as an emissions savings. In most cases, the figure is optimistic. 
 
 > SAFs emit at least as much CO2 as kerosene when burned.
 
@@ -58,7 +58,7 @@ It’s been estimated that there are only sufficient resources to support approx
 
 Aviation biofuels, if scaled, will still cost at least 2-3 times the current cost of untaxed fossil fuel kerosene. The production costs may be “[twice the cost of petroleum-based jet fuel production, while other conversion processes cost as much as eight times the price of petroleum fuel](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf).” 
 
-##### E-fuels 
+##### E-fuels
 
 On paper, these give a much better solution than biofuels. They are made from water and air which are abundant resources, and can potentially be produced using sun and wind energy alone. So if production and combustion is low-carbon, what’s the problem?
 
@@ -80,7 +80,7 @@ Perhaps SAFs shouldn’t be called ‘sustainable’ at all. ‘Sustainable’ i
 
 Fundamentally, SAF use is a distraction from policies that would lead to a reduction in fuel use in the aviation industry, and indeed other transport industries. The climate crisis requires radical solutions and for us to think beyond our current habits and lifestyles. 
 
-##### There might be a place for SAF, but it must go hand in hand with an overall reduction in fuel consumption. 
+##### There might be a place for SAF, but it must go hand in hand with an overall reduction in fuel consumption.
 
 ##### As ever, the most reliable way to reduce emissions from aviation is to fly less.
 
