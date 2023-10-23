@@ -18,13 +18,13 @@ Sustainable Aviation Fuels, or SAFs, can be made from biomass (biofuel) or green
 
 But SAFs [emit at least as much CO2 as kerosene](https://www.aef.org.uk/2021/09/21/benefits-from-sustainable-aviation-fuels-must-not-be-over-claimed-aef-highlights-in-response-to-saf-consultation/) when burned – any greenhouse gas savings come in the production stage. For example, biofuels extract carbon from the atmosphere or biosphere as they grow, so the amount of carbon absorbed can be claimed as an emissions savings. In most cases, the figure is optimistic. 
 
-> SAFs emit at least as much CO2 as kerosene when burned.
+> SAFs emit at least as much CO2 as kerosene when burned
 
 ##### W﻿hat are biofuels?
 
 Biofuels typically come from agricultural crops or waste from farms, municipal waste from cities, inedible animal fats, or used cooking oil. Using ‘virgin’ crops (i.e. not from waste) is hugely damaging: plantations of crops such as palm oil, rapeseed or soy are a leading driver of deforestation, as well as being a disaster for biodiversity. The overall effect is that using biofuel can be worse than using fossil fuel.
 
-> Crops such as palm oil are a leading driver of deforestation, as well as being a disaster for biodiversity.
+> Crops such as palm oil are a leading driver of deforestation, as well as being a disaster for biodiversity
 
 ##### T﻿he problem of scale
 
@@ -44,13 +44,13 @@ Transport comes at the bottom of the heap. We shouldn’t really be using biofue
 
 In the context of a biodiversity crisis, land crisis and climate crisis, it is a global injustice to use biofuels so the rich can keep on flying. 
 
-> If we must use biofuels for transport, we should be using them for ground transport.
+> If we must use biofuels for transport, we should be using them for ground transport
 
 ##### P﻿roportion of SAF to kerosene
 
 Even when airlines talk about flights fuelled by SAF, it’s unlikely that there won't be any kerosene involved. Aviation biofuel scale-up has been promised by the industry for more than a decade but this has not materialised. Targets have been routinely missed by significant margins, and then ambition ratcheted-down across successive years. There was a target for 25% by 2020, but SAF use is currently at less than 0.01%.
 
-> Aviation biofuel scale-up has been promised by the industry for more than a decade but this has not materialised.
+> Aviation biofuel scale-up has been promised by the industry for more than a decade but this has not materialised
 
 It’s been estimated that there are only sufficient resources to support approximately [5.5% of projected EU jet fuel](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf) demand in 2030 – that’s without taking into account the political or economic barriers to alternative jet fuel production, which are significant. 
 
@@ -66,7 +66,7 @@ Creating liquid hydrocarbons is very energy intensive. This brings us back to th
 
 [It would take 3-4 times the current global renewable energy generation](https://www.fch.europa.eu/publications/hydrogen-powered-aviation) to produce synthetic e-fuels for aviation on current consumption trends.
 
-> We should be prioritising the use of renewable energy in powering our homes before we start to power aviation.
+> We should be prioritising the use of renewable energy in powering our homes before we start to power aviation
 
 Progress in creating e-fuels is even slower than biofuel production, with 2030 as the first viable date for blending e-fuels with kerosene, and meaningful scale-up several decades beyond that. There will be a significant cost, too, particularly for long-haul aviation, which will do little to incentivise development. The industry needs to be preparing for this. 
 
@@ -74,7 +74,7 @@ Progress in creating e-fuels is even slower than biofuel production, with 2030 a
 
 Whether it’s biofuels or e-fuels, SAFs don’t address aviation’s non-CO2 emissions such as NOx and contrail cirrus, which have a significant [global warming effect](https://www.sciencedirect.com/science/article/abs/pii/S1352231020305689) and will not be fully eradicated by the use of alternative fuels. 
 
-> SAFs don’t address aviation’s non-CO2 emissions such as NOx and contrail cirrus.
+> SAFs don’t address aviation’s non-CO2 emissions such as NOx and contrail cirrus
 
 Perhaps SAFs shouldn’t be called ‘sustainable’ at all. ‘Sustainable’ implies that we can continue to use large quantities of it without incurring any environmental or societal impacts. But all SAF pathways carry substantial risk of exacerbating environmental and social crises – they require intensive use of limited global resources, during a period in human history when we are battling to decarbonise our societies.
 
