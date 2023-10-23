@@ -45,10 +45,10 @@ Not flying doesn’t mean not travelling, and there are plenty of places we can 
 
 ###### E﻿missions calculations
 
-According to [this article](ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), a medium meat eater generates 5.63kg CO2 per day through their diet, making 2.06 tonnes per year (we chose ‘medium meat eater’ rather than ’high’ or ’low’ because according to [this BBC article](https://www.bbc.co.uk/news/explainers-59232599) from 2019, the average person eats 85g meat per day, which falls into the ‘medium meat eater’ bracket). 
+*According to [this article](ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), a medium meat eater generates 5.63kg CO2 per day through their diet, making 2.06 tonnes per year (we chose ‘medium meat eater’ rather than ’high’ or ’low’ because according to [this BBC article](https://www.bbc.co.uk/news/explainers-59232599) from 2019, the average person eats 85g meat per day, which falls into the ‘medium meat eater’ bracket).* 
 
-Flight emissions data is from [flightemissionmap.org](www.flightemissionmap.org) 
+*Flight emissions data is from [flightemissionmap.org](www.flightemissionmap.org)* 
 
-D﻿riving data is from [nimblefins.co.uk](https://www.nimblefins.co.uk/average-co2-emissions-car-uk)
+*D﻿riving data is from [nimblefins.co.uk](https://www.nimblefins.co.uk/average-co2-emissions-car-uk)*
 
-All sources accessed 2nd February 2021
+*All sources accessed 2nd February 2021*
