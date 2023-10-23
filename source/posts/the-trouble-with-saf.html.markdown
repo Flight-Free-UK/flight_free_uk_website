@@ -1,7 +1,7 @@
 ---
 published: true
 title: The trouble with SAF
-category: climate
+category: explainer
 date: 2021-10-12T16:20:33.748Z
 cover_image: /images/uploads/aircraft_engine_canva.jpg
 summary: SAFs, or sustainable aviation fuels, are heralded by the aviation
