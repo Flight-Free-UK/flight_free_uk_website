@@ -1,6 +1,6 @@
 ---
 published: true
-title: The truth about carbon offsets
+title: Should I offset my flight?
 category: explainer
 date: 2020-02-04T15:50:48.500Z
 cover_image: /images/uploads/carbon-offsets-canva.jpg
