@@ -1,6 +1,6 @@
 ---
 published: true
-title: How bad are aviation emissions anyway?
+title: How bad are aviation emissions?
 category: explainer
 date: 2021-02-02T18:34:00.503Z
 cover_image: /images/uploads/aviation-and-climate-change.jpg
