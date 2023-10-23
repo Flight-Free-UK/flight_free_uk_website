@@ -1,7 +1,7 @@
 ---
 published: true
 title: Je m'engage...
-category: opinion
+category: testimonials
 date: 2019-06-10T14:35:40.008Z
 cover_image: /images/uploads/nathalie-laplante.jpg
 summary: Flight Free Canada director Nathalie Laplante explains her motivations
