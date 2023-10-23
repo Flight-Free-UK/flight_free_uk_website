@@ -25,6 +25,8 @@ More comparisons with flight emissions:
 * E﻿ating meat for a year = 2.06 tonnes CO2 = a return flight to Mumbai (2 tonnes CO2)
 * D﻿riving a car for a year = 1.73 tonnes CO2 = a return flight to New York (1.75 tonnes CO2)
 
+*\*﻿flight emissions data from [flightemissionmap.org](www.flightemissionmap.org) accessed 2nd February 2021*
+
 When we consider that the recommended sustainable footprint is just 2.3 tonnes per year, each, we quickly see that there simply isn’t any room for flights once we have included the things that are essential to living, such as food, shelter and warmth. 
 
 If we are to move to a low-carbon society, cutting out non-essential sources of emissions will be vital, and for most people, that’s flights.
