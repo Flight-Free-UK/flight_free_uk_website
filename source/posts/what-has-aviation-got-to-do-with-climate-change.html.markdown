@@ -44,3 +44,5 @@ The communities around the world that have done the least to cause the climate c
 Some people argue that the benefits of flying outweigh the harm, because travel gives us so much. That is true – travel does give us a lot of benefits – but it’s also true that travel and tourism can be extractive rather than beneficial to the places we go to. 
 
 Not flying doesn’t mean not travelling, and there are plenty of places we can still access without getting on a plane, and have a much more enriching experience doing it. See our [Destination Inspiration](/how_to/#destination-inspiration) pages for ideas.
+
+###### E﻿missions calculations
