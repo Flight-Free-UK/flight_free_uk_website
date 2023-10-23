@@ -46,3 +46,5 @@ Some people argue that the benefits of flying outweigh the harm, because travel 
 Not flying doesn’t mean not travelling, and there are plenty of places we can still access without getting on a plane, and have a much more enriching experience doing it. See our [Destination Inspiration](/how_to/#destination-inspiration) pages for ideas.
 
 ###### E﻿missions calculations
+
+According to [this article](ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), a medium meat eater generates 5.63kg CO2 per day through their diet, making 2.06 tonnes per year (we chose ‘medium meat eater’ rather than ’high’ or ’low’ because according to [this BBC article](https://www.bbc.co.uk/news/explainers-59232599) from 2019, the average person eats 85g meat per day, which falls into the ‘medium meat eater’ bracket).
