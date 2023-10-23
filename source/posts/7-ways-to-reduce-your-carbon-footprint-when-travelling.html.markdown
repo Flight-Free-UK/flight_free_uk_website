@@ -1,7 +1,7 @@
 ---
 published: true
 title: 7 ways to reduce your travel footprint
-category: climate
+category: how-to
 date: 2021-01-12T15:11:40.133Z
 cover_image: /images/uploads/lucas-wesney-landscape-woman-unsplash.jpg
 summary: >
