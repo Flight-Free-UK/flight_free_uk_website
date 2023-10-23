@@ -82,6 +82,6 @@ Fundamentally, SAF use is a distraction from policies that would lead to a reduc
 
 ##### There might be a place for SAF, but it must go hand in hand with an overall reduction in fuel consumption. 
 
-### As ever, the most reliable way to reduce emissions from aviation is to fly less.
+##### As ever, the most reliable way to reduce emissions from aviation is to fly less.
 
 *Finlay Asher is an ex aerospace engineer and co-founder of [Safe Landing](https://safe-landing.org/), a group of workers from within the aviation industry who raise awareness of the climate reality of aviation.*
