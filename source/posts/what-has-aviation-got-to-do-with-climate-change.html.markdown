@@ -9,7 +9,7 @@ summary: We examine how aviation relates to climate change, and why addressing
 author: FlightFree UK
 read_time_minute: 3
 ---
-### We know that burning fossil fuels is causing the planet to warm, and scientists are agreed that we need to reduce our CO2 emissions if we are to avoid the worst impacts of climate breakdown.
+### We know that burning fossil fuels is causing the planet to warm, and scientists agree that we need to reduce our CO2 emissions if we are to avoid the worst impacts of climate breakdown.
 
 There are lots of things that we as individuals can do to reduce emissions, including changing the way we eat, clothe ourselves and heat our homes. 
 
@@ -25,7 +25,7 @@ More comparisons with flight emissions:
 * E﻿ating meat for a year = 2.06 tonnes CO2 = a return flight to Mumbai (2 tonnes CO2)
 * D﻿riving a car for a year = 1.73 tonnes CO2 = a return flight to New York (1.75 tonnes CO2)
 
- *~ see bottom of page for links and a breakdown of the calculations*
+  *~ see bottom of page for links and a breakdown of the calculations*
 
 When we consider that the recommended sustainable footprint is just 2.3 tonnes per year, each, we quickly see that there simply isn’t any room for flights once we have included the things that are essential to living, such as food, shelter and warmth. 
 
