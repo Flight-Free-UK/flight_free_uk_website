@@ -27,7 +27,7 @@ Other comparisons:
 
   *~ see bottom of page for links and a breakdown of the calculations*
 
-When we consider that the recommended sustainable footprint is just 2.3 tonnes per year, each, we quickly see that there simply isn’t any room for flights once we have included the things that are essential to living, such as food, shelter and warmth. 
+When we consider that the recommended sustainable footprint is just 2.3 tonnes per year, we quickly see that there simply isn’t any room for flights once we have included the things that are essential to living, such as food, shelter and warmth. 
 
 If we are to move to a low-carbon society, cutting out non-essential sources of emissions will be vital, and for most people, that’s flights.
 
