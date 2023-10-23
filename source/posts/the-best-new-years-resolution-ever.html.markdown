@@ -1,7 +1,7 @@
 ---
 published: true
 title: The best New Year's Resolution ever
-category: climate
+category: testimonials
 date: 2019-01-31T17:18:18.033Z
 cover_image: /images/uploads/safe_image.jpg
 summary: Maja Rosén, founder of Swedish campaign Flygfritt2019, tells us what
