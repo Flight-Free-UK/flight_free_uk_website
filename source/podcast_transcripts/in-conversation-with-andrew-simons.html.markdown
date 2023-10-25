@@ -24,4 +24,4 @@ Other advantages are the experience. This is adventurous travel. You’re right 
 
 Being right next to the water and being at sea is a very unique experience. Seeing the aquatic life and the navigational marks enhances the experience. There’s lots to learn as well about navigation and tides, so it's an opportunity to step into this world of sailing.
 
-All being well we will launch in April 2024. If people would like to find out more, please visit the website [saillink.co.uk](http://saillink.co.uk) or find Saillink on Facebook or Instagram.
+All being well we will launch in April 2024. If people would like to find out more, please visit the website [saillink.co.uk](http://saillink.co.uk) or find Saillink on [Facebook](https://www.facebook.com/profile.php?id=100064535785989) or [Instagram](https://www.instagram.com/saillink.sailferry/).
