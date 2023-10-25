@@ -6,15 +6,15 @@ cover_image: /images/uploads/theflightfreepodcast-september2023.jpg
 summary: Saillink founder Andrew Simons shares his plans for a new cross-channel
   ferry service by sailing boat
 author: FlightFree UK
-read_time_minute: 3
+read_time_minute: 2
 ---
-This month we are joined by Andrew from [Saillink](https://saillink.co.uk/) which is a new company offering a cross-channel ferry service by sailing boat.
+### This month we are joined by Andrew from [Saillink](https://saillink.co.uk/) which is a new company offering a cross-channel ferry service by sailing boat.
 
-Andrew started life as a boat builder, then went into environmental science looking at lifecycle assessments of energy and transport systems. He grew up in Yorkshire, and now lives in Switzerland.
+##### Andrew started life as a boat builder, then went into environmental science looking at lifecycle assessments of energy and transport systems. He grew up in Yorkshire, and now lives in Switzerland.
 
 This is a service designed for those for whom the current options are not designed. I started this thinking, I want to arrive at the coast by train and easily get to a port where I can get across the channel. The cross-channel ferries are basically floating bits of motorway, so they’re not designed to link to trains. If you’re not going with a vehicle you don’t need to go on a huge ship from a ferry terminal, so I thought, why can’t you just walk down to the harbour? So that’s the idea. It’s aimed at foot passengers and cyclists, and people with pets.
 
-I’m doing this on a shoestring, there’s no team or big financing. I wanted to be up and running already this year, but we’re not yet. The next best thing was to run this test phase and test the schedule. While that goes on we’re looking for the suitable boat to run the season from April to October. 
+I’m doing this on a shoestring – there’s no team or big financing. I wanted to be up and running already this year, but we’re not yet. The next best thing was to run this test phase and test the schedule. While that goes on we’re looking for the suitable boat to run the season from April to October. 
 
 In terms of the low-carbon aspect, it’s a bit more complicated than just saying, this is a zero carbon way of crossing the channel. Until I know which boat we’re using and what the motorisation will be, it’s difficult to say how low carbon it will be. I’m keen to find the lowest-carbon method possible, because you have to motor in and out of the harbour and if there’s no wind, you need to use the motor in order to stick to the schedule. 
 
