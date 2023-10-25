@@ -8,6 +8,8 @@ summary: Saillink founder Andrew Simons shares his plans for a new cross-channel
 author: FlightFree UK
 read_time_minute: 2
 ---
+*T﻿his is episode 9 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-andrew-simons/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast).*
+
 ### This month we are joined by Andrew from [Saillink](https://saillink.co.uk/) which is a new company offering a cross-channel ferry service by sailing boat.
 
 ##### Andrew started life as a boat builder, then went into environmental science looking at lifecycle assessments of energy and transport systems. He grew up in Yorkshire, and now lives in Switzerland.
@@ -25,3 +27,9 @@ Other advantages are the experience. This is adventurous travel. You’re right 
 Being right next to the water and being at sea is a very unique experience. Seeing the aquatic life and the navigational marks enhances the experience. There’s lots to learn as well about navigation and tides, so it's an opportunity to step into this world of sailing.
 
 All being well we will launch in April 2024. If people would like to find out more, please visit the website [saillink.co.uk](http://saillink.co.uk) or find Saillink on [Facebook](https://www.facebook.com/profile.php?id=100064535785989) or [Instagram](https://www.instagram.com/saillink.sailferry/).
+
+*L﻿isten to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-andrew-simons/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast).* 
+
+***Credits:***
+
+*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music:* [](https://uppbeat.io/t/dan-barton/the-executive-lounge)*[Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)*
