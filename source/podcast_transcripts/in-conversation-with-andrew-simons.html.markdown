@@ -14,6 +14,8 @@ read_time_minute: 2
 
 ##### Andrew started life as a boat builder, then went into environmental science looking at lifecycle assessments of energy and transport systems. He grew up in Yorkshire, and now lives in Switzerland.
 
+##### Andrew:
+
 This is a service designed for those for whom the current options are not designed. I started this thinking, I want to arrive at the coast by train and easily get to a port where I can get across the channel. The cross-channel ferries are basically floating bits of motorway, so they’re not designed to link to trains. If you’re not going with a vehicle you don’t need to go on a huge ship from a ferry terminal, so I thought, why can’t you just walk down to the harbour? So that’s the idea. It’s aimed at foot passengers and cyclists, and people with pets.
 
 I’m doing this on a shoestring – there’s no team or big financing. I wanted to be up and running already this year, but we’re not yet. The next best thing was to run this test phase and test the schedule. While that goes on we’re looking for the suitable boat to run the season from April to October. 
