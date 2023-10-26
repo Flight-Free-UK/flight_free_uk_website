@@ -40,7 +40,7 @@ Heading the other way, a holiday in the popular tourist destination of Bangkok w
 
 This doesn’t mean that we think people shouldn’t bother reducing their meat consumption. It's a very powerful step to take for the planet and the animals, and your own health. We considered very carefully whether to compare diet to aviation at all, because comparisons can be misinterpreted or be unhelpful. Anyone can make a comparison go their way or be used to illustrate their own agenda. 
 
-> "One flight can generate more emissions than a year’s worth of meat consumption or driving a car."
+> One flight can generate more emissions than a year’s worth of meat consumption or driving a car.
 
 But it’s useful to hold up the impact of aviation in relation to other lifestyle choices, to put things into context. Eating meat and driving a car are generally known to be fairly high in emissions, but the average reader might be surprised to know that just one flight can generate more emissions than a year’s worth of doing one or other of those activities.
 
