@@ -68,7 +68,9 @@ On a personal level, travelling overland can be much less stressful, more enjoya
 
 #### So, is it better to be vegan or flight free?
 
-In conclusion: definitely take steps to reduce your meat consumption, for all of the reasons outlined above. Please also try to reduce the amount you fly, perhaps by taking a [flight free year](/index). Our director is [vegan and flight free](https://www.vegansociety.com/news/blog/flight-free-and-vegan), and she would urge you to give both a try – as well as leaving your car at home, installing solar energy on your house, and composting your waste rather than sending it to landfill.
+In conclusion: definitely take steps to reduce your meat consumption, for all of the reasons outlined above. Please also try to reduce the amount you fly, perhaps by taking our [Flight Free Challenge](/index).
+
+The founder and director of Flight Free UK is [vegan and flight free](https://www.vegansociety.com/news/blog/flight-free-and-vegan), and she would urge you to give both a try – as well as leaving your car at home, installing solar energy on your house, and composting your waste rather than sending it to landfill. 
 
 > Take steps to reduce your meat consumption, and also try to reduce the amount you fly.
 
