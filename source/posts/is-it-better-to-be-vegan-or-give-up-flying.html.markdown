@@ -16,7 +16,7 @@ read_time_minute: 6
 
 It's important to say that **all** actions to reduce emissions are valid and impactful, including in how we eat and travel. The aim here is not to discourage people from taking a particular action, or to say that one is ‘better’ than the other, but to crunch some numbers and see why we draw the conclusions that we do. 
 
-#### So let’s have a look at the statistics:
+#### Let’s have a look at the statistics:
 
 According to a report published in 2013, animal agriculture is responsible for [14.5% of global emissions](https://www.fao.org/3/i3437e/i3437e.pdf).
 
@@ -28,15 +28,13 @@ So on face value it’s understandable why people think that changing our diet w
 
 However, these stats talk about global figures. Globally, the animal agriculture sector has a bigger share of emissions than the aviation sector, but that’s mainly because animal agriculture serves a much, much larger proportion of the global population. It has been estimated that only around [10% of people across the globe fly in any given year](https://tanjent-energy.com/blog/1-of-people-cause-half-of-global-aviation-emissions-study/), whereas meat protein is found in 40% of diets. No wonder that the overall impact of aviation is lower. Far fewer people do it. 
 
-When we look at the individual picture, the numbers are much more stark. While reducing or cutting your meat intake can do wonders for lowering your carbon footprint, with estimates suggesting that you can [save a full tonne of CO2 per year by going vegan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), taking a flight anywhere outside Europe can immediately heap it back on.
+When we look at the individual picture, the numbers are much more stark. While reducing or cutting your meat intake can do wonders for lowering your carbon footprint, with estimates suggesting that you can save nearly a tonne of CO2 per year by going vegan, taking a flight anywhere outside Europe can immediately heap it back on. 
 
-> "The savings made through adopting a vegan diet are quickly extinguished."
+> The savings made through adopting a vegan diet are quickly extinguished.
 
 Per passenger, a trip (return) to the east coast of the USA will generate between [1.3 and 1.9 tonnes CO2](https://flightemissionmap.org/). For the west coast, it would be above two tonnes. 
 
 Heading the other way, a holiday in the popular tourist destination of Bangkok will add 2.5 tonnes to your emissions, and if you’re going as far as New Zealand, well, it’s closer to five tonnes. The savings made through adopting a vegan diet are quickly extinguished – and then some.
-
-#### We use a graph on the [Why Flight Free](https://flightfree.co.uk/why_flight_free/) page of our website that shows how one return flight from the UK to Bali produces many more emissions per passenger than eating meat for a year. 
 
 ![](/images/uploads/bar_chart.jpg)
 
