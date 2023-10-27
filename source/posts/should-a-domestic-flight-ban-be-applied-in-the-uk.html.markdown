@@ -19,7 +19,7 @@ The move was cautiously welcomed by climate campaigners [but criticised](https:/
 
 *~ Clement Beaune, France’s transport minister*
 
-In three years the policy will be re-evaluated and if it's seen as a success, more routes could be added. It’s a very small start, but it's a start.
+In three years the policy will be re-evaluated and if it’s seen as a success, more routes could be added. It’s a very small start, but it’s a start.
 
 #### Could such a policy be applied in the UK?
 
@@ -53,7 +53,7 @@ The Government could go part way to raising the necessary funds by taxing aviati
 
 Echoing the French transport minister’s words, making the shift from plane to train is an essential step in decarbonising our lifestyles, and removing flight routes which are served by easy, efficient rail links feels like an easy win. Addressing questions of capacity will be a challenge, but it is worth considering this step as part of our wider efforts to reach the UK’s legally-binding net-zero targets. 
 
-France’s example should be followed, especially if the policy is deemed a success and expanded in subsequent years. With [17 of the 20 busiest air routes in Europe less than 434 miles long](https://www.forbes.com/sites/carltonreid/2022/12/03/frances-plan-to-ban-short-haul-domestic-flights-wins-approval-from-european-commission/), there is the potential for measures like this to be adopted by many other nations in response to the climate crisis. 
+France’s example should be followed, especially if the policy is deemed a success and expanded in subsequent years. With [17 of the 20 busiest air routes in Europe less than 434 miles long](https://www.forbes.com/sites/carltonreid/2022/12/03/frances-plan-to-ban-short-haul-domestic-flights-wins-approval-from-european-commission/), there is the potential for measures like this to be adopted by many other nations in response to the climate crisis.
 
 *\* connecting planes still use these routes*
 
