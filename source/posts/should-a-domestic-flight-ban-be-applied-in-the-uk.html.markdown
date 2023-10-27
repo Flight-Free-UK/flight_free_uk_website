@@ -39,8 +39,6 @@ Once transfers and check-in are accounted for, the journey times of travelling b
 
 Analysis of staff travel by the University of Edinburgh showed that cost and time were equitable on the route to London by train and by air. 
 
-\[Edinburgh graphic]
-
 Shorter journeys, for example to Leeds, Newcastle and Manchester, would have a similar comparison in terms of time. 
 
 #### Capacity
@@ -59,4 +57,4 @@ France’s example should be followed, especially if the policy is deemed a succ
 
 *\*\* calculation by Tom Smallwood [in this article](https://medium.com/@tomsmallwoodenv/building-on-frances-aviation-bailout-to-reduce-the-uk-s-domestic-short-haul-flight-emissions-5839f0e075fa)*
 
-*\*﻿\*\* 165.1 x 11.5 = 1898.65 = 1.9 million tonnes. 12.5 x 11.5 = 143.75 = 143,750 tonnes. SAVING = 1,898,650 - 143,750 = 1,754,900 = 1.75 million tonnes*
+*\*﻿\** 165.1 x 11.5 = 1898.65 = 1.9 million tonnes. 12.5 x 11.5 = 143.75 = 143,750 tonnes. SAVING = 1,898,650 - 143,750 = 1,754,900 = 1.75 million tonnes*
