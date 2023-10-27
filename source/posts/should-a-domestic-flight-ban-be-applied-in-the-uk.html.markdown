@@ -29,7 +29,7 @@ A ban on flights where there’s a 2.5 hour train would apply to so few routes a
 
 Removing all flight routes with a direct rail link of 4.5 hours would cover 16 million air passengers annually. The London-Glasgow/Edinburgh routes alone contribute 11.5 million passengers of that. \*\*
 
-Calculations by Thrust Carbon show that a train travelling on the electrified east coast mainline between London and Edinburgh produces 12.5kg CO2e per passenger, compared to 131kg CO2e by plane. Assuming similar figures for the electrified west coast line, the savings of switching from air to rail between London and Glasgow/Edinburgh would be 1.4 million tonnes CO2e per year. \*\**
+Calculations by Thrust Carbon show that a train travelling on the electrified east coast mainline between London and Edinburgh produces 12.5kg CO2e per passenger, compared to 165.1kg CO2e by plane. Assuming similar figures for the electrified west coast line, the savings of switching from air to rail between London and Glasgow/Edinburgh would be 1.75 million tonnes CO2e per year. \*\**
 
 \[graphic Lon-Edin]
 
