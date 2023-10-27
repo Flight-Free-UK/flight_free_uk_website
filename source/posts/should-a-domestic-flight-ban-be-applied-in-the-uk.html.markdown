@@ -41,7 +41,7 @@ Analysis of staff travel by the University of Edinburgh showed that cost and tim
 
 \[Edinburgh graphic]
 
-Shorter journeys would have a similar comparison in terms of time.
+Shorter journeys, for example to Leeds, Newcastle and Manchester, would have a similar comparison in terms of time. 
 
 ##### Capacity
 
