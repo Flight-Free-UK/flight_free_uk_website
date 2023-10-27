@@ -48,3 +48,9 @@ Shorter journeys would have a similar comparison in terms of time.
 Switching 16 million annual journeys to rail would be a huge challenge in terms of capacity. Part of the solution would be for some journeys not to take place at all, for example work trips replaced by online meetings. Increased investment in rail infrastructure and timetabling would help. Some journeys would inevitably shift to road, which also has challenges in terms of capacity. This is a good argument to continue with the development of the UK’s high-speed rail network. 
 
 The Government could go part way to raising the necessary funds by taxing aviation in the same way as other transport forms – a kerosene tax & VAT would raise an [extra £7 billion annually to HMRC](https://earth.org/aviation-subsidies/). The lack of tax on aviation fuel effectively gives the industry huge subsidies that keep prices low and encourage growth in an industry that is too mature and too polluting for subsidies at this level to still exist.
+
+##### Conclusion
+
+Echoing the French transport minister’s words, making the shift from plane to train is an essential step in decarbonising our lifestyles, and removing flight routes which are served by easy, efficient rail links feels like an easy win. Addressing questions of capacity will be a challenge, but it is worth considering this step as part of our wider efforts to reach the UK’s legally-binding net-zero targets. 
+
+France’s example should be followed, especially if the policy is deemed a success and expanded in subsequent years. With 17 of the 20 busiest air routes in Europe less than 434 miles long, there is the potential for measures like this to be adopted by many other nations in response to the climate crisis.
