@@ -29,13 +29,13 @@ A ban on flights where there’s a 2.5 hour train would apply to so few routes a
 
 Removing all flight routes with a direct rail link of 4.5 hours would cover 16 million air passengers annually. The London-Glasgow/Edinburgh routes alone contribute 11.5 million passengers of that. \*\*
 
-Calculations by Thrust Carbon show that a train travelling on the electrified east coast mainline between London and Edinburgh produces 12.5kg CO2e per passenger, compared to 165.1kg CO2e by plane. Assuming similar figures for the electrified west coast line, the savings of switching from air to rail between London and Glasgow/Edinburgh would be 1.75 million tonnes CO2e per year. \*\**
+Calculations by [Thrust Carbon](https://www.raildeliverygroup.com/?view=article&amp;id=469776947) show that a train travelling on the electrified east coast mainline between London and Edinburgh produces 12.5kg CO2e per passenger, compared to 165.1kg CO2e by plane. Assuming similar figures for the electrified west coast line, the savings of switching from air to rail between London and Glasgow/Edinburgh would be 1.75 million tonnes CO2e per year. \*\**
 
 \[graphic Lon-Edin]
 
 ##### Time and cost
 
-Once transfers and check-in are accounted for, the journey times of travelling between UK cities by air or by rail are comparable. A race between Norman Baker and someone from the Campaign for Better Transport between London and Glasgow was almost neck-and-neck, and when Simon Calder raced Mark Smith to Edinburgh, there were only 10 minutes in it.
+Once transfers and check-in are accounted for, the journey times of travelling between UK cities by air or by rail are comparable. A race between Norman Baker and Paul Tuohy from the Campaign for Better Transport between London and Glasgow was almost neck-and-neck, and when Simon Calder raced Mark Smith to Edinburgh, there were only 10 minutes in it. 
 
 Analysis of staff travel by the University of Edinburgh showed that cost and time were equitable on the route to London by train and by air. 
 
