@@ -31,7 +31,7 @@ Removing all flight routes with a direct rail link of 4.5 hours would cover 16 m
 
 Calculations by [Thrust Carbon](https://www.raildeliverygroup.com/?view=article&id=469776947) show that a train travelling on the electrified east coast mainline between London and Edinburgh produces 12.5kg CO2e per passenger, compared to 165.1kg CO2e by plane. Assuming similar figures for the electrified west coast line, the savings of switching from air to rail between London and Glasgow/Edinburgh would be 1.75 million tonnes CO2e per year. \*\**
 
-\[graphic Lon-Edin]
+![](/images/uploads/london-edinburgh.jpg)
 
 #### Time and cost
 
@@ -59,4 +59,4 @@ France’s example should be followed, especially if the policy is deemed a succ
 
 *\*\* calculation by Tom Smallwood [in this article](https://medium.com/@tomsmallwoodenv/building-on-frances-aviation-bailout-to-reduce-the-uk-s-domestic-short-haul-flight-emissions-5839f0e075fa)*
 
-*\*\*\* 165.1 x 11.5 = 1898.65 = 1.9 million tonnes. 12.5 x 11.5 = 143.75 = 143,750 tonnes. SAVING = 1,898,650 - 143,750 = 1,754,900 = 1.75 million tonnes*
+*\*\** 165.1 x 11.5 = 1898.65 = 1.9 million tonnes. 12.5 x 11.5 = 143.75 = 143,750 tonnes. SAVING = 1,898,650 - 143,750 = 1,754,900 = 1.75 million tonnes*
