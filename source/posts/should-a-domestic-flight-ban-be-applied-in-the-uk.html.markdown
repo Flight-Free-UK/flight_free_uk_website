@@ -23,7 +23,7 @@ In three years the policy will be re-evaluated and if it's seen as a success, mo
 
 ##### Could such a policy be applied in the UK?
 
-A ban on flights where there’s a 2.5 hour train would apply to so few routes as to be fairly pointless. If the time limit were increased to 4.5 hours it would include two of the UK’s busiest air routes: London-Glasgow and London-Edinburgh. Such a policy would be a significant step towards reducing our domestic emissions. 
+A ban on flights where there’s a 2.5 hour train would apply to so few routes as to be fairly pointless. If the time limit were increased to 4.5 hours it would include two of the UK’s busiest air routes: [London-Glasgow and London-Edinburgh](https://commonslibrary.parliament.uk/domestic-flights-in-the-uk-where-do-we-fly/). Such a policy would be a significant step towards reducing our domestic emissions. 
 
 ##### Impact of a domestic flight ban where there’s a direct rail link of 4.5 hours
 
@@ -53,4 +53,10 @@ The Government could go part way to raising the necessary funds by taxing aviati
 
 Echoing the French transport minister’s words, making the shift from plane to train is an essential step in decarbonising our lifestyles, and removing flight routes which are served by easy, efficient rail links feels like an easy win. Addressing questions of capacity will be a challenge, but it is worth considering this step as part of our wider efforts to reach the UK’s legally-binding net-zero targets. 
 
-France’s example should be followed, especially if the policy is deemed a success and expanded in subsequent years. With 17 of the 20 busiest air routes in Europe less than 434 miles long, there is the potential for measures like this to be adopted by many other nations in response to the climate crisis.
+France’s example should be followed, especially if the policy is deemed a success and expanded in subsequent years. With 17 of the 20 busiest air routes in Europe less than 434 miles long, there is the potential for measures like this to be adopted by many other nations in response to the climate crisis. 
+
+*\* connecting planes still use these routes*
+
+*\*\* calculation by Tom Smallwood [in this article](https://medium.com/@tomsmallwoodenv/building-on-frances-aviation-bailout-to-reduce-the-uk-s-domestic-short-haul-flight-emissions-5839f0e075fa)*
+
+*\*\** 131 x 11.5 = 1506.5 = 1.5 million tonnes. 12.5 x 11.5 = 143.75 = 143,750 tonnes. SAVING = 1.5 mill - 143,750 = 1,356,250 = 1.4 million tonnes*
