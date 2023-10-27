@@ -59,4 +59,4 @@ France’s example should be followed, especially if the policy is deemed a succ
 
 *\*\* calculation by Tom Smallwood [in this article](https://medium.com/@tomsmallwoodenv/building-on-frances-aviation-bailout-to-reduce-the-uk-s-domestic-short-haul-flight-emissions-5839f0e075fa)*
 
-*\*\** 131 x 11.5 = 1506.5 = 1.5 million tonnes. 12.5 x 11.5 = 143.75 = 143,750 tonnes. SAVING = 1.5 mill - 143,750 = 1,356,250 = 1.4 million tonnes*
+*\*\** 165.1 x 11.5 = 1898.65 = 1.9 million tonnes. 12.5 x 11.5 = 143.75 = 143,750 tonnes. SAVING = 1,898,650 - 143,750 = 1,754,900 = 1.75 million tonnes*
