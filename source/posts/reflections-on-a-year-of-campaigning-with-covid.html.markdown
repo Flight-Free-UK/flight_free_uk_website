@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Campaigning through Covid
 category: opinion
 date: 2021-08-09T14:14:45.729Z
