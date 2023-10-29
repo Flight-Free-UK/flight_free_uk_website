@@ -53,7 +53,9 @@ Eliminating single-use plastics has become a way of life for many, and yet so ma
 
 ### 4. Choose recycled luggage
 
-If you are thinking of investing in a new suitcase or travel bag for your holiday, it may be hard to find some that hasn’t been shipped from abroad. However, if you buy from a sustainable manufacturer at least you know that the supply chain has been as low carbon and low waste as possible. [Patagonia](https://www.patagonia.com/home/), [Phoenx](https://phoenx.co/products/phoenx-travel-kit-peak-white) and [Elvis & Kresse](https://www.elvisandkresse.com/) are ones to bag. Personal favourites are Devon’s own [Sails and Canvas](https://sailsandcanvas.co.uk/product-category/bags/flight-bags-kit-bags-duffles/) and Hampshire’s [Oarsom](https://www.oarsum.co.uk/), with duffels, totes and weekend bags made from recycled sails. 
+If you are thinking of investing in a new suitcase or travel bag for your holiday, it might be hard to find some that hasn’t been shipped from abroad. 
+
+However, if you buy from a sustainable manufacturer at least you know that the supply chain has been as low carbon and low waste as possible. [Patagonia](https://www.patagonia.com/home/), [Phoenx](https://phoenx.co/products/phoenx-travel-kit-peak-white) and [Elvis & Kresse](https://www.elvisandkresse.com/) are ones to bag. Personal favourites are Devon’s own [Sails and Canvas](https://sailsandcanvas.co.uk/product-category/bags/flight-bags-kit-bags-duffles/) and Hampshire’s [Oarsom](https://www.oarsum.co.uk/), with duffels, totes and weekend bags made from recycled sails. 
 
 ## 5. Watch your waste
 
