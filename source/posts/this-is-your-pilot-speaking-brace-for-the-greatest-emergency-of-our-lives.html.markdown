@@ -12,11 +12,13 @@ read_time_minute: 5
 ---
 ![Photo shows two pilots from the back seated next to each other facing the cockpit of a plane. Ahead of them is a runway and it is a cloudy day. ](/images/uploads/pilots-at-the-cockpit-jon-flobrant-unsplash.jpg "Credit: Jon Flobrant (Source: Unsplash)")
 
-## The plane is on fire.
+### The plane is on fire.
 
-Catastrophic impact is imminent unless immediate action is taken. The cabin crew have been trained to prepare the passengers for an emergency landing and the pilots know to follow their standard procedures and divert off course to attempt a landing at the nearest airport. Following these procedures doesn’t guarantee a successful outcome, but it gives them a fighting chance.
+##### Catastrophic impact is imminent unless immediate action is taken. 
 
-### However, this is not the scenario that plays out.
+The cabin crew have been trained to prepare the passengers for an emergency landing and the pilots know to follow their standard procedures and divert off course to attempt a landing at the nearest airport. Following these procedures doesn’t guarantee a successful outcome, but it gives them a fighting chance.
+
+##### However, this is not the scenario that plays out.
 
 The pilots conclude that the fire indications are, in-fact, a scare-mongering tactic from the aircraft instrumentation and are not prepared to risk a late arrival by following the emergency procedures. After all, they couldn’t actually see any flames. The fire rages on…
 
@@ -30,13 +32,13 @@ So the burning aircraft continues on course, filled with people who are satisfie
 
 ### Clearly, if the above actions were followed in this emergency situation, it is highly likely that there would be a catastrophic outcome for everyone on board.
 
- While it’s hard to believe that anyone could behave as described, there is an alarming resemblance to our response to another very real emergency that we face… that of the climate emergency.
+##### While it’s hard to believe that anyone could behave as described, there is an alarming resemblance to our response to another very real emergency that we face… that of the climate emergency.
 
-There is now little doubt that, like the aircraft in this fictional story, our planet and every living thing that calls it home are in crisis, as a result of human behaviour and consumption.
+There is now little doubt that our planet and every living thing that calls it home are in crisis, as a result of human behaviour and consumption. And like the players in this fictional story, it seems that everyone is ignoring the climate emergency. 
 
-But unlike with the immediacy of a burning aircraft, it is easy to ignore the climate emergency. Even though there is overwhelming scientific consensus that climate change and ecological breakdown is happening, the perceived danger seems quite far off, and our emergency response is therefore also less immediate. 
+Even though there is overwhelming scientific consensus that climate change and ecological breakdown is happening, the perceived danger seems quite far off, and our emergency response is therefore also less immediate. 
 
-> "Though the overwhelming scientific consensus is that climate change is happening, the danger can seem far off."
+> Though the overwhelming scientific consensus is that climate change is happening, the danger can seem far off.
 
 Like the passengers on the aircraft, for many of us, it is inconvenient to change our habits, choices and behaviours because it will impact our quality of life. Like the ground control team at the airline, for many bosses within corporations, responding to the climate emergency would get in the way of maximising profits. Like the pilots on the aircraft, for many decision makers such as political leaders, it can be far easier to avoid the truth and search for information which confirms what they want to believe, rather than genuinely identifying the best course of action.
 
