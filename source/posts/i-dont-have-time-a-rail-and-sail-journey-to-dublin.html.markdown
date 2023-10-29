@@ -1,7 +1,7 @@
 ---
 published: true
-title: '"I don’t have time!" – a rail and sail journey to Dublin'
-category: opinion
+title: How to make the most of your time
+category: how-to
 date: 2019-08-14T12:17:22.941Z
 cover_image: /images/uploads/i-dont-have-time-screenshot.jpg
 summary: >
