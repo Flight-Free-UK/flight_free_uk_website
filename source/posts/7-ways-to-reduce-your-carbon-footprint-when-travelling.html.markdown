@@ -30,11 +30,13 @@ Science has got this one. And we have your back when it comes to bookings. We’
 
 ![](/images/uploads/co2-emissions-passenger-transport-ffuk.jpg)
 
-## 2. Don’t go on a shopping frenzy
+### 2. Don’t go on a shopping frenzy
 
-We all have a tendency to go on a retail rampage before holiday, but don’t go carbon crazy. Fashion is fat on carbon calories, responsible for [10% of annual global carbon](https://www.worldbank.org/en/news/feature/2019/09/23/costo-moda-medio-ambiente) emissions, and 85% of it ends up in landfill. Instead of five cheap T-shirts, choose one quality shirt from a sustainable fashion company such as [Rapanui](https://rapanuiclothing.com/our-story/). You probably don’t loads of cheap toiletries shipped in from abroad, and often you can buy local cosmetics on your holiday anyway. Shoe companies keeping their footprint suitably low include [Allbirds](https://www.allbirds.co.uk/pages/sustainability)﻿ and [Po-Zu](https://po-zu.com/pages/sustainable-materials). Less is more when it comes to holiday shopping. 
+We all have a tendency to go on a retail rampage before holiday, but don’t go carbon crazy. Fashion is fat on carbon calories, responsible for [10% of annual global carbon](https://www.worldbank.org/en/news/feature/2019/09/23/costo-moda-medio-ambiente) emissions, and 85% of it ends up in landfill. Instead of five cheap T-shirts, choose one quality shirt from a sustainable fashion company such as [Rapanui](https://rapanuiclothing.com/our-story/). 
 
-## 3. Go plastic free
+You probably don’t need loads of cheap toiletries shipped in from abroad, and often you can buy local cosmetics on your holiday anyway. Shoe companies keeping their footprint suitably low include [Allbirds](https://www.allbirds.co.uk/pages/sustainability)﻿ and [Po-Zu](https://po-zu.com/pages/sustainable-materials). Less is more when it comes to holiday shopping. 
+
+### 3. Go plastic free
 
 Eliminating single-use plastics has become a way of life for many, and yet so many of us fall from grace on holiday. Sometimes it’s just a case of remembering to add a few essentials to your packing. We suggest:
 
@@ -49,9 +51,9 @@ Eliminating single-use plastics has become a way of life for many, and yet so ma
 
 ![Pitcure shows a photo taken out of a mountain train window. The side of the train is red and snowy peaks are visible close behind the train. It is surrounded by snow and the sky is clear blue. ](/images/uploads/kevin-schmid-snow-mountain-train-unsplash.jpg "Credit: Kevin Schmid (Source: Unsplash)")
 
-## 4. Choose recycled luggage
+### 4. Choose recycled luggage
 
-If you are thinking of investing in new luggage for your holiday, it may be hard to find some that hasn’t been shipped from abroad. However, if you buy from a sustainable manufacturer at least you know that the supply chain has been as low carbon and low waste as possible. [Patagonia](https://www.patagonia.com/home/), [Phoenx](https://phoenx.co/products/phoenx-travel-kit-peak-white) and [Elvis & Kresse](https://www.elvisandkresse.com/) are ones to bag. Personal favourites are Devon’s own [Sails and Canvas](https://sailsandcanvas.co.uk/product-category/bags/flight-bags-kit-bags-duffles/) and Hampshire’s [Oarsom](https://www.oarsum.co.uk/), with duffels, totes and weekend bags made from recycled sails.
+If you are thinking of investing in a new suitcase or travel bag for your holiday, it may be hard to find some that hasn’t been shipped from abroad. However, if you buy from a sustainable manufacturer at least you know that the supply chain has been as low carbon and low waste as possible. [Patagonia](https://www.patagonia.com/home/), [Phoenx](https://phoenx.co/products/phoenx-travel-kit-peak-white) and [Elvis & Kresse](https://www.elvisandkresse.com/) are ones to bag. Personal favourites are Devon’s own [Sails and Canvas](https://sailsandcanvas.co.uk/product-category/bags/flight-bags-kit-bags-duffles/) and Hampshire’s [Oarsom](https://www.oarsum.co.uk/), with duffels, totes and weekend bags made from recycled sails. 
 
 ## 5. Watch your waste
 
