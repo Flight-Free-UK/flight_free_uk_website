@@ -5,7 +5,7 @@ category: opinion
 date: 2021-08-09T14:14:45.729Z
 cover_image: /images/uploads/vaccinationcentre.jpg
 summary: Flight Free UK director Anna looks back at the past year of ongoing
-  Covid restrictions and how it affected the Flight Free 2021 campaign.
+  Covid restrictions and how it affected the Flight Free campaign.
 author: FlightFree UK
 read_time_minute: 3
 ---
