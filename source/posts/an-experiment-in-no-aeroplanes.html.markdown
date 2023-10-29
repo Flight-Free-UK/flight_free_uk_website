@@ -1,6 +1,6 @@
 ---
 published: true
-title: An experiment in No Aeroplanes
+title: "David: you are what you don't"
 category: testimonials
 date: 2019-01-07T17:54:23.131Z
 cover_image: /images/uploads/trains-not-planes.jpg
@@ -9,17 +9,23 @@ summary: "Traveller and writer David Charles explains that giving up planes
 author: FlightFree UK
 read_time_minute: 5
 ---
-## It’s January 2009 and I’m trekking through the wild snow-bound wastelands of Luton.
+### It’s January 2009 and I’m trekking through the wild snow-bound wastelands of Luton.
 
-There’s a pack on my back and every step I take sinks my sodden shoes into the grey mush that has coated the dual carriageway to the airport. I know my flight is cancelled, but I also know that, if I’m to have even a slim chance of claiming my money back, I need to present myself in person at the check-in desk. 
+##### There’s a pack on my back and every step I take sinks my sodden shoes into the grey mush that has coated the dual carriageway to the airport. 
 
-I was supposed to be visiting my best friend in Bordeaux. Instead, I treat myself to a Boots meal deal, fill out the claim form and trudge back out into the gloom, wondering if I can use both parts of my period rail return on the same day. It’s got all the makings of a familiar and rather dull story: total transport breakdown at the first sight of snowflakes, a miserable wait in a serpentine queue, departure boards flashing DELAYED, DELAYED, CANCELLED. 
+I know my flight is cancelled, but I also know that, if I’m to have even a slim chance of claiming my money back, I need to present myself in person at the check-in desk. 
 
-All I wanted was to visit my friend Dan and all I got was wet feet and a BLT on malted bread. In my impotent rage, I curse the blameless clouds, airline staff and entire municipality of Luton. How dare they? I’d do anything to see my friends, anything! My curses fall on the professionally deaf ears of airport customer service and I stomp back to bed. When I’ve calmed down, though, I wonder – would I really do *anything*? To find out, as soon as the snow has melted and the first tulips have broken the soil, I cycle to Bordeaux. 
+I was supposed to be visiting my best friend in Bordeaux. Instead, I treat myself to a Boots meal deal, fill out the claim form and trudge back out into the gloom, wondering if I can use both parts of my period rail return on the same day. 
+
+It’s got all the makings of a familiar and rather dull story: total transport breakdown at the first sight of snowflakes, a miserable wait in a serpentine queue, departure boards flashing DELAYED, DELAYED, CANCELLED. 
+
+All I wanted was to visit my friend Dan and all I got was wet feet and a BLT on malted bread. In my impotent rage, I curse the blameless clouds, airline staff and entire municipality of Luton. How dare they? I’d do anything to see my friends, anything! 
+
+My curses fall on the professionally deaf ears of airport customer service and I stomp back to bed. When I’ve calmed down, though, I wonder – would I really do *anything*? To find out, as soon as the snow has melted and the first tulips have broken the soil, I cycle to Bordeaux. 
 
 \*\*\*\**
 
-## In April 2009, I wasn’t much of a cyclist.
+##### In April 2009, I wasn’t much of a cyclist.
 
 I didn’t even have a bike. Over that winter, I’d been borrowing my dad’s for the nine mile cycle to work (when it wasn't snowing). But those couple of months were the full extent of my cycling experience in the twelve years since I turned fifteen and discovered first laziness, then the motor car. I’d been to Bordeaux a few times before, each time loading myself up onto an EasyJet flight in Luton and unpacking myself an hour or two later onto the resplendent tarmac of finest French wine country. This time would certainly be different. I borrowed my friend’s bike, packed tubes, tools and tape into my panniers and wobbled off down the road alone, into the overcast sweat of a ninety mile cycle to Portsmouth, for the ferry to St Malo. 
 
