@@ -1,7 +1,7 @@
 ---
 published: true
 title: Underwater Runways
-category: climate
+category: opinion
 date: 2021-03-09T13:26:17.591Z
 cover_image: /images/uploads/wideswimmer-plane-underwater_runways-cropped.jpg
 summary: "Oh, the irony: climate change puts airports at risk."
