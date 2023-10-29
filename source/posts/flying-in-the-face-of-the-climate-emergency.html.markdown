@@ -1,7 +1,7 @@
 ---
 published: false
 title: Flying in the face of the climate emergency
-category: climate
+category: opinion
 date: 2019-12-03T14:11:15.336Z
 cover_image: /images/uploads/yorkshire-jet-plane-taking-off.jpg
 summary: Jefim Vogel, researcher at Leeds University, shows how declaring
