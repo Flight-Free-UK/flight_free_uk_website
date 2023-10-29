@@ -1,7 +1,7 @@
 ---
 published: false
-title: Can technology make air travel sustainable?
-category: climate
+title: Is green technology sustainable?
+category: explainer
 date: 2020-04-05T14:24:35.318Z
 cover_image: /images/uploads/solar.jpg
 summary: We ask if techno-fixes are a viable solution to aviation's harmful emissions.
