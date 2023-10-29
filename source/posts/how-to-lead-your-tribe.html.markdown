@@ -3,7 +3,7 @@ published: true
 title: How to lead your tribe
 category: how-to
 date: 2019-09-13T10:51:29.772Z
-cover_image: /images/uploads/lead-your-tribe.jpg
+cover_image: /images/uploads/group-hug_canva.jpg
 summary: >
   Rob Wreglesworth, host of environmental podcast 'The Disruptive
   Environmentalist’ explains how we can become influences within our own social
