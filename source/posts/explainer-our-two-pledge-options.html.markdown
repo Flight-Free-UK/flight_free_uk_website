@@ -3,7 +3,7 @@ published: true
 title: Our two pledge options
 category: explainer
 date: 2023-01-24T12:21:50.144Z
-cover_image: /images/uploads/trains-not-planes.jpg
+cover_image: /images/uploads/could-you-take-flight-free-challenge.jpg
 summary: At Flight Free UK we challenge people to take a year off flying. We
   also invite people to make a custom pledge that suits their personal
   circumstances, and here we explain what the two options are all about.
