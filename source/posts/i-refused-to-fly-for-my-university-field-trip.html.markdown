@@ -3,7 +3,7 @@ published: true
 title: 'Abi: "I refused to fly for my uni field trip."'
 category: testimonials
 date: 2019-10-25T06:34:45.122Z
-cover_image: /images/uploads/abi-whitfield_sq.jpg
+cover_image: /images/uploads/abi-whitfield.jpg
 summary: MSc student Abi Whitefield refused to go on her university field trip,
   despite it being a compulsory part of her course
 author: FlightFree UK
