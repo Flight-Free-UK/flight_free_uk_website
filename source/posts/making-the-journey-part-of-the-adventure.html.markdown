@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Athlyn: Making the journey into the adventure"
+title: "Athlyn: making the journey into the adventure"
 category: testimonials
 date: 2020-06-29T12:53:54.962Z
 cover_image: /images/uploads/athlyn-testimonial-cover.jpg
