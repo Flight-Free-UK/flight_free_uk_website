@@ -1,7 +1,7 @@
 ---
 published: false
 title: What's wrong with airport expansion?
-category: climate
+category: policy-position
 date: 2020-11-12T21:06:16.324Z
 cover_image: /images/uploads/galba_banner_young_people.jpg
 summary: In the campaign against Leeds Bradford expansion, GALBA has been
