@@ -1,8 +1,7 @@
 ---
-published: false
-title: "Behind the veil: what the aviation industry really thinks about climate
-  change"
-category: climate
+published: true
+title: What does the aviation industry think about climate change?
+category: opinion
 date: 2019-12-03T16:57:27.668Z
 cover_image: /images/uploads/contrail.jpg
 summary: Dr Roger Tyers of Southampton University writes about the recent
