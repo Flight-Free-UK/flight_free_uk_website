@@ -1,7 +1,7 @@
 ---
 published: false
 title: Be more Greta
-category: climate
+category: opinion
 date: 2019-08-16T11:39:56.265Z
 cover_image: /images/uploads/racing-boat-malizia-ii-daily-mail.jpg
 summary: "Teen climate activist Greta Thunberg gained worldwide recognition
