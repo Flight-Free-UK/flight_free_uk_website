@@ -80,4 +80,4 @@ Don’t get me wrong, I don’t think we can rely on individual change alone to 
 
 ##### Individual change is something we can control, and the choices we make are all votes for the world we want to see.
 
-*Rob Wreglesworth blogs and podcasts as 'The Disruptive Environmentalist’. For more stickman based pieces about the environment head to his [website](https://disruptiveenvironmentalist.com/).* [](https://disruptiveenvironmentalist.com)
+*Rob Wreglesworth blogs and podcasts as 'The Disruptive Environmentalist’. For more stickman-based pieces about the environment head to his [website](https://disruptiveenvironmentalist.com/).* [](https://disruptiveenvironmentalist.com)
