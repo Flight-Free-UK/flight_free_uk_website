@@ -4,8 +4,8 @@ title: What does the aviation industry think about climate change?
 category: opinion
 date: 2019-12-03T16:57:27.668Z
 cover_image: /images/uploads/contrail.jpg
-summary: Dr Roger Tyers of Southampton University writes about the recent
-  Aviation Carbon conference in this long read.
+summary: Dr Roger Tyers of Southampton University writes about the 2019 Aviation
+  Carbon conference in this long read.
 author: FlightFree UK
 read_time_minute: 8
 ---
