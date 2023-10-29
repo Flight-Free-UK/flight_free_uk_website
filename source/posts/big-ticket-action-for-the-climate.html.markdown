@@ -1,17 +1,17 @@
 ---
-published: false
-title: Big ticket action for the climate
-category: climate
+published: true
+title: "Dave: big ticket action"
+category: testimonials
 date: 2020-06-29T17:00:02.277Z
-cover_image: /images/uploads/bar_chart.png
+cover_image: /images/uploads/dave-at-marlow-fm.jpg
 summary: Dave Hampton, the Carbon Coach, has been banging the climate drum for
   decades, and wonders, has the time come when we will finally stop flying?
 author: FlightFree UK
 read_time_minute: 3
 ---
-> ***"You won’t get people to stop flying, Dave."***
+> You won’t get people to stop flying, Dave.
 
-## People have been telling me this for 20 years. 
+##### People have been telling me this for 20 years.
 
 The popular lists of ‘big ticket’ things we can do for the planet – go plastic free, buy fewer clothes, eat vegan, switch to an electric car, buy less stuff, recycle everything, use renewable energy – nearly always miss cutting back on travel off the list.
 
