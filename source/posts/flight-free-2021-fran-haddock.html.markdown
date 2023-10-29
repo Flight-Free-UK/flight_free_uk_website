@@ -4,8 +4,8 @@ title: "Fran: fighting for climate justice"
 category: testimonials
 date: 2021-05-01T19:34:12.663Z
 cover_image: /images/uploads/fran-testimonial-cover.jpg
-summary: "Climate activist Fran Haddock shares her story of signing the
-  #FlightFree pledge for the second consecutive year!"
+summary: Climate activist Fran Haddock shares her story of signing the Flight
+  Free Pledge for the second consecutive year
 author: FlightFree UK
 read_time_minute: 2
 ---
