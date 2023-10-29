@@ -57,18 +57,22 @@ If you are thinking of investing in a new suitcase or travel bag for your holida
 
 However, if you buy from a sustainable manufacturer at least you know that the supply chain has been as low carbon and low waste as possible. [Patagonia](https://www.patagonia.com/home/), [Phoenx](https://phoenx.co/products/phoenx-travel-kit-peak-white) and [Elvis & Kresse](https://www.elvisandkresse.com/) are ones to bag. Personal favourites are Devon’s own [Sails and Canvas](https://sailsandcanvas.co.uk/product-category/bags/flight-bags-kit-bags-duffles/) and Hampshire’s [Oarsom](https://www.oarsum.co.uk/), with duffels, totes and weekend bags made from recycled sails. 
 
-## 5. Watch your waste
+### 5. Watch your waste
 
-Recycling has its carbon costs and this is why not all destinations can afford to offer it. The best way to reduce your recycling is to go packaging free, so take a bag to the shops and don’t be afraid to pass up their bags, just as you might at home. If you find yourself with items that you would normally recycle and there aren’t facilities where you’re visiting, consider leaving a little extra room in your bag so you can bring it back home with you to recycle there. It’s often worth sussing out the recycling facilities in a destination before you travel.
+Recycling has its carbon costs and this is why not all destinations can afford to offer it. The best way to reduce your recycling is to go packaging free, so take a bag to the shops, just as you might at home. 
 
-## 6. Use low carbon transport on holiday
+If you find yourself with items that you would normally recycle and there aren’t facilities where you’re visiting, consider leaving a little extra room in your bag so you can bring it back home with you to recycle there. It’s often worth sussing out the recycling facilities in a destination before you travel. 
+
+### 6. Use low carbon transport on holiday
 
 We can recommend plenty of cycling and hiking routes to keep your footprint clean and healthy, and you can also check out local cycling schemes and choose kayaks over cruises, electric cars, and sustainable local transport when you arrive.
 
-## 7. Support tourism businesses with responsible tourism policies
+### 7. Support tourism businesses with responsible tourism policies
 
-There is a lot of talk about post-COVID travel being greener and more switched on to sustainability, and many of our activity and accommodation partners have been incorporating low carbon living into their products for years in an effort to keep our planet healthy. It’s always worth checking to see if an activity provider has a responsible or eco policy on its website. Does the surfing company do beach clean-ups? Is that bike rental company creating links with the community? Are walking guides signed up to [Leave No Trace](https://lnt.org/) or practising their principles? Are you? It’s worth [reading up on them](https://lnt.org/why/7-principles/). They’re mostly common sense, but it’s a good idea to remind yourself what Leave No Trace really means.
+Many of our activity and accommodation partners have been incorporating low carbon living into their products for years in an effort to keep our planet healthy. It’s always worth checking to see if an activity provider has a responsible or eco policy on its website. 
+
+Does the surfing company do beach clean-ups? Is that bike rental company creating links with the community? Are walking guides signed up to [Leave No Trace](https://lnt.org/) or practising their principles? Are you? It’s worth [reading up on them](https://lnt.org/why/7-principles/). They’re mostly common sense, but it’s a good idea to remind yourself what Leave No Trace really means.
 
 ![Picture shows a view of a craggy green coastline from far above. The sea around is a deep blue, and a small lighthouse sits at the most jutting point of the coast. ](/images/uploads/colton-jones-lighthouse-coast-unsplash.jpg "Credit: Colton Jones (Source: Unsplash)")
 
-*[Byway](https://www.byway.travel/) is the world's first platform for flight-free holidays, offering travel and accommodation packages away from the traditional tourist trails, using trains, bikes, buses and ferries. The team at Byway coordinates and books your whole slow travel holiday, and they recommend delightful detours and hidden gems en route – experiences and activities, local shops and businesses, and wonderful eateries tucked away from the crowds. They have worked hard to build adventures that don’t rely on flights, and stand by the principle that travelling through the world is better than flying over it.*
+*[Byway](https://www.byway.travel/) is the world's first platform for flight-free holidays, offering travel and accommodation packages away from the traditional tourist trails, using trains, bikes, buses and ferries. The team at Byway coordinates and books your whole slow travel holiday, and recommends delightful detours and hidden gems en route – experiences and activities, local shops and businesses, and wonderful eateries tucked away from the crowds. They have worked hard to build adventures that don’t rely on flights, and stand by the principle that travelling through the world is better than flying over it.*
