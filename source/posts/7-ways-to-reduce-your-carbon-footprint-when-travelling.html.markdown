@@ -1,28 +1,34 @@
 ---
 published: true
-title: 7 ways to reduce your travel footprint
+title: Seven ways to reduce your travel footprint
 category: how-to
 date: 2021-01-12T15:11:40.133Z
 cover_image: /images/uploads/lucas-wesney-landscape-woman-unsplash.jpg
 summary: >
-  Our friends at Byway Travel give us their top tips for keeping your journeys
-  squeaky carbon-clean.
+  Our friends at Byway give us their top tips for keeping your journeys squeaky
+  carbon-clean
 author: FlightFree UK
 read_time_minute: 4
 ---
 ![Picture shows a women in a yellow raincoat standing on the top of a craggy hill top. She has her back to the camera and in front of her is a mountain range and green rolling hills. The sky is blue and cloudy. ](/images/uploads/lucas-wesney-landscape-woman-unsplash.jpg "Credit: Lucas Wesney (Source: Unsplash)")
 
-#### [Byway](https://www.byway.travel/) is the world’s first platform for flight-free holidays, offering travel and accommodation packages away from the traditional tourist trails, using trains, bikes, buses and ferries. Cat Jones, Byway founder and CEO, shares seven ways to keep your holidays carbon-friendly.
+## [Byway](https://www.byway.travel/) is the world’s first platform for flight-free holidays, offering travel and accommodation packages away from the traditional tourist trails, using trains, bikes, buses and ferries. 
 
-## 1. The big brains say take the train
+#### Cat Jones, Byway founder and CEO, shares seven ways to keep your holidays carbon-friendly.
 
-Flying is still up there as number one no-no when it comes to carbon emissions. You can recycle or go plastic-free and vegan all you like, but jump on a flight and you could ruin all your good habits in one fell swoop. Calculating carbon emissions for train versus air travel is complex as it depends on the model of your train or plane, the distance covered and route taken, occupancy and so on. We don’t want to bombard you with stats, but here are a few travel essentials:
+### 1. The big brains say take the train
 
-Eurostar’s [research](https://www.eurostar-treadlightly.com/en/environment.php) shows that taking the train from London to Paris instead of flying cuts CO2 emissions by 90%; detailed comparisons on [EcoPassenger](http://ecopassenger.org/bin/query.exe/en?L=vs_uic) show that taking the train between European cities costs the planet, on average, six times less than flying, in carbon currency. [DEFRA stats](https://www.gov.uk/government/collections/air-quality-and-emissions-statistics) show that UK domestic flights emit, on average, five times more CO2 than taking the same journey by train.
+Flying is still up there as the number one no-no when it comes to carbon emissions. You can recycle or go plastic-free and vegan all you like, but jump on a flight and you could ruin all your good habits in one fell swoop. 
+
+Calculating carbon emissions for train versus air travel is complex as it depends on the model of your train or plane, the distance covered and route taken, occupancy and so on, but here are a few essential travel stats:
+
+* Eurostar’s [research](https://www.eurostar-treadlightly.com/en/environment.php) shows that taking the train from London to Paris instead of flying cuts CO2 emissions by 90%
+* Comparisons on [EcoPassenger](http://ecopassenger.org/bin/query.exe/en?L=vs_uic) show that taking the train between European cities costs the planet, on average, six times less than flying, in carbon currency
+* [DEFRA stats](https://www.gov.uk/government/collections/air-quality-and-emissions-statistics) show that UK domestic flights emit, on average, five times more CO2 than taking the same journey by train
 
 Science has got this one. And we have your back when it comes to bookings. We’ve worked hard to create delightful holidays that don’t rely on flights: our breaks are 100% flight free, and much more delightful for it!
 
-![Picture shows a graph displaying different emissions from modes of transport. Domestic flights and long-haul flights emit the most by far. ](/images/uploads/emissions-from-diferrent-transport-byway-graph-.png "Transport emissions (Source: Byway)")
+![](/images/uploads/co2-emissions-passenger-transport-ffuk.jpg)
 
 ## 2. Don’t go on a shopping frenzy
 
