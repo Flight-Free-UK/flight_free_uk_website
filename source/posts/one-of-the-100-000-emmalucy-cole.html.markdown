@@ -9,9 +9,9 @@ summary: Speaker, writer, explorer and biker EmmaLucy shares her motivation for
 author: FlightFree UK
 read_time_minute: 5
 ---
-### If I am entirely honest, I struggled to make the decision to sign the Flight Free 2020 pledge.
+### If I am entirely honest, I struggled to make the decision to sign the Flight Free pledge.
 
-I value travel not just for the excitement of seeing somewhere new, but for the potential to learn about unfamiliar (and familiar) cultures, and share that learning in my PhD research and public lectures in the UK. 
+##### I value travel not just for the excitement of seeing somewhere new, but for the potential to learn about unfamiliar (and familiar) cultures, and share that learning in my PhD research and public lectures in the UK. 
 
 I have travelled, mostly solo, since I was very young and consider myself fortunate that travel has been part of my several careers. Having lived in Canada and Egypt, my closest friends are thousands of miles away – I rarely saw them even when I was flying. 
 
@@ -21,11 +21,11 @@ If I think back, before flights were so cheap and easy to book, I travelled less
 
 But over time that faded, and flights to Italy for £9.99 were not only significantly cheaper than taking the train to London, the novelty was becoming addictive. The climax of my increasing flying habit came in 2017 when I took 19 flights to Italy, Greece, Egypt, Helsinki, Norway and Switzerland. They were mostly for work and research, but occasionally for leisure: I flew to Tromsø, Norway, to go trail running in the snowy mountains, simply because I could.
 
-> "The climax of my increasing flying habit came in 2017 when I took 19 flights to Italy, Greece, Egypt, Helsinki, Norway and Switzerland."
+> The climax of my increasing flying habit came in 2017 when I took 19 flights to Italy, Greece, Egypt, Helsinki, Norway and Switzerland.
 
 Don’t misunderstand me; there isn’t a single trip which wasn’t educational and inspiring, and I never took the fact that I could afford it for granted, but looking now at the rapid decline in the health of our climate I have come to realise how indulgent and privileged my approach to travel has been. What most concerned me when I added up how many times I'd flown in 2017 was that I hadn't even thought about it – I had just booked the flights.
 
-> "What most concerned me was that I hadn't even thought about it – I had just booked the flights."
+> What most concerned me was that I hadn't even thought about it – I had just booked the flights.
 
 After that recognition I started to have conversations with friends, family, and colleagues about the downsides of flying: the effects on our health from being in the air, the inevitable environmental impact, and the forced fast transition from one culture to another. The process of entering one brightly lit, barely sanitised concrete box in the UK, sitting in a plane for a few hours, then alighting into another concrete box with doors which magically open onto another country seemed to deny that beautiful experience of slow cultural transition. 
 
@@ -33,7 +33,7 @@ Ethical adventurers have always recognised this, as they exalt the power of feet
 
 Becoming co-director of Vicarious Festival (the UK’s travel literature and photography festival), where we will be exploring ethical travel and diversity, my decision made even more sense and I look forward to hearing plenty of informed discussion about how we unravel the ethics, privileges, and impacts of travel at the event.
 
-> "I began to question whether this unnatural transition of flying actively prevents us from interacting in an empathetic way with locals."
+> I began to question whether this unnatural transition of flying actively prevents us from interacting in an empathetic way with locals.
 
 It took me more than two years to take action, and it was the tireless work by groups such as Flight Free UK, and public statements of non-flying by full-time adventurers such as [Tom Allen](https://tomallen.info/can-flight-free-living-and-adventure-travel-really-co-exist/), which gave me the courage to step up. Yes, one or two people at work have sniggered when I’ve announced my intention (which considering that I work at a University is somewhat chilling), but I have received nothing but support from loved-ones, for which I am grateful because any holidays abroad will now be more marathon than sprint!
 
@@ -43,4 +43,4 @@ I am hoping to test-ride an electric motorcycle in 2020 but even then, living do
 
 So yes, absolutely, my commitment not to fly is about raising awareness of climate change. But it is also about finding ways of travelling which enhance the experience not only for the travellers themselves, but also for the people and environments we travel to meet.
 
-#### I find that I am excited by the prospect of travelling differently and of slowing down as I explore, and with the best possible excuse: making change happen.
+##### I find that I am excited by the prospect of travelling differently and of slowing down as I explore, and with the best possible excuse: making change happen.
