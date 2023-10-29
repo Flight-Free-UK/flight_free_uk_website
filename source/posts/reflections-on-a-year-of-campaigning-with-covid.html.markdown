@@ -1,6 +1,6 @@
 ---
 published: false
-title: Campaigning through Covid
+title: Impact of Covid on Flight Free UK
 category: opinion
 date: 2021-08-09T14:14:45.729Z
 cover_image: /images/uploads/vaccinationcentre.jpg
