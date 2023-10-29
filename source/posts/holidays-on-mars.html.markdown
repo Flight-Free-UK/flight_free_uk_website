@@ -1,7 +1,7 @@
 ---
 published: false
 title: Holidays on Mars
-category: climate
+category: opinion
 date: 2019-08-07T12:26:59.390Z
 cover_image: /images/uploads/ian-edwards-blog.jpg
 summary: In a raw and honest post, Ian Edwards expresses what needs to be done
