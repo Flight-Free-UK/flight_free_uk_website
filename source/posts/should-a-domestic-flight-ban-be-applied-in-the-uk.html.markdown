@@ -37,9 +37,7 @@ Calculations by [Thrust Carbon](https://www.raildeliverygroup.com/?view=article&
 
 Once transfers and check-in are accounted for, the journey times of travelling between UK cities by air or by rail are comparable. [A race between Norman Baker and Paul Tuohy](https://bettertransport.org.uk/media/11-oct-2021-ban-domestic-flights/) from the Campaign for Better Transport between London and Glasgow was almost neck-and-neck, and when [Simon Calder raced Mark Smith to Edinburgh](https://www.independent.co.uk/travel/news-and-advice/flight-train-london-edinburgh-lumo-easyjet-race-b1942445.html), it was another dead heat.
 
-Analysis of staff travel by the University of Edinburgh showed that cost and time were equitable on the route to London by train and by air. 
-
-Shorter journeys, for example to Leeds, Newcastle and Manchester, would have a similar comparison in terms of time. 
+Analysis of staff travel by the University of Edinburgh showed that overall, it was [cheaper to take the train](https://businesstravel.sustainability.ed.ac.uk/year/2022) to London than fly.
 
 #### Capacity
 
