@@ -1,6 +1,6 @@
 ---
 published: true
-title: Rondda to Ronda
+title: Rhondda to Ronda
 date: 2023-08-23T13:15:37.358Z
 cover_image: /images/uploads/ronda-andalusia_canva-cover.jpg
 summary: Howard Osborne takes us on an adventure from South Wales to the South
