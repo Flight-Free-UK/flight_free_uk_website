@@ -36,7 +36,7 @@ Then of course there is the focus on Jet Zero, which will certainly be given as 
 
 You can read our in-depth analysis of why Jet Zero is no good [here](/post/whats-wrong-with-jet-zero/). We explore the trouble with SAF [here](/post/the-trouble-with-saf/), future technology [here](/podcast_transcripts/2021-podcast-series-can-we-fly-carbon-neutral/), and offsetting [here](/post/the-truth-about-carbon-offsets/).
 
-The idea behind running this petition was firstly to put pressure on the government, but also to draw the public's attention to poor government policy. Ghost flights benefit no one, not even the airlines: 
+The idea behind running this petition was both to put pressure on the government and also to draw the public's attention to poor government policy. Ghost flights benefit no one, not even the airlines: 
 
 > The UK government decision on slots, proposing the highest slot use threshold in the world, makes a mockery of their claims to be supporting the recovery of the airline industry and to be champions of the environment.
 >
