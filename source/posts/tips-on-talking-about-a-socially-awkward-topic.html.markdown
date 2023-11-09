@@ -1,6 +1,6 @@
 ---
 published: true
-title: How to talk about climate action
+title: How to talk about flying less
 category: how-to
 date: 2019-01-31T17:15:17.909Z
 cover_image: /images/uploads/conversation-christin-hume-unsplash.jpg
@@ -10,9 +10,9 @@ summary: It can be difficult to speak to your friends and family about not
 author: FlightFree UK
 read_time_minute: 2
 ---
-### Talking about climate action is always a challenge. 
+### Talking about flying less is always a challenge.
 
-##### For many people, the scale of the problem is so huge that it’s impossible to contemplate how we might do something about it. For others, any action we take as individuals seems futile. Many others might not be aware just how urgent taking climate action is. 
+##### For many people, the scale of the climate problem is so huge that it’s impossible to contemplate how we might do something about it. For others, any action we take as individuals seems futile. Many others might not be aware just how urgent taking climate action is. 
 
 One of the most important parts of climate action is simply talking about it. Use our tips to help you to get that difficult conversation started. 
 
