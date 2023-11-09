@@ -3,13 +3,13 @@ published: true
 title: "Hanna Lindon: confessions of a travel writer"
 category: testimonials
 date: 2020-01-10T18:52:21.753Z
-cover_image: /images/uploads/HannaLindon1.jpg
+cover_image: /images/uploads/hanna-testimonial-cover.jpg
 summary: Hanna Lindon, freelance travel journalist, explains what taking the
   flight free pledge means for her life and career.
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows Hanna squeezing two small children, they are all wrapped up in warm coats. In the background you can see blurred forest and mossy tree trunks. Hanna and both children are smiling. ](/images/uploads/HannaLindon2.jpg "Hanna with her two children ")
+![](/images/uploads/hanna-testimonial-body.jpg)
 
 ### It took a long time to brace myself to write this piece.
 
@@ -35,4 +35,4 @@ Personally, I can’t handle the hypocrisy of campaigning against climate change
 
 My husband I have another plan in the pipeline too, involving an electric van, a year’s sabbatical and some cross-continental slow travel. Who knows, perhaps this no-flying business might open up some new opportunities.
 
-##### I can’t promise that I’ll never get on a plane again. Perhaps my resolve will be broken by a travel lust-inducing article in a glossy magazine or an exotic YouTube video. This year, though, I’m pledging to go flight free – and I hope you will too.
+##### I can’t promise that I’ll never get on a plane again. Perhaps my resolve will be broken by a travelust-inducing article in a glossy magazine or an exotic YouTube video. This year, though, I’m pledging to go flight free – and I hope you will too.
