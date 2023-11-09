@@ -36,20 +36,6 @@ Never miss a chance to shoehorn in Brexit! It's interesting that the Government 
 
 There are other systems that can be put in place to ensure that airport capacity is used effectively, and that won't result in empty planes in the air. 
 
-#### Government response cont.
-
-As the pandemic has gone on and demand begins to recover, the Government is keen to support recovery. For the current Winter 2021/22 season the Government has used the ATMUA Act 2021 to amend the slot usage retention rules. For Winter 2021/22 this has been reduced from 80% to 50%, and we have also allowed airlines to hand back full series of slots before the start of the season if they are not going to fly them. 
-
-The provision to allow airlines to hand back full series of slots goes further than the equivalent alleviation in the European Union for Winter 2021/22 which did not include a full series hand back. By encouraging airlines to hand back their slots where there is insufficient demand, this has dramatically reduced the volume of empty or almost empty flights. This has also provided other airlines with the opportunity to make use of these slots, where there is sufficient demand, with new entrants being awarded temporary slots at some of our most congested airports.
-
-Following a review of the latest available data and evidence, the Secretary of State decided that alleviation remains justified for the Summer 2022 season.
-
-A draft Statutory Instrument setting out arrangements for Summer 2022 was published on 24 January 2022. The measures balance supporting recovery, protection for those carriers operating in markets that are severely restricted and reducing environmental impacts. It sets a minimum usage ratio of 70% and strengthens the provisions for justified non-utilisation of slots.
-
-The strengthened justified non-use provision protects carriers and avoids the environmental impact of empty or almost empty flights flying where COVID-19 related restrictions are in place and avoids empty or almost empty flights to destinations that have onerous travel restrictions. This is because carriers can now use justified non-use provision to cover foreseeable restrictions, even where restrictions are in place before the start of the season. The UK also will now allow for early applications for justified non-use such as where long term restrictions are in place.
-
-#### Flight Free UK
-
 Justified non-utilisation of slots sounds fair, and sounds as though it could genuinely prevent airlines flying planes for no reason.
 
 However! While the slot allocation was zero, [almost 15,000 planes flew at 10% capacity](https://www.theguardian.com/environment/2022/feb/22/almost-15000-ghost-flights-left-uk-since-pandemic-began) or below. How many more will fly when the slot allocation reaches 70%?
@@ -66,27 +52,9 @@ With demand still below ‘normal' capacity, this means that airlines might stil
 
 In any case, even in ‘normal’ times planes still sometimes fly empty to keep slots, and have done for years.
 
-#### Government response cont.
-
-These slot alleviation measures are only temporary, however as part of the Government’s future aviation policy we are actively looking at reform to the airport slot allocation process. We are developing the case and options for reforms to make the best use of airport capacity and deliver a better outcome for passengers.
-
-#### Flight Free UK
-
 The Government has been saying that they are actively looking at reform to the airport slot allocation process since 2018 and so far no progress has been made.
 
-#### Government response cont.
-
-The Government recognises that the aviation sector has a critical role to play in delivering the UK’s net zero commitments. In July 2021 we published the Jet Zero Consultation which sets out our vision for the sector to reach net zero by 2050. The consultation closed in September and we continue to carefully consider responses in the development of our final Jet Zero Strategy which we aim to publish later this year.
-
-#### Flight Free UK
-
 The Jet Zero strategy is woefully inadequate as a way of dealing with the climate impact of aviation. [Our response is here](https://flightfree.co.uk/post/whats-wrong-with-jet-zero/).
-
-#### Government response cont.
-
-The Government is already supporting a variety of technology, fuel and market-based measures to address aviation emissions. The Net Zero Strategy published in October 2021 confirmed our commitment to Jet Zero, for the UK to become a world-leader in zero emission flight and to build a world-leading sustainable aviation fuel (SAF) industry. The Government announced £180 million of additional funding for the development of SAF plants in the UK, further supporting our ambition to see 10% SAF blended into the UK fuel mix by 2030.
-
-#### Flight Free UK
 
 SAF is an excellent example of how Jet Zero plans sound nice but will achieve very little.
 
