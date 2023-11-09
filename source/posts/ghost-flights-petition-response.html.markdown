@@ -1,19 +1,24 @@
 ---
 published: true
-title: "Ghost flights petition: response"
+title: "Ghost flights: petition and response"
 category: policy-position
-date: 2022-03-02T18:12:00.817Z
+date: 2022-07-30T17:12:00.817Z
 cover_image: /images/uploads/sign-ghost-flights-petition.jpg
-summary: "Here we analyse the Government's response to our petition to end ghost
-  flights. "
+summary: Our petition to end ghost flights, and the Government's response
 author: FlightFree UK
 read_time_minute: 6
 ---
-## Launched in January 2022, [our petition](https://petition.parliament.uk/petitions/605749) asks the Government to change the rules so airlines do not have to fly empty planes in order to keep their landing slots.
+### ‘Ghost flights’ is the term used to refer to planes flying empty or at very low capacity. 
 
-### When we reached 10,000 signatures, the Government gave a response.
+##### Airlines have always operated ghost flights in order to move aircraft around, or for training purposes, but during the Covid pandemic it was revealed that some airlines were operating thousands of empty flights in order to retain their lucrative landing slots. 
 
-Here is our analysis of that response.
+The government rules state that airlines must use their landing slots 80% of the time in order to keep them.
+
+We ran [a petition](https://petition.parliament.uk/petitions/605749) asking the government to change the rules so that airlines didn’t have to keep planes in the air to retain their slots at times of low demand. 
+
+Nearly 17,000 people signed the petition, prompting a reply from the government. 
+
+Here is the government’s response:
 
 #### Government response
 
