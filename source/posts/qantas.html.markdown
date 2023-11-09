@@ -26,19 +26,23 @@ The airline has recognised this: pilots and crew will work in shifts so as to ha
 
 Why must we travel in this way? Our bodies protest against moving so fast through time and space – it’s called jet lag. Yet we endure it because the horror of the journey is deemed to be ‘worth it’. Put yourself through this ordeal for 20 hours and you’ll be rewarded with everything Australia has to offer. 
 
-> "Our bodies protest against moving so fast through time and space – it’s called jet lag."
+> Our bodies protest against moving so fast through time and space – it’s called jet lag.
 
-#### But *is* it worth it? When it comes to the climate, the answer surely has to be ‘no’. 
+##### But *is* it worth it? When it comes to the climate, the answer surely has to be ‘no’. 
 
 In our precarious climate situation, emissions from all areas need to come down, quickly. The priority of our ingenuity and innovation should be to decarbonise our society, starting with those activities that are essential to our survival, i.e. how we feed, clothe and house ourselves. 
 
-For everything else, the ‘luxuries’ of life, the immediate answer must be to reduce the amount we do them. The technological solutions to ‘green’ flight are years away, if they ever come. So-called sustainable fuels are [anything but sustainable](/post/the-trouble-with-saf). An appropriate response to the climate emergency is to drive a lot less, fly a lot less, and channel our innovation into the rapid decarbonisation of our lifestyles. Investing in ultra-long-haul travel and thereby sending tonnes of carbon into the atmosphere is directly at odds with that.
+For everything else, the ‘luxuries’ of life, the immediate answer must be to reduce the amount we do them. The technological solutions to ‘green’ flight are years away, if they ever come. So-called sustainable fuels are [anything but sustainable](/post/the-trouble-with-saf). 
 
-> "Ultra-long-haul travel is directly at odds with the rapid decarbonisation of our lifestyles."
+An appropriate response to the climate emergency is to drive a lot less, fly a lot less, and channel our innovation into the rapid decarbonisation of our lifestyles. Investing in ultra-long-haul travel and thereby sending tonnes of carbon into the atmosphere is directly at odds with that.
 
-Staying airborne for twenty hours uses a hell of a lot of fuel. Without a mid-flight stopover, the jet must carry all the kerosene it needs for the entire journey, adding to the weight of the plane. The result is that much of the fuel – [approximately 60%](https://www.wired.co.uk/article/qantas-london-sydney-direct-flight) – will be burned simply to carry the rest of the fuel. The [climate impact of flying to Australia is already 4.5 tonnes CO2 per passenger](https://flightemissionmap.org/#London/51.50,-0.13/133/20000). Adding in the extra fuel, and the extra space per passenger, the climate impact of each ticket on this flight could well be double. 
+> Ultra-long-haul travel is directly at odds with the rapid decarbonisation of our lifestyles.
 
-> "Approximately 60% of the fuel will be burned simply to carry the rest of the fuel."
+Staying airborne for twenty hours uses a hell of a lot of fuel. Without a mid-flight stopover, the jet must carry all the kerosene it needs for the entire journey, adding to the weight of the plane. 
+
+The result is that much of the fuel – [approximately 60%](https://www.wired.co.uk/article/qantas-london-sydney-direct-flight) – will be burned simply to carry the rest of the fuel. The [climate impact of flying to Australia is already 4.5 tonnes CO2 per passenger](https://flightemissionmap.org/#London/51.50,-0.13/133/20000). Adding in the extra fuel, and the extra space per passenger, the climate impact of each ticket on this flight could well be double. 
+
+> Approximately 60% of the fuel will be burned simply to carry the rest of the fuel.
 
 What do flights like this say about our society? That we are slaves to innovation. That we must keep on pushing the limit, regardless of the side effects. That we genuinely don’t understand the urgency of the climate crisis and aviation’s role in it. 
 
@@ -48,8 +52,8 @@ Once upon a time, the journey to Australia would take two months by sailing ship
 
 But neither can we ignore the negative effects of our insatiable appetite for better, faster, further. We know the effects of burning fossil fuels on our planet, and we have known them for decades: the rapid and increasingly irreversible breakdown of our life systems. Yet we chose to ignore them in our blind stumbling towards whatever we’ve classed as ‘innovation’. 
 
-> "We chose to ignore the effects of burning fossil fuels in our blind stumbling towards ‘innovation’." 
+> We chose to ignore the effects of burning fossil fuels in our blind stumbling towards ‘innovation’.
 
 Reducing the amount we fly is not the only thing that will solve the climate crisis. But we definitely won’t solve it if we continue to fly ever further and faster. 
 
-#### Ultimately, it will take more than smelling salts for us and our planet to recover from this one.
+##### Ultimately, it will take more than smelling salts for us and our planet to recover from this one.
