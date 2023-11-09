@@ -18,27 +18,17 @@ We ran [a petition](https://petition.parliament.uk/petitions/605749) asking the 
 
 Nearly 17,000 people signed the petition, prompting a reply from the government. 
 
-Here is the government’s response:
+You can read the government’s response in full on the [Parliamentary Petitions website](https://petition.parliament.uk/petitions/605749), but here are the highlights:
 
-#### Government response
+* the Government suspended the rules for the summer 2020, winter 2020/21 and summer 2021 seasons
+* The UK’s exit from the EU means that the UK government has been able to take a more tailored approach to slot rules
+* The Government is keen to support airline recovery after the pandemic
+* the ratio of slot-use will be 70%, with provisions for justified non-utilisation of slots, which will  avoid the environmental impact of empty or almost empty flights flying where COVID-19 related restrictions are in place
+* As part of the Government’s future aviation policy it is actively looking at reform to the airport slot allocation process
+* The Government recognises that the aviation sector has a critical role to play in delivering the UK’s net zero commitments. In July 2021 it published the Jet Zero Consultation which sets out the Government’s vision for the sector to reach net zero by 2050. 
+* The Government is already supporting a variety of technology, fuel and market-based measures to address aviation emissions. Jet Zero aims for the UK to become a world-leader in zero emission flight and to build a world-leading sustainable aviation fuel (SAF) industry. The Government announced £180 million of additional funding for the development of SAF plants in the UK, further supporting our ambition to see 10% SAF blended into the UK fuel mix by 2030.
 
-The Government continues to provide alleviation from normal airport slot rules to prevent airlines from operating environmentally damaging ‘ghost’ flights during the COVID-19 pandemic.
 
-#### Flight Free UK
-
-It's good that the Government acknowledges that ghost flights are environmentally damaging. But all flights are environmentally damaging, not just empty ones. This sounds as though the Government is jumping on the 'ghost flights' bandwagon following recent news reports.
-
-When the Government says it ‘continues to provide alleviation from normal airport slot rules,’ it means that airlines are required to use 70% of their slots rather than the 'normal' 80%. 
-
-#### Government response cont.
-
-In normal times, slot usage rules are in place to ensure that airport capacity is used effectively, and that competition exists for passengers at our most crowded airports. This supports lower fares, better availability of routes and higher service quality.
-
-Under these rules, airlines that use our most crowded airports (that are slot coordinated under the Worldwide Airport Slot Guidelines) must operate at least 80% of slots during the current season, or risk losing their historic rights: the so-called ‘80:20’ rule.
-
-The COVID-19 pandemic created a severe shock for aviation demand which has continued to remain considerably suppressed. The usual competition rules, which were designed for a situation where airports enjoyed high levels of usage, were not appropriate when demand had fallen close to zero. As such, the rules requiring airlines to use slots in order to retain their historic rights were fully suspended for the Summer 2020, Winter 2020/21 and Summer 2021 seasons.
-
-The UK’s exit from the European Union means that it has been able to take a more tailored approach that reflect the UK’s specific circumstances. The Air Traffic Management and Unmanned Aircraft (ATMUA) Act 2021 provides temporary powers to amend these rules where the evidence supports the need to do so. These powers last until August 2024, covering the Winter 2024/25 season.
 
 #### Flight Free UK
 
