@@ -1,7 +1,7 @@
 ---
 published: true
 title: What should the government do?
-category: opinion
+category: policy-position
 date: 2020-03-24T12:41:42.265Z
 cover_image: /images/uploads/trains-not-planes.jpg
 summary: The coronavirus outbreak has caused an unprecedented drop in demand for
