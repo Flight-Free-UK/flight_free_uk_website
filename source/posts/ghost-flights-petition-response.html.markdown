@@ -12,7 +12,7 @@ read_time_minute: 6
 
 ##### Airlines have always operated ghost flights in order to move aircraft around, or for training purposes, but during the Covid pandemic it was revealed that some airlines were operating thousands of empty flights in order to retain their lucrative landing slots. 
 
-The government rules state that airlines must use their landing slots 80% of the time in order to keep them.
+The government rules state that airlines must use their landing slots 80% of the time in order to keep them. This was relaxed during the pandemic, but even so, [a reported 15,000 ghost flights](https://www.theguardian.com/environment/2022/mar/31/ghost-flights-from-uk-running-at-500-a-month-data-reveals) left the UK between the start of the Covid pandemic in March 2020 and September 2021.
 
 We ran [a petition](https://petition.parliament.uk/petitions/605749) asking the government to change the rules so that airlines didn’t have to keep planes in the air to retain their slots at times of low demand. 
 
