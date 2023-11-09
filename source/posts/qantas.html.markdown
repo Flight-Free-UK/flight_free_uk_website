@@ -12,15 +12,15 @@ read_time_minute: 3
 ---
 ![](/images/uploads/qantas_canva.jpg)
 
-## When the first escalator opened at Harrods, employees stood at the top with brandy for the gentlemen and smelling salts for the ladies in case they needed reviving after their exhilarating ride.
+### When the first escalator opened at Harrods, employees stood at the top with brandy for the gentlemen and smelling salts for the ladies in case they needed reviving after their exhilarating ride.
 
-### Since those early days of human and mechanical innovation we have pushed the limits ever further and faster.
+##### Since those early days of human and mechanical innovation we have pushed the limits ever further and faster.
 
 Our Victorian ancestors would surely faint at the mere thought of our modern pursuits, but perhaps none more so than air travel. A jumbo jet travels at roughly 570mph: 10 times faster than a car driving on a motorway, 48 times faster than the average bicycle, and 285 times faster than an escalator.
 
 The latest innovation in air travel is the [soon-to-be-launched non-stop flight from London to Sydney, Australia](https://www.theguardian.com/business/2022/may/02/qantas-non-stop-flights-australia-to-new-york-london-from-sydney-melbourne-airbus-a350-1000). The jet will travel for twenty hours, across ten time zones, making it the longest non-stop flight in the world. Such a flight will surely push our endurance to the limit.
 
-> "Such a flight will surely push our endurance to the limit."
+> The jet will travel for twenty hours, across ten time zones, making it the longest non-stop flight in the world. Such a flight will surely push our endurance to the limit.
 
 The airline has recognised this: pilots and crew will work in shifts so as to have enough rest, and passengers will be offered ‘wellness areas’ to cope with spending such a long time in such confinement. The seats will be spacious and comfortable: no economy class here. 
 
