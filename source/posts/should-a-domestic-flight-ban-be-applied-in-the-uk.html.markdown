@@ -1,7 +1,7 @@
 ---
 published: true
 title: Should we ban domestic flights in the UK?
-category: opinion
+category: policy-position
 date: 2023-10-27T11:01:52.257Z
 cover_image: /images/uploads/flight-radar.jpg
 summary: As France introduces a policy of removing flight routes between some
