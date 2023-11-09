@@ -28,23 +28,19 @@ You can read the government’s response in full on the [Parliamentary Petitions
 * the Government recognises that the aviation sector has a critical role to play in delivering the UK’s net zero commitments. In July 2021 it published the Jet Zero Consultation which sets out the Government’s vision for the sector to reach net zero by 2050
 * the Government is already supporting a variety of technology, fuel and market-based measures to address aviation emissions. Jet Zero aims for the UK to become a world-leader in zero emission flight and to build a world-leading sustainable aviation fuel (SAF) industry. The Government announced £180 million of additional funding for the development of SAF plants in the UK, further supporting its ambition to see 10% SAF blended into the UK fuel mix by 2030
 
-#### Flight Free UK
+It's a predictable and somewhat frustrating response, given that the Government has been saying it will look at reforming the slot allocation process since 2018, and so far no progress has been made.
 
-Never miss a chance to shoehorn in Brexit! It's interesting that the Government is comparing its slot alleviation favourably to the EU. The EU currently requires slots to be used at 64%, a figure kinder to airlines and kinder to the planet. 
+It’s curious that Brexit should be mentioned, especially when the Government is comparing its slot alleviation favourably to the EU. The EU currently requires slots to be used at 64%, a figure kinder to airlines and kinder to the planet.
 
-There are other systems that can be put in place to ensure that airport capacity is used effectively, and that won't result in empty planes in the air. 
+Then of course there is the focus on Jet Zero, which will certainly be given as an answer to any challenge to the government's policy on aviation. The Jet Zero policy will focus on three areas in order to bring down emissions: sustainable aviation fuel (SAF), technology and offsetting. The government currently has no plans to reduce demand for flying. 
 
-Justified non-utilisation of slots sounds fair, and sounds as though it could genuinely prevent airlines flying planes for no reason.
+You can read our in-depth analysis of why Jet Zero is no good here. We explore the trouble with SAF here, future technology here, and offsetting here.
 
-However! While the slot allocation was zero, [almost 15,000 planes flew at 10% capacity](https://www.theguardian.com/environment/2022/feb/22/almost-15000-ghost-flights-left-uk-since-pandemic-began) or below. How many more will fly when the slot allocation reaches 70%?
+The idea behind running this petition was firstly to put pressure on the government, but also to draw the public's attention to poor government policy. Ghost flights benefit no one, not even the airlines: 
 
-With demand still below ‘normal' capacity, this means that airlines might still end up flying empty planes. 
-
-[Not even the industry](https://www.independent.co.uk/travel/news-and-advice/airline-slots-heathrow-airport-ghost-flights-b1999038.html) is happy:
-
-> “The UK government decision on slots, proposing the highest slot use threshold in the world, makes a mockery of their claims to be supporting the recovery of the airline industry and to be champions of the environment.
+> The UK government decision on slots, proposing the highest slot use threshold in the world, makes a mockery of their claims to be supporting the recovery of the airline industry and to be champions of the environment.
 >
-> “It is inconceivable that international demand will average 70 per cent this summer. The government is therefore condemning airlines to operate thousands of flights at low capacity which is environmentally stupid.” 
+> It is inconceivable that international demand will average 70 per cent this summer. The government is therefore condemning airlines to operate thousands of flights at low capacity which is environmentally stupid.
 
 *~ Willie Walsh, director general of the International Air Transport Association (Iata)*
 
