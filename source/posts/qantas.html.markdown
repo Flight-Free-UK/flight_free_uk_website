@@ -26,9 +26,9 @@ The airline has recognised this: pilots and crew will work in shifts so as to ha
 
 Why must we travel in this way? Our bodies protest against moving so fast through time and space – it’s called jet lag. Yet we endure it because the horror of the journey is deemed to be ‘worth it’. Put yourself through this ordeal for 20 hours and you’ll be rewarded with everything Australia has to offer. 
 
-> Our bodies protest against moving so fast through time and space – it’s called jet lag.
+But *is* it worth it? When it comes to the climate, the answer surely has to be ‘no’. 
 
-##### But *is* it worth it? When it comes to the climate, the answer surely has to be ‘no’. 
+> Is it worth it? When it comes to the climate, the answer surely has to be ‘no’. 
 
 In our precarious climate situation, emissions from all areas need to come down, quickly. The priority of our ingenuity and innovation should be to decarbonise our society, starting with those activities that are essential to our survival, i.e. how we feed, clothe and house ourselves. 
 
