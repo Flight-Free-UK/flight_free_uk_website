@@ -1,7 +1,7 @@
 ---
 published: true
 title: Houston, we have a problem
-category: climate
+category: opinion
 date: 2022-09-27T12:50:57.115Z
 cover_image: /images/uploads/hurricane_harvey.jpg
 summary: When Hurricane Harvey brought disaster to the USA’s oil and gas capital
