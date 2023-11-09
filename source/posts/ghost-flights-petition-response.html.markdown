@@ -25,8 +25,8 @@ You can read the government’s response in full on the [Parliamentary Petitions
 * the Government is keen to support airline recovery after the pandemic
 * the ratio of slot-use will be 70%, with provisions for justified non-utilisation of slots, which will avoid the environmental impact of empty or almost empty flights flying where COVID-19 related restrictions are in place
 * as part of the Government’s future aviation policy it is actively looking at reform to the airport slot allocation process
-* the Government recognises that the aviation sector has a critical role to play in delivering the UK’s net zero commitments. In July 2021 it published the Jet Zero Consultation which sets out the Government’s vision for the sector to reach net zero by 2050. 
-* the Government is already supporting a variety of technology, fuel and market-based measures to address aviation emissions. Jet Zero aims for the UK to become a world-leader in zero emission flight and to build a world-leading sustainable aviation fuel (SAF) industry. The Government announced £180 million of additional funding for the development of SAF plants in the UK, further supporting our ambition to see 10% SAF blended into the UK fuel mix by 2030.
+* the Government recognises that the aviation sector has a critical role to play in delivering the UK’s net zero commitments. In July 2021 it published the Jet Zero Consultation which sets out the Government’s vision for the sector to reach net zero by 2050
+* the Government is already supporting a variety of technology, fuel and market-based measures to address aviation emissions. Jet Zero aims for the UK to become a world-leader in zero emission flight and to build a world-leading sustainable aviation fuel (SAF) industry. The Government announced £180 million of additional funding for the development of SAF plants in the UK, further supporting its ambition to see 10% SAF blended into the UK fuel mix by 2030
 
 #### Flight Free UK
 
