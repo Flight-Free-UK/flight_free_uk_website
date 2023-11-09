@@ -44,4 +44,6 @@ The idea behind running this petition was both to put pressure on the government
 
 *~ [Willie Walsh](https://www.independent.co.uk/travel/news-and-advice/airline-slots-heathrow-airport-ghost-flights-b1999038.html), director general of the International Air Transport Association (Iata)*
 
-But ultimately, all flights harm the climate, not just empty ones, so we will continue to educate the public about the climate impact of aviation, and encourage people to travel without flying.
+W﻿e want to thank everyone who signed our petition and supported our call to end ghost flights.
+
+Ultimately, all flights harm the climate, not just empty ones, so we will continue with the core focus of our work: to educate the public about the climate impact of aviation, and encourage people to travel without flying.
