@@ -8,7 +8,7 @@ summary: Helena Ritter explains why she made the decision to quit flying
 author: FlightFree UK
 read_time_minute: 2
 ---
-![Picture shows Helena at the top of a peak in Snowdonia. Behind her is a steep decline into a grassy valley with small lakes. Part of the valley is in bright sunshine and part of it is in shade. ](/images/uploads/helena-snowdonia.jpg "Helena in Snowdonia ")
+![](/images/uploads/helena-testimonial-body.jpg)
 
 ### In October 2018 I moved to Edinburgh from London to study for my Masters degree. It was the first time I had even vaguely considered flying to university.
 
