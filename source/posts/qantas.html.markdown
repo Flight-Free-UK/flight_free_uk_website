@@ -1,15 +1,17 @@
 ---
-published: false
+published: true
 title: Half a world away
 category: opinion
 date: 2022-05-19T18:46:40.031Z
-cover_image: /images/uploads/qantas.jpg
+cover_image: /images/uploads/qantas_canva.jpg
 summary: Australian airline Qantas has announced plans to fly non-stop from
   London and New York to Sydney. What does that say about our thirst for
   aviation?
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/qantas_canva.jpg)
+
 ## When the first escalator opened at Harrods, employees stood at the top with brandy for the gentlemen and smelling salts for the ladies in case they needed reviving after their exhilarating ride.
 
 ### Since those early days of human and mechanical innovation we have pushed the limits ever further and faster.
