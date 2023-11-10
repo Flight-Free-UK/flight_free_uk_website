@@ -1,6 +1,6 @@
 ---
 published: true
-title: How to talk about flying less
+title: How to talk about flights and climate
 category: how-to
 date: 2019-01-31T17:15:17.909Z
 cover_image: /images/uploads/conversation-christin-hume-unsplash.jpg
