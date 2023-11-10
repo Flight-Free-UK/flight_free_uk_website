@@ -3,12 +3,14 @@ published: true
 title: No more bites of the Big Apple
 category: opinion
 date: 2020-06-23T09:20:26.478Z
-cover_image: /images/uploads/nyc.jpg
+cover_image: /images/uploads/new_york_skyline_canva.jpg
 summary: Flight Free UK director Anna Hughes asks, are we missing out by not
   travelling long haul?
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/new_york_skyline_canva.jpg)
+
 ### “Where are you going?” asked a friend we’d just bumped into on Hitchin station. “New York!” we chimed as one.
 
 ##### This was to be a 21st-birthday holiday trip for my twin sister and me. “Wow, New York!” he chuckled, obviously not expecting such a far-away answer. “Have a good time.” We soon alighted in London, him heading for the office and we for Heathrow.
