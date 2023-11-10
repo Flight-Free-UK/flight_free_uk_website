@@ -48,7 +48,7 @@ A half hour walk out of town gets you to the Scottish Wildlife Trust’s Montros
 
 Montrose is a great place for a holiday, not just a day trip. Other highlights all an hour or less by bike are Montrose beach, Pavilion Cafe (so good), St Cyrus National Nature Reserve, Langley Park Garden, Caledonian (heritage) Railway, Lunan Bay and Red Castle ruins.
 
-##### I love islands. You have the excitement of the train, then the excitement of the ferry, then the excitement of the island itself.
+###### I love islands. You have the excitement of the train, then the excitement of the ferry, then the excitement of the island itself.
 
 In only four hours on Arran on a day trip from Ardossan Harbour station I was able to visit a cafe, a bakery and a charity shop in Brodick village, walk along field lanes out into the hills where I saw green hairstreak butterflies for the first time in my life and red deer on the hillside circled high overhead by buzzards and a pair of golden eagles. 
 
@@ -56,7 +56,7 @@ Then back through woodland, along the sandy shore, onto the ferry, train to Dalr
 
 Here's [another Arran day](http://landscapeartnaturebirds.blogspot.com/2014/12/scotland-by-rail-ardrossan-and-arran.html): birds, lighthouses, sketches and watercolours.
 
-#### As well as Scotland, train travel puts much of the rest of the UK and Europe within realistic reach.
+###### As well as Scotland, train travel puts much of the rest of the UK and Europe within realistic reach.
 
 My wife Jennifer and I have taken Eurostar through the Channel Tunnel on various occasions, travelling to Paris, Bruges and Leuven. We even went on a three week tour of Italy all the way from Burntisland, Fife, with an 11 month old.  
 
@@ -64,7 +64,7 @@ It might sound daunting but it went so well. Oren spent large amounts of the tri
 
 ![Picture shows Jennifer and Oren on the train from Scotland to Italy. Oren is sitting on Jennifers lap and sun is coming in from the train window. Jennifer is facing the sun with her eyes closed. ](/images/uploads/leo-du-feu-scotland-italy.jpg "Jennifer and Oren on the train from Scotland to Italy")
 
-##### **Why travel by train?**
+###### **Why travel by train?**
 
 It’s not just about reducing emissions. By train you see where you’re going and you have more appreciation of the distance you’ve come. You needn’t even take a book. Just look out the window, and notice landscapes and architecture change as the miles pass. See what wildlife you spot, take notes, jot down quick sketches. Chat to fellow passengers. Pretend you’re on the Orient Express. And if you do want to read I suppose I’ll let you – think how much you can get through between Scotland and Naples.
 
