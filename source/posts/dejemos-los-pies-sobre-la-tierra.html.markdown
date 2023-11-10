@@ -1,7 +1,7 @@
 ---
 published: false
 title: 'Bruno: "Dejemos los pies sobre la tierra"'
-category: testimonials
+category: opinion
 date: 2020-05-27T11:35:10.751Z
 cover_image: /images/uploads/bruno-peru_rici-lake.jpg
 summary: "Rici Lake from Flight Free Perú explains the challenges and benefits
