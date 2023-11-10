@@ -26,9 +26,9 @@ I’m proud to run an organisation, (about to rebrand to) the [Community Rail Ne
 
 They help young people and excluded groups to have the confidence to use rail, bring together volunteers to improve environments at and around stations, run community events and social enterprises, and promote rail as a part of sustainable travel. They also, uniquely, work with rail partners, to help them understand local needs, put communities at the forefront, and connect up rail better with buses, walking and cycling.
 
-> I’m proud to run the [Community Rail Network](https://communityrail.org.uk), which helps communities engage with local railways.
-
 Our role as the umbrella body for this grassroots movement is to support and champion our members, to help their communities get the most from their railways. One of the ways we do this is through our [Scenic Rail Britain](https://communityrail.org.uk/resources-ideas/scenic-rail-britain/) campaign, which encourages people to use rail, especially ‘hidden gem’ community railway lines, to not only travel more sustainably, but immerse themselves in local communities, landscape and history. While the campaign is taking a bit of a holiday of its own, we are still encouraging use of the site for planning ahead, to happier times and travel.
+
+> We encourage people to use rail, especially ‘hidden gem’ community railway lines, to not only travel more sustainably, but immerse themselves in local communities, landscape and history. 
 
 Due to Covid-19, our members have scaled back many of their usual community rail activities including volunteering, events and education. But there’s also lots of reflection and adaption going on, so we keep communicating with local people and partners, and help our communities to cope, build resilience, and rebuild. When we come out the other side of this, we believe community rail will be more important than ever; probably the same is true for the whole community and voluntary sector. 
 
