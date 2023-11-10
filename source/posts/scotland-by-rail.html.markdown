@@ -28,7 +28,7 @@ Graduating from Edinburgh College of Art fifteen years ago I knew I wanted to ex
 
 I﻿ will share some of those treasures here. 
 
-##### One of my last pre-Covid trips was to the city of Aberdeen, delivering paintings to a gallery I exhibit in and visiting the recently refurbished [Aberdeen Art Gallery](http://landscapeartnaturebirds.blogspot.com/2020/03/scotland-by-rail-aberdeen-art-gallery.html). 
+###### One of my last pre-Covid trips was to the city of Aberdeen, delivering paintings to a gallery I exhibit in and visiting the recently refurbished [Aberdeen Art Gallery](http://landscapeartnaturebirds.blogspot.com/2020/03/scotland-by-rail-aberdeen-art-gallery.html).
 
 It’s spacious, fresh and bright, with loads of room for children to move in and lots to interest them. The collection contains some real favourites – Eric Ravilious’ appropriately-named ‘Train Landscape’ among them.
 
@@ -36,19 +36,19 @@ A couple of minutes down the street is St Nicholas Cemetery, a peaceful tree-dap
 
 The River Dee flows into a busy working harbour, lined with old fishing communities. Further on, the [coastal path](http://landscapeartnaturebirds.blogspot.com/2018/05/scotland-by-rail-aberdeen-coastal-walk.html) is abundant with butterflies, birds, grasses & wildflowers, lighthouses and old fortifications. This is a well known spot for bottlenose dolphins, and the RSPB runs their [Dolphinwatch](https://www.rspb.org.uk/get-involved/activities/dolphinwatch/#5teqtogFao35UxOD.99) here every year from April to August.
 
-##### N﻿ow to the more wild and remote Corrour station,on the West Highland Line between Crianlarich and Fort William. 
+###### N﻿ow to the more wild and remote Corrour station,on the West Highland Line between Crianlarich and Fort William.
 
 The train trundles you north through miles of Rannoch Moor before dropping you off at Corrour. There’s a station house and that’s it. [A mile or so down the track, on the edge of Loch Ossian](https://landscapeartnaturebirds.blogspot.com/2012/04/three-days-in-scottish-highlands-loch.html), is a [Hostelling Scotland eco-hostel](https://www.hostellingscotland.org.uk/hostels/loch-ossian/). Train, foot and bike are the only ways to get to it. You bring everything you need and you take away your waste at the end. 
 
 There are [walks](https://landscapeartnaturebirds.blogspot.com/2012/05/loch-ossian-u-shaped-valley-overhead.html) in every direction, and an abundance of wildlife: black-throated divers, nesting waders, golden eagles, red deer and ravens. And oh, those stars at night!
 
-##### F﻿or fans of a nature reserve, on the east coast line a little south of Aberdeen is [Montrose](http://landscapeartnaturebirds.blogspot.com/2014/08/scotland-by-rail-montrose-scotland.html). 
+###### F﻿or fans of a nature reserve, on the east coast line a little south of Aberdeen is [Montrose](http://landscapeartnaturebirds.blogspot.com/2014/08/scotland-by-rail-montrose-scotland.html).
 
 A half hour walk out of town gets you to the Scottish Wildlife Trust’s Montrose Basin visitor centre. There’s such a welcome from the knowledgeable staff and volunteers who are always on hand to point out what there is to be seen in the tidal water, mudflats and pebble shore, the reed beds, hedgerows and wide expanse of sky. Kingfishers, curlews, and 80,000 migrating geese are all to be expected and seen at certain times of year. I’d be there every day if I could.
 
 Montrose is a great place for a holiday, not just a day trip. Other highlights all an hour or less by bike are Montrose beach, Pavilion Cafe (so good), St Cyrus National Nature Reserve, Langley Park Garden, Caledonian (heritage) Railway, Lunan Bay and Red Castle ruins.
 
-##### I love islands. You have the excitement of the train, then the excitement of the ferry, then the excitement of the island itself. 
+##### I love islands. You have the excitement of the train, then the excitement of the ferry, then the excitement of the island itself.
 
 In only four hours on Arran on a day trip from Ardossan Harbour station I was able to visit a cafe, a bakery and a charity shop in Brodick village, walk along field lanes out into the hills where I saw green hairstreak butterflies for the first time in my life and red deer on the hillside circled high overhead by buzzards and a pair of golden eagles. 
 
@@ -56,7 +56,7 @@ Then back through woodland, along the sandy shore, onto the ferry, train to Dalr
 
 Here's [another Arran day](http://landscapeartnaturebirds.blogspot.com/2014/12/scotland-by-rail-ardrossan-and-arran.html): birds, lighthouses, sketches and watercolours.
 
-##### As well as Scotland, train travel puts much of the rest of the UK and Europe within realistic reach. 
+#### As well as Scotland, train travel puts much of the rest of the UK and Europe within realistic reach.
 
 My wife Jennifer and I have taken Eurostar through the Channel Tunnel on various occasions, travelling to Paris, Bruges and Leuven. We even went on a three week tour of Italy all the way from Burntisland, Fife, with an 11 month old.  
 
