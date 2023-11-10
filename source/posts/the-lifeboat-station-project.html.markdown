@@ -41,7 +41,7 @@ I chose the beef. She was right. I can’t remember tasting better beef, nor can
 
 ##### All down to that lush emerald grass, no doubt. 
 
-I had come to County Waterford as part of The Lifeboat Station Project, my eight-year mission to photograph all 238 RNLI lifeboat stations in the UK and Ireland on glass plates. The next day I would meet and photograph the crew and Coxswain of Dunmore East, before heading along the southern Irish coast for some five weeks, hanging the itinerary on my visits to the twelve lifeboat stations punctuating that particular leg of the journey. 
+I had come to County Waterford as part of [The Lifeboat Station Project](https://lifeboatstationproject.com/), my eight-year mission to photograph all 238 RNLI lifeboat stations in the UK and Ireland on glass plates. The next day I would meet and photograph the crew and Coxswain of Dunmore East, before heading along the southern Irish coast for some five weeks, hanging the itinerary on my visits to the twelve lifeboat stations punctuating that particular leg of the journey. 
 
 ![Picture shows an old fashion wooden standing camera taking a picture of a lifeboat team all wearing matching yellow boiler suits with yellow boots. They are standing on a concrete ramp into the sea, with boats in the background. The sky is pale grey.](/images/uploads/lifeboatstationproject-by-jack-lowe_dunmore-east_crew_2017-09-06-scaled-e1612624325322.jpg "The crew of Dunmore East lifeboat station in County Waterford, Ireland")
 
@@ -49,11 +49,11 @@ In those few weeks, I was routinely knocked sideways by the sheer beauty of the 
 
 And the best thing of all? It was really quite close to home.
 
-> "I was knocked sideways by the beauty of Ireland. And the best thing of all? It was really close to home."
+> I was knocked sideways by the beauty of Ireland. And the best thing of all? It was really close to home.
 
 From my home in Newcastle upon Tyne I had driven to Stranraer, then caught the ferry from Cairnryan to Larne in Northern Ireland. Then came the drive south through Ireland to reach Dunmore East. All told, around 11 hours of travelling. 
 
-### “11 hours!” I hear you cry. 
+“11 hours!” I hear you cry. 
 
 Well, they were 11 hours of enjoyable, easy travelling with music, coffee, regular stops and an overnight stay to break the journey, sprinkled with interesting folk along the way. Not to mention the stunning views I’ve already described, and all without an airport in sight. 
 
