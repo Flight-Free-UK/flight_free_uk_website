@@ -9,9 +9,9 @@ summary: Photographer Jack Lowe, on a mission to photograph each of the UK’s 2
 author: FlightFree UK
 read_time_minute: 4
 ---
-## It was the first time I’d ever been to Ireland, and my eyes were on stalks.
+### It was the first time I’d ever been to Ireland, and my eyes were on stalks.
 
- I powered along the motorway tracing south through the countryside, the grass and foliage so dense, rich and green that it seemed to snap at my eyes. 
+##### I powered along the motorway tracing south through the countryside, the grass and foliage so dense, rich and green that it seemed to snap at my eyes. 
 
 “Aha, so that’s why it’s called The Emerald Isle!” I thought.
 
@@ -35,11 +35,11 @@ Then to the question of food. The kitchen was about to close, so I had to be qui
 
 “That’s a tall claim. What if it’s not the best beef I’ll ever taste in my life?” 
 
-“Then you’ll be disappointed. But you won’t be hungry.” came the perfect reply. 
+“Then you’ll be disappointed. But you won’t be hungry,” came the perfect reply. 
 
 I chose the beef. She was right. I can’t remember tasting better beef, nor can I imagine tasting any better again. 
 
-### All down to that lush emerald grass, no doubt. 
+##### All down to that lush emerald grass, no doubt. 
 
 I had come to County Waterford as part of The Lifeboat Station Project, my eight-year mission to photograph all 238 RNLI lifeboat stations in the UK and Ireland on glass plates. The next day I would meet and photograph the crew and Coxswain of Dunmore East, before heading along the southern Irish coast for some five weeks, hanging the itinerary on my visits to the twelve lifeboat stations punctuating that particular leg of the journey. 
 
