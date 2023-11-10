@@ -23,7 +23,7 @@ We live in an age when ‘time is money’ across all industries. Why spend all 
 
 Except now, of course, we are beginning to appreciate the actual cost of all those cheap flights on our planet, and once you start from that position, you realise there are other options available. 
 
-> Now we are beginning to appreciate the actual cost of all those cheap flights on our planet, and once you start from that position, you realise there are other options available. 
+> We are beginning to appreciate the actual cost of all those cheap flights on our planet, and once you start from that position, you realise there are other options available. 
 
 The presenter could have spoken to Greta Thunberg over a live link, or could have taken the train journey and made a valuable point about the lack of rail infrastructure. 
 
