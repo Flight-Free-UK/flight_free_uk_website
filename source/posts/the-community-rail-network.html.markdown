@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Jools: the Community Rail Network"
+title: "Jools Townsend: the Community Rail Network"
 category: testimonials
 date: 2020-04-01T17:57:41.561Z
 cover_image: /images/uploads/jools-testimonial-cover.jpg
