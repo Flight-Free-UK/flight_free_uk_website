@@ -4,13 +4,13 @@ title: "Lee: climate-conscious corporate travel"
 category: testimonials
 date: 2021-04-10T21:20:03.701Z
 cover_image: /images/uploads/lee-testimonial-cover.jpg
-summary: "Lee Jackson from the Lake District shares how reading “The
-  Uninhabitable Earth” led him to change his lifestyle and take the #FlightFree
-  pledge."
+summary: Lee Jackson from the Lake District shares how reading “The
+  Uninhabitable Earth” led him to change his lifestyle and take the Flight Free
+  Pledge.
 author: FlightFree UK
 read_time_minute: 2
 ---
-![](/images/uploads/lee-jackson-quote.jpg)
+![](/images/uploads/lee-testimonial-body.jpg)
 
 ### Over the course of my career I have mostly worked in the travel industry or as a service provider to it. I actually spent three years working for an airline which I really enjoyed. 
 
