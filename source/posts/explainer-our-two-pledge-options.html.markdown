@@ -11,9 +11,9 @@ summary: At Flight Free UK we challenge people to take a year off flying. We
 author: FlightFree UK
 read_time_minute: 3
 ---
-### Our main method of behaviour change is for people to be completely flight free for a year. 
+## Our main method of behaviour change is for people to be completely flight free for a year. 
 
-### Why do we ask people to do this?
+## Why do we ask people to do this?
 
 #### To reduce emissions
 
@@ -37,7 +37,7 @@ We humans are heavily influenced by each other, so if we see lots of people taki
 
 For lots of people, taking a flight free year is a big commitment, but we want to communicate that at this point in the climate crisis, we need to be taking big steps to reduce our emissions, and that means making big changes in our lives.
 
-### For those who can’t be completely flight free for a year, we also offer a ‘free choice’ pledge.
+## For those who can’t be completely flight free for a year, we also offer a ‘free choice’ pledge.
 
 Everybody’s circumstances are different, and there might be a reason why you can’t avoid all flights for a year. For this reason, people can make their own pledge which suits their personal circumstances.
 
