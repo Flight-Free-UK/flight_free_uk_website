@@ -8,10 +8,6 @@ summary: The government has big plans to reduce aviation emissions. But will it 
 author: FlightFree UK
 read_time_minute: 9
 ---
-## It has a certain ring to it, doesn’t it? Jet Zero.
-
-### You can almost picture the strategy meeting: “How can we reduce our emissions from jet planes to reach net zero? Hang on, net rhymes with jet! Net zero, Jet Zero! It’s brilliant!”
-
 It’s a great name but that might be where the greatness stops. Underneath all the shiny optimism is a lot of guesswork and some grand statements that do anything but suggest the one thing that might actually make a difference: to look at our lifestyles and change the way we live.
 
 The government's [Jet Zero plan](https://www.gov.uk/government/consultations/achieving-net-zero-aviation-by-2050) boldly speaks of the UK “leading the way” in finding the solutions to climate change. Yet it begins with a telling statement: “Our ambition is to decarbonise aviation in a way that preserves the benefits of air travel…”
