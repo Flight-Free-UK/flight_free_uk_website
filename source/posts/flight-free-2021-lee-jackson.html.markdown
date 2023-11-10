@@ -12,26 +12,30 @@ read_time_minute: 2
 ---
 ![](/images/uploads/lee-jackson-quote.jpg)
 
-## My job was discontinued due to the Covid impact on Corporate Travel.
+### Over the course of my career I have mostly worked in the travel industry or as a service provider to it. I actually spent three years working for an airline which I really enjoyed. 
 
-### Over the course of my career I have mostly worked in the Travel Industry or as a service provider to it, in the last decade through roles for payment companies.
+##### I worked for a US company with regular trips across the Atlantic for a while, and in general I can look back on a privileged existence from a career in the travel sector.
 
-I spent three years working for an airline which I really enjoyed. I worked for a US company with regular trips across the Atlantic for a while, and in general I can look back on a privileged existence from a career in the travel sector.
+That privilege became tested a few of years ago after reading, amongst other material, “The Uninhabitable Earth.” I realised that I could be amongst the final generation to experience the peace, comfort and wealth that we have come to take for granted in the developed world. 
 
-That privilege became tested a couple of years ago after reading, amongst other material, “The Uninhabitable Earth”. I realised that I could be amongst the final generation to experience the peace, comfort and wealth that we have come to take for granted in the developed world. 
+Along with an industry colleague I started a group called CACTUS to create conversations on Climate Action within Corporate Travel. Our aim was to have difficult conversations, and this has been the case.
 
-> “I realised that I could be amongst the final generation to experience the peace, comfort and wealth that we have come to take for granted.“
+Through this work, I'm often asked by individuals what they can do personally to make a difference.
 
-Along with an industry colleague I started a group called CACTUS to create conversations on Climate action within Corporate Travel. Our aim was to have difficult conversations, and this has been the case.
+From the perspective of avoiding meaningful levels of emissions, and from personal experience, one of the most impactful and easy actions an individual can take is to reduce flying, and importantly, to actively talk about that commitment.
 
-Whilst governments make increasingly bold pledges to reduce emissions, the carbon concentration remains at the highest level for 800,000 years, and yet I am expected to accept that there is a NEED for one of the most carbon intensive activities on the planet to continue unhindered while we scrabble around for alternative energy sources.
+> One of the most impactful and easy actions an individual can take is to reduce flying, and importantly, to actively talk about that commitment.
+
+I reckon my personal carbon footprint back in 2016 would have been circa 40 tonnes of CO2e, around four times the UK average, with the majority of that made up of flights.
 
 Of all the changes I have felt obliged to make, the decision not to fly seems to be the least problematic. When future generations depend on our immediate action to cut the emissions now then the frivolous nature of a flight for another holiday seems ludicrous and utterly lacking in leadership.
 
-> ”Of all the changes I have felt obliged to make, the decision not to fly seems to be the least problematic.”
+Since making the commitment not to fly I've continued to enjoy some amazing places and experiences, many closer to home but also many involving wonderful rail journeys across the European landscape. I've hiked, skied and swum in some fantastic locations and spent a great deal less along the way.
 
-I was born amidst the Yorkshire Coalfields, my paternal Grandfather was a miner, and we all accept that the coal has to stay in the ground. I am the son of a dairy farmer and milked the herd for a short time – another role that doesn’t work in our survival model. And it now sits with my generation to accept that some activities have to change in order for the next generation to have a habitable world.
+> Since making the commitment not to fly I've continued to enjoy some amazing places and experiences.
 
-Electric flight and sustainable air fuels may offer promise in a decade’s time but this is the very decade that we have to stop the damage. 
+Electric flight and sustainable air fuels may offer promise in a decade’s time but this is the very decade that we have to stop the damage.
 
-### If there is a need for these journeys to take place then surely that should be for urgent medical aid, diplomatic missions, and other vital causes. My summer holiday, adventure, ski break or corporate jolly doesn’t qualify as any of these.
+If there is a need for these journeys to take place then surely that should be for urgent medical aid, diplomatic missions, and other vital causes. My summer holiday, adventure, ski break or corporate jolly doesn’t qualify as any of these.
+
+##### There may be a time in the future where circumstances dictate that a journey by air is necessary, but until that time it seems an easy and logical step to stop adding unnecessary fuel to a fast-increasing fire.
