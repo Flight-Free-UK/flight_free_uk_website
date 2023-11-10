@@ -2,7 +2,7 @@
 published: true
 title: "Lee: climate-conscious corporate travel"
 category: testimonials
-date: 2021-04-10T21:20:03.701Z
+date: 2023-05-30T21:20:03.701Z
 cover_image: /images/uploads/lee-testimonial-cover.jpg
 summary: Lee Jackson from the Lake District shares how reading “The
   Uninhabitable Earth” led him to change his lifestyle and take the Flight Free
