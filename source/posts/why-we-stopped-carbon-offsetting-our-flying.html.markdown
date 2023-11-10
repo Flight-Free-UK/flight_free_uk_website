@@ -11,9 +11,9 @@ read_time_minute: 4
 ---
 ![Picture shows a women wearing a purple jumper and a purple scarf. She is on the beach looking out to the sea and she has her back to the camera. ](/images/uploads/linda-thomas.jpg)
 
-### When we fell in love, we both worked hard in ‘caring’ professions, and going on adventures to the other side of the world was one of our treats. We thought we’d earned it. 
+### When we fell in love, we both worked hard in ‘caring’ professions, and going on adventures to the other side of the world was one of our treats. We thought we’d earned it.
 
-##### We felt like responsible tourists, keen to explore local cultures and wildlife. Happy to tip local guides and to buy hand crafted items direct from local artisans without unscrupulous bargaining. 
+##### We felt like responsible tourists, keen to explore local cultures and wildlife. Happy to tip local guides and to buy hand crafted items direct from local artisans without unscrupulous bargaining.
 
 Then the magazine arrived. An article in ‘The Ecologist’ about the impact of flying. 
 
@@ -45,9 +45,11 @@ We enjoy our train journeys, usually incorporating a city stay en route in Paris
 
 We have also given up work flying too. This was not such a big deal for us compared with many people, but it still matters. Giving up flying for work has a double impact and a triple impact if you also have a high profile job. In the words of Professor Julia Steinberger our “ripple effect” is even more important than our personal impact. If we stop flying and inform others why we are doing so then we can bring about more change than just changing our own behaviour. 
 
+> If we stop flying and inform others why we are doing so then we can bring about more change than just changing our own behaviour. 
+
 When you offer alternatives or turn down something altogether because of flying, by its very nature you are then causing another organisation to think about flying and their business. This might be fleeting or it might be a game changer, so never doubt that saying no to one flight can have an impact.
 
-#### There are three important questions to ask yourself:
+###### There are three important questions to ask yourself:
 
 1. Do I believe climate change is real?
 2. Do I want to respond to it?
