@@ -48,6 +48,6 @@ There is clearly much to be done, as we rebuild from Covid-19, to make travellin
 
 These joys are showcased on [Scenic Rail Britain](https://communityrail.org.uk/resources-ideas/scenic-rail-britain/), so while we’re feeling cooped up and unsettled, let's think forward to green, exciting, scenic adventures, and encourage friends and family to do the same. 
 
-#### We have an opportunity to bring something good out of this situation, to reimagine travel as something more immersive, stimulating and wonderful for the traveller, and positive, sustainable and empowering for local communities and their places.
+##### We have an opportunity to bring something good out of this situation, to reimagine travel as something more immersive, stimulating and wonderful for the traveller, and positive, sustainable and empowering for local communities and their places.
 
 ![Picture shows Jools next to a stationary train in Penzance station. She's smiling and carrying a large rucksack. ](/images/uploads/jools-penzance.jpeg "Jools arriving in Penzance")
