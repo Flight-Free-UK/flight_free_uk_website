@@ -1,7 +1,7 @@
 ---
 published: false
 title: "Ice & imagination: flight of fancy? "
-category: climate
+category: opinion
 date: 2019-08-01T12:30:30.244Z
 cover_image: /images/uploads/ice-imagination-blog-image-.jpg
 summary: Pondering the looming possibility of an ice free world, Bruce Gulland
