@@ -34,9 +34,9 @@ Due to Covid-19, our members have scaled back many of their usual community rail
 
 We will need to redouble efforts to nurture local cohesion, inclusion, togetherness and efficacy, and we will need to grapple with the longer-term crisis we face with our climate. But we’ll surely also have an opportunity to re-orientate our communities and lifestyles more around care for and connectedness with one another, our environment and our future.
 
-> We'll need to redouble efforts to nurture local cohesion, inclusion, togetherness and efficacy, and we'll need to grapple with the longer-term climate crisis.
-
 This opportunity and need to re-orientate ourselves and our communities very much applies to transport and travel, and we have much to gain from this. Many lament air travel as too fast, too disorientating, and too detached not only from the places you pass through but the places you go: literally lifting you out of the world and plonking you down, with no sense of a journey, or the journey being part of the experience. 
+
+> Air travel is too fast, too disorientating, and too detached not only from the places you pass through but the places you go: literally lifting you out of the world and plonking you down, with no sense of a journey, or the journey being part of the experience. 
 
 Package holidays by air (and cruises) exacerbate the separation from local communities further, and the weak economic gains of this type of travel due to ‘capital flight’ (big companies extracting funds rather than money being spent with local people) fail to compensate local environmental damage. 
 
@@ -45,6 +45,8 @@ To an extent, this also applies to driving on holiday, hence the slow travel mov
 It’s also plain to see and hear at any popular tourist spot – and indeed almost every place where we live, work and visit – how cars clog up, pollute, endanger and spoil villages, towns, cities, and what should be lovely spaces, not only for visitors, but people who live there.
 
 There is clearly much to be done, as we rebuild from Covid-19, to make travelling by rail, bus, walking and cycling, easier, more joined up and natural, and community rail will continue to work with partners towards this goal. But another big challenge is to reset our outlook, to stop seeing flying or driving as the default, and realise that sustainable travel is also the community-orientated and the aspirational option, acknowledging the great benefits both for travellers, communities, and places we visit, of travelling by train, bus, foot and cycle.
+
+> We need to stop seeing flying or driving as the default, and realise that sustainable travel has great benefits for travellers, communities, and places we visit.
 
 These joys are showcased on [Scenic Rail Britain](https://communityrail.org.uk/resources-ideas/scenic-rail-britain/), so while we’re feeling cooped up and unsettled, let's think forward to green, exciting, scenic adventures, and encourage friends and family to do the same. 
 
