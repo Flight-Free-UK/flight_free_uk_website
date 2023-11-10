@@ -65,11 +65,11 @@ It’s a realignment that I feel is worth considering and pursuing more than eve
 
 “It’s now or never,” we’re frequently told yet we’re often left feeling helpless, not knowing what we can personally do to break the cycle.
 
-### My Lifeboat Station Project has shown me a way to break that cycle.
+##### My Lifeboat Station Project has shown me a way to break that cycle.
 
 Six years and over 150 lifeboat stations later I have seen remote corners of the UK and Ireland with such astounding beauty that I otherwise would never have known existed. 
 
-> "I have seen remote corners of the UK and Ireland with such astounding beauty that I otherwise would never have known existed."
+> I have seen remote corners of the UK and Ireland with such astounding beauty that I otherwise would never have known existed.
 
 Some particular highlights spring to mind: 
 
@@ -87,10 +87,10 @@ The dreamy tidal inlets of East Anglia, brimming with coastal birds and magnific
 
 ![Picture shows a small pier with an orange lifeboat and a few smaller boats at the end of it. The sea is a muted turquoise green and the sky is moody with dark clouds. There are green hills in the background. ](/images/uploads/lifeboatstationproject-by_jacklowe_salcombe_lifeboat_2020-03-05-scaled-e1608399283478.jpg "The lifeboat at Salcombe, Devon")
 
-### For me, lifeboat stations are a wonderment, bristling with state-of-the-art gear and gadgetry – perfect inspiration for younger souls, perhaps even rekindling some of the youth buried within older souls too! 
+##### For me, lifeboat stations are a wonderment, bristling with state-of-the-art gear and gadgetry – perfect inspiration for younger souls, perhaps even rekindling some of the youth buried within older souls too! 
 
 The memories and experiences of my journey around our islands are too numerous to count. It’s easy to overlook our own shores, but we are blessed with a coastline as beautiful and varied as any in the world, and one that we can explore for a fraction of the emissions of a flight.
 
-#### Its treasures are all within easy reach if ever I choose to revisit them, something I will undoubtedly pursue for the rest of my days. 
+##### Its treasures are all within easy reach if ever I choose to revisit them, something I will undoubtedly pursue for the rest of my days. 
 
-*To read more about Jack and his Lifeboat Station Project, go here:  <https://lifeboatstationproject.com/>*
+*Y﻿ou can read more about Jack and his Lifeboat Station Project here:  <https://lifeboatstationproject.com/>*
