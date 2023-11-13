@@ -1,6 +1,6 @@
 <div class="text-sm xl:text-base mb-4 sm:mb-12 xl:mb-16 flex flex-wrap items-center">
   <span class="hidden xl:block mr-2 xl:mr-8 mb-2">Jump to:</span>
-  <% [["Testimonials", "testimonials"], ["How-to", "how-to"], ["Explainer", "explainer"], ["Climate", "climate"], ["Policy position", "policy-position"], ["Opinion", "opinion"]].each do |label, id| %>
+  <% [["Explainer", "explainer"], ["How-to", "how-to"], ["Testimonials", "testimonials"], ["Policy position", "policy-position"], ["Opinion", "opinion"]].each do |label, id| %>
       <a href="#<%= id %>" class="border border-blue-dark <%= category == id ? "bg-blue-dark text-gray-light" : "" %> mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full"><%= label %></a>
   <% end %>
       <a href="/how_to/#destination-inspiration" class="border border-blue-dark mr-1 xl:mr-4 mb-2 px-4 xl:px-6 py-1 rounded-full">Travel</a>
