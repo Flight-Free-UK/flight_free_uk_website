@@ -9,11 +9,11 @@ summary: MSc student Abi Whitefield refused to go on her university field trip,
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows Abi standing infront of a large lake. There are low mountains in the background and the sky is overcast and gloomy. ](/images/uploads/abi-whitfield.jpg "Abi Whitefield")
+![Picture shows Abi standing infront of a large lake. There are low mountains in the background and the sky is overcast and gloomy. ](/images/uploads/abi-testimonial-body.jpg "Abi Whitefield")
 
-### The MSc at Edinburgh was really the only course I wanted to apply for as a masters. There weren't any other degrees like it within the UK. 
+### The MSc at Edinburgh was really the only course I wanted to apply for as a masters. There weren't any other degrees like it within the UK.
 
-##### I knew from the open day that there used to be a trip to France, but it had switched to Morocco a few years back. 
+##### I knew from the open day that there used to be a trip to France, but it had switched to Morocco a few years back.
 
 Field trips to exotic locations seem to be quite a theme amongst many of the MSc options in GeoScience at Edinburgh, with some going to the Maldives, and areas in South America and Africa. 
 
