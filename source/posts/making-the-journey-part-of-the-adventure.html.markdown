@@ -9,6 +9,8 @@ summary: In deciding not to fly, Athlyn Cathcart-Keays discovers how the journey
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/athlyn-testimonial-body.jpg)
+
 ### Since my birth in 1991, my mother has kept a diary of the trips and holidays I’ve been on.
 
 ##### Starting with a trip from Canada (my birthplace) to Germany (where my aunt lives) in February 1992 as a 6 month old baby, I’ve been to a lot of different places.
