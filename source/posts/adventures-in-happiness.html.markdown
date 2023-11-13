@@ -3,7 +3,7 @@ published: true
 title: "Christopher: adventures in happiness"
 category: testimonials
 date: 2019-05-16T14:53:32.344Z
-cover_image: /images/uploads/happy-boyce-1.jpg
+cover_image: /images/uploads/christophe-testimonial-cover.jpg
 summary: "After travelling for eighteen months through Europe, South and North
   America and Asia, Christopher ended up in Bhutan. But the carbon footprint of
   his journey led him to question his motivations and consider giving up flying
@@ -11,9 +11,9 @@ summary: "After travelling for eighteen months through Europe, South and North
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows man on bicycle parked at the side of a mountain road. He has his back to the camera and is looking over the edge. In the distance are mountain tops and rolling clouds. ](/images/uploads/happy-boyce-1.jpg)
+![Picture shows man on bicycle parked at the side of a mountain road. He has his back to the camera and is looking over the edge. In the distance are mountain tops and rolling clouds. ](/images/uploads/christopher-testimoinal-body.jpg)
 
-### I am flying back to the UK from Delhi today. At least it is a direct flight I tell myself. 
+### I am flying back to the UK from Delhi today. At least it is a direct flight I tell myself.
 
 ##### Though that doesn’t do very much to appease the awkwardness I feel about flying. . .
 
@@ -33,7 +33,7 @@ Though is it only about my personal happiness? I think not.
 
 I’d like to think there were wider benefits to my journey, that I contributed to the lives of people I met along the way and that what I wrote about happiness will have been of some use to others. Maybe a little of what I learnt from the many inspiring and happy lands I passed through will one day help me implement ideas back home.
 
-##### Yet I have to balance all this with the wider environmental impact of my travel. 
+##### Yet I have to balance all this with the wider environmental impact of my travel.
 
 It will certainly have negative consequences on the happiness and well-being of others, including future generations and other species. I don’t feel very personally happy when I think too much about all of this. 
 
@@ -46,3 +46,5 @@ Everywhere there is beauty, but sometimes to see and feel that beauty we may hav
 ##### I can’t see any good reason for me to fly again.
 
 And so once I am back in the UK I am committing to not flying for at least the next 5 years, and it may even end up being for the rest of my life unless I can see a good case for it. Anyone else want to come with me, or indeed stay with me and be happy looking at the flowers. . .
+
+![](/images/uploads/happy-boyce-1.jpg)
