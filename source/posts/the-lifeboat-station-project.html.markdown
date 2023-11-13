@@ -9,6 +9,8 @@ summary: Photographer Jack Lowe, on a mission to photograph each of the UK’s 2
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/jack-testimonial-body.jpg)
+
 ### It was the first time I’d ever been to Ireland, and my eyes were on stalks.
 
 ##### I powered along the motorway tracing south through the countryside, the grass and foliage so dense, rich and green that it seemed to snap at my eyes. 
