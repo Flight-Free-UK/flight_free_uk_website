@@ -8,6 +8,14 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
+  - name: Emily Taylor Kent
+    role: Social media
+    bio: Based in Bristol, Emily volunteers for sustainable shopping and events
+      space Sparks and works as a music venue steward. Through her Geography
+      degree she learned about climate change and the important role that
+      transport plays in sustainable transitions. Her dream flight-free trip
+      would be interrailing across Europe.
+    photo: /images/uploads/emilytk.jpg
   - name: Evie Vouillemin
     role: Podcast
     photo: /images/uploads/evie_vouillemin.jpg
@@ -23,6 +31,15 @@ members:
       Lights as their dream flight-free trip, but a close second comes the Trans
       Siberian railway – while wishing for peace in that region.
     photo: /images/uploads/gemma.jpg
+  - name: Hannah Blair
+    role: Social media
+    bio: School leaver Hannah lives in Milton Keynes and manages a gelato shop. She
+      is currently studying 'Making Positive Social Change' by the Open
+      University and Oxfam, focusing on strengthening her skills to become a
+      Changemaker in a variety of ways. Her dream flight free trip would be
+      interrailing Europe, exploring countries like France, Germany, and Spain
+      by train.
+    photo: /images/uploads/hannah-blair.jpg
   - name: Isabella Chalmers-Arnold
     role: Social media
     photo: /images/uploads/isabella_chalmers-arnold.jpg
@@ -54,11 +71,3 @@ members:
       eco-credentials through cycling everywhere. A dream flight free trip would
       understandably be by bike, around Europe, inspired by a recent family bike
       adventure in Norway.
-  - name: Emily Taylor Kent
-    role: Social media
-    bio: Based in Bristol, Emily volunteers for sustainable shopping and events
-      space Sparks and works as a music venue steward. Through her Geography
-      degree she learned about climate change and the important role that
-      transport plays in sustainable transitions. Her dream flight-free trip
-      would be interrailing across Europe.
-    photo: /images/uploads/emilytk.jpg
