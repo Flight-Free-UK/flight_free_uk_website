@@ -19,7 +19,7 @@ And that’s before we get to the views! Seeing the landscape steadily change ou
 
 To top it off, the emissions savings are huge. On average, trains in the UK emit 6 times less CO2 than the equivalent flight, and on the continent, where most trains are electrified, the emissions are 10 times less. 
 
-For short-haul flights, the time taken travelling is about the same as the train equivalent by the time you have factored in check-in and transfers. We are firmly of the opinion there are no disadvantage to travelling by train – only advantages!
+For short-haul flights, the time taken travelling is about the same as the train equivalent by the time you have factored in check-in and transfers. We are firmly of the opinion there are no disadvantages to travelling by train – only advantages!
 
 If you haven't already explored [seat61.com](http://seat61.com), take a look. This encyclopaedic website gives information about travelling to every country in the world without flying, and comes highly recommended. 
 
@@ -55,7 +55,7 @@ High speed trains always require an advanced booking, both in the UK and abroad,
 
 By high speed train it's possible to reach Berlin, Barcelona or Milan in a single day from the UK.
 
-## Onwards travel by regional train 
+## Onwards travel by regional train
 
 Local trains are a great option if you want to explore a single country rather than travel across the continent. They are usually cheaper, with no booking required, and you can bring bikes and as much luggage as you like, though the seating is not usually quite as comfortable as high-speed trains and there are limited facilities. But it’s a fantastic option for exploring at lower speed and low cost.
 
