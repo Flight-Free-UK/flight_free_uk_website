@@ -77,6 +77,12 @@ Go to the [Interrail website](https://www.interrail.eu/en) for the options, whic
 
 UK residents can buy an Interrail pass (it is for residents of Europe, which we are, geographically if not politically). Overseas visitors would need to buy a Eurail pass.
 
+## Finding routes and buying tickets
+
+The encyclopaedic website The Man in Seat 61 [seat61.com](http://seat61.com) gives information about travelling to every country in the world without flying, and comes highly recommended. The site will tell you everything you need to know, with maps, pictures of the trains, information on cost and tickets, and tips on making the journey flow smoothly. 
+
+RailEurope will sell you tickets for most rail journeys across Europe, regardless of the rail provider. You can also set alerts with Rail Europe that will let you know when tickets go on sale. The Trainline is also a great place to buy tickets for multi-country travel.
+
 ## Connections 
 
 Speak to your train conductor if you have a connection to make, especially if you don't have long to make it. They will probably be able to tell you the platform you need to go to. Sometimes if the train you're on is delayed, they will hold your connecting train for you, or at least accept your ticket on the next one. 
