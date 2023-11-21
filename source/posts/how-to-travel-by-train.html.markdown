@@ -9,6 +9,8 @@ summary: It's the ultimate in no-fly travel, so here are some pointers if you're
 author: FlightFree UK
 read_time_minute: 5
 ---
+![](/images/uploads/train_countryside_canva.jpg)
+
 ## Why travel by train?
 
 ### Trains are the ultimate in no-fly travel: fast and efficient, they can transport you quickly from one country to the next with none of the space restriction or discomfort of a flight. Typically bringing you direct to the city centre, you can disembark and jump straight into your holiday without worrying about lengthy and expensive transfers.
@@ -19,7 +21,7 @@ And that’s before we get to the views! Seeing the landscape steadily change ou
 
 To top it off, the emissions savings are huge. On average, trains in the UK emit 6 times less CO2 than the equivalent flight, and on the continent, where most trains are electrified, the emissions are 10 times less. 
 
-![](/images/uploads/lon-barc.jpg)
+![](/images/uploads/london-barcelona.jpg)
 
 For short-haul flights, the time taken travelling is about the same as the train equivalent by the time you have factored in check-in and transfers. We are firmly of the opinion there are no disadvantages to travelling by train – only advantages!
 
