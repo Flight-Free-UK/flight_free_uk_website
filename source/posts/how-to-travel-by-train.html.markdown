@@ -11,17 +11,17 @@ read_time_minute: 5
 ---
 ## Why travel by train?
 
-Trains are the ultimate in no-fly travel: fast and efficient, they can transport you quickly from one country to the next with none of the space restriction or discomfort of a flight. Typically bringing you direct to the city centre, you can disembark and jump straight into your holiday without worrying about lengthy and expensive transfers.
+### Trains are the ultimate in no-fly travel: fast and efficient, they can transport you quickly from one country to the next with none of the space restriction or discomfort of a flight. Typically bringing you direct to the city centre, you can disembark and jump straight into your holiday without worrying about lengthy and expensive transfers.
 
-Plug sockets, wifi and tables mean you can spend your time working, reading, sleeping or anything you choose. You can get up and go to the cafe bar or toilet at any time, or you can bring your own picnic and start your holiday in style. A train journey is something to be enjoyed, rather than endured.
+##### Plug sockets, wifi and tables mean you can spend your time working, reading, sleeping or anything you choose. You can get up and go to the cafe bar or toilet at any time, or you can bring your own picnic and start your holiday in style. A train journey is something to be enjoyed, rather than endured.
 
 And that’s before we get to the views! Seeing the landscape steadily change out of the window enriches the journey and enhances your understanding and anticipation of the place you are travelling towards in a way that doesn’t happen with other forms of travel. It is nostalgic, but at the same time, completely modern. 
 
 To top it off, the emissions savings are huge. On average, trains in the UK emit 6 times less CO2 than the equivalent flight, and on the continent, where most trains are electrified, the emissions are 10 times less. 
 
-For short-haul flights, the time taken travelling is about the same as the train equivalent by the time you have factored in check-in and transfers. We are firmly of the opinion there are no disadvantages to travelling by train – only advantages!
+![](/images/uploads/lon-barc.jpg)
 
-If you haven't already explored [seat61.com](http://seat61.com), take a look. This encyclopaedic website gives information about travelling to every country in the world without flying, and comes highly recommended. 
+For short-haul flights, the time taken travelling is about the same as the train equivalent by the time you have factored in check-in and transfers. We are firmly of the opinion there are no disadvantages to travelling by train – only advantages!
 
 ## Cost
 
@@ -63,7 +63,7 @@ Local trains are a great option if you want to explore a single country rather t
 
 Travelling while you sleep is a great way to make the most of your time and money. There is now an extensive network of sleeper trains across Europe, including two routes in the UK: the Caledonian Sleeper from Scotland to London and the Night Riviera between London and Plymouth. 
 
-On the continent, look for Nightjet (Austrian railways linking Netherlands, Belgium, Germany, Austria, Switzerland and Italy), European Sleeper (Brussels-Berlin), Intercity Notte (Italy) Intercités de Nuit (France), and others on this page: <https://www.seat61.com/sleepers.htm> 
+On the continent, look for Nightjet (Austrian railways linking Netherlands, Belgium, Germany, Austria, Switzerland and Italy), European Sleeper (Brussels-Berlin), Intercity Notte (Italy), Intercités de Nuit (France), and others on this page: <https://www.seat61.com/sleepers.htm> 
 
 Prices vary depending on whether you go for a berth (full bed), a couchette (bunk beds that fold down from the walls) or a seat, but it's always a bargain compared to a hotel. 
 
