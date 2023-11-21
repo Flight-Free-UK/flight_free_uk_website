@@ -89,6 +89,6 @@ Alternatively, go direct to the train provider websites: [SNCF](https://www.sncf
 
 Speak to your train conductor if you have a connection to make, especially if you don't have long to make it. They will probably be able to tell you the platform you need to go to. Sometimes if the train you're on is delayed, they will hold your connecting train for you, or at least accept your ticket on the next one. 
 
-In most cities, there’s only one train station so it’s just a matter of changing platform. In some bigger cities you might have to change. Here’s some advice for getting across Paris. 
+In most cities, there’s only one train station so it’s just a matter of changing platform. In some bigger cities you might have to change. If you are travelling to anywhere in Spain, Italy, France, Switzerland or Austria, you’ll very likely have to change stations in Paris. Here's our guide for how to do that. 
 
-W﻿e love to hear stories about newbies and aficionados alike taking the train for their holidays, so get in touch if you have a story to share!
+##### W﻿e love to hear stories about newbies and aficionados alike taking the train for their holidays, so [get in touch](<mailto: info@flightfree.co.uk>) if you have a story to share!
