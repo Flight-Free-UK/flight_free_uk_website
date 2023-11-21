@@ -61,7 +61,7 @@ Local trains are a great option if you want to explore a single country rather t
 
 ## Sleeper trains
 
-Travelling while you sleep is a great way to make the most of your time and money. There is now an extensive network of sleeper trains across Europe, including two routes in the UK: the Caledonian Sleeper from Scotland to London and the Night Riviera between London and Plymouth. 
+Travelling while you sleep is a great way to make the most of your time and money. There is now an extensive network of sleeper trains across Europe, including two routes in the UK: the [Caledonian Sleeper](https://www.sleeper.scot/) from Scotland to London and the [Night Riviera](https://www.gwr.com/travelling-with-us/night-riviera-sleeper) between London and Plymouth. 
 
 On the continent, look for Nightjet (Austrian railways linking Netherlands, Belgium, Germany, Austria, Switzerland and Italy), European Sleeper (Brussels-Berlin), Intercity Notte (Italy), Intercités de Nuit (France), and others on this page: <https://www.seat61.com/sleepers.htm> 
 
