@@ -83,7 +83,7 @@ The encyclopaedic website [The Man in Seat 61](http://seat61.com) gives informat
 
 [RailEurope](https://www.raileurope.com/) will sell you tickets for most rail journeys across Europe, regardless of the rail provider. You can also set alerts with Rail Europe that will let you know when tickets go on sale. The [Trainline](https://www.thetrainline.com/) is also a great place to buy tickets for multi-country travel.
 
-Alternatively, go direct to the train provider websites: SNCF (France), Deutsche Bahn (Germany), Renfe (Spain), Trenitalia (Italy) or OBB (Austria) (see [seat61.com](http://seat61.com) for others).
+Alternatively, go direct to the train provider websites: [SNCF](https://www.sncf.com/en) (France), [Deutsche Bahn](https://int.bahn.de/en) (Germany), [Renfe](https://www.renfe.com/es/en) (Spain), [Trenitalia](https://www.trenitalia.com/en.html) (Italy) or [OBB](https://www.oebb.at/en/) (Austria) (see [seat61.com](http://seat61.com) for others).
 
 ## Connections 
 
