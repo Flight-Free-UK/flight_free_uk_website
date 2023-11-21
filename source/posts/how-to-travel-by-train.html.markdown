@@ -35,13 +35,13 @@ Trains do often cost more than planes, especially when considering all the dirt-
 Having said all that, it is very possible to get cheap fares! 
 
 * Book in advance
-* Try Interrail (see below)
-* Split your ticket 
+* Try [Interrail](https://www.interrail.eu/en) (see below)
+* [Split your ticket ](https://www.splitmyfare.co.uk)
 * Use slower, local trains
 
 ## Eurostar
 
-If you're travelling by train to the continent, chances are your journey will begin with the Eurostar (unless you cross to continental Europe on the ferry, then continue by train – see ‘how to travel by ferry’ for help with that). 
+If you're travelling by train to the continent, chances are your journey will begin with the [Eurostar](https://www.eurostar.com/uk-en) (unless you cross to continental Europe on the ferry, then continue by train – see ‘[how to travel by ferry](/post/how-to-travel-by-ferry/)’ for help with that). 
 
 The Eurostar is fantastic – easy check-in, comfortable seating, and fast, efficient and reliable travel to Paris, Lille, Brussels or Amsterdam (until 2024). Cheap fares are available in advance, though they can be very limited.
 
@@ -69,9 +69,9 @@ Prices vary depending on whether you go for a berth (full bed), a couchette (bun
 
 ## Interrail
 
-Far from just being a gap-year rite-of-passage for students, the Interrail pass is a terrific way to see Europe at a bargain price. A pass could reduce the cost of your travel even if you are only going to one destination.
+Far from just being a gap-year rite-of-passage for students, the [Interrail pass](https://www.interrail.eu/en/interrail-passes/global-pass) is a terrific way to see Europe at a bargain price. A pass could reduce the cost of your travel even if you are only going to one destination.
 
-Go to the Interrail website for the options, which include anything from country passes to month-long passes for travel across all 33 Interrail countries. The pass includes travel within your home country as long as you enter Europe on the same day.
+Go to the [Interrail website](https://www.interrail.eu/en) for the options, which include anything from country passes to month-long passes for travel across all 33 Interrail countries. The pass includes travel within your home country as long as you enter Europe on the same day.
 
 UK residents can buy an Interrail pass (it is for residents of Europe, which we are, geographically if not politically). Overseas visitors would need to buy a Eurail pass.
 
