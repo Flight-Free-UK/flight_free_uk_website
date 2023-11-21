@@ -45,7 +45,7 @@ If you're travelling by train to the continent, chances are your journey will be
 
 The Eurostar is fantastic – easy check-in, comfortable seating, and fast, efficient and reliable travel to Paris, Lille, Brussels or Amsterdam ([but not in 2024](https://www.euronews.com/travel/2023/06/05/eurostars-london-amsterdam-trains-to-be-suspended-for-almost-a-year-from-2024)). Cheap fares are available in advance, though they can be very limited. 
 
-It's possible to travel to London from anywhere in the UK in one day, and there are cheap accommodation options near St Pancras station to facilitate onward travel by Eurostar the following day. Or you could split the journey in Paris (expensive), Lille (much cheaper!) or Brussels, ready to continue the next day.
+It's possible to travel to London from anywhere in the UK in one day, and there are [cheap accommodation options](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-kings-cross.html) near St Pancras station to facilitate onward travel by Eurostar the following day. Or you could split the journey in Paris (expensive), Lille (much cheaper!) or Brussels, ready to continue the next day.
 
 ## O﻿nwards travel by high speed train
 
