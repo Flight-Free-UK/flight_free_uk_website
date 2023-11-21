@@ -51,7 +51,7 @@ It's possible to travel to London from anywhere in the UK in one day, and there 
 
 ## O﻿nwards travel by high speed train
 
-Like in the UK, countries in continental Europe offer high-speed/intercity trains or local/regional trains. In France this is the TGV, in Italy it’s Frecciarossa, in Spain it’s AVE, in Germany ICE. These trains make it very easy to get around in comfort and style.
+Like in the UK, countries in continental Europe offer high-speed/intercity trains as well as local/regional trains. In France this is the TGV, in Italy it’s Frecciarossa, in Spain it’s AVE, in Germany ICE. These trains make it very easy to get around in comfort and style. 
 
 High speed trains always require an advanced booking, both in the UK and abroad, and you might find some restriction on luggage and bicycles.
 
