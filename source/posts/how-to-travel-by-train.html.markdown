@@ -1,6 +1,6 @@
 ---
 published: true
-title: "How to: travel by train"
+title: How to travel by train
 category: how-to
 date: 2023-11-20T16:42:09.813Z
 cover_image: /images/uploads/train-station-canva.jpg
