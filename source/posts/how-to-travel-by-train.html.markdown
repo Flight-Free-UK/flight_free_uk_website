@@ -31,11 +31,11 @@ For short-haul flights, the time taken travelling is about the same as the train
 
 ## Cost
 
-Trains do often cost more than planes, especially when considering all the dirt-cheap flights out there. However, it’s not always cheaper to fly, and there are some important things to remember about train travel and cost:
+Trains do often cost more than planes, especially when considering all the dirt-cheap flights out there. However, it’s not always cheaper to fly, and there are some important things to remember about train travel and cost: 
 
 * air travel is exempt from tax, making it artificially cheap
 * when you factor in transfers, luggage costs etc, the price of the flight gets much closer to the cost of the train
-* bear in mind that when you fly, you're paying for a small seat and a generally unpleasant experience, but with a train your money gets you leg room, the ability to get up and move around whenever you like, and great views
+* bear in mind that when you fly, you're paying for a small seat and a cattle-herd experience (according to some travellers!), but with a train your money gets you leg room, the ability to get up and move around whenever you like, and great views
 * you might be paying for more than one transport provider e.g. if you have to change trains, whereas the flight will just be one airline, so naturally the cost will be higher
 
 Having said all that, it is very possible to get cheap fares! 
