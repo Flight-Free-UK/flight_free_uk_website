@@ -13,7 +13,7 @@ read_time_minute: 5
 
 ## Why travel by train?
 
-### Trains are the ultimate in no-fly travel: fast and efficient, they can transport you quickly from one country to the next with none of the space restriction or discomfort of a flight. 
+### Trains are the ultimate in no-fly travel: fast and efficient, they can transport you quickly from one country to the next with none of the space restriction or discomfort of a flight.
 
 ##### Typically bringing you direct to the city centre, you can disembark and jump straight into your holiday without worrying about lengthy and expensive transfers.
 
@@ -93,6 +93,30 @@ Alternatively, go direct to the train provider websites: [SNCF](https://www.sncf
 
 Speak to your train conductor if you have a connection to make, especially if you don't have long to make it. They will probably be able to tell you the platform you need to go to. Sometimes if the train you're on is delayed, they will hold your connecting train for you, or at least accept your ticket on the next one. 
 
-In most cities, there’s only one train station so it’s just a matter of changing platform. In some bigger cities you might have to go to a different station. If you are travelling to anywhere in Spain, Italy, France, Switzerland or Austria, you’ll have to cross Paris to reach the correct station. Here's our guide for how to do that. 
+In most cities, there’s only one train station so it’s just a matter of changing platform. In some bigger cities you might have to go to a different station. If you are travelling to anywhere in Spain, Italy, France, Switzerland or Austria, you’ll have to cross Paris to reach the correct station. 
+
+![](/images/uploads/how-to-change-stations-in-paris.jpg)
+
+###### Metro
+
+This is the easiest and fastest way to cross Paris.
+
+For Gare de Lyon, take the RER line D, for Gare d’Austerlitz, take line M5, for Gare Montparnasse, it’s line M4, and for Saint Lazare, you need line E. It takes about 30 mins to transfer between stations using the Metro so allow at least an hour for your connection.
+
+###### Bus
+
+This is a nice cheap option, not as fast as the Metro but simple and easy. The number 91 bus will take you to Gare de Lyon and Gare d’Austerlitz, number 39 goes to Gare Montparnasse, and for Saint-Lazare it’s number 26.
+
+###### Walking
+
+If you’re changing to Gare de l’Est, walking is by far the best option, as it’s less than 10 minutes from Gare du Nord. 
+
+For the others, walking is an enjoyable way to get some fresh air, see the sights, and soak up that Parisian atmosphere. It’s a great option if you haven’t got much luggage and you’ve got more than an hour between trains. 
+
+Getting to the Gare de Lyon or Gare d’Austerlitz will take just over an hour (it’s around a 5km walk), to Gare Montparnasse it’s closer to 1 hr 20 mins, and you’ll pass the Louvre on the way, and to Saint Lazere, it’s just 30 mins.
+
+###### Bike
+
+Cycling is a terrific way to cross Paris! It’s the fastest and potentially most exciting mode of travelling between stations. Most streets have bike lanes, although you’d need some kind of cycling experience or confidence to attempt this. You can hire a bike if you don't have your own.
 
 ##### W﻿e love to hear stories about newbies and aficionados alike taking the train for their holidays, so [get in touch](<mailto: info@flightfree.co.uk>) if you have a story to share!
