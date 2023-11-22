@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Rachel and Andrew: be a changemaker"
+title: "Rachel: be a change-maker"
 category: testimonials
 date: 2022-07-15T13:38:37.407Z
 cover_image: /images/uploads/rachel-and-andrew-testimonial-cover.jpg
@@ -12,7 +12,7 @@ read_time_minute: 3
 ---
 ![](/images/uploads/rachel-and-andrew-testimonial-body.jpg)
 
-### I decided to take the Flight Free 2022 pledge whilst walking to COP26 last year.
+### I decided to take the Flight Free pledge whilst walking to COP26.
 
 ##### For six weeks I walked with other climate activists to Glasgow, carrying all my belongings in my backpack.
 
@@ -44,6 +44,6 @@ We cannot ignore that time is running out.
 
 All of us now understand the effects caused by the planet warming. We see it on our screens daily: ice caps are melting, oceans are rising, crops are failing, people in the global south are starving, floods and forest fires are worsening, and species are becoming extinct at a rapid rate. 
 
-### We all need to dig a little deeper and think about the daily decisions we make: what we consume, and the impact our purchases have on our planet.
+##### We all need to dig a little deeper and think about the daily decisions we make: what we consume, and the impact our purchases have on our planet.
 
-##### We are the decision makers – we must be the change makers. I have found that the cure for anxiety is action.
+### We are the decision makers – we must be the change makers. I have found that the cure for anxiety is action.
