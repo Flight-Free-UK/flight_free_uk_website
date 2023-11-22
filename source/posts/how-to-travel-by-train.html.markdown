@@ -4,7 +4,7 @@ title: How to travel by train
 category: how-to
 date: 2023-11-20T16:42:09.813Z
 cover_image: /images/uploads/train-station-canva.jpg
-summary: It's the ultimate in no-fly travel, so here are some pointers if you're
+summary: It’s the ultimate in no-fly travel, so here are some pointers if you’re
   new to the rails
 author: FlightFree UK
 read_time_minute: 5
@@ -35,7 +35,7 @@ Trains do often cost more than planes, especially when considering all the dirt-
 
 * air travel is exempt from tax, making it artificially cheap
 * when you factor in transfers, luggage costs etc, the price of the flight gets much closer to the cost of the train
-* bear in mind that when you fly, you're paying for a small seat and a cattle-herd experience (according to some travellers!), but with a train your money gets you leg room, the ability to get up and move around whenever you like, and great views
+* bear in mind that when you fly, you’re paying for a small seat and a cattle-herd experience (according to some travellers!), but with a train your money gets you leg room, the ability to get up and move around whenever you like, and great views
 * you might be paying for more than one transport provider e.g. if you have to change trains, whereas the flight will just be one airline, so naturally the cost will be higher
 
 Having said all that, it is very possible to get cheap fares! 
@@ -47,11 +47,11 @@ Having said all that, it is very possible to get cheap fares! 
 
 ## Eurostar
 
-If you're travelling by train to the continent, chances are your journey will begin with the [Eurostar](https://www.eurostar.com/uk-en) (unless you cross to continental Europe on the ferry, then continue by train – see ‘[how to travel by ferry](/post/how-to-travel-by-ferry/)’ for help with that). 
+If you’re travelling by train to the continent, chances are your journey will begin with the [Eurostar](https://www.eurostar.com/uk-en) (unless you cross to continental Europe on the ferry, then continue by train – see ‘[how to travel by ferry](/post/how-to-travel-by-ferry/)’ for help with that). 
 
 The Eurostar is fantastic – easy check-in, comfortable seating, and fast, efficient and reliable travel to Paris, Lille, Brussels or Amsterdam ([but not in 2024](https://www.euronews.com/travel/2023/06/05/eurostars-london-amsterdam-trains-to-be-suspended-for-almost-a-year-from-2024)). Cheap fares are available in advance, though they can be very limited. 
 
-It's possible to travel to London from anywhere in the UK in one day, and there are [cheap accommodation options](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-kings-cross.html) near St Pancras station to facilitate onward travel by Eurostar the following day. Or you could split the journey in Paris (expensive), Lille (much cheaper!) or Brussels, ready to continue the next day.
+It’s possible to travel to London from anywhere in the UK in one day, and there are [cheap accommodation options](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-kings-cross.html) near St Pancras station to facilitate onward travel by Eurostar the following day. Or you could split the journey in Paris (expensive), Lille (much cheaper!) or Brussels, ready to continue the next day.
 
 ## O﻿nwards travel by high speed train
 
@@ -59,7 +59,7 @@ Like in the UK, countries in continental Europe offer high-speed/intercity train
 
 High speed trains always require an advanced booking, both in the UK and abroad, and you might find some restriction on luggage and bicycles.
 
-By high speed train it's possible to reach Berlin, Barcelona or Milan in a single day from the UK.
+By high speed train it’s possible to reach Berlin, Barcelona or Milan in a single day from the UK.
 
 ## Onwards travel by regional train
 
@@ -71,7 +71,7 @@ Travelling while you sleep is a great way to make the most of your time and mone
 
 On the continent, look for [Nightjet](https://www.nightjet.com/en/) (linking Austria, Netherlands, Belgium, Germany, Austria, Switzerland and Italy), [European Sleeper](https://www.europeansleeper.eu/en) (Brussels-Berlin), and others on this page: <https://www.seat61.com/sleepers.htm> 
 
-Prices vary depending on whether you go for a berth (full bed), a couchette (bunk beds that fold down from the walls) or a seat, but it's always a bargain compared to a hotel. 
+Prices vary depending on whether you go for a berth (full bed), a couchette (bunk beds that fold down from the walls) or a seat, but it’s always a bargain compared to a hotel. 
 
 ## Interrail
 
@@ -91,7 +91,7 @@ Alternatively, go direct to the train provider websites: [SNCF](https://www.sncf
 
 ## Connections 
 
-Speak to your train conductor if you have a connection to make, especially if you don't have long to make it. They will probably be able to tell you the platform you need to go to. Sometimes if the train you're on is delayed, they will hold your connecting train for you, or at least accept your ticket on the next one. 
+Speak to your train conductor if you have a connection to make, especially if you don’t have long to make it. They will probably be able to tell you the platform you need to go to. Sometimes if the train you’re on is delayed, they will hold your connecting train for you, or at least accept your ticket on the next one. 
 
 In most cities, there’s only one train station so it’s just a matter of changing platform. In some bigger cities you might have to go to a different station. If you are travelling to anywhere in Spain, Italy, France, Switzerland or Austria, you’ll have to cross Paris to reach the correct station. 
 
