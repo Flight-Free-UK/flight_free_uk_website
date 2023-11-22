@@ -13,9 +13,13 @@ read_time_minute: 5
 
 ## Why travel by train?
 
-### Trains are the ultimate in no-fly travel: fast and efficient, they can transport you quickly from one country to the next with none of the space restriction or discomfort of a flight. Typically bringing you direct to the city centre, you can disembark and jump straight into your holiday without worrying about lengthy and expensive transfers.
+### Trains are the ultimate in no-fly travel: fast and efficient, they can transport you quickly from one country to the next with none of the space restriction or discomfort of a flight. 
 
-##### Plug sockets, wifi and tables mean you can spend your time working, reading, sleeping or anything you choose. You can get up and go to the cafe bar or toilet at any time, or you can bring your own picnic and start your holiday in style. A train journey is something to be enjoyed, rather than endured.
+##### Typically bringing you direct to the city centre, you can disembark and jump straight into your holiday without worrying about lengthy and expensive transfers.
+
+Plug sockets, wifi and tables mean you can spend your time working, reading, sleeping or anything you choose. You can get up and go to the cafe bar or toilet at any time, or you can bring your own picnic and start your holiday in style. A train journey is something to be enjoyed, rather than endured.
+
+> A train journey is something to be enjoyed, rather than endured
 
 And that’s before we get to the views! Seeing the landscape steadily change out of the window enriches the journey and enhances your understanding and anticipation of the place you are travelling towards in a way that doesn’t happen with other forms of travel. It is nostalgic, but at the same time, completely modern. 
 
