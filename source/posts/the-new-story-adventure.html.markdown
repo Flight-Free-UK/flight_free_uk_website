@@ -13,13 +13,15 @@ read_time_minute: 6
 ---
 ### The adventure world is full of people who are passionate about the outdoors and the planet. But with exploration comes a significant impact, especially if it involves a flight.
 
-[Rosie Watson](https://twitter.com/r_birdshouts) and [Mike Elm](https://twitter.com/elmers87) are bucking this trend and shining a light on the environmental footprint of adventure. Making their way to Mongolia, Rosie by running, Mike by bicycle, both are finding and sharing stories of people working to tackle the climate crisis, and creating a more healthy, fun and sustainable way of living. This is about creating what Rosie and Mike call a New Story in our search for a different narrative.
+##### [Rosie Watson](https://twitter.com/r_birdshouts) and [Mike Elm](https://twitter.com/elmers87) are bucking this trend and shining a light on the environmental footprint of adventure. Making their way to Mongolia, Rosie by running, Mike by bicycle, both are finding and sharing stories of people working to tackle the climate crisis, and creating a more healthy, fun and sustainable way of living. 
+
+This is about creating what Rosie and Mike call a New Story in our search for a different narrative.
 
 Rosie has been on the road since August 2019, Mike since November 2019. We caught up with them just after an enforced break due to the Covid lockdown, as they were about to leave Skopje, North Macedonia.
 
 ![Picture shows Rosie jumping energetically over craggy and mossy grey rocks. The view behind her is completely obscured by a wall of fog and nothing else is visible. She's wearing sporty clothes and carrying  large rucksack. ](/images/uploads/newstory-rosie1.jpg "Rosie on the Via Adriatica trail in Croatia, January 2020")
 
-#### Flight Free UK: Why have you decided to run/bike across the continent? What is it about running/biking that you love so much?
+#### Why have you decided to run/bike across the continent? What is it about running/biking that you love so much?
 
 #### **Rosie:**
 
@@ -31,13 +33,13 @@ By travelling slowly you encounter a country or continent authentically. I like 
 
 ![Picture shows a bicycle leaning on its stand packed with camping equipment. Behind it is a grassy and gravelly landscape with rolling hills in the background. ](/images/uploads/newstory-bike.jpg "Mike's bicycle at Lake Mladost in North Macedonia, August 2020")
 
-#### Flight Free UK: You’re undertaking what you call the New Story Ride/New Story Run. What do you mean by ‘New Story’?
+#### You’re undertaking what you call the New Story Ride/New Story Run. What do you mean by ‘New Story’?
 
 #### **Rosie:**
 
 We desperately need to transform how we are living as human beings on the earth. Everything we do, especially how we think of ourselves as humans compared to other species, the earth, and each other (i.e. different groups), is all underpinned by a collection of narratives or stories about us and those things. It's at the root of everything, and to get the kind of transformational change we need, we need to critique and reform these stories/narratives into something that is healthier for us, the planet and all living things.
 
-> "We desperately need to transform how we are living as human beings on the earth."
+> We desperately need to transform how we are living as human beings on the earth, especially how we think of ourselves as humans compared to other species
 
 Stories are also how we connect to each other emotionally, so by telling these stories I hope to show a more human side to change that people relate to on a personal level, as opposed to just stating the data alone. 
 
@@ -47,7 +49,7 @@ As the ride has gone on I've become more and more clear on the New Story being a
 
 ![Picture shows Rosie hiking through tall grass on a sunny hillside. She is wearing activewear and carrying a large rucksack. There are tall hills in the background and the sky is bright blue. ](/images/uploads/newstory-rosie2.jpg "Rosie in Austria, end of 2019")
 
-#### Flight Free UK: Which countries have you been through?
+#### Which countries have you been through?
 
 #### **Rosie:**
 
@@ -57,7 +59,7 @@ The Netherlands, Germany, Switzerland, Austria, Slovenia, Croatia, Montenegro, A
 
 So far I've ridden through Austria, touched into Slovakia and Hungary, then Italy, Slovenia, Croatia, Bosnia and Herzegovina, Serbia, Kosovo, Albania and Macedonia.
 
-#### Flight Free UK: What have been your most memorable encounters?
+#### What have been your most memorable encounters?
 
 #### **Rosie:**
 
@@ -65,7 +67,7 @@ This is hard! One would be visiting Hambacher forest, which you can [read about 
 
 I've also met so many amazing people on the way who've spontaneously taken me into their homes, with no pre planning (just invited me in when I asked where I could camp, or asked what I was doing while walking down a street). 
 
-> "I've met so many amazing people on the way who've spontaneously taken me into their homes, with no pre planning."
+> I've met so many amazing people on the way who've spontaneously taken me into their homes, with no pre planning.
 
 There's too many to go through them all – some where you are just totally enveloped and absorbed into a family temporarily, some which challenge your perspectives of how you view people, some where you have no common language but still spend hours ‘chatting'.
 
@@ -77,7 +79,7 @@ The 3rd of January, Rosie and I spent a whole day at an incredible completely of
 
 ![Picture shows Mike sat down on the ground in front of some shrubs. It appeard to be dusk and his bike is laying down in front of him. He's smiling. ](/images/uploads/newstory-mike.jpg "Mike near Komani Lake in Albania, July 2020")
 
-#### Flight Free UK: Why is it important to talk to people about climate change?
+#### Why is it important to talk to people about climate change?
 
 #### **Rosie:**
 
@@ -87,11 +89,13 @@ I would say this adventure is more about listening and telling other people's st
 
 The climate crisis is a focus of this journey because it is the most pressing challenge of our time. Showing that there are people in all sorts of places working in their own ways to tackle parts of the climate crisis will encourage those watching the journey to act how they can, I hope.
 
-#### Flight Free UK: Have you always been aware of climate issues?
+#### Have you always been aware of climate issues?
 
 #### **Rosie:**
 
-I became interested in it just in time to apply for my degree, which was in Environment and Business. There was no 'big moment of realisation', just that I wanted to do something with my life that had a positive impact – then I realised that the climate crisis was a main issue we were facing. I believe that one of the main purposes in life is to leave the world a better place than what you were born into! I also had a very outdoorsy upbringing so that probably had an impact (although at one point I wanted to be a fashion designer).
+I became interested in it just in time to apply for my degree, which was in Environment and Business. There was no 'big moment of realisation', just that I wanted to do something with my life that had a positive impact – then I realised that the climate crisis was a main issue we were facing. 
+
+I believe that one of the main purposes in life is to leave the world a better place than what you were born into! I also had a very outdoorsy upbringing so that probably had an impact (although at one point I wanted to be a fashion designer).
 
 #### **Mike:**
 
@@ -99,15 +103,15 @@ I feel like I've always been roughly aware of climate issues – my parents are 
 
 ![Picture shows Rosie and Mike with their arms around each other, smiling. They are in a city centre and mike is holding his bike.](/images/uploads/newstory-rosieandmike.jpg "Rosie and Mike in Villach, Austria after meeting up for the first time in 4 months")
 
-#### Flight Free UK: What do you hope to achieve from your journeys?
+#### What do you hope to achieve from your journeys?
 
 #### **Rosie:**
 
 From the run I want to be able to show a big diversity of versions of the 'new story', in a way that people connect to emotionally and personally, and sparks their imaginations (and action!) for how they can bring about a better world in their own context. I want to show that *that* world will be more positive and fun, not one of gloom and restriction.
 
-> "I want to show that people can bring about a better world in their own context. That *that* world will be more positive and fun, not one of gloom and restriction."
+> I want to show that people can bring about a better world in their own context. That *that* world will be more positive and fun, not one of gloom and restriction.
 
- I want to explain big, complex issues in a way that the average person can understand and enjoy reading about. I want to show the universal nature of needing and creating a new story, not just focused on 'developed' countries. And after the run, hopefully link these all up into talks, maybe a book, maybe a film!
+I want to explain big, complex issues in a way that the average person can understand and enjoy reading about. I want to show the universal nature of needing and creating a new story, not just focused on 'developed' countries. And after the run, hopefully link these all up into talks, maybe a book, maybe a film!
 
 #### **Mike:**
 
@@ -115,7 +119,7 @@ The story that has led us to where we are now is just that, a story. Time and ti
 
 ![Picture shows Rosie running down a hillside near a chairlift. There are many shrubs around and the sun is shining. ](/images/uploads/newstory-rosie3.jpg "Rosie on the Rheinburgenweg in Germany, September 2019")
 
-#### Flight Free UK: There are some adventurers who are trying to raise awareness of the carbon footprint of adventuring, but many people just don’t want to hear it. What do you think is our role as adventurers? Sustainable is such a buzz word, but does it really mean much in reality?
+#### There are some adventurers who are trying to raise awareness of the carbon footprint of adventuring, but many people just don’t want to hear it. What do you think is our role as adventurers? Sustainable is such a buzz word, but does it really mean much in reality?
 
 #### **Rosie:**
 
@@ -123,7 +127,7 @@ I think there's actually a lot of collective denial in the outdoor community as 
 
 Re the word 'sustainability'... Yep, I think it's potentially a bit outdated now. I use the term 'tackling the climate crisis' a lot as it emphasises that action needed, as well as the fact that it's a crisis (as opposed to climate change, which sounds like it could be natural).
 
-#### Flight Free UK: And... when you reach Mongolia, how will you be getting back?
+#### And... when you reach Mongolia, how will you be getting back?
 
 #### **Mike:**
 
