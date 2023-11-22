@@ -101,7 +101,7 @@ In most cities, there’s only one train station so it’s just a matter of chan
 
 This is the easiest and fastest way to cross Paris.
 
-For Gare de Lyon, take the RER line D, for Gare d’Austerlitz, take line M5, for Gare Montparnasse, it’s line M4, and for Saint Lazare, you need line E. It takes about 30 mins to transfer between stations using the Metro so allow at least an hour for your connection.
+For Gare de Lyon, take the RER line D, for Gare d’Austerlitz, take line M5, for Gare Montparnasse, it’s line M4, and for Saint-Lazare, you need line E. It takes about 30 mins to transfer between stations using the Metro so allow at least an hour for your connection.
 
 ###### Bus
 
@@ -113,7 +113,7 @@ If you’re changing to Gare de l’Est, walking is by far the best option, as i
 
 For the others, walking is an enjoyable way to get some fresh air, see the sights, and soak up that Parisian atmosphere. It’s a great option if you haven’t got much luggage and you’ve got more than an hour between trains. 
 
-Getting to the Gare de Lyon or Gare d’Austerlitz will take just over an hour (it’s around a 5km walk), to Gare Montparnasse it’s closer to 1 hr 20 mins, and you’ll pass the Louvre on the way, and to Saint Lazere, it’s just 30 mins.
+Getting to the Gare de Lyon or Gare d’Austerlitz will take just over an hour (it’s around a 5km walk), to Gare Montparnasse it’s closer to 1 hr 20 mins passing the Louvre on the way, and to Saint-Lazare, it’s just 30 mins. 
 
 ###### Bike
 
