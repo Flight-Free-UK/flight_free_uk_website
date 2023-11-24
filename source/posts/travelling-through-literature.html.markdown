@@ -27,9 +27,9 @@ But the books you have read are also a great way to show where you are coming fr
 
 > Books can change you, just as travel can.
 
-We've brought together some books that made us feel it was almost like being there. Do you have a favourite to add to our list? [Let us know](mailto:info@flightfree.co.uk). 
-
 There are plenty of places we want to explore – and we can still do so, through books.
+
+We've brought together some books that made us feel it was almost like being there. Do you have a favourite to add to our list? [Let us know](mailto:info@flightfree.co.uk). 
 
 ![](/images/uploads/the-leopard_canva.jpg)
 
