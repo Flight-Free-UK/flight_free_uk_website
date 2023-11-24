@@ -11,7 +11,7 @@ read_time_minute: 7
 ---
 ### Have you ever worried that not flying might make you a little bit boring?
 
-When friends are boasting about their holidays as if they were expeditions, talking about the places they explored, the people they encountered, sometimes you might feel left out, as if you have little to contribute to the conversation.
+##### When friends are boasting about their holidays as if they were expeditions, talking about the places they explored, the people they encountered, sometimes you might feel left out, as if you have little to contribute to the conversation.
 
 Well, there is a way to be curious about the world without harming it: read a book. 
 
@@ -21,7 +21,11 @@ Instead of an American road trip (emissions 2.8 tonnes of CO2 per person), treat
 
 > Instead of taking a flight to India (2 tonnes CO2), you could read a novel by an Indian writer (1 kg CO2).
 
-In the UK we love our holidays abroad. The places we choose to visit become part of our identity, a form of self expression. That‘s not new. Ever since wealthy eighteenth century Brits toured Europe and filled their houses with the art they acquired, we have used travel to cement our social status. But the books you have read are also a great way to show where you are coming from, and where you are heading. Books can change you, just as travel can.
+In the UK we love our holidays abroad. The places we choose to visit become part of our identity, a form of self expression. That‘s not new. Ever since wealthy eighteenth century Brits toured Europe and filled their houses with the art they acquired, we have used travel to cement our social status. 
+
+But the books you have read are also a great way to show where you are coming from, and where you are heading. Books can change you, just as travel can.
+
+> Books can change you, just as travel can.
 
 We've brought together some books that made us feel it was almost like being there. Do you have a favourite to add to our list? [Let us know](mailto:info@flightfree.co.uk). 
 
@@ -29,7 +33,7 @@ There are plenty of places we want to explore – and we can still do so, throug
 
 ## The Leopard
 
-### *by Giuseppe Tomasi di Lampedusa, translated by Archibald Colqhoun*
+###### *by Giuseppe Tomasi di Lampedusa, translated by Archibald Colqhoun*
 
 ~ summarised by Maggie Robertson
 
@@ -37,7 +41,7 @@ The Leopard is a deeply thoughtful novel, concerned with change, mortality, and 
 
 Giuseppe Tomasi was himself a Sicilian prince, which gives his book undeniable authority. He describes a society where a legacy of classical Greek and Roman culture collides with Catholic devotion, things that still define Sicily today.
 
-![Picture shows a paining of a leopard with a bright red background. Underneath the leopard is a blue dish with red fruit in it. One piece of fruit has rolled out of the dish. ](/images/uploads/theleopard.jpg "The Leopard by Giuseppe Tomasi di Lampedusa. Image from bbc.co.uk")
+![]()
 
 Descriptions of stony hilltops and scented flower gardens serve as metaphors for the declining power of the aristocracy. Perhaps we should not take them literally. On the other hand, the writer’s cynicism towards political institutions at the birth of the nation is itself an insight into Italy’s political culture.
 
