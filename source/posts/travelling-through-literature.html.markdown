@@ -67,7 +67,7 @@ Few of us will ever travel to such a remote place on earth: a harsh world of ice
 
 The Sledge Patrol tells the true story of wartime survival, with Danish and Norwegian dogsled hunters patrolling the 500-mile sparsely-habited coast of Greenland against unlikely invasion by Nazi forces. The two main characters are the Norwegian Poulsen and the German Ritter. Poulsen is a quiet young man, the son of a Danish bookseller who had experience as a radio operator in the arctic and applied for the post in Greenland for solitude and adventure in the arctic wilderness away from the war. Ritter is a similar character to Poulsen, cast into a war he didn't want and suspicious of his Nazi commanders whom he has little option but to obey and pacify.
 
-![Picture shows a close-up of two dogs at the front of a dog-sled. one is black and white and the other is tan. Blurred behind them are the other dogs in the row and a person on a sled. In the distance are snowy mountain peaks. The dogs are running through deep snow. ](/images/uploads/greenlandsledge.jpg "Greenland sled dogs. Image from thebark.com")
+![](/images/uploads/greenlandsledge.jpg)
 
 *"They travelled as if they were in a dream. One must picture each of them ski-ing beside his sledge on the vast expanses of frozen fjord below the dark loom of mountains which have never been explored, the only moving thing in the ice-bound starlit landscape; the rumble of the sledge, the panting of the dogs, an occasional call from the man or a crack of the whip breaking a whole winter’s silence.* 
 
