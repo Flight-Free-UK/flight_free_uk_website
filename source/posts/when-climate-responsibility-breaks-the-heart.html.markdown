@@ -3,7 +3,7 @@ published: true
 title: "Claire: a heartbreaking decision"
 category: testimonials
 date: 2019-05-29T14:48:03.591Z
-cover_image: /images/uploads/credit-jayme_elkins-with_many_roots-holiday_in_scotland.jpg
+cover_image: /images/uploads/heartbreak_canva.jpg
 summary: Claire Thompson’s sons live half a world away, in New Zealand. In over
   a decade she has only seen them twice. This is her moving testimonial.
 author: FlightFree UK
