@@ -33,7 +33,9 @@ The principle of taxation is that we all contribute to the benefit of society. W
 
 #### Noise and air pollution
 
-Those living near airports or under flight paths can suffer hugely from noise and air pollution. Work by the AEF reveals just how bad it can be to be exposed to aircraft noise on a regular basis. The small numbers of people going on holiday affect whole communities, who don’t benefit from the airport itself – especially when council tax money is invested in the airport. 
+Those living near airports or under flight paths can suffer hugely from noise and air pollution. [Work by the AEF](https://www.aef.org.uk/what-we-do/noise/) reveals just how bad it can be to be exposed to aircraft noise on a regular basis. 
+
+The local community don’t necessarily benefit from the airport itself, with increased road traffic driving air pollution and congestion in the area, and air pollution from the planes themselves. In some cases, council tax is invested in an airport, essentially meaning that local people’s taxes facilitate other people’s holidays. 
 
 #### Climate change emissions
 
