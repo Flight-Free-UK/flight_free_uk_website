@@ -85,7 +85,7 @@ This is India in a book. Set in Kerala with its backwaters and monsoon-lush land
 
 Rahel and Estha are twins, finishing each other's sentences in their secret language. The story is one of family and personal tragedy, and follows the twins’ upbringing in a religious community with a strongly discriminatory caste system. Forbidden relationships, child abuse and political differences lead to the death of their cousin, which results in the twins being separated – a twin myself, I could clearly imagine the doubled-over howling pain Rahel felt when Estha was sent away.
 
-![Picture shows a boat sailing along a tropical canal. On the bank are palm trees and greenery and house with a terracotta roof. ](/images/uploads/kerala.jpg "Kerala. Photo from audleytravel.com")
+![Picture shows a boat sailing along a tropical canal. On the bank are palm trees and greenery and house with a terracotta roof. ](/images/uploads/kerala.jpg)
 
 Kerala is known as God's Own Country, on the coast of South India, famous for its spice, natural diversity, food and waterfalls. Roy sprinkles touches of India and its dialect throughout her dark and tragic story – as authentic and realistic as any journey there, and a narrative that will linger in the mind long after the reader has left.
 
