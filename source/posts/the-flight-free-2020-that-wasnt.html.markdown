@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: The Flight Free 2020 that wasn't
 category: opinion
 date: 2020-06-01T18:42:18.129Z
