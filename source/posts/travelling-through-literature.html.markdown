@@ -67,7 +67,7 @@ The Sledge Patrol tells the true story of wartime survival, with Danish and Norw
 
 *"The things which occupied their thoughts, the true realities, had nothing to do with war: they were only the weather, the dogs, and the hunting; hunting for food for themselves and the dogs and for fox furs and bear skins which one day they might be able to sell."*
 
-![](/images/uploads/the-god-of-small-things-kerala_canva.jpg)
+![](/images/uploads/the-god-of-small-things-kerala_canva.jpg "The God of Small Things by Arundhati Roy")
 
 ###### ~ summarised by Anna Hughes
 
@@ -83,9 +83,9 @@ Kerala is known as God's Own Country, on the coast of South India, famous for it
 
 *"But by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways."*
 
-![](/images/uploads/half-of-a-yellow-sun_canva.jpg)
+![](/images/uploads/half-of-a-yellow-sun_canva.jpg "Half of a Yellow Sun by Chimamanda Ngozi Acichie ")
 
-~ summarised by Maggie Robertson
+###### ~ summarised by Maggie Robertson
 
 If you holidayed in Nigeria for a month, I wonder if you would learn more about the country than in this sweeping story of love and brutal civil war set in the 1960s. It takes you from orchards and forests near Port Harcourt in the south, where the rain falls sideways and the air is heavy with moisture from the Atlantic, to the north of the country, where the sun-seared land merges with the silver-and-white sky, and the fine grey sand gets into everything.
 
