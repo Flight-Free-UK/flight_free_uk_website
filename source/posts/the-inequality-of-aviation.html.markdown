@@ -43,6 +43,6 @@ Yet people across the global south have been suffering this reality for years. T
 
 > The people who are already suffering the effects of climate change are the least responsible for causing it.
 
-Now, more than ever, we need to seriously consider our use of flights. Yes, to reduce emissions, noise and air pollution. 
+Now, more than ever, we need to seriously consider our use of flights. This will help us urgently reduce emissions, noise and air pollution. But equally as importantly, this will go a long way to addressing issues of climate injustice. 
 
-##### But mostly because we should understand how privileged we are to access air travel in the first place, and understand how those flights negatively affect the people who are not able to experience the benefits.
+##### We should understand how privileged we are to access air travel in the first place, and understand how those flights negatively affect the people who are not able to experience the benefits.
