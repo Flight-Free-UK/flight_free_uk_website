@@ -12,9 +12,9 @@ read_time_minute: 4
 ---
 ![A person stands on a deserted beach holding a blue umbrella](/images/uploads/rainy_beach.jpeg "A rainy day in Great Yarmouth")
 
-## August Bank Holiday, 2018. I was on holiday in Pembrokeshire, and it was raining.
+### August Bank Holiday, 2018. I was on holiday in Pembrokeshire, and it was raining.
 
-### In fact, it was pouring. Heavy, warm, diagonal rain. 
+##### In fact, it was pouring. Heavy, warm, diagonal rain. 
 
 We were staying a few minutes’ walk from one of Britain’s most beautiful beaches. We put on our waterproofs and took a stroll to the top of the cliff, where we could see the beach was empty except for about half a dozen young South Asian people, soaked to the skin, chasing each other madly in circles, wet hair flying, in joyful, carefree defiance of the weather.
 
@@ -22,7 +22,7 @@ When I talk to people about rethinking their holidays, I always hope they won’
 
 On the other hand, when the weather is good it feels like a gift. We remember for a long time the holidays where we had exceptional fine weather. 
 
-> “When the weather is good it feels like a gift.”
+> When the weather is good it feels like a gift.
 
 Of course, when we go abroad, the weather is not guaranteed either. On a trip to Southern Italy in September a few years ago, we were caught in a thunderstorm. It stayed stormy, cold and wet for a few days. I was confident it would be hot, so I had only packed one warm jumper, and I couldn’t get it dry, which led to some shivery hours in our unheated hotel.
 
@@ -30,11 +30,13 @@ Of course, when we go abroad, the weather is not guaranteed either. On a trip to
 
 Our British summers are changing. The top ten warmest years in the UK since 1884 were all since 2002. Summer 2021 was warmer than average, (although it might not have felt like that to you, especially if you live in the South East, where it was also cloudier and wetter than usual). The Met Office expects us to see hotter and drier summers in the future, but with more intense summer downpours. 
 
-> “Our British summers are changing. The weather in our favourite holiday destinations is changing too.”
+> Our British summers are changing. The weather in our favourite holiday destinations is changing too.
 
 The weather in our favourite holiday destinations is changing too. The world has only experienced one degree of warming so far, yet in 2021 Turkey, Greece and Italy suffered wildfires that destroyed homes and caused thousands of holiday-makers to be evacuated. 
 
-Less than two weeks later, heavy rain caused severe floods and mudslides in Turkey, killing 57 people. Meanwhile, a heat wave across Southern Europe and North Africa brought record temperatures, deaths, and power outages as people stayed at home and turned up the air conditioning. Andalusia, the Spanish region that is home to Torremolinos, Malaga and Marbella, recorded its hottest day ever in 2021, with a temperature of 47.2°C (almost 117°F). That’s not beach weather. 
+Less than two weeks later, heavy rain caused severe floods and mudslides in Turkey, killing 57 people. Meanwhile, a heat wave across Southern Europe and North Africa brought record temperatures, deaths, and power outages as people stayed at home and turned up the air conditioning. 
+
+Andalusia, the Spanish region that is home to Torremolinos, Malaga and Marbella, recorded its hottest day ever in 2021, with a temperature of 47.2°C (almost 117°F). That’s not beach weather. 
 
 ![Pictures shows the Three Sisters in Glencoe: very steep mountainous peaks covered in green ferns and purple heather, seen on a very rainy and cloudy day](/images/uploads/three-sisters-glencoe.jpeg "The dramatic Three Sisters in Glencoe, Highlands")
 
@@ -42,7 +44,7 @@ I suppose, while climate chaos reigns in parts of the world we love, we could ju
 
 My August bank holiday in Wales ended, like so many wet days, with the rain clearing up. Sun shone again on glistening rocks and slate rooftops. We went for a walk through dripping woods, followed by tea and scones sitting at a damp picnic table. You see? It always turns out all right in the end.
 
-![A rainbow shines in a very grey sky over some bright green trees and a river](/images/uploads/rainbow.jpeg)
+![A rainbow shines in a very grey sky over some bright green trees and a river](/images/uploads/rainbow.jpeg "Just wait fo the rainbow")
 
 #### Here are my tips for coping with British holiday weather.
 
@@ -60,7 +62,7 @@ My August bank holiday in Wales ended, like so many wet days, with the rain clea
 
 **If you are planning an activity where the weather could put you in danger (say, climbing Ben Nevis) pay attention to the weather forecast.** Otherwise, why torment yourself? If you just want to know if you are going to get wet in the next hour or so, checking the Met Office’s rain radar is more useful anyway.
 
-#### Attitude plays a part. Don’t waste time worrying about whether the weather will turn out as you want it to be. Take it as it comes. Your holiday will still be special. 
+##### Attitude plays a part. Don’t waste time worrying about whether the weather will turn out as you want it to be. Take it as it comes. Your holiday will still be special.
 
 ### So often, the weather turns out better than you expect. If it does the opposite, perhaps it will make a good story.
 
