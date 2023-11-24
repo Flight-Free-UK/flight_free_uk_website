@@ -39,7 +39,7 @@ Those living near airports or under flight paths can suffer hugely from noise an
 
 It’s a grave injustice that the people who are already suffering the devastating effects of a changing climate are the least responsible for causing it. Here in the west we are already seeing the early effects of global heating: warmer winters, unpredictable weather, increased chance and severity of wildfires, and difficulty in reliably growing crops. 
 
-Yet people across the global south have been suffering this reality for years – it is they, not us, who are forced to flee their homes and see their children starve. This is happening right now, and it is largely caused by our high-carbon, high consumption western lifestyles.
+Yet people across the global south have been suffering this reality for years. This is happening right now, and it is largely caused by our high-carbon, high consumption western lifestyles.
 
 > The people who are already suffering the effects of climate change are the least responsible for causing it.
 
