@@ -15,7 +15,7 @@ read_time_minute: 2
 
 Even if we don’t fly that much, the impression that society gives us is that most people do.
 
-The truth is, the [vast majority of the world’s population has never set foot on a plane](http://www.worldwatch.org/node/4346). Even here in Britain, where [we fly more than any other nation](https://www.independent.co.uk/travel/news-and-advice/british-travellers-iata-world-air-transport-statistics-a9029366.html), only around half of us board a flight in any given year.
+The truth is, the [vast majority of the world’s population has never set foot on a plane](https://www.sciencedirect.com/science/article/pii/S0959378020307779). Even here in Britain, where [we fly more than any other nation](https://www.independent.co.uk/travel/news-and-advice/british-travellers-iata-world-air-transport-statistics-a9029366.html), only around half of us board a flight in any given year.
 
 > The vast majority of the world’s population has never set foot on a plane.
 
@@ -27,7 +27,7 @@ By international agreement, [aviation fuel is not taxed](https://theconversation
 
 The ‘free ride’ that airlines enjoy because of this tax exemption adds up to the tune of £7bn per year – enough to slash train fares by 2/3rds if it were invested in rail, [according to climate charity Possible](https://twitter.com/FlightFree2020/status/1273882897427116035?s=20).
 
-The principle of taxation is that we all contribute to the benefit of society. When it comes to aviation, the benefits are only felt by a small groups of people. This means that those who choose not to fly, or are unable to fly because of cost or circumstance, are subsidising the flights of a few. Those who don’t use luxury travel are paying for others to access it instead.
+The principle of taxation is that we all contribute to the benefit of society. When it comes to aviation, the benefits are only felt by a small group of people. This means that those who choose not to fly, or are unable to fly because of cost or circumstance, are subsidising the flights of a few. Those who don’t use luxury travel are paying for others to access it instead.
 
 >  Those who don’t use luxury travel are paying for others to access it instead.
 
