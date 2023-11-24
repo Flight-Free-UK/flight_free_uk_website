@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Claire: a heartbreaking decision"
+title: "Claire: a heartbreaking choice"
 category: testimonials
 date: 2019-05-29T14:48:03.591Z
 cover_image: /images/uploads/heartbreak_canva.jpg
