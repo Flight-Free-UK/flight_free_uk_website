@@ -1,7 +1,7 @@
 ---
 published: false
 title: Voyage Verte
-category: climate
+category: opinion
 date: 2019-11-28T08:56:37.382Z
 cover_image: /images/uploads/rigging.jpeg
 summary: As Greta Thunberg sails across the ocean again, we ask if new
