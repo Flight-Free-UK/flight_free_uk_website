@@ -47,4 +47,4 @@ Yet people across the global south have been suffering this reality for years. T
 
 Now, more than ever, we need to seriously consider our use of flights. This will help us urgently reduce emissions, noise and air pollution. But equally as importantly, this will go a long way to addressing issues of climate injustice. 
 
-##### We should understand how privileged we are to access air travel in the first place, and understand how those flights negatively affect the people who are not able to experience the benefits.
+##### We should understand how privileged we are to access air travel in the first place, and understand how the flights of a few people negatively affect the vast majority of people who are not able to experience the benefits.
