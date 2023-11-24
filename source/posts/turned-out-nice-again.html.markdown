@@ -44,9 +44,9 @@ I suppose, while climate chaos reigns in parts of the world we love, we could ju
 
 My August bank holiday in Wales ended, like so many wet days, with the rain clearing up. Sun shone again on glistening rocks and slate rooftops. We went for a walk through dripping woods, followed by tea and scones sitting at a damp picnic table. You see? It always turns out all right in the end.
 
-![A rainbow shines in a very grey sky over some bright green trees and a river](/images/uploads/rainbow.jpeg "Eventually there will be a rainbow")
+![A rainbow shines in a very grey sky over some bright green trees and a river](/images/uploads/rainbow.jpeg "Just wait for the rainbow")
 
-#### Here are my tips for coping with British holiday weather.
+#### Here are my tips for coping with British holiday weather:
 
 **If you can afford it, get some good-quality waterproof clothing.** Nothing beats watching the rain form beads and run off a new jacket! And nothing is worse than feeling it run off to your legs and soak through your jeans. In winter, you might need waterproof trousers. In summer, quick-drying trousers or shorts will probably be enough.
 
