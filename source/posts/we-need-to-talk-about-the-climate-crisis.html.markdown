@@ -1,7 +1,7 @@
 ---
 published: false
 title: We need to talk about the climate crisis
-category: climate
+category: opinion
 date: 2019-08-24T00:00:00.000Z
 cover_image: /images/uploads/01-2021-podcast_website_thumbnail.jpg
 summary: Maria Ardley questions why we are so reluctant to face up to the
