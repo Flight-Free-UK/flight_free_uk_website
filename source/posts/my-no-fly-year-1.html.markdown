@@ -76,7 +76,7 @@ Without planning, or even expecting, this experiment had a lasting effect on me.
 
 Though I have had to fly again to visit my family, it has become almost second nature to look for low-carbon ways of travelling wherever I go. Air travel is my last option when choosing how to get around. 
 
-> Air travel is my last option when choosing how to get around.
+> Air travel is now my last option when choosing how to get around. 
 
 I have also met incredibly interesting people when I travel. For some reason, airports and planes seem to make people less communicative, or perhaps more stressed. 
 
