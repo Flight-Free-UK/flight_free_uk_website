@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Alexandra: rediscovering the joy of train travel"
+title: "Alexandra: rediscovering train travel"
 category: testimonials
 date: 2019-07-10T13:36:19.927Z
 cover_image: /images/uploads/alex-jellico.jpg
