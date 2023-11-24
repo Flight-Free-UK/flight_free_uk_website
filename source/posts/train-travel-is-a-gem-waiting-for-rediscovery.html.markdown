@@ -1,6 +1,6 @@
 ---
 published: true
-title: Train travel is a gem waiting for rediscovery
+title: "Alexandra: rediscovering the joy of train travel"
 category: testimonials
 date: 2019-07-10T13:36:19.927Z
 cover_image: /images/uploads/alex-jellico.jpg
