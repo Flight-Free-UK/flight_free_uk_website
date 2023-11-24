@@ -31,7 +31,7 @@ There are plenty of places we want to explore – and we can still do so, throug
 
 We've brought together some books that made us feel it was almost like being there. Do you have a favourite to add to our list? [Let us know](mailto:info@flightfree.co.uk). 
 
-![](/images/uploads/the-leopard_canva.jpg)
+![](/images/uploads/the-leopard_canva.jpg "The Leopard by Giuseppe Tomasi di Lampedusa")
 
 ###### ~ summarised by Maggie Robertson
 
@@ -51,7 +51,7 @@ It’s a novel of a society contemplating overwhelming change. Remind you of any
 
 *"Donnafugata lay huddled and hidden in an anonymous fold of the ground, and not a living soul was to be seen; the only signs of the passage of man were scraggy rows of vines. Beyond the hills on one side was the indigo smudge of the sea, more mineral and barren, even, than the land."*
 
-![](/images/uploads/the-sledge-patrol_canva.jpg)
+![](/images/uploads/the-sledge-patrol_canva.jpg "The Sledge Patrol by David Haworth")
 
 ###### ~ summarised by Sean Bolton
 
