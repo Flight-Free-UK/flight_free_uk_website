@@ -51,11 +51,9 @@ It’s a novel of a society contemplating overwhelming change. Remind you of any
 
 *"Donnafugata lay huddled and hidden in an anonymous fold of the ground, and not a living soul was to be seen; the only signs of the passage of man were scraggy rows of vines. Beyond the hills on one side was the indigo smudge of the sea, more mineral and barren, even, than the land."*
 
-## The Sledge Patrol
+![](/images/uploads/the-sledge-patrol_canva.jpg)
 
-### by David Haworth
-
-~ summarised by Sean Bolton
+###### ~ summarised by Sean Bolton
 
 Few of us will ever travel to such a remote place on earth: a harsh world of ice sheets that extend far beyond the horizon, and high glacial mountain ranges which are impassable except to the most experienced sledge driver. The ever present dangers of thin ice, sub zero temperatures, snow storms and polar bears are the ultimate test of human endurance and survival. In this world any small mistake can have extreme consequences.
 
@@ -63,25 +61,19 @@ Few of us will ever travel to such a remote place on earth: a harsh world of ice
 
 The Sledge Patrol tells the true story of wartime survival, with Danish and Norwegian dogsled hunters patrolling the 500-mile sparsely-habited coast of Greenland against unlikely invasion by Nazi forces. The two main characters are the Norwegian Poulsen and the German Ritter. Poulsen is a quiet young man, the son of a Danish bookseller who had experience as a radio operator in the arctic and applied for the post in Greenland for solitude and adventure in the arctic wilderness away from the war. Ritter is a similar character to Poulsen, cast into a war he didn't want and suspicious of his Nazi commanders whom he has little option but to obey and pacify.
 
-![](/images/uploads/greenlandsledge.jpg)
-
 *"They travelled as if they were in a dream. One must picture each of them ski-ing beside his sledge on the vast expanses of frozen fjord below the dark loom of mountains which have never been explored, the only moving thing in the ice-bound starlit landscape; the rumble of the sledge, the panting of the dogs, an occasional call from the man or a crack of the whip breaking a whole winter’s silence.* 
 
 *"When they lay out through blizzards in their tents, they were wholly preoccupied with the details of keeping alive. In the huts, when the weather was still, the dogs howling outside in the crackling frost were their only companions, ten individual likeable personalities. They talked to the dogs because there was nobody else to talk to.* 
 
 *"The things which occupied their thoughts, the true realities, had nothing to do with war: they were only the weather, the dogs, and the hunting; hunting for food for themselves and the dogs and for fox furs and bear skins which one day they might be able to sell."*
 
-## The God of Small things
+![](/images/uploads/the-god-of-small-things-kerala_canva.jpg)
 
-### by Arundhati Roy
-
-~ summarised by Anna Hughes
+###### ~ summarised by Anna Hughes
 
 This is India in a book. Set in Kerala with its backwaters and monsoon-lush landscapes, Roy gives poetic, vibrant and evocative descriptions of the river, the heat, the mango trees and the humidity. Her writing pulls and tugs at the language, an immersive style emulated by many since.
 
 Rahel and Estha are twins, finishing each other's sentences in their secret language. The story is one of family and personal tragedy, and follows the twins’ upbringing in a religious community with a strongly discriminatory caste system. Forbidden relationships, child abuse and political differences lead to the death of their cousin, which results in the twins being separated – a twin myself, I could clearly imagine the doubled-over howling pain Rahel felt when Estha was sent away.
-
-![Picture shows a boat sailing along a tropical canal. On the bank are palm trees and greenery and house with a terracotta roof. ](/images/uploads/kerala.jpg)
 
 Kerala is known as God's Own Country, on the coast of South India, famous for its spice, natural diversity, food and waterfalls. Roy sprinkles touches of India and its dialect throughout her dark and tragic story – as authentic and realistic as any journey there, and a narrative that will linger in the mind long after the reader has left.
 
@@ -91,13 +83,9 @@ Kerala is known as God's Own Country, on the coast of South India, famous for it
 
 *"But by early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways."*
 
-## Half of a Yellow Sun
-
-### by Chimamanda Ngozi Adichie
+![](/images/uploads/half-of-a-yellow-sun_canva.jpg)
 
 ~ summarised by Maggie Robertson
-
-![Picture shows a piece of artwork depicting two Nigerian sisters facing away from eachother. One is wearing a headscarf, the other wears her natural hair out. The background is half of a bright yellow sun.  ]()
 
 If you holidayed in Nigeria for a month, I wonder if you would learn more about the country than in this sweeping story of love and brutal civil war set in the 1960s. It takes you from orchards and forests near Port Harcourt in the south, where the rain falls sideways and the air is heavy with moisture from the Atlantic, to the north of the country, where the sun-seared land merges with the silver-and-white sky, and the fine grey sand gets into everything.
 
