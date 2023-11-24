@@ -62,8 +62,8 @@ My August bank holiday in Wales ended, like so many wet days, with the rain clea
 
 **If you are planning an activity where the weather could put you in danger (say, climbing Ben Nevis) pay attention to the weather forecast.** Otherwise, why torment yourself? If you just want to know if you are going to get wet in the next hour or so, checking the Met Office’s rain radar is more useful anyway.
 
-##### Attitude plays a part. Don’t waste time worrying about whether the weather will turn out as you want it to be. Take it as it comes. Your holiday will still be special.
+Attitude plays a part. Don’t waste time worrying about whether the weather will turn out as you want it to be. Take it as it comes. Your holiday will still be special.
 
-### So often, the weather turns out better than you expect. If it does the opposite, perhaps it will make a good story.
+###### So often, the weather turns out better than you expect. If it does the opposite, perhaps it will make a good story.
 
 ![Image shows the view from near the summit of Ben Nevis on a clear day. There are a few clouds in the distance and miles of peaks. There is a cairn and lots of scree on Ben Nevis](/images/uploads/ben_nevis.jpg "If you are very lucky there is a clear view from the top of Ben Nevis")
