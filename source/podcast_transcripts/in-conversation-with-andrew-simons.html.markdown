@@ -1,7 +1,7 @@
 ---
 published: true
 title: In conversation with Andrew Simons
-date: 2023-09-28T11:12:27.901Z
+date: 2023-10-19T11:12:27.901Z
 cover_image: /images/uploads/theflightfreepodcast-september2023.jpg
 summary: Saillink founder Andrew Simons shares his plans for a new cross-channel
   ferry service by sailing boat
