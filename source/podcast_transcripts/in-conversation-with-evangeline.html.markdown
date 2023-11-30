@@ -7,6 +7,8 @@ summary: Flight Free UK speaks musician, writer and shaman Evangeline
 author: FlightFree UK
 read_time_minute: 4
 ---
+*T﻿his is episode 11 of our 2023 podcast series. Listen to the episode here and find other episodes and previous series [here](https://flightfree.co.uk/podcast).*
+
 ### This month we are speaking to Evangeline, a writer, musician and shaman. Evangeline shares with us her relationship with the land as a shaman and how that influences how she travels.
 
 As a shaman I spend time connecting to the land and the spirits of the land, and connecting to people’s ancestors. It’s about decolonising and getting back into nature, connecting to the land and the UK, and not harming the land.
@@ -36,3 +38,9 @@ Another reason for not wanting to travel is that tourism often takes away resour
 Part of decolonising is having a relationship with that land and taking into account the wants and needs of that place. Just because I want to go somewhere doesn’t mean that the land can actually receive me. It might not have enough water, I might be eroding the soil. You’re just overriding the will of every other living being because you feel like your holiday is more important. 
 
 I think I will travel again, maybe not by plane, but if I go, I will ask for permission first. It has to be a two-way thing – we can’t just keep overriding nature and the land and just doing what we want.
+
+*L﻿isten to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-andrew-simons/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast).*
+
+***Credits:***
+
+*Interview conducted and produced by Anna Hughes. Voiceover: Lou Millington. Intro music:* [](https://uppbeat.io/t/dan-barton/the-executive-lounge)*[Call to Arms by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/call-to-arms) Outro music: [First Action Hero by Aaron Paul Low.](https://uppbeat.io/t/aaron-paul-low/first-action-hero)*
