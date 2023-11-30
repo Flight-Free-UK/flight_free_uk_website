@@ -8,7 +8,7 @@ summary: We speak to musician, writer and shaman Evangeline about our
 author: FlightFree UK
 read_time_minute: 4
 ---
-*T﻿his is episode 11 of our 2023 podcast series. Listen to the episode here and find other episodes and previous series [here](https://flightfree.co.uk/podcast).*
+*T﻿his is episode 11 of our 2023 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-evangeline/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast).*
 
 ### This month we are speaking to Evangeline, a writer, musician and shaman. Evangeline shares with us her relationship with the land as a shaman and how that influences how she travels.
 
@@ -40,7 +40,7 @@ Part of decolonising is having a relationship with that land and taking into acc
 
 I think I will travel again, maybe not by plane, but if I go, I will ask for permission first. It has to be a two-way thing – we can’t just keep overriding nature and the land and just doing what we want.
 
-*L﻿isten to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-andrew-simons/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast).*
+*L﻿isten to the full episode [here](https://flightfreeuk.podbean.com/e/in-conversation-with-evangeline/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast).*
 
 ***Credits:***
 
