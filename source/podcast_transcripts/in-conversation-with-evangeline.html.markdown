@@ -3,7 +3,8 @@ published: true
 title: In conversation with Evangeline
 date: 2023-11-30T15:02:54.617Z
 cover_image: /images/uploads/flight-free-podcast-evangeline.jpg
-summary: Flight Free UK speaks musician, writer and shaman Evangeline
+summary: We speak to musician, writer and shaman Evangeline about our
+  relationship with the land and how that relates to how we travel
 author: FlightFree UK
 read_time_minute: 4
 ---
