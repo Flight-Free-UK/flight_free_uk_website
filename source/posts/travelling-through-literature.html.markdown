@@ -77,7 +77,7 @@ Kerala is known as God's Own Country, on the coast of South India, famous for it
 
 *"By early June the southwest monsoon breaks and there are three months of wind and water with short spells of sharp, glittering sunshine that thrilled children snatch to play with. The countryside turns an immodest green. Boundaries blur as tapioca fences take root and bloom. Brick walls turn mossgreen. Pepper vines snake up electric poles. Wild creepers burst through laterite banks and spill across the flooded roads. Boats ply in the bazaars. And small fish appear in the puddles that fill the PWD potholes on the highways."*
 
-![](/images/uploads/half-of-a-yellow-sun_canva.jpg "Half of a Yellow Sun by Chimamanda Ngozi Acichie ")
+![](/images/uploads/half-of-a-yellow-sun_canva.jpg "Half of a Yellow Sun by Chimamanda Ngozi Adichie ")
 
 ###### ~ summarised by Maggie Robertson
 
