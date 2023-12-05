@@ -74,7 +74,7 @@ Travelling to the Alps and back in electric vehicles is definitely achievable, b
 
 Of course, the easiest way to ski flight-free might be to stay in the UK! Resorts include Glencoe near Fort William, Glenshee and The Lecht in the Cairngorms, Helvellyn in the Lake District, and Weardale in Northumberland. 
 
-Even from the furthest reaches of the UK you could be in the Highlands in little over 24 hours, if you combine day trains with the Caldeonian Sleeper. 
+Even from the furthest reaches of the UK you could be in the Highlands in little over 24 hours, if you combine day trains with the [Caldeonian Sleeper](https://www.sleeper.scot/). 
 
 #### Further reading and help
 
@@ -82,6 +82,6 @@ The website [Snow Carbon](https://www.snowcarbon.co.uk/), run by ski journalist 
 
 Also highly recommended is [Ski Flight Free](https://skiflightfree.org/), set up by journalist and podcaster Iain Martin (who contributed significantly to this article – thanks Iain!). There you will find up-to-date information about services and routes to the Alps and other locations.
 
-[Read about how Flight Free UK director Anna Hughes travelled to the Swiss Alps by train](https://www.standard.co.uk/lifestyle/travel/sustainable-travel/sustainable-ski-trip-skiing-london-swiss-alps-b1057176.html).
+Read about how Flight Free UK director Anna Hughes travelled to the Swiss Alps by train [here](https://www.standard.co.uk/lifestyle/travel/sustainable-travel/sustainable-ski-trip-skiing-london-swiss-alps-b1057176.html).
 
 *\* CO2e calculations vary depending on your source. These numbers are based on data from Eurotunnel and Best Foot Forward/Anthesis. Figures for driving are based on four people sharing a car. The equivalent figure for flying is 162kg CO2e.*
