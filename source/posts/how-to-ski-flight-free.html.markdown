@@ -18,7 +18,7 @@ The time taken to travel by train can be very similar to flying once you’ve fa
 
 So give flight-free travel a try for your next ski trip, and get your holiday off to a relaxed and low-carbon start.
 
-![](/images/uploads/carbon-footprint-skiing-utopies.jpg "Graphic from Utopies")
+![](/images/uploads/pow_ski-travel-infographic-v4.2.jpg)
 
 #### Eurostar Snow Train (26kg CO2e*)
 
