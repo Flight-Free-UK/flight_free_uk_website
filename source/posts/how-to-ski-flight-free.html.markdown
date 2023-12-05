@@ -20,15 +20,15 @@ So give flight-free travel a try for your next ski trip, and get your holiday of
 
 ![](/images/uploads/carbon-footprint-skiing-utopies.jpg "Graphic from Utopies")
 
-#### Travelski Express (26kg CO2e*)
+#### Eurostar Snow Train (26kg CO2e*)
 
-The [Travelski Express](https://www.uk.travelski.com/travelski-express) is a direct train to the Alps from London St Pancras, run by Eurostar. 
+The Eurostar Snow Train takes you to the Alps from London St Pancras via Lille and is run by Eurostar. 
 
-There is one direct service a week, departing on a Friday evening, and you’ll wake up the following morning in the Tarentaise valley, the gateway to huge French ski resorts such as Tignes, Val d’Isere, Courchevel and Val Thorens. 
+There is one service a week, departing on Saturday mornings, from 16 December 27 January. You’ll arrive that evening in the Tarentaise valley, the gateway to huge French ski resorts such as Tignes, Val d’Isere, Courchevel and Val Thorens. 
 
-The big advantage of this service is that you arrive early on the Saturday, meaning you can ski seven days instead of the normal six if you fly. The return is during the day the following Saturday, leaving early and arriving back into London in the afternoon.
+The big advantage of this service is that the return journey is on the following Sunday morning, meaning you can ski seven days instead of the normal six if you fly. The return is during the day on the Sunday, leaving early and arriving back into London in the afternoon.
 
-Packages from Travelski include your train travel, accommodation, transfer and lift pass and offer good value for money. The only negative is that there are only upright seats on the outbound service, so it can be hard to get a good night’s sleep. 
+Train only tickets are available [from Eurostar](https://www.eurostar.com/uk-en/train/france/ski-train), with packages including your train travel, accommodation, transfer and lift pass available from [Travelski](https://www.uk.travelski.com/) and [Inghams.](https://www.inghams.co.uk/ski-holidays/articles/winter-insider-guides/eurostar-snow-train)
 
 #### Other train options
 
