@@ -74,7 +74,7 @@ Travelling to the Alps and back in electric vehicles is definitely achievable, b
 
 Of course, the easiest way to ski flight-free might be to stay in the UK! Resorts include Glencoe near Fort William, Glenshee and The Lecht in the Cairngorms, Helvellyn in the Lake District, and Weardale in Northumberland. 
 
-Even from the furthest reaches of the UK you could be in the Highlands in little over 24 hours, if you combine day trains with the [Caldeonian Sleeper](https://www.sleeper.scot/). 
+Even from the furthest reaches of the UK you could be in the Highlands in little over 24 hours, if you combine day trains with the [Caledonian Sleeper](https://www.sleeper.scot/). 
 
 #### Further reading and help
 
