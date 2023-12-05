@@ -84,4 +84,4 @@ Also highly recommended is [Ski Flight Free](https://skiflightfree.org/), set up
 
 [Read about how Flight Free UK director Anna Hughes travelled to the Swiss Alps by train](https://www.standard.co.uk/lifestyle/travel/sustainable-travel/sustainable-ski-trip-skiing-london-swiss-alps-b1057176.html).
 
-\* CO2e calculations vary depending on your source. These numbers are based on data from Eurotunnel and Best Foot Forward/Anthesis. Figures for driving are based on four people sharing a car. The equivalent figure for flying is 162kg CO2e.
+*\* CO2e calculations vary depending on your source. These numbers are based on data from Eurotunnel and Best Foot Forward/Anthesis. Figures for driving are based on four people sharing a car. The equivalent figure for flying is 162kg CO2e.*
