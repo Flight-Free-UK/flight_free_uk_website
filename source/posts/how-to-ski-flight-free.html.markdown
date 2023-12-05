@@ -4,7 +4,7 @@ title: How to ski flight free
 category: how-to
 date: 2023-12-05T17:02:24.011Z
 cover_image: /images/uploads/anzere-ski_ahughes.jpg
-summary: A short guide to getting to the slopes without flying
+summary: "A short guide to getting to the slopes without flying "
 author: FlightFree UK
 read_time_minute: 5
 ---
