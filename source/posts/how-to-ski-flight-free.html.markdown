@@ -8,6 +8,8 @@ summary: "A short guide to getting to the slopes without flying "
 author: FlightFree UK
 read_time_minute: 5
 ---
+![](/images/uploads/anzere-ski_ahughes.jpg)
+
 ### Skiing is perhaps one of the activities where it makes most sense to avoid a flight, given that the emissions from flights have a direct negative impact on the amount of snow to be found on the slopes. 
 
 ##### Calculations suggest that over half of the emissions of your ski trip come from air travel, so choosing to travel in other ways can go a long way to ensuring there will be snow for many years to come.
