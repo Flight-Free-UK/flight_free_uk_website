@@ -46,7 +46,7 @@ You can book the entire journey on websites like [Rail Europe](https://www.raile
 
 Coach travel has changed a lot in recent years. Companies like [Snowcoach](https://www.snowcoach.co.uk/travel-by-luxury-snowcoach) offer spacious seats with good legroom, reclining seats and travel blankets. They are a tour operator with good value packages to resorts in France.
 
-[Snow Express](https://www.snowexpress.co.uk/) is a weekly direct coach service from London to over 30 French ski resorts. Their coaches are equipped with free Wi-Fi and USB charging points. Seats cost from £99.
+[Snow Express](https://www.snowexpress.co.uk/) is a weekly direct coach service from London to over 30 French ski resorts. Their coaches are equipped with free Wi-Fi and USB charging points. 
 
 In both cases, coaches leave on Friday evenings, arriving early on Saturday. They leave the following Saturday evening, getting back to the UK on the Sunday. This means that you can ski for a full eight days – a significant difference if you only take one ski holiday a year. 
 
