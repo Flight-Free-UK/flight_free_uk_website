@@ -24,7 +24,9 @@ However, it also revealed the scale of the challenge. In order to meet our clima
 
 #### The phenomenon of ghost flights
 
-About a year into the pandemic it became clear that airlines were s﻿till flying some planes – most of them empty. T﻿he theory was that this was in order to keep their landing slots at airports. The rules state that landing slots need to be used a certain percentage of the time, otherwise the airline would lose them. G﻿erman airline Lufthansa p﻿redicted it would have to fly 18,000 empty planes, and in the UK, [40,000 planes flew empty or nearly empty](https://www.theguardian.com/environment/2022/sep/28/revealed-5000-completely-empty-ghost-flights-in-uk-since-2019-data-shows) between 2019 and 2022. 
+About a year into the pandemic it became clear that airlines were s﻿till flying some planes – most of them empty. T﻿his was thought to be so airlines could keep their landing slots at airports, given that the rules state that landing slots need to be used a certain percentage of the time, otherwise they lose them. G﻿erman airline Lufthansa p﻿redicted it would have to fly 18,000 empty planes, and in the UK, [40,000 planes flew empty or nearly empty](https://www.theguardian.com/environment/2022/sep/28/revealed-5000-completely-empty-ghost-flights-in-uk-since-2019-data-shows) between 2019 and 2022. 
+
+
 
 We launched a petition to ask the UK government to change the slot rules so planes didn't have to fly empty. [Here is the outcome of that petition](/post/ghost-flights-petition-response/).
 
