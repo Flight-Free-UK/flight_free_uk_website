@@ -70,7 +70,7 @@ This is the kind of mindset needed to address the very real, if less tangible, c
 
 One long-term effect has been the impact on work travel, and the rise of online and remote working. It very quickly became apparent that the business world could still function effectively without people taking flights, and the benefits of conducting business online became very clear. Technology improved very quickly in response to the business world’s need to keep going. Even though some business flights have returned, this is something that has had a long-term legacy. 
 
-##### Something that has helped us to keep going when faced with the personal and professional challenges of Covid is people sharing their positive experiences. We asked our followers what positives had come out of lockdown, with uplifting results:
+###### Something that has helped us to keep going when faced with the personal and professional challenges of Covid is people sharing their positive experiences. We asked our followers what positives had come out of lockdown, with uplifting results:
 
 “Consuming much less, spending much less money, driving much less, completing more projects.”
 
