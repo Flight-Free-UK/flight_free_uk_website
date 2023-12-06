@@ -2,13 +2,13 @@
 published: true
 title: Impact of Covid
 category: opinion
-date: 2023-12-06T14:58:17.356Z
+date: 2023-02-08T14:58:17.356Z
 cover_image: /images/uploads/covid.jpg
-summary: We take a look at what impact Covid-19 has on our work
+summary: We take a look at the impact that Covid-19 had on our work
 author: FlightFree UK
 read_time_minute: 6
 ---
-### The Covid-19 pandemic brought huge disruption, challenges and difficulties to many of our lives. 
+### The Covid-19 pandemic brought huge disruption, challenges and difficulties to many of our lives.
 
 ##### One effect was that it grounded all aircraft for a time, which on face value is the aim of our campaign. However, the effects are more nuanced. 
 
@@ -38,7 +38,7 @@ Both of these are natural reactions to having our freedom of choice taken away. 
 
 #### Bounce back and bailouts
 
-Air bookings were [predicted to reach pre-pandemic levels](https://news.un.org/en/story/2023/02/1133347) in 2023. The shift to low-carbon behaviours that many people hoped for as a result of the pandemic never materialised.
+Air bookings were predicted to [reach pre-pandemic levels](https://news.un.org/en/story/2023/02/1133347) in 2023. The shift to low-carbon behaviours that many people hoped for as a result of the pandemic never materialised.
 
 Partly this is a result of government prioritising the recovery of air travel, and granting bailouts to struggling airlines. We [co-signed a letter](https://stay-grounded.org/lets-stay-grounded/savepeoplenotplanes/) asking for any bailout to come with heavy environmental conditions, given that airlines benefit from no taxation in the good times, so should not expect state support in the bad times. 
 
