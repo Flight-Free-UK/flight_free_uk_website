@@ -122,6 +122,4 @@ In Hendaye I rented an apartment for a week to rest before the mountain challeng
 
 ![Picture shows a bike from ground level. Through the frame of the bike you can see the sunsetting in the background. ](/images/uploads/steve-masters-bike.jpg)
 
-*For tips on travelling by train across Europe, see our blogs [here](https://flightfree.co.uk/post/travel-tips-for-train-first-timers/) and [here](https://flightfree.co.uk/post/train-setting-across-europe/).* 
-
 *[RailEurope](https://www.raileurope.com), [Trainline](https://www.thetrainline.com) and [Eurostar](https://www.eurostar.com/uk-en) will all sell tickets for these journeys, though the cheapest prices might be found through [Ouigo (SNCF)](https://en.oui.sncf/en/ouigo).*
