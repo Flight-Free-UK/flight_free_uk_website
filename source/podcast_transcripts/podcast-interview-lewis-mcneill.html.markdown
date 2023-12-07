@@ -9,7 +9,7 @@ summary: A keen traveller, it was difficult for Lewis to reconcile his desire to
 author: FlightFree UK
 read_time_minute: 2
 ---
-*We recorded an interview with Lewis which is summarised here. For the full audio interview go to our* *[podcast](https://www.flightfree.co.uk/podcast)* *page.*
+*We recorded an interview with Lewis which is summarised here. For the full audio interview click [here](https://soundcloud.com/info-728724237/lewis-mcneill).*
 
 ### It was George Monbiot’s book [‘Heat’ ](https://www.monbiot.com/books/heat/)that switched Lewis on to the idea of not flying.
 
