@@ -9,15 +9,17 @@ summary: A keen traveller, it was difficult for Lewis to reconcile his desire to
 author: FlightFree UK
 read_time_minute: 2
 ---
-*We recorded an interview with Lewis which is summarised here. For the full audio interview click [here](https://soundcloud.com/info-728724237/lewis-mcneill).*
+*Our interview with Lewis is summarised here. For the full audio interview go to our [soundcloud page](https://soundcloud.com/info-728724237/lewis-mcneill).*
 
-### It was George Monbiot’s book [‘Heat’ ](https://www.monbiot.com/books/heat/)that switched Lewis on to the idea of not flying.
+### It was George Monbiot’s book ‘Heat’ that switched Lewis on to the idea of not flying.
 
-That and attending Camp for Climate Action, a place where it really hit home that climate change activism meant a complete lifestyle change. 
+##### That and attending Camp for Climate Action, a place where it really hit home that climate change activism meant a complete lifestyle change. 
 
-He remembers speaking to someone from Plane Stupid about his forthcoming trip to Bali where he would be taking part in volunteer work, and being ‘allowed’ to fly for that because it was such a good cause. The person gently pointed out that it might be better if those people on those islands were doing that work rather than privileged middle-class kids flying out to do ‘their bit’ for a couple of months, in the process, being responsible for tons of carbon emissions. Despite being indignant at first, those two encounters got him thinking. When it comes to aviation, there’s just no way around it. If you’re going to travel so far, so quickly, it’s going to take a hell of a lot of fossil fuel.
+He remembers speaking to someone from Plane Stupid about his forthcoming trip to Bali where he would be taking part in volunteer work, and being ‘allowed’ to fly for that because it was such a good cause. The person gently pointed out that it might be better if those people on those islands were doing that work rather than privileged middle-class kids flying out to do ‘their bit’ for a couple of months, in the process, being responsible for tons of carbon emissions. 
 
-> "When it comes to aviation, there’s just no way around it. It’s going to take a hell of a lot of fossil fuel."
+Despite being indignant at first, those two encounters got him thinking. When it comes to aviation, there’s just no way around it. If you’re going to travel so far, so quickly, it’s going to take a hell of a lot of fossil fuel.
+
+> When it comes to aviation, there’s just no way around it. It’s going to take a hell of a lot of fossil fuel.
 
 ### So that was back in 2007, and Lewis made the decision to stop flying.
 
@@ -27,7 +29,7 @@ It would have been amazing to go by yacht – a really low-carbon way of crossin
 
 It was surprisingly expensive – €90 each per day – which is really frustrating because flying is so much cheaper. When you stop flying, you realise the injustice of the transport system. But it’s not a like-for-like journey, so in reality it’s great value. They had a lovely little cabin (no sleeping in a container!) with a sea view, great food and lots of time to read and reflect and to practice their Spanish. A highlight was seeing the stars at night, because when else are you going to be that far from human habitation? They got to know the crew and were really sad to leave the boat at the end. The trip felt like a holiday in itself. 
 
-> "When you stop flying, you realise the injustice of the transport system."
+> When you stop flying, you realise the injustice of the transport system.
 
 The best part was that you slowly acclimatise to where you’re going, you’re not just dropped from an artificially ventilated pod into a new climate. Yes, it does take ages, and that’s not going to suit everyone, but it’s important to recognise the benefit of these different modes of travelling. 
 
