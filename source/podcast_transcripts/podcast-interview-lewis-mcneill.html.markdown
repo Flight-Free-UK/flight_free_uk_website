@@ -13,7 +13,7 @@ read_time_minute: 2
 
 ### It was George Monbiot’s book ‘Heat’ that switched Lewis on to the idea of not flying.
 
-##### That and attending Camp for Climate Action, a place where it really hit home that climate change activism meant a complete lifestyle change. 
+##### That and attending Camp for Climate Action, a place where it really hit home that climate change activism meant a complete lifestyle change.
 
 He remembers speaking to someone from Plane Stupid about his forthcoming trip to Bali where he would be taking part in volunteer work, and being ‘allowed’ to fly for that because it was such a good cause. The person gently pointed out that it might be better if those people on those islands were doing that work rather than privileged middle-class kids flying out to do ‘their bit’ for a couple of months, in the process, being responsible for tons of carbon emissions. 
 
@@ -35,10 +35,12 @@ The best part was that you slowly acclimatise to where you’re going, you’re 
 
 ### Back in Europe, Lewis has spent many hours on long-distance coaches.
 
- To the Pyrenees it was 27 hours; all the way to the Costa del Sol, from London Victoria to Malaga, was 40 hours. That was grim! You have to have the right attitude and be prepared. There are times you just want to lie down! But there are also times when it’s phenomenal – passing through incredible countryside, seeing the landscape become more arid as you make your way through Spain, passing through towns and places you would never go because they’re not tourist places, seeing everyday scenes of real France and real Spain. And there is great camaraderie amongst the passengers, especially among those who are doing the entire journey. You wouldn’t get that on a plane. 
+To the Pyrenees it was 27 hours; all the way to the Costa del Sol, from London Victoria to Malaga, was 40 hours. That was grim! You have to have the right attitude and be prepared. There are times you just want to lie down! 
 
-> "There is great camaraderie amongst the passengers. You wouldn’t get that on a plane." 
+But there are also times when it’s phenomenal – passing through incredible countryside, seeing the landscape become more arid as you make your way through Spain, passing through towns and places you would never go because they’re not tourist places, seeing everyday scenes of real France and real Spain. And there is great camaraderie amongst the passengers, especially among those who are doing the entire journey. You wouldn’t get that on a plane. 
+
+> There is great camaraderie amongst the passengers. You wouldn’t get that on a plane.
 
 It was great to hear Lewis’s stories about how travel by means other than aeroplanes can really give you a different experience, and the world can feel richer as a result. Thank you Lewis for speaking with us.
 
-*The full audio interview can be found on our* *[podcast](/podcast)* *page.*
+*The full audio interview can be found on our [soundcloud page](https://soundcloud.com/info-728724237/lewis-mcneill).*
