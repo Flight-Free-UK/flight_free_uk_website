@@ -1,6 +1,6 @@
 ---
 published: true
-title: Our two pledge options
+title: What is the Flight Free Challenge?
 category: explainer
 date: 2023-01-24T12:21:50.144Z
 cover_image: /images/uploads/could-you-take-flight-free-challenge.jpg
