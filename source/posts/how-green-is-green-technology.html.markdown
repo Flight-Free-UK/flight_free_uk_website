@@ -19,11 +19,11 @@ We take a look at some of the developments on the horizon.
 
 #### Electric planes
 
-Electrification is touted as the best way to decarbonise most modes of transport, and aviation is no exception. Electric planes of varying types and sizes, including solar planes, have been presented by many of the big players in the industry.
+Electrification is touted as the best way to decarbonise most modes of transport, and aviation is no exception. Electric planes of varying types and sizes, including solar planes, have been presented by many of the big players in the industry including [Rolls Royce](https://www.bbc.co.uk/news/uk-england-derbyshire-60068786).
 
-However, electric flight is not without environmental and human cost. Significant resources that go into making batteries, and the sourcing of these resources often involves human rights abuses and child exploitation.
+The first consideration is that electric transportation is not without environmental and human cost, with significant resources going into making batteries, and the sourcing of materials often involving human rights abuses and child exploitation. Of course, this is [nowhere near as high](https://www.sustainabilitybynumbers.com/p/mining-low-carbon-vs-fossil) as the resources (and human rights abuses) used for fossil fuel extraction. 
 
-The flights would only be 'carbon neutral' if the electricity were to come from renewable sources. Estimates suggest that we would need to quadruple our renewable energy output to meet demand for electric aviation.
+Secondly, flights would only be 'carbon neutral' if the electricity were to come from renewable sources. Estimates suggest that we would need to more than double our renewable energy output to meet demand for electric aviation. 
 
 This begs the question of whether using renewables for aviation is the best use of an already scarce power source. Priorities for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
 
