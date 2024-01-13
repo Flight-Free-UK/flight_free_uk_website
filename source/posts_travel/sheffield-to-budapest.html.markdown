@@ -36,7 +36,7 @@ We spent the last days of our holiday in the Netherlands, first in Utrecht with 
 
 The whole trip felt quite ambitious train-wise but it went so smoothly. I was surprised how well everything went, and how it felt like we’d had so long off because of the variety of the trip. I found the train travel a much more enjoyable experience than flying – firstly, Sheffield doesn’t have an airport so travelling to Budapest involves two trains to Manchester airport, the flight, and a bus into the city, which is not exactly straightforward or relaxing, but also, with train travel you get a sense of the countries and landscapes changing.
 
-My tips for long train travel are similar to any trip: pack light, have a meal and snacks to hand, headphones, reading material and a pack of playing cards, and consult seat61.com. Plan and enjoy the journey but if possible be flexible here and there, those unexpected stops and side trips can be the best parts.
+My tips for long train travel are similar to any trip: pack light, have a meal and snacks to hand, headphones, reading material and a pack of playing cards, and consult [seat61.com](https://www.seat61.com/). Plan and enjoy the journey but if possible be flexible here and there, those unexpected stops and side trips can be the best parts.
 
 I’d recommend the Interrail pass as it’s so flexible and removes a lot of nervousness as you can often change plans or get on another route. It’s free for kids too so that’s great for families. Certain trains require you to book reservations in advance, for example the night trains and Eurostar, but a lot don’t. Trains in Hungary are pretty cheap if you’re just wanting to book tickets there. 
 
@@ -44,7 +44,7 @@ Finally, I have coeliac disease which adds to the organisation of any trip! I al
 
 The real joy of slow travel is with me now, and I’d encourage anyone to consider it.
 
-Itinerary 
+##### Itinerary 
 
 * Sheffield
 * London
@@ -59,10 +59,11 @@ Itinerary 
 * London
 * Sheffield
 
-Travel Budget PP
+**Travel Budget PP**
 
-* Total £376
-* * Interrail Global Pass 1 month £281 (at half price offer)
-  * Eurostar supplement London - Brussels £28
-  * Nightjet Brussels - Vienna £39
-  * Eurostar Eurostar supplement Amsterdam - London £28
+Total £376
+
+* Interrail Global Pass 1 month £281 (at half price offer)
+* Eurostar supplement London - Brussels £28
+* Nightjet Brussels - Vienna £39 
+* Eurostar supplement Amsterdam - London £2
