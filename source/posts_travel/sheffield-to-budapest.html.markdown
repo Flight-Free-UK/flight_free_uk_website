@@ -10,17 +10,17 @@ read_time_minute: 5
 ---
 ![](/images/uploads/budapest_christmas_canva.jpg "Christmas time in Budapest")
 
-### Budapest is a beautiful city full of hot thermal baths, art nouveau architecture, and importantly for me, it’s where my sister and her family live. 
+### Budapest is a beautiful city full of hot thermal baths, art nouveau architecture, and importantly for me, it’s where my sister and her family live.
 
 ##### I’ve been lucky enough to visit a few times, usually by air, but last year I took my first trip there by train. It was by far my favourite.
 
 I had been feeling uneasy about my travel habits and their impact for a few years, and while I knew flying wasn’t good I just did it without too much thought. But then I discovered the flight free movement and, after looking at the numbers and reading about other people who had changed their habits, I decided to make a change. 
 
-I couldn’t reconcile flying with the other things I was trying to do to reduce my impact – they all seemed a bit futile when I looked at my flying. Going flight free was the simplest way to massively slash my carbon emissions, and all the travel blogs I’d found, together with the website seat61.com, made it sound like an adventure. 
+Going flight free was the simplest way to massively slash my carbon emissions, and all the travel blogs I’d found, together with the website [seat61.com](https://www.seat61.com/), made it sound like an adventure. 
 
 Interrail was offering half-price passes for its 50th anniversary, which was an offer too good to miss, so my partner and I bought a one month global pass. We had previously had a short rail holiday to Italy and France, which allowed us to test the water and see what it was like, and we wanted to try somewhere a bit further afield. Using an Interrail pass meant we could incorporate some detours and stops en route, so we planned a three-week adventure to my family in Hungary for Christmas. 
 
-The first leg was from Sheffield to Vienna, where my sister and niece came to meet us. We  spent a few days in the city, visiting Christmas markets and sightseeing (the natural history museum was a hit for all). Sheffield to Vienna is pretty straightforward, with a train to London, the Eurostar from London to Brussels, a quick stop for food, then onwards via the Nightjet to Vienna. 
+The first leg was from Sheffield to Vienna, where my sister and niece came to meet us. We spent a few days in the city, visiting Christmas markets and sightseeing (the natural history museum was a hit for all). Sheffield to Vienna is pretty straightforward, with a train to London, the Eurostar from London to Brussels, a quick stop for food, then onwards via the Nightjet to Vienna. 
 
 I’ve travelled on a few night trains before, and I find them time- and cost-efficient, while also providing a bit of child-like excitement from waking up in a new country. They have been of varying comfort but it’s always an adventure, so I was looking forward to this one. We’d made reservations for a four-person couchette but lucked out and ended up with a private sleeper for two. It was comfortable and while it’s not the best night’s sleep ever, it was easy enough to sleep. Waking up to snow outside and watching the landscape pass by as we travelled through Austria with a morning coffee ready to meet my sister was pretty special.
 
