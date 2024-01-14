@@ -22,7 +22,7 @@ If you are accustomed to nipping off to Europe for a city break, how about tryin
 
 Our go-to resource is [The Man in Seat 61](http://seat61.com) whose detailed accounts of how to get to almost any country in the world without flying is guaranteed to get you excited about flight-free adventures.
 
-Use our how-to pages to find your perfect flight-free trip: how to travel by train / coach / ferry / bike / electric car
+Use our how-to pages to find your perfect flight-free trip: how to travel by [train](/post/how-to-travel-by-train) / [coach](/post/how-to-travel-by-coach/) / [ferry](/post/how-to-travel-by-ferry/) / [bike](/post/how-to-travel-by-bike/) / [electric car](/post/how-to-travel-by-electric-car/)
 
 ## Know that you’re not doing this alone
 
