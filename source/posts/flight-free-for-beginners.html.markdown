@@ -40,6 +40,8 @@ The [testimonials section](https://flightfree.co.uk/be_inspired/#testimonials) o
 
 There aren’t many places you can’t reach with a combination of trains, ferries and coaches, but the options might seem a little daunting to start with. Transport maps of Europe will show you what the possibilities are, and once you’ve taken your first journey, it’s much easier the next time.
 
+Our posts '[How to travel by train](/post/how-to-travel-by-train/),' '[How to travel by coach](/post/how-to-travel-by-coach/)' and '[How to travel by ferry](/post/how-to-travel-by-ferry/)' will give you all the tips you need.
+
 ## Start small
 
 Try a trip within the UK, perhaps on a sleeper train, or to a remote location. Once you’ve practiced, you’ll be ready to cross the channel – and next thing you know you’ll be heading off on a 10-country interrail adventure!
