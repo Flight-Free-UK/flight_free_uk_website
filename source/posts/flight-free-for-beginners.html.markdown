@@ -46,6 +46,8 @@ Our posts '[How to travel by train](/post/how-to-travel-by-train/),' '[How to tr
 
 Try a trip within the UK, perhaps on a sleeper train, or to a remote location. Once you’ve practiced, you’ll be ready to cross the channel – and next thing you know you’ll be heading off on a 10-country interrail adventure!
 
+H﻿ave a look at our top recommendations [for a UK adventure](https://flightfree.co.uk/travel_articles/destination-uk/), or some easy [European destinations](https://flightfree.co.uk/travel_articles/destination-europe/) to reach without flying.
+
 ## Relish the perks 
 
 Travelling without flying means no restrictions on luggage, getting up to stretch your legs whenever you want to, and there’s a lot less waiting around and stress. You get more leg room and you can bring your own food and drink. Enjoy the benefits of flight-free travel!
