@@ -62,6 +62,8 @@ It’s a cliché, but when you travel overland, the holiday really does start th
 
 But the journey is all part of it. You can relax, work, read or sleep. Plus you get the incredible views from the window, and you will experience other places as a bonus if you have to make connections or interchanges. It’s a journey to be enjoyed, rather than endured.
 
+F﻿ind inspiration from our [travel blogs](https://flightfree.co.uk/how_to/#destination-inspiration). Particular favourites are an [overland trip to Sicily](https://flightfree.co.uk/travel_articles/sleeper-train-to-sicily/), or a journey from [Lancashire all the way to the south of Spain](https://flightfree.co.uk/travel_articles/spain-by-train/).
+
 ## Understand that it doesn’t always go right
 
 Of course, travel doesn’t always go right and flight-free travel is no exception. Trains can be delayed or cancelled, coaches break down, and ferries won’t run in bad weather. Try not to curse the flight-free travel gods – remember that flights get cancelled too. All travel comes with a risk of delays and problems, and those moments tend to overshadow the majority of the time when it runs smoothly. At least it will make a good story!
