@@ -42,6 +42,8 @@ There aren’t many places you can’t reach with a combination of trains, ferri
 
 Our posts '[How to travel by train](/post/how-to-travel-by-train/),' '[How to travel by coach](/post/how-to-travel-by-coach/)' and '[How to travel by ferry](/post/how-to-travel-by-ferry/)' will give you all the tips you need.
 
+![](/images/uploads/how-to-travel-by-ferry_routes.jpg)
+
 ## Start small
 
 Try a trip within the UK, perhaps on a sleeper train, or to a remote location. Once you’ve practiced, you’ll be ready to cross the channel – and next thing you know you’ll be heading off on a 10-country interrail adventure!
@@ -51,6 +53,8 @@ H﻿ave a look at our top recommendations [for a UK adventure](https://flightfre
 ## Relish the perks 
 
 Travelling without flying means no restrictions on luggage, getting up to stretch your legs whenever you want to, and there’s a lot less waiting around and stress. You get more leg room and you can bring your own food and drink. Enjoy the benefits of flight-free travel!
+
+S﻿peaking of perks, have you heard of [Climate Perks](https://www.climateperks.com/)? It's a scheme run by climate charity [Possible](https://www.wearepossible.org/), where people can get paid travel days if they choose to go overland for holidays. See if your company will sign up to the scheme! 
 
 ## Make the journey part of the holiday
 
