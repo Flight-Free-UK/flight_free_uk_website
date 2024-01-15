@@ -73,3 +73,5 @@ Try not to curse the flight-free travel gods – remember that flights get cance
 ## Staying put is awesome too
 
 Of course, being flight free doesn't have to involve travel at all. Enjoying where you are is very beneficial to our bodies and minds, not to mention our wallets. How about challenging yourself to a hyperlocal adventure? It can be just as adventurous as travelling around the world.
+
+R﻿ead about our director [Anna Hughes who had the adventure of a lifetime without leaving the UK](https://flightfree.co.uk/travel_articles/a-very-british-adventure/), round-world adventurer [Alastair Humphreys who found all he needed in his home county of Yorkshire](https://flightfree.co.uk/travel_articles/adventure-begins-at-home/), and the surprising discoveries made by people from all corners of the UK when lockdown forced us to look [close to home](https://flightfree.co.uk/post/impact-of-covid/).
