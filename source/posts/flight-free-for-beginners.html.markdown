@@ -76,4 +76,4 @@ Of course, being flight free doesn't have to involve travel at all. Enjoying whe
 
 R﻿ead about our director [Anna Hughes who had the adventure of a lifetime without leaving the UK](https://flightfree.co.uk/travel_articles/a-very-british-adventure/), round-world adventurer [Alastair Humphreys who found all he needed in his home county of Yorkshire](https://flightfree.co.uk/travel_articles/adventure-begins-at-home/), and the surprising discoveries made by people from all corners of the UK when lockdown forced us to look [close to home](https://flightfree.co.uk/post/impact-of-covid/).
 
-![](/images/uploads/roundbritainbike.jpg)
+![](/images/uploads/roundbritainbike.jpg "Adventure begins at home")
