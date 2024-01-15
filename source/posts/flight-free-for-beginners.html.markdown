@@ -32,6 +32,8 @@ Use our how-to pages to find your perfect flight-free trip: how to travel by [tr
 
 Many of the people who take our pledge aren’t sure how it’s going to turn out. One of these is [Miriam](https://www.facebook.com/photo/?fbid=2924935007755326&set=a.2927873117461515), who said, “I never thought I could go flight-free – I thought it was a crazy pledge! But I’ve loved it.” 
 
+![](/images/uploads/miriam_statement.jpg)
+
 The [testimonials section](https://flightfree.co.uk/be_inspired/#testimonials) on our blog page has stories from all kinds of people who have taken the pledge. Be inspired by people's reasons for reducing their flights, and be reassured that many people might have the same questions and circumstances as you. It’s not just you doing this – thousands of people are taking our challenge to stay grounded for the climate.
 
 ## Get wise with trains, coaches and ferries
