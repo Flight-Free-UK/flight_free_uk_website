@@ -28,7 +28,9 @@ I’ve travelled on a few night trains before, and I find them time- and cost-ef
 
 After a few days in Vienna we took a fast train to Budapest, just 2 hours 20 mins between the cities. We spent Christmas Eve relaxing in thermal baths, and enjoyed the quieter streets of the capital city in the holiday season. It’s surprisingly quick to get out into the countryside from the capital too. Hiking up the Danube bend between Nagymaros and Zebegény was an easy day trip by train.
 
-With Christmas over, we said goodbye to the family and headed north to Eger for a few days of exploring and another thermal bath (this time with Turkish baths too). It’s the second largest city in northern Hungary but really compact, known for its vineyards and Europe’s northernmost Ottoman minaret.
+With Christmas over, we said goodbye to the family and headed north and east to Eger for a few days of exploring and another thermal bath (this time with Turkish baths too). It’s the second largest city in northern Hungary but really compact, known for its vineyards and Europe’s northernmost Ottoman minaret. 
+
+![](/images/uploads/eger_janecandlish.jpg "Looking out over Eger in northern Hungary")
 
 Then it was back to Austria for a few days in Salzburg and Seefeld. I loved Salzburg, a real gem of a city with amazing festive markets and beautiful hills right in the city with great views of the castle and beyond. Coming from Sheffield I have an affinity with a hilly city.
 
@@ -70,4 +72,4 @@ Total £376
 * Interrail Global Pass 1 month £281 (at half price offer)
 * Eurostar supplement London - Brussels £28
 * Nightjet Brussels - Vienna £39 
-* Eurostar supplement Amsterdam - London £2
+* Eurostar supplement Amsterdam - London £28
