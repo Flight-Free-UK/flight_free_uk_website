@@ -14,9 +14,11 @@ read_time_minute: 1
 
 “I’ve been to Mallorca 15 times but I’ve never been to Cornwall!” 
 
-T﻿hese are the words of Gope Walker, who took our pledge in 2020. In his flight free year he explored the Welsh mountains and the Lake District, places that he would never have been to if he hadn’t been prompted to look elsewhere for his holidays. His verdict? “The mountains and lakes of England and Wales are among the most beautiful in the world.”
+T﻿hese are the words of [Gope Walker](https://flightfree.co.uk/post/flight-free-2021-gope-walker/), who took our pledge in 2020. In his flight free year he explored the Welsh mountains and the Lake District, places that he would never have been to if he hadn’t been prompted to look elsewhere for his holidays. His verdict? “The mountains and lakes of England and Wales are among the most beautiful in the world.”
 
 ![](/images/uploads/gope_walker.jpg "Triathlete and businessman Gope takes the Flight Free Challenge")
+
+R﻿ead Gope's inspiring testimonial [here](https://flightfree.co.uk/post/flight-free-2021-gope-walker/)!
 
 If you are accustomed to nipping off to Europe for a city break, how about trying a UK city break instead? From Truro in Cornwall to Aberdeen in Scotland, the UK has dozens of amazing cities that are worth exploring. Use your flight-free year as an opportunity to see some of them.
 
