@@ -66,7 +66,9 @@ F﻿ind inspiration from our [travel blogs](https://flightfree.co.uk/how_to/#des
 
 ## Understand that it doesn’t always go right
 
-Of course, travel doesn’t always go right and flight-free travel is no exception. Trains can be delayed or cancelled, coaches break down, and ferries won’t run in bad weather. Try not to curse the flight-free travel gods – remember that flights get cancelled too. All travel comes with a risk of delays and problems, and those moments tend to overshadow the majority of the time when it runs smoothly. At least it will make a good story!
+Of course, travel doesn’t always go right and flight-free travel is no exception! Trains can be delayed or cancelled, coaches break down, and ferries won’t run in bad weather. 
+
+Try not to curse the flight-free travel gods – remember that flights get cancelled too. All travel comes with a risk of delays and problems, so try not to let those moments overshadow the majority of the time when it runs smoothly. And if it does all go wrong, at least it will make a good story! 
 
 ## Staying put is awesome too
 
