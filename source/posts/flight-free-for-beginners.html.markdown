@@ -3,7 +3,7 @@ published: true
 title: Flight free for beginners
 category: how-to
 date: 2023-01-05T17:32:01.746Z
-cover_image: /images/uploads/trains-not-planes.jpg
+cover_image: /images/uploads/nick-seagrave-1tpldmxki-c-unsplash.jpg
 summary: If plane travel has always been your default, it can be difficult to
   know how to get started once air travel is off the table. Here are some tips
   to help.
