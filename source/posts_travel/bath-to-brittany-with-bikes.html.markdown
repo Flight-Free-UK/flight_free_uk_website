@@ -10,9 +10,11 @@ read_time_minute: 5
 ---
 ![](/images/uploads/brittany-bikes-sheijltjes.jpg "'Voie Verte' (greenway) cycle route in Brittany")
 
-### We’re a non-car family and own a longtail cargo bike for daily trips, shopping etc. A longtail cargo bike has an extended section behind the rider for two or three children and/or luggage and ours is electric.
+### We’re a non-car family and own a longtail cargo bike for daily trips, shopping etc. 
 
-##### Our children are five and eight years old and we frequently ride our bikes together. We’ve dreamt about taking bikes with us abroad for a little while now, so for our holiday last summer we looked at ferry ports that we could easily get to by train from Bath. Portsmouth was the obvious choice, with a direct train connection. 
+##### A longtail cargo bike has an extended section behind the rider for two or three children and/or luggage and ours is electric.
+
+Our children are five and eight years old and we frequently ride our bikes together. We’ve dreamt about taking bikes with us abroad for a little while now, so for our holiday last summer we looked at ferry ports that we could easily get to by train from Bath. Portsmouth was the obvious choice, with a direct train connection. 
 
 [Brittany Ferries](https://www.cyclesprog.co.uk/link/uncategorized/brittany-ferries/) offers four different routes to France from Portsmouth, so we looked for accommodation near those four ports. We found a holiday home about 15 miles from St Malo, which was doable by bike in terms of safety and hills, and meant we didn’t have to transport any camping equipment with us – just four people and all their luggage for 10 days’ holiday!
 
