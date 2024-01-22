@@ -30,7 +30,11 @@ On the day of travel we contacted the train manager and found out the only suita
 
 We went to explore the historic dockyards and when it was time for dinner, we found a restaurant with outdoor dining and parked our bikes right next to us.
 
-Cycling to the ferry was easy along National Cycle Network signposted routes. We had to queue with cars to check in but were then given priority to get on the ferry. Navigating around a ferry terminal that is designed for lorries and cars can be daunting, but cyclists are common passengers and ferry staff are used to bikes coming aboard. Our bikes were parked in a little space where some machinery was stored and fastened in place by the friendly ferry staff. We were asked to take all our luggage with us, which was a bit of a pain, but doable.
+> Navigating around a ferry terminal that is designed for lorries and cars can be daunting, but cyclists are common passengers and ferry staff are used to bikes coming aboard.
+
+Cycling to the ferry was easy along National Cycle Network signposted routes. We had to queue with cars to check in but were then given priority to get on the ferry. Navigating around a ferry terminal that is designed for lorries and cars can be daunting, but cyclists are common passengers and ferry staff are used to bikes coming aboard. 
+
+Our bikes were parked in a little space where some machinery was stored and fastened in place by the friendly ferry staff. We were asked to take all our luggage with us, which was a bit of a pain, but doable.
 
 ##### The ferry travelled overnight from Portsmouth to St Malo, and we had a cabin with two bunk beds in it.
 
