@@ -20,7 +20,7 @@ Brittany (actually most of France) is well-served by cycle routes, and we used t
 
 Taking bikes on a train can be a bit of a challenge depending on where you live, let alone with two cargo bikes (we borrowed a second one from a friend for this trip), two kids and luggage. We decided to do a test run a few weeks beforehand, so we knew we’d fit and how long we’d need, without having the time pressure of a ferry to catch.
 
-It was a good job we did, as the test run didn’t go well! Our bikes fitted in the lift so we could easily get onto the platform, but once the train arrived it turned out there was no way our bikes could make the turn to get into the carriage. 
+##### It was a good job we did, as the test run didn’t go well! Our bikes fitted in the lift so we could easily get onto the platform, but once the train arrived it turned out there was no way our bikes could make the turn to get into the carriage. 
 
 The very helpful station staff told us that on any given day there were two trains running to Portsmouth with the type of carriage that would very likely be suitable for our bikes. The train manager gave us his phone number and suggested we call him on the morning of our travel day to check which train would be suitable for us to take to Portsmouth. Our ferry didn’t leave until the evening, so we had the whole day to get there. What a kind and generous manager!
 
@@ -30,7 +30,9 @@ We went to explore the historic dockyards and when it was time for dinner, we fo
 
 Cycling to the ferry was easy along National Cycle Network signposted routes. We had to queue with cars to check in but were then given priority to get on the ferry. Navigating around a ferry terminal that is designed for lorries and cars can be daunting, but cyclists are common passengers and ferry staff are used to bikes coming aboard. Our bikes were parked in a little space where some machinery was stored and fastened in place by the friendly ferry staff. We were asked to take all our luggage with us, which was a bit of a pain, but doable.
 
-The ferry travelled overnight from Portsmouth to St Malo, and we had a cabin with two bunk beds in it. One of our children went straight to sleep after we got on the ferry and the other wanted to go up on deck to wave England goodbye. Spending the night on the ferry was fun and comfortable and in the morning we all had breakfast in the restaurant on board.
+##### The ferry travelled overnight from Portsmouth to St Malo, and we had a cabin with two bunk beds in it. 
+
+One of our children went straight to sleep after we got on the ferry and the other wanted to go up on deck to wave England goodbye. Spending the night on the ferry was fun and comfortable and in the morning we all had breakfast in the restaurant on board.
 
 Getting off the ferry was easy, although it was rather cold and windy. The 15-mile trip to our accommodation was the least fun bit of the entire holiday with kids being tired and cold, and as it was early on a Sunday morning, stops were not easy to find. We decided to stop and warm up in the first village cafe we found outside St Malo and then continued on to get to our accommodation. The journey took about two hours in total, with stops.
 
@@ -42,6 +44,8 @@ We found other road users to be very respectful when sharing the space with us a
 
 Once it was time to return to the UK, we cycled back to St Malo, right into the spectacular historic walled city, which was so much more fun than parking outside the town and walking in. We stayed right next to the seaside and spent a lovely sunny day in the city before taking the daytime ferry back to Portsmouth the next day.
 
+> ...we cycled back to St Malo, right into the spectacular historic walled city, which was so much more fun than parking outside the town and walking in.
+
 On both ferry journeys there were only a handful of other cyclists, and we were surprised there weren’t more! We stayed the night in Portsmouth on our return to allow plenty of time and options to get our bikes back on the train to Bath the next day. Getting on at Portsmouth Harbour is really easy because it’s the start of the line. It’s also where the ferry to the Isle of Wight and North Spain departs, so plenty of adventures to be had from Portsmouth!
 
 If you don’t own a [family cargo bike](https://www.cyclesprog.co.uk/category/cargo-bikes/) or don’t want to take bikes on trains in the UK, you could take the ferry as foot passengers and hire bikes in France.
@@ -52,4 +56,4 @@ The [French cycling tourism website](https://en.francevelotourisme.com/) has l
 
 For more tips and inspiration for cycling holidays, check out the holiday section [on the Cycle Sprog website](https://www.cyclesprog.co.uk/category/get-cycling/family-cycling-holidays/).
 
-*Saskia Heijltjes is content editor for family cycling website [Cycle Sprog](https://www.cyclesprog.co.uk/). She is a mum of two children and a campaigner for better infrastructure for walking, wheeling and cycling.*
+###### *Saskia Heijltjes is content editor for family cycling website [Cycle Sprog](https://www.cyclesprog.co.uk/). She is a mum of two children and a campaigner for better infrastructure for walking, wheeling and cycling.*
