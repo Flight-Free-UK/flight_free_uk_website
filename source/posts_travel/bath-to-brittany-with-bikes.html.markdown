@@ -60,7 +60,7 @@ There are plenty of places [where you can hire bikes](https://www.saint-malo-to
 
 The [French cycling tourism website](https://en.francevelotourisme.com/) has lots of information about cycle hire too.
 
-For more tips and inspiration for cycling holidays, check out the holiday section [on the Cycle Sprog website](https://www.cyclesprog.co.uk/category/get-cycling/family-cycling-holidays/).
+###### For more tips and inspiration for cycling holidays, check out the holiday section [on the Cycle Sprog website](https://www.cyclesprog.co.uk/category/get-cycling/family-cycling-holidays/).
 
 *Saskia Heijltjes is content editor for family cycling website [Cycle Sprog](https://www.cyclesprog.co.uk/). She is a mum of two children and a campaigner for better infrastructure for walking, wheeling and cycling.* 
 
