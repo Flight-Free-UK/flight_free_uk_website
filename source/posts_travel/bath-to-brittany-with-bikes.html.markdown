@@ -58,4 +58,6 @@ The [French cycling tourism website](https://en.francevelotourisme.com/) has l
 
 For more tips and inspiration for cycling holidays, check out the holiday section [on the Cycle Sprog website](https://www.cyclesprog.co.uk/category/get-cycling/family-cycling-holidays/).
 
-###### *Saskia Heijltjes is content editor for family cycling website [Cycle Sprog](https://www.cyclesprog.co.uk/). She is a mum of two children and a campaigner for better infrastructure for walking, wheeling and cycling.*
+*Saskia Heijltjes is content editor for family cycling website [Cycle Sprog](https://www.cyclesprog.co.uk/). She is a mum of two children and a campaigner for better infrastructure for walking, wheeling and cycling.* 
+
+*Y﻿ou can read an extended version of this blog [on the Cycle Sprog website](https://www.cyclesprog.co.uk/get-cycling/family-cycling-holidays/family-holiday-in-brittany-by-bike-train-and-ferry/), with more detail about the bikes, and tips for travelling this way yourself!*
