@@ -22,7 +22,7 @@ Brittany (actually most of France) is well-served by cycle routes, and we used t
 
 Taking bikes on a train can be a bit of a challenge depending on where you live, let alone with two cargo bikes (we borrowed a second one from a friend for this trip), two kids and luggage. 
 
-##### We decided to do a test run a few weeks beforehand, so we knew we’d fit and how long we’d need, without having the time pressure of a ferry to catch.
+##### We decided to do a test run a few weeks beforehand, so we knew we’d fit and how long we’d need, without having the time-pressure of a ferry to catch.
 
 It was a good job we did, as the test run didn’t go well! Our bikes fitted in the lift so we could easily get onto the platform, but once the train arrived it turned out there was no way our bikes could make the turn to get into the carriage. 
 
