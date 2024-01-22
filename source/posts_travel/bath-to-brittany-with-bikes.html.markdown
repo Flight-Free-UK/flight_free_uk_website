@@ -10,9 +10,9 @@ read_time_minute: 5
 ---
 ![](/images/uploads/brittany-bikes-sheijltjes.jpg "'Voie Verte' (greenway) cycle route in Brittany")
 
-### We’re a non-car family and own a longtail cargo bike for daily trips, shopping etc. 
+### We’re a non-car family and own a longtail cargo bike for daily trips, shopping etc.
 
-##### A longtail cargo bike has an extended section behind the rider for two or three children and/or luggage and ours is electric.
+##### A longtail cargo bike has an extended section behind the rider for two or three children and/or luggage, and ours is electric.
 
 Our children are five and eight years old and we frequently ride our bikes together. We’ve dreamt about taking bikes with us abroad for a little while now, so for our holiday last summer we looked at ferry ports that we could easily get to by train from Bath. Portsmouth was the obvious choice, with a direct train connection. 
 
@@ -20,9 +20,9 @@ Our children are five and eight years old and we frequently ride our bikes toget
 
 Brittany (actually most of France) is well-served by cycle routes, and we used the [French cycle tourism website](https://en.francevelotourisme.com/) to look for good destinations for cycling. The Eurovelo route 4 goes all the way from Ukraine to the Western tip of France, including the coast line of Brittany.
 
-Taking bikes on a train can be a bit of a challenge depending on where you live, let alone with two cargo bikes (we borrowed a second one from a friend for this trip), two kids and luggage. We decided to do a test run a few weeks beforehand, so we knew we’d fit and how long we’d need, without having the time pressure of a ferry to catch.
+##### Taking bikes on a train can be a bit of a challenge depending on where you live, let alone with two cargo bikes (we borrowed a second one from a friend for this trip), two kids and luggage. We decided to do a test run a few weeks beforehand, so we knew we’d fit and how long we’d need, without having the time pressure of a ferry to catch.
 
-##### It was a good job we did, as the test run didn’t go well! Our bikes fitted in the lift so we could easily get onto the platform, but once the train arrived it turned out there was no way our bikes could make the turn to get into the carriage. 
+It was a good job we did, as the test run didn’t go well! Our bikes fitted in the lift so we could easily get onto the platform, but once the train arrived it turned out there was no way our bikes could make the turn to get into the carriage. 
 
 The very helpful station staff told us that on any given day there were two trains running to Portsmouth with the type of carriage that would very likely be suitable for our bikes. The train manager gave us his phone number and suggested we call him on the morning of our travel day to check which train would be suitable for us to take to Portsmouth. Our ferry didn’t leave until the evening, so we had the whole day to get there. What a kind and generous manager!
 
@@ -32,7 +32,7 @@ We went to explore the historic dockyards and when it was time for dinner, we fo
 
 Cycling to the ferry was easy along National Cycle Network signposted routes. We had to queue with cars to check in but were then given priority to get on the ferry. Navigating around a ferry terminal that is designed for lorries and cars can be daunting, but cyclists are common passengers and ferry staff are used to bikes coming aboard. Our bikes were parked in a little space where some machinery was stored and fastened in place by the friendly ferry staff. We were asked to take all our luggage with us, which was a bit of a pain, but doable.
 
-##### The ferry travelled overnight from Portsmouth to St Malo, and we had a cabin with two bunk beds in it. 
+##### The ferry travelled overnight from Portsmouth to St Malo, and we had a cabin with two bunk beds in it.
 
 One of our children went straight to sleep after we got on the ferry and the other wanted to go up on deck to wave England goodbye. Spending the night on the ferry was fun and comfortable and in the morning we all had breakfast in the restaurant on board.
 
