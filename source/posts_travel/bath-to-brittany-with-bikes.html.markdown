@@ -8,7 +8,7 @@ summary: Cycling campaigner Saskia Heijltjes tells us about her family’s cycli
 author: FlightFree UK
 read_time_minute: 5
 ---
-![](/images/uploads/brittany-bikes-sheijltjes.jpg)
+![](/images/uploads/brittany-bikes-sheijltjes.jpg "'Voie Verte' (greenway) cycle route in Brittany")
 
 ### We’re a non-car family and own a longtail cargo bike for daily trips, shopping etc. A longtail cargo bike has an extended section behind the rider for two or three children and/or luggage and ours is electric.
 
