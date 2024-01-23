@@ -46,7 +46,7 @@ Getting off the ferry was easy, although it was rather cold and windy. The 15-mi
 
 During our 10-day holiday we used the bikes for most outings and day trips, including to Cancale and the breathtaking Mont Saint-Michel. The paved and unpaved cycle lanes along the coast and easy cycling across the entire area made the bike trips easy, fun and comfortable.
 
-![](/images/uploads/brittany-holiday-sheijltjes.jpg)
+![](/images/uploads/brittany-holiday-sheijltjes.jpg "The beach at Hirel")
 
 We found other road users to be very respectful when sharing the space with us and the quiet country roads made for very pleasant cycling. We saw plenty of people cycling on the Eurovelo route along the coast, including children on their own bikes and children in bike seats, trailers and tagalongs. The Eurovelo route 4 definitely seemed suitable for a family cycle touring trip!
 
