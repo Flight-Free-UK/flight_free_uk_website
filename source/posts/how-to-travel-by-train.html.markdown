@@ -89,6 +89,12 @@ The encyclopaedic website [The Man in Seat 61](http://seat61.com) gives informat
 
 Alternatively, go direct to the train provider websites: [SNCF](https://www.sncf.com/en) (France), [Deutsche Bahn](https://int.bahn.de/en) (Germany), [Renfe](https://www.renfe.com/es/en) (Spain), [Trenitalia](https://www.trenitalia.com/en.html) (Italy) or [OBB](https://www.oebb.at/en/) (Austria) (see [seat61.com](http://seat61.com) for others).
 
+A great way to take the mystery and stress out of buying tickets is to get someone else to do it for you! [Andy Brabin](https://discoverbyrail.com/), founder of Railbookers, can help you plan and book your rail holiday:
+
+> You can give me the outline of a trip you would like to do and I can advise on the best way to use the train to create a great trip. Or, give me some dates and which countries you wish to visit and I can create and curate the trip.
+
+C﻿ontact Andy [here](https://discoverbyrail.com/contact-me/).
+
 ## Connections 
 
 Speak to your train conductor if you have a connection to make, especially if you don’t have long to make it. They will probably be able to tell you the platform you need to go to. Sometimes if the train you’re on is delayed, they will hold your connecting train for you, or at least accept your ticket on the next one. 
