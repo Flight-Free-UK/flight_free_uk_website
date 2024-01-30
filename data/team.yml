@@ -8,14 +8,6 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
-  - name: Emily Taylor Kent
-    role: Social media
-    bio: Based in Bristol, Emily volunteers for sustainable shopping and events
-      space Sparks and works as a music venue steward. Through her Geography
-      degree she learned about climate change and the important role that
-      transport plays in sustainable transitions. Her dream flight-free trip
-      would be interrailing across Europe.
-    photo: /images/uploads/emilytk.jpg
   - name: Evie Vouillemin
     role: Podcast
     photo: /images/uploads/evie_vouillemin.jpg
@@ -31,13 +23,6 @@ members:
       Lights as their dream flight-free trip, but a close second comes the Trans
       Siberian railway – while wishing for peace in that region.
     photo: /images/uploads/gemma.jpg
-  - name: Isabella Chalmers-Arnold
-    role: Social media
-    photo: /images/uploads/isabella_chalmers-arnold.jpg
-    bio: BA Geography Graduate Isabella is an active social and environmental
-      justice advocate, with a particular interest in making sustainable
-      transport accessibility less ableist. Her dream flight-free trip would be
-      to Brazil by boat, then campervan through Brazil, Venezuela and Ecuador!
   - name: Louise Millington
     role: Podcast
     bio: Originally from Liverpool, Lou now lives in Redcar, promoting active travel
