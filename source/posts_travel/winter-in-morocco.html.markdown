@@ -24,7 +24,7 @@ Another main reason is that it’s possible to get there without flying. Having 
 
 I have taken several long-distance train travel holidays in Europe since, and having taken the boat to Santander for a Spanish holiday, travelling a bit further down to Morocco didn’t hold any particular worries for me. 
 
-![](/images/uploads/kasbah-ait-benhaddou_canva.jpg "Kasbah Ait Benhaddou")
+![](/images/uploads/kasbah-ait-benhaddou_canva.jpg "The medieval citadel of Ait Ben Haddou")
 
 The first time I did the journey, I took the train through France to Montpellier and spent a few weeks there practising my French. Morocco was divided between the Spanish and the French for much of its recent history, so in the north (around Tangier) you are likely to be greeted with “Hola!”. But every person who has been to school has received the basics of French, and it’s the easiest language to communicate with if you don't speak Arabic. Many people do speak English, particularly younger Moroccans, but life will be easier if you can make yourself understood in French. In Morocco, everything is eased with smiles and a hand on your heart.
 
