@@ -46,3 +46,7 @@ Atmosfair = £20 per tonne CO2
 BA = £10 per tonne
 
 Easyjet = £3 per tonne (EasyJet abandoned its offset scheme in 2022, preferring to focus on green technology and so-called 'sustainable' aviation fuel)
+
+#### Behaviour change
+
+The main problem with offsets is that they make us think our emissions don’t count, so we continue our polluting behaviour.
