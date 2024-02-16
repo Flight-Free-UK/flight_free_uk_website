@@ -9,7 +9,7 @@ summary: Airlines are quick to claim that you can ‘fly carbon neutral’ if yo
 author: FlightFree UK
 read_time_minute: 4
 ---
-### The concept of carbon offsetting has been around for a long time. 
+### The concept of carbon offsetting has been around for a long time.
 
 ##### In simple terms it means compensating for the amount of carbon a particular activity creates, by absorbing it elsewhere. 
 
@@ -17,11 +17,11 @@ Tree-planting is an obvious and easy one: trees absorb CO2 as they grow, so they
 
 #### Effectiveness
 
-Offsetting sounds like the perfect way to address our rising emissions, but every so often a study pops up that demonstrates that offsets don’t exactly do what they claim to do. This [EU report](https://www.transportenvironment.org/discover/85-offsets-failed-reduce-emissions-says-eu-study/) from 2017 showed that 85% of schemes were ineffective. An [investigation](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe) in 2023 showed that 90% of offsets were worthless.
+Offsetting sounds like the perfect way to address our rising emissions, but every so often a study pops up that demonstrates that offsets don’t exactly do what they claim to do. An [EU report](https://www.transportenvironment.org/discover/85-offsets-failed-reduce-emissions-says-eu-study/) from 2017 showed that 85% of schemes were ineffective, and an [investigation](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe) in 2023 showed that 90% of offsets were worthless.
 
-A tree doesn’t instantly absorb the carbon of your flight – it takes [a lifetime for one tree](https://www.nationaltrust.org.uk/our-cause/nature-climate/climate-change-sustainability/our-ambition-to-establish-20-million-trees-to-tackle-climate-change) to absorb an estimated one tonne CO2, and there’s no guarantee that trees will survive long enough to compensate the necessary emissions (see [here](https://www.naturefund.de/fileadmin/pdf/Studien/Waelder/Trees-for-carbon-sequestration.pdf) for more in-depth information about tree growth and carbon absorption).
+A tree doesn’t instantly absorb the carbon of your flight – it takes [a lifetime for one tree](https://www.nationaltrust.org.uk/our-cause/nature-climate/climate-change-sustainability/our-ambition-to-establish-20-million-trees-to-tackle-climate-change) to absorb an estimated tonne of CO2, and there’s no guarantee that trees will survive long enough to compensate the necessary emissions (see [here](https://www.naturefund.de/fileadmin/pdf/Studien/Waelder/Trees-for-carbon-sequestration.pdf) for more in-depth information about tree growth and carbon absorption).
 
-Even if they do, the stored carbon is released back into the atmosphere when the tree decays and dies, meaning there's no net benefit over the tree's lifetime. And if, as is becoming increasingly likely as our emissions grow and grow, it burns in a forest fire, then that's a net increase.
+Even if they do, the stored carbon is released back into the atmosphere when the tree decays and dies, meaning there's no net benefit over the tree’s lifetime. And if, as is becoming increasingly likely as our emissions grow and grow, it burns in a forest fire, then that’s a net increase.
 
 We certainly need more trees, plants, woodland, hedgerows and wild land, but this should be in the context of addressing our already over-carbonated atmosphere, and our chronic loss of biodiversity. Tree-planting cannot be seen as a quick fix to our continued rising emissions – especially because there is simply [not enough land space](https://www.theguardian.com/environment/2021/nov/13/the-problem-with-fixing-the-climate-with-trees-were-going-to-need-a-bigger-planet) on earth to plant enough trees to offset our emissions.
 
