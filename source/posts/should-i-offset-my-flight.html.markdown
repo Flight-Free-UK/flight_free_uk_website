@@ -23,6 +23,8 @@ A tree doesn’t instantly absorb the carbon of your flight – it takes [a life
 
 Even if they do, the stored carbon is released back into the atmosphere when the tree decays and dies, meaning there's no net benefit over the tree’s lifetime. And if, as is becoming increasingly likely as our emissions grow and grow, it burns in a forest fire, then that’s a net increase.
 
+> Tree-planting cannot be seen as a quick fix to our continued rising emissions.
+
 We certainly need more trees, plants, woodland, hedgerows and wild land, but this should be in the context of addressing our already over-carbonated atmosphere, and our chronic loss of biodiversity. Tree-planting cannot be seen as a quick fix to our continued rising emissions – especially because there is simply [not enough land space](https://www.theguardian.com/environment/2021/nov/13/the-problem-with-fixing-the-climate-with-trees-were-going-to-need-a-bigger-planet) on earth to plant enough trees to offset our emissions.
 
 #### Social implications and questions of justice
