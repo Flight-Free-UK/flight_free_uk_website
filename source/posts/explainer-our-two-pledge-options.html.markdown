@@ -47,9 +47,9 @@ It could also be a useful starting point for people who haven’t considered red
 
 We want to make it clear that we’re not letting people ‘off the hook’ with our free-choice pledge, but we understand that living in a globalised world comes with plenty of challenges, and it’s simply not practical for everyone to be completely flight free. We still invite those people to take part in our challenge because it's a great way to demonstrate good intentions, to work towards reducing emissions, and to show our leaders and politicians that people are concerned about the climate. 
 
-There is no ‘minimum’ pledge that someone can make, but we encourage people to choose something that will make an impact and that is a real challenge.
+There is no ‘minimum’ pledge that someone can make, but we encourage people to choose something that will make an impact and that is a real challenge. 
 
-We strongly encourage you not to include any holiday flights in any pledge, because of the urgency of the climate crisis.
+We therefore strongly encourage you not to include any holiday flights in any pledge, because of the urgency of the climate crisis.
 
 The free choice pledge can also be tailored for those who want to make a bigger commitment than one flight free year, for example four years flight-free, or a flight-free decade, or even flight-free for life.
 
