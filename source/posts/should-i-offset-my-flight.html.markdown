@@ -35,6 +35,8 @@ This is not only a social injustice, but in many cases has an overall [detriment
 
 Of course, tree planting isn’t the only offset scheme out there. A popular o﻿ffsetting project is providing [clean cookstoves for communities](https://mukurustoves.org/) in countries across Africa. There is no doubt that these schemes are hugely beneficial to the communities involved, both from the users’ point of view and the planet. What doesn’t feel right is that we should pay for other people to reduce their emissions so we can avoid reducing our own. 
 
+> It doesn’t feel right to pay for other people to reduce their emissions so we can avoid reducing our own.
+
 #### Cost
 
 T﻿he Grantham Institute calculates that a [realistic carbon price](https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2019/05/GRI_POLICY-REPORT_How-to-price-carbon-to-reach-net-zero-emissions-in-the-UK.pdf) would be £160 per tonne by 2025 (£50 per tonne in 2020).
@@ -51,8 +53,10 @@ The vast disparities between these costs show that offsetting is somewhat arbitr
 
 The main problem with offsets is that they make us think our emissions don’t count, so we continue our polluting behaviour. If we believe that the harm caused by our flights has been balanced out elsewhere, there’s no incentive for us to cut down. 
 
+> Offsets make us think our emissions don’t count, so we continue our polluting behaviour.
+
 This is the main reason that Flight Free UK doesn’t support carbon offsetting in any form. While some carbon reduction projects are worthwhile and can have a positive impact, they should be supported for their own merit, rather than being used to allow our emissions to keep on rising. 
 
 A good way to put it, [as expressed by a US colleague](https://x.com/flyingless/status/1457347928364826630?s=20), is, “If you have to take a flight, own the emissions and don’t offset. If you don’t feel comfortable owning the emissions, what does that say about the value of a flight?”
 
-Fundamentally, the most reliable way to reduce the emissions from your flight is not to take it in the first place. The solution, as always, is the most simple one: fly less.
+##### Fundamentally, the most reliable way to reduce the emissions from your flight is not to take it in the first place. The solution, as always, is the most simple one: fly less.
