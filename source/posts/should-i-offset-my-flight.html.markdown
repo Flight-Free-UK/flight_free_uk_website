@@ -45,6 +45,14 @@ I﻿f we look at most carbon offset calculators, the suggested amount is a lot l
 * BA = £10 per tonne
 * Easyjet = £3 per tonne (EasyJet abandoned its offset scheme in 2022, preferring to focus on green technology and so-called 'sustainable' aviation fuel)
 
+The vast disparities between these costs show that offsetting is somewhat arbitrary. There is some regulation to the industry, for example with Gold Standard offsets, but even those are open to fraud and don’t always live up to their promise. Ultimately, offsetting has become a tradable commodity – just one more morally questionable industry to add to the list.
+
 #### Behaviour change
 
-The main problem with offsets is that they make us think our emissions don’t count, so we continue our polluting behaviour.
+The main problem with offsets is that they make us think our emissions don’t count, so we continue our polluting behaviour. If we believe that the harm caused by our flights has been balanced out elsewhere, there’s no incentive for us to cut down. 
+
+This is the main reason that Flight Free UK doesn’t support carbon offsetting in any form. While some carbon reduction projects are worthwhile and can have a positive impact, they should be supported for their own merit, rather than being used to allow our emissions to keep on rising. 
+
+A good way to put it, [as expressed by a US colleague](https://x.com/flyingless/status/1457347928364826630?s=20), is, “If you have to take a flight, own the emissions and don’t offset. If you don’t feel comfortable owning the emissions, what does that say about the value of a flight?”
+
+Fundamentally, the most reliable way to reduce the emissions from your flight is not to take it in the first place. The solution, as always, is the most simple one: fly less.
