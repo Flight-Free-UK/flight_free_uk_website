@@ -41,7 +41,7 @@ For lots of people, taking a flight free year is a big commitment, but we want t
 
 Everybody’s circumstances are different, and there might be a reason why you can’t avoid all flights for a year. For this reason, people can make their own pledge which suits their personal circumstances.
 
-This might work especially well for people who have relatives abroad, who are not easily reached without flying. It could also be that some work commitments require a flight. 
+This might work especially well for people who have relatives abroad, who are not easily reached without flying. Some work commitments also require a flight.
 
 It could also be a useful starting point for people who haven’t considered reducing their flights before, but would be prepared to challenge themselves to take no flights within Europe, for example. After that, a more difficult challenge would seem more easily achieved.
 
