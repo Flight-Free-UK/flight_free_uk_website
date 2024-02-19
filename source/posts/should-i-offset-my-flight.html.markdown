@@ -41,11 +41,9 @@ T﻿he Grantham Institute calculates that a [realistic carbon price](https://www
 
 I﻿f we look at most carbon offset calculators, the suggested amount is a lot lower: 
 
-Atmosfair = £20 per tonne CO2
-
-BA = £10 per tonne
-
-Easyjet = £3 per tonne (EasyJet abandoned its offset scheme in 2022, preferring to focus on green technology and so-called 'sustainable' aviation fuel)
+* Atmosfair = £20 per tonne CO2
+* BA = £10 per tonne
+* Easyjet = £3 per tonne (EasyJet abandoned its offset scheme in 2022, preferring to focus on green technology and so-called 'sustainable' aviation fuel)
 
 #### Behaviour change
 
