@@ -57,6 +57,6 @@ The main problem with offsets is that they make us think our emissions don’t c
 
 This is the main reason that Flight Free UK doesn’t support carbon offsetting in any form. While some carbon reduction projects are worthwhile and can have a positive impact, they should be supported for their own merit, rather than being used to allow our emissions to keep on rising. 
 
-A good way to put it, [as expressed by a US colleague](https://x.com/flyingless/status/1457347928364826630?s=20), is, “If you have to take a flight, own the emissions and don’t offset. If you don’t feel comfortable owning the emissions, what does that say about the value of a flight?”
+A good way to put it, [as expressed by a US colleague](https://x.com/flyingless/status/1457347928364826630?s=20), is, “If you have to take a flight, own the emissions and don’t offset. If you don’t feel comfortable owning the emissions, what does that say about the value of the flight?”
 
 ##### Fundamentally, the most reliable way to reduce the emissions from your flight is not to take it in the first place. The solution, as always, is the most simple one: fly less.
