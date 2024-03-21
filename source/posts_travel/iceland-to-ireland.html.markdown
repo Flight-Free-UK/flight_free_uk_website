@@ -8,11 +8,9 @@ summary: Most people fly when they visit Iceland, but what's it like to take the
 author: FlightFree UK
 read_time_minute: 4
 ---
-
-
 ![](/images/uploads/iceland_canva.jpg "A geyser in Iceland")
 
-### Iceland to Ireland is over 1000 nautical miles – not a journey most people choose to make without flying. 
+### Iceland to Ireland is over 1000 nautical miles – not a journey most people choose to make without flying.
 
 ##### But conscious of the high CO2 emissions of air travel, my boyfriend and I decided to take on the journey after having spent a season in Iceland working as tourist guides.
 
@@ -43,3 +41,16 @@ We chose to extend the journey significantly both to make it more comfortable an
 I had a fantastic time on this trip. It felt like an adventure, the train rides were enjoyable, and much less stressful than airports and aeroplanes. I would love to go again, but as everyone who travels by sea and land knows, it is a lot more expensive than flying, both time-wise and financially. 
 
 ##### But looking back at the map of the world and retracing the journey we took, it is very satisfying to think we could come all that way without flying.
+
+**I﻿tinerary**
+
+* Seydisfjordur (I﻿celand)
+* F﻿aroe Islands
+* H﻿irtshals (Denmark)
+* C﻿openhagen
+* H﻿amburg
+* U﻿trecht
+* P﻿aris
+* C﻿herbourg
+* R﻿osslare
+* K﻿ildare
