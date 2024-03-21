@@ -22,6 +22,8 @@ The Smyril Line M.S. Norröna ferry departs just once per week, and it’s a com
 
 It took 26 hours to reach the beautiful Faroe Islands, where the boat stops for four hours to pick up passengers. Not wanting to miss visiting these unique islands, as we didn’t know if we’d ever get the chance to do so again, we had planned to disembark and spend some time there, then catch the next ferry – in a week’s time!
 
+![](/images/uploads/black_sand_beach_iceland_akiernan.jpg "Black sand beach, south Iceland")
+
 The Faroe Islands were a highlight of the trip: lots of interesting sights, beautiful views and good hiking trails. Culturally the islands have quite a bit in common with Denmark, and some in common with Iceland. The weather is wet, but the gulf stream keeps the temperatures mild: 12ºC in summer and 5ºC in winter. There are lots of sheep (more than there are people) – the name translates to "sheep islands". 
 
 Back on the ferry and on the way to Denmark the crossing was a little rougher than the previous stretch. Rough weather off the coast of Denmark meant that we weren’t able to dock on schedule, instead circling off the coast of Norway for about 20 hours. This was a strange experience, as we could see the lights from the coast, and could see ourselves travelling up and down a small stretch of the coast on the ship’s screens. 
