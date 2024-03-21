@@ -4,7 +4,7 @@ title: Iceland to Ireland
 date: 2024-03-21T16:26:36.633Z
 cover_image: /images/uploads/iceland_canva-small.jpg
 summary: Most people fly when they visit Iceland, but what's it like to take the
-  ferry? Aoife finds out as she returns to her home in Ireland by sea.
+  ferry? Aoife Kiernan finds out as she returns to her home in Ireland by sea.
 author: FlightFree UK
 read_time_minute: 4
 ---
