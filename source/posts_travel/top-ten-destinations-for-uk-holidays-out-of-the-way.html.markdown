@@ -73,7 +73,7 @@ Grange-over-Sands is on the branch line from Lancaster – stop off in this char
 
 This enchanting archipelago off the toe of Cornwall is formed of five inhabited islands in addition to countless uninhabited ones, some of which remain completely undisturbed. Hop around each island on a “tripper” [boat](https://www.visitislesofscilly.com/explore/island-hopping), take a swim in the refreshing waters (don’t forget your [wetsuit](https://www.seatemperature.org/europe/united-kingdom/isles-of-scilly-july.htm)!), or [snorkel with the seals](https://www.visitislesofscilly.com/experience/things-to-do/scilly-seal-snorkelling-p1148703) to truly experience this English paradise.
 
-![](/images/uploads/st_marys_isles_of_scilly_canva.jpg "St Mary's Bay, Isles of Scilly")
+![](/images/uploads/st_marys_isles_of_scilly_canva.jpg "St Mary's, Isles of Scilly")
 
 Each island offers a unique experience, but the Isles are well known for their creative communities, sweeping sea views, ancient architecture and fascinating wildlife. We’ve got to mention the [beaches](https://www.visitislesofscilly.com/explore/beaches) – with turquoise shallow waters, palm trees and pale, fine sand, there’s no need to go further afield. 
 
