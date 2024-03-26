@@ -89,6 +89,8 @@ Travelling to the Isles flight-free is easy and a perfect way to view the Cornis
 
 The colourful buildings on Tobermory’s waterfront give this little harbour town its distinctive charm – you might recognise them as the setting for the children’s programme Balamory. 
 
+![](/images/uploads/tobermory_canva.jpg "Colourful buildings on the Tobermory waterfront, isle of Mull")
+
 The town is steeped in history: legend has it one of the Spanish Armada ships sank in the bay in 1588. Take a visit to the [Mull Museum](http://www.mullmuseum.org.uk/) to explore the history of Mull and its people. The island capital is a great place for wildlife watching, as the coastal seas are important feeding grounds for whales, dolphins, otters, basking sharks and eagles. There’s a great selection of locally-produced [arts and crafts](https://visitmullandiona.co.uk/listing-type/arts-and-crafts/) in addition to numerous shops, eateries and hotels.
 
 To get to Tobermory, take the train to Oban from Glasgow Queen Street and enjoy the spectacular mountainous scenery, then take the [ferry](https://www.calmac.co.uk/) to Mull. There is a regular [bus](https://www.tobermory.co.uk/information/travel-2/bus/) service to Tobermory from Craignure ferry terminal.
@@ -96,6 +98,8 @@ To get to Tobermory, take the train to Oban from Glasgow Queen Street and enjoy 
 #### Pitlochry, Highlands
 
 The town of Pitlochry is located in the southern corner of the beautiful Cairngorms National Park and is surrounded by mountains, lochs, moorland and ancient forest, making it a popular destination for outdoor activities, including [gorge jumping and waterfall walks](https://www.visitscotland.com/destinations-maps/pitlochry/see-do/). 
+
+![](/images/uploads/pitlochry_canva.jpg "Pitlochry church")
 
 Home to 25% of Britain’s threatened species, the Cairngorms are fantastic for wildlife-watching, with possible sightings including red squirrel, capercaillie, snow bunting, pine marten, deer, ospreys, eagles and wildcats.
 
@@ -105,7 +109,11 @@ The [Caledonian Sleeper train](https://www.sleeper.scot/) goes from London Eusto
 
 #### Tenby, Pembrokeshire
 
-Tenby is a picture-postcard harbour town known for its pastel-coloured houses, medieval stone wall and gorgeous sandy beaches stretching to the north, west and south of the centre. For great views of [Caldey Island](https://caldeyislandwales.com/), home to the Monks of Caldey Abbey, walk along Tenby’s South Beach towards Giltar Point, where you’ll find the start of the [Pembrokeshire Coastal Path](https://www.visitwales.com/product/1970684). The path goes through a varied landscape of limestone cliffs, volcanic headlands, red sandstone bays and glacial valleys.
+Tenby is a picture-postcard harbour town known for its pastel-coloured houses, medieval stone wall and gorgeous sandy beaches stretching to the north, west and south of the centre. 
+
+For great views of [Caldey Island](https://caldeyislandwales.com/), home to the Monks of Caldey Abbey, walk along Tenby’s South Beach towards Giltar Point, where you’ll find the start of the [Pembrokeshire Coastal Path](https://www.visitwales.com/product/1970684). The path goes through a varied landscape of limestone cliffs, volcanic headlands, red sandstone bays and glacial valleys.
+
+![](/images/uploads/tenby_canva.jpg "One of Tenby's award-winning beaches ")
 
 Tenby has plenty of attractions and amenities, including the oldest independent [museum](https://www.visitwales.com/product/675215) in Wales, and the pubs, shops, cafes and eateries are all linked by quaint cobbled streets. 
 
@@ -114,6 +122,8 @@ Tenby can be easily reached by train and coach, with both stations situated clos
 #### Conwy, North Wales
 
 Conwy is one of Britain’s best-preserved medieval towns, where ancient stone walls enclose a site full of history. Exploring the amazing thirteenth-century [castle](https://cadw.gov.wales/visit/places-to-visit/conwy-castle), a World Heritage Site, is a must, as is a visit to the [smallest house ](http://www.thesmallesthouse.co.uk/)in the UK! Other attractions include the beautiful riverfront and the [Conwy Suspension Bridge](https://www.visitconwy.org.uk/things-to-do/conwy-suspension-bridge-and-tollkeepers-house-p277631). 
+
+![](/images/uploads/conwy_canva.jpg "Conwy castle")
 
 The town is located right next to Great Orme’s Head, a massive headland carved out of carboniferous limestone and designated a Special Area of Conservation. Try your hand at [fossil hunting](https://ukfossils.co.uk/2008/03/22/great-ormes-head/)among the natural exposes and quarry faces, which are packed with brachiopods and corals. 
 
