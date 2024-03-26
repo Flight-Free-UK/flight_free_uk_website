@@ -15,7 +15,7 @@ read_time_minute: 3
 
 Known as “Wiltshire’s hidden gem”, Devizes is a medieval market town with a plethora of shops, hotels, pubs and eateries. There’s a working Victorian [brewery](https://www.wadworth.co.uk/visitor-centre/) which runs tours and tastings, in addition to three ancient churches and two museums (including the award-winning [Wiltshire Museum](https://www.wiltshiremuseum.org.uk/)). 
 
-
+![](/images/uploads/caen_hill_canva.jpg "The Caen Hill lock flight on the Kennet and Avon canal near Devizes")
 
 Devizes is a perfect base from which to explore the surrounding area by foot, bicycle or public transport. For a unique and relaxing holiday experience, we recommend [hiring a narrowboat](https://www.abcboathire.com/our-routes/short-breaks/hilperton-marina/devizes-return) on the Kennet and Avon canal.
 
@@ -31,6 +31,8 @@ The traditional seaside town of Sheringham is known for its beautiful sandy beac
 
 Visit the countryside of Upper Sheringham (including [Sheringham Park](https://www.nationaltrust.org.uk/sheringham-park)) to experience beautiful views of the North Norfolk coast, peaceful woodlands and uplands covered with miles of purple heather and yellow gorse. 
 
+![](/images/uploads/norfolk_coast_path_canva.jpg "Norfolk coast path near Sheringham")
+
 The Norfolk Coast Path runs through the majority of the Norfolk Coast Area of Outstanding Natural Beauty; from Sheringham, try a six-mile circular [route](https://www.norfolk.gov.uk/out-and-about-in-norfolk/norfolk-trails/short-and-circular-walks/norfolk-coast-path) that traces the coast and then meanders through parkland, ancient oak woodland, fen and grassland in Beeston Common and the rhododendrons of Sheringham Park.
 
 The town is accessible by train, and if you have time, stop off at Cromer on the way – another Norfolk seaside town rich in fishing heritage.
@@ -38,6 +40,8 @@ The town is accessible by train, and if you have time, stop off at Cromer on the
 #### Edale, Peak District
 
 Edale is located in the heart of the Peak District and is the official start/end of the UK’s first long-distance walking route, the [Pennine Way](https://www.nationaltrail.co.uk/en_GB/trails/pennine-way/). It’s a tiny village, or to be more accurate, a collection of small hamlets or “booths” and is popular with walkers of all abilities. 
+
+![](/images/uploads/edale_canva.jpg "Edale, Peak District")
 
 Edale is close to the [Blue John Cavern](https://www.bluejohn-cavern.co.uk) at Castleton, a famous site for the ornamental mineral Blue John stone. Take a 45-minute guided tour through the water-worn cave system to view the stone in its natural state, along with stalactites, stalagmites and huge caverns.
 
@@ -55,6 +59,8 @@ The town is close to [Hadrian’s Wall,](https://www.visitnorthumberland.com/had
 
 Hexham is on the [mainline](https://www.northernrailway.co.uk/stations/HEX) between Newcastle and Carlisle, with the vibrant city of Newcastle just 40 minutes by train.
 
+![](/images/uploads/hexham_abbey_canva.jpg "Hexham Abbey")
+
 #### Grange-over-Sands, Cumbria
 
 Grange-over-Sands is a small coastal town located on the fascinating Morecambe Bay and just outside the Lake District park boundary. The town itself is a great base for [walking](https://www.grangeoversandstowncouncil.gov.uk/walking-and-cycling.html) and cycling, with routes around the town perfect for nature enthusiasts and bird-watchers. There are several [nature reserves](https://www.visitcumbria.com/nature-reserves/) and sites of special scientific interest, while Morecambe Bay offers opportunities to spot oystercatchers or lazy seals. 
@@ -66,6 +72,8 @@ Grange-over-Sands is on the branch line from Lancaster – stop off in this char
 #### Isles of Scilly, Cornwall
 
 This enchanting archipelago off the toe of Cornwall is formed of five inhabited islands in addition to countless uninhabited ones, some of which remain completely undisturbed. Hop around each island on a “tripper” [boat](https://www.visitislesofscilly.com/explore/island-hopping), take a swim in the refreshing waters (don’t forget your [wetsuit](https://www.seatemperature.org/europe/united-kingdom/isles-of-scilly-july.htm)!), or [snorkel with the seals](https://www.visitislesofscilly.com/experience/things-to-do/scilly-seal-snorkelling-p1148703) to truly experience this English paradise.
+
+![](/images/uploads/st_marys_isles_of_scilly_canva.jpg "St Mary's Bay, Isles of Scilly")
 
 Each island offers a unique experience, but the Isles are well known for their creative communities, sweeping sea views, ancient architecture and fascinating wildlife. We've got to mention the [beaches](https://www.visitislesofscilly.com/explore/beaches) – with turquoise shallow waters, palm trees and pale, fine sand, there’s no need to go further afield. 
 
