@@ -121,11 +121,11 @@ Tenby can be easily reached by train and coach, with both stations situated clos
 
 #### Conwy, North Wales
 
-Conwy is one of Britain’s best-preserved medieval towns, where ancient stone walls enclose a site full of history. Exploring the amazing thirteenth-century [castle](https://cadw.gov.wales/visit/places-to-visit/conwy-castle), a World Heritage Site, is a must, as is a visit to the [smallest house ](http://www.thesmallesthouse.co.uk/)in the UK! Other attractions include the beautiful riverfront and the [Conwy Suspension Bridge](https://www.visitconwy.org.uk/things-to-do/conwy-suspension-bridge-and-tollkeepers-house-p277631). 
+Conwy is one of Britain’s best-preserved medieval towns, where ancient stone walls enclose a site full of history. Exploring the amazing thirteenth-century [castle](https://cadw.gov.wales/visit/places-to-visit/conwy-castle), a World Heritage Site, is a must, as is a visit to the [smallest house](http://www.thesmallesthouse.co.uk/) in the UK! Other attractions include the beautiful riverfront and the [Conwy Suspension Bridge](https://www.visitconwy.org.uk/things-to-do/conwy-suspension-bridge-and-tollkeepers-house-p277631). 
 
 ![](/images/uploads/conwy_canva.jpg "Conwy castle")
 
-The town is located right next to Great Orme’s Head, a massive headland carved out of carboniferous limestone and designated a Special Area of Conservation. Try your hand at [fossil hunting](https://ukfossils.co.uk/2008/03/22/great-ormes-head/)among the natural exposes and quarry faces, which are packed with brachiopods and corals. 
+The town is located right next to Great Orme’s Head, a massive headland carved out of carboniferous limestone and designated a Special Area of Conservation. Try your hand at [fossil hunting](https://ukfossils.co.uk/2008/03/22/great-ormes-head/) among the natural exposes and quarry faces, which are packed with brachiopods and corals. 
 
 > Exploring the amazing thirteenth-century castle, a World Heritage Site, is a must, as is a visit to the smallest house in the UK.
 
