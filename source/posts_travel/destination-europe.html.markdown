@@ -9,7 +9,7 @@ author: FlightFree UK
 read_time_minute: 5
 category: travel
 ---
-### For many people, taking a city break will involve a flight. 
+### For many people, taking a city break will involve a flight.
 
 ##### But it doesn’t have to. We explore how to reach your favourite city break destination without flying. 
 
@@ -49,7 +49,7 @@ There’s no shortage of [beer gardens](https://www.praguebeergarden.com/) in th
 
 It’s also possible to go from the UK to Prague in one day (check out our [Prague to Pembrokeshire in a day](https://flightfree.co.uk/post/prague-to-pembrokeshire-in-a-day/) post!), although this does involve a tight connection in Brussels.
 
-## Bologne, Italy
+## Bologna, Italy
 
 Bologna, the city where golden light blankets cobblestone streets and accordion music mingles with local church bells, and home to the world-famous bolognese sauce. Relatively quiet in comparison to Venice, Florence and Rome, Bologna has an authentic charm. It houses the [oldest university](https://www.bolognawelcome.com/en/blog/the-locations-of-the-oldest-university-in-europe) in Europe (established in 1088) along with [38 kilometres of arcades](https://www.bolognawelcome.com/en/blog/the-porticoes-of-bologna) (the porticoes of Bologna) which provide charmingly romantic spaces to socialise, eat and browse. 
 
