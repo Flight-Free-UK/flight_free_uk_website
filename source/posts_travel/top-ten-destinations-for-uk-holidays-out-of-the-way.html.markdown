@@ -41,7 +41,7 @@ The town is accessible by train, and if you have time, stop off at Cromer on the
 
 Edale is located in the heart of the Peak District and is the official start/end of the UK’s first long-distance walking route, the [Pennine Way](https://www.nationaltrail.co.uk/en_GB/trails/pennine-way/). It’s a tiny village, or to be more accurate, a collection of small hamlets or “booths” and is popular with walkers of all abilities. 
 
-![](/images/uploads/edale_canva.jpg "Edale, Peak District")
+![](/images/uploads/edale_canva.jpg "Edale valley, Peak District")
 
 Edale is close to the [Blue John Cavern](https://www.bluejohn-cavern.co.uk) at Castleton, a famous site for the ornamental mineral Blue John stone. Take a 45-minute guided tour through the water-worn cave system to view the stone in its natural state, along with stalactites, stalagmites and huge caverns.
 
