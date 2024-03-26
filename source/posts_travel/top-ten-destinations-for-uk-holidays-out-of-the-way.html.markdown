@@ -19,7 +19,7 @@ Known as “Wiltshire’s hidden gem”, Devizes is a medieval market town with 
 
 Devizes is a perfect base from which to explore the surrounding area by foot, bicycle or public transport. For a unique and relaxing holiday experience, we recommend [hiring a narrowboat](https://www.abcboathire.com/our-routes/short-breaks/hilperton-marina/devizes-return) on the Kennet and Avon canal.
 
-> For a unique and relaxing holiday experience, we recommend hiring a narrowboat on the Kennet and Avon canal.
+> For a unique and relaxing holiday experience, hire a narrowboat on the Kennet and Avon canal.
 
 Not only is the canal a remarkable feat of engineering, with tunnels, aqueducts and the famous lock flight at [Caen Hill](https://canalrivertrust.org.uk/places-to-visit/caen-hill-locks) (29 locks in a row!), floating at an average 5 mph is a truly relaxing way to pass the time. There are plenty of canalside pubs along the way; we particularly like the [Black Horse](https://www.tripadvisor.co.uk/Attraction_Review-g528767-d5918051-Reviews-Black_Horse-Devizes_Wiltshire_England.html) at Devizes, near the top of the Caen Hill flight. 
 
