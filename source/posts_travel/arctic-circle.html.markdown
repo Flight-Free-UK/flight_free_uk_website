@@ -17,7 +17,7 @@ read_time_minute: 5
 
 I’d always wanted to visit Scandinavia, and with the Arctic Circle and the Santa Claus village just a few hours beyond, plans for a trip started to form.
 
-Not flying was the obvious option for a few reasons. Climate was the main motivation, but it would also give an opportunity to see some places along the way, and I especially loved the idea of spending 24 hours on a ferry  across the Baltic sea with just a few good books and podcasts and no internet; a kind of ‘digital detox’.
+Not flying was the obvious option for a few reasons. Climate was the main motivation, but it would also give an opportunity to see some places along the way, and I especially loved the idea of spending 24 hours on a ferry across the Baltic sea with just a few good books and podcasts and no internet; a kind of ‘digital detox’.
 
 With invaluable help from [Seat61](https://www.seat61.com/Finland.htm) and [Rome2Rio](https://www.rome2rio.com/) I came up with a basic plan: to travel via daytime and sleeper trains to Stockholm, then take the ferry to Helsinki and the train north from there. 
 

@@ -16,9 +16,9 @@ read_time_minute: 4
 
 Sustainable Aviation Fuels, or SAFs, can be made from biomass (biofuel) or green electricity (electrofuel or e-fuel). Airlines claim that SAFs are climate friendly and can [reduce CO2 emissions by 70%](https://www.sustainableaviation.co.uk/wp-content/uploads/2020/02/SustainableAviation_FuelReport_20200231.pdf) vs fossil fuels. 
 
-But SAFs [emit at least as much CO2 as kerosene](https://www.aef.org.uk/2021/09/21/benefits-from-sustainable-aviation-fuels-must-not-be-over-claimed-aef-highlights-in-response-to-saf-consultation/) when burned – any greenhouse gas savings come in the production stage. For example, biofuels extract carbon from the atmosphere or biosphere as they grow, so the amount of carbon absorbed can be claimed as an emissions savings. In most cases, the figure is optimistic. 
+But SAFs emit the [same amount of CO2 as kerosene](https://www.icao.int/environmental-protection/knowledge-sharing/Docs/Sustainable%20Aviation%20Fuels%20Guide_vf.pdf) when burned – any greenhouse gas savings come in the production stage. For example, biofuels extract carbon from the atmosphere or biosphere as they grow, so the amount of carbon absorbed can be claimed as an emissions savings. In most cases, the figure is optimistic.  
 
-> SAFs emit at least as much CO2 as kerosene when burned
+> SAFs emit the same amount of CO2 as kerosene when burned 
 
 ##### W﻿hat are biofuels?
 

@@ -8,14 +8,6 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
-  - name: Emily Taylor Kent
-    role: Social media
-    bio: Based in Bristol, Emily volunteers for sustainable shopping and events
-      space Sparks and works as a music venue steward. Through her Geography
-      degree she learned about climate change and the important role that
-      transport plays in sustainable transitions. Her dream flight-free trip
-      would be interrailing across Europe.
-    photo: /images/uploads/emilytk.jpg
   - name: Evie Vouillemin
     role: Podcast
     photo: /images/uploads/evie_vouillemin.jpg
@@ -27,17 +19,10 @@ members:
     role: Admin
     bio: Gemma lives in South East London and works for Amnesty International.
       Volunteering has been a constant feature of their working life, including
-      for the Green Party and Flight Free UK. Gemma also picked the Northern
-      Lights as their dream flight-free trip, but a close second comes the Trans
+      for the Green Party and Flight Free UK. Gemma picked the Northern Lights
+      as their dream flight-free trip, but a close second comes the Trans
       Siberian railway – while wishing for peace in that region.
     photo: /images/uploads/gemma.jpg
-  - name: Isabella Chalmers-Arnold
-    role: Social media
-    photo: /images/uploads/isabella_chalmers-arnold.jpg
-    bio: BA Geography Graduate Isabella is an active social and environmental
-      justice advocate, with a particular interest in making sustainable
-      transport accessibility less ableist. Her dream flight-free trip would be
-      to Brazil by boat, then campervan through Brazil, Venezuela and Ecuador!
   - name: Louise Millington
     role: Podcast
     bio: Originally from Liverpool, Lou now lives in Redcar, promoting active travel
@@ -45,6 +30,15 @@ members:
       tell stories and inspire people to create positive change. A dream flight
       free trip would be touring Europe in a campervan, living the simple life!
     photo: /images/uploads/lou_millington.jpg
+  - name: Mahbuba Shabnam
+    bio: Originally from Bangladesh, Mahbuba now lives in Glasgow, where she is
+      studying for a Master's degree in Urban Climate and Sustainability. She
+      has a passion for storytelling and inspiring positive change, and set up
+      the Youtube channel 'Don't Throw'. Her dream flight-free trip would be
+      exploring the stunning landscapes of the Scottish Highlands by train or
+      bicycle.
+    role: Social media
+    photo: /images/uploads/mahbuba_shabnam.jpg
   - name: Mark Taylor
     bio: Living in delightful North Norfolk, Mark has previously worked for Fauna
       and Flora Intl and WCMC (World Conservation Monitoring Center). He gives
@@ -53,6 +47,15 @@ members:
       Norwich. A dream flight-free trip would be to travel to Japan by train.
     photo: /images/uploads/mark_taylor.jpg
     role: Admin
+  - name: Merve Caldiran
+    role: Social media
+    bio: Originally from Turkey, Merve now lives in Bristol. She holds a Master’s in
+      International Relations and has a deep-rooted commitment to sustainable
+      living and systemic change, and has worked with Greenpeace Mediterranean
+      on environmental campaigns. A dream flight-free journey would be Paris to
+      Beijing, embracing different cultures and landscapes with minimal
+      environmental impact.
+    photo: /images/uploads/merve_caldiran.jpg
   - name: Seren Rayment
     role: Social media
     photo: /images/uploads/seren_rayment.jpg

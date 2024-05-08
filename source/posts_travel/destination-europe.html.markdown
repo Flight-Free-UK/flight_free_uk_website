@@ -9,7 +9,7 @@ author: FlightFree UK
 read_time_minute: 5
 category: travel
 ---
-### For many people, taking a city break will involve a flight. 
+### For many people, taking a city break will involve a flight.
 
 ##### But it doesn’t have to. We explore how to reach your favourite city break destination without flying. 
 
@@ -35,7 +35,7 @@ Despite how easy and cheap it is to get to the Netherlands without flying, Londo
 
 **By coach:** Coaches travel [overnight from London Victoria](https://www.omio.co.uk/coaches/london/utrecht) to Utrecht Centraal Station.
 
-![Image shows an aerial view of Prague, with people walking across the bridge over the river. The architecture in the background is a collection of terracotta roofs and spires.](/images/uploads/anthony-delanoix-prague-unsplash.jpg "Prague. Credit: Anthony Delanoix on Unsplash")
+![](/images/uploads/charles_bridge_prague_canva.jpg "Charles Bridge, Prague")
 
 ## Prague, Czech Republic
 
@@ -49,7 +49,9 @@ There’s no shortage of [beer gardens](https://www.praguebeergarden.com/) in th
 
 It’s also possible to go from the UK to Prague in one day (check out our [Prague to Pembrokeshire in a day](https://flightfree.co.uk/post/prague-to-pembrokeshire-in-a-day/) post!), although this does involve a tight connection in Brussels.
 
-## Bologne, Italy
+![](/images/uploads/bologna_canva.jpg "Bologna, Italy")
+
+## Bologna, Italy
 
 Bologna, the city where golden light blankets cobblestone streets and accordion music mingles with local church bells, and home to the world-famous bolognese sauce. Relatively quiet in comparison to Venice, Florence and Rome, Bologna has an authentic charm. It houses the [oldest university](https://www.bolognawelcome.com/en/blog/the-locations-of-the-oldest-university-in-europe) in Europe (established in 1088) along with [38 kilometres of arcades](https://www.bolognawelcome.com/en/blog/the-porticoes-of-bologna) (the porticoes of Bologna) which provide charmingly romantic spaces to socialise, eat and browse. 
 
@@ -60,6 +62,8 @@ For traditional food and drink, head to the [Mercato Ritrovato](https://mercator
 #### Getting there
 
 **By train:** Eurostar to Paris, TGV to Turin then Frecciarossa 500 (Italian high-speed train) to Bologna, arriving early evening.
+
+![](/images/uploads/oberbaum_bridge_berlin_canva.jpg "Oberbaum Bridge, Berlin")
 
 ## Berlin, Germany
 
@@ -77,4 +81,4 @@ Everywhere you look in Berlin, you can feel the true weight of this city’s tum
 
 *Most journeys can be booked through [RailEurope.co.uk](https://www.raileurope.com). For tips on how to travel and where to book, see [seat61.com](https://www.seat61.com)*
 
-##### *France and Spain are the most popular destinations for UK travellers. Check out our separate guides for those countries: [Destination Spain](/post/destination-spain) and [Destination south of France](/post/destination-south-of-france).*
+###### *France and Spain are the most popular destinations for UK travellers. You can find separate guides for them here: [Destination Spain](/post/destination-spain) and [Destination south of France](/post/destination-south-of-france).*

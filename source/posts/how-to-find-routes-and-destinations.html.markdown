@@ -35,7 +35,7 @@ Byway was founded in 2020 by Cat Jones, a keen traveller who was constantly frus
 
 You can choose from pre-designed trips or create your own from scratch, and there are plenty of options to get you excited about your holiday on the [Byway](https://www.byway.travel/) trip builder. 
 
-F﻿light Free UK supporters get £50 off a Byway holiday! Just add the code FLIGHTFREE2023 at the checkout. Byway will also donate 3% of the total amount you spend to Flight Free UK. 
+F﻿light Free UK supporters get £50 off a Byway holiday! Just add the code FLIGHTFREE2024 at the checkout. Byway will also donate 3% of the total amount you spend to Flight Free UK. 
 
 > Byway made the experience so simple and provided great information beforehand. So helpful and accessible before and during the trip. We will definitely use them again!
 
@@ -55,4 +55,4 @@ Other booking websites include [Rome2Rio](https://www.rome2rio.com/) (just de-se
 
 ###### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
-###### Follow these links for specific information on how to travel [by train](https://www.seat61.com/) | [by bike](/post/how-to-travel-by-bike) | [by ferry](/post/how-to-travel-by-ferry/) | [by coach](/post/how-to-travel-by-coach) | [by electric car](/post/how-to-travel-by-electric-car/)
+###### Follow these links for specific information on how to travel [by train](/post/how-to-travel-by-train/) | [by bike](/post/how-to-travel-by-bike) | [by ferry](/post/how-to-travel-by-ferry/) | [by coach](/post/how-to-travel-by-coach) | [by electric car](/post/how-to-travel-by-electric-car/)
