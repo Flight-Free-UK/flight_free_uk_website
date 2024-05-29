@@ -34,7 +34,7 @@ It’s curious that Brexit should be mentioned, especially when the Government i
 
 Then of course there is the focus on Jet Zero, which will certainly be given as an answer to any challenge to the government's policy on aviation. The Jet Zero policy will focus on three areas in order to bring down emissions: sustainable aviation fuel (SAF), technology and offsetting. The government currently has no plans to reduce demand for flying. 
 
-You can read our in-depth analysis of why Jet Zero is no good [here](/post/whats-wrong-with-jet-zero/). We explore the trouble with SAF [here](/post/the-trouble-with-saf/), future technology [here](/podcast_transcripts/2021-podcast-series-can-we-fly-carbon-neutral/), and offsetting [here](/post/the-truth-about-carbon-offsets/).
+You can read our in-depth analysis of why Jet Zero is no good [here](/post/whats-wrong-with-jet-zero/). We explore the trouble with SAF [here](/post/the-trouble-with-saf/), future technology [here](/podcast_transcripts/2021-podcast-series-can-we-fly-carbon-neutral/), and offsetting [here](/post/should-i-offset-my-flight/).
 
 The idea behind running this petition was both to put pressure on the government and also to draw the public's attention to poor government policy. Ghost flights benefit no one, not even the airlines: 
 
