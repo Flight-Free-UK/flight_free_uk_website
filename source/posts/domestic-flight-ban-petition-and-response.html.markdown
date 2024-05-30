@@ -62,3 +62,16 @@ Jet Zero won’t be effective in reducing emissions from aviation. The sustainab
 W﻿e say:
 
 It is dangerous and foolish to ignore the advice of the government’s scientific advisors that demand management must come into the equation. All the independent analysis recommends that we must bring flight levels down.
+
+**They say:**
+
+**Our approach is based on the guiding principles of international leadership, recognising aviation is a global sector requiring global solutions; delivering in partnership, working with industry and academia; and maximising the opportunities, such as the jobs, growth and innovation, that decarbonisation can bring.** 
+
+**These overarching principles are supported by six core policy measures:**
+
+* **System efficiencies: improving the efficiency of our existing aviation system, including our airports, airspace, and the aircraft we use.** We say: system efficiencies are wiped out by increases in demand. 
+* **Sustainable aviation fuels (SAF): building a thriving UK SAF industry, bringing UK innovations to the commercial market, supporting thousands of green jobs, and supporting the UK’s fuel security.** We say: with the sustainability claims of SAF in doubt, the SAF industry can't claim to provide green jobs.
+* **Zero emission flight: developing in the UK and bringing into service novel exciting, forms of aircraft that offer the potential for zero carbon tailpipe emissions.** We say: zero carbon tailpipe aircraft will require huge levels of renewable energy, which will be diverted from other, more energy-efficient and potentially more vital sectors (e.g. road transport, housing and food). Current airport expansion plans are for fossil-fuelled planes. All industry talk is about SAF. Prototypes are so far away as to not realistically reduce emissions by 2050. We are tied into our current models for years if not decades. 
+* **Markets and removals: creating successful carbon markets and investing in greenhouse gas removals to abate residual emissions in 2050.** We say: carbon removals are a hugely expensive and inefficient way to deal with carbon emissions, compared to not producing them in the first place. 
+* **Influencing consumers: preserving the ability for people to fly whilst supporting consumers to make sustainable aviation travel choices.** We say: Sustainable aviation travel choices is a false concept, when emissions savings between airlines are negligible, especially next to the potential emissions savings from switching from plane to train (90+%). Suggesting that consumers can make sustainable aviation travel choices is misleading and will lead people to think they are making sustainable choices when they are not. 
+* **Addressing non-CO2: working closely with academia and industry to better understand the science and potential mitigations of non-CO2 impacts.** We say: This is very important, so it's good that this is being looked at.
