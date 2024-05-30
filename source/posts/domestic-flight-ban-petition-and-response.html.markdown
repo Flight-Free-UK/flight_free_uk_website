@@ -69,9 +69,33 @@ It is dangerous and foolish to ignore the advice of the government’s scientifi
 
 **These overarching principles are supported by six core policy measures:**
 
-* **System efficiencies: improving the efficiency of our existing aviation system, including our airports, airspace, and the aircraft we use.** We say: system efficiencies are wiped out by increases in demand. 
-* **Sustainable aviation fuels (SAF): building a thriving UK SAF industry, bringing UK innovations to the commercial market, supporting thousands of green jobs, and supporting the UK’s fuel security.** We say: with the sustainability claims of SAF in doubt, the SAF industry can't claim to provide green jobs.
-* **Zero emission flight: developing in the UK and bringing into service novel exciting, forms of aircraft that offer the potential for zero carbon tailpipe emissions.** We say: zero carbon tailpipe aircraft will require huge levels of renewable energy, which will be diverted from other, more energy-efficient and potentially more vital sectors (e.g. road transport, housing and food). Current airport expansion plans are for fossil-fuelled planes. All industry talk is about SAF. Prototypes are so far away as to not realistically reduce emissions by 2050. We are tied into our current models for years if not decades. 
-* **Markets and removals: creating successful carbon markets and investing in greenhouse gas removals to abate residual emissions in 2050.** We say: carbon removals are a hugely expensive and inefficient way to deal with carbon emissions, compared to not producing them in the first place. 
-* **Influencing consumers: preserving the ability for people to fly whilst supporting consumers to make sustainable aviation travel choices.** We say: Sustainable aviation travel choices is a false concept, when emissions savings between airlines are negligible, especially next to the potential emissions savings from switching from plane to train (90+%). Suggesting that consumers can make sustainable aviation travel choices is misleading and will lead people to think they are making sustainable choices when they are not. 
-* **Addressing non-CO2: working closely with academia and industry to better understand the science and potential mitigations of non-CO2 impacts.** We say: This is very important, so it's good that this is being looked at.
+* **System efficiencies: improving the efficiency of our existing aviation system, including our airports, airspace, and the aircraft we use.**
+
+  We say: system efficiencies are wiped out by increases in demand. 
+* **Sustainable aviation fuels (SAF): building a thriving UK SAF industry, bringing UK innovations to the commercial market, supporting thousands of green jobs, and supporting the UK’s fuel security.** 
+
+  We say: with the sustainability claims of SAF in doubt, the SAF industry can't claim to provide green jobs.
+* **Zero emission flight: developing in the UK and bringing into service novel exciting, forms of aircraft that offer the potential for zero carbon tailpipe emissions.** 
+
+  We say: zero carbon tailpipe aircraft will require huge levels of renewable energy, which will be diverted from other, more energy-efficient and potentially more vital sectors (e.g. road transport, housing and food). Current airport expansion plans are for fossil-fuelled planes. All industry talk is about SAF. Prototypes are so far away as to not realistically reduce emissions by 2050. We are tied into our current models for years if not decades. 
+* **Markets and removals: creating successful carbon markets and investing in greenhouse gas removals to abate residual emissions in 2050.** 
+
+  We say: carbon removals are a hugely expensive and inefficient way to deal with carbon emissions, compared to not producing them in the first place. 
+* **Influencing consumers: preserving the ability for people to fly whilst supporting consumers to make sustainable aviation travel choices.**
+
+  We say: Sustainable aviation travel choices is a false concept, when emissions savings between airlines are negligible, especially next to the potential emissions savings from switching from plane to train (90+%). Suggesting that consumers can make sustainable aviation travel choices is misleading and will lead people to think they are making sustainable choices when they are not. 
+* **Addressing non-CO2: working closely with academia and industry to better understand the science and potential mitigations of non-CO2 impacts.** 
+
+  We say: This is very important, so it's good that this is being looked at.
+
+**The Government is committed to ambitious action across all of these measures that will contribute to decarbonising the whole UK sector, with examples including:**
+
+* **A CO2 emissions reduction trajectory that sees UK aviation emissions peak in 2019 and has residual emissions in 2050 comparable to the Climate Change Committee’s Balanced Net Zero pathway for aviation.** This would suggest that aviation emissions are already going down. They are not. 
+* **A target for airport operations in England to be zero emission by 2040, with a call for evidence published in 2023, and the Government response published shortly.** Greenwash – airport operations pales in comparison to the emissions from the flights themselves.
+* • Our work on airspace modernisation enables aircraft to fly more precise routes, as well as operating more efficiently when arriving / departing airports. Our deployment of Free Route Airspace over the southwest of England has already saved 12,000+ tonnes of CO2/year and 150,000 nautical miles of flying, the equivalent of seven trips around the world. Insignificant, when UK aviation is responsible for xxx Megatonnes CO2 per year.
+* • Our world leading SAF programme, driving demand with a mandate for at least 10% of UK jet fuel to come from sustainable sources by 2030; kickstarting a UK SAF industry with £135 million of support to SAF projects through our Advanced Fuel Fund, and building long term supply through our commitment to design and implement a revenue certainty mechanism to support UK SAF production. tax payers’ money so a small number of people can carry on flying
+* • Investment in research and development for new low and zero-carbon emission aircraft technologies though the Aerospace Technology Institute (ATI) Programme. The Programme will receive £685m of government funding between 2022 and 2025, and a further £975m between 2025 and 2030. same comment as above
+* • The launch in October 2023 of a multi-year, multi-million pound research programme on the nnn-CO2 impacts of aviation, which will include both industry and academic led projects to better understand the complete environmental impact of aviation, and the technological and policy mitigations required to address it.
+* Domestic aviation accounts for around 5% of UK aviation emissions, and through the Jet Zero Strategy, the Government has set a target for UK domestic aviation to reach net zero by 2040, ten years ahead of the economy-wide target. UK aviation emissions 9%?
+* Emissions from domestic aviation are also capped as part of the UK Emissions Trading Scheme (ETS) and we have recently tightened the cap on the UK ETS to further drive down emissions and keep us on track to achieve net zero 2050. 
+* The UK the Government is also continuing to invest in building new rail infrastructure by delivering HS2 between Euston in central London and the West Midlands as planned. HS2 is now well into the build and construction phase, with around 350 active construction sites and high-speed services remain on track to commence between 2029 and 2033. One point on rail, and all the rest on air!
