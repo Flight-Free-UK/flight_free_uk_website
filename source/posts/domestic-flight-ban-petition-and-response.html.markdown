@@ -23,13 +23,23 @@ The 4.5 hour cut-off includes Lon-Edinburgh and Lon-Glasgow, two of the UK’s m
 
 ##### After six months, the petition closed with 10,584 signatures, meaning it had reached the threshold for a government response. 
 
-The response focused almost entirely on the government’s Jet Zero strategy, which was disappointing but not surprising. Here is our analysis:
+The response focused almost entirely on the government’s Jet Zero strategy, which was disappointing but not surprising. 
 
-##### "Domestic aviation is vital for the economy, connectivity, and jobs. Our Jet Zero Strategy focuses on the development of decarbonisation technologies in a way that maintains these benefits."
+Here is our analysis:
+
+##### T﻿hey say:
+
+##### Domestic aviation is vital for the economy, connectivity, and jobs. Our Jet Zero Strategy focuses on the development of decarbonisation technologies in a way that maintains these benefits.
+
+W﻿e say:
 
 Green transportation would provide more jobs (analysis by Possible). With similar journey times by rail and by air, there would be no negative impact on the economy and connectivity.
 
-##### "The French law applies to short-haul internal flights where the same journey could be made by train in under 2.5 hours. If the UK were to align with this pledge the only current domestic aviation routes that would be captured are between London and Manchester and Exeter. These routes carries less than 1% of domestic aviation passengers in 2019."
+##### T﻿hey say
+
+##### The French law applies to short-haul internal flights where the same journey could be made by train in under 2.5 hours. If the UK were to align with this pledge the only current domestic aviation routes that would be captured are between London and Manchester and Exeter. These routes carries less than 1% of domestic aviation passengers in 2019.
+
+W﻿e say:
 
 We’re asking for 4.5 hours in order to include more routes. Direct comparisons show that air and rail travel on London-Edin/Glas routes are similar in time and convenience to flying. Switching from plane to train would save 1.75 million tonnes CO2.
 
@@ -37,10 +47,18 @@ The French policy was pared down from a more ambitious ask, and though the carbo
 
 The 4.5 hr policy would include Lon-Manchester (2hr 6min), Exeter, Newcastle (2hr 48min), Glasgow and Edinburgh, and Edinburgh-Birmingham (4hr 13min)/Glasgow-Birmingham (4hr 9min).
 
-##### "We agree that it is critical aviation helps deliver net zero and we are working to decarbonise UK aviation as a whole. In July 2022, we published our Jet Zero Strategy setting out the Government’s approach to achieving net zero 2050, or ‘Jet Zero’, for UK aviation."
+##### T﻿hey say:
+
+##### We agree that it is critical aviation helps deliver net zero and we are working to decarbonise UK aviation as a whole. In July 2022, we published our Jet Zero Strategy setting out the Government’s approach to achieving net zero 2050, or ‘Jet Zero’, for UK aviation.
+
+W﻿e say:
 
 Jet Zero won’t be effective in reducing emissions from aviation. The sustainability of SAF is in question. New technology is still in development and won’t be commercially available for several years. Efficiency savings have historically been outweighed by rising demand. Offsetting has been proven to be ineffective. 
 
-##### "Our analysis in the strategy shows UK aviation can achieve Jet Zero by 2050 by focusing on new fuels and technology, with knock-on economic and social benefits, and without needing to limit demand."
+##### T﻿hey say:
+
+##### Our analysis in the strategy shows UK aviation can achieve Jet Zero by 2050 by focusing on new fuels and technology, with knock-on economic and social benefits, and without needing to limit demand.
+
+W﻿e say:
 
 It is dangerous and foolish to ignore the advice of the government’s scientific advisors that demand management must come into the equation. All the independent analysis recommends that we must bring flight levels down.
