@@ -105,7 +105,11 @@ It is dangerous and foolish to ignore the advice of the government’s scientifi
 * **Investment in research and development for new low and zero-carbon emission aircraft technologies though the Aerospace Technology Institute (ATI) Programme. The Programme will receive £685m of government funding between 2022 and 2025, and a further £975m between 2025 and 2030.** 
 
   W﻿e say: these are both examples of using tax payers’ money so a small number of people can carry on flying. 
-* • The launch in October 2023 of a multi-year, multi-million pound research programme on the nnn-CO2 impacts of aviation, which will include both industry and academic led projects to better understand the complete environmental impact of aviation, and the technological and policy mitigations required to address it.
-* Domestic aviation accounts for around 5% of UK aviation emissions, and through the Jet Zero Strategy, the Government has set a target for UK domestic aviation to reach net zero by 2040, ten years ahead of the economy-wide target. UK aviation emissions 9%?
-* Emissions from domestic aviation are also capped as part of the UK Emissions Trading Scheme (ETS) and we have recently tightened the cap on the UK ETS to further drive down emissions and keep us on track to achieve net zero 2050. 
-* The UK the Government is also continuing to invest in building new rail infrastructure by delivering HS2 between Euston in central London and the West Midlands as planned. HS2 is now well into the build and construction phase, with around 350 active construction sites and high-speed services remain on track to commence between 2029 and 2033. One point on rail, and all the rest on air!
+* **The launch in October 2023 of a multi-year, multi-million pound research programme on the nnn-CO2 impacts of aviation, which will include both industry and academic led projects to better understand the complete environmental impact of aviation, and the technological and policy mitigations required to address it.**
+* **Domestic aviation accounts for around 5% of UK aviation emissions, and through the Jet Zero Strategy, the Government has set a target for UK domestic aviation to reach net zero by 2040, ten years ahead of the economy-wide target.** 
+
+  W﻿e say: UK aviation emissions are closer to 9%.
+* **Emissions from domestic aviation are also capped as part of the UK Emissions Trading Scheme (ETS) and we have recently tightened the cap on the UK ETS to further drive down emissions and keep us on track to achieve net zero 2050.** 
+* **The UK the Government is also continuing to invest in building new rail infrastructure by delivering HS2 between Euston in central London and the West Midlands as planned. HS2 is now well into the build and construction phase, with around 350 active construction sites and high-speed services remain on track to commence between 2029 and 2033.** 
+
+  W﻿e say: this is a disappointing nod to the rail aspect of the question, dedicating just one point to rail, and the rest to air travel policy.
