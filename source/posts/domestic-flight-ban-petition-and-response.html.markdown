@@ -35,9 +35,9 @@ W﻿e say:
 
 Green transportation would provide more jobs (analysis by Possible). With similar journey times by rail and by air, there would be no negative impact on the economy and connectivity.
 
-**T﻿hey say**
+**T﻿hey say:**
 
-**The French law applies to short-haul internal flights where the same journey could be made by train in under 2.5 hours. If the UK were to align with this pledge the only current domestic aviation routes that would be captured are between London and Manchester and Exeter. These routes carries less than 1% of domestic aviation passengers in 2019.**
+**The French law applies to short-haul internal flights where the same journey could be made by train in under 2.5 hours. If the UK were to align with this pledge the only current domestic aviation routes that would be captured are between London and Manchester and Exeter. These routes carried less than 1% of domestic aviation passengers in 2019.**
 
 W﻿e say:
 
