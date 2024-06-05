@@ -10,7 +10,7 @@ read_time_minute: 3
 ---
 ### Cargo ship
 
-In previous years, the most common way for travellers to cross the ocean flight-free was by passage on a freighter. However, cargo ships stopped carrying passengers during Covid, and most haven’t started again. There is no indication of if or when the practice might start again, but here’s where you might find out: 
+In previous years, the most common way for travellers to cross the ocean flight-free was by passage on a freighter. However, cargo ships stopped carrying passengers during Covid, and most haven’t started again. There is no indication of if or when the practice might start again, but here are two websites where you might find out: 
 
 [www.cargoshipvoyages.com](https://www.cargoshipvoyages.com/)
 
@@ -18,12 +18,12 @@ In previous years, the most common way for travellers to cross the ocean flight-
 
 In anticipation of this being an option in the future, here’s why travelling by cargo ship is great:
 
-* emissions are 40x lower than flying (e.g. flight to South America is roughly 2 tonnes CO2 per passenger, cargo ship passage roughly 50g*).
-* you are not adding demand to a polluting industry – the cargo ship goes whether you’re on it or not, whereas that’s not the case with aviation, which exists as a result of passengers wanting to fly. (If you want to reduce the number of cargo ships in the world, buy less stuff! 90% of what we buy has come in some part via a cargo ship).
-* it’s a unique and adventurous way to travel – there’s nothing like crossing an ocean and arriving in your destination by sea. As you travel further west, it gets warmer and warmer. Experience ocean wildlife as well as the strange world of shipping.
+* emissions are 40x lower than flying (e.g. a flight to South America is roughly 2 tonnes CO2 per passenger, with cargo ship passage roughly 50g*)
+* you are not adding demand to a polluting industry – the cargo ship goes whether you’re on it or not, whereas that’s not the case with aviation, which exists as a result of passengers wanting to fly (if you want to reduce the number of cargo ships in the world, buy less stuff! 90% of what we buy has come in some part via a cargo ship)
+* it’s a unique and adventurous way to travel – there’s nothing like crossing an ocean and arriving at your destination by sea. As you travel further west, it gets warmer and warmer. Experience ocean wildlife as well as the strange world of shipping.
 * cabins are comfortable, you have meals with the crew each night, and there is time and space to do your own thing. Crews often enjoy having passengers aboard as it breaks the monotony of life at sea. 
 
-\* Mike Berners Lee calculation, cited in Kate Rawles 'The Life Cycle, 8,000 miles on a bamboo bike'
+\* Mike Berners Lee calculation, cited in [Kate Rawles 'The Life Cycle, 8,000 miles on a bamboo bike'](https://www.iconbooks.com/ib-title/the-life-cycle/)
 
 Aspects that take more resilience:
 
