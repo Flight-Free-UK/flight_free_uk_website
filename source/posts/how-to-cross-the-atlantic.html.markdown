@@ -10,7 +10,7 @@ read_time_minute: 3
 ---
 ### Cargo ship
 
-In previous years, the most common way for travellers to cross the ocean was by passage on a freighter. However, cargo ships stopped carrying passengers during Covid, and most haven’t started again. There is no indication of if or when the practice might start again, but here’s where you might find out:
+In previous years, the most common way for travellers to cross the ocean flight-free was by passage on a freighter. However, cargo ships stopped carrying passengers during Covid, and most haven’t started again. There is no indication of if or when the practice might start again, but here’s where you might find out: 
 
 [www.cargoshipvoyages.com](https://www.cargoshipvoyages.com/)
 
