@@ -8,6 +8,8 @@ summary: Is it possible to cross the Atlantic without flying? We look at the opt
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/cargo-ship-canva.jpg)
+
 ### Cargo ship
 
 In previous years, the most common way for travellers to cross the ocean flight-free was by passage on a freighter. However, cargo ships stopped carrying passengers during Covid, and most haven’t started again. There is no indication of if or when the practice might start again, but here are two websites where you might find out: 
@@ -37,9 +39,13 @@ We have some inspiring stories here about people who have travelled by cargo shi
 * Lewis took a [cargo ship to South America](/podcast_transcripts/podcast-interview-lewis-mcneill/) to go travelling: "A highlight was seeing the stars at night, because when else are you going to be that far from human habitation?"
 * Kate Rawles also journeyed to [South America by cargo ship](/podcast_transcripts/podcast-series-episode-4-transatlantic-travel/), at the start of an 8,000 mile bike ride through the Andes from Colombia to Cape Horn: "There are many ‘wow’ moments on a the cargo ship, like realising the size of the ocean, when you're travelling for days and days without seeing land."
 
+![](/images/uploads/sailing-ship_canva.jpg)
+
 ### Sailing ship
 
 By far the greenest and most adventurous option! Some companies offer this as a commercial passage, otherwise you can charter a boat or crew on one.
+
+![](/images/uploads/queen-mary-2_canva.jpg)
 
 ### Cruise liner
 
