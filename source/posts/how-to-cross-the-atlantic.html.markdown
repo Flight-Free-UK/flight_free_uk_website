@@ -35,7 +35,7 @@ We have some inspiring stories here about people who have travelled by cargo shi
 
 * Christine and Peter cycled from [Hadrian's Wall to the Great Wall of China](/post/wall-to-wall-without-flying/), then got a cargo ship back from Singapore: "Had we flown, our bodies would have arrived home before our brains."
 * Lewis took a [cargo ship to South America](/podcast_transcripts/podcast-interview-lewis-mcneill/) to go travelling: "A highlight was seeing the stars at night, because when else are you going to be that far from human habitation?"
-* Kate Rawles also journeyed to [South America by cargo ship](/podcast_transcripts/podcast-series-episode-4-transatlantic-travel/), at the start of an 8,000 mile bike ride through the Andes from Colombia to Cape Horn: "There are many ‘wow’ moments on a the cargo ship, like realising the size of the ocean. When you're on it and travelling for days and days without seeing land, that drives home what that means."
+* Kate Rawles also journeyed to [South America by cargo ship](/podcast_transcripts/podcast-series-episode-4-transatlantic-travel/), at the start of an 8,000 mile bike ride through the Andes from Colombia to Cape Horn: "There are many ‘wow’ moments on a the cargo ship, like realising the size of the ocean, when you're travelling for days and days without seeing land."
 
 ### Sailing ship
 
