@@ -18,18 +18,18 @@ In previous years, the most common way for travellers to cross the ocean flight-
 
 In anticipation of this being an option in the future, here’s why travelling by cargo ship is great:
 
-* emissions are 40x lower than flying (e.g. flight to South America is roughly 2 tonnes CO2 per passenger, cargo ship passage roughly 50g*) 
-* you are not adding demand to a polluting industry – the cargo ship goes whether you’re on it or not, whereas that’s not the case with aviation, which exists as a result of passengers wanting to fly. (If you want to reduce the number of cargo ships in the world, buy less stuff! 90% of what we buy has come in some part via a cargo ship)
-* it’s a unique and adventurous way to travel – there’s nothing like crossing an ocean and arriving in your destination by sea. As you travel further west, it gets warmer and warmer. Experience ocean wildlife as well as the strange world of shipping 
-* cabins are comfortable, meals with the crew each night, time and space to do your own thing. Crews often enjoy having passengers aboard as it breaks the monotony of life at sea. 
+* emissions are 40x lower than flying (e.g. flight to South America is roughly 2 tonnes CO2 per passenger, cargo ship passage roughly 50g*).
+* you are not adding demand to a polluting industry – the cargo ship goes whether you’re on it or not, whereas that’s not the case with aviation, which exists as a result of passengers wanting to fly. (If you want to reduce the number of cargo ships in the world, buy less stuff! 90% of what we buy has come in some part via a cargo ship).
+* it’s a unique and adventurous way to travel – there’s nothing like crossing an ocean and arriving in your destination by sea. As you travel further west, it gets warmer and warmer. Experience ocean wildlife as well as the strange world of shipping.
+* cabins are comfortable, you have meals with the crew each night, and there is time and space to do your own thing. Crews often enjoy having passengers aboard as it breaks the monotony of life at sea. 
 
 Aspects that take more resilience:
 
 * you have to be incredibly flexible and wait for weeks then leave at the drop of a hat
-* cost: €100 per night (passage is around 10 nights)
-* there's no entertainment on board – you have to make your own!
+* the cost is high: it's typically €100 per night (passage is around 10 nights) 
+* there’s no entertainment on board – you have to make your own!
 
-We have some inspiring stories here  about people who have travelled by cargo ship: 
+We have some inspiring stories here about people who have travelled by cargo ship: 
 
 * Christine and Peter cycled from [Hadrian's Wall to the Great Wall of China](/post/wall-to-wall-without-flying/), then got a cargo ship back from Singapore. "Had we flown, our bodies would have arrived home before our brains."
 * Lewis took a [cargo ship to South America](/podcast_transcripts/podcast-interview-lewis-mcneill/) to go travelling. "A highlight was seeing the stars at night, because when else are you going to be that far from human habitation?"
