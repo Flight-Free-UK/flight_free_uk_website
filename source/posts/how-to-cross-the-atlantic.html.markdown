@@ -72,6 +72,6 @@ Our calculations show it’s around three times more carbon heavy than the equiv
 
 ### R﻿epositioning cruises
 
-C﻿ruise ships often need to reposition the boat after a cruise, ready to pick up the next cohort of holiday-makers, so the cruise line will sell cabins at a discounted rate. 
+C﻿ruise ships often need to [reposition the boat after a cruise](https://thepointsguy.com/guide/repositioning-cruises/), ready to pick up the next cohort of holiday-makers, so the cruise line will sell cabins at a discounted rate. 
 
 It's a slightly cheaper and less carbon intensive way to cross the Atlantic – arguably the boat is going anyway so you're not responsible for the emissions from the ship itself, just for what you use on board.
