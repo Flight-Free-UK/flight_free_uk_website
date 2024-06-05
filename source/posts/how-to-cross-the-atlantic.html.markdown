@@ -20,7 +20,7 @@ In anticipation of this being an option in the future, here’s why travelling b
 
 * emissions are 40x lower than flying (e.g. a flight to South America is roughly 2 tonnes CO2 per passenger, with cargo ship passage roughly 50g*)
 * you are not adding demand to a polluting industry – the cargo ship goes whether you’re on it or not, whereas that’s not the case with aviation, which exists as a result of passengers wanting to fly (if you want to reduce the number of cargo ships in the world, buy less stuff! 90% of what we buy has come in some part via a cargo ship)
-* it’s a unique and adventurous way to travel – there’s nothing like crossing an ocean and arriving at your destination by sea. As you travel further west, it gets warmer and warmer. Experience ocean wildlife as well as the strange world of shipping.
+* it’s a unique and adventurous way to travel – there’s nothing like crossing an ocean and arriving at your destination by sea. Travelling from east to west you get an extra hours’ sleep every day, and it gets warmer. Experience ocean wildlife as well as the strange world of shipping.
 * cabins are comfortable, you have meals with the crew each night, and there is time and space to do your own thing. Crews often enjoy having passengers aboard as it breaks the monotony of life at sea. 
 
 \* Mike Berners Lee calculation, cited in [Kate Rawles 'The Life Cycle, 8,000 miles on a bamboo bike'](https://www.iconbooks.com/ib-title/the-life-cycle/)
@@ -33,9 +33,9 @@ Aspects that take more resilience:
 
 We have some inspiring stories here about people who have travelled by cargo ship: 
 
-* Christine and Peter cycled from [Hadrian's Wall to the Great Wall of China](/post/wall-to-wall-without-flying/), then got a cargo ship back from Singapore. "Had we flown, our bodies would have arrived home before our brains."
-* Lewis took a [cargo ship to South America](/podcast_transcripts/podcast-interview-lewis-mcneill/) to go travelling. "A highlight was seeing the stars at night, because when else are you going to be that far from human habitation?"
-* Kate Rawles also journeyed to [South America by cargo ship](/podcast_transcripts/podcast-series-episode-4-transatlantic-travel/), at the start of an 8,000 mile bike ride through the Andes from Colombia to Cape Horn. 
+* Christine and Peter cycled from [Hadrian's Wall to the Great Wall of China](/post/wall-to-wall-without-flying/), then got a cargo ship back from Singapore: "Had we flown, our bodies would have arrived home before our brains."
+* Lewis took a [cargo ship to South America](/podcast_transcripts/podcast-interview-lewis-mcneill/) to go travelling: "A highlight was seeing the stars at night, because when else are you going to be that far from human habitation?"
+* Kate Rawles also journeyed to [South America by cargo ship](/podcast_transcripts/podcast-series-episode-4-transatlantic-travel/), at the start of an 8,000 mile bike ride through the Andes from Colombia to Cape Horn: "There are many ‘wow’ moments on a the cargo ship, like realising the size of the ocean. When you're on it and travelling for days and days without seeing land, that drives home what that means."
 
 ### Sailing ship
 
