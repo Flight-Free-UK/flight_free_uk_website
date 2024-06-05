@@ -45,11 +45,11 @@ We have some inspiring stories here about people who have travelled by cargo shi
 
 By far the greenest and most adventurous option! 
 
-[A﻿nother World Adventures](https://www.anotherworldadventures.com/) is a really good company offering transatlantic passages throughout the year, typically east to west in the spring, and west to east in the autumn, following the trade winds.
+[A﻿nother World Adventures](https://www.anotherworldadventures.com/sail-across-atlantic-ocean-transatlantic-sailing-voyages/) is a really good company offering transatlantic passages throughout the year, typically west to east in the spring, and east to west in the autumn, following the trade winds.
 
 Y﻿ou don't have to be an experienced sailor to take part, although that can help.
 
-O﻿ther companies include Voyage Vert
+O﻿ther companies include [Voyage Vert](https://www.voyagevert.org/project/), which aims to start transatlantic crossings under sail in the coming years.
 
 ![](/images/uploads/queen-mary-2_canva.jpg)
 
