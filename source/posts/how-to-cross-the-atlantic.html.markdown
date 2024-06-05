@@ -62,6 +62,8 @@ Our calculations show it’s around three times more carbon heavy than the equiv
 * Flying London to New York generates [1.415 tonnes per passenger for the return journey](https://flightemissionmap.org/#London/51.50,-0.13/127/20000)
 * That means QMII is just over 3 times the CO2 of the flight 
 
+![](/images/uploads/cruise-ship_canva.jpg)
+
 ### R﻿epositioning cruises
 
 C﻿ruise ships often need to reposition the boat after a cruise, ready to pick up the next cohort of holiday-makers, so the cruise line will sell cabins at a discounted rate. 
