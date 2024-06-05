@@ -43,7 +43,13 @@ We have some inspiring stories here about people who have travelled by cargo shi
 
 ### Sailing ship
 
-By far the greenest and most adventurous option! Some companies offer this as a commercial passage, otherwise you can charter a boat or crew on one.
+By far the greenest and most adventurous option! 
+
+[A﻿nother World Adventures](https://www.anotherworldadventures.com/) is a really good company offering transatlantic passages throughout the year, typically east to west in the spring, and west to east in the autumn, following the trade winds.
+
+Y﻿ou don't have to be an experienced sailor to take part, although that can help.
+
+O﻿ther companies include Voyage Vert
 
 ![](/images/uploads/queen-mary-2_canva.jpg)
 
