@@ -28,7 +28,7 @@ In anticipation of this being an option in the future, here’s why travelling b
 Aspects that take more resilience:
 
 * you have to be incredibly flexible and wait for weeks then leave at the drop of a hat
-* the cost is high: it's typically €100 per night (passage is around 10 nights) 
+* the cost is high: it’s typically €100 per night (passage is around 10 nights) 
 * there’s no entertainment on board – you have to make your own!
 
 We have some inspiring stories here about people who have travelled by cargo ship: 
