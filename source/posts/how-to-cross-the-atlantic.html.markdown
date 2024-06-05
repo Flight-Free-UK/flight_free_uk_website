@@ -23,6 +23,8 @@ In anticipation of this being an option in the future, here’s why travelling b
 * it’s a unique and adventurous way to travel – there’s nothing like crossing an ocean and arriving in your destination by sea. As you travel further west, it gets warmer and warmer. Experience ocean wildlife as well as the strange world of shipping.
 * cabins are comfortable, you have meals with the crew each night, and there is time and space to do your own thing. Crews often enjoy having passengers aboard as it breaks the monotony of life at sea. 
 
+\* Mike Berners Lee calculation, cited in Kate Rawles 'The Life Cycle, 8,000 miles on a bamboo bike'
+
 Aspects that take more resilience:
 
 * you have to be incredibly flexible and wait for weeks then leave at the drop of a hat
@@ -34,8 +36,6 @@ We have some inspiring stories here about people who have travelled by cargo shi
 * Christine and Peter cycled from [Hadrian's Wall to the Great Wall of China](/post/wall-to-wall-without-flying/), then got a cargo ship back from Singapore. "Had we flown, our bodies would have arrived home before our brains."
 * Lewis took a [cargo ship to South America](/podcast_transcripts/podcast-interview-lewis-mcneill/) to go travelling. "A highlight was seeing the stars at night, because when else are you going to be that far from human habitation?"
 * Kate Rawles also journeyed to [South America by cargo ship](/podcast_transcripts/podcast-series-episode-4-transatlantic-travel/), at the start of an 8,000 mile bike ride through the Andes from Colombia to Cape Horn. 
-
-\* Mike Berners Lee calculation, cited in Kate Rawles 'The Life Cycle, 8,000 miles on a bamboo bike'
 
 ### Sailing ship
 
