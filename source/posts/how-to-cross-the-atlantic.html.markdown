@@ -14,7 +14,7 @@ read_time_minute: 3
 
 In previous years, a common way for travellers to cross the ocean flight-free was by passage on a freighter. **However, cargo ships stopped carrying passengers during Covid, and most haven’t started again.** 
 
-There is no indication of if or when the practice might start again, but here are two websites where you might find out: [www.cargoshipvoyages.com](https://www.cargoshipvoyages.com/)a﻿nd [www.cargoholidays.com](https://cargoholidays.com/cargo-ship-cruise-to-every-destination)
+There is no indication of if or when the practice might start again, but here are two websites where you might find out: [www.cargoshipvoyages.com](https://www.cargoshipvoyages.com/) a﻿nd [www.cargoholidays.com](https://cargoholidays.com/cargo-ship-cruise-to-every-destination)
 
 In anticipation of this being an option in the future, here’s why travelling by cargo ship is great:
 
