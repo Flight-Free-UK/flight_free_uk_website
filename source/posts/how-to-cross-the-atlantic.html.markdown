@@ -57,7 +57,7 @@ The [Queen Mary II cruise liner](https://www.cunard.com/en-gb/cruise-ships/queen
 
 It's operated by the cruise company [Cunard](https://www.cunard.com/en-gb/cruise-destinations/transatlantic-cruises/what-is-a-transatlantic-cruise), and while it’s not the same as a cruise ship (it’s built for cross-ocean transit rather than bay cruising), it still has a sizeable carbon footprint. 
 
-Our calculations show it’s around three times more carbon heavy than the equivalent flight:
+Our calculations show travelling from the UK to New York is around three times more carbon heavy than the equivalent flight:
 
 * QMII uses [1850 tonnes diesel (HFO) and 1000 tonnes gas](http://www.queenmarycruises.net/rms-queen-mary-2-ship/) (MGO) per transatlantic crossing
 * [One tonne HFO produces 3.114 tonnes CO2, one tonne MGO produces 3.206 tonnes CO2](https://data.consilium.europa.eu/doc/document/PE-26-2023-INIT/en/pdf)
