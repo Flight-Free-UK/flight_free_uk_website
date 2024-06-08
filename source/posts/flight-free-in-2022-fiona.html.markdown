@@ -45,4 +45,4 @@ Near the Texas-Mexico border we had to show our passports to armed police who ca
 
 ##### Flight free travel is never dull.
 
-My blog, with lots of pages that never got written, can be found at [www.not-plane-simple.blogspot.com](www.not-plane-simple.blogspot.com).
+My blog, with lots of pages that never got written, can be found at [not-plane-simple.blogspot.com](https://not-plane-simple.blogspot.com/).
