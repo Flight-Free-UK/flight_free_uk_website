@@ -37,11 +37,7 @@ Flight booking websites should show average carbon emissions per passenger for e
 
 When it became clear that smoking was a Public Health issue, the government banned the advertising of tobacco products. Air pollution and greenhouse gas emissions from aviation are an equal, if not worse, Public Health issue. A ban on advertising for airlines would contribute to the social shift away from aviation.
 
-#### 6. No bailouts
-
-It is unfair for private companies to receive public money if they have a largely tax-free ride in the good times, and airlines are no exception. Public money should be reserved for companies that operate in the public interest.
-
-#### Stick or carrot?
+##### Stick or carrot?
 
 While ‘stick’ measures such as these can lead to behaviour change, they should go hand in hand with ‘carrot’ measures such as: cheaper trains; more routes; and more obvious and user-friendly booking systems for overland travel.
 
