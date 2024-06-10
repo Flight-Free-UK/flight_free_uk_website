@@ -3,10 +3,9 @@ published: true
 title: What should the government do?
 category: policy-position
 date: 2020-03-24T12:41:42.265Z
-cover_image: /images/uploads/trains-not-planes.jpg
-summary: The coronavirus outbreak has caused an unprecedented drop in demand for
-  flights. What can the government do to ensure that climate targets are met
-  once travel restrictions are lifted?
+cover_image: /images/uploads/downing_st_canva.jpg
+summary: What measures should the government put in place that will ensure
+  emissions from aviation go down?
 author: FlightFree UK
 read_time_minute: 3
 ---
