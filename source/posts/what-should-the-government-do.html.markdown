@@ -9,11 +9,11 @@ summary: What measures should the government put in place that will ensure
 author: FlightFree UK
 read_time_minute: 3
 ---
-### In September 2019 the UK’s Committee on Climate Change wrote to the government with advice on how aviation can reach net zero by 2050.
+### I﻿n order to reach our legally-binding target of net zero by 2050, several measures need to be put in place.
 
- Part of the report focussed on demand, with the net zero scenario assuming 25% growth – too high according to some campaigners, but still much lower than the 70% growth that the [UK aviation industry is pushing for](https://www.sustainableaviation.co.uk/news/uk-aviation-commits-to-net-zero-carbon-emissions-by-2050/).
+##### H﻿ere at Flight Free UK we focus on individual behaviour change, but that must go hand in hand with effective government policy if we are to achieve the necessary emissions reductions we need to see.
 
-Achieving net zero greenhouse gas emissions by 2050 is a legally-binding target. Here are our top policies for a UK government to adopt, to help get a grip on emissions from aviation.
+Here are our top policies for a UK government to adopt, to help get a grip on emissions from aviation.
 
 #### 1. Formally include international aviation in the net zero target
 
