@@ -17,9 +17,9 @@ Here are our top policies for a UK government to adopt, to help get a grip on em
 
 #### 1. A moratorium on airport expansion
 
-A﻿cross the UK, 20 airports have expansion plans. Each one claims the expansion will fit within our emissions reduction goals, even though the plans would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/)c﻿ontributing [a further 9 mega-tonnes of CO2 annually](https://www.aef.org.uk/campaigns/challenging-airport-expansion/) into the atmosphere.
+A﻿cross the UK, 20 airports have expansion plans. Each one claims the expansion will fit within our emissions reduction goals, even though the plans would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/), c﻿ontributing [a further 9 mega-tonnes of CO2 annually](https://www.aef.org.uk/campaigns/challenging-airport-expansion/) into the atmosphere.
 
-A﻿irports are adept at reassuring policy makers that they can grow in an environmentally-friendly way, mainly by pointing towards carbon neutral ground operations, improvements in fuel efficiency, and more people taking the train to the airport. 
+A﻿irports are adept at reassuring policy makers that they can grow in an environmentally-friendly way, mainly by pointing towards carbon-neutral ground operations, improvements in fuel efficiency, and more people taking the train to the airport. 
 
 E﻿missions from flights themselves are consistently left out of airport expansion plans.
 
@@ -33,7 +33,7 @@ T﻿he government could easily introduce a tax on fuel for domestic flights (it'
 
 T﻿axing aviation fuel would help level the playing field with alternative forms of transport, and it's estimated that it would cut both [passenger numbers and emissions by 11%](https://www.ft.com/content/1ce24798-733b-11e9-bbfb-5c68069fbd15).
 
-#### 3. A levy on frequent fliers
+#### 3. A levy on frequent flyers
 
 A﻿ small number of people take the majority of flights: [70% of flights in the UK are taken by just 15% of the population](https://fullfact.org/economy/do-15-people-take-70-flights/). Introducing a frequent flyer levy would both incentivise people to fly less as well as ensuring that the polluter pays.
 
@@ -43,7 +43,7 @@ I﻿n the same way that food items show nutritional information, carbon informat
 
 S﻿ome flight booking sites already do this, but only by comparing flights to other flights (this counts as greenwashing, because it gives the impression that some flights are green). 
 
-I﻿nstead, flight booking websites should show average carbon emissions per passenger for each journey, compared to other transport modes such as trains, or compared to UK annual per person emissions. 
+I﻿nstead, flight booking websites should show average carbon emissions per passenger for each journey, compared to other transport modes such as trains, or compared to UK annual per-person emissions. 
 
 #### 5. A ban on advertising for flights
 
