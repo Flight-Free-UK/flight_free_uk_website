@@ -17,13 +17,13 @@ Here are our top policies for a UK government to adopt, to help get a grip on em
 
 #### 1. A moratorium on airport expansion
 
-A﻿cross the UK, 20 airports have expansion plans. Each one claims the expansion will fit within our emissions reduction goals, even though the plans would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/)c﻿ontributing a further 8 mega-tonnes of CO2 annually into the atmosphere.
+A﻿cross the UK, 20 airports have expansion plans. Each one claims the expansion will fit within our emissions reduction goals, even though the plans would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/)c﻿ontributing [a further 9 mega-tonnes of CO2 annually](https://www.aef.org.uk/campaigns/challenging-airport-expansion/) into the atmosphere.
 
-A﻿irports are adept at reassuring policy makers that they can grow in a low-carbon way, mainly by pointing towards carbon neutral ground operations, improvements in fuel efficiency, and more people taking the train to the airport. 
+A﻿irports are adept at reassuring policy makers that they can grow in an environmentally-friendly way, mainly by pointing towards carbon neutral ground operations, improvements in fuel efficiency, and more people taking the train to the airport. 
 
 E﻿missions from flights themselves are consistently left out of airport expansion plans.
 
-T﻿he Climate Change Committee states that there should be no net expansion across the UK if we are to meet our climate targets. The government should take this advice and adopt a national policy to stop all airport expansion.
+T﻿he Climate Change Committee states that there should be no net expansion across the UK if we are to meet our climate targets. The government should take this advice and adopt a national policy to [halt all airport expansion](https://noairportexpansion.org/).
 
 #### 2﻿. Tax aviation fuel
 
