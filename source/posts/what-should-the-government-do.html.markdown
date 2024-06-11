@@ -39,7 +39,11 @@ A﻿ small number of people take the majority of flights: [70% of flights in the
 
 #### 4. Carbon labelling at time of booking
 
-Flight booking websites should show average carbon emissions per passenger for each journey, compared to UK annual per person emissions. These ‘nudge’ measures can help consumers make informed choices and are similar to measures already used for items such as food.
+I﻿n the same way that food items show nutritional information, carbon information given at the time of booking would help the consumer to make an informed choice.
+
+S﻿ome flight booking sites already do this, but only by comparing flights to other flights (this counts as greenwashing, because it gives the impression that some flights are green). 
+
+I﻿nstead, flight booking websites should show average carbon emissions per passenger for each journey, compared to other transport modes such as trains, or compared to UK annual per person emissions. 
 
 #### 5. A ban on advertising for flights
 
