@@ -9,23 +9,27 @@ summary: What measures should the government put in place that will ensure
 author: FlightFree UK
 read_time_minute: 3
 ---
-### I﻿n order to reach our legally-binding target of net zero by 2050, several measures need to be put in place.
+## I﻿n order to reach our legally-binding target of net zero by 2050, emissions from aviation need to fall.
 
-##### H﻿ere at Flight Free UK we focus on individual behaviour change, but that must go hand in hand with effective government policy if we are to achieve the necessary emissions reductions we need to see.
+#### H﻿ere at Flight Free UK we focus on individual behaviour change, but that must go hand in hand with effective government policy if we are to achieve the necessary emissions reductions.
 
 Here are our top policies for a UK government to adopt, to help get a grip on emissions from aviation.
 
-#### 1. Formally include international aviation in the net zero target
+#### 1. A moratorium on airport expansion
 
-Currently, only emissions from domestic flights are included in the net zero target. International flights taking off from UK airports should be included. If we leave a growing chunk of emissions out of our plans because they are a bit too hard to tackle, we will fail in our ambition to avoid dangerous climate change.
+A﻿cross the UK, 20 airports have expansion plans. Each one claims the expansion will fit within our emissions reduction goals, even though the plans would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/)c﻿ontributing a further 8 mega-tonnes of CO2 annually into the atmosphere.
 
-#### 2. A moratorium on airport expansion
+A﻿irports are adept at reassuring policy makers that they can grow in a low-carbon way, mainly by pointing towards carbon neutral ground operations, improvements in fuel efficiency, and more people taking the train to the airport. 
 
-The recent recommendations against Bristol and Stansted expansions as well as the ruling that a third runway Heathrow would be illegal have been welcomed by anti-aviation campaigners. But many other UK airports are planning to grow, and if they do so [we will definitely miss our net zero target](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal). We need a national policy to stop all airport expansion.
+E﻿missions from flights themselves are consistently left out of airport expansion plans.
 
-#### 3. A fairer tax system
+T﻿he Climate Change Committee states that there should be no net expansion across the UK if we are to meet our climate targets. The government should take this advice and adopt a national policy to stop all airport expansion.
+
+#### 2﻿. Tax aviation fuel
 
 Currently, there is no tax on kerosene (aviation fuel), meaning that flights are often artificially cheap especially when compared to overland transport such as trains. The playing field needs to be levelled with VAT on plane tickets and a kerosene tax. It has been estimated that a tax on aviation fuel in Europe would cut both [passenger numbers and emissions by 11%](https://www.ft.com/content/1ce24798-733b-11e9-bbfb-5c68069fbd15).
+
+#### 3. Tax, not reward, frequent fliers
 
 [70% of flights in the UK are taken by just 15% of the population](https://fullfact.org/economy/do-15-people-take-70-flights/). Introducing a frequent flyer levy would both incentivise people to fly less as well as ensuring that the polluter pays.
 
