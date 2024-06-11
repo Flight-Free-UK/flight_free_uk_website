@@ -47,12 +47,17 @@ I﻿nstead, flight booking websites should show average carbon emissions per pas
 
 #### 5. A ban on advertising for flights
 
-When it became clear that smoking was a Public Health issue, the government banned the advertising of tobacco products. Air pollution and greenhouse gas emissions from aviation are an equal, if not worse, Public Health issue. A ban on advertising for airlines would contribute to the social shift away from aviation.
+When it became clear that smoking was a Public Health issue, the government banned the advertising of tobacco products. 
 
-##### Stick or carrot?
+Air pollution and greenhouse gas emissions from aviation are an equal, if not worse, Public Health issue. A ban on advertising for airlines would contribute to the social shift away from aviation.
 
-While ‘stick’ measures such as these can lead to behaviour change, they should go hand in hand with ‘carrot’ measures such as: cheaper trains; more routes; and more obvious and user-friendly booking systems for overland travel.
+#### 6﻿. Significant investment in low-carbon transport
 
-The Committee on Climate Change says that if, instead of 25% growth, the UK could keep demand to 2018 levels, it would save 8 million tonnes of CO2 equivalent by 2050. It says that it will take a change in consumer preference or social norms to achieve this, which is where campaigns like Flight Free UK come in. 
+T﻿here are many barriers to people choosing low-carbon transport, and these need to be removed in order to facilitate the shift away from air travel. These include:
 
-#### Government policy and individual action are not mutually exclusive. It will take both to get aviation's net emissions to zero by 2050.
+* b﻿ringing the railways back into public ownership to ensure that profits go towards improving the service rather than to shareholders
+* c﻿heaper, more consistent fares, for example removing excessive walk-on fares and keeping standard fares lower
+* p﻿ublishing timetables much further in advance so travellers can plan ahead and book travel earlier than the current 12 weeks
+* j﻿oined-up services, for example between trains and ferries
+* i﻿nvesting in booking platforms that simplify the booking process for multiple transport modes
+* u﻿pgrade lines and rolling stock to improve reliability and speed of domestic train travel
