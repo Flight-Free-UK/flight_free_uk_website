@@ -61,3 +61,4 @@ T﻿here are many barriers to people choosing low-carbon transport, and these ne
 * j﻿oined-up services, for example between trains and ferries
 * i﻿nvesting in booking platforms that simplify the booking process for multiple transport modes
 * u﻿pgrade lines and rolling stock to improve reliability and speed of domestic train travel
+* o﻿pen up the channel tunnel to night trains, and allow competition with Eurostar to facilitate cheaper UK-EU travel
