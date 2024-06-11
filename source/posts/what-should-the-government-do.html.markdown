@@ -27,11 +27,15 @@ T﻿he Climate Change Committee states that there should be no net expansion acr
 
 #### 2﻿. Tax aviation fuel
 
-Currently, there is no tax on kerosene (aviation fuel), meaning that flights are often artificially cheap especially when compared to overland transport such as trains. The playing field needs to be levelled with VAT on plane tickets and a kerosene tax. It has been estimated that a tax on aviation fuel in Europe would cut both [passenger numbers and emissions by 11%](https://www.ft.com/content/1ce24798-733b-11e9-bbfb-5c68069fbd15).
+Currently, there is no tax on kerosene (aviation fuel), meaning that flights are often artificially cheap especially when compared to overland transport such as trains. 
 
-#### 3. Tax, not reward, frequent fliers
+T﻿he government could easily introduce a tax on fuel for domestic flights (it's harder, though not impossible, to tax the fuel on international flights as it would require reciprocation with the arrival country), and it makes sense to do so: we currently pay 50% tax on the fuel we use in our cars, so there is no reason that aviation fuel should continue to be tax-free.
 
-[70% of flights in the UK are taken by just 15% of the population](https://fullfact.org/economy/do-15-people-take-70-flights/). Introducing a frequent flyer levy would both incentivise people to fly less as well as ensuring that the polluter pays.
+T﻿axing aviation fuel would help level the playing field with alternative forms of transport, and it's estimated that it would cut both [passenger numbers and emissions by 11%](https://www.ft.com/content/1ce24798-733b-11e9-bbfb-5c68069fbd15).
+
+#### 3. A levy on frequent fliers
+
+A﻿ small number of people take the majority of flights: [70% of flights in the UK are taken by just 15% of the population](https://fullfact.org/economy/do-15-people-take-70-flights/). Introducing a frequent flyer levy would both incentivise people to fly less as well as ensuring that the polluter pays.
 
 #### 4. Carbon labelling at time of booking
 
