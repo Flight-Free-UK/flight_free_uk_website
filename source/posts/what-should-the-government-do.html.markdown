@@ -51,7 +51,13 @@ When it became clear that smoking was a Public Health issue, the government bann
 
 Air pollution and greenhouse gas emissions from aviation are an equal, if not worse, Public Health issue. A ban on advertising for airlines would contribute to the social shift away from aviation.
 
-#### 6﻿. Significant investment in low-carbon transport
+#### 6﻿. A ban on domestic flights where there's a direct train alternative
+
+W﻿ith domestic train travel on electrified lines giving a 90% reduction in emissions compared to flying, removing certain domestic flight routes would go a long way to reducing emissions.
+
+
+
+#### 7﻿. Significant investment in low-carbon transport
 
 T﻿here are many barriers to people choosing low-carbon transport, and these need to be removed in order to facilitate the shift away from air travel. These include:
 
