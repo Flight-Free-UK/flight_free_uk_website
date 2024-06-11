@@ -55,7 +55,9 @@ Air pollution and greenhouse gas emissions from aviation are an equal, if not wo
 
 W﻿ith domestic train travel on electrified lines giving a 90% reduction in emissions compared to flying, removing certain domestic flight routes would go a long way to reducing emissions.
 
-O﻿n routes with fast, direct trains, the rail and air times are comparable once you've factored transfers to the airport and waiting time for check-in etc. It should therefore be possible to maintain good domestic connectivity while removing the high-carbon option.
+O﻿n routes with fast, direct trains, the rail and air times are comparable once you've factored in transfers to the airport and waiting time for check-in etc. It should therefore be possible to maintain good domestic connectivity while removing the high-carbon option. 
+
+O﻿ur recommendation is to remove flight routes where there's a direct train alternative of 4.5 hours.
 
 #### 7﻿. Significant investment in low-carbon transport
 
