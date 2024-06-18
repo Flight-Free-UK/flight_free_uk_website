@@ -57,7 +57,7 @@ W﻿ith domestic train travel on electrified lines giving a 90% reduction in emi
 
 O﻿n routes with fast, direct trains, the rail and air times are comparable once you've factored in transfers to the airport and waiting time for check-in etc. It should therefore be possible to maintain good domestic connectivity while removing the high-carbon option. 
 
-O﻿ur recommendation is to remove flight routes where there's a direct train alternative of 4.5 hours.
+O﻿ur recommendation is to remove flight routes where there's a direct train alternative of 4.5 hours or less. This would include routes between London and Exeter/Manchester/Newcastle/Edinburgh/Glasgow, and Birmingham and Edinburgh/Glasgow.
 
 #### 7﻿. Significant investment in low-carbon transport
 
