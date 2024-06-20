@@ -33,9 +33,9 @@ Getting onto the ferry was easy. Port staff directed us to join other cyclists w
 
 The ferry departed at 6pm and arrived in the afternoon the next day. An absolute highlight was seeing four pods of dolphins swimming directly towards the ferry, only turning at the last second. It was so exciting and joyful!
 
-![](/images/uploads/spain_mountains_tcowden.jpg "The mountaintop village of Alles")
-
 What was memorable about the trip? It’s almost impossible to put into words but here are a few highlights: the quiet roads, the constant musical soundtrack of bird song and cow bells, the feeling of freedom having all we needed in our panniers, the sense of achievement, the physical exhaustion at the end of the day, the joy of sharing an adventure, the “days off” when we climbed high peaks or collapsed reading books, the wildflowers, “Menu del Dia” three course lunches including delicious wine for about 14 euros, eating juicy mandarins in the sun, the sensations of warmth, wind and rain on our faces, and the kindness and warmth we encountered. 
+
+![](/images/uploads/spain_mountains_tcowden.jpg "The mountaintop village of Alles")
 
 We cycled on one minor road with almost no traffic which wound its way along the top of a ridge with 360 degree views out to the snowcapped Picos de Europa mountains in front, the sea behind, meadows filled with asphodel flowers and cows on one side and long stretches of woods in the valley below on the other side. 
 
