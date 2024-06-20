@@ -57,7 +57,11 @@ Our total distance travelled was a little over 600 miles, the longest day being 
 
 *R﻿elevant links:*
 
-[Cycling Holidays in France Tours in Brittany - Families too (bretonbikes.com)](https://www.bretonbikes.com/)
+[B﻿reton Bikes – Cycling Holidays in France](https://www.bretonbikes.com/)
+
+
+
+[](https://www.bretonbikes.com/)
 
 [Cycling Holidays Europe - Weekend Walking Tours, Trips, & Breaks (hookedoncycling.co.uk)](https://www.hookedoncycling.co.uk/)
 
