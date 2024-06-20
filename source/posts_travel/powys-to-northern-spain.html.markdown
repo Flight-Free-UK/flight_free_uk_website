@@ -57,16 +57,12 @@ Our total distance travelled was a little over 600 miles, the longest day being 
 
 *R﻿elevant links:*
 
-[B﻿reton Bikes – Cycling Holidays in France](https://www.bretonbikes.com/)
+[B﻿reton Bikes – Cycling Holidays in France](https://www.bretonbikes.com/)[](https://www.bretonbikes.com/)
 
+[C﻿ycling Holidays Europe – Hooked on Cycling](https://www.hookedoncycling.co.uk/)
 
+[S﻿cotCycle – Cycling Holidays in Scotland](https://www.scotcycle.co.uk/)
 
-[](https://www.bretonbikes.com/)
-
-[Cycling Holidays Europe - Weekend Walking Tours, Trips, & Breaks (hookedoncycling.co.uk)](https://www.hookedoncycling.co.uk/)
-
-[ScotCycle | Cycling Holidays in Scotland | Cycling Holidays in Europe](https://www.scotcycle.co.uk/)
-
-[Cycle Rescue, Bicycle Breakdown, 24hr Recovery | ETA](https://www.eta.co.uk/bicycle-insurance/cycle-rescue/) 
+[E﻿TA – Cycle Rescue, Bicycle Breakdown](https://www.eta.co.uk/bicycle-insurance/cycle-rescue/)
 
 [Brittany ferries](https://www.brittany-ferries.co.uk/)
