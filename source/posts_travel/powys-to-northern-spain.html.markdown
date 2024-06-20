@@ -65,4 +65,4 @@ Our total distance travelled was a little over 600 miles, the longest day being 
 
 [E﻿TA – Cycle Rescue, Bicycle Breakdown](https://www.eta.co.uk/bicycle-insurance/cycle-rescue/)
 
-[Brittany ferries](https://www.brittany-ferries.co.uk/)
+[Brittany Ferries](https://www.brittany-ferries.co.uk/)
