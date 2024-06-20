@@ -9,7 +9,7 @@ summary: Tamsyn and Graham head off on a four-week cycle tour of northern Spain,
 author: FlightFree UK
 read_time_minute: 5
 ---
-### We are not “cyclists”! We cycle in walking boots, waterproofs and 15-year-old cycling shorts. 
+### We are not “cyclists”! We cycle in walking boots, waterproofs and 15-year-old cycling shorts.
 
 ##### But my husband Graham and I have just completed a four-week cycle tour from Santander to Somiedo Natural Park in northern Spain, climbing to 1486m with the aid of our “magic” electric bikes.
 
@@ -51,18 +51,14 @@ We got by with our rudimentary Spanish, Google translate and a lot of smiling! A
 
 Overall, our key to success was staying flexible. While the trip did challenge us, it was well within our capabilities and it was incredibly satisfying to have completed it. 
 
-Our total distance travelled was a little over 600 miles, the longest day being 40 miles. Not nearly as impressive as the retired couple we met who had brought a tandem on their car and ridden it 50 miles up a mountain in a day. But they loved hearing our tales of savouring every moment of every day, even the rainy ones, and the freedom of being car-free.  
+Our total distance travelled was a little over 600 miles, the longest day being 40 miles. Not nearly as impressive as the retired couple we met who had brought a tandem on their car and ridden it 50 miles up a mountain in a day. But they loved hearing our tales of savouring every moment of every day, even the rainy ones, and the freedom of being car-free.   
 
 ##### There was a wistful look in their eyes as they waved us off, telling us they admired the way we had been brave and that we were an “inspiration”. We’ll take that!
 
-*R﻿elevant links:*
+*R﻿elevant links:* 
 
-[B﻿reton Bikes – Cycling Holidays in France](https://www.bretonbikes.com/)[](https://www.bretonbikes.com/)
-
-[C﻿ycling Holidays Europe – Hooked on Cycling](https://www.hookedoncycling.co.uk/)
-
-[S﻿cotCycle – Cycling Holidays in Scotland](https://www.scotcycle.co.uk/)
-
-[E﻿TA – Cycle Rescue, Bicycle Breakdown](https://www.eta.co.uk/bicycle-insurance/cycle-rescue/)
-
-[Brittany Ferries](https://www.brittany-ferries.co.uk/)
+* [B﻿reton Bikes – Cycling Holidays in France](https://www.bretonbikes.com/)[](https://www.bretonbikes.com/)
+* [C﻿ycling Holidays Europe – Hooked on Cycling](https://www.hookedoncycling.co.uk/)
+* [S﻿cotCycle – Cycling Holidays in Scotland](https://www.scotcycle.co.uk/)
+* [E﻿TA – Cycle Rescue, Bicycle Breakdown](https://www.eta.co.uk/bicycle-insurance/cycle-rescue/)
+* [Brittany Ferries](https://www.brittany-ferries.co.uk/)
