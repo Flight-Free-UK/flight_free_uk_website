@@ -10,9 +10,11 @@ summary: Jet Zero is the government's strategy for bringing emissions from
 author: FlightFree UK
 read_time_minute: 3
 ---
-### The Conservative government’s Jet Zero strategy was launched in July 2022, on what happened to be the [hottest day ever recorded in the UK](https://www.preventionweb.net/news/met-office-review-uks-record-breaking-summer-2022). The strategy is the government’s flagship programme for bringing aviation emissions in line with net zero targets.
+### The Conservative government’s Jet Zero strategy was launched in July 2022, on what happened to be the [hottest day ever recorded in the UK](https://www.preventionweb.net/news/met-office-review-uks-record-breaking-summer-2022). 
 
-##### There are four main strands: Sustainable Aviation Fuel, efficiency gains, new technology, and offsetting. Will the strategy be an effective way to reduce emissions?
+##### The strategy is the government’s flagship programme for bringing aviation emissions in line with net zero targets.
+
+There are four main strands: Sustainable Aviation Fuel, efficiency gains, new technology, and offsetting. Will the strategy be an effective way to reduce emissions?
 
 #### Sustainable Aviation Fuel
 
