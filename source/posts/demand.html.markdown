@@ -23,7 +23,7 @@ Most of the growth in that time was in leisure travel, and it’s not a coincide
 
 > It’s not a coincidence that the massive increase in flying has happened since low cost airlines have been on the scene.
 
-Here are some types of flying that people didn’t used to do before low cost airlines. All of these are real examples from people I know.
+Here are some types of flying that people didn’t used to do before low cost airlines – all of them real examples from real people.
 
 * Having a lads’ weekend in Prague because once you factor in the price of beer, it’s cheaper than a weekend at home.
 * Living in Northern Ireland and commuting to London by air because it’s cheaper than renting a flat in London.
