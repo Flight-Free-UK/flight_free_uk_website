@@ -31,7 +31,7 @@ Airports often point to the work they are doing to be ‘net zero’ in their op
 
 > The emissions from the flights themselves are not included in the emissions budget of an airport’s expansion plans.
 
-Any talk of being ‘carbon neutral’ or achieving net zero refers to ground operations: things like the airport buildings, on-site vehicles, travel to the airport, and aircraft movement on site including taxiing. Encouraging train travel to an airport is all very well, but it's a tiny proportion of the emissions of the flight itself. 
+Any talk of being ‘carbon neutral’ or achieving net zero refers to ground operations: things like the airport buildings, on-site vehicles, travel to the airport, and aircraft movement on site including taxiing. Encouraging train travel to an airport is all very well, but it’s a tiny proportion of the emissions of the flight itself. 
 
 Airport bosses will argue that domestic flights are included in the UK’s carbon budget, and international flights are covered by CORSIA (the aviation industry international strategy for reducing emissions, which relies mainly on offsetting), so there’s no need to include consideration of increased emissions from an increase in flights.
 
@@ -39,7 +39,7 @@ The danger is that the consumer sees a ‘carbon neutral’ airport and makes th
 
 Even without this tricksy language, there’s no guarantee that ground operations will actually be carbon neutral. Airports are continually promising improvements but not delivering. Heathrow talks about introducing one-engine taxiing as a way to reduce emissions – a strategy that was first mentioned more than 10 years ago.
 
-To illustrate just how much emissions from flights are at odds with emissions reduction targets, we can use the example of Leeds Bradford airport. Before the expansion was put on hold in 2023, Leeds council supported the plans. That’s despite having declared a climate emergency in 2019, and set targets for emissions not to exceed 42 megatonnes of CO2 between 2018 and 2050. 
+To illustrate just how much emissions from flights are at odds with emissions reduction targets, we can use the example of Leeds Bradford airport. Before the expansion was [withdrawn in 2022](https://www.aef.org.uk/uk-airport-expansions/), Leeds council supported the plans. That’s despite having declared a climate emergency in 2019, and set targets for emissions not to exceed 42 megatonnes of CO2 between 2018 and 2050. 
 
 At the same time, Leeds Bradford Airport planned to expand from 4m passengers to 7.1m by 2030 and 9m by 2050. By 2030, the climate impact of flights to and from LBA alone would be twice the target emissions for the whole of Leeds. Even if passenger numbers remained at 2019 levels, LBA flights would take up the entire carbon budget by 2050. 
 
