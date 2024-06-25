@@ -93,7 +93,7 @@ Each year, only around half of the UK population gets on a plane. Globally, the 
 
 #### Ultimately, airports are businesses,
 
-and businesses have only one model: growth. The difficulty of living on a finite planet means that we can’t have exponential growth, and the progress of ‘green’ technology is much too slow for reducing emissions at anything like the rate that is needed. 
+and businesses have only one model: growth. The difficulty of living on a finite planet is that we can’t have exponential growth, and the progress of ‘green’ technology is much too slow for reducing emissions at anything like the rate that is needed. 
 
 The climate emergency is simply not compatible with further expansion of airports or passenger numbers. The only way forward is to reduce passenger numbers significantly, and quickly, as well as demand that government and industry wake up to the reality of the climate crisis and aviation's role in it.
 
