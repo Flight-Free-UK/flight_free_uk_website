@@ -29,6 +29,8 @@ In reality, rather than one airport’s plans excluding another, it’s more lik
 
 Airports often point to the work they are doing to be ‘net zero’ in their operations. The trouble is that flights are not included in this. That bears repeating: the emissions from the flights themselves are not included in the emissions budget of an airport’s expansion plans. 
 
+> The emissions from the flights themselves are not included in the emissions budget of an airport’s expansion plans.
+
 Any talk of being ‘carbon neutral’ or achieving net zero refers to ground operations: things like the airport buildings, on-site vehicles, travel to the airport, and aircraft movement on site including taxiing. Encouraging train travel to an airport is all very well, but it's a tiny proportion of the emissions of the flight itself. 
 
 Airport bosses will argue that domestic flights are included in the UK’s carbon budget, and international flights are covered by CORSIA (the aviation industry international strategy for reducing emissions, which relies mainly on offsetting), so there’s no need to include consideration of increased emissions from an increase in flights.
