@@ -9,7 +9,7 @@ summary: Maggie Robertson asks, is demand for flights rising? And what do we
 author: FlightFree UK
 read_time_minute: 2
 ---
-## M﻿ost people expect demand for flying to grow. But what do we mean by ‘demand’? 
+## M﻿ost people expect demand for flying to grow. But what do we mean by ‘demand’?
 
 #### I﻿s it the steady rise in passenger number we've seen (bar Covid) over the past decade or so?
 
@@ -17,7 +17,9 @@ The definition of demand in economics is the willingness and ability of a consum
 
 Demand probably *has* been increasing. A growing population and higher incomes both tend to increase the number of times someone somewhere is willing to book a flight. 
 
-But the growth in flying has also been driven by lower prices. UK residents made [73% more visits overseas 2019 than in 1999](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2019#uk-residents-visits-and-spend-abroad) – the year that Easyjet first sold more than £1m worth of flights online. Most of the growth in that time was in leisure travel, and it’s not a coincidence that the massive increase in flying has happened since low cost airlines like EasyJet and RyanAir have been on the scene. Low prices enabled all sorts of new flying habits. 
+But the growth in flying has also been driven by lower prices. UK residents made [73% more visits overseas in 2019 than in 1999](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2019#uk-residents-visits-and-spend-abroad) – the year that EasyJet first sold more than £1m worth of flights online. 
+
+Most of the growth in that time was in leisure travel, and it’s not a coincidence that the massive increase in flying has happened since low cost airlines like EasyJet and Ryanair have been on the scene. Low prices enabled all sorts of new flying habits. 
 
 > "It’s not a coincidence that the massive increase in flying has happened since low cost airlines have been on the scene." 
 
