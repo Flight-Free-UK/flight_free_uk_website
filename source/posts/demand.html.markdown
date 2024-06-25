@@ -32,9 +32,11 @@ Here are some types of flying that people didn’t used to do before low cost ai
 
 These are all rational choices, when flying is so inexpensive – [especially if you don’t think about the impact on the climate](https://flightfree.co.uk/post/money-talks/).
 
-But what would happen if the price increased? It would make flying less competitive with other forms of transport, sure. But it would also reshape all kinds of choices. I heard recently about someone who was planning to celebrate her parents’ ruby wedding with a family trip to Tenerife. If the flights were a bit more expensive, would they still go? Maybe they would celebrate with a party, a meal at a nice restaurant, or a [rose for the garden instead](https://www.davidaustinroses.co.uk/products/ruby-wedding-standard-rose). 
+But what would happen if the price increased? It would make flying less competitive with other forms of transport, which would probably lead to different choices being made.
 
-> "What would happen if the price increased? It would make flying less competitive and reshape all kinds of choices." 
+W﻿ould a ruby wedding be celebrated with a family trip to Tenerife? Maybe they would celebrate with a party, a meal at a nice restaurant, or a [rose for the garden instead](https://www.classicroses.co.uk/roses/bush/ruby-anniversary-modern-standard-rose.html). 
+
+> What would happen if the price increased? It would make flying less competitive and reshape all kinds of choices.
 
 So is it really flying that we demand? We demand good times with our families and friends. We demand memorable occasions. We demand access to work and education.
 
