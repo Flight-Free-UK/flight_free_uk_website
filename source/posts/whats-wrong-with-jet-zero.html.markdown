@@ -45,13 +45,13 @@ Either way, we need to manage demand [until the technology is ready](https://www
 
 #### Offsetting
 
-The many issues with offsetting are widely reported, from schemes being ineffective, to there not being enough land space to plant enough trees to offset even one airline's flight emissions. Mostly, offsets give the impression that our emissions don’t count, so we continue our polluting behaviour. 
+The many issues with offsetting are widely reported, from schemes being ineffective, to there not being enough land space to plant enough trees to offset even one airline’s flight emissions. Mostly, offsets give the impression that our emissions don’t count, so we continue our polluting behaviour. 
 
 We explore these issues in greater depth [here](/post/should-i-offset-my-flight/).
 
 #### No reduction in flights
 
-It's clear that this strategy does not take the advice of the government’s advisors on climate change, the CCC (Climate Change Committee), who recommend that managing demand needs to be part of any strategy to reduce emissions from aviation. 
+It’s clear that this strategy does not take the advice of the government’s advisors on climate change, the CCC (Climate Change Committee), who recommend that managing demand needs to be part of any strategy to reduce emissions from aviation. 
 
 The government is very reluctant to do this, with government ministers making statements such as ‘flights are what make life worth living,’ and 'we need to fly more to fund green aviation’. In the Jet Zero plan it explicitly says that the ambition is “to decarbonise aviation in a way that preserves the benefits of air travel.”
 
