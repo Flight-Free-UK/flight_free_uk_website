@@ -45,7 +45,7 @@ Either way, we need to manage demand [until the technology is ready](https://www
 
 #### Offsetting
 
-The many issues with offsetting are widely reported, from schemes being ineffective, to there not enough land space to plant enough trees to offset even one airline's flight emissions. Mostly, offsets give the impression that our emissions don’t count, so we continue our polluting behaviour. 
+The many issues with offsetting are widely reported, from schemes being ineffective, to there not being enough land space to plant enough trees to offset even one airline's flight emissions. Mostly, offsets give the impression that our emissions don’t count, so we continue our polluting behaviour. 
 
 We explore these issues in greater depth [here](/post/should-i-offset-my-flight/).
 
