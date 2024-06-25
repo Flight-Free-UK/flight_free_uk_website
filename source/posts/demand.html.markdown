@@ -9,9 +9,11 @@ summary: Maggie Robertson asks, is demand for flights rising? And what do we
 author: FlightFree UK
 read_time_minute: 2
 ---
-## Most people expect demand for flying to grow. Some people believe that is just a fact of life. 
+## M﻿ost people expect demand for flying to grow. But what do we mean by ‘demand’? 
 
-But what do we mean by ‘demand’? Certainly, before COVID 19, passenger numbers had been growing fast, but that’s not quite the same thing. The definition of demand in economics is the willingness and ability of a consumer to purchase something. The actual number of passengers is what happens when demand meets the availability and price of flights. 
+#### I﻿s it the steady rise in passenger number we've seen (bar Covid) over the past decade or so?
+
+The definition of demand in economics is the willingness and ability of a consumer to purchase something. The actual number of passengers is what happens when demand meets the availability and price of flights. 
 
 Demand probably *has* been increasing. A growing population and higher incomes both tend to increase the number of times someone somewhere is willing to book a flight. 
 
