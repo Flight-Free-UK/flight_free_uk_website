@@ -89,6 +89,10 @@ Airport expansion is representative of the inequality of aviation, by which the 
 
 Each year, only around half of the UK population gets on a plane. Globally, the imbalance is more stark: only around 5% of the world’s population flies in any given year. So flying is accessed by a small number, whereas all suffer the effects: the local community through increased noise and air pollution, and the global community through increased greenhouse gas emissions.
 
-#### Ultimately, airports are businesses, and business have only one model: growth. The difficulty of living on a finite planet means that we can’t have exponential growth, and the progress of ‘green’ technology is much too slow for reducing emissions at anything like the rate that is needed. 
+#### Ultimately, airports are businesses, 
 
-#### The climate emergency is simply not compatible with further expansion of airports or passenger numbers. The only way forward is to reduce passenger numbers significantly, and quickly, as well as demand that government and industry wake up to the reality of the climate crisis and aviation's role in it.
+and businesses have only one model: growth. The difficulty of living on a finite planet means that we can’t have exponential growth, and the progress of ‘green’ technology is much too slow for reducing emissions at anything like the rate that is needed. 
+
+The climate emergency is simply not compatible with further expansion of airports or passenger numbers. The only way forward is to reduce passenger numbers significantly, and quickly, as well as demand that government and industry wake up to the reality of the climate crisis and aviation's role in it.
+
+***T﻿o find out more about the nationwide campaign to halt airport expansion, go to the [No Airport Expansion website](https://www.noairportexpansion.org/).***
