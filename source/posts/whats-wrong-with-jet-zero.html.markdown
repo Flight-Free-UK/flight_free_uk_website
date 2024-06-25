@@ -41,7 +41,7 @@ New innovations such as using hydrogen and electricity to power planes are being
 
 Even when they are available, we should question if using renewable energy capacity for energy-intensive air travel is the best use for it, when it would arguably be better used in decarbonising our homes, or the road fleet. 
 
-Either way, we need to manage demand, [until the technology is ready](https://www.reuters.com/business/aerospace-defense/airbus-tells-eu-hydrogen-wont-be-widely-used-planes-before-2050-2021-06-10/). Read our exploration about the limitations of new technology here.
+Either way, we need to manage demand [until the technology is ready](https://www.reuters.com/business/aerospace-defense/airbus-tells-eu-hydrogen-wont-be-widely-used-planes-before-2050-2021-06-10/). Read our exploration about the limitations of new technology here.
 
 #### Offsetting
 
