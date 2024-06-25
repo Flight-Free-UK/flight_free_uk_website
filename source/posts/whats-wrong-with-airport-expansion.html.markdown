@@ -19,7 +19,7 @@ Counter-arguments have historically focussed on the noise and air pollution suff
 
 In 2019, the Climate Change Committee recommended that, in order to reach the UK’s [legally-binding](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/) net zero goals, air passenger numbers should not rise by more than 25% by 2050. In 2023 the CCC repeated its call for there to be [no net airport expansion in the UK](https://www.theccc.org.uk/publication/2023-progress-report-to-parliament/). Airport expansion plans at that time added up to nearly 60% expansion combined. 
 
-This disparity made clear the very real problem concerning airport expansion decisions: they are taken in isolation, rather than as a whole. This creates problems when it comes to calculating how airport expansion fits into our remaining carbon budget; on their own, no airport expansion would tip us over the edge of net zero. Collectively, our budget is quickly spent. 
+This disparity made clear the issue concerning airport expansion decisions: they are taken in isolation, rather than as a whole. This creates problems when it comes to calculating how airport expansion fits into our remaining carbon budget; on their own, no airport expansion would tip us over the edge of net zero. Collectively, our budget is quickly spent. 
 
 For example, Heathrow’s third runway would increase existing capacity by almost 20%, taking up nearly the entire expansion budget, meaning that if Heathrow were to expand, none of the others could. Each political decision to expand an airport hinges on there being room in the carbon budget for that particular airport’s proposals. It’s easy to argue the case – as long as you overlook the fact that the same argument is being applied to all other expansion applications. 
 
@@ -89,7 +89,7 @@ Airport expansion is representative of the inequality of aviation, by which the 
 
 Each year, only around half of the UK population gets on a plane. Globally, the imbalance is more stark: only around 5% of the world’s population flies in any given year. So flying is accessed by a small number, whereas all suffer the effects: the local community through increased noise and air pollution, and the global community through increased greenhouse gas emissions.
 
-#### Ultimately, airports are businesses, 
+#### Ultimately, airports are businesses,
 
 and businesses have only one model: growth. The difficulty of living on a finite planet means that we can’t have exponential growth, and the progress of ‘green’ technology is much too slow for reducing emissions at anything like the rate that is needed. 
 
