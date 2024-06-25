@@ -21,7 +21,7 @@ But the growth in flying has also been driven by lower prices. UK residents made
 
 Most of the growth in that time was in leisure travel, and it’s not a coincidence that the massive increase in flying has happened since low cost airlines like EasyJet and Ryanair have been on the scene. Low prices enabled all sorts of new flying habits. 
 
-> "It’s not a coincidence that the massive increase in flying has happened since low cost airlines have been on the scene." 
+> It’s not a coincidence that the massive increase in flying has happened since low cost airlines have been on the scene.
 
 Here are some types of flying that people didn’t used to do before low cost airlines. All of these are real examples from people I know.
 
