@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Jet Zero: a strategy for zero-emission aviation"
+title: Critique of the Jet Zero strategy
 category: policy-position
 date: 2022-08-05T10:59:21.345Z
 cover_image: /images/uploads/jet-zero-canva.jpg
