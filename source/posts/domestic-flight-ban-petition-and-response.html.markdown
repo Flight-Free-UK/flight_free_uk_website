@@ -71,13 +71,13 @@ It is dangerous and foolish to ignore the [advice of the government’s scientif
 
 * **System efficiencies: improving the efficiency of our existing aviation system, including our airports, airspace, and the aircraft we use.**
 
-  We say: system efficiencies are wiped out by increases in demand. 
+  We say: system efficiencies are [wiped out by increases in demand](https://www.sustainableaviation.co.uk/news/uk-aviation-commits-to-net-zero-carbon-emissions-by-2050/). 
 * **Sustainable aviation fuels (SAF): building a thriving UK SAF industry, bringing UK innovations to the commercial market, supporting thousands of green jobs, and supporting the UK’s fuel security.** 
 
-  We say: with the sustainability claims of SAF in doubt, the SAF industry can't claim to provide green jobs.
+  We say: with the [sustainability claims of SAF in doubt](/post/the-trouble-with-saf/), the SAF industry can't claim to provide green jobs.
 * **Zero emission flight: developing in the UK and bringing into service novel exciting, forms of aircraft that offer the potential for zero carbon tailpipe emissions.** 
 
-  We say: zero carbon tailpipe aircraft will require huge levels of renewable energy, which will be diverted from other, more energy-efficient and potentially more vital sectors (e.g. road transport, housing and food). Current airport expansion plans are for fossil-fuelled planes. All industry talk is about SAF. Prototypes are so far away as to not realistically reduce emissions by 2050. We are tied into our current models for years if not decades. 
+  We say: zero carbon tailpipe aircraft will require huge levels of renewable energy, which will be diverted from other, more energy-efficient and potentially more vital sectors (e.g. road transport, housing and food). Current airport expansion plans are for fossil-fuelled planes. All industry talk is about SAF. [Prototypes are so far away as to not realistically reduce emissions by 2050](https://www.reuters.com/business/aerospace-defense/airbus-tells-eu-hydrogen-wont-be-widely-used-planes-before-2050-2021-06-10/). We are tied into our current models for years if not decades. 
 * **Markets and removals: creating successful carbon markets and investing in greenhouse gas removals to abate residual emissions in 2050.** 
 
   We say: carbon removals are a hugely expensive and inefficient way to deal with carbon emissions, compared to not producing them in the first place. 
