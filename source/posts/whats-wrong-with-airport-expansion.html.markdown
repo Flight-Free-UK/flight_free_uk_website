@@ -85,11 +85,11 @@ In 2023 the by-now-familiar story played out again at Liverpool John Lennon airp
 
 #### Injustice
 
-Airport expansion is representative of the inequality of aviation, by which the benefits are felt by a few, but the harms felt by all.
+Airport expansion illustrates the inequality of aviation, by which the benefits are felt by a few, but the harms felt by all.
 
 Each year, only around half of the UK population gets on a plane. Globally, the imbalance is more stark: only around 5% of the world’s population flies in any given year. So flying is accessed by a small number, whereas all suffer the effects: the local community through increased noise and air pollution, and the global community through increased greenhouse gas emissions.
 
-#### Ultimately, airports are businesses,
+#### Ultimately, airports are businesses
 
 and businesses have only one model: growth. The difficulty of living on a finite planet is that we can’t have exponential growth, and the progress of ‘green’ technology is much too slow for reducing emissions at anything like the rate that is needed. 
 
