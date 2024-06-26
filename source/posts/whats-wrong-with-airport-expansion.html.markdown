@@ -43,8 +43,6 @@ To illustrate just how much emissions from flights are at odds with emissions re
 
 At the same time, Leeds Bradford Airport planned to expand from 4m passengers to 7.1m by 2030 and 9m by 2050. By 2030, the climate impact of flights to and from LBA alone would be twice the target emissions for the whole of Leeds. Even if passenger numbers remained at 2019 levels, LBA flights would take up the entire carbon budget by 2050. 
 
-The only scenario in which flying can be compatible with climate targets is if passenger numbers fall drastically.
-
 #### Reliance on Jet Zero
 
 Many airports cite the government’s Jet Zero policy in their expansion plans as the method by which the emissions from the planes will be dealt with. 
