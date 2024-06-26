@@ -59,7 +59,7 @@ Airports argue that, because Jet Zero will deal with the emissions from the flig
 
 #### Impact on local communities and nature
 
-Aircraft noise is a huge issue for local people. A study around Heathrow airport showed that people living under the flightpath were 10-20% more at risk of stroke and heart disease. The evidence suggests that cases of stress and anxiety are also more prevalent among those living near airports.
+Aircraft noise is a huge issue for local people. A study around Heathrow airport showed that [people living under the flightpath were 10-20% more at risk](https://www.aef.org.uk/what-we-do/noise/) of stroke and heart disease. The evidence suggests that cases of stress and anxiety are also more prevalent among those living near airports.
 
 Expansion can put the local area under massive strain. One of the key arguments against Bristol airport expansion is that there is limited public transport to the airport, so increased flights would mean an increase in the number of people driving to the airport, contributing to local congestion, noise and air pollution, as well as using green belt land for car parking.
 
