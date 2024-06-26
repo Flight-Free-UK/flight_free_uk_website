@@ -69,7 +69,7 @@ The impacts upon nature extend beyond building works displacing biodiversity. Ai
 
 #### The economic argument
 
-Expansion plans cite local jobs and the local economy benefitting from the project. While airport operations might well provide local employment, for example in the terminal bars and restaurant, in most cases the airport is not locally owned, so the profits from these businesses are removed from the local area. 
+Expansion plans cite local jobs and the local economy benefitting from the project. While airport operations might well provide local employment, in most cases the businesses that operate out of the airport (and the airport itself) are not locally owned, so the profits are removed from the local area. 
 
 By their very nature, airports facilitate people leaving the country to spend their money elsewhere. Overall, [more money is spent by Brits overseas than is spent by overseas visitors coming here](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2023). On balance, airports remove more money from the British economy than they bring.
 
