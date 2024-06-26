@@ -83,7 +83,7 @@ It is dangerous and foolish to ignore the [advice of the government’s scientif
   We say: carbon removals are a hugely expensive and inefficient way to deal with carbon emissions, compared to not producing them in the first place. 
 * **Influencing consumers: preserving the ability for people to fly whilst supporting consumers to make sustainable aviation travel choices.**
 
-  We say: sustainable aviation travel choices is a false concept, when emissions savings between airlines are negligible, especially next to the potential emissions savings from switching from plane to train (90+%). Suggesting that consumers can make sustainable aviation travel choices is misleading and will lead people to think they are making sustainable choices when they are not. 
+  We say: sustainable aviation travel choices is a false concept, when emissions savings between airlines are negligible, especially next to the potential emissions savings from [switching from plane to train (90+%)](https://www.instagram.com/p/C5TNsRUC3c8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==). Suggesting that consumers can make sustainable aviation travel choices is misleading and will lead people to think they are making sustainable choices when they are not. 
 * **Addressing non-CO2: working closely with academia and industry to better understand the science and potential mitigations of non-CO2 impacts.** 
 
   We say: this is very important, so it's good that this is being looked at.
@@ -100,7 +100,7 @@ It is dangerous and foolish to ignore the [advice of the government’s scientif
   W﻿e say: this is greenwash – airport operations pales in comparison to the emissions from the flights themselves. 
 * **Our work on airspace modernisation enables aircraft to fly more precise routes, as well as operating more efficiently when arriving / departing airports. Our deployment of Free Route Airspace over the southwest of England has already saved 12,000+ tonnes of CO2/year and 150,000 nautical miles of flying, the equivalent of seven trips around the world.** 
 
-  W﻿e say: insignificant, when UK aviation is responsible for many Megatonnes CO2 per year. 
+  W﻿e say: insignificant, when UK aviation is responsible for many megatonnes CO2 per year. 
 * **Our world leading SAF programme, driving demand with a mandate for at least 10% of UK jet fuel to come from sustainable sources by 2030; kickstarting a UK SAF industry with £135 million of support to SAF projects through our Advanced Fuel Fund, and building long term supply through our commitment to design and implement a revenue certainty mechanism to support UK SAF production.** 
 * **Investment in research and development for new low and zero-carbon emission aircraft technologies though the Aerospace Technology Institute (ATI) Programme. The Programme will receive £685m of government funding between 2022 and 2025, and a further £975m between 2025 and 2030.** 
 
@@ -108,7 +108,7 @@ It is dangerous and foolish to ignore the [advice of the government’s scientif
 * **The launch in October 2023 of a multi-year, multi-million pound research programme on the nnn-CO2 impacts of aviation, which will include both industry and academic led projects to better understand the complete environmental impact of aviation, and the technological and policy mitigations required to address it.**
 * **Domestic aviation accounts for around 5% of UK aviation emissions, and through the Jet Zero Strategy, the Government has set a target for UK domestic aviation to reach net zero by 2040, ten years ahead of the economy-wide target.** 
 
-  W﻿e say: UK aviation emissions are closer to 9%.
+  W﻿e say: [UK aviation emissions are closer to 10%](https://www.aef.org.uk/what-we-do/climate/).
 * **Emissions from domestic aviation are also capped as part of the UK Emissions Trading Scheme (ETS) and we have recently tightened the cap on the UK ETS to further drive down emissions and keep us on track to achieve net zero 2050.** 
 * **The UK the Government is also continuing to invest in building new rail infrastructure by delivering HS2 between Euston in central London and the West Midlands as planned. HS2 is now well into the build and construction phase, with around 350 active construction sites and high-speed services remain on track to commence between 2029 and 2033.** 
 
