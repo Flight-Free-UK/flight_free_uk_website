@@ -37,11 +37,11 @@ For example, going by current improvements, per-passenger emissions could be 36%
 
 #### New technology
 
-New innovations such as using hydrogen and electricity to power planes are being developed. While there is potential for these technologies to substantially reduce aviation emissions, designs are still not close to being ready for commercial use, and now is when we need to reduce emissions. 
+New innovations such as using hydrogen and electricity to power planes are being developed. While there is potential for these technologies to substantially reduce aviation emissions, designs are still [not close to being ready for commercial use](https://www.reuters.com/business/aerospace-defense/airbus-tells-eu-hydrogen-wont-be-widely-used-planes-before-2050-2021-06-10/), and now is when we need to reduce emissions. 
 
 Even when they are available, we should question if using renewable energy capacity for energy-intensive air travel is the best use for it, when it would arguably be better used in decarbonising our homes, or the road fleet. 
 
-Either way, we need to manage demand [until the technology is ready](https://www.reuters.com/business/aerospace-defense/airbus-tells-eu-hydrogen-wont-be-widely-used-planes-before-2050-2021-06-10/). Read our exploration about the limitations of new technology here.
+Either way, we need to manage demand until the technology is ready. Read our exploration about the limitations of new technology here.
 
 #### Offsetting
 
