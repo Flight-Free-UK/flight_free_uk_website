@@ -79,7 +79,7 @@ A 2023 study by climate charity Possible and employment think tank Autonomy show
 
 The frustrating nature of planning laws has been shown time and again in the case of airports up and down the country. In January 2020, Uttlesford councillors unanimously rejected the expansion of Stansted airport, citing the negative climate impact. A year later there was a public enquiry, prompted by the inevitable appeal from the airport’s owners, Manchester Airports Group (MAG). In its statement, the Planning Inspectorate said that the “limited degree of harm arising in respect of air quality and carbon emissions” was “far outweighed by the benefits of the proposal.” 
 
-The same thing happened later that year with Bristol airport, where the expansion was refused by North Somerset Council, but pushed through at national level. 
+The same thing happened later that year with Bristol airport, where the expansion was refused by North Somerset Council, but pushed through at the national level. 
 
 In 2023 the by-now-familiar story played out again at Liverpool John Lennon airport: the local council rejected the airport’s initial LDC (Lawful Development Certificate) application, but the application was granted by the government on appeal.
 
