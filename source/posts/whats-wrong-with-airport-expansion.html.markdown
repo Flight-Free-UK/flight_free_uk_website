@@ -53,7 +53,7 @@ Jet Zero relies on three main things: 
 * new technology and efficiency
 * offsetting
 
-Our analysis of why Jet Zero won’t be effective can be found here. 
+Our analysis of why Jet Zero won’t be effective can be found [here](/post/whats-wrong-with-jet-zero/). 
 
 Because airports rely on Jet Zero to deal with the emissions from the flights, they don’t have to include flight emissions in their expansion plans. But the government, and therefore airports, are not listening to the Committee on Climate Change which says that any policy to reduce flight emissions must include some sort of demand management, i.e. reducing or levelling off the number of passengers flying.
 
