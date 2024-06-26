@@ -41,11 +41,11 @@ New innovations such as using hydrogen and electricity to power planes are being
 
 Even when they are available, we should question if using renewable energy capacity for energy-intensive air travel is the best use for it, when it would arguably be better used in decarbonising our homes, or the road fleet. 
 
-Either way, we need to manage demand until the technology is ready. Read our exploration about the limitations of new technology here.
+Either way, we need to manage demand until the technology is ready. Read our exploration about the limitations of new technology [here](https://flightfree.co.uk/podcast_transcripts/2021-podcast-series-can-we-fly-carbon-neutral/).
 
 #### Offsetting
 
-The many issues with offsetting are widely reported, from schemes being ineffective, to there not being enough land space to plant enough trees to offset even one airline’s flight emissions. Mostly, offsets give the impression that our emissions don’t count, so we continue our polluting behaviour. 
+The many issues with offsetting are widely reported, from [schemes being ineffective](https://www.transportenvironment.org/articles/85-offsets-failed-reduce-emissions-says-eu-study), to there not being enough land space to [plant enough trees](https://insideclimatenews.org/news/01112022/countries-want-to-plant-trees-to-offset-their-carbon-emissions-but-there-isnt-enough-land-on-earth-to-grow-them/) to offset even one airline’s flight emissions. Mostly, offsets give the impression that our emissions don’t count, so we continue our polluting behaviour. 
 
 We explore these issues in greater depth [here](/post/should-i-offset-my-flight/).
 
