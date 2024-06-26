@@ -17,7 +17,7 @@ Counter-arguments have historically focussed on the noise and air pollution suff
 
 #### No joined up thinking
 
-In 2019, the Climate Change Committee recommended that, in order to reach the UK’s [legally-binding](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/) net zero goals, air passenger numbers should not rise by more than 25% by 2050. In 2023 the CCC repeated its call for there to be [no net airport expansion in the UK](https://www.theccc.org.uk/publication/2023-progress-report-to-parliament/). Airport expansion plans at that time added up to nearly 60% expansion combined. 
+In 2019, the Climate Change Committee recommended that, in order to reach the UK’s [legally-binding](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/) net zero goals, air passenger numbers should not rise by more than 25% by 2050. In 2023 the CCC repeated its call for there to be [no net airport expansion in the UK](https://www.theccc.org.uk/publication/2023-progress-report-to-parliament/). Airport expansion plans at that time added up to nearly 60% increased capacity.
 
 This disparity made clear the issue concerning airport expansion decisions: they are taken in isolation, rather than as a whole. This creates problems when it comes to calculating how airport expansion fits into our remaining carbon budget; on their own, no airport expansion would tip us over the edge of net zero. Collectively, our budget is quickly spent. 
 
