@@ -33,7 +33,7 @@ The response focused almost entirely on the government’s Jet Zero strategy, wh
 
 W﻿e say:
 
-Green transportation would provide more jobs (analysis by Possible). With similar journey times by rail and by air, there would be no negative impact on the economy and connectivity.
+[Green transportation would provide more jobs (analysis by Possible)](https://www.wearepossible.org/press-releases/cutting-aviation-emissions-and-expanding-green-transport-would-be-better-for-jobs-and-cost-less-than-airline-bailouts-report-finds). With similar journey times by rail and by air, there would be no negative impact on the economy and connectivity.
 
 **T﻿hey say:**
 
@@ -41,7 +41,7 @@ Green transportation would provide more jobs (analysis by Possible). With simila
 
 W﻿e say:
 
-We’re asking for 4.5 hours in order to include more routes. Direct comparisons show that air and rail travel on London-Edin/Glas routes are similar in time and convenience to flying. Switching from plane to train would save 1.75 million tonnes CO2.
+We’re asking for 4.5 hours in order to include more routes. Direct comparisons show that air and rail travel on London-Edin/Glas routes are similar in time and convenience to flying. [Switching from plane to train would save 1.75 million tonnes CO2](https://flightfree.co.uk/post/should-a-domestic-flight-ban-be-applied-in-the-uk/)annually.
 
 The French policy was pared down from a more ambitious ask, and though the carbon savings are negligible, it shows a willingness to act on the climate and it’s a step in the right direction. It’s a policy that can be expanded once it’s shown to be effective. 
 
@@ -53,7 +53,7 @@ The 4.5 hr policy would include Lon-Manchester (2hr 6min), Exeter, Newcastle (2h
 
 W﻿e say:
 
-Jet Zero won’t be effective in reducing emissions from aviation. The sustainability of SAF is in question. New technology is still in development and won’t be commercially available for several years. Efficiency savings have historically been outweighed by rising demand. Offsetting has been proven to be ineffective. 
+[Jet Zero won’t be effective in reducing emissions from aviation](/post/whats-wrong-with-jet-zero/). The sustainability of SAF is in question. New technology is still in development and won’t be commercially available for several years. Efficiency savings have historically been outweighed by rising demand. Offsetting has been proven to be ineffective. 
 
 **T﻿hey say:**
 
@@ -61,7 +61,7 @@ Jet Zero won’t be effective in reducing emissions from aviation. The sustainab
 
 W﻿e say:
 
-It is dangerous and foolish to ignore the advice of the government’s scientific advisors that demand management must come into the equation. All the independent analysis recommends that we must bring flight levels down.
+It is dangerous and foolish to ignore the [advice of the government’s scientific advisors that demand management must come into the equation](https://www.theccc.org.uk/publication/2023-progress-report-to-parliament/). All the independent analysis recommends that we must bring flight levels down.
 
 **They say:**
 
