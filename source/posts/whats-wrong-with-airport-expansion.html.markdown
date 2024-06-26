@@ -2,7 +2,7 @@
 published: true
 title: What's wrong with airport expansion?
 category: explainer
-date: 2024-06-25T15:49:55.318Z
+date: 2024-02-28T16:49:55.318Z
 cover_image: /images/uploads/no-airport-expansion-nae.jpg
 summary: With 20 airports across the UK planning to expand, we take a look at
   what that would mean for rising emissions
