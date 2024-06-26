@@ -65,7 +65,7 @@ Expansion can put the local area under massive strain. One of the key arguments 
 
 At Liverpool John Lennon airport, expansion plans involve building into a stretch of the Oglet Shore area of the river Mersey. This impacts upon the biodiversity of the area as well as on the local residents’ ability to access a valuable green space. 
 
-The impacts upon nature extend beyond building works displacing biodiversity. Airports disrupt local bird and insect populations, through aircraft noise and runway lights confusing and disrupting flight paths, sleep rhythms, and mating calls. Airports are permitted to remove bird nests up to 30 miles from the runway in order to avoid bird strike. Bigger airports and increased operations result in a bigger impact on local biodiversity.
+The impacts upon nature extend beyond building works displacing biodiversity. Airports disrupt local bird and insect populations, through aircraft noise and runway lights confusing and disrupting flight paths, sleep rhythms, and mating calls. Airports are permitted to remove bird nests up to 10 miles from the runway in order to avoid bird strike. Bigger airports and increased operations result in a bigger impact on local biodiversity.
 
 #### The economic argument
 
