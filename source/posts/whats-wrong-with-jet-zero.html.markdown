@@ -51,8 +51,10 @@ We explore these issues in greater depth [here](/post/should-i-offset-my-flight/
 
 #### No reduction in flights
 
-It’s clear that this strategy does not take the advice of the government’s advisors on climate change, the CCC (Climate Change Committee), who recommend that managing demand needs to be part of any strategy to reduce emissions from aviation. 
+This strategy does not take the advice of the government’s advisors on climate change, the CCC (Climate Change Committee), who recommend that managing demand needs to be part of any strategy to reduce emissions from aviation.
 
 The government is very reluctant to do this, with government ministers making statements such as ‘flights are what make life worth living,’ and 'we need to fly more to fund green aviation’. In the Jet Zero plan it explicitly says that the ambition is “to decarbonise aviation in a way that preserves the benefits of air travel.”
 
-I﻿t feels worrying that the government is depending on such unreliable ways to reduce emissions. There’s no getting away from the fact that if we are serious about reducing emissions from aviation, we need to fly less.
+##### I﻿t feels worrying that the government is depending on such unreliable ways to address aviation emissions. The proposed measures might help to bring emissions down at some point in the future, but there's no guarantee, and they certainly won't help now – and now is when we need to reduce emissions.
+
+##### E﻿missions reduction policies are simply not effective unless they include the one most immediate and reliable method of curbing emissions from aviation: fly less.
