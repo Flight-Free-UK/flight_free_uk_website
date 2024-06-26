@@ -73,7 +73,7 @@ Expansion plans cite local jobs and the local economy benefitting from the proje
 
 By their very nature, airports facilitate people leaving the country to spend their money elsewhere. Overall, [more money is spent by Brits overseas than is spent by overseas visitors coming here](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2023). On balance, airports remove more money from the British economy than they bring.
 
-In addition, while it is true that expansion provides jobs, a 2023 study by climate charity Possible and employment think tank Autonomy showed that if we moved to a green transport system, the number of [jobs gained would far outnumber the jobs lost](https://www.wearepossible.org/press-releases/cutting-aviation-emissions-and-expanding-green-transport-would-be-better-for-jobs-and-cost-less-than-airline-bailouts-report-finds) in aviation.
+A 2023 study by climate charity Possible and employment think tank Autonomy showed that if we moved to a green transport system, the number of [jobs gained would far outnumber the jobs lost](https://www.wearepossible.org/press-releases/cutting-aviation-emissions-and-expanding-green-transport-would-be-better-for-jobs-and-cost-less-than-airline-bailouts-report-finds) in aviation.
 
 #### Local decisions overruled at government level
 
