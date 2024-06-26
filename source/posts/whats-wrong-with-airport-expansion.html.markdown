@@ -55,7 +55,7 @@ Jet Zero relies on three main things: 
 
 Our analysis of why Jet Zero won’t be effective can be found [here](/post/whats-wrong-with-jet-zero/). 
 
-Airports argue that, because Jet Zero will deal with the emissions from the flights, they don’t have to consider them. But the government, and therefore airports, are not listening to the Committee on Climate Change which says that a strategy such as Jet Zero is not good enough: any policy to reduce flight emissions must include some sort of demand management, i.e. reducing or levelling off the number of passengers flying.
+Airports argue that, because Jet Zero will deal with the emissions from the flights, they don’t have to consider them. But the government, and therefore airports, are not listening to the Committee on Climate Change which says that the Jet Zero strategy is not good enough: any policy to reduce flight emissions must include some sort of demand management, i.e. reducing or levelling off the number of passengers flying.
 
 #### Impact on local communities and nature
 
