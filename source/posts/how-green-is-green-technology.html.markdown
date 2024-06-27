@@ -47,7 +47,7 @@ E-fuels include e-kerosene, or synthetic kerosene, which, like hydrogen fuel, re
 
 This time, the production is much more energy-intensive – roughly twice as much as with hydrogen. Syn-fuels also still generate carbon emissions when burned. If they were to be generated using existing energy generation methods, it would be [just as bad as using fossil fuels](https://theicct.org/aviation-grid-jun22/). Using renewable energy would bring a carbon emissions reduction of around 75%.
 
-It’s estimated that if we were to power all of our planes using LH2 (liquid hydrogen) and syn-fuels, by 2050 [it would require 3-4 times the current global renewable energy generation](https://www.clean-hydrogen.europa.eu/media/publications/hydrogen-powered-aviation_en). 
+It’s estimated that if we were to power all of our planes using LH2 (liquid hydrogen) and syn-fuels, by 2050 [it would require 3-4 times the current global level of renewable energy generation](https://www.clean-hydrogen.europa.eu/media/publications/hydrogen-powered-aviation_en). 
 
 Note: e-fuels come under the umbrella of SAF (sustainable aviation fuel). There are many other sources and forms of SAF, which we discuss in our article [here](/post/the-trouble-with-saf/).
 
