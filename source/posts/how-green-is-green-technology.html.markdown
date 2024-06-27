@@ -2,7 +2,7 @@
 published: true
 title: What about green technology?
 category: explainer
-date: 2022-12-07T17:21:58.450Z
+date: 2023-01-31T17:21:58.450Z
 cover_image: /images/uploads/green-tech.jpg
 summary: Green tech is promised as a way to solve aviation's emissions problem.
   But is it as green as it sounds?
