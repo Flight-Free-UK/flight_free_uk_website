@@ -53,7 +53,7 @@ This time, the production is much more energy-intensive – roughly twice as muc
 
 It’s estimated that if we were to power all of our planes using LH2 (liquid hydrogen) and syn-fuels, by 2050 [it would require 3-4 times the current global level of renewable energy generation](https://www.clean-hydrogen.europa.eu/media/publications/hydrogen-powered-aviation_en). 
 
-> Powering all of our planes using hydrogen and syn-fuels would require 3-4 times the current global level of renewable energy generation. 
+> Powering all of our planes using hydrogen and syn-fuels would require 3-4 times the current global level of renewable energy. 
 
 Note: e-fuels come under the umbrella of SAF (sustainable aviation fuel). There are many other sources and forms of SAF, which we discuss in our article [here](/post/the-trouble-with-saf/).
 
