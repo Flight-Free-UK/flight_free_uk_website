@@ -64,7 +64,7 @@ On paper, these give a much better solution than biofuels. They are made from wa
 
 Creating liquid hydrocarbons is very energy intensive. This brings us back to the hierarchy of energy use – we should be prioritising the use of renewable energy in powering our homes and our road transport before we start to power aviation. 
 
-[It would take 3-4 times the current global renewable energy generation](https://www.fch.europa.eu/publications/hydrogen-powered-aviation) to produce synthetic e-fuels for aviation on current consumption trends.
+[It would take 3-4 times the current global renewable energy generation](https://www.clean-hydrogen.europa.eu/media/publications/hydrogen-powered-aviation_en) to produce synthetic e-fuels for aviation on current consumption trends.
 
 > We should be prioritising the use of renewable energy in powering our homes before we start to power aviation
 
