@@ -35,7 +35,9 @@ Electric planes have their place, for example on short-hop flights such as those
 
 #### Hydrogen
 
-Hydrogen fuel is one of the more promising methods of creating zero emissions flight, as the only by-product from using the fuel is water. However, production is quite energy-intensive, [requiring 1.6-2.0 times as much energy as the fuels contain](https://theicct.org/aviation-grid-jun22/). It would therefore only be truly zero-carbon if the process were powered by renewable energy, which brings us back to the limited supply of renewable energy that we talked about with electric flight.
+Hydrogen fuel is one of the more promising methods of creating genuinely zero-carbon emissions flight, as there's no carbon involved in the combustion process. However, production is quite energy-intensive, [requiring 1.6-2.0 times as much energy as the fuels contain](https://theicct.org/aviation-grid-jun22/). 
+
+It would therefore only be truly zero-carbon if the process were powered by renewable energy, which brings us back to the limited supply of renewable energy that we talked about with electric flight.
 
 One of the main challenges is where to put the fuel cells: in conventional aircraft, the fuel sits in the wings, but hydrogen cylinders are too bulky, taking up four times the volume of jet fuel, as well as needing to be kept at -250ºC. This would require adaptations to existing planes and would reduce the payload of passengers and cargo. Short and medium range planes could accommodate these changes reasonably easily, but long-range hydrogen-fuelled planes require a complete re-design.
 
