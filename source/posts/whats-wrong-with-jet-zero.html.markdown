@@ -1,6 +1,6 @@
 ---
 published: true
-title: Critique of the Jet Zero strategy
+title: Jet Zero strategy critique
 category: policy-position
 date: 2022-08-05T10:59:21.345Z
 cover_image: /images/uploads/jet-zero-canva.jpg
@@ -41,7 +41,7 @@ New innovations such as using hydrogen and electricity to power planes are being
 
 Even when they are available, we should question if using renewable energy capacity for energy-intensive air travel is the best use for it, when it would arguably be better used in decarbonising our homes, or the road fleet. 
 
-Either way, we need to manage demand until the technology is ready. Read our exploration about the limitations of new technology [here](https://flightfree.co.uk/podcast_transcripts/2021-podcast-series-can-we-fly-carbon-neutral/).
+Either way, we need to manage demand until the technology is ready. Read our exploration about the limitations of new technology [here](https://flightfree.co.uk/post/how-green-is-green-technology/).
 
 #### Offsetting
 
