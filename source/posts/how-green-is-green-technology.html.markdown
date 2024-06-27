@@ -65,4 +65,4 @@ b﻿ut it can't be seen as a replacement for reducing the amount we fly. There a
 
 H﻿aving said that, technology such as hydrogen planes would deliver genuine zero-emission flight, so if there's one area that should be invested in, that's it. Instead, government and industry is focussing more on alternative fuels, as a quicker, cheaper and less disruptive means of reducing emissions. The trouble is, [SAFs are not nearly as effective as they seem](/post/the-trouble-with-saf/).
 
-O﻿ur priority should be reducing the amount we fly – then using technology to decarbonise the flights that remain.
+#### O﻿ur priority should be reducing the amount we fly – then using technology to decarbonise the flights that remain.
