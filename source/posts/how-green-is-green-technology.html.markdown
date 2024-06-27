@@ -21,11 +21,15 @@ Electrification is touted as the best way to decarbonise most modes of transport
 
 The first consideration is that electric transportation is not without environmental and human cost, with significant resources going into making batteries, and the sourcing of materials often involving human rights abuses and child exploitation. 
 
+> Electric transportation is not without environmental and human cost.
+
 Of course, this is [nowhere near as high](https://www.sustainabilitybynumbers.com/p/mining-low-carbon-vs-fossil) as the resources (and human rights abuses) used for fossil fuel extraction, but is still an important consideration.
 
 Secondly, flights would only be 'carbon neutral' if the electricity comes from renewable sources.
 
-This begs the question of whether using renewables for aviation is the best use of an already scarce power source. Priorities for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
+This begs the question of whether using renewables for aviation is the best use of an already scarce power source. The priority for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
+
+> The priority for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
 
 In practical terms, the size and weight of the batteries (which don't get lighter the further you travel, unlike fuel tanks) means that electric planes would be able to take a [much smaller number of passengers than current aircraft](https://www.weforum.org/agenda/2019/08/aviation-electric-planes-climate-change/), and the range capacity means that they would only ever be suitable for short-haul travel.
 
@@ -49,20 +53,24 @@ This time, the production is much more energy-intensive – roughly twice as muc
 
 It’s estimated that if we were to power all of our planes using LH2 (liquid hydrogen) and syn-fuels, by 2050 [it would require 3-4 times the current global level of renewable energy generation](https://www.clean-hydrogen.europa.eu/media/publications/hydrogen-powered-aviation_en). 
 
+> Powering all of our planes using hydrogen and syn-fuels, would require 3-4 times the current global level of renewable energy generation. 
+
 Note: e-fuels come under the umbrella of SAF (sustainable aviation fuel). There are many other sources and forms of SAF, which we discuss in our article [here](/post/the-trouble-with-saf/).
 
 #### New aircraft designs 
 
 It takes roughly 15 years for new aircraft designs to come into commercial use. New designs range from completely unrecognisable aircraft, such as [those designed to carry hydrogen cells](https://techcentral.co.za/airbus-unveils-hydrogen-powered-designs-for-zero-emission-flight/177120/), to more fuel-efficient planes that look very similar to what we use today. 
 
-The issue here is the slow rate of progress. [The first hydrogen plane flew in 1988](https://en.wikipedia.org/wiki/Hydrogen-powered_aircraft), and the first (and so far only) 100% e-fuel flight [was in 2010](https://en.wikipedia.org/wiki/Jet_fuel). Neither of these technologies are yet in widespread use. In the time taken for a new fuel-efficient plane to reach the market, [growth in demand will have outstripped any efficiency gains](https://www.instagram.com/p/Coek280I_P2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==). 
+The issue here is the slow rate of progress. [The first hydrogen plane flew in 1988](https://en.wikipedia.org/wiki/Hydrogen-powered_aircraft), and the first (and so far only) 100% e-fuel flight [was in 2010](https://en.wikipedia.org/wiki/Jet_fuel). Neither of these technologies are yet in widespread use. In the time taken for a new fuel-efficient plane to reach the market, [growth in demand will have outstripped any efficiency gains](https://www.instagram.com/p/Coek280I_P2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==).
+
+> In the time taken for a new fuel-efficient plane to reach the market, growth in demand will have outstripped any efficiency gains. 
 
 We are still expanding runways and airports based on current designs and requirements of aeroplanes, not for the planes of the future. This locks us into existing designs and technology for many years to come.
 
 #### T﻿echnology has its place
 
-b﻿ut it can't be seen as a replacement for reducing the amount we fly. There are simply not enough resources to decarbonise current levels of aviation, especially as those resources would be better used elsewhere. 
+b﻿ut it can’t be seen as a replacement for reducing the amount we fly. There are simply not enough resources to decarbonise current levels of aviation, especially as those resources would be better used elsewhere. 
 
-H﻿aving said that, technology such as hydrogen planes would deliver genuine zero-emission flight, so if there's one area that should be invested in, that's it. Instead, government and industry is focussing more on alternative fuels, as a quicker, cheaper and less disruptive means of reducing emissions. The trouble is, [SAFs are not nearly as effective as they seem](/post/the-trouble-with-saf/).
+H﻿aving said that, technology such as hydrogen would deliver genuine zero-emission flight, so if there’s one area that should be invested in, that’s it. Instead, government and industry is focussing more on alternative fuels, as a quicker, cheaper and less disruptive means of reducing emissions. The trouble is, [SAFs are not nearly as effective as they seem](/post/the-trouble-with-saf/).
 
 #### O﻿ur priority should be reducing the amount we fly – then using technology to decarbonise the flights that remain.
