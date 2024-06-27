@@ -58,3 +58,11 @@ It takes roughly 15 years for new aircraft designs to come into commercial use. 
 The issue here is the slow rate of progress. [The first hydrogen plane flew in 1988](https://en.wikipedia.org/wiki/Hydrogen-powered_aircraft), and the first (and so far only) 100% e-fuel flight [was in 2010](https://en.wikipedia.org/wiki/Jet_fuel). Neither of these technologies are yet in widespread use. In the time taken for a new fuel-efficient plane to reach the market, [growth in demand will have outstripped any efficiency gains](https://www.instagram.com/p/Coek280I_P2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==). 
 
 We are still expanding runways and airports based on current designs and requirements of aeroplanes, not for the planes of the future. This locks us into existing designs and technology for many years to come.
+
+#### T﻿echnology has its place
+
+b﻿ut it can't be seen as a replacement for reducing the amount we fly. There are simply not enough resources to decarbonise current levels of aviation, especially as those resources would be better used elsewhere. 
+
+H﻿aving said that, technology such as hydrogen planes would deliver genuine zero-emission flight, so if there's one area that should be invested in, that's it. Instead, government and industry is focussing more on alternative fuels, as a quicker, cheaper and less disruptive means of reducing emissions. The trouble is, [SAFs are not nearly as effective as they seem](/post/the-trouble-with-saf/).
+
+O﻿ur priority should be reducing the amount we fly – then using technology to decarbonise the flights that remain.
