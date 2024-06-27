@@ -45,7 +45,7 @@ One of the main challenges is where to put the fuel cells: in conventional aircr
 
 E-fuels include e-kerosene, or synthetic kerosene, which, like hydrogen fuel, requires electricity to make, but unlike hydrogen, can be blended with regular kerosene and therefore ‘drop-in’ to existing aircraft design.
 
-This time, the production is much more energy-intensive – roughly twice as much as with hydrogen. Syn-fuels also still generate carbon emissions when burned, unlike hydrogen. If they were to be generated using existing energy generation methods, it would be [just as bad as using fossil fuels](https://theicct.org/aviation-grid-jun22/). Using renewable energy would bring a carbon emissions reduction of around 75%.
+This time, the production is much more energy-intensive – roughly twice as much as with hydrogen. Syn-fuels also still generate carbon emissions when burned. If they were to be generated using existing energy generation methods, it would be [just as bad as using fossil fuels](https://theicct.org/aviation-grid-jun22/). Using renewable energy would bring a carbon emissions reduction of around 75%.
 
 It’s estimated that if we were to power all of our planes using LH2 (liquid hydrogen) and syn-fuels, by 2050 [it would require 3-4 times the current global renewable energy generation](https://www.clean-hydrogen.europa.eu/media/publications/hydrogen-powered-aviation_en). 
 
