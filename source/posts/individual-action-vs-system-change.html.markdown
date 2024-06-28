@@ -31,7 +31,7 @@ There’s no doubt that we need these measures if people are to move en-masse aw
 
 However, there is more than one way to change the system. We can get politicians’ attention through writing petitions, attending marches, voting, or sitting down in a road. 
 
-But we can also get it through the actions and choices we take as individuals. Politics is driven by, among other things, policies popular with voters. If voters don’t show that they want climate-friendly travel, why would they get it? 
+But we can also get it through the actions and choices we take as individuals. Politics is driven by, among other things, policies popular with voters. If voters show that they want climate-friendly travel, politicians are more likely to put measures in place to support it. 
 
 Similarly, industry looks at our buying habits to see where gaps exist in the market. As more people choose not to fly, industry responds, with the [UK’s first flight-free travel platform](https://www.byway.travel/) launching in 2020, and an increasing number of train routes opening across Europe.
 
