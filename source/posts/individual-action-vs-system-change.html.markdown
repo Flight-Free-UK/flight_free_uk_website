@@ -9,6 +9,8 @@ summary: Is it up to individuals to take action or will it take system change to
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/individual-action-system-change-instagram-post.jpg "From the Flight Free UK Instagram account")
+
 ### The question of whether individual action or system change is more important is a common one when it comes to discussions on climate action.
 
 ##### Some people think it’s wrong to focus on individuals, and that only big system changes can make any difference.
@@ -45,7 +47,7 @@ Not flying says, I’m not ok with this. That choice makes a small but meaningfu
 
 We can’t always change the system but we can change how we travel. Not flying is something that we can actively do about the climate crisis. While we can argue that our one action doesn't make a difference, our one action is sometimes all we have.
 
-#### Individual action and system change are heavily intertwined. It is never one or the other – it is always both. 
+#### Individual action and system change are heavily intertwined. It is never one or the other – it is always both.
 
 Individual action can lead to system change, and system change can influence us as individuals. Putting structures in place enables us to make climate friendly choices, and we can demand those structures by showing with our actions the kinds of changes we want to see.
 
