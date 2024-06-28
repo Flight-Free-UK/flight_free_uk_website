@@ -19,7 +19,7 @@ Both of these are true. 
 
 #### System-level changes help consumers make low-carbon choices
 
-There are many things that need to change at system level to reduce aviation emissions: halt airport expansion, tax aviation fuel and frequent flyers, add carbon information to flight tickets, ban advertising, and cut domestic routes where a direct rail link exists. 
+There are many things that need to change at system level to reduce aviation emissions. Things such as, halting airport expansion, taxing aviation fuel and frequent flyers, adding carbon information to flight tickets, banning advertising, and cutting domestic routes where there’s a good rail alternative.
 
 This mixture of taxation and regulation would remove aviation’s financial advantage, make travellers better-informed, and remove the option to fly in some scenarios, all of which would encourage fewer flights to be taken.
 
