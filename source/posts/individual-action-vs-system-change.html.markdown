@@ -9,7 +9,7 @@ summary: Is it up to individuals to take action or will it take system change to
 author: FlightFree UK
 read_time_minute: 3
 ---
-### The question of whether it’s individual action or system change is a common one when it comes to discussions on climate action.
+### The question of whether individual action or system change is more important is a common one when it comes to discussions on climate action.
 
 ##### Some people think it’s wrong to focus on individuals, and that only big system changes can make any difference.
 
@@ -17,7 +17,7 @@ Others say that individuals changing their behaviour can force system change.
 
 Both of these are true. 
 
-##### System-level changes help consumers make low-carbon choices
+#### System-level changes help consumers make low-carbon choices
 
 There are many things that need to change at system-level to reduce aviation emissions: halt airport expansion, tax aviation fuel and frequent flyers, add carbon information to flight tickets, ban advertising, and cut domestic routes where a direct rail link exists. 
 
@@ -27,7 +27,7 @@ At the same time, measures such as cheaper trains, a more straight-forward booki
 
 There’s no doubt that we need these measures if people are to move en-masse away from flying as a transport choice – that’s where systemic changes are vital.
 
-##### Individual changes influence government and industry
+#### Individual changes influence government and industry
 
 However, there is more than one way to change the system. We can get politicians’ attention through writing petitions, attending marches, voting, or sitting down in a road. 
 
@@ -37,7 +37,7 @@ Similarly, industry looks at our buying habits to see where gaps exist in the ma
 
 These systemic changes come as a result of individuals (in some cases, many individuals) making individual choices. As consumers and voters, we hold a huge amount of power.
 
-##### The power of you as a consumer
+#### The power of you as a consumer
 
 Buying an airline ticket feeds into an existing system. If we continue to fly, we continue to be part of the system. No matter how we feel about that flight, or if we know about the emissions, we are supporting the industry by buying that ticket. 
 
