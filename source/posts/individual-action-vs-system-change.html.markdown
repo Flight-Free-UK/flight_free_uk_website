@@ -19,7 +19,7 @@ Both of these are true. 
 
 #### System-level changes help consumers make low-carbon choices
 
-There are many things that need to change at system level to reduce aviation emissions. Things such as, halting airport expansion, taxing aviation fuel and frequent flyers, adding carbon information to flight tickets, banning advertising, and cutting domestic routes where there’s a good rail alternative.
+There are many things that need to change at system level to reduce aviation emissions. Things such as halting airport expansion, taxing aviation fuel and frequent flyers, adding carbon information to flight tickets, banning advertising, and cutting domestic routes where there’s a good rail alternative.
 
 This mixture of taxation and regulation would remove aviation’s financial advantage, make travellers better-informed, and remove the option to fly in some scenarios, all of which would encourage fewer flights to be taken.
 
@@ -33,7 +33,7 @@ However, there is more than one way to change the system. We can get politicians
 
 But we can also get it through the actions and choices we take as individuals. Politics is driven by, among other things, policies popular with voters. If voters show that they want climate-friendly travel, politicians are more likely to put measures in place to support it. 
 
-Similarly, industry looks at our buying habits to see where gaps exist in the market. As more people choose not to fly, industry responds, with the [UK’s first flight-free travel platform](https://www.byway.travel/) launching in 2020, and an increasing number of train routes opening across Europe.
+Similarly, industry looks at our buying habits to see where gaps exist in the market. As more people choose not to fly, industry responds, with the [UK’s first flight-free travel platform](https://www.byway.travel/) launching in 2020, and an increasing number of train routes opening across Europe in recent years.
 
 These systemic changes come as a result of individuals (in some cases, many individuals) making individual choices. As consumers and voters, we hold a huge amount of power.
 
