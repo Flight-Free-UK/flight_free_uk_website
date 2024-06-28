@@ -41,9 +41,7 @@ These systemic changes come as a result of individuals (in some cases, many indi
 
 Buying an airline ticket feeds into an existing system. If we continue to fly, we continue to be part of the system. No matter how we feel about that flight, or if we know about the emissions, we are supporting the industry by buying that ticket. 
 
-We’re buying into the social norm that says flights are OK. We’re allowing things to remain as they are, and we’re sending the message to our peers, our industry and our government that we’re OK with business as usual. That the system is fine.
-
-Not flying says, I’m not ok with this. That choice makes a small but meaningful reduction in emissions, but its biggest effect comes with influencing behaviour of those higher up, and of those around us. We all have a ripple effect.
+Not flying says, I’m not ok with this. That choice makes a small but meaningful reduction in emissions, but its biggest effect comes with influencing behaviour of those with the power to change things, and of those around us. We all have a ripple effect.
 
 We can’t always change the system but we can change how we travel. Not flying is something that we can actively do about the climate crisis. While we can argue that our one action doesn't make a difference, our one action is sometimes all we have.
 
