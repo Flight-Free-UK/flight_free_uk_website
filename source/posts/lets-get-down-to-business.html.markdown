@@ -10,7 +10,7 @@ summary: The aviation industry is keen to emphasise the importance of flying for
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Two men working on laptops ](/images/uploads/business-meeting.jpg)
+
 
 ## A lot of people imagine that there’s a big and growing demand for business flights.
 
@@ -36,8 +36,6 @@ Many people have the view that, because of the changes we’ve made during Covid
 
 ### This is entirely plausible. Firstly, people have formed new habits.
 
-![Image shows a typical office set-up with a man working on a laptop.](/images/uploads/tyler-franta-office-work-job-unsplash.jpg)
-
 Zoom revenue leapt 355% in the three months to 31st July 2020 compared to the previous year. People who might have been sceptical about Zoom will have discovered that, actually, it works really well, especially when everyone does it. One person dialling in doesn’t really work. But when everyone’s on an equal footing, all appearing on screen with the same set up, it is a perfectly effective way to hold meetings.
 
 It’s good for inclusivity too. People can join the meeting who wouldn’t otherwise have been able to attend. Reducing travel time and time away from family is good for well-being. Perhaps most importantly, it’s cost-effective. Businesses are always looking to cut costs and if this is acceptable to their staff, it works.
@@ -57,8 +55,6 @@ Post-recession, we saw that the people in charge of the pursestrings were lookin
 ### This reduction in business flights might be good for the climate, and for businesses and their employees, but what about the airlines?
 
 On average, business and first-class tickets are five times the price of an economy seat, and many airlines rely on that revenue in order to offer low prices for the rest of the seats. 
-
-![Picture shows the business class section of a plane](/images/uploads/business_class.jpg)
 
 It’s the long-haul routes that have those premium seats available that are going to suffer. For transatlantic routes, 10% of tickets are for premium seats, and they make up 50% of the revenue. So you don’t need to lose many of those passengers before the profitability of that journey starts to come into question. So do you reduce the frequency of flights? Push up prices on other seats?
 
