@@ -1,6 +1,6 @@
 ---
 published: true
-title: Let's get down to business
+title: Are business flights the problem?
 category: explainer
 date: 2022-05-31T11:21:50.008Z
 cover_image: /images/uploads/business-flights_canva.jpg
