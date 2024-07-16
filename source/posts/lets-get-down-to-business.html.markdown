@@ -53,6 +53,6 @@ T﻿here are certain types of meetings and events that require international tra
 
 B﻿ut for other forms of working, where flights had become habitual rather than essential, the changes seen during the Covid-19 pandemic are likely to stick, given the advantages to staff and the business. Bill Gates himself said, in November 2020, that [half of all business travel would disappear for good](https://www.cnbc.com/2020/11/17/coronavirus-bill-gates-says-more-than-50percent-of-business-travel-will-disappear-long-term.html) as a result of the pandemic. It must be true!
 
-#### With the coming together of the climate crisis and the global health emergency, if there ever was a moment to reset our expectations of business travel, surely it’s now.
+##### With the coming together of the climate crisis and the global health emergency, if there ever was a moment to reset our expectations of business travel, surely it’s now.
 
 *Cait Hewitt is Deputy Director at the [AEF](https://www.aef.org.uk/)*
