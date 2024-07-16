@@ -21,6 +21,14 @@ In the UK, business trips make up about 10% of all visits abroad. The number has
 
 Everyone knows someone who flies for business. We compare their frequent trips abroad to our own annual holiday. But actually, people who work in jobs that require air travel make up a very small proportion of the UK population. The holiday market is much, much larger. Still, advertising and other narratives lead us to believe that business flyers are the problem.
 
+### I﻿mpact of travel choices
+
+E﻿ven though, overall, business flights make up a small percentage of journeys, choosing not to fly for work reasons can have a wide-reaching impact – perhaps more so than holiday travel choices. Many businesses would be prepared to fund train travel instead of air travel – it’s just that no one ever asked. If you talk to your employer about different travel options, you might be surprised at the outcome. 
+
+T﻿he advantage of introducing the concept of low-carbon travel in a workplace is that it will make it easier for others to make the same request, and might even change company travel policy.
+
+R﻿ead our inspiring story of [Eddie, who chose not to fly for a business trip](/post/sorry-boss-ive-given-up-flying/), which resulted in the company significantly reducing the number of flights they offered. 
+
 ### R﻿eduction of business flights during Covid
 
 A﻿t the start of the Covid-19 pandemic, it’s estimated that business travel fell by 70-90%. Many people have the view that, because of the shift to online working during Covid, a lot of business travel is now seen as unnecessary and won't return.
@@ -52,6 +60,8 @@ This [report by McKinsey](https://www.mckinsey.com/~/media/mckinsey/industries/t
 T﻿here are certain types of meetings and events that require international travel, for example trade fairs and large-scale conferences, and for those, it’s expected that flights will return. 
 
 B﻿ut for other forms of working, where flights had become habitual rather than essential, the changes seen during the Covid-19 pandemic are likely to stick, given the advantages to staff and businesses. Bill Gates himself said, in November 2020, that [half of all business travel would disappear for good](https://www.cnbc.com/2020/11/17/coronavirus-bill-gates-says-more-than-50percent-of-business-travel-will-disappear-long-term.html) as a result of the pandemic. It must be true!
+
+Y﻿ou can also have an impact here. As awareness of the climate crisis grows, more people are requesting virtual speaking slots at conferences, as opposed to being there in person. While some conference organisers show little flexibility on this, others are starting to accommodate remote participation. As more people make the request, the offer will become more common.
 
 ##### With the coming together of the climate crisis and the global health emergency, if there ever was a moment to reset our expectations of business travel, surely it’s now.
 
