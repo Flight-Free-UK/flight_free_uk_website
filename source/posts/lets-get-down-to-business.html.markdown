@@ -1,9 +1,9 @@
 ---
 published: false
 title: Let's get down to business
-category: opinion
+category: explainer
 date: 2021-04-14T11:21:50.008Z
-cover_image: /images/uploads/business-meeting.jpg
+cover_image: /images/uploads/business-flights_canva.jpg
 summary: The aviation industry is keen to emphasise the importance of flying for
   international business. But just how important is business flying? We talk to
   Cait Hewitt of the Aviation Environment Federation to find out.
