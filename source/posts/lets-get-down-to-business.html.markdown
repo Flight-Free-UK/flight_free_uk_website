@@ -2,7 +2,7 @@
 published: true
 title: Let's get down to business
 category: explainer
-date: 2021-04-14T11:21:50.008Z
+date: 2022-05-31T11:21:50.008Z
 cover_image: /images/uploads/business-flights_canva.jpg
 summary: Is it true that most flights are taken for business reasons? We talk to
   Cait Hewitt of the Aviation Environment Federation to find out.
