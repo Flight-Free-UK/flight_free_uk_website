@@ -2,7 +2,7 @@
 published: true
 title: Are business flights the problem?
 category: explainer
-date: 2022-05-31T11:21:50.008Z
+date: 2021-04-21T11:21:50.008Z
 cover_image: /images/uploads/business-flights_canva.jpg
 summary: Is it true that most flights are taken for business reasons? We talk to
   Cait Hewitt of the Aviation Environment Federation to find out.
@@ -25,7 +25,7 @@ Everyone knows someone who flies for business. We compare their frequent trips a
 
 A﻿t the start of the Covid-19 pandemic, it’s estimated that business travel fell by 70-90%. Many people have the view that, because of the shift to online working during Covid, a lot of business travel is now seen as unnecessary and won't return.
 
-O﻿nline working has several benefits: it is logistically easier to bring people together for meetings, especially those who live in different areas. [Studies show](https://www.nature.com/articles/s41599-022-01190-9) that the number of meetings per person increased during the first Covid lockdown, and the number of people attending meetings increased, but the overall meeting time went down, suggesting that online meetings are a more inclusive and time-efficient way to conduct business. Efficiency and inclusivity are major advantages for businesses.
+O﻿nline working has several benefits: it is logistically easier to bring people together for meetings, especially those who live in different areas. [Studies show](https://www.statista.com/statistics/1234923/pre-and-post-covid-online-meetings/) that the number of meetings per person increased during the first Covid lockdown, and the number of people attending meetings increased, but the overall meeting time went down, suggesting that online meetings are a more inclusive and time-efficient way to conduct business. Efficiency and inclusivity are major advantages for businesses.
 
 I﻿n addition, replacing in-person meetings with online meetings is less expensive, as it eliminates the need for travel, catering and venue hire. Saving money is a big motivating factor for businesses. Reducing travel time and time away from family is good for well-being – another advantage for businesses looking to take care of their staff and create a positive working culture.
 
