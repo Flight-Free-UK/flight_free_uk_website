@@ -4,33 +4,24 @@ title: Let's get down to business
 category: explainer
 date: 2021-04-14T11:21:50.008Z
 cover_image: /images/uploads/business-flights_canva.jpg
-summary: The aviation industry is keen to emphasise the importance of flying for
-  international business. But just how important is business flying? We talk to
+summary: Is it true that most flights are taken for business reasons? We talk to
   Cait Hewitt of the Aviation Environment Federation to find out.
 author: FlightFree UK
 read_time_minute: 4
 ---
-## A lot of people imagine that there’s a big and growing demand for business flights.
+### A lot of people imagine that there’s a big and growing demand for business flights.
 
-Maybe it’s because business travel demand is put forward as part of the case for airport expansion. It creates a myth that there’s a big suppressed demand for business travel. As an example, Heathrow’s case for building a third runway was “We have to have it to facilitate trade.”
-
-Yet if you look at the stats, business travel in the UK has been pretty much flatlining for a decade, even pre-Covid, and even before the uptick in climate concern.
+##### Yet if you look at the stats, business travel in the UK has been pretty much flatlining for a decade, even pre-Covid, and even before the uptick in climate concern.
 
 ![A graph showing reasons for abroad travel from 1999-2019. Holidays are the most frequent reason for travel while business flights show no real change.](/images/uploads/ons-travel-trends-chart.jpg)
 
-In the UK, visits abroad for business purposes are about 10% of all visits abroad, but the number has only grown slightly since 1999 and actually fell in 2019. Even at Heathrow, there are twice as many passengers travelling for leisure as for business, and the growth in air travel and growth in emissions has mostly come from leisure.
+In the UK, business trips make up about 10% of all visits abroad. The number has only grown slightly since 1999 and actually fell in 2019. Even at Heathrow, which has traditionally been seen as a business hub (and uses the growth in business flights as an argument for expansion and a third runway), there are twice as many passengers travelling for leisure as for business, and the growth in air travel and growth in emissions has mostly come from leisure.
 
-### So why do we think that it is business flights that are the problem?
+### So why do we think that business flights are the problem?
 
 Everyone knows someone who flies for business. We compare their frequent trips abroad to our own annual holiday. But actually, people who work in jobs that require air travel make up a very small proportion of the UK population. The holiday market is much, much larger. Still, advertising and other narratives lead us to believe that business flyers are the problem.
 
-With the pandemic, it’s estimated that business travel fell by 70-90% in 2020.
-
-> "Because of the changes made during Covid, it's thought 50% of business travel has gone for good." 
-
-ICAO (the International Civil Aviation Organisation, the UN agency for aviation) says that last year, globally, air travel was 60% down. 
-
-Many people have the view that, because of the changes we’ve made during Covid, a lot of business travel won’t return. Even Bill Gates thinks that 50% of business travel is gone for good. 
+A﻿t the start of the Covid-19 pandemic, it’s estimated that business travel fell by 70-90%. Many people have the view that, because of the shift to online working during Covid, a lot of business travel is now seen as unnecessary and won't return.
 
 ### This is entirely plausible. Firstly, people have formed new habits.
 
