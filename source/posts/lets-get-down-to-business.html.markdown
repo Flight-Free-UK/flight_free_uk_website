@@ -37,7 +37,7 @@ O﻿nline working has several benefits: it is logistically easier to bring peopl
 
 I﻿n addition, replacing in-person meetings with online meetings is less expensive, as it eliminates the need for travel, catering and venue hire. Saving money is a big motivating factor for businesses. Reducing travel time and time away from family is good for well-being – another advantage for businesses looking to take care of their staff and create a positive working culture.
 
-F﻿inally, there are big carbon savings when conducting meetings online as opposed to in person, mostly because of the reduction in the amount of travel that's needed. Many businesses have net-zero targets and want to be seen to be doing the right thing when it comes to the environment. If that can go hand-in-hand with reducing costs, so much the better. 
+F﻿inally, there are big carbon savings when conducting meetings online as opposed to in person, mostly because of the reduction in the amount of travel that’s needed. Many businesses have net-zero targets and want to be seen to be doing the right thing when it comes to the environment. If that can go hand-in-hand with reducing costs, so much the better. 
 
 For example, the [accountancy firm EY](https://www.ey.com/en_uk/news/2021/01/ey-announces-ambition-to-be-carbon-negative-in-2021) committed to cut its whole company emissions to net zero by 2025, and reduce business travel emissions by 35%.  EY has 300,00 employees in over 150 countries, so that’s significant. 
 
