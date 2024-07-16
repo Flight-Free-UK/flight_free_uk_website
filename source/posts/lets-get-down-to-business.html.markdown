@@ -15,19 +15,21 @@ read_time_minute: 4
 
 ![A graph showing reasons for abroad travel from 1999-2019. Holidays are the most frequent reason for travel while business flights show no real change.](/images/uploads/ons-travel-trends-chart.jpg)
 
-In the UK, business trips make up about 10% of all visits abroad. The number has only grown slightly since 1999 and actually fell in 2019. Even at Heathrow, which has traditionally been seen as a business hub (and uses the growth in business flights as an argument for expansion and a third runway), there are twice as many passengers travelling for leisure as for business, and the growth in air travel and growth in emissions has mostly come from leisure.
+In the UK, business trips make up about 10% of all visits abroad. The number has only grown slightly since 1999 and actually fell in 2019. Even at Heathrow, which has traditionally been seen as a business hub (and uses growth in business flights as an argument for expansion and a third runway), there are twice as many passengers travelling for leisure as for business, and the growth in air travel and growth in emissions has mostly come from leisure.
 
 ### So why do we think that business flights are the problem?
 
 Everyone knows someone who flies for business. We compare their frequent trips abroad to our own annual holiday. But actually, people who work in jobs that require air travel make up a very small proportion of the UK population. The holiday market is much, much larger. Still, advertising and other narratives lead us to believe that business flyers are the problem.
 
+### R﻿eduction of business flights during Covid
+
 A﻿t the start of the Covid-19 pandemic, it’s estimated that business travel fell by 70-90%. Many people have the view that, because of the shift to online working during Covid, a lot of business travel is now seen as unnecessary and won't return.
 
-### This is entirely plausible. Firstly, people have formed new habits.
+O﻿nline working has several benefits: it is logistically easier to bring people together for meetings, especially those who live in different areas. [Studies show](https://www.nature.com/articles/s41599-022-01190-9) that the number of meetings per person increased during the first Covid lockdown, and the number of people attending meetings increased, but the overall meeting time went down, suggesting that online meetings are a more inclusive and time-efficient way to conduct business. Efficiency and inclusivity are major advantages for businesses.
 
-Zoom revenue leapt 355% in the three months to 31st July 2020 compared to the previous year. People who might have been sceptical about Zoom will have discovered that, actually, it works really well, especially when everyone does it. One person dialling in doesn’t really work. But when everyone’s on an equal footing, all appearing on screen with the same set up, it is a perfectly effective way to hold meetings.
+I﻿n addition, replacing in-person meetings with online meetings is less expensive, as it eliminates the need for travel, catering and venue hire. Saving money is a big motivating factor for businesses. Reducing travel time and time away from family is good for well-being – another advantage for businesses looking to take care of their staff and create a positive working culture.
 
-It’s good for inclusivity too. People can join the meeting who wouldn’t otherwise have been able to attend. Reducing travel time and time away from family is good for well-being. Perhaps most importantly, it’s cost-effective. Businesses are always looking to cut costs and if this is acceptable to their staff, it works.
+F﻿inally, 
 
 ### Secondly, businesses are starting to take the climate crisis seriously.
 
