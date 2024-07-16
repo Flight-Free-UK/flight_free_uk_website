@@ -49,9 +49,9 @@ In the short term, and even in the long term, this could reduce demand for trans
 
 This [report by McKinsey](https://www.mckinsey.com/~/media/mckinsey/industries/travel%20transport%20and%20logistics/our%20insights/the%20travel%20industry%20turned%20upside%20down%20insights%20analysis%20and%20actions%20for%20travel%20executives/the-travel-industry-turned-upside-down-insights-analysis-and-actions-for-travel-executives.pdf) published in September 2020 predicted that "Business travel will return “at scale” although perhaps never to the levels observed in 2019."
 
-People will stand back and say, “How many of those trips were beneficial to the business or to me?” If they were beneficial, could those benefits be delivered in other ways?  For example, if it was just to take a break or get away from the office, can we do that differently?
+T﻿here are certain types of meetings and events that require international travel, for example trade fairs and large-scale conferences, and for those, it's expected that flights will return. 
 
-In the last year or so we’ve been forced to change our behaviour, and it looks likely that a lot of that will stick when it comes to business travel. We have been forced to act differently and form new habits. It’s also dawning on people that air travel is going to be problematic in terms of reaching our climate commitments. 
+B﻿ut for other forms of working, where flights had become habitual rather than essential, the changes seen during the Covid-19 pandemic are likely to stick, given the advantages to staff and the business. Bill Gates himself said, in November 2020, that [half of all business travel would disappear for good](https://www.cnbc.com/2020/11/17/coronavirus-bill-gates-says-more-than-50percent-of-business-travel-will-disappear-long-term.html) as a result of the pandemic. It must be true!
 
 #### With the coming together of the climate crisis and the global health emergency, if there ever was a moment to reset our expectations of business travel, surely it’s now.
 
