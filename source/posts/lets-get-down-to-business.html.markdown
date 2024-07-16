@@ -39,7 +39,7 @@ This reduction in business flights might be good for the climate, businesses and
 
 On average, business and first-class tickets are five times the price of an economy seat, and many airlines rely on that revenue in order to offer low prices for the rest of the seats. 
 
-It’s the long-haul routes that have those premium seats available that are going to suffer. For transatlantic routes, 10% of tickets are for premium seats, and they make up 50% of the revenue. So you don’t need to lose many of those passengers before the profitability of that journey starts to come into question. So do you reduce the frequency of flights? Push up prices on other seats?
+Long-haul routes that have premium seats are most likely to suffer. For transatlantic routes, 10% of tickets are for premium seats, and they make up 50% of the revenue. So you don’t need to lose many of those passengers before the profitability of that journey starts to come into question. 
 
 There is speculation that if the number of business flights continues to fall, airlines will have to put up prices on other tickets to make those routes profitable.
 
@@ -47,7 +47,7 @@ In the short term, and even in the long term, this could reduce demand for trans
 
 ### The future of business travel
 
-There’s a [report by McKinsey](https://www.mckinsey.com/~/media/mckinsey/industries/travel%20transport%20and%20logistics/our%20insights/the%20travel%20industry%20turned%20upside%20down%20insights%20analysis%20and%20actions%20for%20travel%20executives/the-travel-industry-turned-upside-down-insights-analysis-and-actions-for-travel-executives.pdf) predicting that trade events won’t happen any more. Travel within a company for training or for meetings is going to be decimated. 
+This [report by McKinsey](https://www.mckinsey.com/~/media/mckinsey/industries/travel%20transport%20and%20logistics/our%20insights/the%20travel%20industry%20turned%20upside%20down%20insights%20analysis%20and%20actions%20for%20travel%20executives/the-travel-industry-turned-upside-down-insights-analysis-and-actions-for-travel-executives.pdf) published in September 2020 predicted that "Business travel will return “at scale” although perhaps never to the levels observed in 2019."
 
 People will stand back and say, “How many of those trips were beneficial to the business or to me?” If they were beneficial, could those benefits be delivered in other ways?  For example, if it was just to take a break or get away from the office, can we do that differently?
 
