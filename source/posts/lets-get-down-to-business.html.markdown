@@ -10,15 +10,13 @@ summary: The aviation industry is keen to emphasise the importance of flying for
 author: FlightFree UK
 read_time_minute: 4
 ---
-
-
 ## A lot of people imagine that there’s a big and growing demand for business flights.
 
 Maybe it’s because business travel demand is put forward as part of the case for airport expansion. It creates a myth that there’s a big suppressed demand for business travel. As an example, Heathrow’s case for building a third runway was “We have to have it to facilitate trade.”
 
 Yet if you look at the stats, business travel in the UK has been pretty much flatlining for a decade, even pre-Covid, and even before the uptick in climate concern.
 
-![A graph showing reasons for abroad travel from 1999-2019. Holidays are clearly the most frequent reason for travel while business flights show no real change.](/images/uploads/ons-travel-trends.jpg)
+![A graph showing reasons for abroad travel from 1999-2019. Holidays are the most frequent reason for travel while business flights show no real change.](/images/uploads/ons-travel-trends-chart.jpg)
 
 In the UK, visits abroad for business purposes are about 10% of all visits abroad, but the number has only grown slightly since 1999 and actually fell in 2019. Even at Heathrow, there are twice as many passengers travelling for leisure as for business, and the growth in air travel and growth in emissions has mostly come from leisure.
 
