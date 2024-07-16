@@ -27,7 +27,7 @@ E﻿ven though, overall, business flights make up a small percentage of journeys
 
 T﻿he advantage of introducing the concept of low-carbon travel in a workplace is that it will make it easier for others to make the same request, and might even change company travel policy.
 
-R﻿ead our inspiring story of [Eddie, who chose not to fly for a business trip](/post/sorry-boss-ive-given-up-flying/), which resulted in the company significantly reducing the number of flights they offered. 
+R﻿ead our inspiring story of [Eddie, who chose not to fly for a business trip](/post/sorry-boss-i-ve-given-up-flying/), which resulted in the company significantly reducing the number of flights they offered. 
 
 ### R﻿eduction of business flights during Covid
 
