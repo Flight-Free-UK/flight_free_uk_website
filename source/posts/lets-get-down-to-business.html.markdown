@@ -49,9 +49,9 @@ In the short term, and even in the long term, this could reduce demand for trans
 
 This [report by McKinsey](https://www.mckinsey.com/~/media/mckinsey/industries/travel%20transport%20and%20logistics/our%20insights/the%20travel%20industry%20turned%20upside%20down%20insights%20analysis%20and%20actions%20for%20travel%20executives/the-travel-industry-turned-upside-down-insights-analysis-and-actions-for-travel-executives.pdf) published in September 2020 predicted that "Business travel will return “at scale” although perhaps never to the levels observed in 2019."
 
-T﻿here are certain types of meetings and events that require international travel, for example trade fairs and large-scale conferences, and for those, it's expected that flights will return. 
+T﻿here are certain types of meetings and events that require international travel, for example trade fairs and large-scale conferences, and for those, it’s expected that flights will return. 
 
-B﻿ut for other forms of working, where flights had become habitual rather than essential, the changes seen during the Covid-19 pandemic are likely to stick, given the advantages to staff and the business. Bill Gates himself said, in November 2020, that [half of all business travel would disappear for good](https://www.cnbc.com/2020/11/17/coronavirus-bill-gates-says-more-than-50percent-of-business-travel-will-disappear-long-term.html) as a result of the pandemic. It must be true!
+B﻿ut for other forms of working, where flights had become habitual rather than essential, the changes seen during the Covid-19 pandemic are likely to stick, given the advantages to staff and businesses. Bill Gates himself said, in November 2020, that [half of all business travel would disappear for good](https://www.cnbc.com/2020/11/17/coronavirus-bill-gates-says-more-than-50percent-of-business-travel-will-disappear-long-term.html) as a result of the pandemic. It must be true!
 
 ##### With the coming together of the climate crisis and the global health emergency, if there ever was a moment to reset our expectations of business travel, surely it’s now.
 
