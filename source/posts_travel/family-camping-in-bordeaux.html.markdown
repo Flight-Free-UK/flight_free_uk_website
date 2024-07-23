@@ -8,6 +8,8 @@ summary: Laura and family head to Lake Biscarrosse near Bordeaux for the perfect
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/lake-biscarosse-lg_canva.jpg "Lake Biscarrosse")
+
 ### As an environmentally-conscious family, we have avoided flying for our holidays for many years. 
 
 ##### On previous occasions we have travelled to Europe via ferry, but this year we decided to try a new adventure and go by train.
