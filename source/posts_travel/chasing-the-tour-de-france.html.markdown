@@ -12,7 +12,7 @@ read_time_minute: 4
 
 ### The route of the Tour de France is announced every November, ahead of the race the following year. In November 2022, the organisers announced that the Basque Country would host the start of the race.
 
-##### The riders would head into and over the Pyrenees, then north-east across Mid-France, before reaching the Massif Central where there would be a summit finish of the iconic Puy de Dome volcano on day nine. 
+##### The riders would head into and over the Pyrenees, then north-east across mid-France, before reaching the Massif Central where there would be a summit finish of the iconic Puy de Dome volcano on day nine. 
 
 I had first visited the Pyrenees in 2019. Riding the mountain ascents and feeling the power and accomplishment at their summits was addictive. Ever since returning home I had longed to go back. That same year I had watched the spectacle of the summit finish on the Tourmalet, and had been inspired to go and see the Tour in person. The passion of the fans at the roadside, with the action and drama of the mountain stages, had me hooked.
 
