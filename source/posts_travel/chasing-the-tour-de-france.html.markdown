@@ -10,7 +10,7 @@ read_time_minute: 4
 ---
 ### The route of the Tour de France is announced every November, ahead of the race the following year. In November 2022, the organisers announced that the Basque Country would host the start of the race.
 
-##### The riders would then head into and over the Pyrenees, then north-east across Mid-France, before reaching the Massif Central where there would be a summit finish of the iconic Puy de Dome volcano on day nine. 
+##### The riders would head into and over the Pyrenees, then north-east across Mid-France, before reaching the Massif Central where there would be a summit finish of the iconic Puy de Dome volcano on day nine. 
 
 I had first visited the Pyrenees in 2019. Riding the mountain ascents and feeling the power and accomplishment at their summits was addictive. Ever since returning home I had longed to go back. That same year I had watched the spectacle of the summit finish on the Tourmalet, and had been inspired to go and see the Tour in person. The passion of the fans at the roadside, with the action and drama of the mountain stages, had me hooked.
 
@@ -18,7 +18,7 @@ But I didn’t want to fly this time – I felt uneasy that the emissions from f
 
 I booked a one-way ticket on Brittany Ferries sailing from Portsmouth to Santander on the eve of le Grand Depart. From there I would cycle the 1000 kilometres from Santander to le Massif Central, where I would meet my friends, who were driving from the UK, so we could ride together to watch the battle up Puy de Dome on Sunday 9th July. 
 
-![](/images/uploads/portsmouth_zviney.jpg "Ready to depart in an overcast Portsmouth")
+![](/images/uploads/portsmouth_zviney.jpg "Cycling to the ferry in an overcast Portsmouth (that's not the ferry...)")
 
 To ride there felt like a pilgrimage, especially covering the same iconic mountain passes that the pro riders would cycle over in the following days, including le Col du Tourmalet, the Tour de France’s most-used mountain climb.
 
@@ -28,7 +28,7 @@ My sleeping space was a reserved seating area, which had a feeling not dissimila
 
 Mounting my bike in Santander signalled the departure from the binds of everyday life: riding from one place to another, eating and sleeping to fuel and recover, is simple and liberating. Cycle touring helps you fully appreciate the vastness of nature. I watched the landscapes evolve kilometre-by-kilometre, from the intimidating infinity of the Atlantic Ocean to the drama of the Pyrenean mountains, passing through characterful towns and villages, with architecture from classic to contemporary. 
 
-I was confident I’d make Puy de Dome in seven days, riding at an average of eight hours daily, pending any catastrophic mechanical. The riding was challenging but with a balance of terrain.
+I was confident I’d make Puy de Dome in seven days, riding at an average of eight hours daily, barring any catastrophic mechanical. The riding was challenging but with a balance of terrain.
 
 ![](/images/uploads/lot-river-saint-martin-de-bouillac_zviney.jpg "Lot river, Saint Martin de Bouillac")
 
