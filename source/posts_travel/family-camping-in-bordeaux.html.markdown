@@ -12,7 +12,7 @@ read_time_minute: 4
 
 ### As an environmentally-conscious family, we have avoided flying for our holidays for many years. 
 
-##### On previous occasions we have travelled to Europe via ferry, but this year we decided to try a new adventure and go by train.
+##### On previous occasions we have travelled to Europe via ferry, but this year we decided to try a new adventure and go by train. 
 
 With our eldest (12) studying French, and my love of hot weather, we decided to go to south west France, so we booked to stay at Camping La Rive on the shores of Lake Biscarrosse, 70km from Bordeaux. We had stayed on French campsites before and love what they provide: the children are free to explore fantastic facilities like splash parks and play areas, and of course the weather is usually better than in the UK. Waiting until the very end of the summer holidays meant we got a really good price.
 
@@ -45,3 +45,21 @@ We chose Brussels as our stop-over on the way back, staying just for one night. 
 Overall, we had a flight free fabulous holiday. We saw more of the country than we would have if we had just flown in and out again, but we didn’t have to miss out on the hot weather and great experiences. The children love travelling by train and are proud that our holidays don’t have to cost the earth. We are excited to see where the train takes us for our next holiday!
 
 ![](/images/uploads/beach_lsilverstone.jpeg)
+
+**J﻿ourney details:**
+
+L﻿ondon Underground to St Pancras
+
+S﻿t Pancras to Lille (Eurostar)
+
+L﻿ille to Bordeaux (TGV)
+
+B﻿ordeaux to Lake Biscarrosse (car)
+
+L﻿ake Biscarrosse to Bordeaux (car)
+
+B﻿ordeaux to Brussels (TGV)
+
+B﻿russels to St Pancras (Eurostar)
+
+L﻿ondon Underground home
