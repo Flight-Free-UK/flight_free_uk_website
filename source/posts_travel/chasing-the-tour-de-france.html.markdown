@@ -8,6 +8,8 @@ summary: Cycling fan Zak Viney goes on an adventure to ride some of the route of
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/tourmalet_tmckenna.jpg "The iconic Col du Tourmalet")
+
 ### The route of the Tour de France is announced every November, ahead of the race the following year. In November 2022, the organisers announced that the Basque Country would host the start of the race.
 
 ##### The riders would head into and over the Pyrenees, then north-east across Mid-France, before reaching the Massif Central where there would be a summit finish of the iconic Puy de Dome volcano on day nine. 
