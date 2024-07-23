@@ -44,7 +44,7 @@ We chose Brussels as our stop-over on the way back, staying for just one night. 
 
 Overall, we had a fabulous flight free holiday. We saw more of the country than we would have if we had just flown in and out again, but we didn’t have to miss out on the hot weather and great experiences. The children love travelling by train and are proud that our holidays don’t have to cost the earth. We are excited to see where the train takes us for our next holiday!
 
-![](/images/uploads/beach_lsilverstone.jpeg)
+![](/images/uploads/beach_lsilverstone.jpeg "Biscarrosse Plage")
 
 **J﻿ourney details:**
 
