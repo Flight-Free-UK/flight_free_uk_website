@@ -40,7 +40,7 @@ Our visit to Dune du Pilat was the highlight of the week. It is the tallest sand
 
 ![](/images/uploads/sand-dune_lsilverstone.jpeg "Dune du Pilat")
 
-We chose Brussels as our stop-over on the way back, staying just for one night. It was great to see the sights (the children loved the weeing little boy – Maneken Pis) and to try out some beer, chips and waffles. However, there were lots of drunk stag parties, and we were staying near the station in an insalubrious part of town. We much preferred Lille and were happy to get back on the Eurostar for our quick journey home.
+We chose Brussels as our stop-over on the way back, staying for just one night. It was great to see the sights (the children loved the weeing little boy – Maneken Pis) and to try out some beer, chips and waffles. However, there were lots of drunk stag parties, and we were staying near the station in an insalubrious part of town. We much preferred Lille and were happy to get back on the Eurostar for our quick journey home.
 
 Overall, we had a flight free fabulous holiday. We saw more of the country than we would have if we had just flown in and out again, but we didn’t have to miss out on the hot weather and great experiences. The children love travelling by train and are proud that our holidays don’t have to cost the earth. We are excited to see where the train takes us for our next holiday!
 
