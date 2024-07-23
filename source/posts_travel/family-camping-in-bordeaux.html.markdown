@@ -36,7 +36,7 @@ The week at Camping La Rive was fabulous. The campsite is on an inland lake, jus
 
 Through the week, we played in the pool and at the lake, we kayaked along l’Eyre river and we hired bikes to ride through the beautiful pine forests that surrounded the site. We visited Biscarrosse Plage which reminded us of a Cornish surf town. There were lots of cafes, amazing ice cream and miles and miles of beautiful sand. 
 
-Our visit to Dune du Pilat was the highlight of the week. It is the tallest sand dune in Europe and I have never seen anything like it. It looked like something out of star wars! A unique landscape and a must-visit.
+Our visit to Dune du Pilat was the highlight of the week. It is the tallest sand dune in Europe and I have never seen anything like it. It looked like something out of Star Wars! A unique landscape and a must-visit.
 
 ![](/images/uploads/sand-dune_lsilverstone.jpeg "Dune du Pilat")
 
