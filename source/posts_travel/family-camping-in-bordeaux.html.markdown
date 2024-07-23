@@ -34,7 +34,7 @@ Even though it would have been nice to use trains for the entire holiday, we had
 
 The week at Camping La Rive was fabulous. The campsite is on an inland lake, just 20 minutes from the sea, so we had the best of both worlds. For the children, the best facilities were the pools and splash park – they loved the lazy river, the wave pool and the water slides. For us, it was great to have a bar and a well-stocked supermarket. 
 
-Through the week, we played in the pool and at the lake, we kayaked along l’Eyre river and we hired bikes to ride through the beautiful pine forests that surrounded the site. We visited Biscarrosse Plage which reminded us of a Cornish surf town. There were lots of cafes, amazing ice cream and also miles and miles of beautiful sand. 
+Through the week, we played in the pool and at the lake, we kayaked along l’Eyre river and we hired bikes to ride through the beautiful pine forests that surrounded the site. We visited Biscarrosse Plage which reminded us of a Cornish surf town. There were lots of cafes, amazing ice cream and miles and miles of beautiful sand. 
 
 Our visit to Dune du Pilat was the highlight of the week. It is the tallest sand dune in Europe and I have never seen anything like it. It looked like something out of star wars! A unique landscape and a must-visit.
 
