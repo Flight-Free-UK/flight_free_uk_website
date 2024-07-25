@@ -68,6 +68,8 @@ This would have the desired effect: supporting local communities, but not pricin
 
 ##### In a globalised world, stopping flying won’t solve all of the issues surrounding tourism and overtourism. But we can certainly address a great many of them if we fly less, travel more mindfully, and recognise the impact of flying on the global community.
 
+![](/images/uploads/machupicchu-unsplash-scott-umstattd.jpg)
+
 #### Case study:
 
 Perú is an enormous country full of interesting historic, natural and cultural attractions. And yet, 95% of foreign visitors go to one small place: [Machu Picchu](https://flightfree.co.uk/post/tossing-out-my-bucket-list/). 
