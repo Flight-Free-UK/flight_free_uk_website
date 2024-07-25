@@ -60,6 +60,8 @@ Is it possible to still support communities that rely on our tourism, without co
 
 In some cases, the answer is no – there are few practical ways to visit the Caribbean or New Zealand without flying. In those cases we need to consider very carefully how justified and valid our reason for travel is, especially as we will be directly harming those places through the impact of travelling to get there.
 
+![](/images/uploads/london-barcelona.jpg)
+
 But the benefits of living on a continent with so many different cultures and landscapes at such close hand means that we can still visit overseas destinations even if we don’t fly. The top three overseas destinations for UK visitors (Spain, France and Italy) are easily reachable in a day from the UK. In this way, we can still support local communities that rely on our tourism, without the climate and social impacts of flying there.
 
 Indeed, we can still visit tourist hotspots – Barcelona, Venice and Paris, for example – but travelling without flying can help with the problem of over-tourism. Flight free travel takes longer and in many cases costs more ([we delve into why that is here](https://www.instagram.com/p/C9zBaiGhZxM/)), and by that token, we simply do it less. If it were less easy (though still possible) to visit Spain, we would still be able to support the local community, enjoy the culture, but we wouldn’t go as frequently, meaning that the negative impacts would be lower.
