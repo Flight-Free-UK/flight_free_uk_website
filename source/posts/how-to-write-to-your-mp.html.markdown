@@ -3,7 +3,7 @@ published: true
 title: How to write to your MP
 category: how-to
 date: 2024-07-25T16:22:11.731Z
-cover_image: /images/uploads/downing_st_canva.jpg
+cover_image: /images/uploads/parliament_canva.jpg
 summary: Use our template letter to write to your MP about aviation
 author: FlightFree UK
 read_time_minute: 2
