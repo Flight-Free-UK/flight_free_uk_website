@@ -10,7 +10,7 @@ read_time_minute: 2
 ---
 Copy and paste the text below into an email to your MP and **don’t forget to personalise the bits in bold.**
 
-Find out who your MP is: <https://www.theyworkforyou.com/>
+[Find out who your MP is](https://www.theyworkforyou.com/).
 
 Dear **\[Name of your MP]**,
 
@@ -32,7 +32,7 @@ Will you support the following measures?
 * A ban on domestic flights where there’s a direct rail alternative of 4.5 hours or less (to include the two most-used air routes in the UK, Lon-Edinburgh/Glasgow, both of which are competitive in terms of travel time with the train)
 * A ban on advertising for flights
 
-**\[Add personal information about your personal situation. You could mention the impact of aircraft noise and/or emissions if you live near an airport, or you could talk about the effect of flying upon climate change, or you could refer to social and climate justice issues when it comes to aviation.]**
+**\[Add information about your personal situation. You could mention the impact of aircraft noise and/or emissions if you live near an airport, or you could talk about the effect of flying upon climate change, or you could refer to social and climate justice issues when it comes to aviation.]**
 
 F﻿inally, climate-friendly behaviour is more likely to spread if people in positions of power lead by example. Therefore I’m also asking if you would take the Flight Free UK challenge to abstain from flying for a year, to reduce emissions and shift the culture when it comes to flying-by-default.
 
