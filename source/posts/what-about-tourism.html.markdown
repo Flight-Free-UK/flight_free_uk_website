@@ -84,6 +84,6 @@ But Cusco is already collapsing under the pressure of tourism. There is nowhere 
 
 There is the social justice issues, too: a single flight between Lima and Madrid produces as much carbon emissions in a few hours as the average Peruvian produces in an entire year.
 
-It’s hard to know how to deal with these issues. “Good” tourism would be more respectful of the land and cultures being visited, more aware that a tourist is essentially a guest in someone else's living environment, and above all much lower intensity.
+It’s hard to know how to deal with these issues. “Good” tourism would be more respectful of the land and cultures being visited, more aware that a tourist is essentially a guest in someone else’s living environment, and above all much lower intensity.
 
-~ written by Ricky Lake from *Dejemos los pies sobre la tierra*
+~ written by Ricky Lake from *Dejemos los pies sobre la tierra,* Peru
