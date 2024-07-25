@@ -10,11 +10,11 @@ summary: We know that air travel facilitates global tourism, and if we were to
 author: FlightFree UK
 read_time_minute: 6
 ---
-One of the arguments to keep on flying to destinations around the world is that communities depend on our tourism for their livelihood.
+### One of the arguments to keep on flying to destinations around the world is that communities depend on our tourism for their livelihood.
 
-This is true in many cases, but the social and climate impacts of our visits also need to be taken into account. 
+##### This is true in many cases, but the social and climate impacts of our visits also need to be taken into account. 
 
-**Impact of tourism on locals**
+#### Impact of tourism on locals
 
 While tourism does bring economic benefit for some, it produces hardship for others. 
 
@@ -24,37 +24,37 @@ The huge demand for water resulting from the hospitality industry can lead to wa
 
 Anti-tourism protests are nothing new, but they have grown in recent years. The summer of 2024 saw mass protests throughout Spain, including in Mallorca, Tenerife, Grenada and Malaga. The city of Barcelona has for years had signs up in windows saying ‘tourists go home’. The negative impact of tourism on locals is becoming harder to ignore.
 
-**Climate impact**
+#### Climate impact
 
-Transport makes up around half of all emissions from the global tourism industry <https://sustainabletravel.org/issues/carbon-footprint-tourism/>, compared to accommodation (6%), food (10%), and goods and services (20%). 
+Transport makes up around [half of all emissions from the global tourism industry](https://sustainabletravel.org/issues/carbon-footprint-tourism/), compared to accommodation (6%), food (10%), and goods and services (20%). 
 
 Many of our favoured holiday destinations are the ones most vulnerable to climate change. For example, warmer temperatures created by a rise in global emissions cause ski resorts to suffer a lack of snow, and the increase in carbon dioxide levels in the ocean leads to coral bleaching; flying to ski resorts, or to snorkel the Great Barrier Reef, directly harms the thing we are going to see. 
 
 Island nations such as those in the Maldives, Micronesia and the Caribbean are seeing their land disappear as a result of sea level rise. The economic benefit that our tourism brings to these places needs to be balanced against the very real threat to their existence through climate impacts, which are exacerbated by our flying to get there.
 
-**Social justice**
+#### Social justice
 
 The social impacts of flights include noise and air pollution for residents around airports, funding from the local area going towards airport infrastructure, and an increase in localised road congestion and pollution as a result. 
 
 With only 1% of the global population generating 50% of aviation emissions, there are many parts of the world where those who suffer the negative effects of aviation are the ones least able to access it. 
 
-**Overtourism**
+#### Overtourism
 
 Over-tourism has impacts that go beyond pricing locals out of the housing market, leading many destinations to put a limit on the number of people who can visit. 
 
 Impacts include disrupting and disrespecting spiritual spaces, such as Uluru (Ayres Rock) in Northern Territory Australia, where climbing was banned in 2019 after a request from the Aboriginal community. Some people still climb the rock but there are strong recommendations from the locals not to do so, and the hand rail that assisted the climb has been removed.
 
-Environmental degradation is a big problem, and led to Maya Beach in Thailand – made famous by the film *The Beach* – closing to tourists to allow its ecosystems to recover. The controversial ‘tourist tax’ was finally introduced in Venice in 2023 to discourage people from visiting, after UNESCO considered putting the city on the 'endangered' list <https://www.timeout.com/news/venice-will-charge-tourists-5-to-enter-the-city-from-next-year-090823>. 
+Environmental degradation is a big problem, and led to Maya Beach in Thailand – made famous by the film *The Beach* – closing to tourists to allow its ecosystems to recover. The controversial [‘tourist tax’ was finally introduced in Venice in 2023](https://www.timeout.com/news/venice-will-charge-tourists-5-to-enter-the-city-from-next-year-090823) to discourage people from visiting, after UNESCO considered putting the city on the 'endangered' list. 
 
 In many ways, mass tourism is an extractive industry. It seeks to extract economic value from some attraction, whether natural or historic or cultural, and in doing so it modifies the resource in ways which make it unrecognisable. Monuments crumble from the constant passage of hands and feet, cityscapes are dismantled to build hotels and fast food outlets, and wilderness is overrun by hordes of travellers who trample the vegetation and leave the landscape strewn with rubbish.
 
-**Supporting the UK tourism industry**
+#### Supporting the UK tourism industry
 
 UK residents spend more money abroad as tourists than visiting tourists do here. Nearly 90% of those visits are by air, meaning that air travel takes more money out of our economy than it brings in. 
 
 There are many places in the UK that would benefit from our visits, such as coastal towns and post-industrial cities that rely on tourism since their industries closed down. There are still tourist hot-spots such as Brighton, Bournemouth and Edinburgh – best avoided in high season – but the UK is full of fascinating towns cities, national parks and coastal resorts. See our suggestions for out-of-the-way UK holidays. 
 
-**Flight-free travel**
+#### Flight-free travel
 
 Is it possible to still support communities that rely on our tourism, without contributing to the negative effects from flight emissions and overtourism?
 
@@ -66,13 +66,9 @@ Indeed, we can still visit tourist hotspots – Barcelona, Venice and Paris, for
 
 This would have the desired effect: supporting local communities, but not pricing locals out of living there. Enabling us to experience and enjoy different cultures and destinations, without harming the places we are going to see. Encouraging us to spend more time travelling domestically, thereby supporting our own local economy.
 
-In a globalised world, stopping flying won’t solve all of the issues surrounding tourism and overtourism. But we can certainly address a great many of them if we fly less, travel more mindfully, and recognise the impact of flying on the global community.
+##### In a globalised world, stopping flying won’t solve all of the issues surrounding tourism and overtourism. But we can certainly address a great many of them if we fly less, travel more mindfully, and recognise the impact of flying on the global community.
 
-
-
-**Case study:**
-
-
+#### Case study:
 
 Perú is an enormous country full of interesting historic, natural and cultural attractions. And yet, 95% of foreign visitors go to one small place: [Machu Picchu](https://flightfree.co.uk/post/tossing-out-my-bucket-list/). 
 
@@ -86,4 +82,4 @@ There is the social justice issues, too: a single flight between Lima and Madrid
 
 It’s hard to know how to deal with these issues. “Good” tourism would be more respectful of the land and cultures being visited, more aware that a tourist is essentially a guest in someone else's living environment, and above all much lower intensity.
 
-~ by Ricky Lake from *Dejemos los pies sobre la tierra*
+~ written by Ricky Lake from *Dejemos los pies sobre la tierra*
