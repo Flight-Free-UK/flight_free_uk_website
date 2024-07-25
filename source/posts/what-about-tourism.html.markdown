@@ -1,7 +1,7 @@
 ---
 published: true
 title: What about tourism?
-category: explainer
+category: opinion
 date: 2024-07-25T14:46:43.763Z
 cover_image: /images/uploads/palm-trees_canva.jpg
 summary: We know that air travel facilitates global tourism, and if we were to
