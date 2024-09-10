@@ -77,3 +77,10 @@ The founder and director of Flight Free UK is [vegan and flight free](https://ww
 There’s no doubt that in order to avoid catastrophic climate change, we must change everything about the way we live: what we eat, how we heat our homes, what we wear and how we travel. For some of us, one thing might be easier than another, and we each need to work out where our greatest impact lies. 
 
 ##### But if you see a headline that states ‘the single biggest thing you can do for the planet is xxx,’ be a little wary. The answer is going to be a bit more complicated than that.
+
+*Calculations for chart (all sources accessed Feb 2021):*
+
+* *Flight emissions from [flightemissionmap.org](http://flightemissionmap.org)*
+* *Average meat consumption in the UK = [85g per day](https://www.bbc.co.uk/news/explainers-59232599), 85g meat per day generates [5.63kg CO2](https://ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), x 365 = 2.06 tonnes per year*
+* *Driving emissions from [nimblefins.co.uk/average-co2-emissions-car-uk](http://nimblefins.co.uk/average-co2-emissions-car-uk)*
+* *Lightbulb emissions from [energysavingtrust.org.uk/advice/lighting](http://energysavingtrust.org.uk/advice/lighting)*
