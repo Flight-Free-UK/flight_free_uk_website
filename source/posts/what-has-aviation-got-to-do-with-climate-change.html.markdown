@@ -9,9 +9,9 @@ summary: We examine how aviation relates to climate change, and why addressing
 author: FlightFree UK
 read_time_minute: 3
 ---
-### It’s commonly quoted that aviation is responsible for just 2% of global emissions, therefore we shouldn’t worry about it.
+## It’s commonly quoted that aviation is responsible for just 2% of global emissions, therefore we shouldn’t worry about it.
 
-##### Is that correct? Just how bad are aviation emissions?
+#### Is that correct? Just how bad are aviation emissions?
 
 #### More than CO2
 
