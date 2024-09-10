@@ -45,7 +45,7 @@ Another way to look at it is that flights wipe out the savings you might have ma
 
 When we consider that the recommended sustainable footprint is just 2.3 tonnes per year, we quickly see that there isn’t any room for flights once we have included the things that are essential to living, such as food, shelter and warmth. 
 
-If we are to move to a low-carbon society, cutting out non-essential sources of emissions will be vital, and for most people, that’s flights.
+#### If we are to move to a low-carbon society, cutting out non-essential sources of emissions will be vital, and for most people, that’s flights.
 
 *Calculations for chart (all sources accessed Feb 2021):*
 
