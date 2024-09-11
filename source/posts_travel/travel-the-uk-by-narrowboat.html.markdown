@@ -106,13 +106,12 @@ Top rated hire bases in this area: [Brecon Park Boats](https://beaconparkboats.c
 
 #### 1﻿0. Falkirk
 
-A canal boat holiday in Scotland will start near Falkirk and [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel), the world’s only rotating boat lift and one of the UK’s most impressive pieces of canal infrastructure. From here you can travel to the historical cities of Edinburgh and Glasgow. Slightly different to most other holiday canals in the UK as all the locks and bridges are managed by staff, so a great option if you would like to experience them but would rather avoid all that effort.\
-\
-Top rated hire bases in this area: [Marine Cruises](https://marinecruises.co.uk/falkirk-marina.htm) (Camelon - 5 min taxi)\
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZ1sSU71xYrHOYdpQbbwS3Wt22q8Pm7Eg3KDJvCyfwRDMxYBpAf42pzJsFAdk4I-bUYd7Fe0hXiKJvdVtivA6YLIL5J9LdOS394cL67llAj6rK0MS1t0LbBQrD24TLM3BEy8yDa-lKYxzn2Fd1j7qpFV99?key=0pAbd304lP_oFpeWPE3Nfw)\
-<https://www.shutterstock.com/image-photo/falkirk-wheel-rotating-boat-lift-connecting-1074906989>
+A canal boat holiday in Scotland will start near Falkirk and [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel), the world’s only rotating boat lift and one of the UK’s most impressive pieces of canal infrastructure. From here you can travel to the historical cities of Edinburgh and Glasgow. Slightly different to most other holiday canals in the UK as all the locks and bridges are managed by staff, so a great option if you would like to experience them but would rather avoid all that effort.
 
-How much will it cost?\
+Top rated hire bases in this area: [Marine Cruises](https://marinecruises.co.uk/falkirk-marina.htm) (Camelon - 5 min taxi
+
+#### How much will it cost?
+
 If you plan to hire a narrowboat, prices start at ~£600 for a week's hire. It does however depend on the time of year and quantity of people onboard, you can find a breakdown of [narrowboat hire prices here](https://canalboatholidays.co.uk/how-much-does-it-cost). Remember, you don’t need to bring a fortune in spending money for a get away on a canal boat, it can be as affordable or as expensive as you make it. There can be plenty of free attractions along the canal to visit, such as nature reserves, parks and museums. Cooking facilities are provided onboard and the journey itself, [planning where to go](https://canalboatholidays.co.uk/route-planner), working locks and operating bridges can provide a lot of entertainment.\
 \
 Of course you don’t necessarily need to book a canal boat holiday to enjoy the canals, they are open to the public with 1000’s of miles of towpath that can be explored on foot. You could for example walk across the Pontcysyllte Aqueduct, [visit one of the museums](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions), sit in the cafe and watch the Falkirk Wheel turn, or even take a [canoe trip through the longest UK canal tunnel](https://www.theguardian.com/business/article/2024/jun/13/history-engineering-and-darkness-set-pulses-racing-on-a-paddle-under-the-pennines).\
