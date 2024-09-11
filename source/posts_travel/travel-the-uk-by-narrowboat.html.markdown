@@ -80,31 +80,27 @@ Top rated hire bases in this area: [Ashby Boat Co](https://ashbyboats.com/) (Hin
 
 #### 7. The Droitwich Ring & Worcester & Birmingham
 
-Most canal ring routes can be completed over a week’s hire or longer, the [Droitwich ring](https://canalboatholidays.co.uk/routes/circular/droitwich-ring) (a.k.a Mid-Worcestershire ring) however can be completed over an active [weekend hire](https://canalboatholidays.co.uk/boat-hire/weekend-hire-and-short-breaks), and is by far the most popular short canal ring. From here you can also head into Birmingham travelling through pleasant countryside and tacking the thirty locks at Tardebigge.\
-\
-Canal boat holidays in general make for a relatively environmentally friendly holiday especially for those already in the UK with no flights required, and many options easily accessible by public transport but some hire bases. But 2 on the Droitwich Ring are taking this a step further. [Trinity Boats](https://www.trinityboats.co.uk/) and [Cafwin Cruises](https://www.cafwincruises.com/) each now have a hybrid electric narrowboat, with Trinity Boats [also running the fleet on HVO](https://fueloilnews.co.uk/2024/06/narrowboat-holiday-company-switches-to-hvo-after-dft-green-lights-subsidy/).\
-\
+Most canal ring routes can be completed over a week’s hire or longer, the [Droitwich ring](https://canalboatholidays.co.uk/routes/circular/droitwich-ring) (a.k.a Mid-Worcestershire ring) however can be completed over an active [weekend hire](https://canalboatholidays.co.uk/boat-hire/weekend-hire-and-short-breaks), and is by far the most popular short canal ring. From here you can also head into Birmingham travelling through pleasant countryside and tacking the thirty locks at Tardebigge.
+
+Canal boat holidays in general make for a relatively environmentally friendly holiday especially for those already in the UK with no flights required, and many options easily accessible by public transport but some hire bases. But 2 on the Droitwich Ring are taking this a step further. [Trinity Boats](https://www.trinityboats.co.uk/) and [Cafwin Cruises](https://www.cafwincruises.com/) each now have a hybrid electric narrowboat, with Trinity Boats [also running the fleet on HVO](https://fueloilnews.co.uk/2024/06/narrowboat-holiday-company-switches-to-hvo-after-dft-green-lights-subsidy/).
+
 Top rated hire bases in this area: [Trinity Boats](https://www.trinityboats.co.uk/) (Droitwich Spa Station - 6 min taxi. 19min bus (No. 19) + 28 min walk) and [Cafwin Cruises](https://www.cafwincruises.com/) (Droitwich Spa Station - 5 min taxi. 39 min walk)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfucXVLYEtBH8nqMRU4FiR9dM2uh96La5IYaLexO8lWAR4azoe54zTf3g-YdyFGqI5Zm71bAggklpK3H1F7xyzVv160JcxKdHoX7ZB-rrREOGG0LTrAr1fiYGc8jiUvd6aGG9SrbDbtTEgysCsBhE4AXz9S?key=0pAbd304lP_oFpeWPE3Nfw)
+## Wales
 
-https://www.shutterstock.com/image-photo/droitwich-canal-hawford-1119035969\
+#### 8﻿. Llangollen
+
+The Llangollen canal is surely the most famous holiday canal, chances are you’ve seen the world famous Pontcysyllte Aqueduct on the TV, known as the stream in the sky, and offering fabulous views over the Dee Valley. You’ll find lovely stretches of open countryside, impressive canal infrastructure, narrow locks and the occasional canal side pub.
+
+Top rated hire bases in this area: [Chas Hardern Boats](https://www.chashardern.co.uk/) (Chester station - 35 min taxi / 29 min bus (No. 84) + 25 min walk) , [Drifting Wood Canal Breaks](https://www.driftingwood.co.uk/) (Whitchurch station - 5 min taxi), [Marine Cruises](https://marinecruises.co.uk/) (Nantwich - 7 min taxi), [Crest Narrowboats](https://crestnarrowboats.co.uk/) (Chirk Station - 6 min taxi)
+
+#### 9﻿. Mon & Brec
+
+The Mon & Brec passes through the [Brecon Beacons National Park](https://www.breconbeacons.org/) and is possibly one of the most picturesque canals in the UK. Not connected to the main canal network and so doesn’t get quite as busy as the Llangollen in North Wales. With just 6 locks, 5 of which are grouped together, it makes a fantastic relaxed cruise, especially for those who perhaps don’t have the mobility they once had and would prefer to gently cruise along, rather than jump on and off the boat to work an endless stream of canal locks.\
 \
-Wales\
-
-8. Llangollen\
-   The Llangollen canal is surely the most famous holiday canal, chances are you’ve seen the world famous Pontcysyllte Aqueduct on the TV, known as the stream in the sky, and offering fabulous views over the Dee Valley. You’ll find lovely stretches of open countryside, impressive canal infrastructure, narrow locks and the occasional canal side pub.\
-   \
-   Top rated hire bases in this area: [Chas Hardern Boats](https://www.chashardern.co.uk/) (Chester station - 35 min taxi / 29 min bus (No. 84) + 25 min walk) , [Drifting Wood Canal Breaks](https://www.driftingwood.co.uk/) (Whitchurch station - 5 min taxi), [Marine Cruises](https://marinecruises.co.uk/) (Nantwich - 7 min taxi), [Crest Narrowboats](https://crestnarrowboats.co.uk/) (Chirk Station - 6 min taxi)\
-   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXclsxgxQh8t0Rj0IMFbK3O7HNlCU8u7Gx-1OxkJN1FYxirx3lw84ci4-NS6_GpUXrkKW4bVFOhw15KrBsvxzue5S1UcJ4hTuglnzKAjPd5Sia-owXSLoVveQbfpeLdFrYIaXB69HtDz6SAjXi0IQ8OFF6J9?key=0pAbd304lP_oFpeWPE3Nfw)\
-   https://www.shutterstock.com/image-photo/chirk-wrexham-county-borough-wales-britain-2486666433\
-   \
-9. Mon & Brec\
-   The Mon & Brec passes through the [Brecon Beacons National Park](https://www.breconbeacons.org/) and is possibly one of the most picturesque canals in the UK. Not connected to the main canal network and so doesn’t get quite as busy as the Llangollen in North Wales. With just 6 locks, 5 of which are grouped together, it makes a fantastic relaxed cruise, especially for those who perhaps don’t have the mobility they once had and would prefer to gently cruise along, rather than jump on and off the boat to work an endless stream of canal locks.\
-   \
-   The Mon & Brec is also one of the only canals with electric charging points along its length, that means if you choose a hire base with fully electric boats such as [Castle Narrowboats](https://www.castlenarrowboats.co.uk/) you can make what is already a relatively environmentally friendly holiday even more so.\
-   \
-   Top rated hire bases in this area: [Brecon Park Boats](https://beaconparkboats.com/) (Abergavenny Station - 16 min taxi), [Road House Narrowboats](https://www.narrowboats-wales.co.uk/)  (Abergavenny Station - 8 min taxi), [Cambrian Cruisers](https://www.cambriancruisers.co.uk/)(Abergavenny Station - 34 min taxi), Castle Narrowboats (Abergavenny Station - 16 min taxi)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXWExk0nr3P0yJ7n-b_9ygTPUsUskDOqUNiH15JNAtbr1kzz931LnlecJLZ5wme7MvevFf3Aq248PNXLCoOq4iTPFWuhkVHq-C6bIMpUAQ8zwF4S_3lKARI9XPFjyvlH0g4pj8rBpLddR-pHoq9E3Q0kWM?key=0pAbd304lP_oFpeWPE3Nfw)
+The Mon & Brec is also one of the only canals with electric charging points along its length, that means if you choose a hire base with fully electric boats such as [Castle Narrowboats](https://www.castlenarrowboats.co.uk/) you can make what is already a relatively environmentally friendly holiday even more so.\
+\
+Top rated hire bases in this area: [Brecon Park Boats](https://beaconparkboats.com/) (Abergavenny Station - 16 min taxi), [Road House Narrowboats](https://www.narrowboats-wales.co.uk/)  (Abergavenny Station - 8 min taxi), [Cambrian Cruisers](https://www.cambriancruisers.co.uk/)(Abergavenny Station - 34 min taxi), Castle Narrowboats (Abergavenny Station - 16 min taxi)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXWExk0nr3P0yJ7n-b_9ygTPUsUskDOqUNiH15JNAtbr1kzz931LnlecJLZ5wme7MvevFf3Aq248PNXLCoOq4iTPFWuhkVHq-C6bIMpUAQ8zwF4S_3lKARI9XPFjyvlH0g4pj8rBpLddR-pHoq9E3Q0kWM?key=0pAbd304lP_oFpeWPE3Nfw)
 
 https://www.shutterstock.com/image-photo/monmouthshire-brecon-canal-beacons-national-park-18602240
 
