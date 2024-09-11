@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Travel the UK by narrowboat
 date: 2024-09-11T16:04:55.245Z
 cover_image: /images/uploads/narrowboat-canal_canva.jpg
