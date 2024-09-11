@@ -30,7 +30,7 @@ As an added bonus [many train lines follow the course of canals](https://canalri
 
 #### England
 
-#### 1. Cheshire Ring & Four Counties Ring
+#### 1. Cheshire Ring and Four Counties Ring
 
 A varied mixture of rural landscapes as well as the odd bit of industrial heritage thrown in for good measure.  Narrow locks, a range of attractions to visit along the way, such as [Little Moreton Hall](https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/little-moreton-hall) or [Shugborough Estate](https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/shugborough-estate), and the fact both routes can be completed in an active week or more relaxed 2 week hire makes the [Cheshire Ring](https://canalboatholidays.co.uk/routes/circular/cheshire-ring) & [Four Counties Ring](https://canalboatholidays.co.uk/routes/circular/four-counties-ring) two of the most popular canal ring routes in the UK.
 
@@ -39,7 +39,7 @@ Of course you don’t need to complete the ring and there are a range of out-and
 Top rated hire bases in this area:
    [Andersen Boats](https://www.andersenboats.com/) (Winsford Station - 9 min bus (No. 37), [Canal Cruising](https://www.canalcruising.co.uk/) (Stone Station - 13 min walk), [Chas Hardern Boats](https://www.chashardern.co.uk/) (Chester station - 35 min taxi / 29 min bus (No. 84) + 25 min walk) and [Heritage Narrowboats](https://heritagenarrowboats.co.uk/) (Kidsgrove Station - 12 min taxi)
 
-#### 2﻿. Kennet & Avon
+#### 2﻿. Kennet & Avon canal
 
 The Kennet & Avon passes through some of the UK’s most beautiful countryside. You’ll find a mixture of remote rural stretches, quaint towns and villages, the beautiful [Vale of Pewsey](https://www.visitpewseyvale.co.uk/) and the elegant [City of Bath](https://visitbath.co.uk/) and if you are feeling up to it the famous [Caen Hill Flight](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/caen-hill-locks) with its 29 locks.
 
@@ -56,7 +56,7 @@ Top rated hire bases in this area:
 
 [The Boat Co North](https://www.theboatconorth.co.uk/) (Leeds Station - 21 min walk), [Silsden Boats](https://www.anglowelsh.co.uk/locations/departure-points/silsden/) (Steeton & Silsden Station - 19 min walk), [Pennine Cruisers](https://www.penninecruisers.com/) (Skipton Station - 10 min walk
 
-#### 4﻿. Grand Union Canal
+#### 4﻿. Grand Union canal
 
 The longest canal in the UK at an impressive 137 miles, and with it plenty of choice for potential holiday routes, especially if you start near the junction with the Oxford canal. Blisworth & Braunston tunnels, [21 locks at Hatton](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/hatton-locks), Foxton Locks consisting of two “staircases” with five locks each, museums at [Stoke Bruerne](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions/the-canal-museum-stoke-bruerne) and [Foxton](https://www.foxtoncanalmuseum.org/) are just some of the highlights along this canal.
 
@@ -64,7 +64,7 @@ Top rated hire bases in this area:
 
 [Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [Wyvern Shipping](https://canalholidays.co.uk/) (Leighton Buzzard - 19 min walk), [Grand Union Narrowboats](https://www.grandunionnarrowboats.co.uk/) (Northampton Station - 16 min taxi)
 
-##### 5. Oxford Canals
+#### 5. Oxford canals
 
 Narrow locks, twists and turns through remote countryside, with the occasional village, all make the Oxford Canal one of the most popular holiday destinations in the UK. This canal cuts through the English countryside at its best.
 
@@ -72,13 +72,13 @@ Top rated hire bases in this area:
 
 [Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [College Cruisers](https://www.collegecruisers.com/) (Oxford Station - 12 min walk), [Napton Narrowboats](https://www.napton-marina.co.uk/) (Leamington Spa Station - 21 min taxi)
 
-#### 6. Ashby
+#### 6. Ashby canal
 
 22 miles of tranquil lock-free cruising along this pretty canal which gently takes you through some beautiful countryside. You’ll pass through a few small villages such as Dadlington, Shenton, Sutton Cheney perhaps taking the time to visit a cafe, pub or the [Bosworth Battlefield Heritage Centre](https://www.bosworthbattlefield.org.uk/). Or just moor up in the middle of nowhere and relax.
 
 Top rated hire bases in this area: [Ashby Boat Co](https://ashbyboats.com/) (Hinckley Station - 13 min walk + 26 min bus (No. 7A), [Midland Mallard](https://midlandmallard.com/) (20ish min taxi, multiple stations)
 
-#### 7. The Droitwich Ring & Worcester & Birmingham
+#### 7. The Droitwich Ring and Worcester & Birmingham canal
 
 Most canal ring routes can be completed over a week’s hire or longer, the [Droitwich ring](https://canalboatholidays.co.uk/routes/circular/droitwich-ring) (a.k.a Mid-Worcestershire ring) however can be completed over an active [weekend hire](https://canalboatholidays.co.uk/boat-hire/weekend-hire-and-short-breaks), and is by far the most popular short canal ring. From here you can also head into Birmingham travelling through pleasant countryside and tacking the thirty locks at Tardebigge.
 
@@ -112,8 +112,8 @@ Top rated hire bases in this area: [Marine Cruises](https://marinecruises.co.uk/
 
 #### How much will it cost?
 
-If you plan to hire a narrowboat, prices start at ~£600 for a week's hire. It does however depend on the time of year and quantity of people onboard, you can find a breakdown of [narrowboat hire prices here](https://canalboatholidays.co.uk/how-much-does-it-cost). Remember, you don’t need to bring a fortune in spending money for a get away on a canal boat, it can be as affordable or as expensive as you make it. There can be plenty of free attractions along the canal to visit, such as nature reserves, parks and museums. Cooking facilities are provided onboard and the journey itself, [planning where to go](https://canalboatholidays.co.uk/route-planner), working locks and operating bridges can provide a lot of entertainment.\
-\
-Of course you don’t necessarily need to book a canal boat holiday to enjoy the canals, they are open to the public with 1000’s of miles of towpath that can be explored on foot. You could for example walk across the Pontcysyllte Aqueduct, [visit one of the museums](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions), sit in the cafe and watch the Falkirk Wheel turn, or even take a [canoe trip through the longest UK canal tunnel](https://www.theguardian.com/business/article/2024/jun/13/history-engineering-and-darkness-set-pulses-racing-on-a-paddle-under-the-pennines).\
-\
+If you plan to hire a narrowboat, prices start at ~£600 for a week's hire. It does however depend on the time of year and quantity of people onboard, you can find a breakdown of [narrowboat hire prices here](https://canalboatholidays.co.uk/how-much-does-it-cost). Remember, you don’t need to bring a fortune in spending money for a get away on a canal boat, it can be as affordable or as expensive as you make it. There can be plenty of free attractions along the canal to visit, such as nature reserves, parks and museums. Cooking facilities are provided onboard and the journey itself, [planning where to go](https://canalboatholidays.co.uk/route-planner), working locks and operating bridges can provide a lot of entertainment.
+
+Of course you don’t necessarily need to book a canal boat holiday to enjoy the canals, they are open to the public with 1000’s of miles of towpath that can be explored on foot. You could for example walk across the Pontcysyllte Aqueduct, [visit one of the museums](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions), sit in the cafe and watch the Falkirk Wheel turn, or even take a [canoe trip through the longest UK canal tunnel](https://www.theguardian.com/business/article/2024/jun/13/history-engineering-and-darkness-set-pulses-racing-on-a-paddle-under-the-pennines).
+
 They are there for us to enjoy, so if you don’t already know, why not [find your local canal](https://canalrivertrust.org.uk/local-to-you) and have a wonder along the towpath.
