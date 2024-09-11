@@ -94,25 +94,23 @@ The Llangollen canal is surely the most famous holiday canal, chances are you’
 
 Top rated hire bases in this area: [Chas Hardern Boats](https://www.chashardern.co.uk/) (Chester station - 35 min taxi / 29 min bus (No. 84) + 25 min walk) , [Drifting Wood Canal Breaks](https://www.driftingwood.co.uk/) (Whitchurch station - 5 min taxi), [Marine Cruises](https://marinecruises.co.uk/) (Nantwich - 7 min taxi), [Crest Narrowboats](https://crestnarrowboats.co.uk/) (Chirk Station - 6 min taxi)
 
-#### 9﻿. Mon & Brec
+#### 9﻿. Monmouthshire & Brecon canal
 
-The Mon & Brec passes through the [Brecon Beacons National Park](https://www.breconbeacons.org/) and is possibly one of the most picturesque canals in the UK. Not connected to the main canal network and so doesn’t get quite as busy as the Llangollen in North Wales. With just 6 locks, 5 of which are grouped together, it makes a fantastic relaxed cruise, especially for those who perhaps don’t have the mobility they once had and would prefer to gently cruise along, rather than jump on and off the boat to work an endless stream of canal locks.\
+The Mon & Brec passes through the [Brecon Beacons National Park](https://www.breconbeacons.org/) and is possibly one of the most picturesque canals in the UK. Not connected to the main canal network and so doesn’t get quite as busy as the Llangollen in North Wales. With just 6 locks, 5 of which are grouped together, it makes a fantastic relaxed cruise, especially for those who perhaps don’t have the mobility they once had and would prefer to gently cruise along, rather than jump on and off the boat to work an endless stream of canal locks.
+
+The Mon & Brec is also one of the only canals with electric charging points along its length, that means if you choose a hire base with fully electric boats such as [Castle Narrowboats](https://www.castlenarrowboats.co.uk/) you can make what is already a relatively environmentally friendly holiday even more so.
+
+Top rated hire bases in this area: [Brecon Park Boats](https://beaconparkboats.com/) (Abergavenny Station - 16 min taxi), [Road House Narrowboats](https://www.narrowboats-wales.co.uk/)  (Abergavenny Station - 8 min taxi), [Cambrian Cruisers](https://www.cambriancruisers.co.uk/)(Abergavenny Station - 34 min taxi), Castle Narrowboats (Abergavenny Station - 16 min taxi)
+
+## Scotland
+
+#### 1﻿0. Falkirk
+
+A canal boat holiday in Scotland will start near Falkirk and [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel), the world’s only rotating boat lift and one of the UK’s most impressive pieces of canal infrastructure. From here you can travel to the historical cities of Edinburgh and Glasgow. Slightly different to most other holiday canals in the UK as all the locks and bridges are managed by staff, so a great option if you would like to experience them but would rather avoid all that effort.\
 \
-The Mon & Brec is also one of the only canals with electric charging points along its length, that means if you choose a hire base with fully electric boats such as [Castle Narrowboats](https://www.castlenarrowboats.co.uk/) you can make what is already a relatively environmentally friendly holiday even more so.\
-\
-Top rated hire bases in this area: [Brecon Park Boats](https://beaconparkboats.com/) (Abergavenny Station - 16 min taxi), [Road House Narrowboats](https://www.narrowboats-wales.co.uk/)  (Abergavenny Station - 8 min taxi), [Cambrian Cruisers](https://www.cambriancruisers.co.uk/)(Abergavenny Station - 34 min taxi), Castle Narrowboats (Abergavenny Station - 16 min taxi)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXWExk0nr3P0yJ7n-b_9ygTPUsUskDOqUNiH15JNAtbr1kzz931LnlecJLZ5wme7MvevFf3Aq248PNXLCoOq4iTPFWuhkVHq-C6bIMpUAQ8zwF4S_3lKARI9XPFjyvlH0g4pj8rBpLddR-pHoq9E3Q0kWM?key=0pAbd304lP_oFpeWPE3Nfw)
-
-https://www.shutterstock.com/image-photo/monmouthshire-brecon-canal-beacons-national-park-18602240
-
-\
-Scotland\
-
-10. Falkirk\
-    A canal boat holiday in Scotland will start near Falkirk and [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel), the world’s only rotating boat lift and one of the UK’s most impressive pieces of canal infrastructure. From here you can travel to the historical cities of Edinburgh and Glasgow. Slightly different to most other holiday canals in the UK as all the locks and bridges are managed by staff, so a great option if you would like to experience them but would rather avoid all that effort.\
-    \
-    Top rated hire bases in this area: [Marine Cruises](https://marinecruises.co.uk/falkirk-marina.htm) (Camelon - 5 min taxi)\
-    ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZ1sSU71xYrHOYdpQbbwS3Wt22q8Pm7Eg3KDJvCyfwRDMxYBpAf42pzJsFAdk4I-bUYd7Fe0hXiKJvdVtivA6YLIL5J9LdOS394cL67llAj6rK0MS1t0LbBQrD24TLM3BEy8yDa-lKYxzn2Fd1j7qpFV99?key=0pAbd304lP_oFpeWPE3Nfw)\
-    <https://www.shutterstock.com/image-photo/falkirk-wheel-rotating-boat-lift-connecting-1074906989>
+Top rated hire bases in this area: [Marine Cruises](https://marinecruises.co.uk/falkirk-marina.htm) (Camelon - 5 min taxi)\
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZ1sSU71xYrHOYdpQbbwS3Wt22q8Pm7Eg3KDJvCyfwRDMxYBpAf42pzJsFAdk4I-bUYd7Fe0hXiKJvdVtivA6YLIL5J9LdOS394cL67llAj6rK0MS1t0LbBQrD24TLM3BEy8yDa-lKYxzn2Fd1j7qpFV99?key=0pAbd304lP_oFpeWPE3Nfw)\
+<https://www.shutterstock.com/image-photo/falkirk-wheel-rotating-boat-lift-connecting-1074906989>
 
 How much will it cost?\
 If you plan to hire a narrowboat, prices start at ~£600 for a week's hire. It does however depend on the time of year and quantity of people onboard, you can find a breakdown of [narrowboat hire prices here](https://canalboatholidays.co.uk/how-much-does-it-cost). Remember, you don’t need to bring a fortune in spending money for a get away on a canal boat, it can be as affordable or as expensive as you make it. There can be plenty of free attractions along the canal to visit, such as nature reserves, parks and museums. Cooking facilities are provided onboard and the journey itself, [planning where to go](https://canalboatholidays.co.uk/route-planner), working locks and operating bridges can provide a lot of entertainment.\
