@@ -88,7 +88,7 @@ Top rated hire bases in this area: [Trinity Boats](https://www.trinityboats.co.u
 
 ## Wales
 
-#### 8﻿. Llangollen
+#### 8﻿. Llangollen canal
 
 The Llangollen canal is surely the most famous holiday canal, chances are you’ve seen the world famous Pontcysyllte Aqueduct on the TV, known as the stream in the sky, and offering fabulous views over the Dee Valley. You’ll find lovely stretches of open countryside, impressive canal infrastructure, narrow locks and the occasional canal side pub.
 
@@ -104,9 +104,11 @@ Top rated hire bases in this area: [Brecon Park Boats](https://beaconparkboats.c
 
 ## Scotland
 
-#### 1﻿0. Falkirk
+#### 1﻿0. Forth & Clyde canal, and Union canal
 
-A canal boat holiday in Scotland will start near Falkirk and [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel), the world’s only rotating boat lift and one of the UK’s most impressive pieces of canal infrastructure. From here you can travel to the historical cities of Edinburgh and Glasgow. Slightly different to most other holiday canals in the UK as all the locks and bridges are managed by staff, so a great option if you would like to experience them but would rather avoid all that effort.
+A canal boat holiday in Scotland will start near Falkirk and [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel), the world’s only rotating boat lift and one of the UK’s most impressive pieces of canal infrastructure. From here you can travel to the historical cities of Edinburgh, along the Union canal, and Glasgow, along the Forth and Clyde canal.
+
+Slightly different to most other holiday canals in the UK as all the locks and bridges are managed by staff, so a great option if you would like to experience them but would rather avoid all that effort. 
 
 Top rated hire bases in this area: [Marine Cruises](https://marinecruises.co.uk/falkirk-marina.htm) (Camelon - 5 min taxi
 
