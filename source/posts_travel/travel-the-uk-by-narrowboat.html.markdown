@@ -52,37 +52,39 @@ Top rated hire bases in this area:\
 
 Spectacular scenery as you make your way up and potentially down the Pennine Waterways. With wide locks and steep hills, these routes can be hard work, but it will all be worth it when the day is done and you “cheers” and put a well earned drink to your lips at the end of the day in one of the [many canal side pubs](https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/10-fantastic-canal-and-navigation-side-pubs-in-yorkshire-4729010).
 
-Top rated hire bases in this area:\
+Top rated hire bases in this area:
+
 [The Boat Co North](https://www.theboatconorth.co.uk/) (Leeds Station - 21 min walk), [Silsden Boats](https://www.anglowelsh.co.uk/locations/departure-points/silsden/) (Steeton & Silsden Station - 19 min walk), [Pennine Cruisers](https://www.penninecruisers.com/) (Skipton Station - 10 min walk
 
-4. Grand Union Canal
+#### 4﻿. Grand Union Canal
 
-The longest canal in the UK at an impressive 137 miles, and with it plenty of choice for potential holiday routes, especially if you start near the junction with the Oxford canal. Blisworth & Braunston tunnels, [21 locks at Hatton](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/hatton-locks), Foxton Locks consisting of two “staircases” with five locks each, museums at [Stoke Bruerne](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions/the-canal-museum-stoke-bruerne) and [Foxton](https://www.foxtoncanalmuseum.org/) are just some of the highlights along this canal.\
-\
-Top rated hire bases in this area:\
-[Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [Wyvern Shipping](https://canalholidays.co.uk/) (Leighton Buzzard - 19 min walk), [Grand Union Narrowboats](https://www.grandunionnarrowboats.co.uk/) (Northampton Station - 16 min taxi)\
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-mhgeOTQpSXIo8Fh4GOu8GbO0wh7hXK8MRBviXL1fIdlQNO4MSOSfDNnYVQY_FksY3ftX2U4EaUDN6R2mkQ6D7_6vS8Rg1-7GXHikjz6ZcXjeztnMOTWjTPVPQVlusKmlNXPywe4O9aoLomp9ngrErjE?key=0pAbd304lP_oFpeWPE3Nfw)\
-<https://www.shutterstock.com/image-photo/blisworth-tunnel-canal-museum-stoke-bruerne-1316557496>5. Oxford Canals\
-Narrow locks, twists and turns through remote countryside, with the occasional village, all make the Oxford Canal one of the most popular holiday destinations in the UK. This canal cuts through the English countryside at its best.\
-\
-Top rated hire bases in this area:\
-[Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [College Cruisers](https://www.collegecruisers.com/) (Oxford Station - 12 min walk), [Napton Narrowboats](https://www.napton-marina.co.uk/) (Leamington Spa Station - 21 min taxi)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdCxIVH5MTmtIAkqzTzlS-Jw7mPw-w_4y2q9lgtM-rpsQ_2Rd4XOqV0pesYl0-SoAJghCDIL_-V2e0PD8180qBZVK2qh7g69gvOYi6OcMLuv-CBa7Ds7PrcLSR7z6wi3yoLmppXzdRPsjACdIMK5olc8DTM?key=0pAbd304lP_oFpeWPE3Nfw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHpASoyaRNxNB0oLtTMwj-POcQ8SsXYe4uSgk12ih6kYGIaM7ZO39GfVmG8dLSYuS5Oy99sg7rdpRDXs9NXxMYZBqZDHN7euG8lzA5wOBKK_t0Cupe3XVDNl8zMTPx5ArBaL90sHaO8nyPegMQs_esWsY?key=0pAbd304lP_oFpeWPE3Nfw)
+The longest canal in the UK at an impressive 137 miles, and with it plenty of choice for potential holiday routes, especially if you start near the junction with the Oxford canal. Blisworth & Braunston tunnels, [21 locks at Hatton](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/hatton-locks), Foxton Locks consisting of two “staircases” with five locks each, museums at [Stoke Bruerne](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions/the-canal-museum-stoke-bruerne) and [Foxton](https://www.foxtoncanalmuseum.org/) are just some of the highlights along this canal.
 
-<https://www.shutterstock.com/image-photo/view-towards-flight-locks-on-oxford-1736682182>6. Ashby\
-22 miles of tranquil lock-free cruising along this pretty canal which gently takes you through some beautiful countryside. You’ll pass through a few small villages such as Dadlington, Shenton, Sutton Cheney perhaps taking the time to visit a cafe, pub or the [Bosworth Battlefield Heritage Centre](https://www.bosworthbattlefield.org.uk/). Or just moor up in the middle of nowhere and relax.\
-\
+Top rated hire bases in this area:
+
+[Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [Wyvern Shipping](https://canalholidays.co.uk/) (Leighton Buzzard - 19 min walk), [Grand Union Narrowboats](https://www.grandunionnarrowboats.co.uk/) (Northampton Station - 16 min taxi)
+
+##### 5. Oxford Canals
+
+Narrow locks, twists and turns through remote countryside, with the occasional village, all make the Oxford Canal one of the most popular holiday destinations in the UK. This canal cuts through the English countryside at its best.
+
+Top rated hire bases in this area:
+
+[Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [College Cruisers](https://www.collegecruisers.com/) (Oxford Station - 12 min walk), [Napton Narrowboats](https://www.napton-marina.co.uk/) (Leamington Spa Station - 21 min taxi)
+
+#### 6. Ashby
+
+22 miles of tranquil lock-free cruising along this pretty canal which gently takes you through some beautiful countryside. You’ll pass through a few small villages such as Dadlington, Shenton, Sutton Cheney perhaps taking the time to visit a cafe, pub or the [Bosworth Battlefield Heritage Centre](https://www.bosworthbattlefield.org.uk/). Or just moor up in the middle of nowhere and relax.
+
 Top rated hire bases in this area: [Ashby Boat Co](https://ashbyboats.com/) (Hinckley Station - 13 min walk + 26 min bus (No. 7A), [Midland Mallard](https://midlandmallard.com/) (20ish min taxi, multiple stations)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdF9kg3Gzh4HHbj9re7Qmiyy-fZMM79QP8v1fzZAJSrgIrcqkOGKFH4KMzUK2bRHw8U9cSGV9bHIZDe5S_4KlM-X6-ogGzUBHcFpyTp9P8T_xgkvUwevQ7TkDrqyYlv1_FauZRCoyaHgy9V4J12p-RdnGI?key=0pAbd304lP_oFpeWPE3Nfw)
+#### 7. The Droitwich Ring & Worcester & Birmingham
 
-https://www.shutterstock.com/image-photo/shackerstone-uk-april-11-2014-narrowboats-364610723
-
-7. The Droitwich Ring & Worcester & Birmingham\
-   Most canal ring routes can be completed over a week’s hire or longer, the [Droitwich ring](https://canalboatholidays.co.uk/routes/circular/droitwich-ring) (a.k.a Mid-Worcestershire ring) however can be completed over an active [weekend hire](https://canalboatholidays.co.uk/boat-hire/weekend-hire-and-short-breaks), and is by far the most popular short canal ring. From here you can also head into Birmingham travelling through pleasant countryside and tacking the thirty locks at Tardebigge.\
-   \
-   Canal boat holidays in general make for a relatively environmentally friendly holiday especially for those already in the UK with no flights required, and many options easily accessible by public transport but some hire bases. But 2 on the Droitwich Ring are taking this a step further. [Trinity Boats](https://www.trinityboats.co.uk/) and [Cafwin Cruises](https://www.cafwincruises.com/) each now have a hybrid electric narrowboat, with Trinity Boats [also running the fleet on HVO](https://fueloilnews.co.uk/2024/06/narrowboat-holiday-company-switches-to-hvo-after-dft-green-lights-subsidy/).\
-   \
-   Top rated hire bases in this area: [Trinity Boats](https://www.trinityboats.co.uk/) (Droitwich Spa Station - 6 min taxi. 19min bus (No. 19) + 28 min walk) and [Cafwin Cruises](https://www.cafwincruises.com/) (Droitwich Spa Station - 5 min taxi. 39 min walk)
+Most canal ring routes can be completed over a week’s hire or longer, the [Droitwich ring](https://canalboatholidays.co.uk/routes/circular/droitwich-ring) (a.k.a Mid-Worcestershire ring) however can be completed over an active [weekend hire](https://canalboatholidays.co.uk/boat-hire/weekend-hire-and-short-breaks), and is by far the most popular short canal ring. From here you can also head into Birmingham travelling through pleasant countryside and tacking the thirty locks at Tardebigge.\
+\
+Canal boat holidays in general make for a relatively environmentally friendly holiday especially for those already in the UK with no flights required, and many options easily accessible by public transport but some hire bases. But 2 on the Droitwich Ring are taking this a step further. [Trinity Boats](https://www.trinityboats.co.uk/) and [Cafwin Cruises](https://www.cafwincruises.com/) each now have a hybrid electric narrowboat, with Trinity Boats [also running the fleet on HVO](https://fueloilnews.co.uk/2024/06/narrowboat-holiday-company-switches-to-hvo-after-dft-green-lights-subsidy/).\
+\
+Top rated hire bases in this area: [Trinity Boats](https://www.trinityboats.co.uk/) (Droitwich Spa Station - 6 min taxi. 19min bus (No. 19) + 28 min walk) and [Cafwin Cruises](https://www.cafwincruises.com/) (Droitwich Spa Station - 5 min taxi. 39 min walk)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfucXVLYEtBH8nqMRU4FiR9dM2uh96La5IYaLexO8lWAR4azoe54zTf3g-YdyFGqI5Zm71bAggklpK3H1F7xyzVv160JcxKdHoX7ZB-rrREOGG0LTrAr1fiYGc8jiUvd6aGG9SrbDbtTEgysCsBhE4AXz9S?key=0pAbd304lP_oFpeWPE3Nfw)
 
