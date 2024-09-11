@@ -41,33 +41,32 @@ Top rated hire bases in this area:
 
 #### 2﻿. Kennet & Avon
 
-The Kennet & Avon passes through some of the UK’s most beautiful countryside. You’ll find a mixture of remote rural stretches, quaint towns and villages, the beautiful [Vale of Pewsey](https://www.visitpewseyvale.co.uk/) and the elegant [City of Bath](https://visitbath.co.uk/) and if you are feeling up to it the famous [Caen Hill Flight](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/caen-hill-locks) with its 29 locks.\
-   \
-   Top rated hire bases in this area:\
-   [Bloomsbury Boats](https://www.bloomsburyboats.co.uk/) (Bath Spa Station, 15 min walk + 15 min bus (No. 231)), [Foxhangers](https://www.foxhangers.co.uk/) (11 min taxi / 25 min walk + 21 min bus (No 273)), [Bath Canal Boat Co](https://www.bathcanalboats.co.uk/) (Bath Spa Station, 23 min walk)\
-   \
-   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUSM_r0vASLptCwpu4-s7uuoA5wq4BrrzPjZeUHIHSeyIsMVzzReJTbu_BVCvYs7ivOdMd6PC0stCfg_z-YNlY8G2t4A_V9PgiwTZmdh523ruKKsaL7c8muhcJkop-xgyTiR4bTzP9aUeSs3rp9Wjwc89w?key=0pAbd304lP_oFpeWPE3Nfw)\
-   Taken from https://flightfree.co.uk/travel_articles/top-ten-destinations-for-uk-holidays-out-of-the-way/\
-   \
+The Kennet & Avon passes through some of the UK’s most beautiful countryside. You’ll find a mixture of remote rural stretches, quaint towns and villages, the beautiful [Vale of Pewsey](https://www.visitpewseyvale.co.uk/) and the elegant [City of Bath](https://visitbath.co.uk/) and if you are feeling up to it the famous [Caen Hill Flight](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/caen-hill-locks) with its 29 locks.
 
-2.
-3. Yorkshire\
-   Spectacular scenery as you make your way up and potentially down the Pennine Waterways. With wide locks and steep hills, these routes can be hard work, but it will all be worth it when the day is done and you “cheers” and put a well earned drink to your lips at the end of the day in one of the [many canal side pubs](https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/10-fantastic-canal-and-navigation-side-pubs-in-yorkshire-4729010).\
-   \
-   Top rated hire bases in this area:\
-   [The Boat Co North](https://www.theboatconorth.co.uk/) (Leeds Station - 21 min walk), [Silsden Boats](https://www.anglowelsh.co.uk/locations/departure-points/silsden/) (Steeton & Silsden Station - 19 min walk), [Pennine Cruisers](https://www.penninecruisers.com/) (Skipton Station - 10 min walk)\
-   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcT0JZBz2zU7mKYyJduOqeqMaAhW6bPb0zPfHet64sZ94UBWpdCXooaQ3pBMZL7_1Lscm51X5kJJUXOXYeoAhbSVOdTJLdPqzi0xyYmJ6FThPk9RCeY5i-6-VcDjUKcxd3ddV3nSlpp6jsShi0WNZeWE3Y?key=0pAbd304lP_oFpeWPE3Nfw)\
-   <https://www.shutterstock.com/image-photo/five-rise-locks-bingley-leeds-liverpool-727515127>4. Grand Union Canal\
-   The longest canal in the UK at an impressive 137 miles, and with it plenty of choice for potential holiday routes, especially if you start near the junction with the Oxford canal. Blisworth & Braunston tunnels, [21 locks at Hatton](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/hatton-locks), Foxton Locks consisting of two “staircases” with five locks each, museums at [Stoke Bruerne](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions/the-canal-museum-stoke-bruerne) and [Foxton](https://www.foxtoncanalmuseum.org/) are just some of the highlights along this canal.\
-   \
-   Top rated hire bases in this area:\
-   [Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [Wyvern Shipping](https://canalholidays.co.uk/) (Leighton Buzzard - 19 min walk), [Grand Union Narrowboats](https://www.grandunionnarrowboats.co.uk/) (Northampton Station - 16 min taxi)\
-   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-mhgeOTQpSXIo8Fh4GOu8GbO0wh7hXK8MRBviXL1fIdlQNO4MSOSfDNnYVQY_FksY3ftX2U4EaUDN6R2mkQ6D7_6vS8Rg1-7GXHikjz6ZcXjeztnMOTWjTPVPQVlusKmlNXPywe4O9aoLomp9ngrErjE?key=0pAbd304lP_oFpeWPE3Nfw)\
-   <https://www.shutterstock.com/image-photo/blisworth-tunnel-canal-museum-stoke-bruerne-1316557496>5. Oxford Canals\
-   Narrow locks, twists and turns through remote countryside, with the occasional village, all make the Oxford Canal one of the most popular holiday destinations in the UK. This canal cuts through the English countryside at its best.\
-   \
-   Top rated hire bases in this area:\
-   [Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [College Cruisers](https://www.collegecruisers.com/) (Oxford Station - 12 min walk), [Napton Narrowboats](https://www.napton-marina.co.uk/) (Leamington Spa Station - 21 min taxi)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdCxIVH5MTmtIAkqzTzlS-Jw7mPw-w_4y2q9lgtM-rpsQ_2Rd4XOqV0pesYl0-SoAJghCDIL_-V2e0PD8180qBZVK2qh7g69gvOYi6OcMLuv-CBa7Ds7PrcLSR7z6wi3yoLmppXzdRPsjACdIMK5olc8DTM?key=0pAbd304lP_oFpeWPE3Nfw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHpASoyaRNxNB0oLtTMwj-POcQ8SsXYe4uSgk12ih6kYGIaM7ZO39GfVmG8dLSYuS5Oy99sg7rdpRDXs9NXxMYZBqZDHN7euG8lzA5wOBKK_t0Cupe3XVDNl8zMTPx5ArBaL90sHaO8nyPegMQs_esWsY?key=0pAbd304lP_oFpeWPE3Nfw)
+Top rated hire bases in this area:\
+[Bloomsbury Boats](https://www.bloomsburyboats.co.uk/) (Bath Spa Station, 15 min walk + 15 min bus (No. 231)), [Foxhangers](https://www.foxhangers.co.uk/) (11 min taxi / 25 min walk + 21 min bus (No 273)), [Bath Canal Boat Co](https://www.bathcanalboats.co.uk/) (Bath Spa Station, 23 min walk)
+
+![](/images/uploads/caen_hill_canva.jpg "Caen Hill locks, nr Devizes, Kennet and Avon canal")
+
+#### 3. Yorkshire
+
+Spectacular scenery as you make your way up and potentially down the Pennine Waterways. With wide locks and steep hills, these routes can be hard work, but it will all be worth it when the day is done and you “cheers” and put a well earned drink to your lips at the end of the day in one of the [many canal side pubs](https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/10-fantastic-canal-and-navigation-side-pubs-in-yorkshire-4729010).
+
+Top rated hire bases in this area:\
+[The Boat Co North](https://www.theboatconorth.co.uk/) (Leeds Station - 21 min walk), [Silsden Boats](https://www.anglowelsh.co.uk/locations/departure-points/silsden/) (Steeton & Silsden Station - 19 min walk), [Pennine Cruisers](https://www.penninecruisers.com/) (Skipton Station - 10 min walk
+
+4. Grand Union Canal
+
+The longest canal in the UK at an impressive 137 miles, and with it plenty of choice for potential holiday routes, especially if you start near the junction with the Oxford canal. Blisworth & Braunston tunnels, [21 locks at Hatton](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/hatton-locks), Foxton Locks consisting of two “staircases” with five locks each, museums at [Stoke Bruerne](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions/the-canal-museum-stoke-bruerne) and [Foxton](https://www.foxtoncanalmuseum.org/) are just some of the highlights along this canal.\
+\
+Top rated hire bases in this area:\
+[Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [Wyvern Shipping](https://canalholidays.co.uk/) (Leighton Buzzard - 19 min walk), [Grand Union Narrowboats](https://www.grandunionnarrowboats.co.uk/) (Northampton Station - 16 min taxi)\
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-mhgeOTQpSXIo8Fh4GOu8GbO0wh7hXK8MRBviXL1fIdlQNO4MSOSfDNnYVQY_FksY3ftX2U4EaUDN6R2mkQ6D7_6vS8Rg1-7GXHikjz6ZcXjeztnMOTWjTPVPQVlusKmlNXPywe4O9aoLomp9ngrErjE?key=0pAbd304lP_oFpeWPE3Nfw)\
+<https://www.shutterstock.com/image-photo/blisworth-tunnel-canal-museum-stoke-bruerne-1316557496>5. Oxford Canals\
+Narrow locks, twists and turns through remote countryside, with the occasional village, all make the Oxford Canal one of the most popular holiday destinations in the UK. This canal cuts through the English countryside at its best.\
+\
+Top rated hire bases in this area:\
+[Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [College Cruisers](https://www.collegecruisers.com/) (Oxford Station - 12 min walk), [Napton Narrowboats](https://www.napton-marina.co.uk/) (Leamington Spa Station - 21 min taxi)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdCxIVH5MTmtIAkqzTzlS-Jw7mPw-w_4y2q9lgtM-rpsQ_2Rd4XOqV0pesYl0-SoAJghCDIL_-V2e0PD8180qBZVK2qh7g69gvOYi6OcMLuv-CBa7Ds7PrcLSR7z6wi3yoLmppXzdRPsjACdIMK5olc8DTM?key=0pAbd304lP_oFpeWPE3Nfw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHpASoyaRNxNB0oLtTMwj-POcQ8SsXYe4uSgk12ih6kYGIaM7ZO39GfVmG8dLSYuS5Oy99sg7rdpRDXs9NXxMYZBqZDHN7euG8lzA5wOBKK_t0Cupe3XVDNl8zMTPx5ArBaL90sHaO8nyPegMQs_esWsY?key=0pAbd304lP_oFpeWPE3Nfw)
 
 <https://www.shutterstock.com/image-photo/view-towards-flight-locks-on-oxford-1736682182>6. Ashby\
 22 miles of tranquil lock-free cruising along this pretty canal which gently takes you through some beautiful countryside. You’ll pass through a few small villages such as Dadlington, Shenton, Sutton Cheney perhaps taking the time to visit a cafe, pub or the [Bosworth Battlefield Heritage Centre](https://www.bosworthbattlefield.org.uk/). Or just moor up in the middle of nowhere and relax.\
