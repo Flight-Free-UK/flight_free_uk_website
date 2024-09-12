@@ -34,11 +34,11 @@ As an added bonus [many train lines follow the course of canals](https://canalri
 
 ## England
 
-#### 1. Cheshire ring and Four Counties ring
+#### 1. Cheshire Ring and Four Counties Ring
 
 A varied mixture of rural landscapes as well as the odd bit of industrial heritage thrown in for good measure. Narrow locks, a range of attractions such as [Little Moreton Hall](https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/little-moreton-hall) or [Shugborough Estate](https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/shugborough-estate), and the fact that both routes can be completed in a two-week hire makes the [Cheshire Ring](https://canalboatholidays.co.uk/routes/circular/cheshire-ring) & [Four Counties Ring](https://canalboatholidays.co.uk/routes/circular/four-counties-ring) two of the most popular canal ring routes in the UK.
 
-![](/images/uploads/bridgewater-canal-castlefield_canva.jpg "Bridgewater canal in Castlefield, Manchester on the Cheshire ring")
+![](/images/uploads/bridgewater-canal-castlefield_canva.jpg "Bridgewater canal in Castlefield, Manchester on the Cheshire Ring")
 
 Of course you don’t need to complete the ring and there are a range of out-and-back routes that you could also do in this area, for example a [route along the Caldon Canal](https://www.canalcruising.co.uk/caldon-canal-boat-hire/).
 
@@ -107,16 +107,16 @@ Top rated hire bases in this area:
 * [Ashby Boat Co](https://ashbyboats.com/) (nearest station Hinckley, then 13 min walk + 26 min bus (No. 7A))
 * [Midland Mallard](https://midlandmallard.com/) (20 min taxi from Nuneaton station)
 
-#### 7. The Droitwich ring and Worcester & Birmingham canal
+#### 7. The Droitwich Ring and Worcester & Birmingham canal
 
-Most canal ring routes need a week or two to complete, but the [Droitwich ring](https://canalboatholidays.co.uk/routes/circular/droitwich-ring) (a.k.a Mid-Worcestershire ring) can be completed [in a weekend](https://canalboatholidays.co.uk/boat-hire/weekend-hire-and-short-breaks), and is by far the most popular short canal ring. 
+Most canal ring routes need a week or two to complete, but the [Droitwich Ring](https://canalboatholidays.co.uk/routes/circular/droitwich-ring) can be completed [in a weekend](https://canalboatholidays.co.uk/boat-hire/weekend-hire-and-short-breaks), and is by far the most popular short canal ring. 
 
 From here you can also head into Birmingham travelling through pleasant countryside and tackling the thirty locks at Tardebigge.
 
 Top rated hire bases in this area: 
 
 * [Trinity Boats](https://www.trinityboats.co.uk/) (nearest station Droitwich Spa, then 20 min bus (no. 19) + 20 min walk, or 10 min taxi)
-* [Cafwin Cruises](https://www.cafwincruises.com/) (40 min walk from Droitwich Spa station, or 10 min taxi)
+* [Cafwin Cruises](https://www.cafwincruises.com/) (40 min walk from Droitwich Spa station along the canal, or 10 min taxi)
 
 ## Wales
 
@@ -130,7 +130,7 @@ Top rated hire bases in this area:
 
 * [Drifting Wood Canal Breaks](https://www.driftingwood.co.uk/) (5 min taxi from Whitchurch station)
 * [Marine Cruises](https://marinecruises.co.uk/) (7 min taxi from Nantwich station)
-* [Crest Narrowboats](https://crestnarrowboats.co.uk/) (6 min taxi from Chirk Station)
+* [Crest Narrowboats](https://crestnarrowboats.co.uk/) (6 min taxi from Chirk station)
 
 #### 9﻿. Monmouthshire & Brecon canal
 
@@ -155,7 +155,7 @@ Top rated hire bases in this area:
 
 A canal boat holiday in Scotland will start near Falkirk and [the Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel), the world’s only rotating boat lift and one of the UK’s most impressive pieces of canal infrastructure. From here you can travel to the historical cities of Edinburgh along the Union canal, and Glasgow, along the Forth and Clyde canal.
 
-I﻿t’s slightly different to most other holiday canals in the UK as all the locks and bridges are managed by staff and volunteers, so it’s a great option if you would like to experience them but would rather avoid all that effort. 
+All the locks and bridges here are managed by staff and volunteers, so it’s a great option if you would like to experience them but would rather avoid all that effort. 
 
 Top rated hire bases in this area: 
 
@@ -167,7 +167,9 @@ Top rated hire bases in this area:
 
 Prices range between £600 and £3000 for a week’s hire, depending on time of year and quantity of people onboard. You can find a breakdown of [narrowboat hire prices here](https://canalboatholidays.co.uk/how-much-does-it-cost). 
 
-B﻿eyond the hire cost you can spend as much or as little as you like, using the onboard galley for cooking meals and visiting the free attractions along the way, or treating yourself to a meal out every night in the many places you'll be travelling through. 
+B﻿eyond the hire cost you can spend as much or as little as you like, using the onboard galley for cooking meals, and visiting the free attractions along the way, or treating yourself to a meal out every night in the many places you'll be travelling through. 
+
+## W﻿alk, cycle, Stand-Up Paddleboard, kayak... 
 
 Of course, you don’t need to book a canal boat holiday to enjoy the canal network. There are 1000s of miles of towpath that can be explored on foot or by bike. You could walk across the Pontcysyllte Aqueduct, [visit one of the museums](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions), sit in the cafe and watch the Falkirk Wheel turn, or even take a [canoe trip through the UK's longest canal tunnel](https://www.theguardian.com/business/article/2024/jun/13/history-engineering-and-darkness-set-pulses-racing-on-a-paddle-under-the-pennines).
 
