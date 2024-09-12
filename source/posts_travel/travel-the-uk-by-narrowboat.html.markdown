@@ -22,7 +22,7 @@ Perhaps you’ll even find the time to read a book, but that’s not to say ther
 
 Don’t worry, if you’ve never even seen a lock before, it’s all part of the experience. [Beginners are absolutely welcome](https://canalboatholidays.co.uk/canal-boat-holidays-for-beginners) and you’ll be given a comprehensive handover showing you the details of your particular narrowboat, how to operate a lock or lift/swing bridge, and you’ll be taken for a short-cruise as you get to grips with steering the boat. If you choose your first hire base well, you can also be taken through your first locks as part of the handover, so that you have full confidence for the rest that awaits you.
 
-Canal boat holidays in general make for a relatively environmentally-friendly holiday, but some hire bases are taking this a step further. [Trinity Boats](https://www.trinityboats.co.uk/) and [Cafwin Cruises](https://www.cafwincruises.com/) on the Droitwich Ring (no.7, below) have a hybrid electric narrowboat, with Trinity Boats [also running the fleet on HVO](https://fueloilnews.co.uk/2024/06/narrowboat-holiday-company-switches-to-hvo-after-dft-green-lights-subsidy/).
+Canal boat holidays in general make for a relatively environmentally-friendly holiday, but some hire bases are taking this a step further. [Trinity Boats](https://www.trinityboats.co.uk/) and [Cafwin Cruises](https://www.cafwincruises.com/) on the Droitwich Ring (no.7, below) have a hybrid electric narrowboat, with Trinity Boats [also running the fleet on HVO](https://fueloilnews.co.uk/2024/06/narrowboat-holiday-company-switches-to-hvo-after-dft-green-lights-subsidy/).  [Castle Narrowboats](https://www.castlenarrowboats.co.uk/) on the Monmouthshire & Brecon canal (no.9, below), have fully electric boats for hire.
 
 As an added bonus [many train lines follow the course of canals](https://canalrivertrust.org.uk/boating/boating-news-and-views/boating-blogs/full-steam-ahead). This means that there are plenty of holiday hire bases easily accessible via public transport.
 
@@ -124,11 +124,18 @@ Top rated hire bases in this area:
 
 #### 9﻿. Monmouthshire & Brecon canal
 
-The Mon & Brec passes through the [Brecon Beacons National Park](https://www.breconbeacons.org/) and is possibly one of the most picturesque canals in the UK. Not connected to the main canal network and so doesn’t get quite as busy as the Llangollen in North Wales. With just 6 locks, 5 of which are grouped together, it makes a fantastic relaxed cruise, especially for those who perhaps don’t have the mobility they once had and would prefer to gently cruise along, rather than jump on and off the boat to work an endless stream of canal locks.
+The Mon & Brec passes through the [Brecon Beacons National Park](https://www.breconbeacons.org/) and is possibly one of the most picturesque canals in the UK. As it is not connected to the main canal network, it doesn’t get quite as busy as the Llangollen in North Wales. 
 
-The Mon & Brec is also one of the only canals with electric charging points along its length, that means if you choose a hire base with fully electric boats such as [Castle Narrowboats](https://www.castlenarrowboats.co.uk/) you can make what is already a relatively environmentally friendly holiday even more so.
+With just six locks, five of which are grouped together, it makes a fantastic relaxed cruise, especially for those who would prefer to gently cruise along rather than jump on and off the boat to work an endless stream of locks.
 
-Top rated hire bases in this area: [Brecon Park Boats](https://beaconparkboats.com/) (Abergavenny Station - 16 min taxi), [Road House Narrowboats](https://www.narrowboats-wales.co.uk/)  (Abergavenny Station - 8 min taxi), [Cambrian Cruisers](https://www.cambriancruisers.co.uk/)(Abergavenny Station - 34 min taxi), Castle Narrowboats (Abergavenny Station - 16 min taxi)
+The Mon & Brec is also one of the only canals with electric charging points along its length, which means that if you choose a hire base with fully electric boats such as [Castle Narrowboats](https://www.castlenarrowboats.co.uk/) you can make what is already a low-carbon holiday even more so.
+
+Top rated hire bases in this area: 
+
+* [Brecon Park Boats](https://beaconparkboats.com/) (16 min taxi from Abergavenny station)
+* [Road House Narrowboats](https://www.narrowboats-wales.co.uk/) (8 min taxi from Abergavenny)
+* [Cambrian Cruisers](https://www.cambriancruisers.co.uk/) (35 min taxi from Abergavenny)
+* [Castle Narrowboats](https://www.castlenarrowboats.co.uk/) (16 min taxi from Abergavenny)
 
 ## Scotland
 
