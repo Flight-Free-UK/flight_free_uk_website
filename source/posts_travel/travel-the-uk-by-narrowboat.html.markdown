@@ -22,6 +22,8 @@ Perhaps you’ll even find the time to read a book, but that’s not to say ther
 
 Don’t worry, if you’ve never even seen a lock before, it’s all part of the experience. [Beginners are absolutely welcome](https://canalboatholidays.co.uk/canal-boat-holidays-for-beginners) and you’ll be given a comprehensive handover showing you the details of your particular narrowboat, how to operate a lock or lift/swing bridge, and you’ll be taken for a short-cruise as you get to grips with steering the boat. If you choose your first hire base well, you can also be taken through your first locks as part of the handover, so that you have full confidence for the rest that awaits you.
 
+Canal boat holidays in general make for a relatively environmentally-friendly holiday, but some hire bases are taking this a step further. [Trinity Boats](https://www.trinityboats.co.uk/) and [Cafwin Cruises](https://www.cafwincruises.com/) on the Droitwich Ring (no.7, below) have a hybrid electric narrowboat, with Trinity Boats [also running the fleet on HVO](https://fueloilnews.co.uk/2024/06/narrowboat-holiday-company-switches-to-hvo-after-dft-green-lights-subsidy/).
+
 As an added bonus [many train lines follow the course of canals](https://canalrivertrust.org.uk/boating/boating-news-and-views/boating-blogs/full-steam-ahead). This means that there are plenty of holiday hire bases easily accessible via public transport.
 
 ## Top 10 Canal Boat Holiday Destinations
@@ -97,11 +99,11 @@ Top rated hire bases in this area:
 * [Ashby Boat Co](https://ashbyboats.com/) (nearest station Hinckley, then 13 min walk + 26 min bus (No. 7A))
 * [Midland Mallard](https://midlandmallard.com/) (20 min taxi from Nuneaton station)
 
-#### 7. The Droitwich Ring and Worcester & Birmingham canal
+#### 7. The Droitwich ring and Worcester & Birmingham canal
 
-Most canal ring routes can be completed over a week’s hire or longer, the [Droitwich ring](https://canalboatholidays.co.uk/routes/circular/droitwich-ring) (a.k.a Mid-Worcestershire ring) however can be completed over an active [weekend hire](https://canalboatholidays.co.uk/boat-hire/weekend-hire-and-short-breaks), and is by far the most popular short canal ring. From here you can also head into Birmingham travelling through pleasant countryside and tacking the thirty locks at Tardebigge.
+Most canal ring routes need a week or two to complete, but the [Droitwich ring](https://canalboatholidays.co.uk/routes/circular/droitwich-ring) (a.k.a Mid-Worcestershire ring) can be completed [in a weekend](https://canalboatholidays.co.uk/boat-hire/weekend-hire-and-short-breaks), and is by far the most popular short canal ring. 
 
-Canal boat holidays in general make for a relatively environmentally friendly holiday especially for those already in the UK with no flights required, and many options easily accessible by public transport but some hire bases. But 2 on the Droitwich Ring are taking this a step further. [Trinity Boats](https://www.trinityboats.co.uk/) and [Cafwin Cruises](https://www.cafwincruises.com/) each now have a hybrid electric narrowboat, with Trinity Boats [also running the fleet on HVO](https://fueloilnews.co.uk/2024/06/narrowboat-holiday-company-switches-to-hvo-after-dft-green-lights-subsidy/).
+From here you can also head into Birmingham travelling through pleasant countryside and tackling the thirty locks at Tardebigge.
 
 Top rated hire bases in this area: [Trinity Boats](https://www.trinityboats.co.uk/) (Droitwich Spa Station - 6 min taxi. 19min bus (No. 19) + 28 min walk) and [Cafwin Cruises](https://www.cafwincruises.com/) (Droitwich Spa Station - 5 min taxi. 39 min walk)
 
