@@ -43,10 +43,14 @@ Top rated hire bases in this area:
 
 #### 2﻿. Kennet & Avon canal
 
-The Kennet & Avon passes through some of the UK’s most beautiful countryside. You’ll find a mixture of remote rural stretches, quaint towns and villages, the beautiful [Vale of Pewsey](https://www.visitpewseyvale.co.uk/) and the elegant [City of Bath](https://visitbath.co.uk/) and if you are feeling up to it the famous [Caen Hill Flight](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/caen-hill-locks) with its 29 locks.
+The Kennet & Avon passes through some of the UK’s most beautiful countryside. You’ll find a mixture of remote rural stretches, tiny villages and buzzing towns, the beautiful [Vale of Pewsey](https://www.visitpewseyvale.co.uk/)t﻿he impressive Avon gorge, and the elegant [City of Bath](https://visitbath.co.uk/).
 
-Top rated hire bases in this area:\
-[Bloomsbury Boats](https://www.bloomsburyboats.co.uk/) (Bath Spa Station, 15 min walk + 15 min bus (No. 231)), [Foxhangers](https://www.foxhangers.co.uk/) (11 min taxi / 25 min walk + 21 min bus (No 273)), [Bath Canal Boat Co](https://www.bathcanalboats.co.uk/) (Bath Spa Station, 23 min walk)
+If you are feeling up to it, there is the famous [Caen Hill Flight](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/caen-hill-locks) with its 29 locks!
+
+Top rated hire bases in this area:
+
+* [Bloomsbury Boats](https://www.bloomsburyboats.co.uk/) (15 min walk + 15 min bus (no. 231) from Bath Spa Station)
+* [Bath Canal Boat Co](https://www.bathcanalboats.co.uk/) (23 min walk from Bath Spa Station)
 
 ![](/images/uploads/caen_hill_canva.jpg "Caen Hill locks, nr Devizes, Kennet and Avon canal")
 
