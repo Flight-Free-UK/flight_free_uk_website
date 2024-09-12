@@ -37,9 +37,9 @@ Of course you don’t need to complete the ring and there are a range of out-and
 Top rated hire bases in this area:
 
 * [Andersen Boats](https://www.andersenboats.com/) (closest station Winsford, then a 10-minute bus ride on the no. 37 bus)
-*  [Canal Cruising](https://www.canalcruising.co.uk/) (13 min walk from Stone station)
-*  [Chas Hardern Boats](https://www.chashardern.co.uk/) (closest station Chester, then a 30-min bus ride on the no. 84 + 25 min walk, or 35 min taxi)
-*  [Heritage Narrowboats](https://heritagenarrowboats.co.uk/) (12 min taxi from Kidsgrove Station)
+* [Canal Cruising](https://www.canalcruising.co.uk/) (13 min walk from Stone station)
+* [Chas Hardern Boats](https://www.chashardern.co.uk/) (closest station Chester, then a 30-min bus ride on the no. 84 + 25 min walk, or 35 min taxi)
+* [Heritage Narrowboats](https://heritagenarrowboats.co.uk/) (12 min taxi from Kidsgrove station)
 
 #### 2﻿. Kennet & Avon canal
 
@@ -49,8 +49,8 @@ If you are feeling up to it, there is the famous [Caen Hill Flight](https://cana
 
 Top rated hire bases in this area:
 
-* [Bloomsbury Boats](https://www.bloomsburyboats.co.uk/) (15 min walk + 15 min bus (no. 231) from Bath Spa Station)
-* [Bath Canal Boat Co](https://www.bathcanalboats.co.uk/) (23 min walk from Bath Spa Station)
+* [Bloomsbury Boats](https://www.bloomsburyboats.co.uk/) (15 min walk + 15 min bus (no. 231) from Bath Spa station)
+* [Bath Canal Boat Co](https://www.bathcanalboats.co.uk/) (23 min walk from Bath Spa station)
 
 ![](/images/uploads/caen_hill_canva.jpg "Caen Hill locks, nr Devizes, Kennet and Avon canal")
 
@@ -62,17 +62,21 @@ With wide locks and steep hills, these routes can be hard work, but it will all 
 
 Top rated hire bases in this area:
 
-* [The Boat Co North](https://www.theboatconorth.co.uk/) (20 min walk from Leeds Station)
-* [Silsden Boats](https://www.anglowelsh.co.uk/locations/departure-points/silsden/) (19 min walk from Steeton & Silsden Station)
-* [Pennine Cruisers](https://www.penninecruisers.com/) (10 min walk from Skipton Station)
+* [The Boat Co North](https://www.theboatconorth.co.uk/) (20 min walk from Leeds station)
+* [Silsden Boats](https://www.anglowelsh.co.uk/locations/departure-points/silsden/) (19 min walk from Steeton & Silsden station)
+* [Pennine Cruisers](https://www.penninecruisers.com/) (10 min walk from Skipton station)
 
 #### 4﻿. Grand Union canal
 
-The longest canal in the UK at an impressive 137 miles, and with it plenty of choice for potential holiday routes, especially if you start near the junction with the Oxford canal. Blisworth & Braunston tunnels, [21 locks at Hatton](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/hatton-locks), Foxton Locks consisting of two “staircases” with five locks each, museums at [Stoke Bruerne](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions/the-canal-museum-stoke-bruerne) and [Foxton](https://www.foxtoncanalmuseum.org/) are just some of the highlights along this canal.
+The longest canal in the UK at an impressive 137 miles, the Grand Union canal brings plenty of choice for potential holiday routes, especially if you start near the junction with the Oxford canal. 
+
+H﻿ighlights include the Blisworth and Braunston tunnels, the[21 locks at Hatton](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/hatton-locks), [Foxton Locks and boat lift,](https://www.foxtoncanalmuseum.org/) a﻿nd the museum at [Stoke Bruerne](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions/the-canal-museum-stoke-bruerne).
 
 Top rated hire bases in this area:
 
-[Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [Wyvern Shipping](https://canalholidays.co.uk/) (Leighton Buzzard - 19 min walk), [Grand Union Narrowboats](https://www.grandunionnarrowboats.co.uk/) (Northampton Station - 16 min taxi)
+* [Union Canal Carriers, Braunston](https://unioncanalcarriers.co.uk/) (20 min taxi from Rugby station) 
+* [Wyvern Shipping](https://canalholidays.co.uk/) (19 min walk from Leighton Buzzard station)
+* [Grand Union Narrowboats](https://www.grandunionnarrowboats.co.uk/) (15 min taxi from Northampton station)
 
 #### 5. Oxford canals
 
