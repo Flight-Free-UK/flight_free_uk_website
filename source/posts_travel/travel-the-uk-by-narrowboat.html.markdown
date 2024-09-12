@@ -149,10 +149,12 @@ Top rated hire bases in this area:
 
 * [Marine Cruises](https://marinecruises.co.uk/falkirk-marina.htm) (23 min bus (no. 7 or 8) from Falkirk station, or 30 min walk / 8 min taxi from Camelon station)
 
-#### How much will it cost?
+## How much will it cost?
 
 If you plan to hire a narrowboat, prices start at ~£600 for a week's hire. It does however depend on the time of year and quantity of people onboard, you can find a breakdown of [narrowboat hire prices here](https://canalboatholidays.co.uk/how-much-does-it-cost). Remember, you don’t need to bring a fortune in spending money for a get away on a canal boat, it can be as affordable or as expensive as you make it. There can be plenty of free attractions along the canal to visit, such as nature reserves, parks and museums. Cooking facilities are provided onboard and the journey itself, [planning where to go](https://canalboatholidays.co.uk/route-planner), working locks and operating bridges can provide a lot of entertainment.
 
 Of course you don’t necessarily need to book a canal boat holiday to enjoy the canals, they are open to the public with 1000’s of miles of towpath that can be explored on foot. You could for example walk across the Pontcysyllte Aqueduct, [visit one of the museums](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions), sit in the cafe and watch the Falkirk Wheel turn, or even take a [canoe trip through the longest UK canal tunnel](https://www.theguardian.com/business/article/2024/jun/13/history-engineering-and-darkness-set-pulses-racing-on-a-paddle-under-the-pennines).
 
-They are there for us to enjoy, so if you don’t already know, why not [find your local canal](https://canalrivertrust.org.uk/local-to-you) and have a wonder along the towpath.
+They are there for us to enjoy, so if you don’t already know, why not [find your local canal](https://canalrivertrust.org.uk/local-to-you) and have a wander along the towpath.
+
+*A﻿rticle written by James Anelay from [Roam&Roost Canal Boat Holidays](https://canalboatholidays.co.uk/)*
