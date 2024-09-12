@@ -68,9 +68,9 @@ Top rated hire bases in this area:
 
 #### 4﻿. Grand Union canal
 
-The longest canal in the UK at an impressive 137 miles, the Grand Union canal brings plenty of choice for potential holiday routes, especially if you start near the junction with the Oxford canal. 
+The longest canal in the UK at an impressive 137 miles, the Grand Union canal brings plenty of choice for potential holiday routes, especially if you start near the junction with the Oxford canal (just south of Rugby).
 
-H﻿ighlights include the Blisworth and Braunston tunnels, the[21 locks at Hatton](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/hatton-locks), [Foxton Locks and boat lift,](https://www.foxtoncanalmuseum.org/) a﻿nd the museum at [Stoke Bruerne](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions/the-canal-museum-stoke-bruerne).
+H﻿ighlights include the Blisworth and Braunston tunnels, the [21 locks at Hatton](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/hatton-locks), [Foxton Locks and boat lift,](https://www.foxtoncanalmuseum.org/) a﻿nd the museum at [Stoke Bruerne](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions/the-canal-museum-stoke-bruerne).
 
 Top rated hire bases in this area:
 
