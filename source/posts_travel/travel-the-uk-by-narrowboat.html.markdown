@@ -28,7 +28,7 @@ As an added bonus [many train lines follow the course of canals](https://canalri
 
 ## Top 10 Canal Boat Holiday Destinations
 
-#### England
+## England
 
 #### 1. Cheshire ring and Four Counties ring
 
@@ -114,9 +114,13 @@ Top rated hire bases in this area:
 
 #### 8﻿. Llangollen canal
 
-The Llangollen canal is surely the most famous holiday canal, chances are you’ve seen the world famous Pontcysyllte Aqueduct on the TV, known as the stream in the sky, and offering fabulous views over the Dee Valley. You’ll find lovely stretches of open countryside, impressive canal infrastructure, narrow locks and the occasional canal side pub.
+The Llangollen canal is surely the most famous holiday canal – chances are you’ve seen the world-famous Pontcysyllte Aqueduct on the TV, known as the stream in the sky, and offering fabulous views over the Dee Valley. You’ll find lovely stretches of open countryside, impressive canal infrastructure, narrow locks and the occasional canalside pub.
 
-Top rated hire bases in this area: [Chas Hardern Boats](https://www.chashardern.co.uk/) (Chester station - 35 min taxi / 29 min bus (No. 84) + 25 min walk) , [Drifting Wood Canal Breaks](https://www.driftingwood.co.uk/) (Whitchurch station - 5 min taxi), [Marine Cruises](https://marinecruises.co.uk/) (Nantwich - 7 min taxi), [Crest Narrowboats](https://crestnarrowboats.co.uk/) (Chirk Station - 6 min taxi)
+Top rated hire bases in this area:
+
+* [Drifting Wood Canal Breaks](https://www.driftingwood.co.uk/) (5 min taxi from Whitchurch station)
+* [Marine Cruises](https://marinecruises.co.uk/) (7 min taxi from Nantwich station)
+* [Crest Narrowboats](https://crestnarrowboats.co.uk/) (6 min taxi from Chirk Station)
 
 #### 9﻿. Monmouthshire & Brecon canal
 
