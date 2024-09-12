@@ -56,7 +56,7 @@ Top rated hire bases in this area:
 
 #### 3. Yorkshire
 
-Spectacular scenery as you make your way up and potentially down the Pennine Waterways. With wide locks and steep hills, these routes can be hard work, but it will all be worth it when the day is done and you “cheers” and put a well earned drink to your lips at the end of the day in one of the [many canal side pubs](https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/10-fantastic-canal-and-navigation-side-pubs-in-yorkshire-4729010).
+Spectacular scenery as you make your way up and potentially down the Pennine Waterways. With wide locks and steep hills, these routes can be hard work, but it will all be worth it when the day is done and you put a well-earned drink to your lips in one of the [many canal side pubs](https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/10-fantastic-canal-and-navigation-side-pubs-in-yorkshire-4729010).
 
 Top rated hire bases in this area:
 
