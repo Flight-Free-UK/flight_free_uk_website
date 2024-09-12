@@ -139,13 +139,15 @@ Top rated hire bases in this area:
 
 ## Scotland
 
-#### 1﻿0. Forth & Clyde canal, and Union canal
+#### 1﻿0. Forth & Clyde canal and Union canal
 
-A canal boat holiday in Scotland will start near Falkirk and [The Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel), the world’s only rotating boat lift and one of the UK’s most impressive pieces of canal infrastructure. From here you can travel to the historical cities of Edinburgh, along the Union canal, and Glasgow, along the Forth and Clyde canal.
+A canal boat holiday in Scotland will start near Falkirk and [the Falkirk Wheel](https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel), the world’s only rotating boat lift and one of the UK’s most impressive pieces of canal infrastructure. From here you can travel to the historical cities of Edinburgh along the Union canal, and Glasgow, along the Forth and Clyde canal.
 
-Slightly different to most other holiday canals in the UK as all the locks and bridges are managed by staff, so a great option if you would like to experience them but would rather avoid all that effort. 
+I﻿t’s slightly different to most other holiday canals in the UK as all the locks and bridges are managed by staff and volunteers, so it’s a great option if you would like to experience them but would rather avoid all that effort. 
 
-Top rated hire bases in this area: [Marine Cruises](https://marinecruises.co.uk/falkirk-marina.htm) (Camelon - 5 min taxi
+Top rated hire bases in this area: 
+
+* [Marine Cruises](https://marinecruises.co.uk/falkirk-marina.htm) (23 min bus (no. 7 or 8) from Falkirk station, or 30 min walk / 8 min taxi from Camelon station)
 
 #### How much will it cost?
 
