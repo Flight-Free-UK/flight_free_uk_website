@@ -54,13 +54,17 @@ Top rated hire bases in this area:
 
 ![](/images/uploads/caen_hill_canva.jpg "Caen Hill locks, nr Devizes, Kennet and Avon canal")
 
-#### 3. Yorkshire
+#### 3. Yorkshire navigations
 
-Spectacular scenery as you make your way up and potentially down the Pennine Waterways. With wide locks and steep hills, these routes can be hard work, but it will all be worth it when the day is done and you put a well-earned drink to your lips in one of the [many canal side pubs](https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/10-fantastic-canal-and-navigation-side-pubs-in-yorkshire-4729010).
+Spectacular scenery as you make your way up and down the Pennine waterways, with the Leeds & Liverpool canal offering a gateway to the North York moors, the River Ouse taking you through historic York, and the South Yorkshire Navigations winding through city and countryside to Sheffield.
+
+With wide locks and steep hills, these routes can be hard work, but it will all be worth it when the day is done and you put a well-earned drink to your lips in one of the [many canal side pubs](https://www.yorkshireeveningpost.co.uk/lifestyle/food-and-drink/10-fantastic-canal-and-navigation-side-pubs-in-yorkshire-4729010).
 
 Top rated hire bases in this area:
 
-[The Boat Co North](https://www.theboatconorth.co.uk/) (Leeds Station - 21 min walk), [Silsden Boats](https://www.anglowelsh.co.uk/locations/departure-points/silsden/) (Steeton & Silsden Station - 19 min walk), [Pennine Cruisers](https://www.penninecruisers.com/) (Skipton Station - 10 min walk
+* [The Boat Co North](https://www.theboatconorth.co.uk/) (20 min walk from Leeds Station)
+* [Silsden Boats](https://www.anglowelsh.co.uk/locations/departure-points/silsden/) (19 min walk from Steeton & Silsden Station)
+* [Pennine Cruisers](https://www.penninecruisers.com/) (10 min walk from Skipton Station)
 
 #### 4﻿. Grand Union canal
 
