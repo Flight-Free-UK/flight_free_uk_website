@@ -105,7 +105,10 @@ Most canal ring routes need a week or two to complete, but the [Droitwich ring](
 
 From here you can also head into Birmingham travelling through pleasant countryside and tackling the thirty locks at Tardebigge.
 
-Top rated hire bases in this area: [Trinity Boats](https://www.trinityboats.co.uk/) (Droitwich Spa Station - 6 min taxi. 19min bus (No. 19) + 28 min walk) and [Cafwin Cruises](https://www.cafwincruises.com/) (Droitwich Spa Station - 5 min taxi. 39 min walk)
+Top rated hire bases in this area: 
+
+* [Trinity Boats](https://www.trinityboats.co.uk/) (nearest station Droitwich Spa, then 20 min bus (no. 19) + 20 min walk, or 10 min taxi)
+* [Cafwin Cruises](https://www.cafwincruises.com/) (40 min walk from Droitwich Spa station, or 10 min taxi)
 
 ## Wales
 
