@@ -90,9 +90,12 @@ Top rated hire bases in this area:
 
 #### 6. Ashby canal
 
-22 miles of tranquil lock-free cruising along this pretty canal which gently takes you through some beautiful countryside. You’ll pass through a few small villages such as Dadlington, Shenton, Sutton Cheney perhaps taking the time to visit a cafe, pub or the [Bosworth Battlefield Heritage Centre](https://www.bosworthbattlefield.org.uk/). Or just moor up in the middle of nowhere and relax.
+22 miles of tranquil lock-free cruising along this pretty canal which gently takes you through some beautiful countryside. You’ll pass through a few small villages such as Dadlington, Shenton, Sutton Cheney, perhaps taking the time to visit a cafe, pub or the [Bosworth Battlefield Heritage Centre](https://www.bosworthbattlefield.org.uk/). Or just moor up in the middle of nowhere and relax.
 
-Top rated hire bases in this area: [Ashby Boat Co](https://ashbyboats.com/) (Hinckley Station - 13 min walk + 26 min bus (No. 7A), [Midland Mallard](https://midlandmallard.com/) (20ish min taxi, multiple stations)
+Top rated hire bases in this area: 
+
+* [Ashby Boat Co](https://ashbyboats.com/) (nearest station Hinckley, then 13 min walk + 26 min bus (No. 7A))
+* [Midland Mallard](https://midlandmallard.com/) (20 min taxi from Nuneaton station)
 
 #### 7. The Droitwich Ring and Worcester & Birmingham canal
 
