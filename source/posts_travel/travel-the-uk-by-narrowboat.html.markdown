@@ -43,7 +43,7 @@ Top rated hire bases in this area:
 
 #### 2﻿. Kennet & Avon canal
 
-The Kennet & Avon passes through some of the UK’s most beautiful countryside. You’ll find a mixture of remote rural stretches, tiny villages and buzzing towns, the beautiful [Vale of Pewsey](https://www.visitpewseyvale.co.uk/)t﻿he impressive Avon gorge, and the elegant [City of Bath](https://visitbath.co.uk/).
+The Kennet & Avon passes through some of the UK’s most beautiful countryside. You’ll find a mixture of remote rural stretches, tiny villages and buzzing towns, the beautiful [Vale of Pewsey](https://www.visitpewseyvale.co.uk/), t﻿he impressive Avon gorge, and the elegant [City of Bath](https://visitbath.co.uk/).
 
 If you are feeling up to it, there is the famous [Caen Hill Flight](https://canalrivertrust.org.uk/canals-and-rivers/places-to-visit/caen-hill-locks) with its 29 locks!
 
@@ -78,13 +78,15 @@ Top rated hire bases in this area:
 * [Wyvern Shipping](https://canalholidays.co.uk/) (19 min walk from Leighton Buzzard station)
 * [Grand Union Narrowboats](https://www.grandunionnarrowboats.co.uk/) (15 min taxi from Northampton station)
 
-#### 5. Oxford canals
+#### 5. Oxford canal
 
-Narrow locks, twists and turns through remote countryside, with the occasional village, all make the Oxford Canal one of the most popular holiday destinations in the UK. This canal cuts through the English countryside at its best.
+Narrow locks, twists and turns through remote countryside, and the occasional village, all make the Oxford canal a fantastic and popular holiday destination. This canal cuts through the English countryside at its best, heading north from Oxford and through Banbury, joining the Grand Union canal just south of Rugby.
 
 Top rated hire bases in this area:
 
-[Union Canal Carriers](https://unioncanalcarriers.co.uk/) (Rugby Station - 19 min taxi), [College Cruisers](https://www.collegecruisers.com/) (Oxford Station - 12 min walk), [Napton Narrowboats](https://www.napton-marina.co.uk/) (Leamington Spa Station - 21 min taxi)
+* [Union Canal Carriers](https://unioncanalcarriers.co.uk/) (20 min taxi from Rugby station) 
+* [College Cruisers](https://www.collegecruisers.com/) (12 min walk from Oxford station)
+* [Napton Narrowboats](https://www.napton-marina.co.uk/) (20 min taxi from Leamington Spa station)
 
 #### 6. Ashby canal
 
