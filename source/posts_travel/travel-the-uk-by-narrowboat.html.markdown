@@ -16,28 +16,30 @@ With busy lives and the option to travel at 575mph on a plane to some far off la
 
 But as you cruise along at slightly under walking pace, you’ll be able to appreciate the beauty that is on the doorstep for many of us, but is easily missed in the day to day business (and busyness!) of life. 
 
-The glimpse of a heron patiently waiting for his next meal, a flash of electric blue that you are pretty sure is your first ever kingfisher, and the realisation that the shallow ditch on which you now reside [was dug out 100’s of years ago](https://cruisingthecut.co.uk/2024/02/23/a-quick-history-of-the-canals/) by hand, using pickaxes, shovels and dynamite. 
+The glimpse of a heron patiently waiting for his next meal, a flash of electric blue that you are pretty sure is your first ever kingfisher, and the realisation that the shallow ditch on which you now reside [was dug out 100s of years ago](https://cruisingthecut.co.uk/2024/02/23/a-quick-history-of-the-canals/) by hand, using pickaxes, shovels and dynamite. 
 
 Perhaps you’ll even find the time to read a book, but that’s not to say there is nothing to do, quite the contrary. On a [narrowboat holiday](https://canalboatholidays.co.uk) you’re always en-route somewhere: possibly [the worlds tallest canal aqueduct](https://www.pontcysyllte-aqueduct.co.uk/), or a nature reserve, or perhaps a lovely pub for the night.
 
-A narrowboat is more than just your accommodation, it provides much of the entertainment and transportation as well. 
-
 Don’t worry, if you’ve never even seen a lock before, it’s all part of the experience. [Beginners are absolutely welcome](https://canalboatholidays.co.uk/canal-boat-holidays-for-beginners) and you’ll be given a comprehensive handover showing you the details of your particular narrowboat, how to operate a lock or lift/swing bridge, and you’ll be taken for a short-cruise as you get to grips with steering the boat. If you choose your first hire base well, you can also be taken through your first locks as part of the handover, so that you have full confidence for the rest that awaits you.
 
-As an added bonus [many train lines follow the course of canals](https://canalrivertrust.org.uk/boating/boating-news-and-views/boating-blogs/full-steam-ahead). This means that there are plenty of holiday hire bases easily accessible via public transport, particularly trains.
+As an added bonus [many train lines follow the course of canals](https://canalrivertrust.org.uk/boating/boating-news-and-views/boating-blogs/full-steam-ahead). This means that there are plenty of holiday hire bases easily accessible via public transport.
 
 ## Top 10 Canal Boat Holiday Destinations
 
 #### England
 
-#### 1. Cheshire Ring and Four Counties Ring
+#### 1. Cheshire ring and Four Counties ring
 
-A varied mixture of rural landscapes as well as the odd bit of industrial heritage thrown in for good measure.  Narrow locks, a range of attractions to visit along the way, such as [Little Moreton Hall](https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/little-moreton-hall) or [Shugborough Estate](https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/shugborough-estate), and the fact both routes can be completed in an active week or more relaxed 2 week hire makes the [Cheshire Ring](https://canalboatholidays.co.uk/routes/circular/cheshire-ring) & [Four Counties Ring](https://canalboatholidays.co.uk/routes/circular/four-counties-ring) two of the most popular canal ring routes in the UK.
+A varied mixture of rural landscapes as well as the odd bit of industrial heritage thrown in for good measure. Narrow locks, a range of attractions such as [Little Moreton Hall](https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/little-moreton-hall) or [Shugborough Estate](https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/shugborough-estate), and the fact that both routes can be completed in a two-week hire makes the [Cheshire Ring](https://canalboatholidays.co.uk/routes/circular/cheshire-ring) & [Four Counties Ring](https://canalboatholidays.co.uk/routes/circular/four-counties-ring) two of the most popular canal ring routes in the UK.
 
 Of course you don’t need to complete the ring and there are a range of out-and-back routes that you could also do in this area, for example a [route along the Caldon Canal](https://www.canalcruising.co.uk/caldon-canal-boat-hire/).
 
 Top rated hire bases in this area:
-   [Andersen Boats](https://www.andersenboats.com/) (Winsford Station - 9 min bus (No. 37), [Canal Cruising](https://www.canalcruising.co.uk/) (Stone Station - 13 min walk), [Chas Hardern Boats](https://www.chashardern.co.uk/) (Chester station - 35 min taxi / 29 min bus (No. 84) + 25 min walk) and [Heritage Narrowboats](https://heritagenarrowboats.co.uk/) (Kidsgrove Station - 12 min taxi)
+
+* [Andersen Boats](https://www.andersenboats.com/) (closest station Winsford, then a 10-minute bus ride on the no. 37 bus)
+*  [Canal Cruising](https://www.canalcruising.co.uk/) (13 min walk from Stone station)
+*  [Chas Hardern Boats](https://www.chashardern.co.uk/) (closest station Chester, then a 30-min bus ride on the no. 84 + 25 min walk, or 35 min taxi)
+*  [Heritage Narrowboats](https://heritagenarrowboats.co.uk/) (12 min taxi from Kidsgrove Station)
 
 #### 2﻿. Kennet & Avon canal
 
