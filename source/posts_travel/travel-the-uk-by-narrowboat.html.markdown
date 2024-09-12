@@ -8,6 +8,8 @@ summary: With nearly 5,000 miles of navigable waterways in the UK, a canal boat
 author: FlightFree UK
 read_time_minute: 5
 ---
+![](/images/uploads/narrowboat-canal_canva-lg.jpg)
+
 ### There are [4,700 miles of navigable canals and rivers](https://en.wikipedia.org/wiki/Canals_of_the_United_Kingdom#cite_ref-8) throughout the United Kingdom, passing through quaint villages, market towns, past castles and many other attractions.
 
 ##### Travelling by boat is an ideal way to slowly explore the UK and discover places from a different perspective.
@@ -19,6 +21,8 @@ But as you cruise along at slightly under walking pace, you’ll be able to appr
 The glimpse of a heron patiently waiting for his next meal, a flash of electric blue that you are pretty sure is your first ever kingfisher, and the realisation that the shallow ditch on which you now reside [was dug out 100s of years ago](https://cruisingthecut.co.uk/2024/02/23/a-quick-history-of-the-canals/) by hand, using pickaxes, shovels and dynamite. 
 
 Perhaps you’ll even find the time to read a book, but that’s not to say there is nothing to do, quite the contrary. On a [narrowboat holiday](https://canalboatholidays.co.uk) you’re always en-route somewhere: possibly [the worlds tallest canal aqueduct](https://www.pontcysyllte-aqueduct.co.uk/), or a nature reserve, or perhaps a lovely pub for the night.
+
+![](/images/uploads/bingley-locks-canva.jpg "Bingley Five Rise locks on the Leeds & Liverpool canal")
 
 Don’t worry, if you’ve never even seen a lock before, it’s all part of the experience. [Beginners are absolutely welcome](https://canalboatholidays.co.uk/canal-boat-holidays-for-beginners) and you’ll be given a comprehensive handover showing you the details of your particular narrowboat, how to operate a lock or lift/swing bridge, and you’ll be taken for a short-cruise as you get to grips with steering the boat. If you choose your first hire base well, you can also be taken through your first locks as part of the handover, so that you have full confidence for the rest that awaits you.
 
@@ -33,6 +37,8 @@ As an added bonus [many train lines follow the course of canals](https://canalri
 #### 1. Cheshire ring and Four Counties ring
 
 A varied mixture of rural landscapes as well as the odd bit of industrial heritage thrown in for good measure. Narrow locks, a range of attractions such as [Little Moreton Hall](https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/little-moreton-hall) or [Shugborough Estate](https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/shugborough-estate), and the fact that both routes can be completed in a two-week hire makes the [Cheshire Ring](https://canalboatholidays.co.uk/routes/circular/cheshire-ring) & [Four Counties Ring](https://canalboatholidays.co.uk/routes/circular/four-counties-ring) two of the most popular canal ring routes in the UK.
+
+![](/images/uploads/bridgewater-canal-castlefield_canva.jpg "Bridgewater canal in Castlefield, Manchester on the Cheshire ring")
 
 Of course you don’t need to complete the ring and there are a range of out-and-back routes that you could also do in this area, for example a [route along the Caldon Canal](https://www.canalcruising.co.uk/caldon-canal-boat-hire/).
 
@@ -80,6 +86,8 @@ Top rated hire bases in this area:
 * [Wyvern Shipping](https://canalholidays.co.uk/) (19 min walk from Leighton Buzzard station)
 * [Grand Union Narrowboats](https://www.grandunionnarrowboats.co.uk/) (15 min taxi from Northampton station)
 
+![](/images/uploads/fenny-compton-oxford-canal_canva.jpg "Boats at Fenny Compton, Oxford canal")
+
 #### 5. Oxford canal
 
 Narrow locks, twists and turns through remote countryside, and the occasional village, all make the Oxford canal a fantastic and popular holiday destination. This canal cuts through the English countryside at its best, heading north from Oxford and through Banbury, joining the Grand Union canal just south of Rugby.
@@ -112,6 +120,8 @@ Top rated hire bases in this area:
 
 ## Wales
 
+![](/images/uploads/pontcysyllte-aqueduct_canva.jpg "The Pontcysyllte Aqueduct, Llangollen canal")
+
 #### 8﻿. Llangollen canal
 
 The Llangollen canal is surely the most famous holiday canal – chances are you’ve seen the world-famous Pontcysyllte Aqueduct on the TV, known as the stream in the sky, and offering fabulous views over the Dee Valley. You’ll find lovely stretches of open countryside, impressive canal infrastructure, narrow locks and the occasional canalside pub.
@@ -127,6 +137,8 @@ Top rated hire bases in this area:
 The Mon & Brec passes through the [Brecon Beacons National Park](https://www.breconbeacons.org/) and is possibly one of the most picturesque canals in the UK. As it is not connected to the main canal network, it doesn’t get quite as busy as the Llangollen in North Wales. 
 
 With just six locks, five of which are grouped together, it makes a fantastic relaxed cruise, especially for those who would prefer to gently cruise along rather than jump on and off the boat to work an endless stream of locks.
+
+![](/images/uploads/monmouthshire-brecon-canal_canva.jpg "Monmouthshire & Brecon canal")
 
 The Mon & Brec is also one of the only canals with electric charging points along its length, which means that if you choose a hire base with fully electric boats such as [Castle Narrowboats](https://www.castlenarrowboats.co.uk/) you can make what is already a low-carbon holiday even more so.
 
@@ -148,6 +160,8 @@ I﻿t’s slightly different to most other holiday canals in the UK as all the l
 Top rated hire bases in this area: 
 
 * [Marine Cruises](https://marinecruises.co.uk/falkirk-marina.htm) (23 min bus (no. 7 or 8) from Falkirk station, or 30 min walk / 8 min taxi from Camelon station)
+
+![](/images/uploads/falkirk-wheel-canva.jpg "The Falkirk Wheel")
 
 ## How much will it cost?
 
