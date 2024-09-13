@@ -59,6 +59,7 @@ Top rated hire bases in this area:
 
 * [Bloomsbury Boats](https://www.bloomsburyboats.co.uk/) (15 min walk + 15 min bus (no. 231) from Bath Spa station)
 * [Bath Canal Boat Co](https://www.bathcanalboats.co.uk/) (23 min walk from Bath Spa station)
+* [F﻿oxhangers](https://www.foxhangers.co.uk/) (25 min taxi/37 min bus (no. X33) from Chippenham station. Other nearby stations are Trowbridge and Pewsey)
 
 ![](/images/uploads/caen_hill_canva.jpg "Caen Hill locks, nr Devizes, Kennet and Avon canal")
 
@@ -169,7 +170,7 @@ Prices range between £600 and £3000 for a week’s hire, depending on time of 
 
 B﻿eyond the hire cost you can spend as much or as little as you like, using the onboard galley for cooking meals, and visiting the free attractions along the way, or treating yourself to a meal out every night in the many places you'll be travelling through. 
 
-## W﻿alk, cycle, Stand-Up Paddleboard, kayak... 
+## W﻿alk, cycle, Stand-Up Paddleboard, kayak...
 
 Of course, you don’t need to book a canal boat holiday to enjoy the canal network. There are 1000s of miles of towpath that can be explored on foot or by bike. You could walk across the Pontcysyllte Aqueduct, [visit one of the museums](https://canalrivertrust.org.uk/things-to-do/museums-and-attractions), sit in the cafe and watch the Falkirk Wheel turn, or even take a [canoe trip through the UK's longest canal tunnel](https://www.theguardian.com/business/article/2024/jun/13/history-engineering-and-darkness-set-pulses-racing-on-a-paddle-under-the-pennines).
 
