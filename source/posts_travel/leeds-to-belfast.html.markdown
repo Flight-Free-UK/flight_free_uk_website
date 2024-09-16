@@ -17,6 +17,8 @@ Travelling out on a Friday meant I could spend the weekend with a friend before 
 
 It was a good sign of the journey to come that the train from Leeds was on time, so this meant I had lots of time to kill in Liverpool. I had been warned that there’s nothing to do at the ferry port, and with several hours before check-in even started, I found a great restaurant near Liverpool Lime Street station and watched the city people going out for their Friday night. 
 
+![](/images/uploads/liverpool-lime-street-station_canva.jpg "Liverpool Lime Street station")
+
 From the city centre I took the metro to Birkenhead Hamilton Square, a 15-minute walk from the port, or a quick taxi ride. 
 
 On arrival at the port I was advised that my suitcase would be stowed safely during the crossing and I should therefore transfer anything that I needed into a carry-on bag. I hadn’t expected this, so had to quickly transfer my overnight things to my hand luggage – this information is on the website, but I had not noticed it. It saved me having to carry my bag onto the transfer bus and up several flights of stairs when boarding though, so the process is actually a big benefit!
