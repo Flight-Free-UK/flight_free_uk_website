@@ -8,28 +8,6 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
-  - name: Evie Vouillemin
-    role: Podcast
-    photo: /images/uploads/evie_vouillemin.jpg
-    bio: Evie works for the Energy Saving Trust in the sustainable transport team,
-      and runs the eco blog Green Habits UK. She also volunteers for the Royal
-      Parks in Lewisham, where she lives. Her dream flight-free trip would be to
-      travel through Italy via train, especially Verona, Florence and Sorrento.
-  - name: "Gemma Pike "
-    role: Admin
-    bio: Gemma lives in South East London and works for Amnesty International.
-      Volunteering has been a constant feature of their working life, including
-      for the Green Party and Flight Free UK. Gemma picked the Northern Lights
-      as their dream flight-free trip, but a close second comes the Trans
-      Siberian railway – while wishing for peace in that region.
-    photo: /images/uploads/gemma.jpg
-  - name: Louise Millington
-    role: Podcast
-    bio: Originally from Liverpool, Lou now lives in Redcar, promoting active travel
-      in the Tees Valley. She is passionate about acting and using the arts to
-      tell stories and inspire people to create positive change. A dream flight
-      free trip would be touring Europe in a campervan, living the simple life!
-    photo: /images/uploads/lou_millington.jpg
   - name: Mark Taylor
     bio: Living in delightful North Norfolk, Mark has previously worked for Fauna
       and Flora Intl and WCMC (World Conservation Monitoring Center). He gives
@@ -38,3 +16,11 @@ members:
       Norwich. A dream flight-free trip would be to travel to Japan by train.
     photo: /images/uploads/mark_taylor.jpg
     role: Admin
+  - name: Maria Pacelli
+    bio: A recent graduate from the University of Reading, Maria studied the Science
+      of Climate Change and Environmental Management in Practice, both of which
+      deepened her understanding of environmental issues and strengthened her
+      commitment to sustainability. Her dream flight free trip would be to
+      explore the Scottish Highlands and Islands by train and ferry.
+    role: Social media
+    photo: /images/uploads/maria_pacelli.jpg
