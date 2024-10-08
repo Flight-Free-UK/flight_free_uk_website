@@ -43,6 +43,8 @@ We’ve come to The Hague so I can complete my Alphabet Parkrun: one parkrun for
 
 The run goes well – it’s a sunny morning, and there are 167 runners, a mixture of Dutch and English. The route is twice around the park, on the long perimeter path beneath mature trees and past ponds and play areas. It’s a sprint finish to the line where I cross in 19th place to get a time of 21:12 – my first palindromic Parkrun time! 
 
+![](/images/uploads/parkrun-zuiderpark_ahughes.jpg "Zuiderpark Parkrun done!")
+
 The Hague is charming. At least, I think it is – my boyfriend is less convinced. After my post-Parkrun shower we take the Metro straight to Den Haag Centraal station, where we leave our bags in a locker to be retrieved later. €7 to avoid a sore back (and looking like a tourist) – bargain. 
 
 There are enough waterways, narrow cobbled streets and outdoor cafes to provide a counter-narrative to the wide commercialised streets lined with shops, and the huge financial and governmental buildings, and to my mind it's all delightfully Dutch. We wander through a park, along a canal and past historic churches to a cafe that serves us breakfast pancakes in true Dutch tradition. Our visit is completed by the purchase of two quintessentially Dutch items. No, not those ones! A bicycle bell and some Hagelslag, of course.
