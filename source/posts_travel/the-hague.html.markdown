@@ -61,20 +61,4 @@ We arrive back in London to find that the last gasp of summer has finally passed
 
 ***E﻿missions calculations for journey London-Amsterdam:***
 
-Train (direct Eurostar) = 560km x 0.004459 = 2.5kg CO2e 
-
-Rail and sail (Greater Anglia train London to Harwich International, plus Stena Line ferry to Hoek van Holland, plus train Hoek van Holland to Amsterdam) = 8kg CO2e
-
-* 116km by UK train x 0.035463 = 4kg CO2e 
-* 185km by ferry x 0.01871 = 3.5kg CO2e
-* 100km by Dutch train x 0.004459 = 0.5kg CO2e
-
-Flight (London Luton to Amsterdam Schiphol) = 355km x 0.18287 (economy) = 65kg CO2e
-
-P﻿lus train London to Luton = 50km x 0.035463 = 1.8kg CO2e and train Schiphol to Amsterdam = 15km x 0.004459 = 0.07kg CO2e = 67.5kg CO2e
-
-Train vs flight: 2.5 / 67.5 = 0.037 = 4% = 96% saving
-
-Rail and sail vs flight: 8 / 67.5 = 0.12 = 12% = 88% saving
-
-*A﻿ll figures from Department for Transport emissions data, 2023*
+![](/images/uploads/london-amsterdam-emissions-comparison-chart.png)
