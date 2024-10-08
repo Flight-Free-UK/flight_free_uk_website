@@ -11,7 +11,9 @@ read_time_minute: 5
 
 ##### Yet somehow Amsterdam-London is Europe’s busiest flight route. 
 
-This might be because Schiphol is a hub airport, so lots of connecting flights pass through it. But plenty of people do still fly to the Netherlands from the UK. Switching a flight to a train saves 96% on your emissions. By ferry (as a foot passenger) the savings are 84%. The journey is comfortable, enjoyable, easy and reasonably cheap. 
+This might be because Schiphol is a hub airport, so lots of connecting flights pass through it. But plenty of people do still fly to the Netherlands from the UK. Switching a flight to a train saves 96% on your emissions. By ferry (as a foot passenger) the savings are 88%. The journey is comfortable, enjoyable, easy and reasonably cheap. 
+
+![](/images/uploads/lon-amsterdam_ffuk.jpg)
 
 We wake early: the ferry departs at 9am, check-in closes at 8.15am, and the train to the port takes an hour and twenty minutes. So at 6.20am we are already at London Liverpool Street, ready to board the 0630 Greater Anglia service to Harwich International.
 
