@@ -9,7 +9,7 @@ read_time_minute: 5
 ---
 ### The Netherlands is one of our closest neighbours, and with three ferry routes and one direct train, it’s easy to access without flying. 
 
-##### Yet somehow Amsterdam-London is Europe’s busiest flight route. 
+##### Yet somehow London-Amsterdam is Europe’s busiest flight route. 
 
 This might be because Schiphol is a hub airport, so lots of connecting flights pass through it. But plenty of people do still fly to the Netherlands from the UK. Switching a flight to a train saves 96% on your emissions. By ferry (as a foot passenger) the savings are 88%. The journey is comfortable, enjoyable, easy and reasonably cheap. 
 
