@@ -8,7 +8,7 @@ summary: Portugal can be a challenge to reach without flying, but it's worth the
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/bike-portugal_imartin.jpg)
+![](/images/uploads/bike-portugal_imartin.jpg "Iain's bike in Portugal")
 
 ### I’ve always enjoyed train travel and much prefer it to flying. 
 
