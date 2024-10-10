@@ -48,3 +48,15 @@ Before I took my trip, many people were sceptical, including my travel buddies. 
 Another benefit of travelling flight-free? While my main motivation for my Ibizan trip was decreasing my carbon emissions, embracing ‘slow’ travel got me out of my travel rut. After my travel gluttony in my twenties, I’d started to feel like I was ticking places and sights off a list and feeling a bit uninspired. 
 
 ##### Taking the train opened my eyes to new possibilities and I can’t wait for my next flight-free trip to Europe.
+
+**I﻿tinerary:**
+
+* Train L﻿ondon-Paris (stay overnight)
+* Train P﻿aris-Barcelona 
+* Overnight ferry Barcelona-Ibiza 
+
+R﻿eturn
+
+* O﻿vernight ferry Ibiza-Barcelona
+* T﻿rain Barcelona-Paris
+* T﻿rain Paris-London
