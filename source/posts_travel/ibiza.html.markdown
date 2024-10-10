@@ -41,6 +41,8 @@ As a mum of two small children, I kept thinking about whether a similar trip wou
 
 Now I know how easy it is on the train, I’m not sure if I feel I need to fly to Spain, or even most of Europe, again. If I were short on time then perhaps I’d go one way by train and ferry, and fly back. Of course, I acknowledge that I am very privileged to have the time, funds and a very understanding husband ready to pitch in with more childcare, which enabled me to make a trip like this. But then isn’t travel a privilege in itself? 
 
+![](/images/uploads/ibiza-sunset_fhutton.jpg "No need to fly for views like this")
+
 Before I took my trip, many people were sceptical, including my travel buddies. Why would you want to spend two days getting somewhere you can fly to in two hours? I do get that, and initially, I didn’t do a very good job of explaining my motivations. I felt like a party pooper and worried that I’d make my friends and family feel guilty and judged. But on my return, this all changed. The conversations shifted from ‘why would you do that?’ to ‘I’m thinking about switching to the train for an upcoming trip too’. 
 
 Another benefit of travelling flight-free? While my main motivation for my Ibizan trip was decreasing my carbon emissions, embracing ‘slow’ travel got me out of my travel rut. After my travel gluttony in my twenties, I’d started to feel like I was ticking places and sights off a list and feeling a bit uninspired. 
