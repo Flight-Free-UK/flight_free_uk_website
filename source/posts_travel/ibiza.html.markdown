@@ -25,7 +25,7 @@ Even better, I have friends and family in Paris and Barcelona, so on a Sunday ni
 
 It was a 6-hour journey and I made the most of the time and did some client work – the benefits of being freelance! The train WiFi made it easy, even though I saved my files to my laptop before the journey just in case. I watched the changing landscapes as we raced through the South of France, Montpellier, the Pyrenees, and into Catalunya and Spain.
 
-The train arrives into Barcelona Sants around 5pm and the ferry leaves at 10pm, so there’s a good amount of time to travel to the port and grab dinner. Unfortunately my friend in Barcelona couldn’t get away from work so we missed out on sharing a sangria before the crossing (she’s a trainee with the Catalan fire service so probably had something more important to do). So I soaked up the atmosphere on La Rambla as the evening set in, and gave Christopher Columbus a little wave before I hopped on the ferry. 
+The train arrives into Barcelona Sants around 5pm and the ferry leaves at 10pm, so there’s a good amount of time to travel to the port and grab dinner. Unfortunately my friend in Barcelona couldn’t get away from work so we missed out on sharing a sangria before the crossing (she’s a trainee with the Catalan fire service so probably had something more important to do). So I soaked up the atmosphere on La Rambla as the evening set in, and gave Christopher Columbus a little wave before hopping on the ferry. 
 
 ![](/images/uploads/ferry-cabin-ibiza_fhutton.jpg "Spacious cabin in the bow")
 
