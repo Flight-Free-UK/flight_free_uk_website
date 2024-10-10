@@ -54,4 +54,6 @@ The return crossing took one night and two days, and I bought the Wi-Fi package,
 
 The trip cost more than flying: the ferry was £260 return with a bike, and I also paid £260 for the cabin. However, if you look at this as being three nights’ accommodation, it makes it seem better value! 
 
-##### After all, the advantage of ‘slow travel’ is the holiday starts with the journey.  So, would I do it again? Absolutely.
+After all, the advantage of ‘slow travel’ is the holiday starts with the journey.  
+
+##### So, would I do it again? Absolutely.
