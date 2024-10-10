@@ -17,6 +17,8 @@ When one of my best friends and travel buddies announced plans to head to a fabu
 
 After some to-ing and fro-ing, and not much inspiration, ‘Ibiza’ popped into our heads right at the same time. It was obviously fate.
 
+![](/images/uploads/es-vedra-ibiza_canva.jpg "Es Vedra, Ibiza")
+
 Although I’d travelled to Spain many times, the idea of getting there by train and ferry had never crossed my mind. But after scouring the [Man in Seat Sixty One’s](https://www.seat61.com/Spain.htm) website, I was surprised to find it was relatively easy to get to Ibiza. Two trains: one to Paris, one to Barcelona, then an overnight ferry. If you book a cabin it’s not that different to spending the night in a hotel.
 
 Even better, I have friends and family in Paris and Barcelona, so on a Sunday night, I hopped on the Eurostar to Paris, where I met my cousin and his wife for a catch-up over dinner and drinks in a classic Parisian bistro. The next morning I enjoyed a delicious French breakfast then headed to Barcelona on a high-speed train. 
