@@ -19,7 +19,9 @@ After some to-ing and fro-ing, and not much inspiration, ‘Ibiza’ popped into
 
 Although I’d travelled to Spain many times, the idea of getting there by train and ferry had never crossed my mind. But after scouring the [Man in Seat Sixty One’s](https://www.seat61.com/Spain.htm) website, I was surprised to find it was relatively easy to get to Ibiza. Two trains: one to Paris, one to Barcelona, then an overnight ferry. If you book a cabin it’s not that different to spending the night in a hotel.
 
-Even better, I have friends and family in Paris and Barcelona, so on a Sunday night, I hopped on the Eurostar to Paris, where I met my cousin and his wife for a catch-up over dinner and drinks in a classic Parisian bistro. The next morning I enjoyed a delicious French breakfast then headed to Barcelona on a high-speed train. It was a 6-hour journey and I made the most of the time and did some client work – the benefits of being freelance! The train WiFi made it easy, even though I saved my files to my laptop before the journey just in case. I watched the changing landscapes as we raced through the South of France, Montpellier, the Pyrenees, and into Catalunya and Spain.
+Even better, I have friends and family in Paris and Barcelona, so on a Sunday night, I hopped on the Eurostar to Paris, where I met my cousin and his wife for a catch-up over dinner and drinks in a classic Parisian bistro. The next morning I enjoyed a delicious French breakfast then headed to Barcelona on a high-speed train. 
+
+It was a 6-hour journey and I made the most of the time and did some client work – the benefits of being freelance! The train WiFi made it easy, even though I saved my files to my laptop before the journey just in case. I watched the changing landscapes as we raced through the South of France, Montpellier, the Pyrenees, and into Catalunya and Spain.
 
 The train arrives into Barcelona Sants around 5pm and the ferry leaves at 10pm, so there’s a good amount of time to travel to the port and grab dinner. Unfortunately my friend in Barcelona couldn’t get away from work so we missed out on sharing a sangria before the crossing (she’s a trainee with the Catalan fire service so probably had something more important to do). So I soaked up the atmosphere on La Rambla as the evening set in, and gave Christopher Columbus a little wave before I hopped on the ferry. 
 
@@ -27,8 +29,8 @@ I was delighted to find my cabin was right in the bow of the ship, giving an unr
 
 It’s possible to book a seat if you want to avoid paying for a cabin – this option was really popular with people who seemed to do the crossing a lot. I’d definitely recommend a cabin, especially if you’re a single passenger, as it gave me peace of mind that no one would be rifling through my bags while I slept, and having a good night’s sleep meant I woke up refreshed and ready for the day in Ibiza.
 
-My friends joined me later that day. We danced, we partied (and no, we were not the oldest people in the clubs by a long shot). We saw Calvin Harris while sipping a piña colada and splashing in the mini pool at Ushuaia, and we got ripped off in the bars and clubs. Standard Ibizan fare.\
-\
+My friends joined me later that day. We danced, we partied (and no, we were not the oldest people in the clubs by a long shot). We saw Calvin Harris while sipping a piña colada and splashing in the mini pool at Ushuaia, and we got ripped off in the bars and clubs. Standard Ibizan fare.
+
 The return journey was a bit quicker, as the ferry and trains lined up a bit better: a 10pm sailing, disembarking in Barcelona at 7am, then the 10:30am train from Barcelona Sants, arriving at Paris Gare de Lyon at 5:30pm. I made my 8pm Eurostar no problem, even though I got a bit confused with the metro map and it took me a while to find the right line to get from Gare de Lyon to Gare du Nord. I got back to London at 8:30pm and was home by around 10pm. \
 \
 As a mum of two small children, I kept thinking about whether a similar trip would be doable with kids. I concluded that it would. There would be some waiting around at stations and ferry terminals and a bit of walking in between, and you’d need to bring entertainment and loooads of snacks, but I did see quite a few toddlers on the Paris-Barcelona stretch. They all looked pretty happy.\
