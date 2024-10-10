@@ -9,17 +9,6 @@ members:
       dream flight-free trip would (also) be to the far north of Norway to see
       the Northern Lights.
     photo: /images/uploads/james_frecknall.jpg
-  - name: Maggie Robertson
-    url: " "
-    description: " "
-    bio: Born in England, brought up in Scotland and Wales, Maggie now lives in
-      Cornwall. She has a teenage son and is married to a polar scientist, which
-      has made her deeply concerned about climate change. She has a Master’s
-      degree in geography and is a former university manager with experience in
-      strategic planning, resource allocation and risk management. She spent her
-      honeymoon cycling in the Dordogne, and her dream flight-free trip would be
-      to explore the Danube Delta by boat.
-    photo: /images/Maggie_Robertson.jpg
   - name: Lenny Sayers
     url: " "
     description: " "
@@ -32,3 +21,26 @@ members:
       there through the Netherlands and down the Rhine through Germany. He did
       this with his dad when he was 15 and would love to go back.
     photo: /images/Lenny_Sayers.jpg
+  - name: Maggie Robertson
+    url: " "
+    description: " "
+    bio: Born in England, brought up in Scotland and Wales, Maggie now lives in
+      Cornwall. She has a teenage son and is married to a polar scientist, which
+      has made her deeply concerned about climate change. She has a Master’s
+      degree in geography and is a former university manager with experience in
+      strategic planning, resource allocation and risk management. She spent her
+      honeymoon cycling in the Dordogne, and her dream flight-free trip would be
+      to explore the Danube Delta by boat.
+    photo: /images/Maggie_Robertson.jpg
+  - name: Steve Westlake
+    bio: Steve works at Cardiff University and has a PhD in environmental psychology
+      and behaviour change. His research explores the power of leading by
+      example and how this influences the attitudes and behaviour of others. In
+      Greenpeace as a teenager, he then worked for Shell and subsequently
+      MotoGP, flying around the world to every race. Go figure! He believes
+      those career choices were enabled by social and cultural norms that ignore
+      environmental damage – hence his current research interests and belief in
+      the mission of Flight Free UK.
+    photo: /images/uploads/steve_westlake.jpg
+    url: " "
+    description: " "
