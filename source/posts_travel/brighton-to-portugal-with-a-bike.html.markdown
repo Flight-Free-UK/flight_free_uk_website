@@ -57,3 +57,15 @@ The trip cost more than flying: the ferry was £260 return with a bike, and I al
 After all, the advantage of ‘slow travel’ is the holiday starts with the journey.  
 
 ##### So, would I do it again? Absolutely.
+
+**I﻿tinerary:**
+
+* T﻿rain Brighton to Portsmouth
+* F﻿erry Portsmouth to Santander (one day two nights)
+* D﻿rive Santander to Coimbra
+
+R﻿eturn
+
+* D﻿rive Coimbra to Bilbao (via Salamanca)
+* F﻿erry Bilbao to Portsmouth (one night two days)
+* T﻿rain Portsmouth to Brighton
