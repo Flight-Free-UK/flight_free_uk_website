@@ -8,6 +8,8 @@ summary: Portugal can be a challenge to reach without flying, but it's worth the
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/bike-portugal_imartin.jpg)
+
 ### I’ve always enjoyed train travel and much prefer it to flying. 
 
 ##### But working in the travel industry as a ski journalist I would usually take several flights per year, in addition to family holidays. 
@@ -26,17 +28,23 @@ The carbon cost of the journey came out at 380kg CO2e – not insignificant, but
 
 Bicycles are classified as vehicles by Brittany Ferries and so you board with the cars, trucks and motorbikes, rather than foot passengers. I felt slightly exposed as I lined up alongside the lorries, but I was soon ushered to a group of cyclists waiting to board. 
 
+![](/images/uploads/boarding-portsmouth_imartin.jpg)
+
 There was a sense of camaraderie, and my first-timer fears were eased by more experienced riders. We were soon beckoned on board towards ferry staff who secured our bikes, tying them to designated areas on the walls of the vehicle deck. 
 
 I’d booked a cabin for the 36-hour crossing, which was comfortable, with an ensuite shower and toilet, plus TV featuring all the main British and French channels, and a good choice of films to stream for free. Arriving in Santander bang on time at 8am, it was a short ride to the car hire office, where I sat in the morning sunshine, enjoying some breakfast tapas while I waited for it to open.
 
-It took six hours to drive down to Coimbra for the race, which went well – I was 17th in my age group, which is pretty good for a high level race like this. As expected, most other people had flown to take part. I wish there was more promotion of non-fly options, but it’s not highlighted. I’m part of the Green Runners network, who are brilliant at lobbying for more sustainable activity by brands and race organisers - <https://thegreenrunners.com/>
+It took six hours to drive down to Coimbra for the race, which went well – I was 17th in my age group, which is pretty good for a high level race like this. As expected, most other people had flown to take part. I wish there was more promotion of non-fly options, but it’s not highlighted. I’m part of the [Green Runners](https://thegreenrunners.com) network, who lobby for more sustainable activity by brands and race organisers.
 
 My return ferry was from Bilbao, 100km east of Santander, and I had a bit more time for the journey, so I stopped in the beautiful historic city of Salamanca on the way, which was well worth it.
 
-After dropping the hire car at the railway station in the centre of Bilbao, I decided it would be fun to cycle the hour to the port. I had plenty of time until the ferry left, and the journey started well, on perfect bike paths alongside the river and past the iconic Guggenheim museum, but as I moved further out of the city I became worried I wasn’t going to make it to the port in time. Google Maps is brilliant a lot of the time, but on this occasion it ripped my nerves to shreds! 
+After dropping the hire car at the railway station in the centre of Bilbao, I headed off by bike to the port. I had plenty of time to cycle the hour journey before the ferry left, and it started well, on perfect bike paths alongside the river and past the iconic Guggenheim museum.
 
-Firstly, what on the map had looked like a bridge turned out to be the Vizcaya Transporter Bridge, where vehicles and passengers are loaded on to a gondola then swung across the water to the other side. I didn't know I would need a ticket, and I missed the crossing trying to work out how to buy one, then it was another eight minutes before the gondola returned for its next load. I started to panic that I would miss my ferry. I was too stressed to appreciate the bridge – one of only 8 transporter bridges in the world! 
+![](/images/uploads/bike-path-bilbao_imartin.jpg)
+
+But as I moved further out of the city I became worried I wasn’t going to make it to the port in time. Google Maps is brilliant a lot of the time, but on this occasion it ripped my nerves to shreds! 
+
+Firstly, what on the map had looked like a bridge turned out to be the Vizcaya Transporter Bridge, where vehicles and passengers are loaded on to a gondola then swung across the water to the other side. I didn’t know I would need a ticket, and I missed the crossing trying to work out how to buy one, then it was another eight minutes before the gondola returned for its next load. I started to panic that I would miss my ferry. I was too stressed to appreciate the bridge – one of only eight transporter bridges in the world! 
 
 Secondly, once on the other side, Google’s route took me into the industrial sector of the docks. Weaving past containers, at one point I was held up for five minutes by a (very long) freight train, all of which made the panic worse.
 
@@ -46,5 +54,4 @@ The return crossing took one night and two days, and I bought the Wi-Fi package,
 
 The trip cost more than flying: the ferry was £260 return with a bike, and I also paid £260 for the cabin. However, if you look at this as being three nights’ accommodation, it makes it seem better value! 
 
-After all, the advantage of ‘slow travel’ is the holiday starts with the journey. \
-So, would I do it again? Absolutely.
+##### After all, the advantage of ‘slow travel’ is the holiday starts with the journey.  So, would I do it again? Absolutely.
