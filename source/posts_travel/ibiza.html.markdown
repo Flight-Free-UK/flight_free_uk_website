@@ -27,6 +27,8 @@ It was a 6-hour journey and I made the most of the time and did some client work
 
 The train arrives into Barcelona Sants around 5pm and the ferry leaves at 10pm, so there’s a good amount of time to travel to the port and grab dinner. Unfortunately my friend in Barcelona couldn’t get away from work so we missed out on sharing a sangria before the crossing (she’s a trainee with the Catalan fire service so probably had something more important to do). So I soaked up the atmosphere on La Rambla as the evening set in, and gave Christopher Columbus a little wave before I hopped on the ferry. 
 
+![](/images/uploads/ferry-cabin-ibiza_fhutton.jpg "Spacious cabin in the bow")
+
 I was delighted to find my cabin was right in the bow of the ship, giving an unrivalled view of the twinkling stars. One *lomo y patatas* and kip later and I awoke to an Ibizan sunrise.
 
 It’s possible to book a seat if you want to avoid paying for a cabin – this option was really popular with people who seemed to do the crossing a lot. I’d definitely recommend a cabin, especially if you’re a single passenger, as it gave me peace of mind that no one would be rifling through my bags while I slept, and having a good night’s sleep meant I woke up refreshed and ready for the day in Ibiza.
