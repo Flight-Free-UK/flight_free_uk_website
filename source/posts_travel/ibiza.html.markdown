@@ -11,7 +11,7 @@ read_time_minute: 4
 
 ##### As a young(ish) middle-class person living in the Global North, I’ve taken more than my fair share of flights, but each time they were accompanied by an uneasy feeling in my stomach that I couldn’t just put down to turbulence. 
 
-Spurred on by the stories of flight-free travellers like Helen Coffey, I decided to take the flight free pledge.
+Spurred on by the stories of flight-free travellers like [Helen Coffey](https://thehistorypress.co.uk/publication/zero-altitude/), I decided to take the flight free pledge.
 
 When one of my best friends and travel buddies announced plans to head to a fabulous destination for her 40th birthday I knew I had to get creative. We’ve taken lots of flights together – in fact, we met at an airport, and bonded over our mutual love of travel. Las Vegas was floated. As was Santorini. I had to find a destination that wouldn’t require flying, but would still be exciting enough for my well-travelled girlies.
 
