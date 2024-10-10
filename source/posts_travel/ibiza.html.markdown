@@ -15,8 +15,8 @@ Spurred on by the stories of flight-free travellers like [Helen Coffey](https://
 
 When one of my best friends and travel buddies announced plans to head to a fabulous destination for her 40th birthday I knew I had to get creative. We’ve taken lots of flights together – in fact, we met at an airport, and bonded over our mutual love of travel. Las Vegas was floated. As was Santorini. I had to find a destination that wouldn’t require flying, but would still be exciting enough for my well-travelled girlies.
 
-After some to-ing and fro-ing, and not much inspiration, ‘Ibiza’ popped into our heads right at the same time. It was obviously fate.\
-\
+After some to-ing and fro-ing, and not much inspiration, ‘Ibiza’ popped into our heads right at the same time. It was obviously fate.
+
 Although I’d travelled to Spain many times, the idea of getting there by train and ferry had never crossed my mind. But after scouring the [Man in Seat Sixty One’s](https://www.seat61.com/) website, I was surprised to find it was relatively easy to get to Ibiza. Two trains: one to Paris, one to Barcelona, then an overnight ferry. If you book a cabin it’s not that different to spending the night in a hotel.
 
 Even better, I have friends and family in Paris and Barcelona, so on a Sunday night, I hopped on the Eurostar to Paris, where I met my cousin and his wife for a catch-up over dinner and drinks in a classic Parisian bistro. The next morning I enjoyed a delicious French breakfast then headed to Barcelona on a high-speed train. It was a 6-hour journey and I made the most of the time and did some client work – the benefits of being freelance! The train WiFi made it easy, even though I saved my files to my laptop before the journey just in case. I watched the changing landscapes as we raced through the South of France, Montpellier, the Pyrenees, and into Catalunya and Spain.
