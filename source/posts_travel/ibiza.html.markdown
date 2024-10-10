@@ -31,8 +31,8 @@ It’s possible to book a seat if you want to avoid paying for a cabin – this 
 
 My friends joined me later that day. We danced, we partied (and no, we were not the oldest people in the clubs by a long shot). We saw Calvin Harris while sipping a piña colada and splashing in the mini pool at Ushuaia, and we got ripped off in the bars and clubs. Standard Ibizan fare.
 
-The return journey was a bit quicker, as the ferry and trains lined up a bit better: a 10pm sailing, disembarking in Barcelona at 7am, then the 10:30am train from Barcelona Sants, arriving at Paris Gare de Lyon at 5:30pm. I made my 8pm Eurostar no problem, even though I got a bit confused with the metro map and it took me a while to find the right line to get from Gare de Lyon to Gare du Nord. I got back to London at 8:30pm and was home by around 10pm. \
-\
+The return journey was a bit quicker, as the ferry and trains lined up a bit better: a 10pm sailing, disembarking in Barcelona at 7am, then the 10:30am train from Barcelona Sants, arriving at Paris Gare de Lyon at 5:30pm. I made my 8pm Eurostar no problem, even though I got a bit confused with the metro map and it took me a while to find the right line to get from Gare de Lyon to Gare du Nord. I got back to London at 8:30pm and was home by around 10pm. 
+
 As a mum of two small children, I kept thinking about whether a similar trip would be doable with kids. I concluded that it would. There would be some waiting around at stations and ferry terminals and a bit of walking in between, and you’d need to bring entertainment and loooads of snacks, but I did see quite a few toddlers on the Paris-Barcelona stretch. They all looked pretty happy.\
 \
 Now I know how easy it is on the train, I’m not sure if I feel I need to fly to Spain, or even most of Europe, again. If I were short on time then perhaps I’d go one way by train and ferry, and fly back. Of course, I acknowledge that I am very privileged to have the time, funds and a very understanding husband ready to pitch in with more childcare, which enabled me to make a trip like this. But then isn’t travel a privilege in itself? 
