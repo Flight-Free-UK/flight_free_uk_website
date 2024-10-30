@@ -8,6 +8,15 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
+  - name: Ella Martin
+    role: Social media
+    bio: Originally from Essex, Ella is currently based in Cornwall, studying
+      Environmental Science at the University of Exeter. Her work with the Royal
+      Parks, the Cornish Wildlife Trust and the Bumblebee Conservation Trust
+      have given her a wealth of knowledge of conservation and biodiversity (and
+      a love for bees – probably the world's most climate-friendly flyers!). Her
+      dream flight-free adventure would be city-hopping around Spain.
+    photo: /images/uploads/ella_martin.jpeg
   - name: Maria Pacelli
     bio: A recent graduate from the University of Reading, Maria studied the Science
       of Climate Change and Environmental Management in Practice, both of which
