@@ -80,9 +80,9 @@ Even from the furthest reaches of the UK you could be in the Highlands in little
 
 #### Further reading and help
 
-The website [Snow Carbon](https://www.snowcarbon.co.uk/), run by ski journalist Daniel Elkan, tells you everything you need to know about getting to the slopes without flying. Daniel puts the train to the test in a race with a ski-journalist friend, to see who can reach the hottub at their Méribel resort first. Find out who won [here](https://youtu.be/M5OG8qj79fo). 
+[Ski Flight Free](https://skiflightfree.org/) was set up by journalist and podcaster Iain Martin (who wrote most of this article – thanks Iain!). There you will find up-to-date information about services and routes to the Alps and other locations.
 
-Also highly recommended is [Ski Flight Free](https://skiflightfree.org/), set up by journalist and podcaster Iain Martin (who contributed significantly to this article – thanks Iain!). There you will find up-to-date information about services and routes to the Alps and other locations.
+Also highly recommended is [Snow Carbon](https://www.snowcarbon.co.uk/), run by ski journalist Daniel Elkan, which tells you everything you need to know about getting to the slopes without flying. Daniel puts the train to the test in a race with a ski-journalist friend, to see who can reach the hottub at their Méribel resort first. Find out who won [here](https://youtu.be/M5OG8qj79fo). 
 
 Read about how Flight Free UK director Anna Hughes travelled to the Swiss Alps by train [here](https://www.standard.co.uk/lifestyle/travel/sustainable-travel/sustainable-ski-trip-skiing-london-swiss-alps-b1057176.html).
 
