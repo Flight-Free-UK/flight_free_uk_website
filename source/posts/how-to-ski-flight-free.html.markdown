@@ -58,7 +58,7 @@ In both cases, coaches leave on Friday evenings, arriving early on Saturday. The
 
 F﻿ind out what the Snow Express is like by reading [Heather's account](/travel_articles/hitting-the-slopes-by-coach/).
 
-#### Driving – Petrol/Diesel Car (170kg CO2e)
+#### Driving – Petrol/Diesel Car (164kg CO2e)
 
 ***Emissions per passenger for a return journey based on two people in the vehicle***
 
@@ -68,7 +68,7 @@ There are no baggage fees, so as long as you can fit your luggage in the boot or
 
 What you do need to consider are the requirements for driving in alpine conditions. In many countries snow chains or winter tyres are compulsory and driving on an icy road in a snowstorm can be a demanding experience.
 
-#### Driving – Electric Car (9.5kg CO2e)
+#### Driving – Electric Car (80kg CO2e) 
 
 ***Emissions per passenger for a return journey based on two people in the vehicle***
 
@@ -93,3 +93,13 @@ Even from the furthest reaches of the UK you could be in the Highlands in little
 Also highly recommended is [Snow Carbon](https://www.snowcarbon.co.uk/), run by ski journalist Daniel Elkan, which tells you everything you need to know about getting to the slopes without flying. Daniel puts the train to the test in a race with a ski-journalist friend, to see who can reach the hottub at their Méribel resort first. Find out who won [here](https://youtu.be/M5OG8qj79fo). 
 
 Read about how Flight Free UK director Anna Hughes travelled to the Swiss Alps by train [here](https://www.standard.co.uk/lifestyle/travel/sustainable-travel/sustainable-ski-trip-skiing-london-swiss-alps-b1057176.html).
+
+***E﻿missions data and calculations***
+
+*W﻿e use Department for Transport emissions data to calculate the emissions for each journey. EV data comes from [Transport and Environment](https://www.transportenvironment.org/articles/how-clean-are-electric-cars).*
+
+* *L﻿ondon-Alps = approx 1000km*
+* *R﻿ail (international) = 0.004459kg CO2e per passenger km = 4.459 per passenger for a 1000km journey, x 2 = 9kg CO2e per passenger per return journey*
+* *C﻿oach = 0.02718kg CO2e per passenger km = 27.18 per passenger for a 1000km journey, x 2 = 54kg CO2e per passenger per return journey*
+* *Car (petrol) = 0.16391kg CO2e per km = 163.91 for a 1000km journey, x 2 = 328kg CO2e per return journey, ÷ 2 for two people in the vehicle = 164kg per passenger per return journey*
+* *EV = 0.075kg CO2e per km = 75kg for a 1000km journey ÷ 2 for two people in the vehicle = 37.5kg, + 2 for Eurotunnel, x 2 for return journey = 80kg per passenger per return journey*
