@@ -22,7 +22,9 @@ So give flight-free travel a try for your next ski trip, and get your holiday of
 
 ![](/images/uploads/pow_ski-travel-infographic-v4.2.jpg)
 
-#### Eurostar Snow Train (26kg CO2e*)
+#### Eurostar Snow Train (9kg CO2e)
+
+***Emissions per passenger for a return journey***
 
 The Eurostar Snow Train takes you to the Alps from London St Pancras via Lille and is run by Eurostar. 
 
@@ -44,7 +46,9 @@ The next leg of your journey will be on one of France’s super-fast TGV service
 
 You can book the entire journey on websites like [Rail Europe](https://www.raileurope.com/), either booking all legs in one go, or booking the Eurostar and [SNCF](https://www.sncf-connect.com/) (French Railways) legs separately, to give more flexibility over connection times.
 
-#### Snowcoach and Snow Express (66 CO2e*)
+#### Snowcoach and Snow Express (54kg CO2e) 
+
+***Emissions per passenger for a return journey***
 
 Coach travel has changed a lot in recent years. Companies like [Snowcoach](https://www.snowcoach.co.uk/travel-by-luxury-snowcoach) offer spacious seats with good legroom, reclining seats and travel blankets. They are a tour operator with good value packages to resorts in France.
 
@@ -54,7 +58,9 @@ In both cases, coaches leave on Friday evenings, arriving early on Saturday. The
 
 F﻿ind out what the Snow Express is like by reading [Heather's account](/travel_articles/hitting-the-slopes-by-coach/).
 
-#### Driving – Petrol/Diesel Car (110kg CO2e*)
+#### Driving – Petrol/Diesel Car (170kg CO2e)
+
+***Emissions per passenger for a return journey based on two people in the vehicle***
 
 Driving is an excellent option for families heading for the Alps. It does take longer (most ski resorts are 9-10 hours from Calais), but even taking into account fuel prices and road tolls, for a family of four, it’s typically cheaper than flying. 
 
@@ -62,15 +68,17 @@ There are no baggage fees, so as long as you can fit your luggage in the boot or
 
 What you do need to consider are the requirements for driving in alpine conditions. In many countries snow chains or winter tyres are compulsory and driving on an icy road in a snowstorm can be a demanding experience.
 
-#### Driving – Electric Car (5kg CO2e*)
+#### Driving – Electric Car (9.5kg CO2e)
 
-If you really want to keep your carbon footprint to the minimum, then your best choice is to drive to the Alps in an electric car. 
+***Emissions per passenger for a return journey based on two people in the vehicle***
 
-Assuming you recharge on the journey using the Ionity or Tesla supercharger network, which are both powered by renewable energy, then the only carbon cost will be your Eurotunnel crossing - a measly 2kg CO2e per crossing.
+A﻿ really good option for keeping your carbon footprint to the minimum is to drive to the Alps in an electric car. 
 
-The key issue for most people considering driving to a ski resort in an EV will ‘range anxiety’. While there is an excellent charger network on Europe’s motorways, it’s not as comprehensive yet as the number of petrol stations. 
+T﻿he various emissions of charging an electric vehicle are explained on the [T&E website](https://www.transportenvironment.org/articles/how-clean-are-electric-cars), and here we've gone for the EU average of battery manufacture and electricity production. The carbon cost of the drive is added to your Eurotunnel crossing – a measly 2kg CO2e per crossing.
 
-Travelling to the Alps and back in electric vehicles is definitely achievable, but you do need to plan your journey around charge points, based on the ‘real range’ of your vehicle. 
+The key issue for most people considering driving to a ski resort in an EV will be ‘range anxiety’. While there is an excellent charger network on Europe’s motorways, it’s not as comprehensive yet as the number of petrol stations. 
+
+Travelling to the Alps and back in electric vehicles is definitely achievable, but you do need to plan your journey around charge points, based on the ‘real range’ of your vehicle. Bear in mind that range reduces in the winter when the batteries are cold!
 
 #### UK destinations
 
@@ -85,5 +93,3 @@ Even from the furthest reaches of the UK you could be in the Highlands in little
 Also highly recommended is [Snow Carbon](https://www.snowcarbon.co.uk/), run by ski journalist Daniel Elkan, which tells you everything you need to know about getting to the slopes without flying. Daniel puts the train to the test in a race with a ski-journalist friend, to see who can reach the hottub at their Méribel resort first. Find out who won [here](https://youtu.be/M5OG8qj79fo). 
 
 Read about how Flight Free UK director Anna Hughes travelled to the Swiss Alps by train [here](https://www.standard.co.uk/lifestyle/travel/sustainable-travel/sustainable-ski-trip-skiing-london-swiss-alps-b1057176.html).
-
-*\* CO2e calculations vary depending on your source. These numbers are based on data from Eurotunnel and Best Foot Forward/Anthesis. Figures for driving are based on four people sharing a car. The equivalent figure for flying is 162kg CO2e.*
