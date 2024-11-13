@@ -103,3 +103,4 @@ Read about how Flight Free UK director Anna Hughes travelled to the Swiss Alps b
 * *C﻿oach = 0.02718kg CO2e per passenger km = 27.18 per passenger for a 1000km journey, x 2 = 54kg CO2e per passenger per return journey*
 * *Car (petrol) = 0.16391kg CO2e per km = 163.91 for a 1000km journey, x 2 = 328kg CO2e per return journey, ÷ 2 for two people in the vehicle = 164kg per passenger per return journey*
 * *EV = 0.075kg CO2e per km = 75kg for a 1000km journey ÷ 2 for two people in the vehicle = 37.5kg, + 2 for Eurotunnel, x 2 for return journey = 80kg per passenger per return journey*
+* *F﻿light (economy) = 0.18287kg CO2e per passenger km = 182.87 per passenger for a 1000km journey, x 2 = 364kg CO2e per passenger per return journey*
