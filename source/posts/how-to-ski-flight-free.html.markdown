@@ -46,7 +46,7 @@ The next leg of your journey will be on one of France’s super-fast TGV service
 
 You can book the entire journey on websites like [Rail Europe](https://www.raileurope.com/), either booking all legs in one go, or booking the Eurostar and [SNCF](https://www.sncf-connect.com/) (French Railways) legs separately, to give more flexibility over connection times.
 
-#### Snowcoach and Snow Express (54kg CO2e) 
+#### Snowcoach and Snow Express (54kg CO2e)
 
 ***Emissions per passenger for a return journey***
 
@@ -68,7 +68,7 @@ There are no baggage fees, so as long as you can fit your luggage in the boot or
 
 What you do need to consider are the requirements for driving in alpine conditions. In many countries snow chains or winter tyres are compulsory and driving on an icy road in a snowstorm can be a demanding experience.
 
-#### Driving – Electric Car (80kg CO2e) 
+#### Driving – Electric Car (80kg CO2e)
 
 ***Emissions per passenger for a return journey based on two people in the vehicle***
 
@@ -93,6 +93,8 @@ Even from the furthest reaches of the UK you could be in the Highlands in little
 Also highly recommended is [Snow Carbon](https://www.snowcarbon.co.uk/), run by ski journalist Daniel Elkan, which tells you everything you need to know about getting to the slopes without flying. Daniel puts the train to the test in a race with a ski-journalist friend, to see who can reach the hottub at their Méribel resort first. Find out who won [here](https://youtu.be/M5OG8qj79fo). 
 
 Read about how Flight Free UK director Anna Hughes travelled to the Swiss Alps by train [here](https://www.standard.co.uk/lifestyle/travel/sustainable-travel/sustainable-ski-trip-skiing-london-swiss-alps-b1057176.html).
+
+![](/images/uploads/ski-emissions-bar-chart.jpg)
 
 ***E﻿missions data and calculations***
 
