@@ -3,7 +3,7 @@ published: true
 title: How to travel on a budget
 category: how-to
 date: 2023-01-05T16:28:36.134Z
-cover_image: /images/uploads/budet_travel_canva.jpg
+cover_image: /images/uploads/budget_travel_canva.jpg
 summary: "Flight-free travel doesn't have to be more expensive. We take a look
   at how to keep the cost down when it comes to travelling overland. "
 author: FlightFree UK
