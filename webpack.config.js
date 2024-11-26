@@ -37,7 +37,7 @@ module.exports = {
         filename: "javascripts/[name].js",
         libraryTarget: 'umd',
         umdNamedDefine: true,
-		hashFunction: 'sha512'
+		hashFunction: 'sha256'
     },
     module: {
         rules: [
