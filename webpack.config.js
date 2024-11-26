@@ -36,7 +36,8 @@ module.exports = {
         path: path.join(__dirname, 'assets/build'),
         filename: "javascripts/[name].js",
         libraryTarget: 'umd',
-        umdNamedDefine: true
+        umdNamedDefine: true,
+		hashFunction: 'sha512'
     },
     module: {
         rules: [
