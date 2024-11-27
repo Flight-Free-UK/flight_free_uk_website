@@ -7,7 +7,7 @@
       <%- count = 1 -%>
       <%- take_challenge_square_items = data.take_challenge_squares.values.sort_by(&:date).first(10) -%>
       <%- take_challenge_square_items.each do | take_challenge_square | -%>
-        <%= partial(:home_take_challenge_square, :locals => { :title => take_challenge_square.title, :citation => take_challenge_square.citation, :image => take_challenge_square.image, :count => count }) %>
+        <%= partial(:home_take_challenge_square, :locals => { :title => take_challenge_square.title, :citation => take_challenge_square.citation, :image => take_challenge_square.image, :link => take_challenge_square.link, :count => count }) %>
         <%- count = count + 1 -%>
       <%- end -%>
     </div>
