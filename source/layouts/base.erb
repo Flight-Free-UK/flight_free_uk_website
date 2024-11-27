@@ -11,7 +11,7 @@
   <title><%= title %></title>
   <meta property="og:title" content="<%= current_article ? current_article.title : title %>"/>
 
-  <% description_default = "Fight climate change: make the pledge to be flight free in 2024" %>
+  <% description_default = "Fight climate change: make the pledge to be flight free in 2025" %>
   <%- 
   if current_article
     sm_image = current_article.data.cover_image
@@ -21,7 +21,7 @@
     if current_page && current_page.data.cover_image
       sm_image = current_page.data.cover_image
     else
-      sm_image = "/images/flight-free-pledge-2024.jpg"
+      sm_image = "/images/flight-free-pledge-2025.jpg"
     end
     # description
     if current_page && current_page.data.summary
