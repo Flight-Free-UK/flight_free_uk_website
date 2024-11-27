@@ -1,5 +1,5 @@
 <div id="take-challenge-<%= count %>" class="relative w-140 h-140 xl:w-220 xl:h-220">
-  <% if defined?(link) && link %><a href="<%= link %>"><% end %>
+  <% if link %><a href="<%= link %>"><% end %>
     <div class="w-140 h-140 xl:w-220 xl:h-220">
         <img src="<%= image %>" width="220" height="220" alt="Photograph of <%= citation %>" class="" loading="lazy" />
     </div>
@@ -9,5 +9,5 @@
             <span class="citation"><%= citation %></span>
         </p>
     </div>
-  <% if defined?(link) && link %></a><% end %>
+  <% if link %></a><% end %>
 </div>
