@@ -1,4 +1,4 @@
-<header id="main-header" class="relative z-20<%= " xl:px-10 xl:pt-3 xl:pb-4 mb-16" if is_home %><%= " px-4 xl:px-14 py-4 xl:pt-10 xl:pb-8 bg-blue-dark" if ! is_home %> text-gray-light">
+<header id="main-header" class="relative py-4 xl:pt-10 xl:pb-8 z-20<%= " xl:px-10 mb-16" if is_home %><%= " px-4 xl:px-14 bg-blue-dark" if ! is_home %> text-gray-light">
   <div class="container mx-auto">
   <div class="flex flex-wrap justify-between">
     <div class="logo w-1/2 flex-1 flex items-end xl:mt-6">
@@ -28,15 +28,16 @@
   <div class="flex flex-wrap justify-end">
     <nav class="hidden xl:flex flex-col xl:flex-row flex-wrap w-full xl:w-3/5 items-center justify-around xl:justify-between px-8 xl:pl-0 xl:pr-8 pt-6 xl:pt-0 pb-6 xl:pb-0 text-2xl text-center">
     <% {
-         "why_flight_free" => "Why flight free?",
-         "how_to" => "How to",
-         "about_us" => "About",
-         "be_inspired" => "Be inspired",
-         "podcast" => "Podcast",
-         "faq" => "FAQ"
+         "why_flight_free.html" => "Why flight free?",
+         "how_to.html" => "Travel?",
+         "about_us.html" => "About",
+         "be_inspired.html#testimonials" => "Testimonials",
+         "be_inspired.html" => "Blog",
+         "podcast.html" => "Podcast",
+         "faq.html" => "FAQ"
        }.each do |path, name| %>
-       <% current = "#{path}.html" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("travel") && "how_to" == path ) || ( current_page.path.include?("posts") && !current_page.path.include?("travel") && "articles" == path ) || ( current_page.path.include?("how_tos") && "how_to" == path ) %>
-       <%= link_to name, "/#{path}.html", class: "inline-block mb-2 xl:mb-0 #{!is_home ? "border-b-4" :  nil } #{current ? "border-orange" : "border-blue-dark"} leading-tight text-gray-light hover:text-orange" %>
+       <% current = "#{path}" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("travel") && "how_to" == path ) || ( current_page.path.include?("posts") && !current_page.path.include?("travel") && "articles" == path ) || ( current_page.path.include?("how_tos") && "how_to" == path ) %>
+       <%= link_to name, "/#{path}", class: "inline-block mb-2 xl:mb-0 #{!is_home ? "border-b-4" :  nil } #{current ? "border-orange" : "border-blue-dark"} leading-tight text-gray-light hover:text-orange" %>
     <% end %>
     </nav>
   </div>

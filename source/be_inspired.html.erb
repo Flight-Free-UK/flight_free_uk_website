@@ -18,8 +18,8 @@ blog: be_inspired
             <%- if article.data.cover_image -%>
             <img src="<%= image_path(article.data.cover_image) %>" alt="Image for article <%= article.title %>" loading="lazy" class="w-288 md:w-200 h-288 md:h-200 object-cover row-start-1 col-start-1" />
             <%- end -%>
-            <div class="row-start-1 col-start-1 self-end text-center">
-                <h3 class="h-24 p-2 bg-blue-dark text-gray-light text-xl xl:text-2xl leading-tight flex justify-center items-center"><%= article.title %></h3>
+            <div class="row-start-1 col-start-1 self-end p-2 bg-blue-dark text-gray-light text-center">
+                <h3 class="h-24 text-xl xl:text-2xl leading-tight flex justify-center items-center"><%= article.title %></h3>
             </div>
         </a>
         <% end %>
