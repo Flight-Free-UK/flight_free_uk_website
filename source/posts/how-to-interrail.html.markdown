@@ -58,7 +58,7 @@ Interrail partners with several ferry companies across Europe, meaning you can b
 
 ## Children travel for free!
 
-Children aged 4-11 travel for free with Interrail, and you can take up to two children per adult. You still have to ‘buy’ the pass – just select a child pass from the [Interrail website,](https://www.interrail.eu/en/interrail-passes) and it will add it to your basket along with your own.
+Children aged 4-11 travel for free with Interrail, and you can take up to two children per adult. You still have to ‘buy’ the pass – just select a child pass from the [Interrail website,](https://www.interrail.eu/en/interrail-passes) and add it to your basket along with your own.
 
 ## Before you travel
 
