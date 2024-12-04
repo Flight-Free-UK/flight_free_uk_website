@@ -10,7 +10,7 @@ read_time_minute: 4
 ---
 ![](/images/uploads/interrail_maps_2024.jpg)
 
-### Interrail is a terrific way to see Europe and is suitable for everyone, from students to professionals, families and retirees. 
+### Interrail is a terrific way to see Europe and is suitable for everyone, from students to professionals, families and retirees.
 
 ##### An Interrail pass can give lots of flexibility to a journey, but mostly, it can help to significantly keep the cost down. 
 
@@ -54,7 +54,7 @@ You have to book the seat reservations separately, but it gives you all the deta
 
 ## Are ferries included?
 
-Interrail partners with several ferry companies across Europe, meaning you can buy discounted tickets for these ferries, usually 20 or 30%.
+Interrail partners with several ferry companies across Europe, meaning you can buy discounted tickets for these ferries, usually 20 or 30%. Find out which ones [here](https://www.interrail.eu/en/plan-your-trip/tips-and-tricks/trains-europe/ferries).
 
 ## Children travel for free!
 
