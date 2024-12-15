@@ -77,7 +77,7 @@ Prices vary depending on whether you go for a berth (full bed), a couchette (bun
 
 Far from just being a gap-year rite-of-passage for students, the [Interrail pass](https://www.interrail.eu/en/interrail-passes/global-pass) is a terrific way to see Europe at a bargain price. A pass could reduce the cost of your travel even if you are only going to one destination.
 
-Go to the [Interrail website](https://www.interrail.eu/en) for the options, which include anything from country passes to month-long passes for travel across all 33 Interrail countries. The pass includes travel within your home country as long as you enter Europe on the same day.
+Go to the [Interrail website](https://www.interrail.eu/en) for the options, which include anything from country passes to month-long passes for travel across all 33 Interrail countries. The pass includes travel within your home country as long as you enter Europe on the same day. We have a guide to using Interrail on our website [here](/post/how-to-interrail/).
 
 UK residents can buy an Interrail pass (it is for residents of Europe, which we are, geographically if not politically). Overseas visitors would need to buy a Eurail pass.
 
