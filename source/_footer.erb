@@ -35,9 +35,11 @@
          		"linkedin" => "https://www.linkedin.com/company/",
          		"tiktok" => "https://www.tiktok.com/@"
        		}.each do |name, path| %>
-            <a href="<%= path %><%= data.social_media.name %>" class="w-8 h-8 md:w-12 md:h-12 flex justify-center bg-blue-dark mx-2" target="_blank">
+				<% if data.social_media[name] %>
+            <a href="<%= path %><%= data.social_media[name] %>" class="w-8 h-8 md:w-12 md:h-12 flex justify-center bg-blue-dark border border-gray-light hover:border-orange rounded-full mx-2" target="_blank">
             	<%= partial "svg/icon-#{name}-circle.svg" %>
             </a>
+				<% end %>
 			<% end %>
           </nav>
         </div>
