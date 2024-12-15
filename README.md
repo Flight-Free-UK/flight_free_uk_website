@@ -10,9 +10,11 @@ and is hosted on [Netlify](https://www.netlify.com/).
 To work on this website you'll need to do the following:
 
 * Install Ruby
+* You might need to check your Ruby version (I have this working with ruby-3.0.4)
 * Install Ruby dependencies: `bundle install`
 * Install NodeJS (latest version should be fine)
 * Install NodeJS dependencies: `npm install`
+* You might need to check your Node version (I have this working with Node 20.11.1)
 * Run `netlify dev` to start a development server at
   [http://localhost:8888](http://localhost:8888)
 
