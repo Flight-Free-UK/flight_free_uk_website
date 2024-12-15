@@ -11,7 +11,7 @@ title: Flight Free UK
 </section>
 #%>
 
-<section class="section--introduction bg-blue-dark text-gray-light bg-cover bg-center-bottom md:bg-right-bottom px-4 pt-4 xl:pt-12 pb-12" style="background-image: url(/images/pexels-tobias-bjorkli-1559821-blue-1440x810.jpg)">
+<section class="section--introduction bg-blue-dark text-gray-light bg-cover bg-center-bottom md:bg-right-bottom px-4 pt-4 xl:pt-0 pb-12" style="background-image: url(/images/pexels-tobias-bjorkli-1559821-blue-1440x810.jpg)">
 
   <%# start why -%>
     <%= partial "header", locals: { is_home: true } -%>
@@ -21,7 +21,7 @@ title: Flight Free UK
     <div class="mx-auto xl:w-4/5 flex flex-col items-center">
         <h1 class="text-4xl md:text-5xl xl:text-homepage font-bold leading-tight tracking-normal text-center mb-2 md:mb-6">Are you ready to go big on climate action?</h1>
         <p class="md:w-2/3 xl:w-4/5 text-xl xl:text-3xl leading-tight text-center mb-8 xl:mb-10 max-w-2xl xl:px-8">Try the flight free challenge and see where staying grounded could take you</p>
-        <%= partial "svg/arrow_curled.svg" %>
+        <a href="#take-the-challenge"><%= partial "svg/arrow_curled.svg" %></a>
     </div>
   </div>
 </section>
@@ -46,30 +46,13 @@ title: Flight Free UK
     <%= partial "home_mythbusting" %>
 <%# end mythbuster %>
 
-  <!-- PLEDGE MODAL class="is-open" is added to the modal to make it visible -->
-  <section id="pledge-modal" aria-hidden="true" class="hidden modal">
-    <div tabindex="-1" data-micromodal-close class="fixed inset-0 flex items-center justify-center" style="background-color:rgba(31, 77, 123, 0.9)">
-      <div role="dialog" aria-modal="true" aria-labelledby="pledge-modal-title" class="relative px-6 py-6">
-        <header>
-          <h2 id="pledge-modal-title" class="hidden">
-            Sign the pledge
-          </h2>
-          <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
-        </header>
-        <div id="pledge-modal-content">
-          <%= partial "pledge_form", locals: { id: "modal" }  %>
-        </div>
-      </div>
-    </div>
-  </section>
-
   <!-- PLEDGE MODAL (CUSTOM) class="is-open" is added to the modal to make it visible -->
   <section id="pledge-custom-modal" aria-hidden="true" class="hidden modal">
     <div tabindex="-1" data-micromodal-close class="fixed inset-0 flex items-center justify-center" style="background-color:rgba(31, 77, 123, 0.9)">
       <div role="dialog" aria-modal="true" aria-labelledby="pledge-custom-modal-title" class="relative px-6 py-6">
         <header>
           <h2 id="pledge-custom-modal-title" class="hidden">
-            Make your own pledge
+            I will take the flight free challenge!
           </h2>
           <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
         </header>

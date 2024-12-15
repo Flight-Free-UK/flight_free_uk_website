@@ -9,7 +9,7 @@ menu_item: articles
   <section class="section--introduction bg-gray-light text-blue-dark px-4">
     <div class="container mx-auto xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
 
-      <%= link_to "View all posts", "/articles.html", class: "text-lg text-blue-dark pl-8 bg-no-repeat", style: "background-image:url(/svg/arrow_back.svg)" %>
+      <%= link_to "Back to blog", "/be_inspired.html", class: "text-lg text-blue-dark pl-8 bg-no-repeat", style: "background-image:url(/svg/arrow_back.svg)" %>
 
       <h1 class="text-3xl sm:text-4xl lg:text-5xl xl:text-title font-bold leading-tight mt-8 mb-6"><%= current_article.title %></h1>
       <h2 class="text-xl sm:text-3xl xl:text-subtitle font-bold mb-6 sm:mb-8 leading-tight"><%= current_article.data.summary %></h2>
@@ -34,15 +34,31 @@ menu_item: articles
     <div class="container mx-auto xl:px-32 xxl:px-48 pt-12 pb-6 sm:pb-8">
       <div class="border-t-4 border-gray-mid pt-10 flex flex-wrap justify-center">
         <h4 class="w-full flex-full text-center text-xl">Share this post</h4>
-        <% link_to "https://twitter.com/intent/tweet", query: { text: current_article.title, url: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank", class: "inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2" do %>
-          <%= partial "svg/twitter_inverse.svg" %>
-        <% end %>
+
+        <a href="https://www.facebook.com/sharer/sharer.php?u=<%= data.social_media.share.url %><%= current_article.url %>" target="_blank" class="inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2">
+          <%= partial "svg/facebook_inverse.svg" %>
+        </a>
+		
         <a href="https://instagram.com/<%= data.social_media.instagram %>" target="_blank" class="inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2">
           <%= partial "svg/instagram_inverse.svg" %>
         </a>
-        <% link_to "https://www.facebook.com/sharer/sharer.php", query: { u: "#{data.social_media.share.url}#{current_article.url}" }, target: "_blank", class: "inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2" do %>
-          <%= partial "svg/facebook_inverse.svg" %>
-        <% end %>
+
+        <a href="https://bsky.app/intent/compose?text=<%= current_article.title %> <%= data.social_media.share.url %>" target="_blank" class="inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2">
+          <%= partial "svg/bluesky_inverse.svg" %>
+        </a>
+
+        <a href="https://www.linkedin.com/shareArticle?url=<%= data.social_media.share.url %><%= current_article.url %>" target="_blank" class="inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2">
+          <%= partial "svg/linkedin_inverse.svg" %>
+		</a>
+
+        <a href="https://x.com/intent/tweet?text=<%= current_article.title %>&url=<%= data.social_media.share.url %><%= current_article.url %>" target="_blank" class="inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2">
+          <%= partial "svg/x_logo.svg" %>
+        </a>
+
+        <a href="https://wa.me?text=<%= current_article.title %> <%= data.social_media.share.url %>" target="_blank" class="inline-block w-8 h-8 md:w-12 md:h-12 p-1 md:p-3 flex justify-center bg-gray-light border border-blue-dark hover:border-orange rounded-full mx-2">
+          <%= partial "svg/whatsapp.svg" %>
+        </a>
+
       </div>
     </div>
   </section>
