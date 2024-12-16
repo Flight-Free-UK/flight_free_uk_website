@@ -57,4 +57,4 @@ The free choice pledge can also be tailored for those who want to make a bigger 
 
 ##### *Take a look at our [inspiring testimonials](https://flightfree.co.uk/be_inspired/#testimonials) for stories of others who have taken the challenge!*
 
-##### *M﻿ake your pledge [on our website](/index) (scroll down for the Take the Challenge section)*
+##### *M﻿ake your pledge [on our website](https://flightfree.co.uk/#take-the-challenge)*
