@@ -50,10 +50,10 @@ There is no ‘minimum’ pledge that someone can make, but we encourage people 
 
 We therefore strongly encourage you not to include any holiday flights in any pledge, because of the urgency of the climate crisis.
 
-The free choice pledge can also be tailored for those who want to make a bigger commitment than one flight free year, for example four years flight-free, or a flight-free decade, or even flight-free for life.
+The pledge can also be tailored for those who want to make a bigger commitment than one flight free year, for example four years flight-free, or a flight-free decade, or even flight-free for life.
 
-##### *If you have any questions or queries about our pledge or campaign, check out our [FAQ page](/faq), or [get in touch](mailto:info@flightfree.co.uk).*
+***If you have any questions or queries about our pledge or campaign, visit our [FAQ page](/faq), or [get in touch](mailto:info@flightfree.co.uk).***
 
-##### *Take a look at our [inspiring testimonials](https://flightfree.co.uk/be_inspired/#testimonials) for stories of others who have taken the challenge!*
+***Take a look at our [inspiring testimonials](https://flightfree.co.uk/be_inspired/#testimonials) for stories of others who have taken the challenge!***
 
-##### *M﻿ake your pledge [on our website](https://flightfree.co.uk/#take-the-challenge)*
+***M﻿ake your pledge [on our website](https://flightfree.co.uk/#take-the-challenge)***
