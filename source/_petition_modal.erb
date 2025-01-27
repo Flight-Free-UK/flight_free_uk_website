@@ -1,18 +1,20 @@
 <!-- PETITION MODAL class="is-open" is added to the modal to make it visible -->
 <div id="petition-modal" aria-hidden="true" class="hidden modal">
   <div tabindex="-1" data-micromodal-close class="fixed inset-0 flex items-center justify-center" style="background-color:rgba(31, 77, 123, 0.75)">
-  	<a href="https://www.gov.uk" target="_blank">
-	<div role="dialog" aria-modal="true" aria-labelledby="petition-modal-title" class="relative px-4 sm:px-8 py-6 lg:p-12 bg-orange">
-	  <header>
-		<h2 id="petition-modal-title" class="text-5xl text-blue-dark text-center leading-none mb-4">No<br>Airport<br>Expansion</h2>
-		<button aria-label="Close modal" data-micromodal-close="" class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
-	  </header>
-	  <div id="petition-modal-content" class="text-blue-dark text-center leading-tight">
-		<p class="text-2xl mb-4 max-w-360">We are telling the Government WE DON'T WANT EXPANSION at any UK airport, including Heathrow, Gatwick and Luton.</p>
-		<p class="text-3xl font-bold">Click to sign the petition</p>
-	  </div>
+	<div role="dialog" aria-modal="true" aria-labelledby="petition-modal-title" class="relative">
+		<button aria-label="Close modal" data-micromodal-close class="absolute w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg); top:-36px; right:-36px"></button>
+  		<a id="petition-link" href="https://www.gov.uk" target="_blank">
+		<div class="px-4 sm:px-8 py-6 lg:p-12 bg-orange">
+	  		<header>
+				<h2 id="petition-modal-title" class="text-5xl text-blue-dark text-center leading-none mb-4">No<br>Airport<br>Expansion</h2>
+	  		</header>
+	  		<div id="petition-modal-content" class="text-blue-dark text-center leading-tight">
+				<p class="text-2xl mb-4 max-w-360">We are telling the Government WE DON&rsquo;T WANT EXPANSION at any UK airport, including Heathrow, Gatwick and Luton.</p>
+				<p class="text-3xl font-bold">Click to sign the petition</p>
+	  		</div>
+			</div>
+		</a>
 	</div>
-	</a>
   </div>
 </div>
 
@@ -24,18 +26,21 @@ var timeToWait = 90 * 24 * 60 * 60 * 1000; // 90 days in milliseconds
 timeToWait = 1000*60*10; // 10 minutes for testing
 timeToWait = 1000*10; // 10 seconds for development
 
-// When the page has loaded, check if this is the first visit of ir the last visit was more than 90 days ago
+// When the page has loaded, check if this is the first visit or if the last visit was more than 90 days ago
 // If it is, update the local storage and display the modal
 window.addEventListener("load", function() {
 	if (!lastVisit || (currentVisit - lastVisit) > (timeToWait)) {
-		console.log('First visit or more than 90 days since last visit, so show the modal');
 		// Update the last visit time
 		localStorage.setItem('flightfree_petition_last_displayed', currentVisit);
 		
 		// Show the modal if it is the first visit or more than 90 days since last visit
 		setTimeout(function () {
 			MicroModal.show('petition-modal');
-		}, 1000);
+		}, 100);
 	}
+});
+document.getElementById('petition-link').addEventListener('click', function() {
+	// Close the popup
+	MicroModal.close('petition-modal');
 });
 </script>
