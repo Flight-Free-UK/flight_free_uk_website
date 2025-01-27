@@ -24,7 +24,6 @@ var lastVisit = localStorage.getItem('flightfree_petition_last_displayed');
 var currentVisit = new Date().getTime();
 var timeToWait = 90 * 24 * 60 * 60 * 1000; // 90 days in milliseconds
 timeToWait = 1000*60*10; // 10 minutes for testing
-timeToWait = 1000*10; // 10 seconds for development
 
 // When the page has loaded, check if this is the first visit or if the last visit was more than 90 days ago
 // If it is, update the local storage and display the modal
