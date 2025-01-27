@@ -26,7 +26,7 @@ The government is relying on so-called ‘sustainable’ aviation fuel (SAF) to 
 
 In addition, more planes means more noise and air pollution in areas surrounding airports. Local residents already suffer poor mental and physical health as a result of planes landing and taking off nearby, and expansion would make this worse.
 
-Reeves points to economic growth, but the New Economics Foundation has shown that previous airport expansions have not delivered the expected economic growth. In addition, more tourist spending goes out of the UK than comes in through airports, meaning that, on balance, airports create a deficit in our economy.
+Reeves points to economic growth, but the New Economics Foundation has shown that previous airport expansions have not delivered the expected economic growth, and as more tourist spending goes out of the UK than comes in through airports, on balance, airports create a deficit in our economy.
 
 The argument for economic growth cannot come at a cost to the environment, when climate change is among the biggest challenges we are currently facing. 
 
