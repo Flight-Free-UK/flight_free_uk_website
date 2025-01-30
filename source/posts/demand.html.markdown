@@ -17,7 +17,7 @@ This is often used as a reason to justify airport expansion. But do airports res
 
 Are airlines responding to demand? Or are they are shaping demand with the routes they introduce? 
 
-> Flights *will* stop going if we stop taking them
+> Flights *will* stop going if we stop taking them.
 
 Many people say, ‘the plane will go anyway’, suggesting that the demand for flights will always be there, regardless of what we do. But flights *will* stop going if we stop taking them. Not straight away, but in the longer term. Even short term, airlines respond to demand: more flights are added when big sports fixtures are scheduled, for example.
 
@@ -44,7 +44,7 @@ But what would happen if the price increased? It would make flying less competit
 
 W﻿ould a ruby wedding be celebrated with a family trip to Tenerife? Maybe they would celebrate with a party, a meal at a nice restaurant, or a [rose for the garden instead](https://www.classicroses.co.uk/roses/bush/ruby-anniversary-modern-standard-rose.html). 
 
-> What would happen if the price increased? It would make flying less competitive and reshape all kinds of choices.
+> What would happen if the price increased? It would make flying less competitive and lead to different choices being made.
 
 Is it really flying that we demand? We demand good times with our families and friends. We demand memorable occasions. We demand access to work and education.
 
