@@ -4,8 +4,7 @@ title: The demand myth
 category: opinion
 date: 2020-11-25T09:11:46.856Z
 cover_image: /images/uploads/airport_queue_canva.jpg
-summary: Is demand for flights rising? And what do we really demand when it
-  comes to flying?
+summary: Is demand for flights rising? What do we really demand when it comes to flying?
 author: FlightFree UK
 read_time_minute: 2
 ---
