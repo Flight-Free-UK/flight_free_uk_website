@@ -38,7 +38,7 @@ Here are some types of flying that people didn’t used to do before low cost ai
 * Organising a hen party in Magaluf because the bars there give you free drinks.
 * Choosing to study at university in England because you can commute from your home in Eastern Europe via Luton Airport.
 
-These are all rational choices, when flying is so inexpensive – [especially if you don’t think about the impact on the climate](https://flightfree.co.uk/post/money-talks/).
+These are all rational choices, when flying is so inexpensive – especially if you don’t think about the [impact on the climate](/post/what-has-aviation-got-to-do-with-climate-change/).
 
 But what would happen if the price increased? It would make flying less competitive with other forms of transport, which would probably lead to different choices being made.
 
