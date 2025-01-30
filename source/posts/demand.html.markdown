@@ -3,9 +3,9 @@ published: true
 title: The demand myth
 category: opinion
 date: 2020-11-25T09:11:46.856Z
-cover_image: /images/uploads/credit-jayme_elkins-with_many_roots-holiday_in_scotland.jpg
-summary: Maggie Robertson asks, is demand for flights rising? And what do we
-  really demand when it comes to flying?
+cover_image: /images/uploads/airport_queue_canva.jpg
+summary: Is demand for flights rising? And what do we really demand when it
+  comes to flying?
 author: FlightFree UK
 read_time_minute: 2
 ---
