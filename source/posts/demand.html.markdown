@@ -19,13 +19,13 @@ Are airlines responding to demand? Or are they are shaping demand with the route
 
 > Flights *will* stop going if we stop taking them
 
-Many people say, ‘the plane will go anyway’, suggesting that the demand for flights will always be there, regardless of what we do. But flights *will* stop going if we stop taking them. Not straight away, but in the longer term. Even short term, airlines respond to demand: more flights are added when big sports fixtures need to be catered for, for example.
+Many people say, ‘the plane will go anyway’, suggesting that the demand for flights will always be there, regardless of what we do. But flights *will* stop going if we stop taking them. Not straight away, but in the longer term. Even short term, airlines respond to demand: more flights are added when big sports fixtures are scheduled, for example.
 
 ##### The definition of demand in economics is the willingness and ability of a consumer to purchase something. 
 
 The willingness and ability of a consumer to purchase a flight is driven by lots of things, but mostly low prices. 
 
-There's no doubt that budget airlines have given consumers a lot more ability to purchase a flight: UK residents made [73% more visits overseas in 2019 than in 1999](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2019#uk-residents-visits-and-spend-abroad) – the year that EasyJet first sold more than £1m worth of flights online. 
+UK residents made [73% more visits overseas in 2019 than in 1999](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2019#uk-residents-visits-and-spend-abroad) – the year that EasyJet first sold more than £1m worth of flights online. 
 
 Most of the growth in that time was in leisure travel, and it’s not a coincidence that the massive increase in flying has happened since low cost airlines like EasyJet and Ryanair have been on the scene. Low prices enabled all sorts of new flying habits. 
 
