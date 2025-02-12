@@ -8,13 +8,13 @@ summary: Iain travels by train from the UK to 3 Zinnen in the Italian Dolomite
 author: FlightFree UK
 read_time_minute: 4
 ---
-February 2025 saw the launch of a [new European Sleeper overnight service](https://www.europeansleeper.eu/bolzano) from Brussels to Venice, via the Netherlands, Germany and Austria. It’s the perfect train for reaching ski resorts in the Dolomites, and with a winter-only timetable (currently), it’s clearly aimed at that market. 
+### February 2025 saw the launch of a [new European Sleeper overnight service](https://www.europeansleeper.eu/bolzano) from Brussels to Venice, via the Netherlands, Germany and Austria. 
 
+##### It’s the perfect train for reaching ski resorts in the Dolomites, and with a winter-only timetable (currently), it’s clearly aimed at that market. 
 
+Getting from the UK to the Dolomites without stopping overnight en-route would otherwise involve a Eurostar from London to Amsterdam, the ÖBB [Nightjet service](https://skiflightfree.org/tag/nightjet/) to Innsbruck, then the ÖBB Railjet service to the gateway towns of Bressanone/Brixen, Ponte Gardena/Waidbruck and Bolzano/Bozen. The chance to reach the Dolomites easily by train appealed.
 
-Until now, getting from the UK to the Dolomites without stopping overnight en-route would involve a Eurostar from London to Amsterdam, the ÖBB [Nightjet service](https://skiflightfree.org/tag/nightjet/) to Innsbruck, then the ÖBB Railjet service to the gateway towns of Bressanone/Brixen, Ponte Gardena/Waidbruck and Bolzano/Bozen. The chance to get to the Dolomites easily by train appealed.
-
-Starting from Brighton, the journey began with a direct train to London St Pancras, arriving just 40 minutes before the Eurostar departure. Some might consider this too close for comfort (the website recommends arrival 75 minutes before departure), but in my experience, this is ample time. It typically takes 5-10 minutes to get from check in to the departure hall and today was no exception: less than 5 minutes after arriving, I was inside the terminal, with enough time to visit the bathroom, grab a tea and do a little bit of work before going up to the platform and find my seat.
+Starting from Brighton, the journey began with a direct train to London St Pancras, arriving just 40 minutes before the Eurostar departure. Some might consider this too close for comfort (the website recommends arrival 75 minutes before departure), but in my experience, this is ample time. It typically takes 5-10 minutes to get from check in to the departure hall and today was no exception: less than 5 minutes after arriving, I was inside the terminal, with enough time to visit the bathroom, grab a tea and do a little bit of work before going up to the platform and finding my seat.
 
 Unusually for me, I was in ‘Eurostar Plus’, having qualified for a free upgrade from my ‘Avantage’ membership – the Eurostar’s frequent traveller programme. The seating is slightly more spread out, but the main ‘plus’ is that you are served a meal en route. This was surprisingly good, and I appreciated the regular top ups of tea during the journey.
 
@@ -24,7 +24,7 @@ Unfortunately, the atmosphere was dampened by the announcement that the debut se
 
 Running night trains across borders is not easy. Few locomotives or drivers are licensed to operate internationally, and the varying operating practices and legal requirements of each different railway can add another level of complexity and bureaucracy. Hopefully European Sleeper will be able to iron this out as the season goes on.
 
-Despite the unwelcome news, there was a lot of excitement when the actual European Sleeper train pulled in to Brussels Zuid/Midi, and we boarded. The six-person couchettes reminded me immediately of the trains that I used when I was interrailing around Europe in 1987, trying to save money by taking night trains from city to city.
+Despite the unwelcome news, there was a lot of excitement when the actual European Sleeper train pulled in and we boarded. The six-person couchettes reminded me immediately of the trains that I used when I was interrailing around Europe in 1987, trying to save money by taking night trains from city to city.
 
 That’s because some of the European Sleeper carriages are fifty years old. On first glance, they looked slightly shabby, but they weren’t significantly different from the [couchettes I’ve slept in on SNCF](https://skiflightfree.org/uk-to-corsica-train-ferry-flight-free/) over the last couple of years.
 
@@ -38,18 +38,18 @@ Savvy travellers had pre-booked their meals and guaranteed themselves one of the
 
 There was a great atmosphere on the train, aided by the cosmopolitan mix of nationalities (mainly British, Belgian, Dutch, but also German, Chinese and American).
 
-After a reasonable night’s sleep in my six-person compartment (sharing with just two others), we pulled into Innsbruck. The connecting OBB Railjet departed 45 minutes later, just the right amount of time to stretch my legs, grab some supplies from the station’s supermarket and return to the platform for the final leg of the journey.
+After a reasonable night’s sleep in my six-person compartment (sharing with just two others), we pulled into Innsbruck. The connecting ÖBB Railjet departed 45 minutes later, just the right amount of time to stretch my legs, grab some supplies from the station’s supermarket and return to the platform for the final leg of the journey.
 
 The Railjet definitely felt like an upgrade on the European Sleeper, with more modern coaches and excellent wifi, and despite it being busier I managed to get some work done before we pulled into Bressanone/Brixen at around 13:00. 
 
-I left the train, leaving my fellow passengers to continue to Verona and onto Venice, while I took a taxi to Innichen/San Candido. Normally you could take a train all the way to the resort, but some work is going on to the track this winter.
+I left my fellow passengers to continue to Verona and onto Venice, while I took a taxi to Innichen/San Candido. Normally you could take a train all the way to the resort, but some work is going on to the track this winter.
 
 Despite the fact that the European Sleeper train didn’t operate as planned, from my point of view it wasn’t an issue. I had a great journey and arrived only two hours behind schedule.
 
 The advantage of travelling by train to go skiing is not only the lower emissions: you can also ski all of the final day, as your departure from the Dolomites will be around 5pm.
 
-The excitement of passing through six countries in 24 hours made me feel like a real traveller again. Train travel isn't just about getting from A to B, it's about the experience, in this case shared with a community of other train lovers.
+The excitement of passing through six countries in 24 hours made me feel like a real traveller again. Train travel isn’t just about getting from A to B, it’s about the experience, in this case shared with a community of other train lovers.
 
 Fares: from €189 each way for a couchette, €799 for the full six-person couchette, or €89 for a seat.
 
-Andy B Travels: why operating a night train is so difficult: <https://www.andybtravels.com/news/european-sleeper>
+*S﻿ome insight into why operating night trains is so difficult: [www.andybtravels.com/news/european-sleeper](https://www.andybtravels.com/news/european-sleeper)*
