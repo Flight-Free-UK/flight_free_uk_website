@@ -8,6 +8,8 @@ summary: Iain travels by train from the UK to 3 Zinnen in the Italian Dolomite
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/dolomites_ski_canva.jpg)
+
 ### February 2025 saw the launch of a [new European Sleeper overnight service](https://www.europeansleeper.eu/bolzano) from Brussels to Venice, via the Netherlands, Germany and Austria. 
 
 ##### It’s the perfect train for reaching ski resorts in the Dolomites, and with a winter-only timetable (currently), it’s clearly aimed at that market. 
