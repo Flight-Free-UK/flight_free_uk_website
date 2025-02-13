@@ -8,9 +8,9 @@ summary: Iain travels by train from the UK to 3 Zinnen in the Italian Dolomite
 author: FlightFree UK
 read_time_minute: 4
 ---
-![](/images/uploads/dolomites_ski_canva.jpg)
+![](/images/uploads/ski-lifts-dolomites-imartin.jpg)
 
-### February 2025 saw the launch of a [new European Sleeper overnight service](https://www.europeansleeper.eu/bolzano) from Brussels to Venice, via the Netherlands, Germany and Austria. 
+### February 2025 saw the launch of a [new European Sleeper overnight service](https://www.europeansleeper.eu/bolzano) from Brussels to Venice, via the Netherlands, Germany and Austria.
 
 ##### It’s the perfect train for reaching ski resorts in the Dolomites, and with a winter-only timetable (currently), it’s clearly aimed at that market. 
 
@@ -35,6 +35,8 @@ Walking up and down the train, it was clear that it wasn’t a problem for the p
 Seasoned train travellers from the UK to the Alps will fondly remember the disco carriage on the ski train. It might be my memory, but I have the sense that this was open all night once upon a time, leading many a skier to arrive in the mountains extremely blurry-eyed.
 
 So I’m pleased to confirm that this spirit seemed to be alive in the dining car on the European Sleeper: this was where all the fun was going on as we sped through Europe towards the snow.
+
+![](/images/uploads/european-sleeper-dining-car-imartin.jpg "The dining car on the European Sleeper")
 
 Savvy travellers had pre-booked their meals and guaranteed themselves one of the dozen or so places available. The rest of us squeezed in and the bar staff certainly earned their keep serving non-stop until the bar closed (to their undoubted relief) at 1am.
 
