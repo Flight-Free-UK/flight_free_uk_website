@@ -26,6 +26,8 @@ Unfortunately, the atmosphere was dampened by the announcement that the debut se
 
 Running night trains across borders is not easy. Few locomotives or drivers are licensed to operate internationally, and the varying operating practices and legal requirements of each different railway can add another level of complexity and bureaucracy. Hopefully European Sleeper will be able to iron this out as the season goes on.
 
+![](/images/uploads/european-sleeper-ian-imartin.jpg)
+
 Despite the unwelcome news, there was a lot of excitement when the actual European Sleeper train pulled in and we boarded. The six-person couchettes reminded me immediately of the trains that I used when I was interrailing around Europe in 1987, trying to save money by taking night trains from city to city.
 
 That’s because some of the European Sleeper carriages are fifty years old. On first glance, they looked slightly shabby, but they weren’t significantly different from the [couchettes I’ve slept in on SNCF](https://skiflightfree.org/uk-to-corsica-train-ferry-flight-free/) over the last couple of years.
