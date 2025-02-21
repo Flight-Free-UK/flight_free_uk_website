@@ -12,7 +12,7 @@ read_time_minute: 4
 ---
 ![Picture shows a women in a yellow raincoat standing on the top of a craggy hill top. She has her back to the camera and in front of her is a mountain range and green rolling hills. The sky is blue and cloudy. ](/images/uploads/lucas-wesney-landscape-woman-unsplash.jpg "Credit: Lucas Wesney (Source: Unsplash)")
 
-## [Byway](https://www.byway.travel/) is the world’s first platform for flight-free holidays, offering travel and accommodation packages away from the traditional tourist trails, using trains, bikes, buses and ferries. 
+## [Byway](https://www.byway.travel/) is the world’s first platform for flight-free holidays, offering travel and accommodation packages away from the traditional tourist trails, using trains, bikes, buses and ferries.
 
 #### Cat Jones, Byway founder and CEO, shares seven ways to keep your holidays carbon-friendly.
 
@@ -27,8 +27,6 @@ Calculating carbon emissions for train versus air travel is complex as it depend
 * [DEFRA stats](https://www.gov.uk/government/collections/air-quality-and-emissions-statistics) show that UK domestic flights emit, on average, five times more CO2 than taking the same journey by train
 
 Science has got this one. And we have your back when it comes to bookings. We’ve worked hard to create delightful holidays that don’t rely on flights: our breaks are 100% flight free, and much more delightful for it!
-
-![](/images/uploads/co2-emissions-passenger-transport-ffuk.jpg)
 
 ### 2. Don’t go on a shopping frenzy
 
