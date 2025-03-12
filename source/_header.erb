@@ -33,18 +33,22 @@
   <div class="flex flex-wrap justify-end">
     <nav class="hidden xl:flex flex-col xl:flex-row flex-wrap w-full xl:w-2/3 items-center justify-around xl:justify-between px-8 xl:pl-0 xl:pr-8 pt-6 xl:pt-0 pb-6 xl:pb-0 text-2xl text-center">
     <% {
-         "/why_flight_free.html" => "Why flight free?",
-         "/how_to.html" => "Travel",
-         "/about_us.html" => "About",
-         "/be_inspired.html#testimonials" => "Testimonials",
-         "/be_inspired.html" => "Blog",
-         "/podcast.html" => "Podcast",
+         "why_flight_free.html" => "Why flight free?",
+         "how_to.html" => "Travel",
+         "about_us.html" => "About",
+         "be_inspired.html#testimonials" => "Testimonials",
+         "be_inspired.html" => "Blog",
+         "podcast.html" => "Podcast",
 		 "https://www.tickettailor.com/events/flightfreeuk?" => "Events",
-         "/faq.html" => "FAQ"
+         "faq.html" => "FAQ"
        }.each do |path, name| %>
-       <% 
-	   current = "#{path}" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("travel") && "how_to" == path ) || ( current_page.path.include?("posts") && !current_page.path.include?("travel") && "articles" == path ) || ( current_page.path.include?("how_tos") && "how_to" == path ) %><%#  || ( path.include?("testimonials") && "Testimonials" == name ) %>
-	   <%= link_to name, "#{path}", class: "inline-block mb-2 xl:mb-0 #{!is_home ? "border-b-4" :  nil } #{current ? "border-orange" : "border-blue-dark"} leading-tight text-gray-light hover:text-orange" %>
+       		<% current = "#{path}" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("travel") && "how_to" == path ) || ( current_page.path.include?("posts") && !current_page.path.include?("travel") && "articles" == path ) || ( current_page.path.include?("how_tos") && "how_to" == path ) %>
+			<%# events special case #%>
+			<% if name == "Events" %>
+				<%= link_to name, "#{path}", class: "inline-block mb-2 xl:mb-0 border-blue-dark leading-tight text-gray-light hover:text-orange" %>
+			<% else %>
+	   			<%= link_to name, "/#{path}", class: "inline-block mb-2 xl:mb-0 #{!is_home ? "border-b-4" :  nil } #{current ? "border-orange" : "border-blue-dark"} leading-tight text-gray-light hover:text-orange" %>
+			<% end %>
     <% end %>
     </nav>
   </div>
