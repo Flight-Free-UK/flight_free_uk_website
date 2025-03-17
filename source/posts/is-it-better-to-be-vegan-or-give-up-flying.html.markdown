@@ -26,7 +26,7 @@ So on face value it’s understandable why people think that changing our diet w
 
 #### Global vs individual
 
-However, these stats talk about global figures. Globally, the animal agriculture sector has a bigger share of emissions than the aviation sector, but that’s mainly because animal agriculture serves a much, much larger proportion of the global population. It has been estimated that only around [10% of people across the globe fly in any given year](https://tanjent-energy.com/blog/1-of-people-cause-half-of-global-aviation-emissions-study/), whereas meat protein is found in 40% of diets. No wonder that the overall impact of aviation is lower. Far fewer people do it. 
+However, these stats talk about global figures. Globally, the animal agriculture sector has a bigger share of emissions than the aviation sector, but that’s mainly because animal agriculture serves a much, much larger proportion of the global population. It has been estimated that only around [10% of people across the globe fly in any given year](https://tanjent-energy.com/blog/1-of-people-cause-half-of-global-aviation-emissions-study/), (﻿only 4% internationally) whereas meat and animal protein is found in [40% of diets](https://pmc.ncbi.nlm.nih.gov/articles/PMC8926870/). No wonder that the overall impact of aviation is lower. Far fewer people do it.
 
 When we look at the individual picture, the numbers are much more stark. While reducing or cutting your meat intake can do wonders for lowering your carbon footprint, with estimates suggesting that you can save [nearly a tonne of CO2](https://www.lunduniversity.lu.se/article/four-lifestyle-choices-most-reduce-your-carbon-footprint) per year by going vegan, taking a flight anywhere outside Europe can immediately heap it back on. 
 

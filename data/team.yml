@@ -8,15 +8,14 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
-  - name: Ella Martin
+  - name: David Hanagan
     role: Social media
-    bio: Originally from Essex, Ella is now studying Environmental Science at the
-      University of Exeter. Her work with the Royal Parks, the Cornish Wildlife
-      Trust and the Bumblebee Conservation Trust has given her an enthusiasm for
-      conservation and biodiversity (and a love for bees – probably the world's
-      most climate-friendly flyers!). Her dream flight-free trip would be
-      city-hopping around Spain.
-    photo: /images/uploads/ella_martin.jpeg
+    bio: Having spent many years volunteering with wildlife and nature groups, David
+      is now studying Wildlife Biology and Conservation at Edinburgh Napier
+      University. A keen cyclist, hiker and photographer, his dream flight-free
+      trip would be a cycling tour around the highlands of Scotland, camping and
+      taking photographs of the magnificent scenery.
+    photo: /images/uploads/david_hanagan.jpeg
   - name: Joy Kimberlee
     role: Fundraising Officer
     bio: A keen cyclist, Joy co-founded the Sheffield Bike Project to promote
@@ -26,14 +25,6 @@ members:
       put to good use as our Fundraising Officer. A dream flight-free holiday
       would be to cycle all the way to Germany to visit her aunties.
     photo: /images/uploads/joy_kimberlee.jpeg
-  - name: Maria Pacelli
-    bio: A recent graduate from the University of Reading, Maria studied the Science
-      of Climate Change and Environmental Management in Practice, both of which
-      deepened her understanding of environmental issues and strengthened her
-      commitment to sustainability. Her dream flight free trip would be to
-      explore the Scottish Highlands and Islands by train and ferry.
-    role: Social media
-    photo: /images/uploads/maria_pacelli.jpg
   - name: Mark Taylor
     bio: Living in delightful North Norfolk, Mark has previously worked for Fauna
       and Flora Intl and WCMC (World Conservation Monitoring Center). He gives
