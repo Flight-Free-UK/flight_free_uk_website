@@ -25,7 +25,7 @@ Reeves says that economic growth can go hand in hand with sustainable aviation, 
 
 Bigger airports mean more noise and air pollution in the surrounding area. Local residents already suffer poor mental and physical health as a result of planes landing and taking off nearby, and expansion would make this worse. (5)
 
-Reeves points to economic growth, but the New Economics Foundation has shown that previous airport expansions have not delivered the expected economic growth, and as more tourist spending goes out of the UK than comes in through airports, on balance, airports create a deficit in our economy.
+Reeves points to economic growth, but the New Economics Foundation has shown that previous airport expansions have not delivered the expected economic growth, and as more tourist spending goes out of the UK than comes in through airports, on balance, airports create a deficit in our economy. (6)
 
 The argument for economic growth cannot come at a cost to the environment, when climate change is among the biggest challenges we are currently facing. 
 
@@ -43,6 +43,8 @@ Best wishes,
 
 (﻿3) *Shell boss dismisses Reeves' 'game changer' green fuel for Heathrow claim*  <https://www.independent.co.uk/news/business/shell-sustainable-jet-fuel-heathrow-reeves-b2691129.html>
 
-(﻿4) ICAO (second para of 2.3): <https://www.icao.int/environmental-protection/knowledge-sharing/Docs/Sustainable%20Aviation%20Fuels%20Guide_vf.pdf>
+(﻿4) *ICAO (second para of 2.3)* <https://www.icao.int/environmental-protection/knowledge-sharing/Docs/Sustainable%20Aviation%20Fuels%20Guide_vf.pdf>
 
 (﻿5) <https://www.aef.org.uk/what-we-do/noise/> *"Aircraft noise can impact memory and learning in children, disturb sleep, and cause serious long-term health problems including cardiovascular disease. A [large scale study](https://www.aef.org.uk/2013/10/11/aircraft-noise-linked-to-higher-rates-of-heart-disease-and-stroke-near-heathrow/) around Heathrow Airport found that people living under the flightpath were 10-20% more at risk of stroke and heart disease than those not living under the flight path. There is also emerging evidence of impacts on mental health, linked to increases in stress and anxiety."*
+
+(﻿6) *In 2023, 86.2 million UK residents spent £72.4 billion abroad. 38 million overseas visitors spent £31.1 billion in the UK.* [ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2023](ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2023)
