@@ -39,12 +39,12 @@ Best wishes,
 
 (﻿1) <https://www.theccc.org.uk/publication/2023-progress-report-to-parliament/> 
 
-(﻿2) *219 million passengers passed through UK airports in 2011, 296.66 million in 2019 = 35.46% increase* <https://www.statista.com/statistics/304922/number-of-passengers-arriving-and-departing-in-airport-terminals-in-the-united-kingdom/>
+(﻿2) 219 million passengers passed through UK airports in 2011, 296.66 million in 2019 = 35.46% increase <https://www.statista.com/statistics/304922/number-of-passengers-arriving-and-departing-in-airport-terminals-in-the-united-kingdom/>
 
-(﻿3) *Shell boss dismisses Reeves' 'game changer' green fuel for Heathrow claim*  <https://www.independent.co.uk/news/business/shell-sustainable-jet-fuel-heathrow-reeves-b2691129.html>
+(﻿3) Shell boss dismisses Reeves' 'game changer' green fuel for Heathrow claim  <https://www.independent.co.uk/news/business/shell-sustainable-jet-fuel-heathrow-reeves-b2691129.html>
 
-(﻿4) *ICAO (second para of 2.3)* <https://www.icao.int/environmental-protection/knowledge-sharing/Docs/Sustainable%20Aviation%20Fuels%20Guide_vf.pdf>
+(﻿4) ICAO (second para of 2.3) <https://www.icao.int/environmental-protection/knowledge-sharing/Docs/Sustainable%20Aviation%20Fuels%20Guide_vf.pdf>
 
-(﻿5) <https://www.aef.org.uk/what-we-do/noise/> *"Aircraft noise can impact memory and learning in children, disturb sleep, and cause serious long-term health problems including cardiovascular disease. A [large scale study](https://www.aef.org.uk/2013/10/11/aircraft-noise-linked-to-higher-rates-of-heart-disease-and-stroke-near-heathrow/) around Heathrow Airport found that people living under the flightpath were 10-20% more at risk of stroke and heart disease than those not living under the flight path. There is also emerging evidence of impacts on mental health, linked to increases in stress and anxiety."*
+(﻿5) <https://www.aef.org.uk/what-we-do/noise/> "Aircraft noise can impact memory and learning in children, disturb sleep, and cause serious long-term health problems including cardiovascular disease. A [large scale study](https://www.aef.org.uk/2013/10/11/aircraft-noise-linked-to-higher-rates-of-heart-disease-and-stroke-near-heathrow/) around Heathrow Airport found that people living under the flightpath were 10-20% more at risk of stroke and heart disease than those not living under the flight path. There is also emerging evidence of impacts on mental health, linked to increases in stress and anxiety."
 
-(﻿6) *In 2023, 86.2 million UK residents spent £72.4 billion abroad. 38 million overseas visitors spent £31.1 billion in the UK.* [ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2023](ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2023)
+(﻿6) In 2023, 86.2 million UK residents spent £72.4 billion abroad. 38 million overseas visitors spent £31.1 billion in the UK. [ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2023](ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/traveltrends/2023)
