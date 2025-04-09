@@ -27,7 +27,7 @@ Bigger airports mean more noise and air pollution in the surrounding area. Local
 
 Reeves points to economic growth, but the New Economics Foundation has shown that previous airport expansions have not delivered the expected economic growth, and as more tourist spending goes out of the UK than comes in through airports, on balance, airports create a deficit in our economy. (6)
 
-The argument for economic growth cannot come at a cost to the environment, when climate change is among the biggest challenges we are currently facing. 
+The argument for economic growth cannot come at a cost to the environment, when we are reaching and passing climate tipping points all the time.
 
 Will you oppose the expansion of all UK airports, including Heathrow, Gatwick and Luton?
 
