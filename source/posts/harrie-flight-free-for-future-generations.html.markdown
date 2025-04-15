@@ -4,7 +4,7 @@ title: "Harrie: flight-free as a kiwi"
 category: testimonials
 date: 2025-04-15T18:37:46.518Z
 cover_image: /images/uploads/harrie_testimonial_cover.jpg
-summary: '"Te Ao Māori acknowledges that we are a part of te taiao (the
+summary: '"Te Ao Maori acknowledges that we are a part of te taiao (the
   environment) and should manage our relationships accordingly."'
 author: FlightFree UK
 read_time_minute: 2
