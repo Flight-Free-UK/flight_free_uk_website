@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Harrie: flight-free for future generations"
+title: "Harrie: flight-free (like the kiwi!)"
 category: testimonials
 date: 2025-04-15T18:37:46.518Z
 cover_image: /images/uploads/harrie_testimonial_cover.jpg
