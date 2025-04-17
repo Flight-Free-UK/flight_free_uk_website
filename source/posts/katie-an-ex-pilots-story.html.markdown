@@ -21,9 +21,13 @@ I flew for almost twenty years, flight instructing on light aircraft, and then f
 
 > Sustainability was not something that had been discussed by any of the companies I worked for.
 
-Then in 2010, NetJets hired its first environmental consultant. He gave a fascinating presentation about how the company was going to plant some trees in Borneo to offset the company’s carbon emissions. ‘Greenwashing’ was not yet a word that anyone was familiar with, but it did not take much research to understand that there was not enough land in the world to plant enough trees needed to cancel out the pollution caused by private jets. I slowly started to get more uncomfortable about my job, and the daily contribution I was making to accelerate the climate crisis.
+Then in 2010, NetJets hired its first environmental consultant. He gave a fascinating presentation about how the company was going to plant some trees in Borneo to offset the company’s carbon emissions. ‘Greenwashing’ was not yet a word that anyone was familiar with, but it did not take much research to understand that there was not enough land in the world to plant enough trees needed to cancel out the pollution caused by private jets. 
 
-My father died that same year, and chose to be buried in a biodegradable coffin – basically, a big white cardboard box. My sister and I gathered our family and friends, opened bottles of red wine and, with coloured pens, pencils, photos and glue sticks, turned the box into a tribute to him. On the top, we reproduced the logos of all the companies and charities that he had worked for over his interesting career, including the iconic United Nations logo with its olive branches encircling the world. As I sat there drawing, I suddenly foresaw my own coffin, dominated by an enormous grey ‘NetJets’ logo and surrounded by clouds of pollution. Chills ran through my body. 
+I slowly started to get more uncomfortable about my job, and the daily contribution I was making to accelerate the climate crisis.
+
+My father died that same year, and chose to be buried in a biodegradable coffin – basically, a big white cardboard box. My sister and I gathered our family and friends, opened bottles of red wine and, with coloured pens, pencils, photos and glue sticks, turned the box into a tribute to him. On the top, we reproduced the logos of all the companies and charities that he had worked for over his interesting career, including the iconic United Nations logo with its olive branches encircling the world. 
+
+As I sat there drawing, I suddenly foresaw my own coffin, dominated by an enormous grey ‘NetJets’ logo and surrounded by clouds of pollution. Chills ran through my body. 
 
 It is common advice to not make big life decisions immediately after losing a loved one. I ignored this advice. A week after my father’s funeral I resigned from NetJets. I was not sure what lay ahead, but I would enjoy some precious time with my young family while I explored my options. I was pretty sure that my aviation journey was over, and in a way it was. I have not piloted an aircraft since.
 
@@ -47,4 +51,4 @@ As my awareness of the enormity of the problem grew, I found myself sinking low.
 
 It was grief for the time when air travel seemed normal, carefree and exciting. It was grief for our beautiful planet and all the living creatures who share it with us. Most of all it was grief for the future of our children and their families to come. Grief has stages which include denial, worry, guilt, anger, and, eventually, action. I decided to act; it is the only thing that helps me to alleviate the grief.
 
-Signing up for the Flight Free Challenge in 2025 represents a public commitment to stay on the ground, at least for this year. I hope the next flight I go on, or pilot, will be on a zero-emissions aircraft.
+##### Signing up for the Flight Free Challenge in 2025 represents a public commitment to stay on the ground, at least for this year. I hope the next flight I go on, or pilot, will be on a zero-emissions aircraft.
