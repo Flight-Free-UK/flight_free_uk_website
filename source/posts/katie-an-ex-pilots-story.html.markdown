@@ -11,9 +11,15 @@ read_time_minute: 5
 ---
 ![](/images/uploads/katie-thompson-testimonial-body.jpg)
 
-My childhood was spent on three continents because of my father’s job with the United Nations, so getting on an airplane has always been a very normal thing to do. Growing up, my only real dream was to find a job where I could keep travelling. I started telling people that I was going to be a pilot, but it was only a fantasy, until one day I went up in a little Cessna 152 for an introductory flight. From that day on I was completely hooked.
+### My childhood was spent on three continents because of my father’s job with the United Nations, so getting on an airplane has always been a very normal thing to do.
+
+##### Growing up, my only real dream was to find a job where I could keep travelling. 
+
+I started telling people that I was going to be a pilot, but it was only a fantasy, until one day I went up in a little Cessna 152 for an introductory flight. From that day on I was completely hooked.
 
 I flew for almost twenty years, flight instructing on light aircraft, and then flying all over the world as a long-haul Airbus A340 pilot. My last flying job was as the captain of a private jet for NetJets, as well as managing their flight safety department. Sustainability was not something that had been discussed by any of the companies I worked for, or during the continuous training that goes hand-in-hand with being a commercial pilot.
+
+> Sustainability was not something that had been discussed by any of the companies I worked for.
 
 Then in 2010, NetJets hired its first environmental consultant. He gave a fascinating presentation about how the company was going to plant some trees in Borneo to offset the company’s carbon emissions. ‘Greenwashing’ was not yet a word that anyone was familiar with, but it did not take much research to understand that there was not enough land in the world to plant enough trees needed to cancel out the pollution caused by private jets. I slowly started to get more uncomfortable about my job, and the daily contribution I was making to accelerate the climate crisis.
 
