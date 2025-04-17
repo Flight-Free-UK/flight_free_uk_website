@@ -45,6 +45,8 @@ The more I read, the more concerned I became. I learned that the aviation indust
 
 In spite of the growing size of the problem, I heard airlines talking loudly about their ambitious climate goals; reassuring us all that they would achieve ‘Net Zero by 2050’. As I examined the roadmaps they had produced to meet these goals, I found them based almost entirely on unscalable or unproven future technologies. 
 
+> I heard airlines talking loudly about their ambitious climate goals; reassuring us all that they would achieve ‘Net Zero by 2050’, based almost entirely on unscalable or unproven future technologies.
+
 There are brilliant aerospace engineers, scientists and entrepreneurs working tirelessly to find solutions, but they need time. As air travel continues to grow without addressing its environmental problems, the limited time we have available to fix the problem is disappearing. As I write this, in 2025, we have less than five years left if we have any hope of remaining within 1.5ºC of global warming.
 
 As my awareness of the enormity of the problem grew, I found myself sinking low. I questioned whether I was depressed, or overreacting. Should I talk to someone? Ask for medication? But I did not think I was depressed; the emotion felt familiar and all too recognisable. I realised I was grieving. 
