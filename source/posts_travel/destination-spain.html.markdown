@@ -2,7 +2,7 @@
 published: true
 title: "Destination: Spain"
 date: 2020-02-24T10:30:32.001Z
-cover_image: /images/uploads/san_sebastian_tmckenna.jpeg
+cover_image: /images/uploads/san-sebastian_canva-sm.jpg
 summary: Our 'Destinations' series takes a look at the nation's favourite
   holiday destination, Spain.
 author: FlightFree UK
@@ -11,11 +11,11 @@ category: travel
 ---
 ### Spain is a wonderfully varied country ranging from verdant, rolling hills and mountainous natural parks to flat plains and exquisite beaches.
 
-##### There’s rich architecture, world-renowned food and easy-going locals, and a temperate climate year-round. No wonder it’s so popular with us Brits. 
+##### There’s rich architecture, world-renowned food and easy-going locals, and a temperate climate year-round. No wonder it’s so popular with us Brits.
 
 Spain is easily accessible overland from the UK – great news for those taking a flight-free year. Here’s our advice on where to go in Spain and how to get there.
 
-![](/images/uploads/SanSebastian.jpeg "San Sebastian. Image credit: Tim McKenna")
+![](/images/uploads/san-sebastian-canva.jpg "San Sebastian")
 
 ## Basque Country
 
@@ -47,7 +47,7 @@ A nearby neighbour of Spain’s Catalan treasure, Barcelona, you can avoid addin
 
 **Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 40 mins, Talgo 1 hour.
 
-![](/images/uploads/valencia.jpg "Valencia")
+![](/images/uploads/valencia-canva.jpg "Valencia")
 
 ## Valencia and Alicante
 
@@ -77,7 +77,7 @@ Madrid itself is known for its museums, restaurants and nightlife. It's easy to 
 
 **Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 60mins, AVE 2hrs 30mins, Avant 30 mins. A day and half travel with an overnight stop in Barcelona.
 
-![](/images/uploads/andalucia-sevilla-oranges-giralda.jpg "Seville oranges in Andalucia")
+![](/images/uploads/seville-oranges-andalusia-canva.jpg "Seville oranges in Andalucia")
 
 ## Andalucia
 
@@ -101,7 +101,7 @@ You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see fl
 
 From the south of Spain you can even go on to Morocco, with a ferry or hovercraft across the Strait of Gibraltar.
 
-![](/images/uploads/castillo.jpg)
+![](/images/uploads/gibraltar-canva.jpg "The Rock of Gibraltar")
 
 ## Why travel overland?
 
