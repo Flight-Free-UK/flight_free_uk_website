@@ -1,8 +1,8 @@
 ---
 published: true
-title: Birmingham to Italy
+title: Birmingham to Rome
 date: 2025-05-29T08:51:18.703Z
-cover_image: /images/uploads/fabian9799-mountain-landscape-train-unsplash.jpg
+cover_image: /images/uploads/rome-canva-cover.jpg
 summary: Ruth sets herself the challenge for getting her and her family to Italy
   and back for less than £1000 each
 author: FlightFree UK
