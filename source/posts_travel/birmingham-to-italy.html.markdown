@@ -8,6 +8,8 @@ summary: Ruth sets herself the challenge for getting her and her family to Italy
 author: FlightFree UK
 read_time_minute: 7
 ---
+![](/images/uploads/rome_canva-body.jpg "The Roman Forum in Rome")
+
 ### During the Easter holidays, I took our two older children (aged 14 and 12) on an Interrail trip to Italy.
 
 The back story to this is that earlier in the school year, the 14 year old was invited to go on a school trip to Rome and Pompeii for his Latin and Classical Civilisation GCSE class. We looked at the details and chatted it through with him, but ultimately we decided against it, for two reasons: 1) it would cost £1000 for one person for 4 days, and 2) it was a short haul return flight, and we have decided not to fly as a family due to the impact of flying on climate change. 
