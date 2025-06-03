@@ -58,7 +58,7 @@ It felt strange to go so far for such a short time but it hadn’t felt rushed, 
 
 What did we learn from our few hours in Prague? That you can travel really far even without flying. That it’s possible to get a feel for a city in just a few hours. That the journey really is as much a part of the holiday as the destination. 
 
-### When we woke the next morning, back in Brussels and a short hop from the UK, we felt the same as many others do when they’ve completed a flight-free trip: a sense of achievement and adventure, and satisfaction for not having had to get on a plane to do it.
+##### When we woke the next morning, back in Brussels and a short hop from the UK, we felt the same as many others do when they’ve completed a flight-free trip: a sense of achievement and adventure, and satisfaction for not having had to get on a plane to do it.
 
 ![](/images/uploads/euro-express_ahughes.jpg)
 
