@@ -42,13 +42,13 @@ Even though we were travelling light, we checked in our small backpacks at the l
 
 It was the perfect weather to explore: warm and sunny, but not too hot to be outside all day. We had considered using the bike hire system to speed things along, but in the end went by foot, which was perfectly fine in the time we had. The priority was to find lunch, which we did in the heart of the Old Town, in a charming cafe surrounded by narrow cobbled streets and colourful architecture. 
 
+Then it was off to see the sights, starting with Charles Bridge, where we could barely move for tourists. Groups collected next to the iconic medieval statues for the perfect photo op, and down on the river, stag parties went past on boats. The stone arch at the far end of the bridge led to more cobbled streets and an open square, where traditional Praguian trams rattled in front of the storied and decorative buildings. Open-fronted bakeries repeatedly offered the local speciality: Czech Chimney cake, a twisted pastry cone dipped in sugar and nuts and filled with ice cream. 
+
 ![](/images/uploads/img_1976.jpg "Crowds on Charles Bridge")
 
 ![](/images/uploads/img_1982.jpg "Sarah and Anna, with the cathedral that sits within Prague castle behind")
 
 ![](/images/uploads/prague-canva-2-.jpg "Colourful cobbled streets")
-
-Then it was off to see the sights, starting with Charles Bridge, where we could barely move for tourists. Groups collected next to the iconic medieval statues for the perfect photo op, and down on the river, stag parties went past on boats. The stone arch at the far end of the bridge led to more cobbled streets and an open square, where traditional Praguian trams rattled in front of the storied and decorative buildings. Open-fronted bakeries repeatedly offered the local speciality: Czech Chimney cake, a twisted pastry cone dipped in sugar and nuts and filled with ice cream. 
 
 Then it was up the steps to the castle for a view across the city, and down the other side to find the waterfront where we could sit in the peace and quiet for a few minutes, watching children feed the pigeons. 
 
