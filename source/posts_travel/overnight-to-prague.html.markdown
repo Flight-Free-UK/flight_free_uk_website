@@ -26,6 +26,8 @@ We had anticipated watching the train roll into the Dutch nighttime for a couple
 
 We awoke early as we rolled into Berlin. Fortunately the train had made up a good amount of time in the night, and by this time we were only an hour behind schedule. We joined the numerous other passengers still in their nightwear standing in the corridor, taking in the views. Berlin looked fascinating and vibrant in the morning sunshine, and we soon crossed the river where the famous green-domed cathedral stands overlooking the water. 
 
+![](/images/uploads/berlin-cathedral_canva.jpg "Berlin cathedral")
+
 This would have made the perfect location for a day trip, with a 6am arrival and 11pm departure, which would give plenty of time to see everything you might wish to see without it all feeling like a rush. But no, the train goes all the way to Prague, and so would we.
 
 Later came Dresden and more views over iconic architecture. But some of the most striking sights were the ordinary ones: acres and acres of allotment plots, which are evidently an important part of German social culture and community; churches with tall spires and red brick roofs; everyday people waiting on station platforms as we strobed through. 
