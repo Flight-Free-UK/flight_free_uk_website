@@ -58,4 +58,6 @@ The excitement of passing through six countries in 24 hours made me feel like a 
 
 Fares: from €189 each way for a couchette, €799 for the full six-person couchette, or €89 for a seat.
 
+*I﻿ain Martin runs [Ski Flight Free](https://skiflightfree.org/), a website dedicated to helping people access the Alps without flying.*
+
 *S﻿ome insight into why operating night trains is so difficult: [www.andybtravels.com/news/european-sleeper](https://www.andybtravels.com/news/european-sleeper)*
