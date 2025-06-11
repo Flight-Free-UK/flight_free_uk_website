@@ -71,4 +71,6 @@ What did we learn from our few hours in Prague? That you can travel really far e
 * hot drinks are available to buy in the morning. You can also buy a breakfast box which has yogurt, granola, orange juice and a bread roll
 * arriving 20-30 minutes before your departure time is plenty
 
+T﻿his trip was provided by European Sleeper. Prices start at €59.99 for a seat and €99.99 for a couchette.
+
 [Book at European Sleeper: https://www.europeansleeper.eu/](https://www.europeansleeper.eu/)
