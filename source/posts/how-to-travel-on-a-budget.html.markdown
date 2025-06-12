@@ -48,7 +48,11 @@ The ticket is valid for two months after your departure date, so should cover al
 
 #### 6. Interrail
 
+![](/images/uploads/interrail_maps_2024.jpg)
+
 No longer the preserve of backpacking students, [Interrail](https://www.interrail.eu/en/interrail-passes/global-pass) has seen a resurgence in recent years. Buying a pass can work out to be very cost-effective if your journey has several legs. Look out for sales on Interrail passes throughout the year.
+
+O﻿ur post '[How to Interrail](https://flightfree.co.uk/post/how-to-interrail/)' will help you plan your journey.
 
 #### 7. Go by ferry
 
@@ -65,3 +69,5 @@ T﻿ips for a comfortable night: bring eye mask, ear plugs and neck pillow.
 #### 9﻿. Take it slow
 
 T﻿he high-speed rail network is fantastic, but it can be expensive. If you're able to take your time a bit more, you'll find that prices are much more affordable. Booking platforms such as Trainline and RailEurope don't usually show the slower options – just the faster, more expensive ones. Going direct to the rail provider can often show many more options for lower prices.
+
+![]()
