@@ -46,9 +46,9 @@ Getting across the UK to London (for Eurostar) or to one of the south coast port
 
 The ticket is valid for two months after your departure date, so should cover all but the longest travel adventures, and is available to buy at the ticket office to anyone with a Eurostar or Rail Sea international ticket, or buy online at [trainsplit.com](http://trainsplit.com). 
 
-#### 6. Interrail
-
 ![](/images/uploads/interrail_maps_2024.jpg)
+
+#### 6. Interrail
 
 No longer the preserve of backpacking students, [Interrail](https://www.interrail.eu/en/interrail-passes/global-pass) has seen a resurgence in recent years. Buying a pass can work out to be very cost-effective if your journey has several legs. Look out for sales on Interrail passes throughout the year.
 
