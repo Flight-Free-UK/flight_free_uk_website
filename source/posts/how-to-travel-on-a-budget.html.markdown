@@ -69,5 +69,3 @@ T﻿ips for a comfortable night: bring eye mask, ear plugs and neck pillow.
 #### 9﻿. Take it slow
 
 T﻿he high-speed rail network is fantastic, but it can be expensive. If you're able to take your time a bit more, you'll find that prices are much more affordable. Booking platforms such as Trainline and RailEurope don't usually show the slower options – just the faster, more expensive ones. Going direct to the rail provider can often show many more options for lower prices.
-
-![]()
