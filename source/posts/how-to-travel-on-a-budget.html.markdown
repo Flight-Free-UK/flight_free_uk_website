@@ -17,6 +17,8 @@ It’s not the most luxurious way to travel, but coaches can be an excellent opt
 
 For coach travel inspiration, go here: [Overnight By Coach](https://flightfree.co.uk/travel_articles/overnight-by-coach/)
 
+![](/images/uploads/coach-travel1_canva.jpg)
+
 #### 2. Rail and Sail
 
 Some ferry routes from the UK offer a ‘rail and sail’ option, which combines train travel and the ferry crossing into one ticket, making the overall journey much cheaper. 
@@ -31,11 +33,12 @@ Buy at the [Trainline](https://www.thetrainline.com/trains/great-britain/rail-an
 
 As with any type of travel, the earlier you book, the cheaper it is. Set alerts on [RailEurope](https://www.raileurope.com/) to let you know when tickets go on sale.
 
-#### 4. Go by bike
+#### 4. Use the Eurostar Low Fare Finder or Eurostar Snap
 
-For the ultimate budget holiday, try a bike tour! You don’t pay anything for the travel itself, just extra cake to fuel the journey. Check out our ‘[How to travel by bike](https://www.sustrans.org.uk/)’ pages for tips on making a go of it on two wheels.
+T﻿here are two reliable ways to find cheap Eurostar tickets: 
 
-Trains, ferries and bikes are a great combination, so add the Rail and Sail option to go further afield, for example to explore the cycling utopia that is the Netherlands. 
+* The [L﻿ow Fare Finder](https://www.eurostar.com/uk-en/find-lowest-fares) shows which trains have the cheapest tickets. These are usually first thing in the morning or last thing at night, so won't work for everyone, but if you can arrange to be at St Pancras by 6.30am it could save you a packet!  
+* [E﻿urostar Snap](https://snap.eurostar.com/uk-en) gives you up to 50% off your ticket if you can be flexible: you pick a date and a time slot, and Eurostar will tell you which train you're on with 48 hour's notice.
 
 #### 5. Buy a Euro Anytime Return train ticket 
 
@@ -49,10 +52,16 @@ No longer the preserve of backpacking students, [Interrail](https://www.interrai
 
 #### 7. Go by ferry
 
-Taking the ferry to the continent is slower, but often much cheaper than going by train, especially for foot or bicycle passengers. There are lots of options from the south and east coast of England, all the way from Plymouth to Newcastle. Our ‘[How to travel by ferry](https://flightfree.co.uk/post/how-to-travel-by-ferry/)’ page will tell you everything you need to know.
+Taking the ferry to the continent is slower, but often much cheaper than going by train, especially for foot or bicycle passengers. There are lots of options from the south and east coast of England, all the way from Plymouth to Newcastle. 
+
+Our ‘[How to travel by ferry](https://flightfree.co.uk/post/how-to-travel-by-ferry/)’ page will tell you everything you need to know.
 
 #### 8. Travel overnight
 
 Overnight coaches and sleeper trains can give great value for money, mainly because they remove the need for a hotel. In addition, travelling while you sleep is a great use of time, and the recent resurgence of sleeper trains has opened many more destinations across Europe.
 
 T﻿ips for a comfortable night: bring eye mask, ear plugs and neck pillow.
+
+#### 9﻿. Take it slow
+
+T﻿he high-speed rail network is fantastic, but it can be expensive. If you're able to take your time a bit more, you'll find that prices are much more affordable. Booking platforms such as Trainline and RailEurope don't usually show the slower options – just the faster, more expensive ones. Going direct to the rail provider can often show many more options for lower prices.
