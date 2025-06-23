@@ -46,10 +46,14 @@ checked once on the crossing through Austria to check our ID. Overall, I would s
 
 **Tips for Inter-railing**
 
-Download the free Rail Planner app to add your journeys and access your train tickets all in one place. If using connecting trains, arrive at the station about 30- 45 minutes in advance so you’re not stressing where to find the platform. The platform number normally appears on departure boards about 20-30 minutes before the train leaves. Bear in mind that these trains can include in the region of sixteen carriages and you may well be taking a walk on the platform just to find the right one! You also need to provide your ticket (and sometimes seat reservation number) to get onto the train.
-
-We packed lightly to help us manoeuvre around, with only a carry-on case and backpack each. You can usually fit a large case on the trains no problem, I suppose it’s based on your preference and circumstances.
-
-Buy snacks! For the longer journeys we bought sandwiches, water and whatever else we fancied before embarkation. There was always a café or dining car on board, but these tended to be more expensive (but not as expensive as UK prices, I found!). It goes without saying to take something entertaining like a book to help pass the time.
+* Download the free Rail Planner app to add your journeys and access your train tickets all in one place. 
+* If using connecting trains, arrive at the station about 30- 45 minutes in advance so you’re not stressing where to find the platform. The platform number normally appears on departure boards about 20-30 minutes before the train leaves. Bear in mind that these trains can include in the region of sixteen carriages and you may well be taking a walk on the platform just to find the right one! You also need to provide your ticket (and sometimes seat reservation number) to get onto the train.
+* We packed lightly to help us manoeuvre around, with only a carry-on case and backpack each. You can usually fit a large case on the trains no problem, I suppose it’s based on your preference and circumstances.
+* Buy snacks! For the longer journeys we bought sandwiches, water and whatever else we fancied before embarkation. There was always a café or dining car on board, but these tended to be more expensive (but not as expensive as UK prices, I found!). 
+* It goes without saying to take something entertaining like a book to help pass the time.
 
 ##### Coming home to the UK made me realise how embarrassing our public transport system is in comparison. We deserve better – so take a European rail holiday and you will appreciate first-hand what we are missing.
+
+*F﻿ind out more about Byway and book your holiday here: [byway.travel](https://www.byway.travel/)*
+
+*B﻿ook your Interrail pass here: [interrail.eu](https://www.interrail.eu/en/interrail-passes/global-pass)*
