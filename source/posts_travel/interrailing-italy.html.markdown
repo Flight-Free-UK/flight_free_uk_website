@@ -28,6 +28,8 @@ W﻿e paid £200 for a first-class upgrade, which covered all journeys, with Sta
 
 Our longest stretch was a 7-hour ride from Munich to Venice, crossing through the Austrian Alps. This was one of the most magical parts of the trip – the way the famous snow-capped mountains just appeared on the horizon was an astonishing sight in itself. I had almost missed out on the thrill of travelling under their stoic majesty, following the meandering river south through to the Italian vineyards and beyond. 
 
+![](/images/uploads/austrian-alps_aswarbrick.jpeg "The Austrian Alps from the train")
+
 Once we left Verona, we were only an hour away from Venice. Then in the blink of an eye, we
 were over the water with our first glimpse of the Venetian Island I had longed to visit. I couldn't believe we only left London yesterday and now we were in Venice. I made it. I actually made it without flying! 
 
