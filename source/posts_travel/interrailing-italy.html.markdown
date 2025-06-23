@@ -57,3 +57,5 @@ checked once on the crossing through Austria to check our ID. Overall, I would s
 *F﻿ind out more about Byway and book your holiday here: [byway.travel](https://www.byway.travel/)*
 
 *B﻿ook your Interrail pass here: [interrail.eu](https://www.interrail.eu/en/interrail-passes/global-pass)*
+
+*F﻿ind tips in Interrailing with our guide here: [How to Interrail](https://flightfree.co.uk/post/how-to-interrail/)*
