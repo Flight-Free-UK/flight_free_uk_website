@@ -54,7 +54,7 @@ checked once on the crossing through Austria to check our ID. Overall, I would s
 
 ##### Coming home to the UK made me realise how embarrassing our public transport system is in comparison. We deserve better – so take a European rail holiday and you will appreciate first-hand what we are missing.
 
-*F﻿ind out more about Byway and book your holiday here: [byway.travel](https://www.byway.travel/)*
+*A﻿my used Byway for her holiday – f﻿ind out more about Byway and book your holiday here: [byway.travel](https://www.byway.travel/)A﻿ 10 day holiday for two with travel, hotels and breakfast included cost £4000.*
 
 *B﻿ook your Interrail pass here: [interrail.eu](https://www.interrail.eu/en/interrail-passes/global-pass)*
 
