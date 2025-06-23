@@ -7,6 +7,8 @@ summary: Byway helps plan an Interrail trip to Italy
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/venice-canva-body.jpg)
+
 ### Was it possible? The vow I made to myself – to avoid flights where I could – was leaving me torn.
 
 ##### Doubts flooded in as I did the research; flying is just made to be easy, right? Fast and cheap; it’s a no-brainer. I was almost resigned to the fact that if I wanted to travel internationally I would have to go against my sustainability values.
