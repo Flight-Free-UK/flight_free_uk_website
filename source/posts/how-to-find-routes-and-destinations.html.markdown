@@ -49,9 +49,16 @@ W﻿e often use [RailEurope](https://www.raileurope.com/) and [Trainline](https:
 
 Other booking websites include [Rome2Rio](https://www.rome2rio.com/) (just de-select the ‘flight’ option) and [Flixbus](https://www.flixbus.com/)(﻿for coach travel).
 
-M﻿ost rail booking platforms only show the fastest option, so if you want to go a bit slower or a bit cheaper, it's always best to go direct to the transport operator's own website. You can find out which company runs the transport in each country at [seat61.com](https://www.seat61.com/). 
+M﻿ost rail booking platforms only show the fastest option, so if you want to go a bit slower or a bit cheaper, it's always best to go direct to the transport operator's own website. Here are some of the main ones and the countries they operate in, or you can check at [seat61.com](https://www.seat61.com/)
 
-I﻿n addition, some transport providers are not listed at all, so some searches draw a blank. If that's the case, again, go to the seat61 website.
+* [U﻿K: National Rail](https://www.nationalrail.co.uk/)
+* [F﻿rance: SNCF](https://www.sncf-connect.com/en-en)
+* [S﻿pain: RENFE](https://www.renfe.com/es/en)
+* [I﻿taly: Trenitalia](https://www.trenitalia.com/en.html)
+* [G﻿ermany: DeutscheBahn](https://int.bahn.de/en)
+* [N﻿etherlands: Nederlandse Spoorwegen](https://www.ns.nl/en)
+
+I﻿n addition, some transport providers are not listed at all, so some searches draw a blank. If that's the case, again, go to the [seat61](https://www.seat61.com/) website.
 
 > The train accounts for just 0.6% of carbon emissions produced by the transport sector - while carrying 10% of its passengers.
 
@@ -60,6 +67,8 @@ I﻿n addition, some transport providers are not listed at all, so some searches
 ## M﻿aps and planners
 
 S﻿ometimes, nothing beats a good old-fashioned map. The [European Rail Timetable](https://www.europeanrailtimetable.eu/) contains detailed schedule information, maps and useful travel information. £25 well spent!
+
+
 
 ###### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
