@@ -41,11 +41,15 @@ F﻿light Free UK supporters get £50 off a Byway holiday! Just add the code FLI
 
 ~ Byway customer, Trustpilot
 
-## Rail Europe
+## Rail booking platforms
 
-Formerly Loco2, [Rail Europe](https://raileurope.com/) is an excellent resource for booking rail travel across Europe. A great feature of the website is that it shows how much carbon you have saved on each journey through travelling by train rather than flying. 
+T﻿here are a few different booking platforms that bring together information from various transport providers into one easy search. 
 
-Some route options or rail providers don’t always work with Rail Europe, so some clever searching is sometimes needed. Use in tandem with [seat61.com](http://seat61.com) for best results! 
+W﻿e often use [RailEurope](https://www.raileurope.com/) and [Trainline](https://www.thetrainline.com/), both of which show your route, how many changes you need to make, and an indication of cost. Trainline will combine train and bus information to get you the best option for your journey. Other booking websites include [Rome2Rio](https://www.rome2rio.com/) (just de-select the ‘flight’ option) and [Flixbus](https://www.flixbus.com/)(﻿for coach travel).
+
+M﻿ost rail booking platforms only show the fastest option, so if you want to go a bit slower or a bit cheaper, it's always best to go direct to the transport operator's own website. You can find out which company runs the transport in each country at [seat61.com](https://www.seat61.com/). 
+
+I﻿n addition, some transport providers are not listed at all, so some searches draw a blank. If that's the case, again, go to the seat61 website.
 
 > The train accounts for just 0.6% of carbon emissions produced by the transport sector - while carrying 10% of its passengers.
 
