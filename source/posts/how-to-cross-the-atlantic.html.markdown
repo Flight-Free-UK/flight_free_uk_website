@@ -75,3 +75,7 @@ Our calculations show travelling from the UK to New York is around three times m
 C﻿ruise ships often need to [reposition the boat after a cruise](https://thepointsguy.com/guide/repositioning-cruises/), ready to pick up the next cohort of holiday-makers, so the cruise line will sell cabins at a discounted rate. 
 
 It's a slightly cheaper and less carbon intensive way to cross the Atlantic – arguably the boat is going anyway so you're not responsible for the emissions from the ship itself, just for what you use on board.
+
+### T﻿he future?
+
+T﻿here are several companies looking into providing mass low-carbon boat transit across the Atlantic. These include ships more like a ferry service than a cruise, with modest accommodation and entertainment options, maximising passenger numbers and minimising energy use; and sailing ships. We are keeping an eye out and will update on developments as and when they happen.
