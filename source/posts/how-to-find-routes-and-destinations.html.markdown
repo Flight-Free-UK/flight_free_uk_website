@@ -72,7 +72,7 @@ F﻿or physical maps for every country in the world, head to [Stanfords](https:/
 
 ## I﻿nterrail
 
-[I﻿nterrail](https://www.interrail.eu/en/interrail-passes/global-pass) gives you the freedom to travel where you like, when you like. The website has extensive travel information which can give you all you need to know for your holiday. 
+[I﻿nterrail](https://www.interrail.eu/en/interrail-passes/global-pass) gives you the freedom to travel where you like, when you like. The website has extensive travel information which can give you all the ideas you need for your holiday. 
 
 ###### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
