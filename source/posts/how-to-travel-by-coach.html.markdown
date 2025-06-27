@@ -35,9 +35,11 @@ F﻿ind routes and destinations using [this map](https://routemap.nationalexpres
 
 [Flixbus](https://www.flixbus.co.uk/) is your go-to option for Europe-wide coach travel. Its fleet of bright green coaches can take you from Birmingham to Berlin, Bristol to Bruges and many more. Here's a [map of destinations](https://www.flixbus.co.uk/bus-routes). Coaches range from daytime travel to overnight routes, and some can even [take your bike](https://www.flixbus.co.uk/service/bike-travel).
 
-[CheckMyBus](https://www.checkmybus.co.uk/) is a fantastic website that lets you search for coach and bus routes across many different providers letting you find the cheapest fares and giving plenty of date and time flexibility.
+## S﻿now Express
 
 [S﻿nowExpress](https://www.snowexpress.co.uk/) is specifically for skiers, and goes direct to the Alps from London Victoria coach station, meaning you can ski low-carbon *and* on a budget. 
+
+[CheckMyBus](https://www.checkmybus.co.uk/) is a fantastic website that lets you search for coach and bus routes across many different providers letting you find the cheapest fares and giving plenty of date and time flexibility.
 
 #### Coach tours
 
