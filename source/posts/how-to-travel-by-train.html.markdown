@@ -77,7 +77,7 @@ Local trains are a great option if you want to explore a single country rather t
 
 Travelling while you sleep is a great way to make the most of your time and money. There is now an extensive network of sleeper trains across Europe, including two routes in the UK: the [Caledonian Sleeper](https://www.sleeper.scot/) from Scotland to London and the [Night Riviera](https://www.gwr.com/travelling-with-us/night-riviera-sleeper) between London and Plymouth. 
 
-On the continent, look for [Nightjet](https://www.nightjet.com/en/) (linking Austria, Netherlands, Belgium, Germany, Austria, Switzerland and Italy), [European Sleeper](https://www.europeansleeper.eu/en) (Brussels-Berlin), and others on this page: <https://www.seat61.com/sleepers.htm> 
+On the continent, look for [Nightjet](https://www.nightjet.com/en/) (linking Austria, Netherlands, Belgium, Germany, Austria, Switzerland and Italy), [European Sleeper](https://www.europeansleeper.eu/en) (Brussels-Berlin and Prague), and others on this page: <https://www.seat61.com/sleepers.htm> 
 
 Prices vary depending on whether you go for a berth (full bed), a couchette (bunk beds that fold down from the walls) or a seat, but it’s always a bargain compared to a hotel. 
 
@@ -96,6 +96,8 @@ The encyclopaedic website [The Man in Seat 61](http://seat61.com) gives informat
 [RailEurope](https://www.raileurope.com/) will sell you tickets for most rail journeys across Europe, regardless of the rail provider. You can also set alerts with Rail Europe that will let you know when tickets go on sale. The [Trainline](https://www.thetrainline.com/) is also a great place to buy tickets for multi-country travel.
 
 Alternatively, go direct to the train provider websites: [SNCF](https://www.sncf.com/en) (France), [Deutsche Bahn](https://int.bahn.de/en) (Germany), [Renfe](https://www.renfe.com/es/en) (Spain), [Trenitalia](https://www.trenitalia.com/en.html) (Italy) or [OBB](https://www.oebb.at/en/) (Austria) (see [seat61.com](http://seat61.com) for others).
+
+O﻿ur website article [How to find routes and destinations](https://flightfree.co.uk/post/how-to-find-routes-and-destinations/) can also help you here.
 
 ## Connections 
 
