@@ -45,7 +45,9 @@ F﻿light Free UK supporters get £50 off a Byway holiday! Just add the code FLI
 
 T﻿here are a few different booking platforms that bring together information from various transport providers into one easy search. 
 
-W﻿e often use [RailEurope](https://www.raileurope.com/) and [Trainline](https://www.thetrainline.com/), both of which show your route, how many changes you need to make, and an indication of cost. Trainline will combine train and bus information to get you the best option for your journey. Other booking websites include [Rome2Rio](https://www.rome2rio.com/) (just de-select the ‘flight’ option) and [Flixbus](https://www.flixbus.com/)(﻿for coach travel).
+W﻿e often use [RailEurope](https://www.raileurope.com/) and [Trainline](https://www.thetrainline.com/), both of which show your route, how many changes you need to make, and an indication of cost. Trainline will combine train and bus information to get you the best option for your journey. 
+
+Other booking websites include [Rome2Rio](https://www.rome2rio.com/) (just de-select the ‘flight’ option) and [Flixbus](https://www.flixbus.com/)(﻿for coach travel).
 
 M﻿ost rail booking platforms only show the fastest option, so if you want to go a bit slower or a bit cheaper, it's always best to go direct to the transport operator's own website. You can find out which company runs the transport in each country at [seat61.com](https://www.seat61.com/). 
 
@@ -54,8 +56,6 @@ I﻿n addition, some transport providers are not listed at all, so some searches
 > The train accounts for just 0.6% of carbon emissions produced by the transport sector - while carrying 10% of its passengers.
 
 ~ RailEurope
-
-Other booking websites include [Rome2Rio](https://www.rome2rio.com/) (just de-select the ‘flight’ option) and the [Trainline](https://www.thetrainline.com/). For coach travel, we recommend [Flixbus](https://www.flixbus.com/).
 
 ###### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
