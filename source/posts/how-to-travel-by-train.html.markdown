@@ -49,7 +49,15 @@ Having said all that, it is very possible to get cheap fares! 
 
 If you’re travelling by train to the continent, chances are your journey will begin with the [Eurostar](https://www.eurostar.com/uk-en) (unless you cross to continental Europe on the ferry, then continue by train – see ‘[how to travel by ferry](/post/how-to-travel-by-ferry/)’ for help with that). 
 
-The Eurostar is fantastic – easy check-in, comfortable seating, and fast, efficient and reliable travel to Paris, Lille, Brussels or Amsterdam ([but not in 2024](https://www.euronews.com/travel/2023/06/05/eurostars-london-amsterdam-trains-to-be-suspended-for-almost-a-year-from-2024)). Cheap fares are available in advance, though they can be very limited. 
+The Eurostar is fantastic – easy check-in, comfortable seating, and fast, efficient and reliable travel to Paris, Lille, Brussels or Amsterdam, with routes due to expand into Switzerland and Germany from 2030. 
+
+T﻿he Eurostar website recommends you arrive 75 minutes ahead of your train departure time. We would suggest this is too early; there is limited space in the departure lounge, and if you arrive early you will be waiting around for a long time without a seat! We recommend arriving 45 minutes before departure, giving you plenty of time to reach the gates before they close (30 minutes before departure). Check-in usually takes less than 10 minutes.
+
+T﻿here are coffee shops and food outlets inside the departure hall, or you can buy food for your journey in St Pancras station itself.
+
+F﻿or cheap fares, book in advance, or try the [lowest-fare finder](https://www.eurostar.com/uk-en/find-lowest-fares) or [Eurostar Snap](https://snap.eurostar.com/uk-en).
+
+I﻿f your journey allows, an interchange at Lille is often preferable to an interchange in Paris. See below for tips on crossing Paris if you need to.
 
 It’s possible to travel to London from anywhere in the UK in one day, and there are [cheap accommodation options](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-kings-cross.html) near St Pancras station to facilitate onward travel by Eurostar the following day. Or you could split the journey in Paris (expensive), Lille (much cheaper!) or Brussels, ready to continue the next day.
 
