@@ -11,17 +11,11 @@ read_time_minute: 3
 ---
 ![](/images/uploads/coach-travel1_canva.jpg)
 
-#### Coaches have come a long way since their horse-drawn namesakes of the early 1800’s.
-
-#### Just as every good Sherlock Holmes adventure began with a coach arriving at 221b Baker Street, coaches today depart for a staggering number of locations across the UK and Europe and the potential for adventure is huge. ‘Come Watson, the game is afoot…’
-
 ## Why travel by coach?
 
-Unlike in Sherlock’s time, there is no chance you’ll be asked to dismount whenever the road gets too rough, and of course there are no horses to feed. 
+C﻿oaches are generally a great budget option, offering cheap and convenient travel across the UK and Europe.
 
-But that’s not the end of the benefits to travelling by modern coach. Comfortable, safe and timely, just one coach keeps around 50 cars off the road, and if coach journeys increased by just 15% per year in the UK we’d be seeing around 47 million fewer cars on our roads. And, contrary to popular belief, there are toilets onboard! 
-
-But this is Flight Free UK, so how do modern coaches compare to flying? Well, per person per journey, coaches produce five times less CO2 than air travel. That’s a staggering environmental saving and comes with the fascinating bonus of being able to watch the scenery roll past beyond your window. Ralph Waldo Emerson spoke wisely indeed with his advice to find the journey’s end in every step of the road!
+Per person per journey, coaches produce five times less CO2 than air travel. That’s a staggering environmental saving and comes with the fascinating bonus of being able to watch the scenery roll past beyond your window. 
 
 ![](/images/uploads/co2-emissions-passenger-transport-graph.jpg "Coach travel is a very carbon-efficient way to get around")
 
