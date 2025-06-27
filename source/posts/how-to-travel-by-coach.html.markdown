@@ -19,7 +19,7 @@ T﻿his has given coach travel something of a reputation, and it's expected that
 
 I﻿t's also an excellent option for keeping emissions down: per person per journey, coaches produce five times less CO2 than air travel. That’s a staggering environmental saving and comes with the fascinating bonus of being able to watch the scenery roll past beyond your window. 
 
-![](/images/uploads/co2-emissions-passenger-transport-graph.jpg "Coach travel is a very carbon-efficient way to get around")
+![](/images/uploads/emissions-per-passenger-km.jpg "Coach travel is a very carbon-efficient way to get around")
 
 ## Companies, timetables and tickets
 
