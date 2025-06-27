@@ -32,7 +32,7 @@ On the [Eurostar](https://www.eurostar.com/uk-en/), kids under the age of four m
 
 ~﻿ Susanne Treadwell
 
-Interrail is also an option. Children go free on an Interrail pass up to the age of 12, so this can work out much cheaper for families than buying tickets direct, and can give more flexibility.
+[Interrail](https://www.interrail.eu/en) is also an option. Children go free on an Interrail pass up to the age of 12, so this can work out much cheaper for families than buying tickets direct, and can give more flexibility.
 
 ## **2. No luggage restrictions**
 
@@ -68,7 +68,7 @@ T﻿ravelling while asleep can save time and money (compared to a hotel) and has
 
 I﻿f you set up ticket alerts on [Rail Europe](https://www.raileurope.com/) you can find out in advance when tickets go on sale. 
 
-## **8. Check the rail provider for family provision** 
+## **8. Check the rail provider for family provision**
 
 Some train companies have special family areas on their trains or designated play areas. 
 
