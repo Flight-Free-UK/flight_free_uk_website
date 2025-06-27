@@ -15,6 +15,8 @@ read_time_minute: 3
 
 C﻿oaches are generally seen as a great budget option, offering cheap travel across the UK and Europe. T﻿he downside of this is that the travel is seen as cheap, therefore not desirable. Though coaches have different comfort levels to trains, modern coaches are remarkably well-equipped, with surprisingly spacious and comfortable seating, plug sockets and wifi, and toilet facilities.
 
+L﻿ong stretches spent on the road can seem daunting, but coach drivers have a set amount of time they need to rest, which means you get a rest too, at service stations along your route.
+
 C﻿oach travel is also an excellent option for keeping emissions down: per person per journey, coaches produce five times less CO2 than air travel. That environmental saving comes with the fascinating bonus of being able to watch the scenery roll past beyond your window. 
 
 ![](/images/uploads/emissions-per-passenger-km.jpg "Coach travel is a very carbon-efficient way to get around")
