@@ -68,7 +68,7 @@ I﻿n addition, some transport providers are not listed on RailEurope or Trainli
 
 S﻿ometimes, nothing beats a good old-fashioned map. The [European Rail Timetable](https://www.europeanrailtimetable.eu/) contains detailed schedule information, maps and useful travel information. £25 well spent!
 
-
+F﻿or physical maps for every country in the world, head to [Stanfords](https://www.stanfords.co.uk/)either in Bristol or London, or order online.
 
 ###### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
