@@ -60,11 +60,7 @@ T﻿ravelling while asleep can save time and money (compared to a hotel) and has
 
 ~﻿ Nick, [Campaign for Family-Friendly Trains](https://familyfriendlytrains.com/) 
 
-## 6. Book early for the best price
-
-I﻿f you set up ticket alerts on [Rail Europe](https://www.raileurope.com/) you can find out in advance when tickets go on sale. 
-
-## 7. Check the rail provider for family provision
+## 6. Check the rail provider for family provision
 
 Some train companies have special family areas on their trains or designated play areas. 
 
@@ -74,13 +70,13 @@ O﻿ther regions have family facilities on some operators, so check before you t
 
 ![](/images/uploads/train-child-play-area1.jpg "The children's area on a Swiss Rail train")
 
-## 8. Take food, drink and activities
+## 7. Take food, drink and activities
 
 A﻿ terrific advantage of train travel is there's no restriction on the amount of luggage you can bring – other than what you can carry! There aren’t the same limits on baby milk or food which makes the journey so much easier. A picnic lunch can be a great way to fill some time on a long train journey as well as being a novelty for the kids. Don't forget to bring plenty of water, as it’s easy to buy a hot drink or snacks, but it can be difficult to get your water bottle refilled. 
 
 Take plenty of activities for entertainment, including card games or colouring books. It's also a good idea to download some games or videos for your electronic devices: while plugs are available for recharging, the WiFi/phone signal can be intermittent. 
 
-## 9. Take a wheelie suitcase and rucksack each
+## 8. Take a wheelie suitcase and rucksack each
 
 Even young children can manage a small wheelie suitcase and backpack. Sharing the luggage out between everyone makes it much easier when walking between trains, and children love to feel helpful by having their own bag. Just make sure you know who has what so nothing is left behind!
 
