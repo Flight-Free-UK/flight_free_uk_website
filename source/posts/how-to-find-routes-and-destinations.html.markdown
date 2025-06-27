@@ -57,6 +57,10 @@ I﻿n addition, some transport providers are not listed at all, so some searches
 
 ~ RailEurope
 
+## M﻿aps and planners
+
+S﻿ometimes, nothing beats a good old-fashioned map. The [European Rail Timetable](https://www.europeanrailtimetable.eu/) contains detailed schedule information, maps and useful travel information. £25 well spent!
+
 ###### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
 ###### Follow these links for specific information on how to travel [by train](/post/how-to-travel-by-train/) | [by bike](/post/how-to-travel-by-bike) | [by ferry](/post/how-to-travel-by-ferry/) | [by coach](/post/how-to-travel-by-coach) | [by electric car](/post/how-to-travel-by-electric-car/)
