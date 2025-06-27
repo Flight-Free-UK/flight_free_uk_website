@@ -70,6 +70,10 @@ S﻿ometimes, nothing beats a good old-fashioned map. The [European Rail Timetab
 
 F﻿or physical maps for every country in the world, head to [Stanfords](https://www.stanfords.co.uk/)either in Bristol or London, or order online.
 
+## I﻿nterrail
+
+[I﻿nterrail](https://www.interrail.eu/en/interrail-passes/global-pass) gives you the freedom to travel where you like, when you like. The website has extensive travel information which can give you all you need to know for your holiday. 
+
 ###### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
 ###### Follow these links for specific information on how to travel [by train](/post/how-to-travel-by-train/) | [by bike](/post/how-to-travel-by-bike) | [by ferry](/post/how-to-travel-by-ferry/) | [by coach](/post/how-to-travel-by-coach) | [by electric car](/post/how-to-travel-by-electric-car/)
