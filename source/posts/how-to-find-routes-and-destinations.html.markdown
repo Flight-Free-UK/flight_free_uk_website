@@ -58,7 +58,7 @@ M﻿ost rail booking platforms only show the fastest option, so if you want to g
 * [G﻿ermany: DeutscheBahn](https://int.bahn.de/en)
 * [N﻿etherlands: Nederlandse Spoorwegen](https://www.ns.nl/en)
 
-I﻿n addition, some transport providers are not listed at all, so some searches draw a blank. If that's the case, again, go to the [seat61](https://www.seat61.com/) website.
+I﻿n addition, some transport providers are not listed on RailEurope or Trainline at all, so some searches draw a blank. If that's the case, again, go to the [seat61](https://www.seat61.com/) website.
 
 > The train accounts for just 0.6% of carbon emissions produced by the transport sector - while carrying 10% of its passengers.
 
