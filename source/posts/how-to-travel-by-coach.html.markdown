@@ -29,11 +29,11 @@ F﻿ind routes and destinations using [this map](https://routemap.nationalexpres
 
 ## M﻿egabus
 
-[Megabus](https://uk.megabus.com/) serves over 100 destinations across the UK and offers extremely competitive ticket prices. [Megabus](https://uk.megabus.com/) also offers a small number of European destinations, including Paris, Brussels and Amsterdam.
+[Megabus](https://uk.megabus.com/) serves over 100 destinations across the UK and offers extremely competitive ticket prices.
 
 ## F﻿lixbus
 
-[Flixbus](https://www.flixbus.co.uk/) operates a fleet of recognisably bright green coaches across Europe, so if your desire for adventure is tugging you further afield then Flixbus can get you there, from Birmingham to Berlin, or Bristol to Bruges. They too have a [nifty map of destinations](https://www.flixbus.co.uk/bus-routes).
+[Flixbus](https://www.flixbus.co.uk/) is your go-to option for Europe-wide coach travel. Its fleet of bright green coaches can take you from Birmingham to Berlin, or Bristol to Bruges. They too have a [nifty map of destinations](https://www.flixbus.co.uk/bus-routes).
 
 [CheckMyBus](https://www.checkmybus.co.uk/) is a fantastic website that lets you search for coach and bus routes across many different providers letting you find the cheapest fares and giving plenty of date and time flexibility.
 
