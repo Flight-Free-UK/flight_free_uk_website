@@ -13,9 +13,11 @@ read_time_minute: 3
 
 ## Why travel by coach?
 
-C﻿oaches are generally a great budget option, offering cheap and convenient travel across the UK and Europe.
+C﻿oaches are generally seen as a great budget option, offering cheap travel across the UK and Europe. 
 
-Per person per journey, coaches produce five times less CO2 than air travel. That’s a staggering environmental saving and comes with the fascinating bonus of being able to watch the scenery roll past beyond your window. 
+T﻿his has given coach travel something of a reputation, and it's expected that the journey isn't as comfortable as it might be. But it's more comfortable than you think.
+
+I﻿t's also an excellent option for keeping emissions down: per person per journey, coaches produce five times less CO2 than air travel. That’s a staggering environmental saving and comes with the fascinating bonus of being able to watch the scenery roll past beyond your window. 
 
 ![](/images/uploads/co2-emissions-passenger-transport-graph.jpg "Coach travel is a very carbon-efficient way to get around")
 
