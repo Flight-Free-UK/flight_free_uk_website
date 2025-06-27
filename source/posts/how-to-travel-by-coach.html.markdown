@@ -19,23 +19,21 @@ C﻿oach travel is also an excellent option for keeping emissions down: per pers
 
 ![](/images/uploads/emissions-per-passenger-km.jpg "Coach travel is a very carbon-efficient way to get around")
 
-## Companies, timetables and tickets
+## N﻿ational Express
 
-Coach travel is incredibly flexible; if you simply want to get from A to B then a company like [National Express](https://www.nationalexpress.com/en) will do that for you. However, if you fancy a coach tour where you travel from location to location whilst staying at hotels or B&Bs overnight, then a company like [Shearings](https://www.shearings.com/) has got you covered. 
+P﻿robably the best option for UK travel, the [National Express](https://www.nationalexpress.com/en) serves a wide range of destinations across England, Scotland, Wales, NI and Ireland. It's a fast, efficient and cheap way to travel to cities across the UK and Ireland.
 
-[CheckMyBus](https://www.checkmybus.co.uk/) is a fantastic website that lets you search for coach and bus routes across many different providers letting you find the cheapest fares and giving plenty of date and time flexibility.
+F﻿ind routes and destinations using [this map](https://routemap.nationalexpress.com/#xd_co_f=ZTllNDkyNTgtODNkMS00ZWM5LWI2ZjctNjg3Mzg0ZDU2ZGM2~) on their website.
 
-#### UK travel
+## M﻿egabus
 
-[National Express](https://www.nationalexpress.com/en) is the UK’s number 1 coach company, and for good reason; free WiFi, power sockets, comfy seats and exceptional safety ratings have lead them to garner over 29,000 five-star reviews on TrustPilot – and be featured in the [top ten single by the Divine Comedy](https://youtu.be/p_GLSgJ39Dc). If you’re looking for travel within the UK then National Express are definitely worth looking at. Plus, they have [this nifty map of their destinations](https://routemap.nationalexpress.com/#xd_co_f=ZTllNDkyNTgtODNkMS00ZWM5LWI2ZjctNjg3Mzg0ZDU2ZGM2~).
+[Megabus](https://uk.megabus.com/) serves over 100 destinations across the UK and offers extremely competitive ticket prices. [Megabus](https://uk.megabus.com/) also offers a small number of European destinations, including Paris, Brussels and Amsterdam.
 
-[Megabus](https://uk.megabus.com/) serves over 100 destinations across the UK and offers extremely competitive ticket prices. It’s worth noting that Megabus are a Tesco Reward Partner – Tesco Clubcard vouchers are 2x their value on the reward scheme.
-
-#### European travel
+## F﻿lixbus
 
 [Flixbus](https://www.flixbus.co.uk/) operates a fleet of recognisably bright green coaches across Europe, so if your desire for adventure is tugging you further afield then Flixbus can get you there, from Birmingham to Berlin, or Bristol to Bruges. They too have a [nifty map of destinations](https://www.flixbus.co.uk/bus-routes).
 
-[Megabus](https://uk.megabus.com/) also offers a small number of European destinations, including Paris, Brussels and Amsterdam.
+[CheckMyBus](https://www.checkmybus.co.uk/) is a fantastic website that lets you search for coach and bus routes across many different providers letting you find the cheapest fares and giving plenty of date and time flexibility.
 
 [S﻿nowExpress](https://www.snowexpress.co.uk/) is specifically for skiers, and goes direct to the Alps from London Victoria coach station, meaning you can ski low-carbon *and* on a budget. 
 
