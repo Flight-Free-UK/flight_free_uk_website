@@ -19,6 +19,8 @@ L﻿ong stretches spent on the road can seem daunting, but coach drivers have a 
 
 C﻿oach travel is also an excellent option for keeping emissions down: per person per journey, coaches produce five times less CO2 than air travel. That environmental saving comes with the fascinating bonus of being able to watch the scenery roll past beyond your window. 
 
+[CheckMyBus](https://www.checkmybus.co.uk/) is a recommended resource where you can search for coach and bus routes across many different providers, letting you find the cheapest fares and giving plenty of date and time flexibility.
+
 ![](/images/uploads/co2-passenger-emissions-chart.jpg "Coach travel is a very carbon-efficient way to get around")
 
 ## N﻿ational Express
@@ -41,15 +43,15 @@ Coaches range from daytime travel to overnight routes, and some can even [take y
 
 [S﻿nowExpress](https://www.snowexpress.co.uk/) is specifically for skiers, and goes direct to the Alps from London Victoria coach station, meaning you can ski low-carbon *and* on a budget. 
 
-[CheckMyBus](https://www.checkmybus.co.uk/) is a fantastic website that lets you search for coach and bus routes across many different providers letting you find the cheapest fares and giving plenty of date and time flexibility.
+## Coach tours
 
-#### Coach tours
+[Shearings](https://www.shearings.com/) is a coach tour operator with an astonishing variety of holidays and tours, from four days in Scotland to 16 days in Croatia. 
 
-[Shearings](https://www.shearings.com/) is a coach tour operator with an astonishing variety of holidays and tours, from four days in Scotland to 16 days in Croatia. [Alfa Travel](https://www.alfatravel.co.uk/coach-holidays/) specialises in UK coach holidays, with a modern fleet of coaches and some lovely destinations to boot. 
+[Alfa Travel](https://www.alfatravel.co.uk/coach-holidays/) specialises in UK coach holidays, with a modern fleet of coaches and some lovely destinations to boot. 
 
-#### Travelling overnight
+## Travelling overnight
 
-Taking an overnight coach is the ultimate in budget travel, as you save on a hotel or hostel, and it can work out much cheaper than a sleeper train. It’s very rare you will get a bed, though, so it won’t be the most comfortable night’s sleep. 
+Taking an overnight coach is the ultimate in budget travel, as you save on a hotel or hostel, and it can work out much cheaper than a sleeper train. It’s very rare you will get a bed though, so it won’t be the most comfortable night’s sleep. 
 
 A travel pillow, eye mask and earplugs can really help, and waking up in a new exciting destination will make all that tiredness disappear…  
 
