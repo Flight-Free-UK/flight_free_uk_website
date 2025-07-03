@@ -38,3 +38,21 @@ You can encounter red-billed choughs on Islay or Oronsay – birds which cannot 
 The first thing you learn when island bagging (and this extends to islands beyond Scotland – although we unquestionably have the best ones) is that the longer you spend on them, the further into your heart they penetrate. They do not let go. I don’t consider an island ‘bagged’ unless I’ve spent time on it and done at least something which I will remember. Ideally, I’ve spent a night or two there. Putting one foot down and getting back on the ferry is not an option.
 
 If you choose to visit some islands, you will find at least some of that peace in a couple of days. Choose to get lost in conversation with the locals and other visitors, or at least allow yourself a few more days than you have specific plans for, and you’ll start to feel yourself getting attached. Spend those days exploring in an open ended way – on foot, by bike, by kayak or by road, and you’ll start to happen upon some secretive and beautiful spots (such as beaches, coves and viewpoints) that few others will know even exist. This is how the islomania starts. You happen upon these spots and they end up being special to you.
+
+![](/images/uploads/orkney_canva.jpg "White sands and turquoise seas on Orkney")
+
+These spots are ‘secret’ not necessarily because plenty of others haven’t visited them, but because we often choose to keep them to ourselves. You probably will as well. Who wants to see beaches you have all to yourselves, with next to no litter and stunning scenery, ruined because of someone’s irresponsible behaviour on Instagram?
+
+All that being said there is a case to be made that more people from the UK should be visiting the islands of Scotland (and doing so responsibly). I say this because it is the perfect alternative to flying on holiday.
+
+In April 2025 I was on Arran, watching from the summit of Casteil Abhail (a mountain in the north of the island) as an appalling wildfire consumed Glen Rosa and devastated its wildlife, as well as a decade of conservation work. Later I saw it spread at an appalling rate into the night.
+
+Temperatures that day had hit a high of 18 degrees, in April. Arran’s fragile landscape was not prepared for such a thing, and the community was devastated to witness the result. Climate change is to blame for the wildfire, regardless of the minutiae of how exactly the flame was first lit.
+
+O﻿ne month later and I was on a flight, my first since 2020, to Italy with my wife. Images of that wildfire were plaguing me while I boarded the plane and I resolved, for the sake of the birds and planet I love, not to continue flying. 
+
+It’s an addiction that our society must break if we’re to avoid irreparable damage to our children’s futures, the natural environment, to the wildlife we share this planet with, and essentially to everything and everyone we love. This is not a popular view in the circles I mix in. Flying on holiday is seen as a divine right for the hard working. I understand this view – countries throughout the world offer us pleasures and new experiences which are memorable.
+
+Let’s look for a second though at what those pleasures and new experiences are. Sunlight is the main one. We are getting more and more of this in Scotland all the time, in part due to global warming, but let’s be honest: nowhere in the world is more beautiful in sunlight than Scotland. 
+
+Why else do people get on planes? The main reasons are scenery, history, peace, escapism, quality time with friends or family, possibly some adventure, and good food. Need I say the rest?
