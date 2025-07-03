@@ -55,6 +55,8 @@ It’s an addiction that our society must break if we’re to avoid irreparable 
 
 Let’s look for a second though at what those pleasures and new experiences are. Sunlight is the main one. We are getting more and more of this in Scotland all the time, in part due to global warming, but let’s be honest: nowhere in the world is more beautiful in sunlight than Scotland. 
 
+![](/images/uploads/portree-skye-canva.jpg "Portree, Isle of Skye")
+
 Why else do people get on planes? The main reasons are scenery, history, peace, escapism, quality time with friends or family, possibly some adventure, and good food. Need I say the rest?
 
 Island bagging offers all of this and will deepen our appreciation for what we have on our own doorstep. Even if you visit 40 or more islands you will have plenty of reasons to come back and back to those same islands. It’s always the way – you arrive with a to-do list, and leave with an even longer to-do list.
