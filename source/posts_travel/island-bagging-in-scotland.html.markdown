@@ -51,8 +51,16 @@ Temperatures that day had hit a high of 18 degrees, in April. Arran’s fragile 
 
 O﻿ne month later and I was on a flight, my first since 2020, to Italy with my wife. Images of that wildfire were plaguing me while I boarded the plane and I resolved, for the sake of the birds and planet I love, not to continue flying. 
 
-It’s an addiction that our society must break if we’re to avoid irreparable damage to our children’s futures, the natural environment, to the wildlife we share this planet with, and essentially to everything and everyone we love. This is not a popular view in the circles I mix in. Flying on holiday is seen as a divine right for the hard working. I understand this view – countries throughout the world offer us pleasures and new experiences which are memorable.
+It’s an addiction that our society must break if we’re to avoid irreparable damage to our children’s futures, the natural environment, to the wildlife we share this planet with, and essentially to everything and everyone we love. This is not a popular view in the circles I mix in. Flying on holiday is seen as a divine right for the hard working. I understand this view – countries around the world offer us pleasures and new experiences which are memorable.
 
 Let’s look for a second though at what those pleasures and new experiences are. Sunlight is the main one. We are getting more and more of this in Scotland all the time, in part due to global warming, but let’s be honest: nowhere in the world is more beautiful in sunlight than Scotland. 
 
 Why else do people get on planes? The main reasons are scenery, history, peace, escapism, quality time with friends or family, possibly some adventure, and good food. Need I say the rest?
+
+Island bagging offers all of this and will deepen our appreciation for what we have on our own doorstep. Even if you visit 40 or more islands you will have plenty of reasons to come back and back to those same islands. It’s always the way – you arrive with a to-do list, and leave with an even longer to-do list.
+
+I’m not a terribly acquisitive person – I’ve always been pretty happy with the simple pleasures. But not only do I believe that the simplest pleasures are the best ones, I believe that accelerating climate change calls for us all to turn to them as a way of living. There is evidence that increasingly unbearable heatwaves in southern Europe are changing our travel habits already, and we are choosing to holiday further north. But what about when those places get unbearable as well? Let’s take these patterns to their logical conclusion, and start turning even closer to home for holidays. 
+
+##### A ‘staycation’ is just a vacation, without the serious impact of flying. And if you choose the Scottish islands, you’ll get all of the benefits you expect from a holiday, and more besides.
+
+*T﻿om has set a personal goal of visiting 100 Scottish islands by the end of 2030. He is raising money to help with the restoration of Glen Rosa, and to support Flight Free UK. You can follow his progress on his [100 Islands blog](https://100islandsblog.wordpress.com/).*
