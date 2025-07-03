@@ -3,7 +3,8 @@ published: true
 title: Island-bagging in Scotland
 date: 2025-07-03T13:58:41.896Z
 cover_image: /images/uploads/isle-of-arran_canva.jpg
-summary: Tom Bird is on a mission to visit 100 Scottish islands
+summary: Tom Bird is on a mission to visit 100 Scottish islands, and explores
+  why island bagging is a good alternative to flying
 author: FlightFree UK
 read_time_minute: 5
 ---
