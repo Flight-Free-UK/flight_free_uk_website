@@ -27,9 +27,9 @@ Every island is different. There is obviously some shared DNA between them, but 
 
 I’m a bird watcher. I’ve spent hours watching waders and sea ducks playing around in Brodick Bay – and I do this same walk (the Fisherman’s walk) every time I return to the island. With so much space around you, the light changes the colours and the atmosphere every time you visit. The ocean, the sky, the birds, they all change. Arran is new every time you come back, especially as the seasons pass.
 
-Much of what attracts so many birds here is the richness of the seas. The community has played a part in this by creating Scotland’s only ‘no take zone’, an ocean rewilding project. It is totally unique among Scotland’s islands. 
+Much of what attracts so many birds here is the richness of the seas. The community has played a part in this by creating Scotland’s only ‘no take zone’, an [ocean rewilding project](https://www.arrancoast.com/). It is totally unique among Scotland’s islands. 
 
-Elsewhere around Scotland, different landscapes create new spectacles to marvel at. There are large cliffs absolutely covered in gannets, guillemots and kittiwakes in Orkney. Adjacent to the white sandy beaches and turquoise seas, there are less dramatic (but no less beautiful) sights of corncrakes and lapwings roaming fields of machair in the Outer Hebrides. Askernish golf course on South Uist carefully maintains its playing areas to ensure these ground-nesting birds can peacefully coexist with humans. In October, on Islay, the sky fills with Barnacle Geese as they arrive in their thousands from Greenland. 
+Elsewhere around Scotland, different landscapes create new spectacles to marvel at. There are large cliffs absolutely covered in gannets, guillemots and kittiwakes in Orkney. Adjacent to the white sandy beaches and turquoise seas, there are less dramatic (but no less beautiful) sights of corncrakes and lapwings roaming fields of machair in the Outer Hebrides. [Askernish](https://www.askernishgolfclub.com/) golf course on South Uist carefully maintains its playing areas to ensure these ground-nesting birds can peacefully coexist with humans. In October, on Islay, the sky fills with Barnacle Geese as they arrive in their thousands from Greenland. 
 
 ![](/images/uploads/gannets_canva.jpg "Gannets on Bass Rock")
 
@@ -47,7 +47,7 @@ All that being said there is a case to be made that more people from the UK shou
 
 In April 2025 I was on Arran, watching from the summit of Casteil Abhail (a mountain in the north of the island) as an appalling wildfire consumed Glen Rosa and devastated its wildlife, as well as a decade of conservation work. Later I saw it spread at an appalling rate into the night.
 
-Temperatures that day had hit a high of 18 degrees, in April. Arran’s fragile landscape was not prepared for such a thing, and the community was devastated to witness the result. Climate change is to blame for the wildfire, regardless of the minutiae of how exactly the flame was first lit.
+Temperatures that day had hit a high of 18 degrees, in April. Arran’s fragile landscape was not prepared for such a thing, and the community was devastated to witness the result. Climate change is to blame for the wildfire, regardless of how exactly the [flame was first lit](https://www.bbc.co.uk/news/articles/c5yp0pxqg56o).
 
 O﻿ne month later and I was on a flight, my first since 2020, to Italy with my wife. Images of that wildfire were plaguing me while I boarded the plane and I resolved, for the sake of the birds and planet I love, not to continue flying. 
 
@@ -61,7 +61,7 @@ Why else do people get on planes? The main reasons are scenery, history, peace, 
 
 Island bagging offers all of this and will deepen our appreciation for what we have on our own doorstep. Even if you visit 40 or more islands you will have plenty of reasons to come back and back to those same islands. It’s always the way – you arrive with a to-do list, and leave with an even longer to-do list.
 
-I’m not a terribly acquisitive person – I’ve always been pretty happy with the simple pleasures. But not only do I believe that the simplest pleasures are the best ones, I believe that accelerating climate change calls for us all to turn to them as a way of living. There is evidence that increasingly unbearable heatwaves in southern Europe are changing our travel habits already, and we are choosing to holiday further north. But what about when those places get unbearable as well? Let’s take these patterns to their logical conclusion, and start turning even closer to home for holidays. 
+I’m not a terribly acquisitive person – I’ve always been pretty happy with the simple pleasures. But not only do I believe that the simplest pleasures are the best ones, I believe that accelerating climate change calls for us all to turn to them as a way of living. There is [evidence](https://www.bbc.co.uk/news/articles/czxw6331grxo) that increasingly unbearable heatwaves in southern Europe are changing our travel habits already, and we are choosing to holiday further north. But what about when those places get unbearable as well? Let’s take these patterns to their logical conclusion, and start turning even closer to home for holidays. 
 
 ##### A ‘staycation’ is just a vacation, without the serious impact of flying. And if you choose the Scottish islands, you’ll get all of the benefits you expect from a holiday, and more besides.
 
