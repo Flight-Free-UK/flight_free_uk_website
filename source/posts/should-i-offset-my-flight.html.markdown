@@ -43,9 +43,9 @@ T﻿he Grantham Institute calculates that a [realistic carbon price](https://www
 
 I﻿f we look at most carbon offset calculators, the suggested amount is a lot lower: 
 
-* Atmosfair = £20 per tonne CO2
-* BA = £10 per tonne
-* Easyjet = £3 per tonne (EasyJet abandoned its offset scheme in 2022, preferring to focus on green technology and so-called 'sustainable' aviation fuel)
+* [Atmosfair](https://www.atmosfair.de/en/offset/flight/) = £20 per tonne CO2
+* BA = [£10 per tonne](https://www.greenairnews.com/?p=3633) ﻿ (BA has since stopped offering carbon offsets)
+* Easyjet = [£3 per tonne](https://www.theguardian.com/business/2019/nov/19/easyjet-offset-carbon-emissions-flights-thomas-cook-collapse) (EasyJet abandoned its offset scheme in 2022, preferring to focus on green technology and so-called 'sustainable' aviation fuel)
 
 The vast disparities between these costs show that offsetting is somewhat arbitrary. There is some regulation to the industry, for example with Gold Standard offsets, but even those are open to fraud and don’t always live up to their promise. Ultimately, offsetting has become a tradable commodity – just one more morally questionable industry to add to the list.
 
