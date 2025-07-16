@@ -72,8 +72,6 @@ The slow journey back gave me time to reflect on the holiday, sift through the p
 
 **C﻿ost:** 
 
-Caledonian Sleeper return: £91.85 ([seated coach](https://www.sleeper.scot/accommodation/seated-coach/))
-
-Eurostar return: £88 ([using low-fare finder and travelling at the cheapest times](https://www.eurostar.com/uk-en/find-lowest-fares))
-
-Lille - Nîmes return: £126.18 (booked through [SNCF](https://www.sncf-connect.com/en-en) to find the best price, rather than Trainline/Rail Europe which often only give the fastest and most costly trains)
+* Caledonian Sleeper return: £91.85 ([seated coach](https://www.sleeper.scot/accommodation/seated-coach/))
+* Eurostar return: £88 ([using low-fare finder and travelling at the cheapest times](https://www.eurostar.com/uk-en/find-lowest-fares))
+* Lille - Nîmes return: £126.18 (booked through [SNCF](https://www.sncf-connect.com/en-en) to find the best price, rather than Trainline/Rail Europe which often only give the fastest and most costly trains)
