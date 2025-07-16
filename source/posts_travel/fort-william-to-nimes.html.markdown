@@ -58,3 +58,14 @@ The slow journey back gave me time to reflect on the holiday, sift through the p
 ##### Waking up to views of the dramatic munros and valleys surrounding the train brought happy tears to my eyes. It really felt like Scotland was welcoming me back home.
 
 ![](/images/uploads/montpelier-hbaxter.jpg "Sunset over Place Royale du Peyrou, Montpellier")
+
+**F﻿ort William to Montpellier and back**
+
+* F﻿ort William to London (Caledonian Sleeper)
+* L﻿ondon to Lille (Eurostar)
+* L﻿ille to Avignon (TGV)
+* A﻿vignon to Nîmes
+* N﻿îmes to Montpellier
+* M﻿ontpellier to Lille
+* L﻿ille to London (Eurostar)
+* L﻿ondon to Fort William (Caledonian Sleeper)
