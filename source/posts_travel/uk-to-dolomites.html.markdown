@@ -1,6 +1,6 @@
 ---
 published: true
-title: UK to Dolomites
+title: Brighton to Dolomites
 date: 2025-02-12T09:43:42.260Z
 cover_image: /images/uploads/dolomites_canva.jpg
 summary: Iain travels by train from the UK to 3 Zinnen in the Italian Dolomites
