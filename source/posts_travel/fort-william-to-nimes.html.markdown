@@ -25,7 +25,7 @@ To break up the trip I made a two-day pause in London to catch up with friends, 
 
 Even though I'd picked a seat to keep the cost down, it was surprisingly comfortable, with cosy padding and a proper head rest, so it was not too bad for sleeping, and I had also booked a seat in the single aisle, which meant I didn't have to worry about falling asleep on someone's shoulder. I managed to get several hours of sleep, although it was far from my best. This is all because of a fatal flaw I made – I’d neglected to bring a neck pillow or anything pillowy for that matter, despite every resource advising me otherwise. 
 
-I woke up sleepy-eyed but bushy-tailed nonetheless, and was ready to spend a day exploring London. I must say, waking up in a new city with the day laid out ahead of you is an incredibly satisfying experience – so much so that it might cement night trains as my favourite method of travel (crying toddler or not).
+I woke up sleepy-eyed but bushy-tailed nonetheless, and was ready to spend the day exploring London. I must say, waking up in a new city with the day laid out ahead of you is an incredibly satisfying experience – so much so that it might cement night trains as my favourite method of travel (crying toddler or not).
 
 After a long weekend in London it was time to start nine hours of train travel down to Nîmes. I rocked up at St Pancras at 6:15am for the 7:04 departure. My holiday to France was truly beginning.
 
