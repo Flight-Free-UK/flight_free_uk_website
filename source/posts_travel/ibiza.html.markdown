@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ibiza
+title: St Albans to Ibiza
 date: 2024-10-10T08:45:52.776Z
 cover_image: /images/uploads/ibiza_canva.jpg
 summary: There's no need to fly if you're heading to the White Isle
