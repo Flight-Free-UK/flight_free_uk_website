@@ -11,9 +11,9 @@ read_time_minute: 5
 ---
 ![](/images/uploads/nimes-pont-du-gard_canva.jpg "Ancient aqueduct of Pont du Gard, UNESCO world heritage site, in Nîmes")
 
-### A﻿s a New Zealander living in Scotland, I don't get to see my family that much. 
+### A﻿s a New Zealander living in Scotland, I don't get to see my family that much.
 
-##### So when my sister told me she was coming to France on holiday, I jumped at the chance to see her. 
+##### So when my sister told me she was coming to France on holiday, I jumped at the chance to see her.
 
 It's usually the kind of trip I would take a flight for, especially as the cost of getting from the Highlands of Scotland to the south of France by train looked really quite expensive. But I’d recently committed to the Flight Free Challenge, so I needed to throw my gut instinct of hopping onto Google Flights out of the window. 
 
@@ -53,7 +53,7 @@ The next morning I started my 26 hour journey back home to the Scottish Highland
 
 The slow journey back gave me time to reflect on the holiday, sift through the photos we’d taken and say "goodbye" to the trip. I WFT(rained) again until another layover in Lille where I tucked myself into an air conditioned library for the last few hours of the working day before boarding the Eurostar back to London. 
 
-##### T﻿hen it was an easy interchange onto the Caledonian Sleeper once more, and without a screaming child on board I managed to get a notably better night’s sleep. 
+##### T﻿hen it was an easy interchange onto the Caledonian Sleeper once more, and without a screaming child on board I managed to get a notably better night’s sleep.
 
 ##### Waking up to views of the dramatic munros and valleys surrounding the train brought happy tears to my eyes. It really felt like Scotland was welcoming me back home.
 
@@ -69,3 +69,11 @@ The slow journey back gave me time to reflect on the holiday, sift through the p
 * M﻿ontpellier to Lille
 * L﻿ille to London (Eurostar)
 * L﻿ondon to Fort William (Caledonian Sleeper)
+
+**C﻿ost:** 
+
+Caledonian Sleeper return: £91.85 ([seated coach](https://www.sleeper.scot/accommodation/seated-coach/))
+
+Eurostar return: £88 ([using low-fare finder and travelling at the cheapest times](https://www.eurostar.com/uk-en/find-lowest-fares))
+
+Lille - Nîmes return: £126.18 (booked through [SNCF](https://www.sncf-connect.com/en-en) to find the best price, rather than Trainline/Rail Europe which often only give the fastest and most costly trains)
