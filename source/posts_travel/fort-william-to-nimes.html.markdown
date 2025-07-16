@@ -3,7 +3,7 @@ published: true
 title: Fort William to Nimes
 date: 2025-07-16T08:40:08.536Z
 cover_image: /images/uploads/nimes-canva.jpg
-summary: Choosing a seat on the Sleeper and using slow, local trains keeps the
+summary: Choosing a seat on the Sleeper and using an early Eurostar keeps the
   cost down on this epic trip from the Scottish Highlands to the south of
   France.
 author: FlightFree UK
@@ -17,7 +17,7 @@ read_time_minute: 5
 
 It's usually the kind of trip I would take a flight for, especially as the cost of getting from the Highlands of Scotland to the south of France by train looked really quite expensive. But I’d recently committed to the Flight Free Challenge, so I needed to throw my gut instinct of hopping onto Google Flights out of the window. 
 
-With the help of Flight Free UK’s resources I planned out the 3,400 kilometre round trip all the way from Fort William to Nîmes in the South of France and back again by train. By combining a seat on the Caledonian Sleeper, an early Eurostar, and an advance ticket on the TGV from Lille, the cost came in at £306 all in for the return journey. A lot more palatable than I was expecting!
+With the help of Flight Free UK’s resources I planned out the 3,400 kilometre round trip all the way from Fort William to Nîmes and Montpellier in the South of France and back again by train. By combining a seat on the Caledonian Sleeper, an early Eurostar, and an advance ticket on the TGV from Lille, the cost came in at £306 all in for the return journey. A lot more palatable than I was expecting!
 
 ![](/images/uploads/nimes-maison-carre-e_hbaxter.jpg "Maison carrée in Nîmes")
 
