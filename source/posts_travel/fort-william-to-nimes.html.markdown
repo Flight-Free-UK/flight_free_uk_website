@@ -17,7 +17,7 @@ It's usually the kind of trip I would take a flight for, especially as the cost 
 
 But I’d recently committed to the Flight Free Challenge, so I needed to throw my gut instinct of hopping onto Google Flights out of the window. 
 
-With the help of Flight Free UK’s resources I planned out the 3,400 kilometre round trip all the way from Fort William to Nîmes in the South of France and back again by train. By combining a seat on the Caledonian Sleeper (not for the faint-hearted!), an early Eurostar, and the slower trains from Lille rather than the TGV, the cost came in at £306 all in, for the return journey. A lot more palatable than I was expecting!
+With the help of Flight Free UK’s resources I planned out the 3,400 kilometre round trip all the way from Fort William to Nîmes in the South of France and back again by train. By combining a seat on the Caledonian Sleeper, an early Eurostar, and the slower trains from Lille rather than the TGV, the cost came in at £306 all in, for the return journey. A lot more palatable than I was expecting!
 
 To break up the trip down I made a couple day pause in London to catch up with friends, so the first leg of my holiday was simple - a single night train to London. Some might liken my first night-train experience to a baptism of fire thanks to 5 hours of uninterrupted tantruming from a toddler three rows away, but not even that put a damper on my excitement to finally be taking the famous Caledonian Sleeper. After 1am, I managed to get several hours of sleep in, although it was far from my best. This is all because of a fatal flaw I made - I’d neglected to bring a neck pillow or anything pillowy for that matter - despite every resource advising me otherwise. 
 
