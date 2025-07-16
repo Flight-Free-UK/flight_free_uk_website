@@ -13,15 +13,13 @@ read_time_minute: 5
 
 ##### So when my sister told me she was coming to France on holiday, I jumped at the chance to see her. 
 
-It's usually the kind of trip I would take a flight for, especially as the cost of getting from the Highlands of Scotland to the south of France looked really quite expensive.
-
-But I’d recently committed to the Flight Free Challenge, so I needed to throw my gut instinct of hopping onto Google Flights out of the window. 
+It's usually the kind of trip I would take a flight for, especially as the cost of getting from the Highlands of Scotland to the south of France by train looked really quite expensive. But I’d recently committed to the Flight Free Challenge, so I needed to throw my gut instinct of hopping onto Google Flights out of the window. 
 
 With the help of Flight Free UK’s resources I planned out the 3,400 kilometre round trip all the way from Fort William to Nîmes in the South of France and back again by train. By combining a seat on the Caledonian Sleeper, an early Eurostar, and an advance ticket on the TGV from Lille, the cost came in at £306 all in for the return journey. A lot more palatable than I was expecting!
 
 To break up the trip I made a two-day pause in London to catch up with friends, so the first leg of my holiday was simple: a single night train to London. Some might liken my first night-train experience to a baptism of fire thanks to five hours of uninterrupted tantruming from a toddler three rows away, but not even that put a damper on my excitement to finally be taking the famous Caledonian Sleeper. 
 
-Even though I'd picked a seat to keep the cost down, it was surprisingly comfortable, with cosy padding and a proper head rest, so it was not too bad for sleeping. I had booked a seat in the single aisle, which meant I didn't have to worry about falling asleep on someone's shoulder. I managed to get several hours of sleep, although it was far from my best. This is all because of a fatal flaw I made – I’d neglected to bring a neck pillow or anything pillowy for that matter, despite every resource advising me otherwise. 
+Even though I'd picked a seat to keep the cost down, it was surprisingly comfortable, with cosy padding and a proper head rest, so it was not too bad for sleeping, and I had also booked a seat in the single aisle, which meant I didn't have to worry about falling asleep on someone's shoulder. I managed to get several hours of sleep, although it was far from my best. This is all because of a fatal flaw I made – I’d neglected to bring a neck pillow or anything pillowy for that matter, despite every resource advising me otherwise. 
 
 I woke up sleepy-eyed but bushy-tailed nonetheless, and was ready to spend a day exploring London. I must say, waking up in a new city with the day laid out ahead of you is an incredibly satisfying experience – so much so that it may cement night trains as my favourite method of travel (crying toddler or not).
 
