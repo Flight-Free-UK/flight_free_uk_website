@@ -43,4 +43,4 @@ The next morning I started my 26 hour journey back home to the Scottish Highland
 
 The slow journey back gave me time to reflect on the holiday, sift through the photos we’d taken and say "goodbye" to the trip. I WFT(rained) again until another layover in Lille where I tucked myself into an air conditioned library for the last few hours of the working day before boarding the Eurostar back to London. 
 
-Before I knew it I was boarding the Caledonian Sleeper once more and without a screaming child on board I managed to get a notably better night’s sleep. Waking up to views of the dramatic munros and valleys surrounding the train the next morning brought happy tears to my eyes. It really felt like the scenery was welcoming me back home.
+T﻿hen it was an easy interchange onto the Caledonian Sleeper once more, and without a screaming child on board I managed to get a notably better night’s sleep. Waking up to views of the dramatic munros and valleys surrounding the train brought happy tears to my eyes. It really felt like Scotland was welcoming me back home.
