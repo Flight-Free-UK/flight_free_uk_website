@@ -29,7 +29,7 @@ I woke up sleepy-eyed but bushy-tailed nonetheless, and was ready to spend the d
 
 After a long weekend in London it was time to start nine hours of train travel down to Nîmes. I rocked up at St Pancras at 6:15am for the 7:04 departure. My holiday to France was truly beginning.
 
-I glided through the Eurostar customs and baggage scanners in 7 minutes flat and managed to wangle a chair in the packed waiting area – off to a strong start. Once on the train I practically melted into the seat because it was so comfy. As a 6’5 person, the times I have flown have never been enjoyable because the seats are always incredibly uncomfortable for me and my long limbs. But (spoiler alert) every seat I sat in on this journey was 10x more comfortable than on a plane, with notably more leg room and generally more padded seating. 
+I glided through the Eurostar customs and baggage scanners in 7 minutes flat and managed to wangle a chair in the packed waiting area – off to a strong start. Once on the train I practically melted into the seat because it was so comfy. As a 6’5" person, the times I have flown have never been enjoyable because the seats are always incredibly uncomfortable for me and my long limbs. But (spoiler alert) every seat I sat in on this journey was 10x more comfortable than on a plane, with notably more leg room and generally more padded seating. 
 
 W﻿ith a two-hour layover in Lille, I found a coffee shop and opened up my laptop to start on some work for the day. As I work remotely, I’d decided to change WFH to WFT(rains) – and it ran rather smoothly (though I do recommend getting EU roaming data like I did because the train wifi can be insufferably slow). 
 
