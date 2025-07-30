@@ -9,7 +9,7 @@ summary: Does a business meeting in Europe have to mean a flight? Definitely
 author: FlightFree UK
 read_time_minute: 3
 ---
-![Picture shows a river, a bridge and a lit up cathedral in the city of Cologne. It is night time and the city is lit up with blue and yellow lights. There are illuminated trees in the foreground.](/images/uploads/cologne.jpg)
+![Picture shows a river, a bridge and a lit up cathedral in the city of Cologne. It is night time and the city is lit up with blue and yellow lights. There are illuminated trees in the foreground.](/images/uploads/cologne-body-canva.jpg "Cologne")
 
 ### Every two to three months I have a meeting in Europe.
 
