@@ -1,6 +1,6 @@
 ---
 published: true
-title: Sicily
+title: Sleeper train to Sicily
 date: 2020-06-12T09:22:13.322Z
 cover_image: /images/uploads/sicily_canva.jpg
 summary: Peter Gilbert travels deep into the Mediterranean by rail, and finds
