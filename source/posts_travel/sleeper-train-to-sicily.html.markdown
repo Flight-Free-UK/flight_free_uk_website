@@ -37,6 +37,10 @@ Exploring Sicily can be easily done by bus. But for a more philosophical pace of
 
 ### Getting there
 
-\*﻿ The Thello sleeper train from Paris to Padua no longer runs. Instead you would take day trains to Milan and then pick up the sleeper to Naples and Sicily, or you could travel to Rome as Peter did, then take the daytime or overnight train to Sicily. The sleeper train from Milan is the longest sleeper ride in Italy, and travels along the coast and over the strait of Messina in the daytime, meaning the unique experience of the train going on to a ferry is not missed. 
+\*﻿ The Thello sleeper train from Paris to Padua no longer runs. Instead you would take day trains to Milan and then pick up the sleeper to Naples and Sicily, or you could travel to Rome as Peter did, then take the daytime or overnight train to Sicily. 
+
+The sleeper train from Milan is the longest sleeper ride in Italy, and travels along the coast and over the strait of Messina in the daytime, meaning the unique experience of the train going on to a ferry is not missed. 
+
+A﻿ll the options for travelling to Siciliy by day or by night can be found at the ['Sicily' page of Seat61.com](https://www.seat61.com/Italy.htm#london-to-sicily-by-train)
 
 ![](/images/uploads/messina-sicily_canva.jpg "Messina, Sicily")
