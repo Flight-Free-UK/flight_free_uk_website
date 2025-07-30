@@ -57,7 +57,11 @@ There are five main ferry companies operating out of the UK and Ireland: DFDS, S
 
 ## Rail and Sail
 
-The [‘rail and sail’](https://www.stenaline.co.uk/rail-and-sail) ticket is a fantastic option for cheap travel, and is available on Stena Line routes to Ireland and the Netherlands. The ticket includes train travel to the port, and onwards at the other end, meaning you can get from most major UK towns to Dublin or any Dutch city for just £50. 
+The [‘rail and sail’](https://www.stenaline.co.uk/rail-and-sail) ticket is a fantastic option for cheap travel, and is available on Stena Line routes to Ireland and the Netherlands. The ticket includes train travel to the port, meaning you can get from most major UK towns to Dublin or Hoek van Holland for just £60. 
+
+## S﻿ailLink
+
+I﻿f you want an even more adventurous and sustainable way of crossing the channel, try [SailLink](https://www.saillink.co.uk/). You can travel under sail from Dover to Bolougne-sur-Mer as a foot passenger or with your bike. There's no better way to arrive on the continent than under sail!
 
 ## Tips for travelling by ferry
 
