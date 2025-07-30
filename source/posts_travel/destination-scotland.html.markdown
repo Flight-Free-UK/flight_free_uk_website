@@ -43,7 +43,7 @@ Travelling by local transport is by far the loveliest way to travel. You get to 
 
 *\*Calum's boat, the Sula Mhor, was wrecked in the February storms earlier this year. He's currently looking for a new one so keep an eye on his Facebook page, '[Calum's Seal & Dolphin Trips](https://www.facebook.com/Calums-Seal-Dolphin-Trips-199275906780596/)', or [website](https://calums-sealtrips.com/) for updates.*
 
-#### **Claire Stocks, cycling in the Outer Hebrides**
+## **Claire Stocks, cycling in the Outer Hebrides**
 
 There is nothing more exciting than starting a trip right from your front door – no taxi to the airport, no boarding queues, no traffic jams or motorway monotony. Instead, just you and the open road, and everything you need on your back, or your bike rack.
 
@@ -65,7 +65,7 @@ One of the best things about living in Europe is how easy it is to travel like t
 
 ![Picture shows a person cycling along a narrow road next to a white sandy estuary. In the distance is a small white house with a red roof and low rolling green hills. ](/images/uploads/claire1.png "Cycling towards Traigh Mhor, where a tiny plane lands once a day on Barra’s beach runway, the only one in the world")
 
-#### Kate Bullock, driving around Easter Ross and Wester Ross
+## Kate Bullock, driving around Easter Ross and Wester Ross
 
 My husband and I have been to Scotland several times, before and since we were married. I worked as an au pair on the Isle of Mull and Rupert's family had many holidays there. Since discovering Rupert's strong ancestral links to Scotland – his great-great-great grandfathers emigrated from Scotland to Jamaica – we've been more often.
 
@@ -91,7 +91,7 @@ The last time we flew was 28 years ago when a friend paid for us to visit him in
 
 Rupert's uncle, a journalist who has travelled the world, says Scotland is the best place anywhere. Although you’d want to avoid the midge season, it is extremely beautiful and the history is written on the landscape. Even in the rain, Scotland is so atmospheric and it impacts you deeply. Why would you go anywhere else?
 
-#### Christiane Lellig, travelling around Orkney with two teenage boys
+## Christiane Lellig, train to Orkney with two teenage boys
 
 ‘Can we go to Orkney once?’ That was unexpected. I looked at my son and slowly answered, ‘Sure...’. Somewhere, he had read that you can see the Northern Lights in Orkney. And orca of course – killer whales – though that hadn’t sparked his fantasy quite as much. After many years of camping holidays in Dorset and Wales, I thought it was a brilliant idea for a holiday with teenage boys, even though we’d be fairly unlikely to see the Northern Lights in the summer.
 
@@ -117,7 +117,7 @@ We will definitely be back one day; there are plenty of islands still to discove
 
 ![Picture shows two figures walking along a sandy beach with the tide very far out. The sea looks deep blue and turquoise and the sky is clear blue with few clouds. The sand is pale yellow and there is shallow pools and streams running through it. ](/images/uploads/img_1874.jpg "Westray, near the Links of Noltland")
 
-#### Ali Hood, hiking in Glen Coe
+## Ali Hood, hiking in Glen Coe
 
 Giving up flying was the next logical step in my efforts to reduce my carbon emissions. When I started to reduce my waste and live more sustainably I thought travelling would be the one 'cheat' activity I could maintain as normal, but as time passed and things seemed to be getting more pressing, my boyfriend and I gradually became more open to reducing and eventually stopping flying.
 
@@ -145,6 +145,6 @@ There are many parallels between living with a chronic illness and choosing not 
 
 Equally, travel doesn’t mean going the furthest, climbing the highest, or ticking off the most sights – it’s about exploring, learning, being present, and ultimately having fun wherever you are. Perhaps this is something my illness is teaching me, and it applies to my interest in environmentalism too. It’s about reframing expectations to enjoy what IS possible without resenting the restrictions.
 
-#### After all, what could be better than the beauty of nature in the company of friends?
+##### After all, what could be better than the beauty of nature in the company of friends?
 
 ![Picture shows one person sitting on a log and three others standing. They are smiling to pose for the picture. Behind the log is a forest of thin trees. ](/images/uploads/lochan-trail-min.jpg "Lochan trails")
