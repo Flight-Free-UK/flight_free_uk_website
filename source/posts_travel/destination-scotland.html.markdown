@@ -9,6 +9,8 @@ author: FlightFree UK
 read_time_minute: 7
 category: travel
 ---
+![](/images/uploads/arthurs-seat-edinburgh_canva.jpg "Arthurs Seat, Edinburgh")
+
 ### From the city life of Edinburgh, Glasgow and Aberdeen to Ben Nevis and the wildness of the Highlands, Scotland’s riches are begging to be explored.
 
 ##### The country is famous for its spectacular landscapes of lochs, glens, mountains and dramatic sea cliffs, with the west coast in particular offering a unique desolate beauty.
