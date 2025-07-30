@@ -31,7 +31,7 @@ Sicily is almost Tunisia, so it’s no surprise that there are north African inf
 
 And you feel Africa is present in today’s street markets, in which a Moorish trader of the past would surely be quite at home. The morning fish markets are alive with noise and activity, guts and fish heads miring ancient cobbles as the morning proceeds. They are a spectacle (in Catania you can view the market at a safe distance, from atop its surrounding walls), but they are less appealing if you happened to have hit the *marsala* the night before.
 
-![Picture shows boats moored on the beach of a harbour. The waves behind are bright blue and choppy. On the other side of the water are old-fashioned hotels. ](/images/uploads/taormina-harbour.jpg "Taormina harbour")
+![Picture shows boats moored on the beach of a harbour. The waves behind are bright blue and choppy. On the other side of the water are old-fashioned hotels. ](/images/uploads/taormina-harbour.jpg "Boats at Taormina")
 
 Exploring Sicily can be easily done by bus. But for a more philosophical pace of life why not try a Sicilian train? Yes, they are slow and infrequent, and often run late, and drop you at the foot of the rock on which your hotel is perched… but they are such a relaxing way of getting around! The 19th century railway engineers created spirals of lines to climb terrain that’s not easy for a train. There’s even a line around Europe’s only continuously erupting volcano, Mount Etna. Be sure to stop off at Taormina, where the railway station also acts as a museum for the town’s antiquities. Not a bad place to muse on life’s mysteries.
 
