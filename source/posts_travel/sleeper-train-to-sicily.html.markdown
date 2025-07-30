@@ -9,7 +9,7 @@ author: FlightFree UK
 read_time_minute: 4
 category: travel
 ---
-![Picture shows a hill covered in buildings and structures. An evening sun is shining on the hill and the other side is in shade. In the background is an expanse of green hilly terrain with a small layer of cloud covering to tops of the hills. The sky above is blue. In the bottom left corner of the picture are the tops of trees silhouetted against the view. ](/images/uploads/view-from-enna-2.jpg "View from Enna")
+![](/images/uploads/taormina-sicily-canva.jpg "Taormina, Sicily")
 
 ### I’d often dreamed of European train adventures, but courage never matched imagination until I discovered the website [seat61.com](https://www.seat61.com/).
 
@@ -19,7 +19,7 @@ The romantic in me chose the night sleeper from Paris, dining on board with a ha
 
 One oddity about travelling to Sicily by train is that some of it is by train ferry. Long-distance day and night trains get shunted on board, cross the strait of Messina, and then continue, one half of the train hugging the north coast to Palermo, the other heading south to Taormina and Siracusa. Even though I deliberately caught the later of the two night trains, it was still far too early for me to rise on a dampish morning, so I experienced the crossing from the inside of the train deck.
 
-![The picture shows a closeup shot of a map of Italy, with Sicily at the bottom. ](/images/uploads/italy-sicily.jpg)
+![The picture shows a closeup shot of a map of Italy, with Sicily at the bottom. ](/images/uploads/sicily-map_canva.jpg)
 
 ##### That first Sicilian oddity was followed by others. Its desserts for starters.
 
@@ -42,3 +42,5 @@ The Thello, taking you from Paris into northern Italy, has to be the best value 
 If you prefer to travel by day and savour the view, take a high speed TGV train from Paris to Turin or Milan, stay a night, then a Trenitalia or Italo high speed train to Rome, Naples or Salerno. From there trains are older and slower but still smooth and comfortable; they cling to the coast so you see plenty. Bring your own refreshments.
 
 Overnight engineering works can result in trains being cancelled so it is worth booking the Italian trains before buying Eurostar tickets. Thello, Trenitalia and Italo start selling around the same time as Eurostar (about six months before you travel) and, if you get in early, you can travel to Sicily and back for around £300 sharing compartments. I did it for £500 with single occupancy throughout, and I had a day each in Padua and Naples along the way, as well as an afternoon and evening in Rome.
+
+![](/images/uploads/messina-sicily_canva.jpg "Messina, Sicily")
