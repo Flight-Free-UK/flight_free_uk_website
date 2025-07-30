@@ -2,8 +2,8 @@
 published: true
 title: "Destination: Scotland"
 date: 2020-05-11T18:19:52.874Z
-cover_image: /images/uploads/portree_canva.jpg
-summary: Bonny Scotland is bursting with treasures, and being right on our
+cover_image: /images/uploads/portree-skye_canva-cover.jpg
+summary: Bonny Scotland is bursting with treasures, and being right on the
   doorstep it’s an obvious flight-free destination. Why holiday anywhere else?
 author: FlightFree UK
 read_time_minute: 7
@@ -11,7 +11,7 @@ category: travel
 ---
 ### From the city life of Edinburgh, Glasgow and Aberdeen to Ben Nevis and the wildness of the Highlands, Scotland’s riches are begging to be explored.
 
-##### The country is famous for its spectacular landscapes of lochs, glens, mountains and dramatic sea cliffs, with the west coast in particular offering a unique desolate beauty. 
+##### The country is famous for its spectacular landscapes of lochs, glens, mountains and dramatic sea cliffs, with the west coast in particular offering a unique desolate beauty.
 
 For wildlife enthusiasts, there’s no better place to spot birds, seals, porpoises and dolphins, and perhaps even a killer whale or basking shark. 
 
@@ -19,7 +19,7 @@ Travelling to Scotland without flying is simple, and an experience in itself, wi
 
 Here are five accounts detailing just a glimpse of what Scotland has to offer.
 
-#### **Jane Cullum, by public transport around Scotland**
+## **Jane Cullum, by public transport around Scotland**
 
 Travelling around Scotland by rail, bus and ferry is easy and inexpensive. It’s best to book bus/coach tickets in advance, especially in the high season, and definitely ask the local people for advice on places to visit.
 
@@ -29,7 +29,7 @@ From Inverness I took the [Kyle Line](https://www.scotrail.co.uk/scotland-by-rai
 
 From the Kyle of Lochalsh you can get a coach across to Skye (buy a [ticket](https://www.citylink.co.uk/) in advance as coaches can get booked up quickly). Local buses go around the top part of the island – for timetables, visit the tourist information office in Portree. You can also get a day ticket to hop on and off and visit some of the main landmarks like the [Old Man of Storr](https://www.isleofskye.com/skye-guide/top-ten-skye-walks/old-man-of-storr).
 
-![Picture shows Portree harbour. It is a small bay with little fishing boats dotted around the water. The houses along the harbour edge are colourfully painted, with pinks, greens and blues. There is greenery behind the housed and the sky is moody and cloudy, although some blue sky is peaking through. ](/images/uploads/portree.jpg "Portree harbour. Image credit: skyetravels.com")
+![Picture shows Portree harbour. It is a small bay with little fishing boats dotted around the water. The houses along the harbour edge are colourfully painted, with pinks, greens and blues. There is greenery behind the housed and the sky is moody and cloudy, although some blue sky is peaking through. ](/images/uploads/portree-skye-canva.jpg "Portree harbour, Isle of Skye")
 
 In the sheltered south of Skye, the landscape changes from the dramatic black and red Cuillins to more gentle, rolling hills. I took the bus from Portree to Isleornsay where I had lunch in the excellent traditional An Praban bar, part of the hotel [Eilean Iarmain](http://eileaniarmain.co.uk/). The hotel sits on the shore of a natural harbour with beautiful views across the Sound of Sleat to the mountains of the mainland.
 
