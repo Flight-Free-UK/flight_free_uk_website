@@ -10,9 +10,9 @@ read_time_minute: 5
 ---
 ![](/images/uploads/isle-of-arran_canva-large.jpg "The Isle of Arran seen from West Kilbride")
 
-### I’m taking a gamble by writing about this. 
+### I’m taking a gamble by writing about this.
 
-##### The phrases ‘Pandora’s box’ and ‘genie out of the bottle’ are ringing in my ears as I type. 
+##### The phrases ‘Pandora’s box’ and ‘genie out of the bottle’ are ringing in my ears as I type.
 
 Selfishly, I have all sorts of reasons not to advertise the Scottish islands any more than they have been already. Selflessly, there are further good reasons to press on.
 
@@ -49,6 +49,8 @@ All that being said there is a case to be made that more people from the UK shou
 In April 2025 I was on Arran, watching from the summit of Casteil Abhail (a mountain in the north of the island) as an appalling wildfire consumed Glen Rosa and devastated its wildlife, as well as a decade of conservation work. Later I saw it spread at an appalling rate into the night.
 
 Temperatures that day had hit a high of 18 degrees, in April. Arran’s fragile landscape was not prepared for such a thing, and the community was devastated to witness the result. Climate change is to blame for the wildfire, regardless of how exactly the [flame was first lit](https://www.bbc.co.uk/news/articles/c5yp0pxqg56o).
+
+![](/images/uploads/wildfire-arran-tbird.jpg "A wildfire erupts on Arran")
 
 O﻿ne month later and I was on a flight, my first since 2020, to Italy with my wife. Images of that wildfire were plaguing me while I boarded the plane and I resolved, for the sake of the birds and planet I love, not to continue flying. 
 
