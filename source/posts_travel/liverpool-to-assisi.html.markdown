@@ -4,7 +4,7 @@ title: Liverpool to Assisi
 date: 2025-09-11T18:40:35.885Z
 cover_image: /images/uploads/assisi_canva.jpg
 summary: Travelling alone as a senior can be a challenge, but is definitely
-  achievable, as Anne found out on a pilgrimage to Italy
+  achievable, as Anne found out on a pilgrimage to Umbria in Italy
 author: FlightFree UK
 read_time_minute: 4
 ---
