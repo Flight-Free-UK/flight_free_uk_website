@@ -2,14 +2,14 @@
 published: true
 title: Overnight coach to Umbria, Italy
 date: 2019-10-05T08:03:59.725Z
-cover_image: /images/uploads/assisi_canva.jpg
+cover_image: /images/uploads/perugia_canva.jpg
 summary: Sarah Clayton from AirportWatch travelled by train and coach for a
   walking holiday in Italy, and asks if long-distance coach travel could soon
   become a popular alternative to flying.
 author: FlightFree UK
 read_time_minute: 4
 ---
-![Old Italian buildings cover a tree-covered hill. There is an ancient church at the very peak. In the foreground are fields covered in poppies and a few small trees. The sky is blue. ](/images/uploads/unsplash-sterling-lanier-umbria-italy-.jpg "Perugia, Umbria. Photo credit: Sterling Lanier (Source: Unsplash)")
+![](/images/uploads/perugia_canva-body.jpg "Perugia, Umbria.")
 
 ### The medieval city of Perugia in Umbria, Italy, lies partway between Florence and Rome, in the foothills of the Apennine mountains.
 
