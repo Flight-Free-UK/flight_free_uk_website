@@ -10,7 +10,9 @@ read_time_minute: 4
 ---
 ![](/images/uploads/assisi_body_canva.jpg "St Francis Basilica in Assisi")
 
-### The [Laudato Sí Movement](https://laudatosimovement.org/) is a Christian organisation that promotes the idea of caring for God’s creation by reducing our climate change emissions.
+
+
+### The [Laudato Sí Movement](https://laudatosimovement.org/) is a global Catholic organisation that promotes the idea of caring for God’s creation by reducing our climate change emissions.
 
 ##### As a member I do as much as I can, which includes avoiding flights where possible. So when a retreat/pilgrimage was planned in Assisi, I wanted to try and get there by train.
 
@@ -52,8 +54,37 @@ In Turin I stayed in the same accommodation I’d used on the way out, which mad
 
 On all the journeys, the lack of language was overcome by peoples’ willingness and ability to help and to speak English. It was tiring but rewarding appreciating the expanse of France and Italy, the varied landscapes and town and city architecture. Watching the countryside unfold was great, I didn’t expect to see rice fields! I loved seeing the Alps particularly.
 
+The pilgrimage in Assisi was worth all the effort in several ways. Meeting fellow animators from USA, Canada, Australia, Africa, Honduras, Argentina and various European countries was enriching. 
+
+All our journeys were varied. Many had arrived earlier in Italy or were staying on to volunteer or visit other sites. Their activism at all different levels was also enriching. We were overrepresented as pilgrims from the Global north as many African participants had been refused visas. 
+
+Learning about St Francis, hearing the challenges he faced and the similarities with our society today and his radical solutions was empowering. Assisi is a very special place and now has a special place in my heart.
+
+![](/images/uploads/pilgrim-group_alitherland.jpg "The pilgrims group in Assisi")
+
 #### I﻿nterrail savings and total cost
 
 I estimate the cost without the interrail pass for the return journey to be £650. With the pass it cost me about half of this: £330.
 
 ![](/images/uploads/train-times-assisi.jpg)
+
+#### Emissions calculation:
+
+(using Our World in Data 2022: <https://ourworldindata.org/travel-carbon-footprint>)
+
+National rail carbon cost is 35g/km\
+Short haul flight is 151g/km
+
+Land distance from Liverpool to Assisi = 2000km\
+Air distance from Liverpool to Assisi = 1700km
+
+Rail = 70kg CO2 total\
+Air = 257kg CO2 total
+
+BUT international (electric, nuclear) rail is much lower than national rail (diesel/electric mix).
+
+International rail carbon cost is 4g/km, which makes 2000km x 4g = 8g
+
+Likely realistic emissions for rail travel is somewhere in the middle, e.g. 30kg
+
+Air emissions will also be different, as there are no direct flights from Liverpool to Perugia. Most likely scenario will be a train to Stansted airport (350km = 12.25kg CO2) and flight to Perugia (1342km = 203kg CO2) = 215kg CO2 in total.
