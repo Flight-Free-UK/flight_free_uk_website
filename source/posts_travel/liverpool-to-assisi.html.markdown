@@ -11,13 +11,11 @@ read_time_minute: 4
 ---
 ![](/images/uploads/assisi_body_canva.jpg "St Francis Basilica in Assisi")
 
-
-
 ### The [Laudato Sí Movement](https://laudatosimovement.org/) is a global Catholic organisation that promotes the idea of caring for God’s creation by reducing our climate change emissions.
 
 ##### As a member I do as much as I can, which includes avoiding flights where possible. So when a retreat/pilgrimage was planned in Assisi, I wanted to try and get there by train.
 
-The planning was a challenge, as was travelling alone, so here are some tips based on my experience:
+The planning was a challenge, as was travelling alone, so here are some tips based on my experience: 
 
 #### Use Man in Seat 61 to help plan the journey
 
