@@ -37,6 +37,8 @@ My train from Liverpool arrived into Euston at 8.56, which left plenty of time f
 
 Once I’d arrived at Gare du Nord I followed the directions from a very handy video explaining exactly how to get to the RER station and even how to purchase the ticket on an app. However, I couldn’t see the ticket and asked for help. The assistant explained that the ticket was on my phone but didn’t use a QR code and I just showed my phone at the barrier. Two stops later I was at Gare du Lyon and found my way up to the platform for the long trip to Turin. It was 5 hours and 40minutes but the views of the Alps were worth it. 
 
+![](/images/uploads/alps-train-window_alitherland.jpg "Alps from the train window")
+
 #### Ask for help if you need it
 
 My accommodation in Turin was about 20-minute walk from Porta Susa station which was welcome after sitting for so long. However, it was raining and dark and following Google maps left me going round in circles near my destination. I managed to find the location but then struggled to find the numbers, so I asked in a shop and they directed me. The next challenge was getting through two sets of doors, finding the code for the entrance and my room. What a relief when I opened and closed the door! It had been about 15 hours travelling door to door.
