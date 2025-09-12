@@ -10,9 +10,9 @@ read_time_minute: 4
 ---
 ![](/images/uploads/assisi_body_canva.jpg "St Francis Basilica in Assisi")
 
-### The [Laudato Sí Movement](https://laudatosimovement.org/) is a Christian organisation that promotes the idea of caring for God’s creation by reducing our climate change emissions. 
+### The [Laudato Sí Movement](https://laudatosimovement.org/) is a Christian organisation that promotes the idea of caring for God’s creation by reducing our climate change emissions.
 
-##### As a member I do as much as I can, which includes avoiding flights where possible. So when a retreat/pilgrimage was planned in Assisi, I wanted to try and get there by train. 
+##### As a member I do as much as I can, which includes avoiding flights where possible. So when a retreat/pilgrimage was planned in Assisi, I wanted to try and get there by train.
 
 The planning was a challenge, as was travelling alone, so here are some tips based on my experience:
 
@@ -46,8 +46,14 @@ The journey back was different due to my errors. I checked my seat reservation f
 
 When she arrived, I explained I was on the wrong train. She was so nice. She looked up a connection for me in Milan and used her discretion not to charge me. On the second train, the ticket collector also didn’t charge me. It turns out I had booked a seat reservation on a different train to the one on my pass ticket.
 
-The remainder of the return journey was uneventful, and I arrived home safely at 11pm. 
+In Turin I stayed in the same accommodation I’d used on the way out, which made things easier. The remainder of the journey was uneventful, and I arrived home safely at 11pm. 
+
+#### Enjoy the journey!
 
 On all the journeys, the lack of language was overcome by peoples’ willingness and ability to help and to speak English. It was tiring but rewarding appreciating the expanse of France and Italy, the varied landscapes and town and city architecture. Watching the countryside unfold was great, I didn’t expect to see rice fields! I loved seeing the Alps particularly.
 
-I estimate the cost without the interrail pass for the return journey to be £650. With the pass it cost me about half of this: £320.
+#### I﻿nterrail savings and total cost
+
+I estimate the cost without the interrail pass for the return journey to be £650. With the pass it cost me about half of this: £330.
+
+![](/images/uploads/train-times-assisi.jpg)
