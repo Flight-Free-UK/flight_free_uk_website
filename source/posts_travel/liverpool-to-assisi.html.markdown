@@ -65,7 +65,7 @@ Learning about St Francis, hearing the challenges he faced and the similarities 
 
 #### I﻿nterrail savings and total cost
 
-I estimate the cost without the interrail pass for the return journey to be £650. With the pass it cost me about half of this: £330.
+I estimate the cost without the interrail pass for the return journey to be £650. With the pass it cost me about half of this: £330. 
 
 ![](/images/uploads/train-times-assisi.jpg)
 
