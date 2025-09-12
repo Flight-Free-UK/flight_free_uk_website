@@ -75,14 +75,12 @@ I estimate the cost without the interrail pass for the return journey to be £65
 
 (using Our World in Data 2022: <https://ourworldindata.org/travel-carbon-footprint>)
 
-National rail carbon cost is 35g/km\
-Short haul flight is 151g/km
-
-Land distance from Liverpool to Assisi = 2000km\
-Air distance from Liverpool to Assisi = 1700km
-
-Rail = 70kg CO2 total\
-Air = 257kg CO2 total
+* National rail carbon cost is 35g/km
+* Short haul flight is 151g/km
+* Land distance from Liverpool to Assisi = 2000km
+* Air distance from Liverpool to Assisi = 1700km
+* Rail = 70kg CO2 total
+* Air = 257kg CO2 total
 
 BUT international (electric, nuclear) rail is much lower than national rail (diesel/electric mix).
 
