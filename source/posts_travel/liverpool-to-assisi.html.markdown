@@ -61,7 +61,7 @@ All our journeys were varied. Many had arrived earlier in Italy or were staying 
 
 Learning about St Francis, hearing the challenges he faced and the similarities with our society today and his radical solutions was empowering. Assisi is a very special place and now has a special place in my heart.
 
-![](/images/uploads/pilgrim-group_alitherland.jpg "The pilgrims group in Assisi")
+![](/images/uploads/pilgrim-group_alitherland.jpg "The group of pilgrims in Assisi")
 
 #### I﻿nterrail savings and total cost
 
