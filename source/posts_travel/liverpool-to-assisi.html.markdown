@@ -82,7 +82,7 @@ I estimate the cost without the interrail pass for the return journey to be £65
 * Rail = 70kg CO2 total
 * Air = 257kg CO2 total
 
-BUT international (electric, nuclear) rail is much lower than national rail (diesel/electric mix).
+BUT international rail (electric, nuclear) is much lower than national rail (diesel/electric mix).
 
 International rail carbon cost is 4g/km, which makes 2000km x 4g = 8g
 
