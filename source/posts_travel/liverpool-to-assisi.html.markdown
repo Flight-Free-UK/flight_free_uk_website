@@ -45,7 +45,7 @@ My accommodation in Turin was about 20-minute walk from Porta Susa station which
 
 The next day I took a fast train to Florence, then changed for the local stopping train. The staff at the station were helpful as I needed to know the final destination to look for on the departure board. In Assisi I waited with other tourists and locals for the bus up to the city, then I tried to get a second bus but the driver told me that I was near enough to walk – but my destination was unknown to Google! After asking a few times, a local pointed me in the right direction. I arrived at last.
 
-#### Double-check you’ve booked the right train – but don’t panic if things go wrong
+#### Double-check your tickets – but don’t panic if things go wrong
 
 The journey back was different due to my errors. I checked my seat reservation for the trip from Rome to Turin and was surprised to see the time as 16.10, because I’d thought it was 17.10. Nevertheless, I boarded the 16.10 and settled my bags. The last call to leave the train was made and a lady near me checked my ticket and saw I was on the wrong train! I gathered everything in a rush but the door was already locked and the train was non-stop to Milan! I couldn’t do anything but wait in trepidation for the ticket collector. 
 
