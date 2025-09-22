@@ -24,6 +24,8 @@ After a delicious Italian pizza that evening, we had the following morning to di
 
 Just before lunchtime, we hopped onto one of Trenitalia’s luxurious Frecciarossa trains towards Bari. At around seven hours, it was a long journey, but I can’t emphasise enough how comfortable these carriages are. In first class, you are served a choice of drinks and tasty snacks at your spacious, padded seat. The wi-fi was fast enough to stream movies, although once we hit the coast at Rimini, I spent most of my time gazing at the deep blue waters of the Adriatic.
 
+![](/images/uploads/train-view-imartin.jpg)
+
 There was enough time in Bari for a beer before taking a short local train to Brindisi, from where we would take an overnight ferry to Corfu. After the stylish calm of Milan, Brindisi was significantly more frenetic, starting with our taxi from the station. With seatbelts seemingly optional, our driver set off at top speed to the port, slowing only as we joined an unmoving queue of traffic. ‘Nessum problema’ – he simply wound his way through a few gaps between lorries, made a couple of strategic reverses and eventually found a clear route to the passenger terminal.
 
 Boarding the ferry, we joined an army of Italian teens off on a group holiday to mainland Greece. After our tranquil first-class experiences to date, we felt like proper Interrailers at last as we joined the throng of youthful backpackers.
