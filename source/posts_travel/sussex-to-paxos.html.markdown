@@ -30,7 +30,7 @@ Just before lunchtime, we hopped onto one of Trenitalia’s luxurious Frecciaros
 
 ![](/images/uploads/milan-bari-train_imartin.jpg "Departing Milan for Bari on the Frecciarossa (Italian high-speed train)")
 
-There was enough time in Bari for a beer before taking a short local train to Brindisi, from where we would take an overnight ferry to Corfu. After the stylish calm of Milan, Brindisi was significantly more frenetic, starting with our taxi from the station. With seatbelts seemingly optional, our driver set off at top speed to the port, slowing only as we joined an unmoving queue of traffic. ‘Nessum problema’ – he simply wound his way through a few gaps between lorries, made a couple of strategic reverses and eventually found a clear route to the passenger terminal.
+There was enough time in Bari for a beer before taking a short local train to Brindisi, from where we would take an overnight ferry to Corfu. After the stylish calm of Milan, Brindisi was significantly more frenetic, starting with our taxi from the station. With seatbelts seemingly optional, our driver set off at top speed to the port, slowing only as we joined an unmoving queue of traffic. ‘Nessun problema’ – he simply wound his way through a few gaps between lorries, made a couple of strategic reverses and eventually found a clear route to the passenger terminal.
 
 Boarding the ferry, we joined an army of Italian teens off on a group holiday to mainland Greece. After our tranquil first-class experiences to date, we felt like proper Interrailers at last as we joined the throng of youthful backpackers.
 
