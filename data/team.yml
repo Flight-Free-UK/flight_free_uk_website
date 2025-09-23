@@ -8,14 +8,6 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
-  - name: David Hanagan
-    role: Social media
-    bio: Having spent many years volunteering with wildlife and nature groups, David
-      is now studying Wildlife Biology and Conservation at Edinburgh Napier
-      University. A keen cyclist, hiker and photographer, his dream flight-free
-      trip would be a cycling tour around the highlands of Scotland, camping and
-      taking photographs of the magnificent scenery.
-    photo: /images/uploads/david_hanagan.jpeg
   - name: Harrie Baxter
     role: Communications Officer
     photo: /images/uploads/harrie.jpg
@@ -24,21 +16,6 @@ members:
       incredible country. They freelance as a filmmaker as well as look after
       our comms here at Flight Free UK. A dream flight free trip is to take a
       train ride through the Swiss Alps.
-  - name: Joe Thompson
-    bio: Joe is based in London and works as a chef in a vegan restaurant. At
-      university he studied Philosophy with a focus on environmental ethics
-      which helped to develop a passion for nature and for climate action. His
-      dream flight free trip would be a cycling trip to Amsterdam and back.
-    role: Social media and events
-    photo: /images/uploads/joe-thompson.jpg
-  - name: Joy Kimberlee
-    role: Fundraising Officer
-    bio: A keen cyclist, Joy co-founded the Sheffield Bike Project to promote
-      cycling as a sustainable alternative to the car. With a degree in
-      International Development and Economics, she has a keen interest in
-      climate justice. A dream flight-free holiday would be to cycle all the way
-      to Germany to visit her aunties.
-    photo: /images/uploads/joy_kimberlee.jpeg
   - name: Matilda Palmer
     role: Social media
     bio: Matilda works for an online vintage and antique jewellery shop in
@@ -47,11 +24,3 @@ members:
       litter picking in her spare time. A dream flight-free trip would be to the
       north coast of Spain via ferry.
     photo: /images/uploads/matilda_palmer.jpeg
-  - name: Nicole Muzvidzwa
-    role: Social media and admin
-    bio: Hailing from Sheffield, Nicole recently graduated from Manchester
-      University with a degree in Environmental Science. Her passion for climate
-      justice and sustainability makes her a great addition to our team. Her
-      dream flight free trip would be to go interrailing around Europe,
-      particularly to Vienna and southern France.
-    photo: /images/uploads/nicole_m.jpg
