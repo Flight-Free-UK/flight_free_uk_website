@@ -42,7 +42,7 @@ I’d never been to Greece before, so I didn’t really know what to expect. I�
 
 ![](/images/uploads/olive-grove-canva.jpg "Greek olive groves ")
 
-Getting all the way to Greece had used up just two days on our interrail passes (the ferries aren’t included, though you can get a small discount with the pass) so after a very enjoyable 10 days on Paxos, we had three days remaining to enjoy the return journey. 
+Getting all the way to Greece had used up just two days on our interrail passes (the ferries aren’t included, though you can get a small discount with the pass) so after a very enjoyable 10 days on Paxos, we had three days remaining on our passes to enjoy the return journey. 
 
 This time we took the daytime ferry back across the Adriatic to Italy, and, after spending the night in Brindisi, we took another superb Frecciarossa service to Bologna, the gastronomic capital of Italy. Dropping our bags at our hotel close to the station, we had almost 24 hours to explore the city – and to try as many cafes, restaurants and gelateria as possible. 
 
