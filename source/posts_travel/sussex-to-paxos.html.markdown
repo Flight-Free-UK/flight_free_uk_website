@@ -8,6 +8,8 @@ summary: The Greek island of Paxos is just two days and a night away from the
 author: FlightFree UK
 read_time_minute: 5
 ---
+![](/images/uploads/paxos-canva.jpg "Bay near Lakka, Paxos")
+
 ### After working extremely hard in their A-level year, I wasn’t going to deny my 18-year-old twins their preferred choice of Greece for our (last?) family summer holiday. 
 
 ##### But having taken the [Flight Free Challenge for a second year](https://skiflightfree.org/why-im-taking-the-flight-free-challenge-in-2025/), would I be able to get to the small island of Paxos in the Ionian Sea without flying?
