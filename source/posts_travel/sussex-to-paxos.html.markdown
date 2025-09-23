@@ -74,6 +74,6 @@ Total = €671 (£586) as opposed to £303 for the flight, plus around £20 for 
 
 There are many ways to calculate the carbon cost of journeys, but the carbon saving was in the region of 673 kg/CO2 pp
 
-Return flight (Gatwick to Corfu) - 794 kg/CO2 ([myclimate.org](http://myclimate.org/))\
-Train travel (London to Brindisi) - 112 kg/CO2 ([Ecopassenger.org](http://ecopassenger.org/))\
-Ferry travel (Brindisi to Corfu) - 9 kg/CO2 (Foot passenger only, UK Government GHG data)
+* Return flight (Gatwick to Corfu) - 794 kg/CO2 ([myclimate.org](http://myclimate.org/))
+* Train travel (London to Brindisi) - 112 kg/CO2 ([Ecopassenger.org](http://ecopassenger.org/))
+* Ferry travel (Brindisi to Corfu) - 9 kg/CO2 (Foot passenger only, UK Government GHG data)
