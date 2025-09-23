@@ -44,9 +44,9 @@ I’d never been to Greece before, so I didn’t really know what to expect. I�
 
 Getting all the way to Greece had used up just two days on our interrail passes (the ferries aren’t included, though you can get a small discount with the pass) so after a very enjoyable 10 days on Paxos, we had three days remaining on our passes to enjoy the return journey. 
 
-This time we took the daytime ferry back across the Adriatic to Italy, and, after spending the night in Brindisi, we took another superb Frecciarossa service to Bologna, the gastronomic capital of Italy. Dropping our bags at our hotel close to the station, we had almost 24 hours to explore the city – and to try as many cafes, restaurants and gelateria as possible. 
+This time we took the daytime ferry back across the Ionian sea to Italy, and, after spending the night in Brindisi, we took another superb Frecciarossa service to Bologna, the gastronomic capital of Italy. Dropping our bags at our hotel close to the station, we had almost 24 hours to explore the city – and to try as many cafes, restaurants and gelateria as possible. 
 
-Our final stop in Italy was Turin, a relatively short four-hour journey away. I can highly recommend a visit to the Piedmont capital. You don’t need to worry about overtourism here – simply stroll along the long Via Garibaldi pedestrian area to the river and enjoy an Aperol Spritz by the river. 
+Our final stop in Italy was Turin, a relatively short four-hour journey away. I can highly recommend a visit to the Piedmont capital. You don’t need to worry about over-tourism here – simply stroll along the long Via Garibaldi pedestrian area to the river and enjoy an Aperol Spritz by the river. 
 
 The fifth and final day of our Interrail journey was the leg home from Turin via Paris to London and Brighton. 
 
@@ -54,8 +54,8 @@ The fifth and final day of our Interrail journey was the leg home from Turin via
 
 **Iain’s Interrail Route**
 
-* Day 1:Brighton - London - Paris - Zurich - Zug - Milan
-* Day 2:Milan - Bari - Brindisi - Corfu (overnight ferry)
+* Day 1: Brighton - London - Paris - Zurich - Zug - Milan
+* Day 2: Milan - Bari - Brindisi - Corfu (overnight ferry)
 * Days 3-12: Paxos
 * Day 13: Corfu - Brindisi
 * Day 14: Brindisi - Bologna
