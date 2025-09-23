@@ -36,7 +36,7 @@ Boarding the ferry, we joined an army of Italian teens off on a group holiday to
 
 Unlike the teens, who planted themselves on chairs and floors around the ferry, we had booked cabins, and fell asleep almost instantaneously after two long days of travel, before our all-too-soon morning alarm call. 
 
-##### After a short walk across the port and breakfast of crispy *spanakopita*, we boarded the connecting ferry to Paxos and less than an hour later arrived on this idyllic Greek island, less than 24 hours after the others in our group who had flown. 
+##### After a short walk across the port and breakfast of crispy *spanakopita*, we boarded the connecting ferry to Paxos and soon arrived on this idyllic Greek island, less than 24 hours after the others in our group who had flown. 
 
 I’d never been to Greece before, so I didn’t really know what to expect. I’m not into ‘beach holidays’ and I was slightly concerned about how hot it would be. However, I liked Paxos. Get away from the main town of Gaios and it’s a huge network of shady olive groves and quiet beaches. And as long as I started early for any hikes or runs, the heat was rarely an issue.
 
