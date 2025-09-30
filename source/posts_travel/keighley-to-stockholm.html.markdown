@@ -35,7 +35,9 @@ After 10 days of practice courses and orienteering races, a tourist trip to Gron
 
 One of the best aspects of my journey were the people I met on the way. Besides seeing family, I met other travellers in Brussels, and on the night train, from across the world. The three friends I made on the Hamburg-Stockholm sleeper I saw later on for ‘Fika’ in Stockholm.  It was incredible that this chance encounter with like-minded strangers on a train allowed me to form links with others across Europe, people I would otherwise have never met. It gave me a taste of the different lifestyles, languages and cultures across Europe, yet also how friendships can form between people, just through a common language and choice of transport.
 
-On my way south through Sweden I watched the sun setting over deserted lakes and endless forests, with tiny red Swedish cottages, all framed by the train window. It’s another experience that those who fly miss - the landscapes sliding past outside the window, and it was a much needed rest after such a busy fortnight.
+On my way south through Sweden I watched the sun setting over deserted lakes and endless forests, with tiny red Swedish cottages, all framed by the train window. It’s another experience that those who fly miss – the landscapes sliding past outside the window, and it was a much needed rest after such a busy fortnight.
+
+![](/images/uploads/hamburg-lake-canva.jpg "Binnenalster, Hamburg")
 
 My journey also gave me the opportunity to see the city of Brussels, Hamburg and Stockholm. As someone who normally prefers more rural holidays, it was perfect to spend a few hours in these places, knowing a more relaxing destination was waiting. Slow travel gives you a sense of distance, making me appreciate where I was to a greater extent, seeing the culture changing as I travelled east, another thing air travel removes from the old-fashioned definition of travelling.
 
