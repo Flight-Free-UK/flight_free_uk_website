@@ -17,7 +17,7 @@ read_time_minute: 5
 
 I now do not believe we have enough budget left to fly and produce meaningless carbon if we have the time and money to go by train. I think it is important to say that I have not ruled air travel out, but for trips where there is a choice, I choose land. 
 
-This summer I was selected to attend a Great Britain orienteering training camp in Stockholm. Sweden is home to the best orienteering terrain in the world, and it was an opportunity I did not want to miss. All the other 20 athletes took the plane, but, after consulting the Man in Seat 61 to see what the route would be, I decided that I would not join them in the air.
+This summer I was selected to attend a Great Britain orienteering training camp in Stockholm. Sweden is home to the best orienteering terrain in the world, and it was an opportunity I did not want to miss. All the other 20 athletes took the plane, but, after consulting the [Man in Seat 61](www.seat61.com/Sweden) to see what the route would be, I decided that I would not join them in the air.
 
 ![](/images/uploads/seat61-scandinavia.jpg "There are many ways to get to Stockholm without flying! Map from www.seat61.com/Sweden")
 
