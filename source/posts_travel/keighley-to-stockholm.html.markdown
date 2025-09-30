@@ -9,7 +9,13 @@ summary: An invitation to an orienteering training camp in Stockholm could mean
 author: FlightFree UK
 read_time_minute: 5
 ---
-For me, there is a fine line between my concerns about the impact of flying, and my desire to see and experience the world as air travel has allowed for the last 100 years. However, this line becomes ever narrower as world leaders fail to make the decisions needed. I now do not believe we have enough budget left to fly and produce meaningless carbon if we have the time and money to go by train. I think it is important to say that I have not ruled air travel out, but for trips where there is a choice, I choose land. 
+![](/images/uploads/stockholm-large-canva.jpg "Stockholm")
+
+### For me, there is a fine line between my concerns about the impact of flying, and my desire to see and experience the world as air travel has allowed for the last 100 years. 
+
+##### However, this line becomes ever narrower as world leaders fail to make the decisions needed. 
+
+I now do not believe we have enough budget left to fly and produce meaningless carbon if we have the time and money to go by train. I think it is important to say that I have not ruled air travel out, but for trips where there is a choice, I choose land. 
 
 This summer I was selected to attend a Great Britain orienteering training camp in Stockholm. Sweden is home to the best orienteering terrain in the world, and it was an opportunity I did not want to miss. All the other 20 athletes took the plane, but, after consulting the Man in Seat 61 to see what the route would be, I decided that I would not join them in the air.
 
