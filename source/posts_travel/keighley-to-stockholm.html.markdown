@@ -19,6 +19,8 @@ I now do not believe we have enough budget left to fly and produce meaningless c
 
 This summer I was selected to attend a Great Britain orienteering training camp in Stockholm. Sweden is home to the best orienteering terrain in the world, and it was an opportunity I did not want to miss. All the other 20 athletes took the plane, but, after consulting the Man in Seat 61 to see what the route would be, I decided that I would not join them in the air.
 
+![](/images/uploads/seat61-scandinavia.jpg "There are many ways to get to Stockholm without flying! Map from www.seat61.com/Sweden")
+
 Travelling overland meant that the ten-day long training camp turned into a two week holiday, with a rail taster at the start and end. It was daunting, at 17, to set off on my own for three nights across Europe, but, helped by my knowledge of languages, I headed to the station in Keighley (near Leeds) to board my train for London and beyond. With an A level in both French and Spanish, I can confidently have a conversation in them, which I found comforting knowing language barriers wouldn't be too much of an issue.
 
 I took an evening train to London and stayed with family there having a relaxed meal, something I would never have done had I taken the plane. After a trip to the park in the morning, I jumped on the Eurostar to Brussels, which I explored that evening. I visited Manneken Pis, Grand Place, countless churches and the royal palace, as well as tasting Belgian fries and waffles. I stayed overnight in a hostel, and the next morning took the train to Cologne, then Hamburg. During my afternoon in Hamburg I explored the lake and shops, soaking up the summery European atmosphere.
