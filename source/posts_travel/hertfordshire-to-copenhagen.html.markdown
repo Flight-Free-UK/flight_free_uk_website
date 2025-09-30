@@ -1,6 +1,6 @@
 ---
 published: true
-title: Hertfordshire to Copenhagen
+title: London to Copenhagen
 date: 2023-11-13T17:59:15.503Z
 cover_image: /images/uploads/nyhavn-copenhagen-canva.jpg
 summary: Flight Free UK director Anna Hughes discovers how rail travel can
