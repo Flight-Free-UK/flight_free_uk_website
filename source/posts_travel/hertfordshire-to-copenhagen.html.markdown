@@ -4,7 +4,7 @@ title: London to Copenhagen
 date: 2023-11-13T17:59:15.503Z
 cover_image: /images/uploads/nyhavn-copenhagen-canva.jpg
 summary: Flight Free UK director Anna Hughes discovers how rail travel can
-  enrich a journey on a weekend trip to the Danish capital
+  enrich a weekend trip to the Danish capital
 author: FlightFree UK
 read_time_minute: 6
 ---
