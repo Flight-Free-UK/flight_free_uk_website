@@ -8,6 +8,8 @@ summary: Talking about flight-free travel can help others realise the
 author: FlightFree UK
 read_time_minute: 6
 ---
+![](/images/uploads/san-sebastian-canva.jpg "Donostia-San Sebastian")
+
 ### Exploring more of Spain had been on my mind for a while. So after a difficult year and in need of a holiday, I invited some close friends to go to northern Spain with me. 
 
 ##### It was a holiday of two parts: Donostia-San Sebastián and Bilbao with one friend, then the Picos de Europa national park with another friend and her husband.
@@ -15,6 +17,8 @@ read_time_minute: 6
 As I haven't flown for six years, and have some experience of Interrailling, train travel is simply the default for me now. This wasn’t the case for my friend, though – she would usually fly for a trip like this. But I persuaded her to give the train a try. She didn't need too much persuading, but it wasn’t something she would have done without me so I was mindful of making it as easy as possible. I worked out the train times and logistics, and booked the France leg of our journey for both of us, then gave her some tips for how to keep the cost down on the other legs (such as split ticketing in the UK).
 
 We met in London to catch an evening Eurostar to Paris, travelling from Cardiff (me) and Skipton (my friend). From Gare du Nord we took the metro across the city to Montparnasse, where our train to Hendaye in the south west of France would depart from the next morning. We stayed at a hotel nearby so it was easier to get our train, though I find Gare Montparnasse confusing as it’s huge. I’d recommend giving yourself plenty of time as it’s also a bit of a walk from the metro. Apart from this, all the travel was easy and enjoyable! 
+
+![](/images/uploads/paris-hendaye-tgv_blatter.jpg "Double decker TGV train from Paris to Hendaye")
 
 One thing I love about train travel in Europe is the double decker trains. I always reserve a window seat on the upper deck for the best views. My friend thought the train was cool (although she was tired so napped most of the way!) and we were excited to be going to Spain. Before we knew it, we were in Hendaye. There’s a regular metro train that takes you across the border into Spain, and just over half an hour later, we stepped out in warm, sunny Donostia-San Sebastián.
 
