@@ -26,13 +26,19 @@ Most of our day in Donostia-San Sebastián was spent in the old town. We stuck
 
 I knew some Spanish basics but had never encountered the [Basque language (Euskara)](https://www.sansebastianturismoa.eus/images/ssturismo/pdf/hiztegi-txikia-euskara.pdf) before. I made sure I knew how to pronounce pintxos, txakoli (local white wine), and ‘thank you very much’ (‘eskerrik asko’) – the most important things on our visit! ‘Tx’ is pronounced ‘ch’.
 
+![](/images/uploads/pintxos-bilbao_blatter.jpg "Briony at a pinxtos bar in Bilbao")
+
 The following afternoon, we got the bus to Bilbao – counter-intuitively it’s much quicker than the train, which takes 2.5 hours to zig-zag its way through 38 stations along the coast, as opposed to 1hr 15 mins on the bus. In Bilbao we loved the Guggenheim, and took a group tour around the old town and went up the funicular. 
 
 Then my other friend arrived, having driven there with her husband in their van. They were on a much longer trip, crossing into France on the Eurotunnel, stopping by Arcachon in France for the oysters and giant sand dune before heading down into Spain via Donostia-San Sebastián and Bilbao. We had pintxos together that evening, and the next day, the four of us explored the local coastline together in the van. 
 
+![](/images/uploads/bilbao_blatter.jpg "Bilbao")
+
 The next morning, it was time for my first friend to set off to the airport. Some other commitments meant she preferred to fly home rather than take the train, although it was great that she had joined me on the train on the way there. I asked her to share why she did it: *“I agreed to go by train because Briony wanted to, but I enjoyed travelling in a different way to flying, if you haven’t tried it I would recommend giving it a go!”*
 
 Then it was off to the Picos de Europa, a mountain range to the west of Bilbao, with my other friend and her husband. I’m a fell runner so was excited to see what the mountains were like! We visited La Hermida where I tried via ferrata for the first time before relaxing in an outdoor spa. We also took the Fuente Dé cable car and spent a day running and walking amongst some beautiful (and snowy!) mountains at about 2000m high.
+
+![](/images/uploads/picos-de-europa-blatter.jpeg "Running in the Picos de Europa")
 
 Then it was time to head home. I took the bus along the coast to Irun (the sister town to Hendaye, on the Spanish side) via a change in Bilbao and a final opportunity to eat some Basque cheesecake. There was someone else from the UK on the bus who I got chatting to, and when I mentioned I was getting the train back to Cardiff they seemed in complete disbelief! The journey back from Hendaye was quick and easy: I left just after 07:00 and was back in Cardiff by 17:30.
 
