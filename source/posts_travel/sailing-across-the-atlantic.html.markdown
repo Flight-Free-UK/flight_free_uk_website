@@ -38,4 +38,4 @@ After 17 days at sea, Anemos slipped into the port of Fécamp. I cycled to Le H
 
 ![](/images/uploads/sunset-atlantic-crossing-tnicholson.jpg)
 
-We’re now making a short film about our travels by bus, train, boat and Brompton bikes through the Americas. Follow along at [BritsOnBromptons.uk](https://britsonbromptons.uk/).
+*T﻿im Nicholson and family are now making a short film about their travels by bus, train, boat and Brompton bikes through the Americas. Follow along at [BritsOnBromptons.uk](https://britsonbromptons.uk/).*
