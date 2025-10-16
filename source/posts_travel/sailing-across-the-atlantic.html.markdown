@@ -20,7 +20,7 @@ B﻿ut after nine unforgettable months travelling through the Americas, from the
 
 If I had timed it differently I may have been able to join a crew on a yacht but my efforts to find such an opportunity didn't work out. Before Covid, cargo ships often carried a few paying passengers, but crossing the Atlantic in this manner is currently not an option. 
 
-Luckily though, one company ([TOWT.eu](https://towt.eu/)) is reinventing sailing cargo ships and has recently begun offering passenger travel too.  I was in luck: their elegant sailing cargo ship Anemos was set to leave Newark in early August and reach Fécamp, France about two weeks later. It felt like the perfect finale to our journey.  My wife and sons had to return for school, so had to accept that a commercial flight was necessary, but I was delighted to be able to sail.
+Luckily though, one company ([TOWT.eu](https://towt.eu/)) is reinventing sailing cargo ships and has recently begun offering passenger travel too. I was in luck: their elegant sailing cargo ship Anemos was set to leave Newark in early August and reach Fécamp, France about two weeks later. It felt like the perfect finale to our journey. My wife and sons had to return for school, so had to accept that a commercial flight was necessary, but I was delighted to be able to sail.
 
 ![](/images/uploads/cargo-boat-tnicholson.jpg)
 
