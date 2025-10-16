@@ -18,17 +18,17 @@ Sadly, despite months of research and the help of expert contacts in the shippin
 
 B﻿ut after nine unforgettable months travelling through the Americas, from the most southerly city in the world – Ushuaia, Argentina – to Canada by bus, boat, train and Brompton bikes, meeting many inspiring people and making long-overdue family visits, I was really keen to see if I could sail home.
 
-If I had timed it differently I may have been able to join a crew on a yacht but my efforts to find such an opportunity didn't work out. Before Covid, cargo ships often carried a few paying passengers, but crossing the Atlantic in this manner is currently not an option. 
+If I had timed it differently I might have been able to join a crew on a yacht but my efforts to find such an opportunity didn't work out. Before Covid, cargo ships often carried a few paying passengers, but crossing the Atlantic in this manner is currently not an option. 
 
 Luckily though, one company ([TOWT.eu](https://towt.eu/)) is reinventing sailing cargo ships and has recently begun offering passenger travel too. I was in luck: their elegant sailing cargo ship Anemos was set to leave Newark in early August and reach Fécamp, France about two weeks later. It felt like the perfect finale to our journey. My wife and sons had to return for school, so had to accept that a commercial flight was necessary, but I was delighted to be able to sail.
 
-![](/images/uploads/cargo-boat-tnicholson.jpg)
+![](/images/uploads/cargo-boat-tnicholson.jpg "The Anemos (and Brompton bicycle)")
 
 The crossing cost €3,000 — a lot more than a flight, but not far off a good hotel stay. The 83m ship, with its steel hull and two towering masts used the sails as much as possible and the engines when required. Passenger life was simple but surprisingly comfortable: a private cabin with en-suite, shared dining room, lounge and open deck for sea-gazing.
 
 There were just two passengers — me and Benoit — alongside a friendly crew training new sailors. Days quickly fell into an easy rhythm: breakfast at dawn, a stroll on deck to breathe in the Atlantic air, editing our travel videos, then yoga and pull-ups on the stern as the ship rose and fell with the swell. Evenings often brought fiery sunsets, the occasional flash of dolphins or whales, and a sense of space only the open ocean can offer.
 
-![](/images/uploads/mess-room-tnicholson.jpg)
+![](/images/uploads/mess-room-tnicholson.jpg "The 'mess'")
 
 I must make clear that it is not a luxury cruise with staff focused on customers, it is a working cargo ship with passengers mostly left to our own devices.  But it was very comfortable and, to me, all the more fascinating because I was an observer of life on a working ship.  
 
