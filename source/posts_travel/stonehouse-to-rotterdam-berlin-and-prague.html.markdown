@@ -1,6 +1,6 @@
 ---
 published: true
-title: Stonehouse to Rotterdam, Berlin and Prague
+title: Stonehouse to Berlin, Rotterdam & Prague
 date: 2025-10-16T18:44:31.939Z
 cover_image: /images/uploads/rotterdam-centraal-egeorge.jpg
 summary: "Ele takes us on her family Interrailing adventure: Five Countries, No
