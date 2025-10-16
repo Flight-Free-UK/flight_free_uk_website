@@ -10,15 +10,13 @@ read_time_minute: 4
 ---
 ![](/images/uploads/sea-view-atlantic-crossing-tnicholson.jpg)
 
-### After learning about the climate crisis in 2006, my wife and I decided to give up flying and have since enjoyed  family holidays in the UK and Europe by train, ferry, bus and bike.
+### After learning about the climate crisis in 2006, my wife and I decided to give up flying and have since enjoyed family holidays in the UK and Europe by train, ferry, bus and bike.
 
 ##### Eighteen years later with the intention of visiting friends and family around the Americas as well as visiting awesome bucket list places like Patagonia and Costa Rica, we planned an almost ethical family adventure with our sons (14 & 17).
 
 Sadly, despite months of research and the help of expert contacts in the shipping world, we couldn't find a non-flying way of crossing the Atlantic and we reluctantly took standby flights to the Falklands. 
 
-From the Falklands we hitched a lift on a yacht to the most southerly city in the world - Ushuaia, Argentina, then worked our way North to Canada by bus, boat and Brompton bikes, with the welcome addition of some long distance train travel in the USA and Canada.
-
-After nine unforgettable months travelling through the Americas meeting many inspiring people and making long-overdue family visits, I was really keen to see if I could sail home.
+B﻿ut after nine unforgettable months travelling through the Americas, from the most southerly city in the world – Ushuaia, Argentina – to Canada by bus, boat, train and Brompton bikes, meeting many inspiring people and making long-overdue family visits, I was really keen to see if I could sail home.
 
 If I had timed it differently I may have been able to join a crew on a yacht but my efforts to find such an opportunity didn't work out. Before Covid, cargo ships often carried a few paying passengers, but crossing the Atlantic in this manner is currently not an option. 
 
