@@ -8,7 +8,7 @@ summary: "Ele takes us on her family Interrailing adventure: Five Countries, No
 author: FlightFree UK
 read_time_minute: 5
 ---
-![](/images/uploads/elbe-mountains-body-canva.jpg "The Elbe sandstone mountains in Saxon Switzerland")
+![](/images/uploads/elbe-mountains-body-canva.jpg "The Elbe sandstone mountains in Saxon Switzerland, SE Germany")
 
 ### When the train pulled out of our local station in Gloucestershire, our European adventure began.
 
