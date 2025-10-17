@@ -55,3 +55,11 @@ It’s a chance to travel more sustainably, make lasting memories, and experienc
 If you’re considering travelling without flying, I’d encourage you to look into Interrail. It’s surprisingly straightforward once you get your head around the logistics, and the rewards are well worth it.
 
 ![](/images/uploads/rotterdam-centraal-egeorge.jpg "Rotterdam Centraal station")
+
+**E﻿le's interrail timetable:**
+
+* S﻿tonehouse-London-Brussels-Berlin (sleeper train)
+* B﻿erlin-Kurort Rathen (stay overnight)
+* K﻿urort Rathen-Prague (stay overnight)
+* P﻿rague-Rotterdam (sleeper train)
+* R﻿otterdam-Brussels-London-Stonehouse
