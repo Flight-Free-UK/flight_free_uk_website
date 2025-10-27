@@ -26,7 +26,7 @@ Most of our day in Donostia-San Sebastián was spent in the old town. We stuck
 
 I knew some Spanish basics but had never encountered the [Basque language (Euskara)](https://www.sansebastianturismoa.eus/images/ssturismo/pdf/hiztegi-txikia-euskara.pdf) before. I made sure I knew how to pronounce pintxos, txakoli (local white wine), and ‘thank you very much’ (‘eskerrik asko’) – the most important things on our visit! ‘Tx’ is pronounced ‘ch’.
 
-![](/images/uploads/pintxos-bilbao_blatter.jpg "Briony at a pinxtos bar in Bilbao")
+![](/images/uploads/pintxos-bilbao_blatter.jpg "Briony at a pintxos bar in Bilbao")
 
 The following afternoon, we got the bus to Bilbao – counter-intuitively it’s much quicker than the train, which takes 2.5 hours to zig-zag its way through around 40 stations along the coast, as opposed to 1hr 20 mins on the bus. In Bilbao we loved the Guggenheim, and took a group tour around the old town and went up the funicular. 
 
