@@ -12,6 +12,8 @@ read_time_minute: 3
 ---
 ## Get as much natural light as you can
 
+![](/images/uploads/winter-walk_canva.jpg)
+
 Get outside as soon as you can in the morning. Walk to work, or if you work from home, have a walk around the neighbourhood before you start. Manchester City striker Erling Haaland, who is from Norway, says ‘You should have an early start with fresh daylight and fresh air. You should ideally go out for a small walk, I think it’s a really beneficial thing to do.’
 
 Work out in the park instead of going to the gym.
@@ -22,9 +24,11 @@ Take a walk at lunchtime. 
 
 Find the highest point in the area where you live. The higher you are, the more you can see the sky and the more light you will get.
 
-Take an excursion to the seaside. Light reflects off the sea, even in winter.
+Take an excursion to the seaside. Light reflecting off the sea maximises your exposure.
 
 ## Maximise indoor light
+
+![](/images/uploads/candlelight_canva.jpg)
 
 Put up your fairy lights when the clocks go back and leave them up until the end of January. Call them ‘winter lights’. 
 
@@ -35,6 +39,8 @@ Eat by candlelight, and turn down artificial lights in the evenings. Low light a
 Put a chair by a south-facing window and have a little sunbathe indoors.
 
 ## Keep warm
+
+![](/images/uploads/knitting_canva.jpg)
 
 Knit yourself a hat.
 
@@ -47,6 +53,8 @@ Get fingerless gloves or wrist warmers made from recycled cashmere from Turtle D
 Have a hot lunch. A batch of vegetable soup made on Sunday can last all week.
 
 ## Enjoy some seasonal activities
+
+![](/images/uploads/cold-swim_canva.jpg)
 
 Go skiing in Scotland.
 
