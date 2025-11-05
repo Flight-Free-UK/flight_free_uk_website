@@ -72,6 +72,8 @@ Be brave enough to try swimming in the sea, a lake or an unheated lido. It boost
 
 ## Things to boost your mood and wellbeing 
 
+![](/images/uploads/audience_canva.jpg)
+
 It’s good to have something to look forward to. Book a show or a concert instead of a holiday and support our creative community.
 
 [Give blood](https://www.blood.co.uk/). You will have a warm glow of altruism, and you get half an hour of people being very kind to you in a nice warm room, as well as a biscuit at the end. 
