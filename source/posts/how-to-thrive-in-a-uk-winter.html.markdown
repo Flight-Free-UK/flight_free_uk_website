@@ -10,9 +10,7 @@ summary: Short days and cold nights might send you reaching for the travel
 author: FlightFree UK
 read_time_minute: 3
 ---
-### Get as much natural light as you can
-
-
+## Get as much natural light as you can
 
 Get outside as soon as you can in the morning. Walk to work, or if you work from home, have a walk around the neighbourhood before you start. Manchester City striker Erling Haaland, who is from Norway, says ‘You should have an early start with fresh daylight and fresh air. You should ideally go out for a small walk, I think it’s a really beneficial thing to do.’
 
@@ -26,11 +24,7 @@ Find the highest point in the area where you live. The higher you are, the more 
 
 Take an excursion to the seaside. Light reflects off the sea, even in winter.
 
-
-
-### Maximise indoor light
-
-
+## Maximise indoor light
 
 Put up your fairy lights when the clocks go back and leave them up until the end of January. Call them ‘winter lights’. 
 
@@ -40,11 +34,7 @@ Eat by candlelight, and turn down artificial lights in the evenings. Low light a
 
 Put a chair by a south-facing window and have a little sunbathe indoors.
 
-
-
-### Keep warm
-
-
+## Keep warm
 
 Knit yourself a hat.
 
@@ -56,11 +46,7 @@ Get fingerless gloves or wrist warmers made from recycled cashmere from Turtle D
 
 Have a hot lunch. A batch of vegetable soup made on Sunday can last all week.
 
-
-
-### Enjoy some seasonal activities
-
-
+## Enjoy some seasonal activities
 
 Go skiing in Scotland.
 
@@ -76,11 +62,7 @@ Visit one of the spa towns in the UK. At Thermae Bath Spa you can soak in natura
 
 Be brave enough to try swimming in the sea, a lake or an unheated lido. It boosts your immune system, helps your circulation, relieves stress, and improves your mood. Just make sure you are doing it safely, as outlined with these tips from the RNLI: <https://rnli.org/safety/choose-your-activity/open-water-swimming#> 
 
-
-
-### Boost your mood and wellbeing
-
-
+## Boost your mood and wellbeing
 
 It’s good to have something to look forward to. Book a show or a concert instead of a holiday and support our creative community.
 
