@@ -48,7 +48,7 @@ Wear a padded jacket indoors, like they do in parts of China, and save money on 
 
 If you are sitting at a desk for much of the day, a hot-water bottle under the feet works wonders.
 
-Get fingerless gloves or wrist warmers made from recycled cashmere from Turtle Doves <https://www.turtle-doves.co.uk/>
+Get fingerless gloves or wrist warmers made from recycled cashmere from [Turtle Doves](https://www.turtle-doves.co.uk).
 
 Have a hot lunch. A batch of vegetable soup made on Sunday can last all week.
 
@@ -60,22 +60,22 @@ Go skiing in Scotland.
 
 Visit an art gallery. They have beautiful lighting, and the gift shops are ideal for Christmas presents.
 
-Christmas markets in the UK range from tacky to enchanting. Some of the best are listed in this Conde Nast Traveller article <https://www.cntraveller.com/gallery/christmas-markets-in-the-uk>.
+Christmas markets in the UK range from tacky to enchanting. Some of the best are listed in [this Conde Nast Traveller article](https://www.cntraveller.com/gallery/christmas-markets-in-the-uk).
 
 Download a night sky app for your phone and take advantage of being able to see the stars earlier in the day.
 
-Visit a sauna. There are nordic-style saunas popping up around the UK, like this one in Aberystwyth <https://www.aberpoeth.co.uk/>
+Visit a sauna. There are nordic-style saunas popping up around the UK, like [this one](https://www.aberpoeth.co.uk/) in Aberystwyth.
 
-Visit one of the spa towns in the UK. At Thermae Bath Spa you can soak in naturally warm spa water in a rooftop pool with a view of Bath Abbey. A beautiful place to watch the sunset. <https://www.thermaebathspa.com/>
+Visit one of the spa towns in the UK. At [Thermae Bath Spa](https://www.thermaebathspa.com/) you can soak in naturally warm spa water in a rooftop pool with a view of Bath Abbey. A beautiful place to watch the sunset. [](https://www.thermaebathspa.com/)
 
-Be brave enough to try swimming in the sea, a lake or an unheated lido. It boosts your immune system, helps your circulation, relieves stress, and improves your mood. Just make sure you are doing it safely, as outlined with these tips from the RNLI: <https://rnli.org/safety/choose-your-activity/open-water-swimming#> 
+Be brave enough to try swimming in the sea, a lake or an unheated lido. It boosts your immune system, helps your circulation, relieves stress, and improves your mood. Just make sure you are doing it safely, as outlined with [these tips from the RNLI](https://rnli.org/safety/choose-your-activity/open-water-swimming#).
 
-## Boost your mood and wellbeing
+## Things to boost your mood and wellbeing 
 
 It’s good to have something to look forward to. Book a show or a concert instead of a holiday and support our creative community.
 
-Give blood. You will have a warm glow of altruism, and you get half an hour of people being very kind to you in a nice warm room, as well as a biscuit at the end. https://www.blood.co.uk/
+[Give blood](https://www.blood.co.uk/). You will have a warm glow of altruism, and you get half an hour of people being very kind to you in a nice warm room, as well as a biscuit at the end. 
 
 At South Pole Station in Antarctica the night lasts six months and the over-winter team of about forty people are isolated with only each other for company. They make sure there is a dinner or a celebration to look forward to at least once a week. Follow their example and take any excuse to dress up and party. 
 
-The NHS recommends that everyone take 10 micrograms of vitamin D a day during autumn and winter, when the sun is low and we tend to be more wrapped up when we do get outside. <https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/>
+The NHS recommends that everyone take [10 micrograms of vitamin D](https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/) a day during autumn and winter, when the sun is low and we tend to be more wrapped up when we do get outside. [](https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/)
