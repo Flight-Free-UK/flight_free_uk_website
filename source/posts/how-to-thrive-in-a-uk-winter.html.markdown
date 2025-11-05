@@ -6,11 +6,11 @@ date: 2025-11-05T10:44:16.828Z
 cover_image: /images/uploads/winter_canva.jpg
 summary: Short days and cold nights might send you reaching for the travel
   brochure for a quick flight somewhere hot. But there’s a lot to love in a UK
-  winter. Here’s how to make the most of our northern climate.
+  winter. Here are five ways to make the most of our northern climate.
 author: FlightFree UK
 read_time_minute: 3
 ---
-## Get as much natural light as you can
+## 1. Get as much natural light as you can
 
 ![](/images/uploads/winter-walk_canva.jpg)
 
@@ -26,7 +26,7 @@ Find the highest point in the area where you live. The higher you are, the more 
 
 Take an excursion to the seaside. Light reflecting off the sea maximises your exposure.
 
-## Maximise indoor light
+## 2. Maximise indoor light 
 
 ![](/images/uploads/candlelight_canva.jpg)
 
@@ -38,7 +38,7 @@ Eat by candlelight, and turn down artificial lights in the evenings. Low light a
 
 Put a chair by a south-facing window and have a little sunbathe indoors.
 
-## Keep warm
+## 3. Keep warm 
 
 ![](/images/uploads/knitting_canva.jpg)
 
@@ -52,7 +52,7 @@ Get fingerless gloves or wrist warmers made from recycled cashmere from [Turtle 
 
 Have a hot lunch. A batch of vegetable soup made on Sunday can last all week.
 
-## Enjoy some seasonal activities
+## 4. Enjoy some seasonal activities 
 
 ![](/images/uploads/cold-swim_canva.jpg)
 
@@ -70,7 +70,7 @@ Visit one of the spa towns in the UK. At [Thermae Bath Spa](https://www.thermaeb
 
 Be brave enough to try swimming in the sea, a lake or an unheated lido. It boosts your immune system, helps your circulation, relieves stress, and improves your mood. Just make sure you are doing it safely, as outlined with [these tips from the RNLI](https://rnli.org/safety/choose-your-activity/open-water-swimming#).
 
-## Things to boost your mood and wellbeing 
+## 5. Make plans, and boost your wellbeing
 
 ![](/images/uploads/audience_canva.jpg)
 
