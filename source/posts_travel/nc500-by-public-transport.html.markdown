@@ -66,11 +66,23 @@ I﻿n bad weather the ferry won't run, in which case spend a day exploring the l
 
 ##### Day 5 (Monday) Durness-Scourie 
 
-##### (then walk/hitch 10 miles to Kylesku)
+T﻿he [Far North bus number 805](https://www.thedurnessbus.com/durnessnew/wp-content/uploads/2024/05/PDF-805-Timetable-May-2024.pdf) travels along the NC500 route as far as Scourie, departing Smoo Cave at 0800 (then continues across the central Highlands towards Inverness). 
 
-**805 Far North bus** to Scourie **mon**-Sat 1 hr 20 mins 0800 Smoo Cave 0920 Scourie. 
+From Scourie you meet the first stretch where there is no public transport option, as far as Drumbeg.
 
-Scourie-Lochinver, no transport. 12 miles to junction with Drumbeg Road. 9 further miles to Drumbeg, or 23 miles to Lochinver
+If you want to stick to buses, a combination of services can take you to Ullapool via inland routes.
+
+I﻿f you'd like to stick to the NC500 route, the following options are available:
+
+* w﻿alk 
+* hitchhike
+* t﻿axi
+
+I﻿f you are able and keen to walk, the 21 miles to Drumbeg (where you can catch a bus) can be split into two sections. You could journey as far as Kylesku (12 miles) where there are hotels, on the same day as your bus journey from Durness. The following day you could walk the remaining 9 miles to Drumbeg, and stay there overnight.
+
+Be careful as the road is narrow in sections, with occasional traffic. It is also hilly, so requires a good level of fitness, especially if you are carrying bags.
+
+I﻿f you choose to hitchhike, 
 
 Options: hitch a ride. Walk! (Two or three day walk). Taxi: <https://sutherland-business.co.uk/category.php?cat=150> 
 
