@@ -6,7 +6,7 @@ cover_image: /images/uploads/nc500-canva.jpg
 summary: You don't need to fly or even drive to explore the stunning north coast
   of Scotland. We explain the public transport options.
 author: FlightFree UK
-read_time_minute: 4
+read_time_minute: 5
 ---
 #### Exploring the North Coast 500 by Public Transport
 
@@ -150,4 +150,4 @@ The North Coast 500 by public transport is a challenge, but it is possible. It i
 
 If you want the latest transport advice, drop an enquiry to [publictransport500@gmail.com](mailto:publictransport500@gmail.com); we’ll try to help.
 
-*T﻿hanks to Michael Willmot for the expertise and experience behind this article. Read about Michael's own journey around the North Coast 500 by public transport here.*
+*T﻿hanks to Michael Willmot for the expertise and experience behind this article. Read about Michael's own journey around the North Coast 500 by public transport [here](https://www.johnmuirtrust.org/whats-new/news/70-field-notes-travelling-the-north-coast-500-by-public-transport).*
