@@ -94,7 +94,7 @@ Be careful as the road is narrow in sections, with occasional traffic. It is als
 
 I﻿f you choose to hitchhike, there's some [advice here](https://www.undiscoveredscotland.co.uk/usfeatures/hitching/index.html). It can be a fantastic option, but do be aware of the risks.
 
-I﻿f you wish to hire a taxi, you might find some options here: <https://sutherland-business.co.uk/category.php?cat=150> 
+I﻿f you wish to hire a taxi, you might find some options [here](https://sutherland-business.co.uk/category.php?cat=150).
 
 ##### Day 6 (Tuesday) Kylesku-Drumbeg
 
@@ -112,7 +112,7 @@ T﻿he [Rapsons bus](https://www.rapsonshighland.com/route-809) travels from Dru
 
 H﻿ere we have another bus that only runs once a week: the [707 Westerbus](https://www.mackenziemaclennan.co.uk/westerbus/) from Ullapool to Gairloch, which departs Ullapool at 1312 and arrives in Gairloch at 1500 on Thursdays only. 
 
-![](/images/uploads/suliven-cansp-ahughes.jpg "Suliven and Cansp")
+![](/images/uploads/ullapool_canva.jpg "Suliven and Cansp")
 
 S﻿pend the morning enjoying the harbour town of Ullapool, and finish the day with a delightful walk around the bay at Gairloch.
 
