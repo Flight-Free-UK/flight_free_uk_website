@@ -8,6 +8,8 @@ summary: You don't need to fly or even drive to explore the stunning north coast
 author: FlightFree UK
 read_time_minute: 5
 ---
+![](/images/uploads/sheep-nc500-ahughes.jpeg "More sheep than cars on the North Coast 500")
+
 #### Exploring the North Coast 500 by Public Transport
 
 The north coast of Scotland is one of the most beautiful parts of the UK, with its wild beaches, dramatic cliffs, and peaceful villages. Many people come here to enjoy the scenery, spot wildlife, and experience Highland hospitality. The area is rich in history, culture, and natural beauty. Whether you enjoy hiking, birdwatching, or simply relaxing in peaceful surroundings, you will find it here.
