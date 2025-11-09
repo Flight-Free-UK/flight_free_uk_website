@@ -64,7 +64,7 @@ I﻿t's not strictly part of the NC500, but it's a detour well worth taking.
 
 I﻿n bad weather the ferry won't run, in which case spend a day exploring the landscape around Durness, including Smoo Cave. 
 
-##### Day 5 (Monday) Durness-Scourie 
+##### Day 5 (Monday) Durness-Scourie-Kylesku
 
 T﻿he [Far North bus number 805](https://www.thedurnessbus.com/durnessnew/wp-content/uploads/2024/05/PDF-805-Timetable-May-2024.pdf) travels along the NC500 route as far as Scourie, departing Smoo Cave at 0800 (then continues across the central Highlands towards Inverness). 
 
@@ -86,11 +86,17 @@ I﻿f you choose to hitchhike, there's some [advice here](https://www.undiscover
 
 I﻿f you wish to hire a taxi, you might find some options here: <https://sutherland-business.co.uk/category.php?cat=150> 
 
-Day 6 (Tuesday) Kylesku-Drumbeg (walk/hitch 11 miles)
+##### Day 6 (Tuesday) Kylesku-Drumbeg
 
-**Drumbeg to Ullapool Rapsons** bus, **Mon-Fri**.  Drumbeg/Achmelvich if requested by 1700 the previous day. Early start!! <https://www.rapsonshighland.com/route-809> 0650-0845
+T﻿he 12 miles from Kylesku to Drumbeg is walkable in a day. The Drumbeg road is a bit of a rollercoaster, so brings a challenge, but is extremely rewarding in how beautiful it is! 
 
-Day 7 (Wednesday) Drumbeg-Ullapool
+O﻿ther options are again to hitchhike or take a taxi. 
+
+##### Day 7 (Wednesday) Drumbeg-Ullapool
+
+T﻿he [Rapsons bus](https://www.rapsonshighland.com/route-809) travels from Drumbeg to Ullapool Mon-Fri. The main route is Lochinver to Ullapool, but pick-ups are possible from Drumbeg/Achmelvich if requested by 1700 the previous day. It's an early start – the bus leaves Drumbeg at 0650. 
+
+
 
 **707 bus** (westerbus) **Ullapool to Gairloch** dep 1312 arr 1500 **Thursdays** only. 
 
