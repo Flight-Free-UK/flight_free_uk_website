@@ -64,7 +64,7 @@ T﻿he stretch between Thurso and Durness, almost the full length of the Scottis
 
 ![](/images/uploads/ben-hope-ahughes.jpg "Ben Hope and Loch Hope")
 
-##### Day 4 (Sunday) Cape Wrath
+##### Day 4 (Sunday) Cape Wrath 
 
 T﻿he [Cape Wrath ferry](https://capewrathferry.wordpress.com/) takes passengers across the Kyle of Durness to the windswept and wild Cape Wrath peninsula, where a minibus travels the 12 miles across a rough track to the lighthouse. This is the top left-hand corner of mainland Britain, inaccessible by road. 
 
