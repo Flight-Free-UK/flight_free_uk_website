@@ -68,7 +68,7 @@ T﻿he stretch between Thurso and Durness, almost the full length of the Scottis
 
 T﻿he [Cape Wrath ferry](https://capewrathferry.wordpress.com/) takes passengers across the Kyle of Durness to the windswept and wild Cape Wrath peninsula, where a minibus travels the 12 miles across a rough track to the lighthouse. This is the top left-hand corner of mainland Britain, inaccessible by road. 
 
-![](/images/uploads/cape-wrath-ahughes.jpg "The track across Cape Wrath")
+![](/images/uploads/cape-wrath_ahughes.jpg "The track across Cape Wrath")
 
 I﻿t's not strictly part of the NC500, but it's a detour well worth taking. 
 
@@ -100,7 +100,7 @@ I﻿f you wish to hire a taxi, you might find some options [here](https://suther
 
 T﻿he 12 miles from Kylesku to Drumbeg is walkable in a day. The Drumbeg road is a bit of a rollercoaster, so brings a challenge, but is extremely rewarding in how beautiful it is! 
 
-![](/images/uploads/drumbeg-road-ahughes.jpg "The rollercoaster Drumbeg Road")
+![](/images/uploads/drumbeg-road_ahughes.jpg "The rollercoaster Drumbeg Road")
 
 O﻿ther options are again to hitchhike or take a taxi. 
 
@@ -112,7 +112,7 @@ T﻿he [Rapsons bus](https://www.rapsonshighland.com/route-809) travels from Dru
 
 H﻿ere we have another bus that only runs once a week: the [707 Westerbus](https://www.mackenziemaclennan.co.uk/westerbus/) from Ullapool to Gairloch, which departs Ullapool at 1312 and arrives in Gairloch at 1500 on Thursdays only. 
 
-![](/images/uploads/ullapool_canva.jpg "Suliven and Cansp")
+![](/images/uploads/ullapool_canva.jpg "Ullapool harbour")
 
 S﻿pend the morning enjoying the harbour town of Ullapool, and finish the day with a delightful walk around the bay at Gairloch.
 
