@@ -49,7 +49,7 @@ After reversing our outbound travel across mainland Greece and sailing overnight
 
 The following day of travel brought us back to Paris where the weather was starting to cool and we were taken by surprise, wishing we’d worn jumpers while sitting on the cobbles eating our final holiday dinner. And then by 4pm the next day we were back in our house in Cardiff. 
 
-Having seen how possible this adventurous travel is, we’ll definitely be using trains to discover more of Europe.  Next time, in order to avoid having to take such a long time off work, we’ll probably pick somewhere slightly closer so that we can get there and back within a week.  
+Having seen how possible this adventurous travel is, we’ll definitely be using trains to discover more of Europe. Next time, in order to avoid having to take such a long time off work, we’ll probably pick somewhere slightly closer so that we can get there and back within a week.  
 
 Our Greek Odyssey took us on 13 trains, four boats, one coach, and four metro systems, crossing through six countries. There were remarkably few delays, and ten of those trains actually arrived on time. I returned home feeling that we’d had an incredible adventure, not just a holiday. We will never forget it.
 
