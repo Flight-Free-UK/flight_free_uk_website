@@ -116,7 +116,11 @@ T﻿he [Lochcarron Garage](https://www.lochcarrongarage.co.uk/bus) service numbe
 
 T﻿he Applecross Inn will give you a warm welcome and provide hot food and drinks. [](https://www.lochcarrongarage.co.uk/bus)
 
-Day 11 (Sunday) Bealach na Ba 
+##### Day 11 (Sunday) Bealach na Bà
+
+T﻿his legendary road pass is the highest continuous road climb in the UK, going from sea level to over 2000 feet in under 4 miles. There is no public transport over the pass, but this section of the NC500 is not to be missed. 
+
+I﻿f you are prepared for a challenge, you will want to walk the 11-mile 
 
 Over the Bealach na Ba – walk (11 miles) or hitchhike. 
 
