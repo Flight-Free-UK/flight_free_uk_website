@@ -96,25 +96,21 @@ O﻿ther options are again to hitchhike or take a taxi.
 
 T﻿he [Rapsons bus](https://www.rapsonshighland.com/route-809) travels from Drumbeg to Ullapool Mon-Fri. The main route is Lochinver to Ullapool, but pick-ups are possible from Drumbeg/Achmelvich if requested by 1700 the previous day. It's an early start – the bus leaves Drumbeg at 0650. 
 
+##### Day 8 (Thursday) Ullapool to Gairloch 
 
+H﻿ere we have another bus that only runs once a week: the [707 Westerbus](https://www.mackenziemaclennan.co.uk/westerbus/) from Ullapool to Gairloch, which departs Ullapool at 1312 and arrives in Gairloch at 1500 on Thursdays only. 
 
-**707 bus** (westerbus) **Ullapool to Gairloch** dep 1312 arr 1500 **Thursdays** only. 
+S﻿pend the morning enjoying the harbour town of Ullapool, and finish the day with a delightful walk around the bay at Gairloch.
 
-Day 8 (Thursday) Ullapool to Gairloch 
+##### Day 9 (Friday) Gairloch to Shieldaig
 
-Gairloch to Kinlochewe: bus 700a Tuesday & Sat, 711 Wednesday 
+T﻿wo buses run from Gairloch to Kinlochewe: the 700a on Tuesday & Sat, and the 711 on Wednesday.
 
-Day 9 (Friday) Gairloch to Shieldaig
+B﻿ut if you want to get a bit further, it might be possible to board the [705 line](https://appassets.mvtdev.com/map/41/l/402/28754645.pdf), a school bus that runs once a day Monday-Friday. It's wise to check in advance. 1315 dep
 
-**Gairloch to Shieldaig: bus 705**. Takes just over an hour. <https://appassets.mvtdev.com/map/41/l/402/28754645.pdf> **One departure per day M-F.** School bus. Check in advance. 1315 dep
+[DMK Motors](https://bustimes.org/services/702-strathcarron-shieldaig-or-torridon) runs services between Annat and Shieldaig, which could also be an option, but this misses out the stretch from Kinlochewe to Annat. An alternative, inland route means staying on the Gairloch-Kinlochewe bus [](https://bustimes.org/services/702-strathcarron-shieldaig-or-torridon)to Achnasheen, then taking a Scotrail train to Strathcarron, then coming back up to Annat using DMK Motors.
 
-702 bus run by DMK Motors from Annat to Shieldaig <https://bustimes.org/services/702-strathcarron-shieldaig-or-torridon>
-
-(or go the other way round: stay on the bus from Gairloch to Achnasheen, then train to Strathcarron,  then to Annat on DMK MOtors)
-
-Postbus from Shieldaig to Applecross M-S one a day  <https://web-cdn.org/s/1464/file/local%20info/local%20transport%20info.pdf> 
-
-Day 10 (Saturday) Shieldaig to Applecross
+##### Day 10 (Saturday) Shieldaig to Applecross
 
 **Bus 704 Shieldaig to Applecross**. (Lochcarron Garage) Monday and **Saturday**. 1715-1815. Book ahead. <https://www.lochcarrongarage.co.uk/bus> 
 
