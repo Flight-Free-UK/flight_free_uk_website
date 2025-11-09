@@ -164,6 +164,8 @@ The north coast of Scotland is a special place. It deserves to be explored with 
 
 The North Coast 500 by public transport is a challenge, but it is possible. It is peaceful, friendly, and full of surprises. With a bit of planning and an open mind, it might turn out to be one of the best trips you ever take.
 
+![](/images/uploads/suliven-cansp-ahughes.jpg "Suliven and Cansp in the western Highlands at sunset")
+
 If you want the latest transport advice, drop an enquiry to [publictransport500@gmail.com](mailto:publictransport500@gmail.com); we’ll try to help.
 
 *T﻿hanks to Michael Willmot for the expertise and experience behind this article. Read about Michael's own journey around the North Coast 500 by public transport [here](https://www.johnmuirtrust.org/whats-new/news/70-field-notes-travelling-the-north-coast-500-by-public-transport).*
