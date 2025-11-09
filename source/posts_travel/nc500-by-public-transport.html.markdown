@@ -62,7 +62,7 @@ Y﻿ou can then travel from John o Groats to Thurso on the number 80 bus at 1020
 
 T﻿he stretch between Thurso and Durness, almost the full length of the Scottish north coast, takes in some of the most spectacular scenery the Highlands has to offer. Distant peaks contrast with golden sand bays, and sweeping hills are constantly accompanied by epic sea views.
 
-![](/images/uploads/ben-hope-ahughes.jpg "Ben Hope and Loch Hope")
+![](/images/uploads/ben-hope_ahughes.jpg "Ben Hope and Loch Hope")
 
 ##### Day 4 (Sunday) Cape Wrath 
 
