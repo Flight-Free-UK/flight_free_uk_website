@@ -70,7 +70,7 @@ T﻿he [Cape Wrath ferry](https://capewrathferry.wordpress.com/) takes passenger
 
 ![](/images/uploads/cape-wrath-ahughes.jpg "The track across Cape Wrath")
 
-I﻿t's not strictly part of the NC500, but it's a detour well worth taking.
+I﻿t's not strictly part of the NC500, but it's a detour well worth taking. 
 
 I﻿n bad weather the ferry won't run, in which case spend a day exploring the landscape around Durness, including Smoo Cave. 
 
