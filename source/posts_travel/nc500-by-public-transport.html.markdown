@@ -8,7 +8,7 @@ summary: You don't need to fly or even drive to explore the stunning north coast
 author: FlightFree UK
 read_time_minute: 5
 ---
-![](/images/uploads/sheep-nc500-ahughes.jpeg "More sheep than cars on the North Coast 500")
+![](/images/uploads/sheep-nc500-ahughes.jpeg "Warning: Sheep In Road on the North Coast 500")
 
 #### Exploring the North Coast 500 by Public Transport
 
