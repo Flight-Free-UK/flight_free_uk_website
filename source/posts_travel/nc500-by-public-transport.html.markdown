@@ -150,7 +150,7 @@ O﻿nce back in Inverness, take whichever route home you need to, completing you
 
 #### Mix with Walking or Cycling
 
-If you enjoy walking or cycling, you can combine public transport with parts of the route on foot or by bike. 
+If you enjoy walking or cycling, you can combine public transport with undertaking part of the route on foot or by bike. 
 
 There are many other parts of the route that lend themselves well to walking – not just the parts where the lack of public transport options might require this option! Some businesses offer luggage transfers which can help with carrying bags.
 
