@@ -112,7 +112,9 @@ B﻿ut if you want to get a bit further, it might be possible to board the [705 
 
 ##### Day 10 (Saturday) Shieldaig to Applecross
 
-**Bus 704 Shieldaig to Applecross**. (Lochcarron Garage) Monday and **Saturday**. 1715-1815. Book ahead. <https://www.lochcarrongarage.co.uk/bus> 
+T﻿he [Lochcarron Garage](https://www.lochcarrongarage.co.uk/bus) service number 704 travels from Shieldaig up and around the stunning Applecross peninsula on Monday and Saturday. Depart 1715, arrive 1815. Book ahead. You will love the journey around this crinkled and hilly landscape, with near-constant views of the sea, and Skye on a clear day. 
+
+T﻿he Applecross Inn will give you a warm welcome and provide hot food and drinks. [](https://www.lochcarrongarage.co.uk/bus)
 
 Day 11 (Sunday) Bealach na Ba 
 
