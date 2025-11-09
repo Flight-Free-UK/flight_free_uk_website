@@ -148,7 +148,7 @@ F﻿rom Strathcarron there's also the option to take a Scotrail service back to 
 
 O﻿nce back in Inverness, take whichever route home you need to, completing your two-week adventure!
 
-#### T﻿ip: Mix with Walking or Cycling
+#### Mix with Walking or Cycling
 
 If you enjoy walking or cycling, you can combine public transport with parts of the route on foot or by bike. 
 
