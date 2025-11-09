@@ -56,9 +56,13 @@ Y﻿ou can then travel from John o Groats to Thurso on the number 80 bus at 1020
 
 T﻿he stretch between Thurso and Durness, almost the full length of the Scottish north coast, takes in some of the most spectacular scenery the Highlands has to offer. Distant peaks contrast with golden sand bays, and sweeping hills are constantly accompanied by epic sea views.
 
+![](/images/uploads/ben-hope-ahughes.jpg "Ben Hope and Loch Hope")
+
 ##### Day 4 (Sunday) Cape Wrath
 
 T﻿he [Cape Wrath ferry](https://capewrathferry.wordpress.com/) takes passengers across the Kyle of Durness to the windswept and wild Cape Wrath peninsula, where a minibus travels the 12 miles across a rough track to the lighthouse. This is the top left-hand corner of mainland Britain, inaccessible by road. 
+
+![](/images/uploads/cape-wrath-ahughes.jpg "The track across Cape Wrath")
 
 I﻿t's not strictly part of the NC500, but it's a detour well worth taking.
 
@@ -90,6 +94,8 @@ I﻿f you wish to hire a taxi, you might find some options here: <https://suther
 
 T﻿he 12 miles from Kylesku to Drumbeg is walkable in a day. The Drumbeg road is a bit of a rollercoaster, so brings a challenge, but is extremely rewarding in how beautiful it is! 
 
+![](/images/uploads/drumbeg-road-ahughes.jpg "The rollercoaster Drumbeg Road")
+
 O﻿ther options are again to hitchhike or take a taxi. 
 
 ##### Day 7 (Wednesday) Drumbeg-Ullapool
@@ -99,6 +105,8 @@ T﻿he [Rapsons bus](https://www.rapsonshighland.com/route-809) travels from Dru
 ##### Day 8 (Thursday) Ullapool to Gairloch 
 
 H﻿ere we have another bus that only runs once a week: the [707 Westerbus](https://www.mackenziemaclennan.co.uk/westerbus/) from Ullapool to Gairloch, which departs Ullapool at 1312 and arrives in Gairloch at 1500 on Thursdays only. 
+
+![](/images/uploads/suliven-cansp-ahughes.jpg "Suliven and Cansp")
 
 S﻿pend the morning enjoying the harbour town of Ullapool, and finish the day with a delightful walk around the bay at Gairloch.
 
