@@ -126,8 +126,6 @@ H﻿itch-hiking is also an option here.
 
 ##### Day 12 (Monday) Kishorn to Inverness
 
-**Bus 704** will also take you back to Inverness after the pass (from Kishorn shop) 0915-1125 **Monday** or Saturday
+T﻿he 704 bus run by Lochcarron Garage goes all the way to Inverness, so you can pick up the second of its weekly services on the Monday, from the far side of the Bealach na Bà. The 704 picks up from Kishorn shop at 0915 on Mondays and Saturdays, arriving back in Inverness at 1125. 
 
-Or bus to Strathcarron then train back to Inverness. 
-
-Westerbus on that route (from Achnasheen): once daily. Achnasheen to Inverness 1 hr 10 mins.
+F﻿rom Strathcarron there's the option to take a Scotrail service back to Inverness.
