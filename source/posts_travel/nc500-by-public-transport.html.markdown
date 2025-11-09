@@ -36,6 +36,8 @@ Y﻿ou can make your way to the start point of Inverness by direct train from Gl
 
 ##### Day 1 (Thursday): Inverness to Wick
 
+![](/images/uploads/dunrobin-castle_canva.jpg "Dunrobin Castle near Golspie on Scotland's east coast")
+
 T﻿wo bus companies run buses along the A9 from Inverness to Wick:
 
 **[Ember](https://www.ember.to/)** travels from Inverness to Wick in 3 hours, with three departures per day including Sunday. Ember is an electric bus company with frequent departures to many places across Scotland.
