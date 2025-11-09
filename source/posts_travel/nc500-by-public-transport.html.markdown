@@ -32,7 +32,7 @@ H﻿ere is a suggested 12-day itinerary which allows time to explore some of the
 
 Y﻿ou can make your way to the start point of Inverness by direct train from Glasgow, Edinburgh, Perth, Aberdeen and London Kings Cross, with connecting services from most other parts of the UK.
 
-##### Day 1 (suggestion Thursday): Inverness to Wick
+##### Day 1 (Thursday): Inverness to Wick
 
 T﻿wo bus companies run buses along the A9 from Inverness to Wick:
 
@@ -42,23 +42,31 @@ T﻿wo bus companies run buses along the A9 from Inverness to Wick:
 
 T﻿here are plenty of options for stops along the way. If you don’t want to miss Dunrobin castle, alight at Golspie. There are wonderful beaches at Embo and the town of Dornoch is delightful.
 
-##### Day 2 (suggestion Friday): Wick to Thurso via John o Groats
+##### Day 2 (Friday): Wick to Thurso via John o Groats
 
-[Stagecoach 80](https://tiscon-maps-stagecoachbus.s3.amazonaws.com/RouteMaps/North%20Scotland/Caithness-map-WEB%20Route%20map.pdf) travels from Wick to John o' Groats in 30 mins. Departures are twice a day but not on weekends, 0843-0913 or 1243-1313. 
+[Stagecoach 80](https://tiscon-maps-stagecoachbus.s3.amazonaws.com/RouteMaps/North%20Scotland/Caithness-map-WEB%20Route%20map.pdf) travels from Wick to John o' Groats in 30 mins. Departures are twice a day but not on weekends, 0843 or 1243. 
 
 S﻿pend some time at the top right-hand corner of mainland Britain: take a walk to Duncansby Head, enjoy a pint in the John o' Groats brewery, or have lunch in one of the food outlets. 
 
-Y﻿ou can then travel from John o Groats to Thurso on the number 80 bus at 1020-1119 or 1650-1736.
+Y﻿ou can then travel from John o Groats to Thurso on the number 80 bus at 1020 or 1650.
 
-##### Day 3 (suggestion Saturday) Thurso-Durness
+##### Day 3 (Saturday) Thurso-Durness
 
-**803 Far North bus** Thurso to Durness **Saturdays only, 1430-1650**. Thurso to Kyle of Tongue Tues and Thurs. 1430-1607.
+[T﻿he Far North bus, number 803](https://www.thedurnessbus.com/durnessnew/wp-content/uploads/2025/06/803-timetable-June-2025.pdf), goes from Thurso to Durness on Saturdays only, at 1430.
 
-Day 4 (Sunday) Cape Wrath if weather permits. Otherwise walking around Durness.
+T﻿he stretch between Thurso and Durness, almost the full length of the Scottish north coast, takes in some of the most spectacular scenery the Highlands has to offer. Distant peaks contrast with golden sand bays, and sweeping hills are constantly accompanied by epic sea views.
 
-Durness: ferry and minibus to Cape Wrath. 
+##### Day 4 (Sunday) Cape Wrath
 
-Day 5 (Monday) Durness-Scourie (then walk/hitch 10 miles to Kylesku)
+T﻿he [Cape Wrath ferry](https://capewrathferry.wordpress.com/) takes passengers across the Kyle of Durness to the windswept and wild Cape Wrath peninsula, where a minibus travels the 12 miles across a rough track to the lighthouse. This is the top left-hand corner of mainland Britain, inaccessible by road. 
+
+I﻿t's not strictly part of the NC500, but it's a detour well worth taking.
+
+I﻿n bad weather the ferry won't run, in which case spend a day exploring the landscape around Durness, including Smoo Cave. 
+
+##### Day 5 (Monday) Durness-Scourie 
+
+##### (then walk/hitch 10 miles to Kylesku)
 
 **805 Far North bus** to Scourie **mon**-Sat 1 hr 20 mins 0800 Smoo Cave 0920 Scourie. 
 
