@@ -82,7 +82,7 @@ I﻿f you are able and keen to walk, the 21 miles to Drumbeg (where you can catc
 
 Be careful as the road is narrow in sections, with occasional traffic. It is also hilly, so requires a good level of fitness, especially if you are carrying bags.
 
-I﻿f you choose to hitchhike, 
+I﻿f you choose to hitchhike, there's some [advice here](https://www.undiscoveredscotland.co.uk/usfeatures/hitching/index.html). It can be a fantastic option, but do be aware of the risks.
 
 Options: hitch a ride. Walk! (Two or three day walk). Taxi: <https://sutherland-business.co.uk/category.php?cat=150> 
 
