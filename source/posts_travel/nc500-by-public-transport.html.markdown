@@ -120,7 +120,7 @@ S﻿pend the morning enjoying the harbour town of Ullapool, and finish the day w
 
 T﻿wo buses run from Gairloch to Kinlochewe: the 700a on Tuesday & Sat, and the 711 on Wednesday.
 
-B﻿ut if you want to get a bit further, it might be possible to board the [705 line](https://appassets.mvtdev.com/map/41/l/402/28754645.pdf), a school bus that runs once a day Monday-Friday. It's wise to check in advance. 1315 departure.
+If you want to get a bit further, it might be possible to board the [705 line](https://appassets.mvtdev.com/map/41/l/402/28754645.pdf), a school bus that runs once a day Monday-Friday. It's wise to check in advance. 1315 departure.
 
 [DMK Motors](https://bustimes.org/services/702-strathcarron-shieldaig-or-torridon) runs services between Annat and Shieldaig, which could also be an option, but this misses out the stretch from Kinlochewe to Annat. An alternative, inland route means staying on the Gairloch-Kinlochewe bus [](https://bustimes.org/services/702-strathcarron-shieldaig-or-torridon)to Achnasheen, then taking a Scotrail train to Strathcarron, then coming back up to Annat using DMK Motors.
 
