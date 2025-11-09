@@ -50,6 +50,8 @@ T﻿here are plenty of options for stops along the way. If you don’t want to m
 
 [Stagecoach 80](https://tiscon-maps-stagecoachbus.s3.amazonaws.com/RouteMaps/North%20Scotland/Caithness-map-WEB%20Route%20map.pdf) travels from Wick to John o' Groats in 30 mins. Departures are twice a day but not on weekends, 0843 or 1243. 
 
+![](/images/uploads/duncansby-stacks_canva.jpg "Duncansby stacks, near Duncansby Head")
+
 S﻿pend some time at the top right-hand corner of mainland Britain: take a walk to Duncansby Head, enjoy a pint in the John o' Groats brewery, or have lunch in one of the food outlets. 
 
 Y﻿ou can then travel from John o Groats to Thurso on the number 80 bus at 1020 or 1650.
