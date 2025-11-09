@@ -3,8 +3,8 @@ published: true
 title: NC500 by public transport
 date: 2025-11-07T16:44:37.910Z
 cover_image: /images/uploads/nc500-canva.jpg
-summary: You don't need a car to explore the stunning north coast of Scotland.
-  We explain the public transport options.
+summary: You don't need to fly or even drive to explore the stunning north coast
+  of Scotland. We explain the public transport options.
 author: FlightFree UK
 read_time_minute: 4
 ---
