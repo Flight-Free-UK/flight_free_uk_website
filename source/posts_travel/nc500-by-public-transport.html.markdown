@@ -28,7 +28,7 @@ While the North Coast 500 has brought many good things, it has also shown the ne
 
 It is possible to explore much of the north coast without a car. You can use trains and buses to get around, and travelling this way can be part of the adventure. Travel by public transport is a style of slow tourism which takes local communities into account, making the travel a social part of the journey through providing opportunities for contact with residents and, at the same time, giving opportunity both to enjoy the views on many scenic routes and also to be active in selecting what to see and do.  
 
-It is also about reducing travellers’ carbon footprint by avoiding rushing from one place to another, often in low occupancy vehicles.
+It is also about reducing travellers’ carbon footprint by avoiding travelling in low occupancy vehicles.
 
 H﻿ere is a suggested 12-day itinerary which allows time to explore some of the place along the route, as well as taking into account the restricted timetables of some of the options.
 
