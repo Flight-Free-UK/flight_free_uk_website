@@ -129,3 +129,25 @@ H﻿itch-hiking is also an option here.
 T﻿he [704 bus run by Lochcarron Garage](https://www.lochcarrongarage.co.uk/bus) goes all the way to Inverness, so you can pick up the second of its weekly services on the Monday, from the far side of the Bealach na Bà. The 704 picks up passengers from Kishorn shop at 0915 on Mondays and Saturdays, arriving back in Inverness at 1125. 
 
 F﻿rom Strathcarron there's also the option to take a Scotrail service back to Inverness.
+
+O﻿nce back in Inverness, take whichever route home you need to, completing your two-week adventure!
+
+#### T﻿ip: Mix with Walking or Cycling
+
+If you enjoy walking or cycling, you can combine public transport with parts of the route on foot or by bike. 
+
+There are many other parts of the route that lend themselves well to walking – not just the parts where the lack of public transport options might require this option! Some businesses offer luggage transfers which can help with carrying bags.
+
+I﻿f you have access to a folding bicycle, it can open up a whole new way of experiencing the NC500. Most buses, coaches and trains accept folding bikes without a reservation, meaning you can hop on and off easily, expanding the areas that you can explore. Bicycles are also extremely useful in filling in the sections where there are no public transport options. 
+
+T﻿he NC500 is physically challenging by bicycle, with regular hills, and there can be a moderate amount of traffic, including camper vans and trucks. Be aware of your safety if you choose to explore the route by bike.
+
+#### Final Thoughts
+
+The north coast of Scotland is a special place. It deserves to be explored with care and respect. By choosing trains, buses, and ferries, you can have a great trip while helping to protect the area for future visitors.
+
+The North Coast 500 by public transport is a challenge, but it is possible. It is peaceful, friendly, and full of surprises. With a bit of planning and an open mind, it might turn out to be one of the best trips you ever take.
+
+If you want the latest transport advice, drop an enquiry to [publictransport500@gmail.com](mailto:publictransport500@gmail.com); we’ll try to help.
+
+*T﻿hanks to Michael Willmot for the expertise and experience behind this article. Read about Michael's own journey around the North Coast 500 by public transport here.*
