@@ -84,7 +84,7 @@ Be careful as the road is narrow in sections, with occasional traffic. It is als
 
 I﻿f you choose to hitchhike, there's some [advice here](https://www.undiscoveredscotland.co.uk/usfeatures/hitching/index.html). It can be a fantastic option, but do be aware of the risks.
 
-Options: hitch a ride. Walk! (Two or three day walk). Taxi: <https://sutherland-business.co.uk/category.php?cat=150> 
+I﻿f you wish to hire a taxi, you might find some options here: <https://sutherland-business.co.uk/category.php?cat=150> 
 
 Day 6 (Tuesday) Kylesku-Drumbeg (walk/hitch 11 miles)
 
