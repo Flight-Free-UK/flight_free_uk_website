@@ -31,6 +31,8 @@ The next day we watched the scenery changing from plains to mountains as we trav
 
 The ferry to the Greek port of Patras took us across the Mediterranean overnight, and we woke to see the coastline of Greece, marvelling as we gently sailed between islands that we knew from literature and myth. From the coach and train between Patras and Athens we were able to see the mountainous landscape of Greece to full advantage and, after three-and-a-half days we arrived, having experienced the changing landscape and cuisine of the countries we had travelled through.
 
+![](/images/uploads/athens-rsayers.jpg "Arriving in Athens")
+
 Athens was all we had hoped it would be. We spent the mornings exploring the famous tourist sights including Poseidon’s temple and the Parthenon before relaxing in our Airbnb during the afternoon heat, then heading out for Athenian evenings.  
 
 After three nights in the capital we headed to the port of Piraeus to catch our ferry to Crete. Boarding the ferry was an extraordinary experience with the huge crowd of foot passengers surging up the ramp. By the time I’d stowed my rucksack and had my ticket inspected we were already on our way! The fast ferry deposited us six hours later in the dusk of Rethymno where we were greeted by the brightly lit harbour and costal town. A taxi ride completed our journey to our home for the next week – a villa in northwest Crete.
