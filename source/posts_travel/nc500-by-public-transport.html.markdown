@@ -88,7 +88,7 @@ I﻿f you'd like to stick to the NC500 route, the following options are availabl
 * hitchhike
 * t﻿axi
 
-I﻿f you are able and keen to walk, the 21 miles to Drumbeg (where you can catch a bus) can be split into two sections. You could journey as far as Kylesku (12 miles) where there are hotels, on the same day as your bus journey from Durness. The following day you could walk the remaining 9 miles to Drumbeg, and stay there overnight.
+I﻿f you are able and keen to walk, the 21 miles to Drumbeg (from where you can catch a bus) can be split into two sections. You could journey as far as Kylesku (12 miles) where there are hotels, on the same day as your bus journey from Durness. The following day you could walk the remaining 9 miles to Drumbeg, and stay there overnight.
 
 Be careful as the road is narrow in sections, with occasional traffic. It is also hilly, so requires a good level of fitness, especially if you are carrying bags.
 
