@@ -45,7 +45,9 @@ We had our island holiday, with history, beach, mountain, culture, and pool days
 
 I had worried that once we were on our way home we’d have had enough and just want to get there. To some extent the start of the journey did feel like this to Lara, but the kids were able to take time out with their devices in the Airbnb while Lenny and I headed out for an afternoon walk once we arrived back in Piraeus, and from then on it felt like we were back on our adventure. 
 
-After reversing our outbound travel across mainland Greece and sailing overnight to Bari, we then headed further up Italy and had a night in Milan. Not arriving until after 8pm meant that we didn’t get to see much of the city, but a speedy metro trip into the centre provided us with a memorable meal looking up at the floodlit Duomo while being bitten repeatedly by mosquitos! The following day of travel brought us back to Paris where the weather was starting to cool and we were taken by surprise, wishing we’d worn jumpers while sitting on the cobbles eating our final holiday dinner. And then by 4pm the next day we were back in our house in Cardiff. 
+After reversing our outbound travel across mainland Greece and sailing overnight to Bari, we then headed further up Italy and had a night in Milan. Not arriving until after 8pm meant that we didn’t get to see much of the city, but a speedy metro trip into the centre provided us with a memorable meal looking up at the floodlit Duomo while being bitten repeatedly by mosquitos! 
+
+The following day of travel brought us back to Paris where the weather was starting to cool and we were taken by surprise, wishing we’d worn jumpers while sitting on the cobbles eating our final holiday dinner. And then by 4pm the next day we were back in our house in Cardiff. 
 
 Having seen how possible this adventurous travel is, we’ll definitely be using trains to discover more of Europe.  Next time, in order to avoid having to take such a long time off work, we’ll probably pick somewhere slightly closer so that we can get there and back within a week.  
 
