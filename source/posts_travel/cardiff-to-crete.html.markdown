@@ -7,7 +7,7 @@ summary: A holiday to Crete proves to be the trip of a lifetime for the Sayers f
 author: FlightFree UK
 read_time_minute: 5
 ---
-### When my daughter Lara was about three, I found a copy of The Orchard book of Greek Myths in a charity shop. 
+### When my daughter Lara was about three, I found a copy of The Orchard book of Greek Myths in a charity shop.
 
 ##### Emma Chichester Clarke’s beautifully evocative illustrations and Geraldine McCaughrean’s wonderful narration became the go-to book for daytime snuggles and bedtime stories. It started Lara’s love affair with the Greek myths and ignited her desire to visit Greece one day. 
 
@@ -15,11 +15,11 @@ We’ve always tried to live in the most environmentally conscious way, and as t
 
 In 2024, as the trip started to seem a reality, my husband Lenny and I started to worry. Greece was literally on fire, with the July heat well above average. Lenny and Lara actively don’t like heat, and though Aria wears the same layers of clothing through Welsh winters and summers, extremes of temperature do unsettle her. I have always enjoyed the heat but I hadn’t spent time anywhere with a temperature above 30 degrees in the past twenty years. We looked at alternatives and each of us identified what we most wanted from a one-off holiday like this. After circling round and round we finally decided that Greece really did tick all of the boxes. Decision made!  
 
-And then the planning began. I researched what The Man in Seat 61 would do and mapped out multiple options for routes and timescales. We had taken European holidays by rail before, so knew that there would be a level of stress in finding and booking our trains, but I can’t lie; planning this trip caused me a level of anxiety that I’d not experienced before. My tendency to get stressed by the possibility of delays was worse because of the number of moving parts, and was probably compounded by the perimenopause, so in the lead-up to this holiday it became an acute source of anxiety.
+And then the planning began. I researched what [The Man in Seat 61](https://www.seat61.com/Greece.htm) would do and mapped out multiple options for routes and timescales. We had taken European holidays by rail before, so knew that there would be a level of stress in finding and booking our trains, but I can’t lie; planning this trip caused me a level of anxiety that I’d not experienced before. My tendency to get stressed by the possibility of delays was worse because of the number of moving parts, and was probably compounded by the perimenopause, so in the lead-up to this holiday it became an acute source of anxiety.
 
 Despite my stress, by April, Cardiff to Crete was booked. We would be travelling for a total of three-and-a-half days, from Llandaf in Cardiff to Paris, Bologne, Bari, Athens, then Crete. On the way home we would be stopping in Piraeus (Athens), Milan, and Paris before arriving home, after 18 days away.
 
-We bought four 7-day interrail passes, which would be plenty to get us there and back, including some flexibility if there were delays.  All of the trains were fast intercity trains so we had to pay a reservation fee for them all. The passes, seat reservations, ferries and accommodation cost around £4,500 for the four of us. But this was the trip of a lifetime, and we had been saving for some time.  (The entire holiday, including food and all activities and daytrips cost us about £6,000.)
+We bought four 7-day [interrail passes](https://www.interrail.eu/en/interrail-passes/global-pass), which would be plenty to get us there and back, including some flexibility if there were delays.  All of the trains were fast intercity trains so we had to pay a reservation fee for them all. The passes, seat reservations, ferries and accommodation cost around £4,500 for the four of us. But this was the trip of a lifetime, and we had been saving for some time. (The entire holiday, including food and all activities and daytrips cost us about £6,000.)
 
 On the day of departure, I was surprisingly calm and positive. It was actually Lenny, my usually-calm husband, who had taken on the role of the worrier. This wasn’t helped by standing in a queue for nearly two hours hours at St Pancras and an hour delay to our Eurostar departure. But there was nothing to worry about. Even though we arrived into Paris later than planned, it was still only 6pm, and we were all excited to be on our way. 
 
