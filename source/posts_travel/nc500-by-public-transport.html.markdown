@@ -106,7 +106,7 @@ S﻿pend the morning enjoying the harbour town of Ullapool, and finish the day w
 
 T﻿wo buses run from Gairloch to Kinlochewe: the 700a on Tuesday & Sat, and the 711 on Wednesday.
 
-B﻿ut if you want to get a bit further, it might be possible to board the [705 line](https://appassets.mvtdev.com/map/41/l/402/28754645.pdf), a school bus that runs once a day Monday-Friday. It's wise to check in advance. 1315 dep
+B﻿ut if you want to get a bit further, it might be possible to board the [705 line](https://appassets.mvtdev.com/map/41/l/402/28754645.pdf), a school bus that runs once a day Monday-Friday. It's wise to check in advance. 1315 departure.
 
 [DMK Motors](https://bustimes.org/services/702-strathcarron-shieldaig-or-torridon) runs services between Annat and Shieldaig, which could also be an option, but this misses out the stretch from Kinlochewe to Annat. An alternative, inland route means staying on the Gairloch-Kinlochewe bus [](https://bustimes.org/services/702-strathcarron-shieldaig-or-torridon)to Achnasheen, then taking a Scotrail train to Strathcarron, then coming back up to Annat using DMK Motors.
 
@@ -120,11 +120,11 @@ T﻿he Applecross Inn will give you a warm welcome and provide hot food and drin
 
 T﻿his legendary road pass is the highest continuous road climb in the UK, going from sea level to over 2000 feet in under 4 miles. There is no public transport over the pass, but this section of the NC500 is not to be missed. 
 
-I﻿f you are prepared for a challenge, you will want to walk the 11-mile 
+I﻿f you are prepared for a challenge, you will want to walk the 11-mile zig-zag road that takes you up to the top of the pass and down the other side. There's likely to be cloud cover at the top, but if not, you will have stupendous views across the Isle of Skye. The hard climb is worth the reward!
 
-Over the Bealach na Ba – walk (11 miles) or hitchhike. 
+H﻿itch-hiking is also an option here.
 
-Day 12 (Monday) Kishorn to Inverness
+##### Day 12 (Monday) Kishorn to Inverness
 
 **Bus 704** will also take you back to Inverness after the pass (from Kishorn shop) 0915-1125 **Monday** or Saturday
 
