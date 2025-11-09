@@ -7,6 +7,8 @@ summary: A holiday to Crete proves to be the trip of a lifetime for the Sayers f
 author: FlightFree UK
 read_time_minute: 5
 ---
+![](/images/uploads/cardiff-rsayers.jpg "Jackets and jumpers for a summer day in Cardiff")
+
 ### When my daughter Lara was about three, I found a copy of The Orchard book of Greek Myths in a charity shop.
 
 ##### Emma Chichester Clarke’s beautifully evocative illustrations and Geraldine McCaughrean’s wonderful narration became the go-to book for daytime snuggles and bedtime stories. It started Lara’s love affair with the Greek myths and ignited her desire to visit Greece one day. 
