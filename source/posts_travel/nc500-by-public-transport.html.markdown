@@ -134,6 +134,8 @@ T﻿he Applecross Inn will give you a warm welcome and provide hot food and drin
 
 T﻿his legendary road pass is the highest continuous road climb in the UK, going from sea level to over 2000 feet in under 4 miles. There is no public transport over the pass, but this section of the NC500 is not to be missed. 
 
+![](/images/uploads/bealach-na-ba.jpg "Hairpins lead down the Bealach na Bà")
+
 I﻿f you are prepared for a challenge, you will want to walk the 11-mile zig-zag road that takes you up to the top of the pass and down the other side. There's likely to be cloud cover at the top, but if not, you will have stupendous views across the Isle of Skye. The hard climb is worth the reward!
 
 H﻿itch-hiking is also an option here.
