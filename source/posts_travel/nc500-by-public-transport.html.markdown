@@ -64,7 +64,7 @@ T﻿he stretch between Thurso and Durness, almost the full length of the Scottis
 
 ![](/images/uploads/ben-hope_ahughes.jpg "Ben Hope and Loch Hope")
 
-##### Day 4 (Sunday) Cape Wrath 
+##### Day 4 (Sunday) Cape Wrath
 
 T﻿he [Cape Wrath ferry](https://capewrathferry.wordpress.com/) takes passengers across the Kyle of Durness to the windswept and wild Cape Wrath peninsula, where a minibus travels the 12 miles across a rough track to the lighthouse. This is the top left-hand corner of mainland Britain, inaccessible by road. 
 
@@ -88,7 +88,7 @@ I﻿f you'd like to stick to the NC500 route, the following options are availabl
 * hitchhike
 * t﻿axi
 
-I﻿f you are able and keen to walk, the 21 miles to Drumbeg (from where you can catch a bus) can be split into two sections. You could journey as far as Kylesku (12 miles) where there are hotels, on the same day as your bus journey from Durness. The following day you could walk the remaining 9 miles to Drumbeg, and stay there overnight.
+I﻿f you are able and keen to walk, the 21 miles to Drumbeg (from where you can catch a bus) can be split into two sections. You could journey as far as Kylesku (10 miles) where there are hotels, on the same day as your bus journey from Durness. The following day you could walk the remaining 11 miles to Drumbeg, and stay there overnight.
 
 Be careful as the road is narrow in sections, with occasional traffic. It is also hilly, so requires a good level of fitness, especially if you are carrying bags.
 
@@ -98,7 +98,7 @@ I﻿f you wish to hire a taxi, you might find some options [here](https://suther
 
 ##### Day 6 (Tuesday) Kylesku-Drumbeg
 
-T﻿he 12 miles from Kylesku to Drumbeg is walkable in a day. The Drumbeg road is a bit of a rollercoaster, so brings a challenge, but is extremely rewarding in how beautiful it is! 
+T﻿he 11 miles from Kylesku to Drumbeg is walkable in a day. The Drumbeg road is a bit of a rollercoaster, so brings a challenge, but is extremely rewarding in how beautiful it is! 
 
 ![](/images/uploads/drumbeg-road_ahughes.jpg "The rollercoaster Drumbeg Road")
 
