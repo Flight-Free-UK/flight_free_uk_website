@@ -29,7 +29,7 @@ fetch('https://phpstack-66493-6022576.cloudwaysapps.com/counter/')
   .then(json => JSON.parse(json))
   .then(output => document.getElementById('counter').innerHTML = output)
   .catch((error) => {
-    document.getElementById('counter').innerHTML = "More than 1869";
+    document.getElementById('counter').innerHTML = "Loading...";
     console.error(error)
   })
 window.addEventListener("message", (event) => {
