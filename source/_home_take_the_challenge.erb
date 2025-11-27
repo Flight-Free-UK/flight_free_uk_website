@@ -29,7 +29,7 @@ fetch('https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk/coun
   .then(json => JSON.parse(json))
   .then(output => document.getElementById('counter').innerHTML = output)
   .catch((error) => {
-    document.getElementById('counter').innerHTML = "Loading...";
+    document.getElementById('counter').innerHTML = "?";
     console.error(error)
   })
 window.addEventListener("message", (event) => {
