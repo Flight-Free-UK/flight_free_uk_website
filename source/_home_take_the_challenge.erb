@@ -20,13 +20,16 @@
   </div>
 </section>
 
+<%# TEST: https://phpstack-66493-6022576.cloudwaysapps.com %>
+<%# LIVE: https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk %>
+
 <script>
 fetch('https://0073b4a27fee21fb6a83cc3c919eb9e2-17912.sites.k-hosting.co.uk/counter/')
   .then(response => response.json())
   .then(json => JSON.parse(json))
   .then(output => document.getElementById('counter').innerHTML = output)
   .catch((error) => {
-    document.getElementById('counter').innerHTML = "More than 1869";
+    document.getElementById('counter').innerHTML = "Loading...";
     console.error(error)
   })
 window.addEventListener("message", (event) => {
