@@ -28,11 +28,11 @@ So give flight-free travel a try for your next ski trip, and get your holiday of
 
 The Eurostar Snow Train takes you to the Alps from London St Pancras via Lille and is run by Eurostar. 
 
-There is one service a week, departing on Saturday mornings, from 16 December 27 January. You’ll arrive that evening in the Tarentaise valley, the gateway to huge French ski resorts such as Tignes, Val d’Isere, Courchevel and Val Thorens. 
+There is one service a week going out and a choice of returning either Saturday or Sunday. The service out departs on Saturday mornings, from 16 December to 28 March. You’ll arrive that evening in the Tarentaise valley, the gateway to huge French ski resorts such as Tignes, Val d’Isere, Courchevel and Val Thorens. 
 
-The big advantage of this service is that the return journey is on the following Sunday morning, meaning you can ski seven days instead of the normal six if you fly. The return is during the day on the Sunday, leaving early and arriving back into London in the afternoon.
+The big advantage of this service is that you can choose to either return the following Saturday or Sunday. If you choose Sunday, it means you can ski seven days instead of the normal six if you fly. The return on the Saturday leaves early afternoon. For Sunday returns, you leave in the morning and arrive back into London in the early evening.
 
-Train only tickets are available [from Eurostar](https://www.eurostar.com/uk-en/train/france/ski-train), with packages including your train travel, accommodation, transfer and lift pass available from [Travelski](https://www.uk.travelski.com/) and [Inghams.](https://www.inghams.co.uk/ski-holidays/articles/winter-insider-guides/eurostar-snow-train)
+Train only tickets are available [from Eurostar](https://www.eurostar.com/uk-en/train/france/ski-train), with packages including your train travel, accommodation, transfer and lift pass available from[Travelski](https://www.uk.travelski.com/) , [Inghams](https://www.inghams.co.uk/ski-holidays/articles/winter-insider-guides/eurostar-snow-train) and [Peak Retreats](https://www.peakretreats.co.uk/).
 
 #### Other train options
 
