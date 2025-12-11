@@ -29,9 +29,9 @@ Fortunately King’s Cross and St Pancras are next door to each other, so it was
 
 ##### Train #3: **Paris Austerlitz to Toulouse Matabiau** by SNCF Night Train (22:13pm-7:44am).
 
-One quick Métro journey across the Seine took me to Austerlitz station. This next train was by far the most exciting part of the journey. I had never experienced a sleeper train before so I was really looking forward to seeing what it was like. The train waits at the platform well in advance of departure, allowing passengers to board, find their bunk and get ready for bed. There are bathrooms and changing rooms at the end of each carriage. I was surprised to see that the bunks in the carriages are triple stacked, meaning there are six people in a room. It’s a bit of a squeeze, but once you’re ensconced on your bunk, it's pretty comfortable. 
+One quick Métro journey across the Seine took me to Austerlitz station. This next train was by far the most exciting part of the journey. I had never experienced a sleeper train before so I was really looking forward to seeing what it was like. The train waits at the platform well in advance of departure, allowing passengers to board, find their bunk and get ready for bed. There are bathrooms and changing rooms at the end of each carriage. I was surprised to see that the bunks in the carriages are triple stacked, meaning there are six people in a room. It’s a bit of a squeeze, but once you’re ensconced in your bunk, it's pretty comfortable. 
 
-![](/images/uploads/sleeper-train-bunk_nvickers.jpeg "Ensconced in my bunk on the night train")
+![](/images/uploads/sleeper-train-bunk_nvickers.jpeg "Ensconced in the bunk on the night train")
 
 SNCF provides a fresh sleeping bag and pillow for each passenger, water and toiletries, which is all pretty good value for the low cost of the ticket (under €50). Additionally, if you’re travelling alone as a woman, you can notify SNCF when booking and they will place you in a carriage with all other solo women travellers. I woke up once in the night to pitch blackness thinking I’d been prematurely jostled out of sleep, but looked at my phone to discover it was 6am and we were almost at Toulouse!
 
@@ -43,7 +43,7 @@ After a croissant and coffee at Toulouse station, I took a relatively short trai
 
 My final train! The sunny scenery along the coast was making it feel like a holiday by now. You wouldn't get those views 35,000 feet in the air. The weather was looking glorious and I was already picturing beers on the beach in Barcelona. This train was showing noticeable signs of being bound for a large European festival. Lots of different languages, backpacks, party gear and excited noise. I found myself sitting next to another English woman who'd taken virtually the same journey as me (to avoid flying) and was equally as excited about seeing Charli XCX. I also spoke to an American woman who was living and working in France, and travelling solo by train to the festival. After a couple of hours chatting as though we had known each other for much longer, the train pulled into its final stop – Barcelona Sants – and I was off to find my friends.
 
-![](/images/uploads/primavera-party-people_nvickers.jpeg)
+![](/images/uploads/primavera-party-people_nvickers.jpeg "Nancy (R) with her friends")
 
 There are plenty of ways you can get between London/Paris and Barcelona. There’s the direct high speed train from Paris which takes seven hours or so, so you might need an overnight stay somewhere in order to be in Paris at the right time. Or you can go via Lille and Nîmes which avoids having to cross Paris. I chose to take the night train for the sheer thrill of it, and basically for a cheap bed for the night.
 
