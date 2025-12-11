@@ -5,7 +5,7 @@ date: 2025-12-11T17:50:07.797Z
 cover_image: /images/uploads/music-festival_canva.jpg
 summary: Primavera Sound festival in Barcelona draws crowds from all across
   Europe... but there's no need to fly to get there, as Nancy discovered on a
-  train and coach trip from Teeside
+  train and coach trip from Teesside
 author: FlightFree UK
 read_time_minute: 5
 ---
