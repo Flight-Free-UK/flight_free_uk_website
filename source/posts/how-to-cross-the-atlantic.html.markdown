@@ -37,13 +37,17 @@ We have some inspiring stories here about people who have travelled by cargo shi
 * Lewis took a [cargo ship to South America](/podcast_transcripts/podcast-interview-lewis-mcneill/) to go travelling: "A highlight was seeing the stars at night, because when else are you going to be that far from human habitation?"
 * Kate Rawles also journeyed to [South America by cargo ship](/podcast_transcripts/podcast-series-episode-4-transatlantic-travel/), at the start of an 8,000 mile bike ride through the Andes from Colombia to Cape Horn: "There are many ‘wow’ moments on a the cargo ship, like realising the size of the ocean, when you're travelling for days and days without seeing land."
 
-### TransOceanic Wind Transport (TOWT)
+### S﻿ailing cargo ships: TransOceanic Wind Transport (TOWT) and Voila Sail Coop
 
 [T﻿owt.eu](https://www.towt.eu/en/home/) is a French company that offers passage on its sailing cargo ships. There are currently five routes: Le Havre to Quebec, New York, Martinique, Colombia and Brazil. 
 
 T﻿here is space for up to 12 passengers on each crossing. Timetable and information is here: <https://www.towt.eu/en/home/>
 
 ![](/images/uploads/sailing-ship_canva.jpg)
+
+[](https://www.voilasailcoop.fr/en/the-transatlantic-home/)[Voila SailCoop](https://www.voilasailcoop.fr/en/the-transatlantic-home/) crosses the Atlantic once a month from Saint-Nazaire (on the French Atlantic coast near Nantes) to St Pierre and Miquelon (a French island off the coast of Newfoundland, Canada), over an 8-day journey. From there the ship continues to Baltimore in the US, taking a further 6 days. 
+
+Sailings are roughly once a month and cost €3,310 for the journey to Baltimore.
 
 ### Sailing ship
 
@@ -80,7 +84,7 @@ Our calculations show travelling from the UK to New York is around three times m
 
 C﻿ruise ships often need to [reposition the boat after a cruise](https://thepointsguy.com/guide/repositioning-cruises/), ready to pick up the next cohort of holiday-makers, so the cruise line will sell cabins at a discounted rate. 
 
-It's a slightly cheaper and less carbon intensive way to cross the Atlantic – arguably the boat is going anyway so you're not responsible for the emissions from the ship itself, just for what you use on board.
+It's a slightly cheaper and less carbon intensive way to cross the Atlantic – arguably the boat is going anyway so you're not responsible for the emissions from the ship itself, just for what you use on board. 
 
 T﻿he entertainment/swimming pools/restaurants won't be operational, which reduces the energy intensity of the ship, thereby reducing emissions. When fully operational, cruising is by far the most carbon-heavy way to travel – much worse than flying!
 
