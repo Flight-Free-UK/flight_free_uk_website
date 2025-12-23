@@ -28,7 +28,7 @@ Travelling by train allowed us to combine our holiday with a city break: Sue had
 
 ###### Paris to Milan and Porto Ceresio: High-Speed Across Europe
 
-To continue into Italy, we travelled from Paris Gare de Lyon – on the opposite side of Paris from Gare du Nord, so travellers should allow plenty of transfer time. Our SNCF high-speed train was comfortable, though the toilets could have been cleaner. Food on board was extra, so we stocked up at the station for the seven‑hour ride. scenery was spectacular going through the alps. We timed the trip so we reached the alps at lunchtime and had good views across the valley
+To continue into Italy, we travelled from Paris Gare de Lyon – on the opposite side of Paris from Gare du Nord, so travellers should allow plenty of transfer time. Our SNCF high-speed train was comfortable, though the toilets could have been cleaner. Food on board was extra, so we stocked up at the station for the seven‑hour ride. The scenery was spectacular going through the Alps. We timed the trip so we reached the alps at lunchtime and had good views across the valley.
 
 After a smooth arrival in Milan, our connection to Porto Ceresio was easy. The regional TRENORD train was clean, modern and extremely cheap, and we arrived in the lakes about an hour after departing Milan. Our Airbnb was just 100 yards from the station, right on Lake Lugano. Travelling in September meant warm weather and very few crowds – we almost had the lake to ourselves.
 
