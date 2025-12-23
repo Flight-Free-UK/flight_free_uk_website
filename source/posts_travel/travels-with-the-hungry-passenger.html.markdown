@@ -30,9 +30,9 @@ Each of those journeys reinforced how viable long rail trips can be when you all
 
 ##### Have you ventured further afield, onto the continent this year?
 
-![](/images/uploads/stephen_plume_eurostar.jpeg)
-
 I travelled to Belgium earlier in the year. It was a useful reminder of how straightforward European rail travel can be once you commit to it, and it helped shape the direction of my second book, which focuses on European rail journeys.
+
+![](/images/uploads/stephen_plume_eurostar.jpeg "Boarding the Eurostar")
 
 ##### What has been your favourite location? 
 
@@ -42,7 +42,7 @@ It’s tough to narrow it down as I’ve visited over 100 places for my first bo
 
 Aberdeen surprised me most. I travelled up in the [seated coach on the Caledonian Sleeper](https://thehungrypassenger.com/north-by-night-taking-the-caledonian-sleeper-seat-to-scotland/) and expected a compromise. Instead, it felt like a genuinely workable alternative to flying, affordable, calm and sociable. Waking up on the coast without having gone near an airport was quietly transformative.
 
-![](/images/uploads/stephen_plume_aberdeen.jpeg)
+![](/images/uploads/stephen_plume_aberdeen.jpeg "Arrival in Aberdeen")
 
 ##### Is there one particular place that you would recommend as a convenient/straightforward destination that most people in the UK could get to quite easily?
 
