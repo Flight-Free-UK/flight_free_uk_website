@@ -8,7 +8,7 @@ summary: We chat with Stephen Plume, the Hungry Passenger, about his various
 author: FlightFree UK
 read_time_minute: 4
 ---
-*W﻿ith around [20% of people choosing a holiday destination because of the food](https://www.thesun.co.uk/travel/32864704/brits-planning-holidays-around-food/), The [Hungry Passenger](https://thehungrypassenger.com/) takes it a step further, travelling purely to find the food that is on offer. Stephen Plume sits down with us to share his travels across the UK and Europe this year.*
+*W﻿ith around [20% of people choosing a holiday destination because of the food](https://www.thesun.co.uk/travel/32864704/brits-planning-holidays-around-food/), The [Hungry Passenger](https://thehungrypassenger.com/) takes it a step further, travelling purely to enjoy the food that is on offer. Stephen Plume sits down with us to share his travels across the UK and Europe this year.*
 
 ##### Could you outline what The Hungry Passenger is all about and what you’re trying to achieve with it? 
 
@@ -32,13 +32,7 @@ I travelled to Belgium earlier in the year. It was a useful reminder of how stra
 
 ##### What has been your favourite location? Or top 3!
 
-It’s tough to narrow it down as I’ve visited over 100 places for my first book, and almost every stop has offered something memorable! Three that really stayed with me this year were Durham, Oban and Aberdeen.
-
-Durham for its walkability and sense of history right on the line.
-
-Oban for how seamlessly rail, ferry and food culture come together.
-
-Aberdeen because arriving overnight by sleeper, even in a seat, made the distance feel gentle rather than exhausting.
+It’s tough to narrow it down as I’ve visited over 100 places for my first book, and almost every stop has offered something memorable! Three that really stayed with me this year were Durham, Oban and Aberdeen. Durham for its walkability and sense of history right on the line. Oban for how seamlessly rail, ferry and food culture come together. Aberdeen because arriving overnight by sleeper, even in a seat, made the distance feel gentle rather than exhausting.
 
 ##### What has been the most surprising location?
 
