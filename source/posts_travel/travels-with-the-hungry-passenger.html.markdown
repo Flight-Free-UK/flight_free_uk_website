@@ -58,7 +58,7 @@ Book direct with operators where possible and be flexible with times.
 
 Consider overnight trains, including seated options, as they can replace both travel and accommodation.
 
-And don’t assume long distance means expensive. Some of the best value journeys I’ve done have been the longest ones.
+Don’t assume long distance means expensive. Some of the best value journeys I’ve done have been the longest ones.
 
 ##### And finally: are you still hungry??
 
