@@ -48,7 +48,9 @@ First, plan loosely rather than rigidly. Build in breathing space so a delay doe
 
 Second, pack for comfort. Water, snacks, layers and something to read make a big difference.
 
-Third, treat stations as part of the journey. Many are good places to pause, eat or reset, not just pass through. I also keep a simple, lightweight train travel kit that makes long journeys more comfortable, which I’ve shared on [The Hungry Passenger](https://thehungrypassenger.com/) for anyone who finds that useful.
+Third, treat stations as part of the journey. Many are good places to pause, eat or reset, not just pass through. 
+
+I also keep a simple, lightweight train travel kit that makes long journeys more comfortable, which I’ve shared on [The Hungry Passenger](https://thehungrypassenger.com/travel-kit-for-rail-adventures/) for anyone who finds that useful.
 
 ##### What are your best budget tips for keeping the cost down while travelling by train? UK and Europe?
 
