@@ -10,7 +10,7 @@ read_time_minute: 4
 ---
 *W﻿ith around [20% of people choosing a holiday destination because of the food](https://www.thesun.co.uk/travel/32864704/brits-planning-holidays-around-food/), The [Hungry Passenger](https://thehungrypassenger.com/) takes it a step further, travelling purely to enjoy the food that is on offer. Stephen Plume sits down with us to share his travels across the UK and Europe this year.*
 
-![](/images/uploads/stephen_plume.jpeg)
+![](/images/uploads/stephen_plume.jpeg "Stephen Plume, The Hungry Passenger")
 
 ##### Could you outline what The Hungry Passenger is all about and what you’re trying to achieve with it? 
 
