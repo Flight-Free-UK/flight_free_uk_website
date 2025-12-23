@@ -24,7 +24,7 @@ The First Class lounge at St Pancras was spotless, comfortable and not overcrowd
 
 A Stopover in Paris 
 
-Travelling by train allows us to combine it with a city break: Sue had never visited Paris, so we built in two nights to explore. Notre Dame was a highlight for her. The only issue came at Gare du Nord where we struggled to get a mobile signal to find our Uber, but the driver kindly came to locate us.
+Travelling by train allowed us to combine our holiday with a city break: Sue had never visited Paris, so we built in two nights to explore. Notre Dame was a highlight for her. The only issue came at Gare du Nord where we struggled to get a mobile signal to find our Uber, but the driver kindly came to locate us.
 
 Paris to Milan and Porto Ceresio: High-Speed Across Europe
 
