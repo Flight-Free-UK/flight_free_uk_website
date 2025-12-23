@@ -10,6 +10,8 @@ read_time_minute: 4
 ---
 *W﻿ith around [20% of people choosing a holiday destination because of the food](https://www.thesun.co.uk/travel/32864704/brits-planning-holidays-around-food/), The [Hungry Passenger](https://thehungrypassenger.com/) takes it a step further, travelling purely to enjoy the food that is on offer. Stephen Plume sits down with us to share his travels across the UK and Europe this year.*
 
+![](/images/uploads/stephen_plume.jpeg)
+
 ##### Could you outline what The Hungry Passenger is all about and what you’re trying to achieve with it? 
 
 The Hungry Passenger is about exploring places through the railway, and the food, people and small moments you find once you arrive. It began as a way of travelling more slowly and deliberately, without flying or driving, and has grown into a wider project about how rail connects communities, cultures and everyday life.
@@ -28,15 +30,19 @@ Each of those journeys reinforced how viable long rail trips can be when you all
 
 ##### Have you ventured further afield, onto the continent this year?
 
+![](/images/uploads/stephen_plume_eurostar.jpeg)
+
 I travelled to Belgium earlier in the year. It was a useful reminder of how straightforward European rail travel can be once you commit to it, and it helped shape the direction of my second book, which focuses on European rail journeys.
 
-##### What has been your favourite location? Or top 3!
+##### What has been your favourite location? 
 
 It’s tough to narrow it down as I’ve visited over 100 places for my first book, and almost every stop has offered something memorable! Three that really stayed with me this year were Durham, Oban and Aberdeen. Durham for its walkability and sense of history right on the line. Oban for how seamlessly rail, ferry and food culture come together. Aberdeen because arriving overnight by sleeper, even in a seat, made the distance feel gentle rather than exhausting.
 
 ##### What has been the most surprising location?
 
 Aberdeen surprised me most. I travelled up in the [seated coach on the Caledonian Sleeper](https://thehungrypassenger.com/north-by-night-taking-the-caledonian-sleeper-seat-to-scotland/) and expected a compromise. Instead, it felt like a genuinely workable alternative to flying, affordable, calm and sociable. Waking up on the coast without having gone near an airport was quietly transformative.
+
+![](/images/uploads/stephen_plume_aberdeen.jpeg)
 
 ##### Is there one particular place that you would recommend as a convenient/straightforward destination that most people in the UK could get to quite easily?
 
