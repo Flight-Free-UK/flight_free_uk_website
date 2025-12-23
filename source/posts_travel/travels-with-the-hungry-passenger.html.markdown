@@ -52,7 +52,7 @@ Third, treat stations as part of the journey. Many are good places to pause, eat
 
 I also keep a simple, lightweight train travel kit that makes long journeys more comfortable, which I’ve shared on [The Hungry Passenger](https://thehungrypassenger.com/travel-kit-for-rail-adventures/) for anyone who finds that useful.
 
-##### What are your best budget tips for keeping the cost down while travelling by train? UK and Europe?
+##### What are your best budget tips for keeping the cost down while travelling by train?
 
 Book direct with operators where possible and be flexible with times.
 
