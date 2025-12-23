@@ -36,7 +36,7 @@ After a smooth arrival in Milan, our connection to Porto Ceresio was easy. The r
 
 After a peaceful week, we travelled onward to Lake Como. Italian connections didn’t always appear on Trainline, so we booked through the Omio app instead. The journey was scenic and quiet. 
 
-During our stay we visited Menaggio, Bellagio and Villa del Balbianello — famous for its appearances in Casino Royale and Star Wars. We took the ferry to Menaggio and Bellagio from Como, and had to queue from 6:30 am as was still very busy in September. Next time we would probably stay in Varenna which is easily accessible by train from Milan, and then we could use the water taxis.
+During our stay we visited Menaggio, Bellagio and Villa del Balbianello — famous for its appearances in Casino Royale and Star Wars. We took the ferry to Menaggio and Bellagio from Como, and had to queue from 6:30am as was still very busy in September. Next time we would probably stay in Varenna which is easily accessible by train from Milan, and then we could use the water taxis.
 
 ###### The Journey Home
 
