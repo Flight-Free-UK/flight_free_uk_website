@@ -40,7 +40,7 @@ During our stay we visited Menaggio, Bellagio and Villa del Balbianello — famo
 
 ###### The Journey Home
 
-Our return journey was equally smooth. We spent another night in Paris before catching the Eurostar home. Travelling Standard Premier this time was still comfortable. The only delay of the entire holiday was on our Sunday service back to Euston due to reduced UK services.
+Our return journey was equally smooth. We spent another night in Paris before catching the Eurostar home. Travelling Standard Premier this time was still comfortable. The only delay of the entire holiday was on our Sunday service back from Euston due to reduced UK services.
 
 ###### What We Learned
 
