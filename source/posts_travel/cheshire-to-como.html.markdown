@@ -60,4 +60,6 @@ The journey was expensive as we bought the tickets individually, and it was much
 
 ###### Final Thoughts
 
-Travelling to the Italian Lakes by train turned out to be one of the most enjoyable, relaxing holidays we’ve ever taken. The journey became part of the adventure. Would we do it again? Absolutely – Switzerland via Brussels is next on our list.
+Travelling to the Italian Lakes by train turned out to be one of the most enjoyable, relaxing holidays we’ve ever taken. The journey became part of the adventure. 
+
+##### Would we do it again? Absolutely.
