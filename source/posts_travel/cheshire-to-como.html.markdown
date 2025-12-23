@@ -40,7 +40,7 @@ During our stay we visited Menaggio, Bellagio and Villa del Balbianello — famo
 
 ###### The Journey Home
 
-Our return journey was equally smooth. We spent another night in Paris before catching the Eurostar home. Travelling Standard Premier this time was still comfortable. The only delay of the entire holiday was on our Sunday service back from Euston due to reduced UK services.
+Our return journey was equally smooth. We spent another night in Paris before catching the Eurostar home. Travelling Standard Premier this time was comfortable. The only delay of the entire holiday was on our Sunday service back from Euston due to reduced UK services.
 
 ###### What We Learned
 
@@ -50,7 +50,7 @@ Our return journey was equally smooth. We spent another night in Paris before ca
 * Bring food for long-distance trains.
 * Use the Omio app for Italian rail bookings.
 
-The journey was expensive as we bought the tickets individually and much more expensive than flying. Next year we are planning to go to Switzerland via Brussels and the Rhine Valley. So we have bought an Interrail card in the sale which has cut the costs by half to around £350
+The journey was expensive as we bought the tickets individually, and it was much more expensive than flying. We realised that we could have halved the cost by using an Interrail pass. Next year we are planning to go to Switzerland via Brussels and the Rhine Valley, so we have bought an Interrail pass in the sale which has cut the costs to around £350.
 
 ###### Final Thoughts
 
