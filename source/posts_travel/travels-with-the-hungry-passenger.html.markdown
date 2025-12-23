@@ -36,7 +36,7 @@ It’s tough to narrow it down as I’ve visited over 100 places for my first bo
 
 ##### What has been the most surprising location?
 
-Aberdeen surprised me most. I travelled up in the seated coach on the Caledonian Sleeper and expected a compromise. Instead, it felt like a genuinely workable alternative to flying, affordable, calm and sociable. Waking up on the coast without having gone near an airport was quietly transformative.
+Aberdeen surprised me most. I travelled up in the [seated coach on the Caledonian Sleeper](https://thehungrypassenger.com/north-by-night-taking-the-caledonian-sleeper-seat-to-scotland/) and expected a compromise. Instead, it felt like a genuinely workable alternative to flying, affordable, calm and sociable. Waking up on the coast without having gone near an airport was quietly transformative.
 
 ##### Is there one particular place that you would recommend as a convenient/straightforward destination that most people in the UK could get to quite easily?
 
