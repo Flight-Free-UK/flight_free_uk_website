@@ -1,9 +1,9 @@
 ---
 published: true
-title: Travels with the Hungry Passenger
+title: Travels with The Hungry Passenger
 date: 2025-12-23T16:26:22.062Z
 cover_image: /images/uploads/food-hungry-canva.jpg
-summary: We chat with Stephen Plume, the Hungry Passenger, about his various
+summary: We chat with Stephen Plume, The Hungry Passenger, about his various
   travels in search of a good meal throughout 2025
 author: FlightFree UK
 read_time_minute: 4
