@@ -2,7 +2,7 @@
 published: true
 title: Top 10 grounded holidays
 date: 2023-01-05T17:43:23.736Z
-cover_image: /images/uploads/lake_como_canva-sq.jpg
+cover_image: /images/uploads/bellagio-como-canva.jpg
 summary: Here are 10 super suggestions for grounded adventures in both the UK and Europe
 author: FlightFree UK
 read_time_minute: 2
