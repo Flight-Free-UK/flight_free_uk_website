@@ -8,13 +8,13 @@ summary: A holiday in the Italian Lake District beckons for Cheshire couple
 author: FlightFree UK
 read_time_minute: 3
 ---
-### Travelling to Italy by train isn’t just possible – it’s one of the most relaxing and scenic ways to begin a holiday. 
+### Travelling to Italy by train isn’t just possible – it’s one of the most relaxing and scenic ways to begin a holiday.
 
 ##### This year, my wife Sue and I decided to swap airport queues for rail comforts and plan a full rail journey from our home in Cheshire to the Italian Lakes.
 
 With the help of ChatGPT to piece together routes, timings and options, we planned a two-week adventure taking in Paris, Milan, Lake Lugano, Porto Ceresio and Lake Como, all by train.
 
-Crewe to London: A Civilised Start
+###### Crewe to London: A Civilised Start
 
 Our adventure began early in the morning on the Avanti West Coast service from Crewe to London Euston. First Class was a real treat – roomy seats, a quiet carriage and breakfast served at our table as the countryside rolled by. At Euston we stretched our legs with a 15‑minute walk to St Pancras before boarding the Eurostar.
 
