@@ -42,7 +42,7 @@ The Turkish Railways High-Speed Train (YHT) from Istanbul to Ankara departed at 
 
 The Dogu Express travels all the way to Kars, the most easterly station on the European rail network, but Erzurum was the end of the line for me. From there it was a coach to Hopa, on the Turkish Black Sea coast. The scenery was again spectacular – reminiscent of Morocco in parts. 
 
-A dolmus (minibus taxi) took me the 20 minutes from Hopa to the Georgia/Turkey border, where I then had to get out and walk across. There are no cross-border buses or trains here: Turkish buses and minibuses stop on the Turkish side, and Georgian buses and marshrutkas start on the Georgian side. There’s no public transport allowed to carry passengers through the customs/immigration zone, mostly for legal and customs-control reasons. It sounds annoying, but it wasn’t: the walk only took 10 minutes, and the border is modern, well-signposted, and very used to tourists.
+A dolmus (minibus taxi) took me the 20 minutes from Hopa to the Georgia/Turkey border, where I then had to get out and walk across. There are no cross-border buses or trains here: Turkish buses and minibuses stop on the Turkish side, and Georgian buses and marshrutkas start on the Georgian side, mostly for legal and customs-control reasons. It sounds annoying, but it wasn’t: the walk only took 10 minutes, and the border is modern, well-signposted, and very used to tourists.
 
 Another minibus taxi took me to Batumi, about an hour further up the Black Sea Coast. It’s a fascinating place, a weird juxtaposition of Soviet-era apartment blocks and towering modern skyscrapers. 
 
