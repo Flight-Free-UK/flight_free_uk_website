@@ -20,7 +20,7 @@ T﻿hese are not cheap options – passage costs typically €3000-€5000 each 
 
 Y﻿ou have your own comfortable cabin, and eat with the crew every day. Bear in mind that this is a working vessel, so there's no 'organised' entertainment, and the crew will be mostly occupied with tasks at sea, but there's plenty of time to do whatever takes your fancy, or simply walk around on deck and marvel at the vastness of the ocean. It truly is a once-in-a-lifetime experience!
 
-#### TransOceanic Wind Transport (TOWT)
+**TransOceanic Wind Transport (TOWT)**
 
 [T﻿owt.eu](https://www.towt.eu/en/home/) is a French company that offers passage on its sailing cargo ships. There are currently three routes open to passengers: Le Havre to New York, Santa-Marta in Colombia, and Santos in Brazil. 
 
@@ -28,7 +28,7 @@ T﻿here is space for up to 12 passengers on each crossing. It takes 15 days to 
 
 Timetable and information is here: <https://www.towt.eu/en/home/>
 
-#### V﻿oila SailCoop 
+**V﻿oila SailCoop** 
 
 [Voila SailCoop](https://www.voilasailcoop.fr/en/the-transatlantic-home/) crosses the Atlantic once a month from Saint-Nazaire (on the French Atlantic coast near Nantes) to St Pierre and Miquelon (a French island off the coast of Newfoundland, Canada), over an 8-day journey. From there the ship continues to Baltimore in the US, taking a further 6 days. 
 
