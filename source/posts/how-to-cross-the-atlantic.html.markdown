@@ -64,7 +64,7 @@ O﻿ther companies include [Voyage Vert](https://www.voyagevert.org/project/), w
 
 ![](/images/uploads/queen-mary-2_canva.jpg)
 
-### Cruise liner
+## Cruise liner
 
 The [Queen Mary II cruise liner](https://www.cunard.com/en-gb/cruise-ships/queen-mary-2/9) is the only commercial passenger ship to offer regular Atlantic crossings. It takes around seven days to cross the Atlantic on the Queen Mary II and costs around £1000.  
 
