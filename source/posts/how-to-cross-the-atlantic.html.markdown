@@ -26,7 +26,7 @@ Y﻿ou have your own comfortable cabin, and eat with the crew every day. Bear in
 
 T﻿here is space for up to 12 passengers on each crossing. It takes 15 days to travel from Le Havre to New York, 22 days for Santa Marta and 22 days for Santos.
 
-[Timetable and information is here](https://www.towt.eu/en/home/).
+F﻿ind [timetable and information here](https://www.towt.eu/en/home/).
 
 **V﻿oila SailCoop** 
 
