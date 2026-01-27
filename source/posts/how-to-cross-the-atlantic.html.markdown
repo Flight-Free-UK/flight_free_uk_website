@@ -8,6 +8,32 @@ summary: Is it possible to cross the Atlantic without flying? We look at the opt
 author: FlightFree UK
 read_time_minute: 3
 ---
+T﻿here are lots of options for travelling without flying from Europe to North/South America. As you might expect, none are as quick or as cheap as flying. But if you have the time and money, crossing the Atlantic ocean flight-free can be a life-changing adventure as well as potentially saving a huge amount of carbon.
+
+H﻿ere are the main options.
+
+## S﻿ail cargo ships
+
+A﻿ small but growing number of companies offers passenger berths on their cargo vessels, enabling passengers to effectively hitch a ride from one continent to the other. Your personal contribution to emissions is extremely low, given that your presence on the ship is not contributing to demand, and the ships themselves are wind-powered, keeping emissions as low as is practicable.
+
+T﻿hese are not cheap options – passage costs typically €3000-€5000 each way – but that covers full board for the days spent at sea. (That's not far off business flight prices.)
+
+Y﻿ou have your own comfortable cabin, and eat with the crew every day. Bear in mind that this is a working vessel, so there's no 'organised' entertainment, and the crew will be mostly occupied with tasks at sea, but there's plenty of time to do whatever takes your fancy, or simply walk around on deck and marvel at the vastness of the ocean. It truly is a once-in-a-lifetime experience!
+
+#### TransOceanic Wind Transport (TOWT)
+
+[T﻿owt.eu](https://www.towt.eu/en/home/) is a French company that offers passage on its sailing cargo ships. There are currently three routes open to passengers: Le Havre to New York, Santa-Marta in Colombia, and Santos in Brazil. 
+
+T﻿here is space for up to 12 passengers on each crossing. It takes 15 days to travel from Le Havre to New York, 22 days for Santa Marta and 22 days for Santos.
+
+Timetable and information is here: <https://www.towt.eu/en/home/>
+
+#### V﻿oila SailCoop 
+
+[Voila SailCoop](https://www.voilasailcoop.fr/en/the-transatlantic-home/) crosses the Atlantic once a month from Saint-Nazaire (on the French Atlantic coast near Nantes) to St Pierre and Miquelon (a French island off the coast of Newfoundland, Canada), over an 8-day journey. From there the ship continues to Baltimore in the US, taking a further 6 days. 
+
+Sailings are roughly once a month and cost €3,310 for the journey to Baltimore.
+
 ![](/images/uploads/cargo-ship-canva.jpg)
 
 ### Cargo ship
@@ -37,17 +63,9 @@ We have some inspiring stories here about people who have travelled by cargo shi
 * Lewis took a [cargo ship to South America](/podcast_transcripts/podcast-interview-lewis-mcneill/) to go travelling: "A highlight was seeing the stars at night, because when else are you going to be that far from human habitation?"
 * Kate Rawles also journeyed to [South America by cargo ship](/podcast_transcripts/podcast-series-episode-4-transatlantic-travel/), at the start of an 8,000 mile bike ride through the Andes from Colombia to Cape Horn: "There are many ‘wow’ moments on a the cargo ship, like realising the size of the ocean, when you're travelling for days and days without seeing land."
 
-### S﻿ailing cargo ships: TransOceanic Wind Transport (TOWT) and Voila Sail Coop
-
-[T﻿owt.eu](https://www.towt.eu/en/home/) is a French company that offers passage on its sailing cargo ships. There are currently five routes: Le Havre to Quebec, New York, Martinique, Colombia and Brazil. 
-
-T﻿here is space for up to 12 passengers on each crossing. Timetable and information is here: <https://www.towt.eu/en/home/>
-
 ![](/images/uploads/sailing-ship_canva.jpg)
 
-[](https://www.voilasailcoop.fr/en/the-transatlantic-home/)[Voila SailCoop](https://www.voilasailcoop.fr/en/the-transatlantic-home/) crosses the Atlantic once a month from Saint-Nazaire (on the French Atlantic coast near Nantes) to St Pierre and Miquelon (a French island off the coast of Newfoundland, Canada), over an 8-day journey. From there the ship continues to Baltimore in the US, taking a further 6 days. 
-
-Sailings are roughly once a month and cost €3,310 for the journey to Baltimore.
+[](https://www.voilasailcoop.fr/en/the-transatlantic-home/)[](https://www.voilasailcoop.fr/en/the-transatlantic-home/)
 
 ### Sailing ship
 
