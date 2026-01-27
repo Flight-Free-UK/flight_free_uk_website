@@ -36,26 +36,11 @@ Sailings cost €3,310 for the journey to Baltimore.
 
 ![](/images/uploads/cargo-ship-canva.jpg)
 
-### Cargo ship
+## Cargo ship
 
 In previous years, a common way for travellers to cross the ocean flight-free was by passage on a freighter. **However, cargo ships stopped carrying passengers during Covid, and most haven’t started again.** 
 
 There is no indication of if or when the practice might start again, but here are two websites where you might find out: [www.cargoshipvoyages.com](https://www.cargoshipvoyages.com/) a﻿nd [www.cargoholidays.com](https://cargoholidays.com/cargo-ship-cruise-to-every-destination)
-
-In anticipation of this being an option in the future, here’s why travelling by cargo ship is great:
-
-* emissions are 40x lower than flying (e.g. a return flight to South America is roughly 2 tonnes CO2 per passenger, with cargo ship passage roughly 50g*) 
-* you are not adding demand to a polluting industry – the cargo ship goes whether you’re on it or not, whereas that’s not the case with aviation, which exists as a result of passengers wanting to fly (if you want to reduce the number of cargo ships in the world, buy less stuff! 90% of what we buy has come in some part via a cargo ship).
-* it’s a unique and adventurous way to travel – there’s nothing like crossing an ocean and arriving at your destination by sea. Travelling from east to west you get an extra hours’ sleep every day, and it gets warmer. Experience ocean wildlife as well as the strange world of shipping.
-* cabins are comfortable, you have meals with the crew each night, and there is time and space to do your own thing. Crews often enjoy having passengers aboard as it breaks the monotony of life at sea. 
-
-\* Mike Berners Lee calculation, cited in [Kate Rawles 'The Life Cycle, 8,000 miles on a bamboo bike'](https://www.iconbooks.com/ib-title/the-life-cycle/)
-
-Aspects that take more resilience:
-
-* you have to be incredibly flexible and wait for weeks then leave at the drop of a hat
-* the cost is high: it’s typically €100 per night (passage is around 10 nights) 
-* there’s no entertainment on board – you have to make your own!
 
 We have some inspiring stories here about people who have travelled by cargo ship: 
 
@@ -63,15 +48,15 @@ We have some inspiring stories here about people who have travelled by cargo shi
 * Lewis took a [cargo ship to South America](/podcast_transcripts/podcast-interview-lewis-mcneill/) to go travelling: "A highlight was seeing the stars at night, because when else are you going to be that far from human habitation?"
 * Kate Rawles also journeyed to [South America by cargo ship](/podcast_transcripts/podcast-series-episode-4-transatlantic-travel/), at the start of an 8,000 mile bike ride through the Andes from Colombia to Cape Horn: "There are many ‘wow’ moments on a the cargo ship, like realising the size of the ocean, when you're travelling for days and days without seeing land."
 
+C﻿argo ships aren't perfect, as the shipping industry is highly polluting, but being a passenger on one doesn't contribute to demand for the industry, so in that way, it's a lot better than flying. 
+
 ![](/images/uploads/sailing-ship_canva.jpg)
 
-[](https://www.voilasailcoop.fr/en/the-transatlantic-home/)[](https://www.voilasailcoop.fr/en/the-transatlantic-home/)
+## Sailing ship
 
-### Sailing ship
+The greenest and most adventurous option! 
 
-By far the greenest and most adventurous option! 
-
-[A﻿nother World Adventures](https://www.anotherworldadventures.com/sail-across-atlantic-ocean-transatlantic-sailing-voyages/) is a really good company offering transatlantic passages throughout the year, typically west to east in the spring, and east to west in the autumn, following the trade winds.
+[A﻿nother World Adventures](https://www.anotherworldadventures.com/sail-across-atlantic-ocean-transatlantic-sailing-voyages/) is a company offering transatlantic passages throughout the year, typically west to east in the spring, and east to west in the autumn, following the trade winds.
 
 Y﻿ou don't have to be an experienced sailor to take part, although that can help.
 
