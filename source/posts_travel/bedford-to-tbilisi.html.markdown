@@ -3,9 +3,9 @@ published: true
 title: Bedford to Tbilisi
 date: 2026-01-27T19:18:33.789Z
 cover_image: /images/uploads/tbilisi-canva.jpg
-summary: Is this the world’s longest commute? Tim starts a job in Tbilisi,
-  Georgia, travelling there over six days from Bedford – and starting with a
-  rail replacement bus, of course.
+summary: Is this the world’s longest commute? Tim has a contract in Tbilisi,
+  Georgia, and travels there over six days from Bedford – starting with a rail
+  replacement bus, of course.
 author: FlightFree UK
 read_time_minute: 6
 ---
