@@ -83,7 +83,7 @@ Our calculations show travelling from the UK to New York is around three times m
 
 ![](/images/uploads/cruise-ship_canva.jpg)
 
-### R﻿epositioning cruises
+## R﻿epositioning cruises
 
 C﻿ruise ships often need to [reposition the boat after a cruise](https://thepointsguy.com/guide/repositioning-cruises/), ready to pick up the next cohort of holiday-makers, so the cruise line will sell cabins at a discounted rate. 
 
@@ -91,6 +91,6 @@ It's a slightly cheaper and less carbon intensive way to cross the Atlantic – 
 
 T﻿he entertainment/swimming pools/restaurants won't be operational, which reduces the energy intensity of the ship, thereby reducing emissions. When fully operational, cruising is by far the most carbon-heavy way to travel – much worse than flying!
 
-### T﻿he future?
+## T﻿he future?
 
 T﻿here are several companies looking into providing mass low-carbon boat transit across the Atlantic. These include ships more like a ferry service than a cruise, with modest accommodation and entertainment options, maximising passenger numbers and minimising energy use; and sailing ships. We are keeping an eye out and will update on developments as and when they happen.
