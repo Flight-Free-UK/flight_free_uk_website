@@ -28,11 +28,11 @@ T﻿here is space for up to 12 passengers on each crossing. It takes 15 days to 
 
 F﻿ind [timetable and information here](https://www.towt.eu/en/home/).
 
-**V﻿oila SailCoop** 
+**N﻿eoline/SailCoop** 
 
-[Voila SailCoop](https://www.voilasailcoop.fr/en/the-transatlantic-home/) crosses the Atlantic once a month from Saint-Nazaire (on the French Atlantic coast near Nantes) to St Pierre and Miquelon (a French island off the coast of Newfoundland, Canada), over an 8-day journey. From there the ship continues to Baltimore in the US, taking a further 6 days. 
+[Voila SailCoop](https://www.voilasailcoop.fr/en/the-transatlantic-home/) has partnered with a Nantes-based shipping company to offer regular transit across the Atlantic. Sailings are once a month from Saint-Nazaire (on the French Atlantic coast near Nantes) to St Pierre and Miquelon (a French island off the coast of Newfoundland, Canada), over an 8-day journey. From there the ship continues to Baltimore in the US, taking a further 6 days. 
 
-Sailings are roughly once a month and cost €3,310 for the journey to Baltimore.
+Sailings cost €3,310 for the journey to Baltimore.
 
 ![](/images/uploads/cargo-ship-canva.jpg)
 
