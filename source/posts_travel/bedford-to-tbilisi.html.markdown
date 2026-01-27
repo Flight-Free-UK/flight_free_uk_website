@@ -44,7 +44,7 @@ The Dogu Express travels all the way to Kars, the most easterly station on the E
 
 A dolmus (minibus taxi) took me the 20 minutes from Hopa to the Georgia/Turkey border, where I then had to get out and walk across. There are no cross-border buses or trains here: Turkish buses and minibuses stop on the Turkish side, and Georgian buses and marshrutkas start on the Georgian side. There’s no public transport allowed to carry passengers through the customs/immigration zone, mostly for legal and customs-control reasons. It sounds annoying, but it wasn’t: the walk only took 10 minutes, and the border is modern, well-signposted, and very used to tourists.
 
- Another minibus taxi took me to Batumi, about an hour further up the Black Sea Coast. It’s a fascinating place, a weird juxtaposition of Soviet-era apartment blocks and towering modern skyscrapers. 
+Another minibus taxi took me to Batumi, about an hour further up the Black Sea Coast. It’s a fascinating place, a weird juxtaposition of Soviet-era apartment blocks and towering modern skyscrapers. 
 
 The intention had been to take a train to Tbilisi that day to finish the commute, but as with all good stories, there's a twist. I’d arrived on the only weekend where no trains were running, and I’d missed the last bus, so it was a night and a day in Batumi before I could get the next train to Tbilisi, Georgia, departing at 40 minutes past midnight (there’s a song in there somewhere). I arrived in Tbilisi at 6am the next morning – seven days to the minute since leaving London on the Eurostar. That felt like a nice symmetry.
 
