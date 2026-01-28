@@ -9,6 +9,8 @@ summary: We examine how aviation relates to climate change, and why addressing
 author: FlightFree UK
 read_time_minute: 3
 ---
+*Sources and s﻿tatistics updated Jan 2026*
+
 ## It’s commonly quoted that aviation is responsible for just 2% of global emissions, therefore we shouldn’t worry about it.
 
 #### Is that correct? Just how bad are aviation emissions?
@@ -31,13 +33,13 @@ For example, depending on where you’re flying to, one flight could equal a yea
 
 Here are some figures for comparison:
 
-* H﻿eating your home for a year: [2.7 tonnes CO2](https://citu.co.uk/citu-live/what-is-the-carbon-footprint-of-a-house) = a return flight to LA (2.69 tonnes CO2)
-* E﻿ating meat for a year: [2.06 tonnes CO2](https://flightfree.co.uk/post/is-it-better-to-be-vegan-or-give-up-flying/) = a return flight to Mumbai (2 tonnes CO2)
-* D﻿riving a car for a year: 1.73 tonnes CO2 = a return flight to New York (1.75 tonnes CO2)
+* H﻿eating your home for a year: [2.2 tonnes CO2](https://www.theecoexperts.co.uk/news/average-carbon-footprint-uk) = a return flight to LA (2.24 tonnes CO2)
+* E﻿ating meat for a year: [2.06 tonnes CO2](https://flightfree.co.uk/post/is-it-better-to-be-vegan-or-give-up-flying/) = a return flight to Dhaka (2.03 tonnes CO2)
+* D﻿riving a car for a year: 1.47 tonnes CO2 = a return flight to New York (1.41 tonnes CO2)
 
 *All flight emissions data is from [flightemissionmap.org](https://www.flightemissionmap.org/), accurate at time of publication*
 
-![](/images/uploads/bar_chart.jpg)
+![](/images/uploads/bar-chart-2026-update.jpg)
 
 Multiple flights very quickly add up, so if you are taking several flights per year, they could easily contribute half or more of your carbon footprint.
 
