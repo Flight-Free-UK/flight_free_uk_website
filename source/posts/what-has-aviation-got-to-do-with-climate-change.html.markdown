@@ -35,7 +35,7 @@ Here are some figures for comparison:
 
 * H﻿eating your home for a year: [2.2 tonnes CO2](https://www.theecoexperts.co.uk/news/average-carbon-footprint-uk) = a return flight to LA (2.24 tonnes CO2)
 * E﻿ating meat for a year: [2.06 tonnes CO2](https://flightfree.co.uk/post/is-it-better-to-be-vegan-or-give-up-flying/) = a return flight to Dhaka (2.03 tonnes CO2)
-* D﻿riving a car for a year: 1.47 tonnes CO2 = a return flight to New York (1.41 tonnes CO2)
+* D﻿riving a car for a year: [1.47 tonnes CO2](https://www.nimblefins.co.uk/average-co2-emissions-car-uk) = a return flight to New York (1.41 tonnes CO2)
 
 *All flight emissions data is from [flightemissionmap.org](https://www.flightemissionmap.org/), accurate at time of publication*
 
