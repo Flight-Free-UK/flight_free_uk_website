@@ -49,9 +49,10 @@ When we consider that the recommended sustainable footprint is just 2.3 tonnes p
 
 #### If we are to move to a low-carbon society, cutting out non-essential sources of emissions will be vital, and for most people, that’s flights.
 
-*Calculations for chart (all sources accessed Feb 2021):*
+*Calculations for chart (all sources accessed Jan 2026):*
 
 * *Flight emissions from [flightemissionmap.org](http://flightemissionmap.org)*
+* *H﻿eating emissions from [theecoexperts.co.uk/news/average-carbon-footprint-uk](https://www.theecoexperts.co.uk/news/average-carbon-footprint-uk)*
 * *Average meat consumption in the UK = [85g per day](https://www.bbc.co.uk/news/explainers-59232599), 85g meat per day generates [5.63kg CO2](https://ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), x 365 = 2.06 tonnes per year*
 * *Driving emissions from [nimblefins.co.uk/average-co2-emissions-car-uk](http://nimblefins.co.uk/average-co2-emissions-car-uk)*
 * *Lightbulb emissions from [energysavingtrust.org.uk/advice/lighting](http://energysavingtrust.org.uk/advice/lighting)*
