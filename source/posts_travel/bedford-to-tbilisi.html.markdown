@@ -15,15 +15,31 @@ The construction company I work for got a contract in Tbilisi, Georgia, so organ
 
 With the invaluable help of the [Man in Seat 61](https://www.seat61.com/), I worked out my six-day commute:
 
-* Eurostar London to Amsterdam
-* Nightjet sleeper train Amsterdam to Munich
+D﻿ay one:
+
+* Eurostar London to Amsterdam, Nightjet sleeper train to Munich
+
+D﻿ay two:
+
 * Flixbus Munich to Sofia
+
+D﻿ay three:
+
 * Flixbus Sofia to Istanbul
+
+D﻿ay four:
+
 * YHT (Yüksek Hızlı Treni) Istanbul to Ankara
 * Dogu Express Ankara to Erzurum
+
+D﻿ay five:
+
 * Coach Erzurum to Hopa
 * Dolmus (minibus taxi) Hopa to Georgian border, walk across the border 
 * Minibus taxi to Batumi 
+
+D﻿ay six:
+
 * Train Batumi to Tbilisi
 
 The journey started in Bedford, but I didn’t trust Thameslink to get me to St Pancras in time for the morning Eurostar departure, so I came down the night before and stayed in a hostel. Inevitably the journey started on a rail-replacement bus service to Hitchin – thanks Thameslink! 
