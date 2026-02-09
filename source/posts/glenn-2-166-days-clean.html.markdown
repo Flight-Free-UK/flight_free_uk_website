@@ -27,11 +27,7 @@ I have choices about my own behaviour. I believe the system needs to change fund
 
 I don’t miss it. I find it harder over time to understand how so many people cope with the cognitive dissonance of flying, given the apparent concern over climate change and social inequality. I’ve still contributed to international events as a speaker, doing so remotely, although it’s frustrating when international in-person-only events make no accommodation for remote contributions. 
 
-I do wonder if I’m a ‘never ever fly again’ person or whether I need to follow the advice of a non-flying friend and allow myself a flight every few years in case of importance for loved ones. Easy for me perhaps at my career stage not to fly. Less so for others who still seek
-
-international experience or feel the obligation to travel to far-flung conferences
-
-because it helps career advancement.
+I do wonder if I’m a ‘never ever fly again’ person or whether I need to follow the advice of a non-flying friend and allow myself a flight every few years in case of importance for loved ones. Easy for me perhaps at my career stage not to fly. Less so for others who still seek international experience or feel the obligation to travel to far-flung conferences because it helps career advancement.
 
 If our family goes on holiday abroad together this year it will be to a destination I can reach by train in a couple of days, while they fly there – my choice and their choice. We’ve done this a few times. I can confirm that it is a lot cheaper per person to fly than to go by train. Something isn’t right with the system.
 
