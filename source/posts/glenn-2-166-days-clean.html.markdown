@@ -38,3 +38,5 @@ P.S. On my last flight I watched The Eleventh Hour, a 2007 documentary about the
 “So what if we choose to eradicate ourselves from the earth? Whatever it means, the earth goes nowhere. And in time it will regenerate. And all the lakes will be pristine; the rivers, the waters, the mountains - everything will be green again. It will be peaceful. There may not be people. But the earth will regenerate. And you know why? Because the earth has all the time in the world. And we don’t”.
 
 I encourage you to watch it if you get the chance – if you do, see if you still have the conscience afterwards to subscribe to a business as usual society driven by consumption, profit and growth.
+
+![](/images/uploads/glenn-2166-days-clean.jpg)
