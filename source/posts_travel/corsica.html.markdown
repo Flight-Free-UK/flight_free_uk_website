@@ -1,6 +1,6 @@
 ---
 published: true
-title: Corsica
+title: Oxford to Corsica
 date: 2023-05-29T16:32:11.293Z
 cover_image: /images/uploads/ajaccio-corsica_canva.jpg
 summary: For a slightly more adventurous holiday, how about a ferry and train

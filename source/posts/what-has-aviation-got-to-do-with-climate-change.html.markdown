@@ -9,6 +9,8 @@ summary: We examine how aviation relates to climate change, and why addressing
 author: FlightFree UK
 read_time_minute: 3
 ---
+*Sources and s﻿tatistics updated Jan 2026*
+
 ## It’s commonly quoted that aviation is responsible for just 2% of global emissions, therefore we shouldn’t worry about it.
 
 #### Is that correct? Just how bad are aviation emissions?
@@ -31,13 +33,13 @@ For example, depending on where you’re flying to, one flight could equal a yea
 
 Here are some figures for comparison:
 
-* H﻿eating your home for a year: [2.7 tonnes CO2](https://citu.co.uk/citu-live/what-is-the-carbon-footprint-of-a-house) = a return flight to LA (2.69 tonnes CO2)
-* E﻿ating meat for a year: [2.06 tonnes CO2](https://flightfree.co.uk/post/is-it-better-to-be-vegan-or-give-up-flying/) = a return flight to Mumbai (2 tonnes CO2)
-* D﻿riving a car for a year: 1.73 tonnes CO2 = a return flight to New York (1.75 tonnes CO2)
+* H﻿eating your home for a year: [2.2 tonnes CO2](https://www.theecoexperts.co.uk/news/average-carbon-footprint-uk) = a return flight to LA (2.24 tonnes CO2)
+* E﻿ating meat for a year: [2.06 tonnes CO2](https://flightfree.co.uk/post/is-it-better-to-be-vegan-or-give-up-flying/) = a return flight to Dhaka (2.03 tonnes CO2)
+* D﻿riving a car for a year: [1.47 tonnes CO2](https://www.nimblefins.co.uk/average-co2-emissions-car-uk) = a return flight to New York (1.41 tonnes CO2)
 
 *All flight emissions data is from [flightemissionmap.org](https://www.flightemissionmap.org/), accurate at time of publication*
 
-![](/images/uploads/bar_chart.jpg)
+![](/images/uploads/bar-chart-2026-update.jpg)
 
 Multiple flights very quickly add up, so if you are taking several flights per year, they could easily contribute half or more of your carbon footprint.
 
@@ -47,9 +49,10 @@ When we consider that the recommended sustainable footprint is just 2.3 tonnes p
 
 #### If we are to move to a low-carbon society, cutting out non-essential sources of emissions will be vital, and for most people, that’s flights.
 
-*Calculations for chart (all sources accessed Feb 2021):*
+*Calculations for chart (all sources accessed Jan 2026):*
 
 * *Flight emissions from [flightemissionmap.org](http://flightemissionmap.org)*
+* *H﻿eating emissions from [theecoexperts.co.uk/news/average-carbon-footprint-uk](https://www.theecoexperts.co.uk/news/average-carbon-footprint-uk)*
 * *Average meat consumption in the UK = [85g per day](https://www.bbc.co.uk/news/explainers-59232599), 85g meat per day generates [5.63kg CO2](https://ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), x 365 = 2.06 tonnes per year*
 * *Driving emissions from [nimblefins.co.uk/average-co2-emissions-car-uk](http://nimblefins.co.uk/average-co2-emissions-car-uk)*
 * *Lightbulb emissions from [energysavingtrust.org.uk/advice/lighting](http://energysavingtrust.org.uk/advice/lighting)*

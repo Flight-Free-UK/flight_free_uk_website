@@ -8,28 +8,39 @@ summary: Is it possible to cross the Atlantic without flying? We look at the opt
 author: FlightFree UK
 read_time_minute: 3
 ---
+T﻿here are lots of options for travelling without flying from Europe to North/South America. As you might expect, none are as quick or as cheap as flying. But if you have the time and money, crossing the Atlantic ocean flight-free can be a life-changing adventure as well as potentially saving a huge amount of carbon.
+
+H﻿ere are the main options.
+
+## S﻿ail cargo ships
+
+A﻿ small but growing number of companies offers passenger berths on their cargo vessels, enabling passengers to effectively hitch a ride from one continent to the other. Your personal contribution to emissions is extremely low, given that your presence on the ship is not contributing to demand, and the ships themselves are wind-powered, keeping emissions as low as is practicable.
+
+T﻿hese are not cheap options – passage costs typically €3000-€5000 each way – but that covers full board for the days spent at sea. (That's not far off business flight prices.)
+
+Y﻿ou have your own comfortable cabin, and eat with the crew every day. Bear in mind that this is a working vessel, so there's no 'organised' entertainment, and the crew will be mostly occupied with tasks at sea, but there's plenty of time to do whatever takes your fancy, or simply walk around on deck and marvel at the vastness of the ocean. It truly is a once-in-a-lifetime experience!
+
+**TransOceanic Wind Transport (TOWT)**
+
+[T﻿owt.eu](https://www.towt.eu/en/home/) is a French company that offers passage on its sailing cargo ships. There are currently three routes open to passengers: Le Havre to New York, Santa-Marta in Colombia, and Santos in Brazil. 
+
+T﻿here is space for up to 12 passengers on each crossing. It takes 15 days to travel from Le Havre to New York, 22 days for Santa Marta and 22 days for Santos.
+
+F﻿ind [timetable and information here](https://www.towt.eu/en/home/).
+
+**N﻿eoline/SailCoop** 
+
+[Voila SailCoop](https://www.voilasailcoop.fr/en/the-transatlantic-home/) has partnered with a Nantes-based shipping company to offer regular transit across the Atlantic. Sailings are once a month from Saint-Nazaire (on the French Atlantic coast near Nantes) to St Pierre and Miquelon (a French island off the coast of Newfoundland, Canada), over an 8-day journey. From there the ship continues to Baltimore in the US, taking a further 6 days. 
+
+Sailings cost €3,310 for the journey to Baltimore.
+
 ![](/images/uploads/cargo-ship-canva.jpg)
 
-### Cargo ship
+## Cargo ship
 
 In previous years, a common way for travellers to cross the ocean flight-free was by passage on a freighter. **However, cargo ships stopped carrying passengers during Covid, and most haven’t started again.** 
 
 There is no indication of if or when the practice might start again, but here are two websites where you might find out: [www.cargoshipvoyages.com](https://www.cargoshipvoyages.com/) a﻿nd [www.cargoholidays.com](https://cargoholidays.com/cargo-ship-cruise-to-every-destination)
-
-In anticipation of this being an option in the future, here’s why travelling by cargo ship is great:
-
-* emissions are 40x lower than flying (e.g. a return flight to South America is roughly 2 tonnes CO2 per passenger, with cargo ship passage roughly 50g*) 
-* you are not adding demand to a polluting industry – the cargo ship goes whether you’re on it or not, whereas that’s not the case with aviation, which exists as a result of passengers wanting to fly (if you want to reduce the number of cargo ships in the world, buy less stuff! 90% of what we buy has come in some part via a cargo ship).
-* it’s a unique and adventurous way to travel – there’s nothing like crossing an ocean and arriving at your destination by sea. Travelling from east to west you get an extra hours’ sleep every day, and it gets warmer. Experience ocean wildlife as well as the strange world of shipping.
-* cabins are comfortable, you have meals with the crew each night, and there is time and space to do your own thing. Crews often enjoy having passengers aboard as it breaks the monotony of life at sea. 
-
-\* Mike Berners Lee calculation, cited in [Kate Rawles 'The Life Cycle, 8,000 miles on a bamboo bike'](https://www.iconbooks.com/ib-title/the-life-cycle/)
-
-Aspects that take more resilience:
-
-* you have to be incredibly flexible and wait for weeks then leave at the drop of a hat
-* the cost is high: it’s typically €100 per night (passage is around 10 nights) 
-* there’s no entertainment on board – you have to make your own!
 
 We have some inspiring stories here about people who have travelled by cargo ship: 
 
@@ -37,19 +48,15 @@ We have some inspiring stories here about people who have travelled by cargo shi
 * Lewis took a [cargo ship to South America](/podcast_transcripts/podcast-interview-lewis-mcneill/) to go travelling: "A highlight was seeing the stars at night, because when else are you going to be that far from human habitation?"
 * Kate Rawles also journeyed to [South America by cargo ship](/podcast_transcripts/podcast-series-episode-4-transatlantic-travel/), at the start of an 8,000 mile bike ride through the Andes from Colombia to Cape Horn: "There are many ‘wow’ moments on a the cargo ship, like realising the size of the ocean, when you're travelling for days and days without seeing land."
 
-### TransOceanic Wind Transport (TOWT)
-
-[T﻿owt.eu](https://www.towt.eu/en/home/) is a French company that offers passage on its sailing cargo ships. There are currently five routes: Le Havre to Quebec, New York, Martinique, Colombia and Brazil. 
-
-T﻿here is space for up to 12 passengers on each crossing. Timetable and information is here: <https://www.towt.eu/en/home/>
+C﻿argo ships aren't perfect, as the shipping industry is highly polluting, but being a passenger on one doesn't contribute to demand for the industry, so in that way, it's a lot better than flying. 
 
 ![](/images/uploads/sailing-ship_canva.jpg)
 
-### Sailing ship
+## Sailing ship
 
-By far the greenest and most adventurous option! 
+The greenest and most adventurous option! 
 
-[A﻿nother World Adventures](https://www.anotherworldadventures.com/sail-across-atlantic-ocean-transatlantic-sailing-voyages/) is a really good company offering transatlantic passages throughout the year, typically west to east in the spring, and east to west in the autumn, following the trade winds.
+[A﻿nother World Adventures](https://www.anotherworldadventures.com/sail-across-atlantic-ocean-transatlantic-sailing-voyages/) is a company offering transatlantic passages throughout the year, typically west to east in the spring, and east to west in the autumn, following the trade winds.
 
 Y﻿ou don't have to be an experienced sailor to take part, although that can help.
 
@@ -57,7 +64,7 @@ O﻿ther companies include [Voyage Vert](https://www.voyagevert.org/project/), w
 
 ![](/images/uploads/queen-mary-2_canva.jpg)
 
-### Cruise liner
+## Cruise liner
 
 The [Queen Mary II cruise liner](https://www.cunard.com/en-gb/cruise-ships/queen-mary-2/9) is the only commercial passenger ship to offer regular Atlantic crossings. It takes around seven days to cross the Atlantic on the Queen Mary II and costs around £1000.  
 
@@ -76,14 +83,14 @@ Our calculations show travelling from the UK to New York is around three times m
 
 ![](/images/uploads/cruise-ship_canva.jpg)
 
-### R﻿epositioning cruises
+## R﻿epositioning cruises
 
 C﻿ruise ships often need to [reposition the boat after a cruise](https://thepointsguy.com/guide/repositioning-cruises/), ready to pick up the next cohort of holiday-makers, so the cruise line will sell cabins at a discounted rate. 
 
-It's a slightly cheaper and less carbon intensive way to cross the Atlantic – arguably the boat is going anyway so you're not responsible for the emissions from the ship itself, just for what you use on board.
+It's a slightly cheaper and less carbon intensive way to cross the Atlantic – arguably the boat is going anyway so you're not responsible for the emissions from the ship itself, just for what you use on board. 
 
 T﻿he entertainment/swimming pools/restaurants won't be operational, which reduces the energy intensity of the ship, thereby reducing emissions. When fully operational, cruising is by far the most carbon-heavy way to travel – much worse than flying!
 
-### T﻿he future?
+## T﻿he future?
 
 T﻿here are several companies looking into providing mass low-carbon boat transit across the Atlantic. These include ships more like a ferry service than a cruise, with modest accommodation and entertainment options, maximising passenger numbers and minimising energy use; and sailing ships. We are keeping an eye out and will update on developments as and when they happen.
