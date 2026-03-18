@@ -7,8 +7,10 @@ build
 assets/build
 functions/build
 
-# Local Netlify folder
+# Local Netlify folder and Deno lockfile
 .netlify
+deno.lock
+
 # Local variables to match environment vars
 .env
 
