@@ -30,7 +30,7 @@ Most departments have adapted well, and found close-to-home locations that work 
 
 Replacing long-haul trips with short-haul coach travel has enabled more students to take part, especially those from low-income backgrounds.
 
-It has been a significant challenge for the Spanish department, because UK-Spain is a long overland journey. At first, the department took the ferry from Portsmouth to Santander, but this was not a pleasant experience for anyone, so they now take the coach all the way. It’s a 24 hour coach journey which is tiring for the staff and the students, although they mostly find it enjoyable.
+It has been a significant challenge for the Spanish department, because UK-Spain is a long overland journey. At first, the department took the ferry from Portsmouth to Santander, but the 48-hour ferry journey was extremely challenging for the students, so they now take the coach all the way. It’s a 24 hour coach journey which is tiring for the staff and the students, although they mostly find it enjoyable.
 
 ##### The Flight Free Schools programme helps schools reduce or remove air travel for school trips, with three levels of involvement: bronze, silver and gold. Flight Free UK can help the schools plan flight-free trips, and help to communicate to the wider school community the benefits of travelling without flying.
 
