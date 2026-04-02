@@ -15,7 +15,7 @@ read_time_minute: 3
 
 #### The decision to stop taking flights
 
-The college decided to stop taking flights because it was the quickest and most effective way to reach their carbon reduction targets. Flights for trips made up 11% of the college’s overall emissions, which is more than electricity use or gas use over the course of a year. It was the logical decision to remove flight entirely. 
+The college decided to stop taking flights because it was the quickest and most effective way to reach their carbon reduction targets. An analysis of the college-wide carbon footprint showed that flights for trips made up 11% of the college’s overall emissions, which is more than electricity use or gas use over the course of a year. Removing flights from trips made sense as an easy way to significantly reduce emissions.
 
 #### Replacing long-haul trips with travel closer to home
 
