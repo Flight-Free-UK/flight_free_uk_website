@@ -15,7 +15,7 @@ read_time_minute: 3
 
 Here are our top policies for a UK government to adopt, to help get a grip on emissions from aviation.
 
-#### 1. A moratorium on airport expansion
+#### 1. No airport expansion
 
 A﻿cross the UK, 20 airports have expansion plans. Each one claims the expansion will fit within our emissions reduction goals, even though the plans would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/), c﻿ontributing [a further 9 mega-tonnes of CO2 annually](https://www.aef.org.uk/campaigns/challenging-airport-expansion/) into the atmosphere.
 
