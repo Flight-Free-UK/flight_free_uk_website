@@ -33,7 +33,7 @@ T﻿he government could easily introduce a tax on fuel for domestic flights (it'
 
 T﻿axing aviation fuel would help level the playing field with alternative forms of transport, and it's estimated that it would cut both [passenger numbers and emissions by 11%](https://www.ft.com/content/1ce24798-733b-11e9-bbfb-5c68069fbd15).
 
-#### 3. A levy on frequent flyers
+#### 3. Frequent flyer tax
 
 A﻿ small number of people take the majority of flights: [70% of flights in the UK are taken by just 15% of the population](https://fullfact.org/economy/do-15-people-take-70-flights/). Introducing a frequent flyer levy would both incentivise people to fly less as well as ensuring that the polluter pays.
 
