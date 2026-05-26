@@ -109,7 +109,7 @@ A return flight from London Stansted to Bilbao generates 160kg CO2 per passenger
 
 #### Time well spent
 
-It's a much longer journey by train: you're looking at around 10-12 hours for northern Spain, and a day and a half for southern Spain. When compared to a 2 or 3 hour flight, that sounds a lot – though don’t forget, flight times at least double when you add check-in times, baggage claim and airport transfers.
+It's a much longer journey by train: you're looking at around 10-12 hours for northern Spain, and two days for southern Spain. When compared to a 2 or 3 hour flight, that sounds a lot – though don’t forget, flight times at least double when you add check-in times, baggage claim and airport transfers.
 
 But travelling by train allows the journey to become part of the holiday, and it’s a far more enjoyable experience. It can also be much more pleasant if you are travelling as a family. Security and passport control by train is a much easier process, and the only limit to your luggage is how much you're physically able to carry.
 
@@ -121,7 +121,11 @@ There’s no denying there are some dirt-cheap flights out there. They can be ha
 
 With the train, it is often the Eurostar that makes up the bulk of that cost. It's possible to get a TGV ticket from Paris to the border with Spain for €30 or less. It's also worth looking at a day or two either side of the day you intend to travel, as prices can vary depending on the day of the week, e.g. Thursdays are often cheaper than Fridays.
 
-#### Booking and further information
+#### Tips, booking and further information
+
+I﻿n many Spanish towns and cities, there is a separate station for high speed and local services, so make sure you are at the right one.
+
+I﻿f travelling high-speed, you will need to pass your luggage through the x-ray scanner. It hardly takes any time, but be prepared. 
 
 The encylopaedic website [The Man in Seat 61](https://www.seat61.com) gives extensive information on how to travel to all parts of Spain, how to buy tickets, likely cost, and advice for interchanges. 
 
