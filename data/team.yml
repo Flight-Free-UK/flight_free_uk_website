@@ -8,55 +8,20 @@ members:
     name: Anna Hughes
     photo: /images/uploads/anna.jpeg
     role: Director
-  - name: Chantelle Brett
-    role: Communications Officer (job share)
-    photo: /images/uploads/chantelle-brett.jpg
-    bio: Hastings-based Chantelle brings her experience of marketing, graphic design
-      and social media management to our Comms team. She is passionate about
-      sustainability and exploring new ways of experiencing the world. A
-      favourite flight-free adventure was a coach journey from London to Paris,
-      on to Toulouse and Barcelona, then back through Paris to London.
   - name: Gully Bujak
-    role: Communications Officer (job share)
+    role: Communications Officer
     photo: /images/uploads/gully-bujak.jpg
     bio: Gully is a community organiser and freelance writer based in Hull. She is
       passionate about the power of words and storytelling to inspire us to
       imagine new ways of living together on this finite planet. Her dream
       flight free trip would be to the US, to visit the immense landscapes and
       learn from the community organising going there.
-  - name: Jasmine Ho
-    role: Social Media Assistant
-    bio: Environmental Science graduate Jasmine studied at Leeds University, where
-      she campaigned for climate justice with Student Rebellion. Now based in
-      Bedfordshire, she is passionate about driving social change through small
-      actions that create meaningful impact. Her dream flight-free trip would be
-      to visit Bosnia and take a cable car to the Sarajevo Olympic Bobsleigh and
-      Luge Track.
-    photo: /images/uploads/jasmine-ho.jpg
-  - name: Jessica Shearing
-    role: Social Media assistant
-    bio: Currently working at a busy restaurant in Southampton, Jessica is excited
-      to start her bachelor's degree in Environmental Science at Plymouth
-      University in late 2026. She likes litter-picking and going for walks in
-      the local forest, and her dream flight free adventure would be to travel
-      to Bari in Southern Italy, via multiple trains and coaches.
-    photo: /images/uploads/jessica.jpg
-  - name: Maddy De Marchis
-    role: Events Manager
-    bio: "Based in Aberystwyth, West Wales, self-confessed ‘nature nerd’ Maddy is
-      happiest when by, on, or in the sea. She loves spending time outdoors
-      exploring the wonderful nature we have in the UK, as well as travelling
-      when the journey is just as exciting as the destination. Her favourite
-      flight free adventure was from London to Tenerife, which involved buses,
-      trains and a ferry from Spain down to the Canary Islands. "
-    photo: /images/uploads/maddy-de-marchis.jpg
   - name: Matilda Palmer
-    role: Social media and admin intern
-    bio: Matilda works for an online vintage and antique jewellery shop in
-      Hampshire. She is passionate about travel infrastructure to give people
-      more opportunities to travel greener, and enjoys local conservation and
-      litter picking in her spare time. A dream flight-free trip would be to the
-      north coast of Spain via ferry.
+    role: Events Manager
+    bio: Matilda lives in Hampshire and enjoys local conservation and litter picking
+      in her spare time. She is passionate about travel infrastructure to give
+      people more opportunities to travel greener. A dream flight-free trip
+      would be to the north coast of Spain via ferry.
     photo: /images/uploads/matilda_palmer.jpeg
   - name: Sarah Hopewell
     role: Finance volunteer

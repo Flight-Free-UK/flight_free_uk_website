@@ -15,7 +15,7 @@ read_time_minute: 3
 
 Here are our top policies for a UK government to adopt, to help get a grip on emissions from aviation.
 
-#### 1. A moratorium on airport expansion
+#### 1. No airport expansion
 
 A﻿cross the UK, 20 airports have expansion plans. Each one claims the expansion will fit within our emissions reduction goals, even though the plans would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/), c﻿ontributing [a further 9 mega-tonnes of CO2 annually](https://www.aef.org.uk/campaigns/challenging-airport-expansion/) into the atmosphere.
 
@@ -33,7 +33,7 @@ T﻿he government could easily introduce a tax on fuel for domestic flights (it'
 
 T﻿axing aviation fuel would help level the playing field with alternative forms of transport, and it's estimated that it would cut both [passenger numbers and emissions by 11%](https://www.ft.com/content/1ce24798-733b-11e9-bbfb-5c68069fbd15).
 
-#### 3. A levy on frequent flyers
+#### 3. Frequent flyer tax
 
 A﻿ small number of people take the majority of flights: [70% of flights in the UK are taken by just 15% of the population](https://fullfact.org/economy/do-15-people-take-70-flights/). Introducing a frequent flyer levy would both incentivise people to fly less as well as ensuring that the polluter pays.
 
