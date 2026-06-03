@@ -4,24 +4,22 @@ title: The great British holiday
 category: opinion
 date: 2019-06-10T14:32:52.868Z
 cover_image: /images/uploads/waves.jpg
-summary: Flight Free campaigner Anna Hughes contemplates if asking people to fly
-  less will mean an end to foreign holidays
+summary: Flight Free UK director Anna Hughes contemplates if asking people to
+  fly less will mean an end to foreign holidays
 author: FlightFree UK
 read_time_minute: 4
 ---
-
-
 ### There’s only one word for it: bracing. It takes a certain character to swim in the North Sea.
 
-Feet lose feeling quickly; it’s your body’s way of saying they are expendable. The surf is high and I’m smacked in the face several times before giving up. My skin shivers as I rub myself dry. There’s sand everywhere. A red rash is spreading across my chest. Goosebumps rise up my arms. The *Costa del Sol* it is not.
+##### Feet lose feeling quickly; it’s your body’s way of saying they are expendable. The surf is high and I’m smacked in the face several times before giving up. My skin shivers as I rub myself dry. There’s sand everywhere. A red rash is spreading across my chest. Goosebumps rise up my arms. The *Costa del Sol* it is not.
 
 I’m in Scarborough, a once thriving seaside town that drew holiday-makers from all over the country. Now, on this unseasonably cold June day, it has an air of sorrow about it. The penny arcade music rings out on to empty streets. The once-splendid facades are worn. Yesterday evening it poured with rain and I hurried to my guest room with my coat zipped high against the weather. Even in the height of summer, walking around in your bikini sipping cocktails is probably not going to happen.
 
-#### It causes me to reflect on the Flight Free campaign. What exactly are we asking of people? Never to go on a foreign holiday again? To suffer UK holidays for the rest of time?
+##### It causes me to reflect on the Flight Free UK pledge. What exactly are we asking of people? Never to go on a foreign holiday again? To suffer UK holidays for the rest of time?
 
 I’m being provocative, of course. The UK is an incredible holiday destination: we have palm trees and crystal clear turquoise seas in Cornwall. The New Forest could be mistaken for the Black Forest. The passes of the Lake District are reminiscent of the Alps. And our seaside resorts, while not as vibrant as they once were, still have that age-old charm with their promenades, piers, brightly-coloured beach huts and long sandy stretches. There is as much variety in this country as anywhere in the world – a phenomenal coastline with seas that swell, pound and roar as much as they shimmer and sigh; mountains; woodland; seclusion; city lights. 
 
-> "There is as much variety in this country as anywhere in the world – a phenomenal coastline with seas that swell, pound and roar."
+> There is as much variety in this country as anywhere in the world – a phenomenal coastline with seas that swell, pound and roar.
 
 But even then, the campaign is not about limiting us to these shores. When we think of international travel the default seems to be to fly. But not flying doesn’t mean not travelling. We are so lucky with Europe – everything is under our noses. Most cities in Europe are easily accessible by train. The beaches of Spain, Portugal and southern France are a train ride or a boat trip away. For those on a budget, long-distance coaches go to locations as diverse as Malaga and Copenhagen. The islands of the Mediterranean can be reached in a couple of days. 
 
@@ -33,7 +31,7 @@ Because the simple truth is, you can’t put the genie back in the bottle. Fligh
 
 Now we have seen the jewels in the Phuket crown, tasted the sweet nectar of Jamaica, we can’t pretend it doesn’t exist, or imagine it isn’t desirable. And in many cases, we don’t just want this, we need it. In our global society many of us have relatives in far off lands.
 
-> "Flight allows us to traverse this earth in a way that nothing else can. We can’t pretend it doesn’t exist, or imagine it isn’t desirable."
+> Flight allows us to traverse this earth in a way that nothing else can. We can’t pretend it doesn’t exist, or imagine it isn’t desirable.
 
 Nevertheless, it’s unavoidable that we need to address our obsession with foreign holidays. Flying on multiple weekend breaks per year, plus that one big holiday, or sometimes two, feeds our ever-expanding aviation industry in a way that is a disaster for the environment. Travelling so far and so fast uses a hell of a lot of fossil fuel, and even if you take other steps to be environmentally-friendly, one flight can completely wipe out other savings. 
 
@@ -41,4 +39,4 @@ So while the aim of this campaign is not to herald the end of foreign travel, it
 
 The sun is out. Children squeal in the spray. Surfers hang out on the depths waiting to catch a wave. The beach is scattered with ball games and sand castles, sunglasses and cups of tea. For a time, the sun heats the sand. 
 
-#### Despite the coming rain, people are demonstrating that British stoicism where we laugh at the unpredictable weather and eat soggy chips on the promenade. And perhaps that is what will save us.
+##### Despite the coming rain, people are demonstrating that British stoicism where we laugh at the unpredictable weather and eat soggy chips on the promenade. And perhaps that is what will save us.
