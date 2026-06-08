@@ -9,21 +9,23 @@ summary: What measures should the government put in place that will ensure
 author: FlightFree UK
 read_time_minute: 3
 ---
-## I﻿n order to reach our legally-binding target of net zero by 2050, emissions from aviation need to fall.
+## The UK has a legally-binding target of net zero by 2050.
 
-#### H﻿ere at Flight Free UK we focus on individual behaviour change, but that must go hand in hand with effective government policy if we are to achieve the necessary emissions reductions.
+#### I﻿n order to reach it, emissions from aviation need to fall.
+
+At Flight Free UK we focus on individual behaviour change, but that must go hand in hand with effective government policy if we are to achieve the necessary emissions reductions.
 
 Here are our top policies for a UK government to adopt, to help get a grip on emissions from aviation.
 
 #### 1. No airport expansion
 
-A﻿cross the UK, 20 airports have expansion plans. Each one claims the expansion will fit within our emissions reduction goals, even though the plans would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/), c﻿ontributing [a further 9 mega-tonnes of CO2 annually](https://www.aef.org.uk/campaigns/challenging-airport-expansion/) into the atmosphere.
+A﻿cross the UK, 20 airports have expansion plans. Every application makes the claim that it will fit within our emissions reduction goals, even though together, all these expansions would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/), c﻿ontributing [a further 9 mega-tonnes of CO2 annually](https://www.aef.org.uk/campaigns/challenging-airport-expansion/) into the atmosphere.
 
-A﻿irports are adept at reassuring policy makers that they can grow in an environmentally-friendly way, mainly by pointing towards carbon-neutral ground operations, improvements in fuel efficiency, and more people taking the train to the airport. 
+A﻿irports claim that they can grow in an environmentally-friendly way, by pointing towards carbon-neutral ground operations, improvements in fuel efficiency, and more people taking the train to the airport. 
 
-E﻿missions from flights themselves are consistently left out of airport expansion plans.
+E﻿missions from flights themselves are usually not included when an airport claims to be carbon neutral.
 
-T﻿he Climate Change Committee states that there should be no net expansion across the UK if we are to meet our climate targets. The government should take this advice and adopt a national policy to [halt all airport expansion](https://noairportexpansion.org/).
+I﻿n 2019, the government's advisors on climate change, t﻿he Climate Change Committee, stated that there should be no net expansion across the UK if we are to meet our climate targets. The government should take this advice and adopt a national policy to [halt all airport expansion](https://noairportexpansion.org/).
 
 #### 2﻿. Tax aviation fuel
 
