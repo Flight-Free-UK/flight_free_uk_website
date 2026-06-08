@@ -31,7 +31,7 @@ I﻿n 2019, the government's advisors on climate change, t﻿he Climate Change C
 
 Currently, there is no tax on kerosene (aviation fuel), meaning that flights are often artificially cheap especially when compared to overland transport such as trains. 
 
-T﻿he government could easily introduce a tax on fuel for domestic flights (it's harder, though not impossible, to tax the fuel on international flights as it would require reciprocation with the arrival country), and it makes sense to do so: we currently pay 50% tax on the fuel we use in our cars, so there is no reason that aviation fuel should continue to be tax-free.
+T﻿he government could immediately introduce a tax on fuel for domestic flights, and it makes sense to do so: we currently pay 50% tax on the fuel we use in our cars, so there is no reason that aviation fuel should continue to be tax-free.
 
 T﻿axing aviation fuel would help level the playing field with alternative forms of transport, and it's estimated that it would cut both [passenger numbers and emissions by 11%](https://www.ft.com/content/1ce24798-733b-11e9-bbfb-5c68069fbd15).
 
