@@ -61,7 +61,7 @@ T﻿his is a policy that was introduced in France in 2023, which removed air rou
 
 I﻿f the UK did the same, it would go a long way to reducing emissions. Switching from plane to train on electrified routes in the UK saves around 90% on emissions, and there's not much difference in overall journey time once you've factored in transfers to the airport and waiting time for check-in etc. It should therefore be possible to maintain good domestic connectivity while removing the high-carbon option. 
 
-O﻿ur recommendation is to remove flight routes where there's a direct train alternative of 4.5 hours or less. This would include routes between London and Exeter/Manchester/Newcastle/Edinburgh/Glasgow, and Birmingham and Edinburgh/Glasgow.
+O﻿ur recommendation is to [remove flight routes where there's a direct train alternative of 4.5 hours or less](https://flightfree.co.uk/post/should-a-domestic-flight-ban-be-applied-in-the-uk/). This would include routes between London and Exeter/Manchester/Newcastle/Edinburgh/Glasgow, and Birmingham and Edinburgh/Glasgow.
 
 #### 7﻿. Significant investment in low-carbon transport
 
