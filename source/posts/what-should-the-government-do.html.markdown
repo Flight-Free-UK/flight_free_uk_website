@@ -19,7 +19,7 @@ Here are our top policies for a UK government to adopt, to help get a grip on em
 
 #### 1. No airport expansion
 
-A﻿cross the UK, 20 airports have expansion plans. Every application makes the claim that it will fit within our emissions reduction goals, even though together, all these expansions would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/), c﻿ontributing [a further 9 mega-tonnes of CO2 annually](https://www.aef.org.uk/campaigns/challenging-airport-expansion/) into the atmosphere.
+A﻿cross the UK, 20 airports have expansion plans. Every application makes the claim that it will fit within our emissions reduction goals, even though together, the accumulated plans would result in a [59% increase in passenger numbers](https://www.carbonbrief.org/guest-post-planned-growth-of-uk-airports-not-consistent-with-net-zero-climate-goal/), c﻿ontributing [a further 9 mega-tonnes of CO2 annually](https://www.aef.org.uk/campaigns/challenging-airport-expansion/) into the atmosphere.
 
 A﻿irports claim that they can grow in an environmentally-friendly way, by pointing towards carbon-neutral ground operations, improvements in fuel efficiency, and more people taking the train to the airport. 
 
@@ -31,7 +31,7 @@ I﻿n 2019, the government's advisors on climate change, t﻿he Climate Change C
 
 Currently, there is no tax on kerosene (aviation fuel), meaning that flights are often artificially cheap especially when compared to overland transport such as trains. 
 
-T﻿he government could immediately introduce a tax on fuel for domestic flights, and it makes sense to do so: we currently pay 50% tax on the fuel we use in our cars, so there is no reason that aviation fuel should continue to be tax-free.
+T﻿he government could immediately introduce a tax on fuel for domestic flights, and it makes sense to do so: the fuel we use in our cars is taxed at 50%, so there is no reason that aviation fuel should continue to be tax-free.
 
 T﻿axing aviation fuel would help level the playing field with alternative forms of transport, and it's estimated that it would cut both [passenger numbers and emissions by 11%](https://www.ft.com/content/1ce24798-733b-11e9-bbfb-5c68069fbd15).
 
