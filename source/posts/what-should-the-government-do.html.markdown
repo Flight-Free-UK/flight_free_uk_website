@@ -47,7 +47,7 @@ I﻿f we were given carbon information when we booked our flights, it would help
 
 S﻿ome flight booking sites already show the carbon impact of your flights, but only by comparing one flight to another, and showing which is the most fuel efficient or has the lowest overall footprint. The danger here is that suggests that any of the flights are green – which they are not.
 
-A﻿ more effective and helpful way to show flight emissions would be to compare them to other transport modes such as trains, which have a much lower carbon footprint, or compare them to other activities we do, such as heating our homes or driving, or to UK annual per-person emissions. 
+A﻿ more effective and helpful way to show flight emissions would be to compare them to other transport modes such as trains, which have a much lower carbon footprint, or compare them to other activities we do, such as heating our homes or driving, or to UK annual per-person emissions. This would give a much more realistic and easy-to-understand picture of flight emissions, which would help us to make more planet-friendly choices.
 
 #### 5. A ban on advertising for flights
 
