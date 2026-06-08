@@ -57,13 +57,21 @@ Air pollution and greenhouse gas emissions from aviation are an equal, if not wo
 
 #### 6﻿. Remove domestic flights where there's a direct train alternative
 
-T﻿his is a policy that was introduced in France in 2023, which removed air routes that had a rail alternative of 2.5 hours or less. The policy applies to three routes: from Paris to Nantes, Lyon and Bordeaux. 
+T﻿his policy was introduced in France in 2023, which removed air routes that had a rail alternative of 2.5 hours or less. The policy applies to three routes: from Paris to Nantes, Lyon and Bordeaux. 
+
+T﻿he advantage of such a policy is that it removes customer choice, and makes low-carbon travel the only option. Studies have shown that replacing air with rail on direct routes doesn't have a negative impact on the traveller in terms of time or cost.
 
 I﻿f the UK did the same, it would go a long way to reducing emissions. Switching from plane to train on electrified routes in the UK saves around 90% on emissions, and there's not much difference in overall journey time once you've factored in transfers to the airport and waiting time for check-in etc. It should therefore be possible to maintain good domestic connectivity while removing the high-carbon option. 
 
 O﻿ur recommendation is to [remove flight routes where there's a direct train alternative of 4.5 hours or less](https://flightfree.co.uk/post/should-a-domestic-flight-ban-be-applied-in-the-uk/). This would include routes between London and Exeter/Manchester/Newcastle/Edinburgh/Glasgow, and Birmingham and Edinburgh/Glasgow.
 
-#### 7﻿. Significant investment in low-carbon transport
+#### 7﻿. Ban private jets
+
+P﻿rivate jets cause up to 40x the emissions of scheduled flights per passenger. It is a very privileged and extremely carbon-intensive way to travel, that is most of the time not necessary. 
+
+W﻿e would therefore like to see the government ban private jets, or at the very least, tax the fuel and increase APD on private jets. 
+
+#### 8. Significant investment in low-carbon transport
 
 T﻿here are many barriers to people choosing low-carbon transport, and these need to be removed in order to facilitate the shift away from air travel. These include:
 
