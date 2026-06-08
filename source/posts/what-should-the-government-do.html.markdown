@@ -57,9 +57,9 @@ Air pollution and greenhouse gas emissions from aviation are an equal, if not wo
 
 #### 6﻿. Remove domestic flights where there's a direct train alternative
 
-W﻿ith domestic train travel on electrified lines giving a 90% reduction in emissions compared to flying, removing certain domestic flight routes would go a long way to reducing emissions.
+T﻿his is a policy that was introduced in France in 2023, which removed air routes that had a rail alternative of 2.5 hours or less. The policy applies to three routes: from Paris to Nantes, Lyon and Bordeaux. 
 
-O﻿n routes with fast, direct trains, the rail and air times are comparable once you've factored in transfers to the airport and waiting time for check-in etc. It should therefore be possible to maintain good domestic connectivity while removing the high-carbon option. 
+I﻿f the UK did the same, it would go a long way to reducing emissions. Switching from plane to train on electrified routes in the UK saves around 90% on emissions, and there's not much difference in overall journey time once you've factored in transfers to the airport and waiting time for check-in etc. It should therefore be possible to maintain good domestic connectivity while removing the high-carbon option. 
 
 O﻿ur recommendation is to remove flight routes where there's a direct train alternative of 4.5 hours or less. This would include routes between London and Exeter/Manchester/Newcastle/Edinburgh/Glasgow, and Birmingham and Edinburgh/Glasgow.
 
