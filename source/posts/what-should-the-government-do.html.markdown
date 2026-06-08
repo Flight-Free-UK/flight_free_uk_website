@@ -41,11 +41,13 @@ A﻿ small number of people take the majority of flights: [70% of flights in the
 
 #### 4. Carbon labelling at time of booking
 
-I﻿n the same way that food items show nutritional information, carbon information given at the time of booking would help the consumer to make an informed choice.
+W﻿e are given information that helps us make choices that are right for us, for example health information on food items, and health warnings on cigarette packets. 
 
-S﻿ome flight booking sites already do this, but only by comparing flights to other flights (this counts as greenwashing, because it gives the impression that some flights are green). 
+I﻿f we were given carbon information when we booked our flights, it would help us to make a more informed choice.
 
-I﻿nstead, flight booking websites should show average carbon emissions per passenger for each journey, compared to other transport modes such as trains, or compared to UK annual per-person emissions. 
+S﻿ome flight booking sites already show the carbon impact of your flights, but only by comparing one flight to another, and showing which is the most fuel efficient or has the lowest overall footprint. The danger here is that suggests that any of the flights are green – which they are not.
+
+A﻿ more effective and helpful way to show flight emissions would be to compare them to other transport modes such as trains, which have a much lower carbon footprint, or compare them to other activities we do, such as heating our homes or driving, or to UK annual per-person emissions. 
 
 #### 5. A ban on advertising for flights
 
@@ -53,7 +55,7 @@ When it became clear that smoking was a Public Health issue, the government bann
 
 Air pollution and greenhouse gas emissions from aviation are an equal, if not worse, Public Health issue. A ban on advertising for airlines would contribute to the social shift away from aviation.
 
-#### 6﻿. A ban on domestic flights where there's a direct train alternative
+#### 6﻿. Remove domestic flights where there's a direct train alternative
 
 W﻿ith domestic train travel on electrified lines giving a 90% reduction in emissions compared to flying, removing certain domestic flight routes would go a long way to reducing emissions.
 
