@@ -3,7 +3,7 @@ published: true
 title: Cambridge to Stockholm
 date: 2026-06-10T09:17:36.568Z
 cover_image: /images/uploads/stockholm-blossom-canva.jpg
-summary: "Professor Julian Allwood "
+summary: "by Professor Julian Allwood "
 author: FlightFree UK
 read_time_minute: 7
 ---
