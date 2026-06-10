@@ -1,11 +1,11 @@
 ---
-published: true
+published: false
 title: How to go on school trips without flying
 category: how-to
 date: 2026-04-02T13:42:25.452Z
 cover_image: /images/uploads/ffschools.jpg
-summary: Removing air travel can significantly reduce a school's carbon
-  emissions. Here's how the Flight Free Schools scheme can help.
+summary: "Removing air travel can significantly reduce a school's carbon
+  emissions. Here's how the Flight Free Schools scheme can help. "
 author: FlightFree UK
 read_time_minute: 3
 ---
@@ -13,7 +13,7 @@ read_time_minute: 3
 
 ##### [Hills Road Sixth Form College in Cambridge](https://www.hillsroad.ac.uk/about-us/sustainability) is a Gold-level Flight Free School and has been flight-free since 2020.
 
-#### The decision to stop taking flights
+#### The decision to stop taking flights 
 
 The college decided to stop taking flights because it was the quickest and most effective way to reach their carbon reduction targets. An analysis of the college-wide carbon footprint showed that flights for trips made up 11% of the college’s overall emissions, which is more than electricity use or gas use over the course of a year. Removing flights from trips made sense as an easy way to significantly reduce emissions.
 
