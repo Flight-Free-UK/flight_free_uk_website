@@ -1,0 +1,54 @@
+---
+published: true
+title: Cambridge to Stockholm
+date: 2026-06-10T09:17:36.568Z
+cover_image: /images/uploads/stockholm-blossom-canva.jpg
+summary: "Professor Julian Allwood "
+author: FlightFree UK
+read_time_minute: 7
+---
+## I left Cambridge at 0645 and had the laptop open even before the train doors closed. 
+
+#### The PowerPoint slides I needed for Stockholm were not going to write themselves. 
+
+I was on my way to the annual general assembly of the International Academy of Production Engineering – CIRP, in its French acronym – a society, that has shaped much of my professional life. We have no Institute of Manufacturing Engineering in the UK, so CIRP has been my intellectual home for a quarter of a century.  This year, I’d be presenting the forming-technology keynote, titled “Cut the Scrap” – the outcome of a four-year project, with colleagues across the society, that bridges my two professional interests: manufacturing innovation and cutting greenhouse gas emissions.
+
+In London, I crossed the road to the Eurostar at St Pancras, had breakfast on the train, changed in Brussels where I have a favourite bar, but even after 25 years, have failed to find a favourite hotel, and took the train to Cologne. Last time I arrived, I was swamped by well-refreshed locals in animal onesies – they take Karneval seriously in Cologne – but this time it was calm. I took a moment, as always, to admire the fabulous Gothic Cathedral and called into the food market under the station for lunch.  Too late, I discovered that Deutsche Bahn’s “recommendation” of a Flix train came without an actual ticket. However, the ticket machines spoke better English than I speak German, and soon I was heading for Hamburg.
+
+For a decade now, I’ve taken the train not the plane. In 2012, shortly before flying to give the opening talk of “Zero Carbon Kyoto”, I met Kevin Anderson of the Tyndall Centre, just back from a conference in Beijing. He had travelled both ways on the trans-Siberian railway, writing a paper in each direction. “If you work on emissions reduction,” he’d said, “you can’t fly, can you?”  I thought about that on my business-class flight to Japan and realised that by turning up in person, I was denying my own talk. It took three years to work off commitments I had already made, ironically including being a lead author of the Intergovernmental Panel on Climate Change, and since 2015, I haven’t flown. I still speak at American or Asian conferences, but remotely. The photo of the opening of the new Sustainability Institute at the University of Montreal shows two American colleagues at the podium – and me on a screen, propped up between them. 
+
+As a European, I think I’m more effective here, where I understand the culture better. I enjoy feeling more rooted in the continent as I cross it by rail. Zurich, Berlin, Lugano and San Sebastian are all feasible in a day, and although it’s currently suspended, I’ve twice taken the sleeper to Madrid on my way to meetings in Portugal. 
+
+This was my first visit to Hamburg, and I stayed a night in the excellent Reichshof Hotel, just by the station.  I was tired after 12 hours work on the presentation and had stamina only to visit the Schifferbörse Brauhaus for a “seaman’s schnitzel” – that’s the one with the side dish of prawns next to the chips.  But I woke early to a blue summer’s morning, walked towards the Rathaus past the boats on the Binnenalster, and came back past St. Petri and St Jacobi. “Active Hamburg” (a day of bicycles and Lycra) was just getting started, so I had to watch my step among the barriers and sausage stalls. Then a splendid hotel breakfast, and back to the tracks.
+
+At the platform for Copenhagen, the Danish passengers were taller, hairier and less well dressed than yesterday’s Germans, and as we pulled out of Hamburg, the guard set a new tone for the day. “Dear Passengers, please note that there are no services on the train. No bistro, no coffee or water, absolutely nothing.” His replacement, somewhere in Jutland, took up the theme. “We are now thirteen minutes late, so it is not in any way possible that you can catch the connecting train at the next station.” With that short delay, my visit to Copenhagen was cut to a ten-minute sprint for coffee and a sandwich, and I was welcomed onto the next train by a new guard. “We are stopped now by people walking on the tracks. We cannot move until they leave so we are waiting for the police.” 
+
+The last train to Stockholm had wide, comfy seats, and free fruit and coffee – first class train tickets in Europe often cost little more than standard. But this new luxury had not cheered the day’s fourth, Swedish Guard. “We don’t have any information about how long we will be here. If I learn anything I will pass it on. But I don’t think this will happen.”
+
+The numbers are clear. On average, flying in economy leads to emissions of a quarter of a tonne of carbon dioxide per person per hour, double that in business class, quadruple in first. With the UK’s reported annual emissions near seven tonnes per person, a single traveller flying for 28 hours per year in economy, has effectively added another Briton to the population.
+
+The UK burns around twelve million tonnes of jet fuel each year, producing some sixty-four million tonnes of CO₂-equivalent emissions once contrails and other non-CO₂ effects are counted.  However, half of the people of the UK did not fly last year, so the half that did, added 15% to our total national emissions, just by flying.
+
+The university is a high-flyer. Flying has been reframed as a professional necessity, even an entitlement, and meanwhile international students make up to three return flights per year in order to study with us.  If I estimate that our 11,000 international students each fly for thirty hours per year, and our 5,800 tenured academics and contracted researchers each fly for twenty, all in economy, then our aerial footprint is around 110,000 tonnes of CO2e/year – about a fifth of our [total emissions](https://www.environment.admin.cam.ac.uk/our-commitments-and-approach/carbon-and-energy). The irony is hard to miss: we claim to be dedicated to understanding and acting on climate change, but by our actions, are fuelling it.
+
+North of Hamburg, the land flattens and the sky widens. Crossing the Øresund bridge – inevitably linked in my mind with melancholy Inspector Wallander thrillers – I reached Southern Sweden for the first time, to find it blanketed in trees. I had known Sweden’s electricity was almost carbon-free, thanks to hydropower and nuclear, but I hadn’t realised quite how wooded the country was. Occasionally a break in the trees revealed a timber house and a stretch of still water, but mostly it was green to the horizon.
+
+It's easy, surrounded by all that wood, to understand the appeal of biofuels, and it takes a moment to see the problem. Replacing the world’s oil with biodiesel and bio-kerosene, would require that we treble the total harvest of global biomass. Meanwhile, six per cent of global emissions still come from deforestation, and climate change is already cutting crop yields. As a result, there is no plausible way to scale biofuels for aviation. Battery planes can only travel short distances and solar cells on the wings don’t generate enough power. Hydrogen and synthetic fuels look promising on paper but depend on carbon capture and vast surpluses of zero-carbon electricity—neither of which exist in meaningful quantities. The world’s total carbon-capture capacity, after fifty years of development, still covers just 0.09 per cent of annual emissions.
+
+The conclusion is unromantic but unavoidable: the only scalable route to zero-emissions flight by 2050 is zero flight.
+
+I arrived in the centre of Stockholm, just 20 minutes late despite the pessimistic guards, and walked out into the colour and order of the city centre, just north of historic Gamla Stan. PowerPoint finished, I celebrated with a dinner of herrings, meatballs and lingonberries. 
+
+Over the following days, I gave my talk, listened to many others, some of which were stimulating, and caught up with colleagues from round the world at the various events of the social programme. One colleague shared a good story from a training programme about the difference between speaking like a giraffe and a gorilla in departmental meetings. I’m still waiting for the right moment to raise this idea back in Cambridge. 
+
+When the conference ended, I took the sleeper train back to Hamburg – giving me a 28-hour journey home rather than 36 on the way out. I’d meant to book one of the small ensuite singles I’d enjoyed on previous trips, but was too late so ended up, with some trepidation, with “seat close to animal, middle berth” in a compartment for six. 
+
+In Stockholm, I was joined by a young German couple, returning from two weeks hiking and canoodling in Northern Sweden, and continuing half those activities in the upper bunks. Around midnight, a German family without animal came in quietly, but needed twenty minutes to debate in whispers whether sleeping head to window or head to door was more *richtig*? My middle berth was decidedly hard, and when I did sleep, I dreamed that the Cotswold guesthouse I’d somehow acquired was collapsing in an earthquake while my children failed to extinguish a fire on the roof.  But, by the morning, as the train rolled back into Germany with time for a second Reichshof breakfast, the small discomfort was forgotten. 
+
+The total cost for the travel, including the night in Hamburg, was about £900, far more than a flight, but if we taxed jet fuel at the same rate we tax petrol, airfares would be approximately four times higher than they are today. 
+
+And cost, in any case, misses the point. For me, the decision not to fly isn’t an act of martyrdom; it’s simply coherence. As Kevin Anderson said, you cannot credibly work on emissions reduction while engaging in one of the most carbon-intensive activities on the planet. Once that’s understood, the question changes from how much does it cost? to what’s still possible?
+
+Train travel in Europe is no hardship. It’s slower, yes—but it’s a productive, humane kind of slowness. You see landscapes blend rather than vanish. You arrive in city centres, not at distant airports. You work, read, and think in ways that planes seldom allow. I found the trip to Stockholm rather long, so next time will aim to break the journey with other meetings en route. But in December, I’m off to Zurich, and already, I’m looking forward to it.
+
+The point is not asceticism, but imagination: switching from plane to train, for me, has been about continuing a professional life that’s rich, international, and enjoyable but is now more consistent with what I research and teach.
