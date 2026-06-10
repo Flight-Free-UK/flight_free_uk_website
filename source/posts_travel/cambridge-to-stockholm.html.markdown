@@ -7,9 +7,9 @@ summary: "Professor Julian Allwood "
 author: FlightFree UK
 read_time_minute: 7
 ---
-## I left Cambridge at 0645 and had the laptop open even before the train doors closed. 
+### I left Cambridge at 0645 and had the laptop open even before the train doors closed.
 
-#### The PowerPoint slides I needed for Stockholm were not going to write themselves. 
+##### The PowerPoint slides I needed for Stockholm were not going to write themselves.
 
 I was on my way to the annual general assembly of the International Academy of Production Engineering – CIRP, in its French acronym – a society, that has shaped much of my professional life. We have no Institute of Manufacturing Engineering in the UK, so CIRP has been my intellectual home for a quarter of a century.  This year, I’d be presenting the forming-technology keynote, titled “Cut the Scrap” – the outcome of a four-year project, with colleagues across the society, that bridges my two professional interests: manufacturing innovation and cutting greenhouse gas emissions.
 
