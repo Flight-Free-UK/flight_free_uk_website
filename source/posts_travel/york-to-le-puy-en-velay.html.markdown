@@ -8,13 +8,13 @@ summary: If cycling's your bag (or box), here's how you can enjoy the best of
 author: FlightFree UK
 read_time_minute: 5
 ---
-I’ve reached the stage of life where doing stuff I enjoy while I’m still able feels important, and
-so each summer I take myself and my bike somewhere in France where lovely countryside
-is crossed by quiet roads. Why cycling, why on my own and why in France? Cycling can be
-wonderfully meditative; combining fairly serious physical activity with a feeling of gentle self-
-sufficiency, and travelling alone heightens that. No drama about where or when to stop or to
-press on. And France has such varied landscapes, which through the summer months sit
-habitually beneath blue skies. In July the nation is host to le Tour de France, and while in
+### I’ve reached the stage of life where doing stuff I enjoy while I’m still able feels important, and so each summer I take myself and my bike somewhere in France where lovely countryside is crossed by quiet roads. 
+
+##### Why cycling, why on my own and why in France? 
+
+Cycling can be wonderfully meditative; combining fairly serious physical activity with a feeling of gentle self-sufficiency, and travelling alone heightens that. No drama about where or when to stop or to press on. 
+
+And France has such varied landscapes, which through the summer months sit habitually beneath blue skies. In July the nation is host to le Tour de France, and while in
 recent years lack of home rider success has lessened its hold on the French, it’s still a major
 spectator draw and shines a helpfully favourable light on cyclists – whatever their nationality.
 Each year I head somewhere different where the French rail network will take me, and in
@@ -74,6 +74,7 @@ Sunday lunch as a mid-holiday recovery day – from Le Puy this was a gentle 35k
 Le Chou et Chevre at Le Monastier and an even more gentle pedal back loaded with their
 Cochon de Haute-Loire and more. The sun shone throughout, as it did every day other than
 a Saturday evening’s warm rain.
+
 Alongside the varied landscape, Le Puy itself was fascinating and photogenic – I took my
 film camera for walks and produced a photobook of the results when I got home.
 My return journey, though tinged with the regret of leaving, was smooth and still very firmly
