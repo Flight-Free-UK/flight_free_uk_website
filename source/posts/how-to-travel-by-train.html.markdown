@@ -81,6 +81,8 @@ On the continent, look for [Nightjet](https://www.nightjet.com/en/) (linking Aus
 
 Prices vary depending on whether you go for a berth (full bed), a couchette (bunk beds that fold down from the walls) or a seat, but it’s always a bargain compared to a hotel. 
 
+S﻿pending a night on a train won't always be your best night's sleep! If you're unlucky, you might be woken to check passports (e.g. crossing from Europe into Asia in Turkey), or for ticket checks, but generally there won't be any stops or announcements during the sleeping hours. There might be strange noises or security lights that don't turn off, so we recommend ear plugs and an eye mask for a peaceful night's sleep. The joy of waking up in a different country soon extinguishes any tiredness! 
+
 ## Interrail
 
 Far from just being a gap-year rite-of-passage for students, the [Interrail pass](https://www.interrail.eu/en/interrail-passes/global-pass) is a terrific way to see Europe at a bargain price. A pass could reduce the cost of your travel even if you are only going to one destination.
