@@ -75,13 +75,8 @@ Le Chou et Chevre at Le Monastier and an even more gentle pedal back loaded with
 Cochon de Haute-Loire and more. The sun shone throughout, as it did every day other than
 a Saturday evening’s warm rain.
 
-Alongside the varied landscape, Le Puy itself was fascinating and photogenic – I took my
-film camera for walks and produced a photobook of the results when I got home.
-My return journey, though tinged with the regret of leaving, was smooth and still very firmly
-part of my holiday – comfort, passing countryside, and a late lunch on the terrace of a Paris
-bistro – an early start got me back to York within one day. Doing this flight-free involves a
-little more work but gives me two travel days that are still a pleasure, rather than a grim
-procession through security checks and a couple of hours with a planeful of germs. It costs a
-little more but there are conveniences too – start and finish of my rail journeys were within
-20mins walk of home and destination. A little more thought required, but a lot more pleasure
-in return.
+Alongside the varied landscape, Le Puy itself was fascinating and photogenic – I took my film camera for walks and produced a photobook of the results when I got home. My return journey, though tinged with the regret of leaving, was smooth and still very firmly part of my holiday – comfort, passing countryside, and a late lunch on the terrace of a Paris bistro – an early start got me back to York within one day. 
+
+Doing this flight-free involves a little more work but gives me two travel days that are still a pleasure, rather than a grim procession through security checks and a couple of hours with a planeful of germs. It costs a little more but there are conveniences too – start and finish of my rail journeys were within 20mins walk of home and destination. 
+
+##### A little more thought required, but a lot more pleasure in return.
