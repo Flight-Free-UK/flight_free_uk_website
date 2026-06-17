@@ -1,7 +1,7 @@
 ---
 published: true
 title: York to le Puy en Velay
-date: 2026-06-17T14:35:41.053Z
+date: 2026-05-13T14:35:41.053Z
 cover_image: /images/uploads/anna_hughes_touring_bike-cover.jpg
 summary: If cycling's your bag (or box), here's one story of how you can enjoy
   the best of what Europe has to offer by combing bikes and trains.
