@@ -8,6 +8,8 @@ summary: Is having family overseas compatible with giving up flying?
 author: FlightFree UK
 read_time_minute: 4
 ---
+![](/images/uploads/barcelona_canva-big.jpg "Basilica of the Sagrada Familia, Barcelona (finally finished)")
+
 ### Whether we live away from our home country by choice or out of need, many of us migrants feel the need to go back often to our place of origin in order to keep in touch with our loved ones and our roots.
 
 ##### Is that compatible with giving up flying?
