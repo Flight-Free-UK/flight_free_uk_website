@@ -20,7 +20,7 @@ Over the past 8 years, my partner and I have tried nearly all the main land and 
 
 The second-class couchettes are comfortable enough, and when you wake up you are in the middle of the beautiful Pyrenees. The train snakes between and through the mountains until it arrives at La Tor de Querol, a border station that makes you feel as if you were in a Western. 
 
-![](/images/uploads/latordequerol_mtb.jpg)
+![](/images/uploads/latordequerol_mtb.jpg "La Tor de Querol station")
 
 French and Spanish trains run on different gauges, so you leave the French train and the European tracks behind and change platforms to get on a local train with the wider gauge of the Iberian tracks. This train goes all the way to Barcelona, stopping at La Molina ski resort and towns and villages like Puigcerdà, Ribes de Freser and Vic along the way. Not the fastest option, but a scenic and laid-back route – and more time-efficient than you might think because you get a night’s sleep.
 
@@ -32,7 +32,7 @@ I’m a freelancer, so I can be flexible about my working days and I can also ge
 
 Since becoming a freelancer, I’ve settled into a pattern of going back four times a year for more than two weeks each time. As a linguist who translates into Catalan and Spanish, those visits are not only about nurturing my relationships with my friends and my family, but also with my language and my culture.
 
-![](/images/uploads/marinazurichstation_mtb.jpg)
+![](/images/uploads/marinazurichstation_mtb.jpg "Marina at Zurich station")
 
 Of course, me living 1,360 km away from my home country is not the same as living 10,000 km away or more. The distance, the transport options, and geopolitics can be a barrier to going back without flying. In my case, the train has become my main means of transport when going back to my home country, but I’m not totally flight free due to the steep price of train tickets.
 
