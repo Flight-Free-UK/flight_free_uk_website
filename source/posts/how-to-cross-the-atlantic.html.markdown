@@ -22,11 +22,9 @@ Y﻿ou have your own comfortable cabin, and eat with the crew every day. Bear in
 
 **TransOceanic Wind Transport (TOWT)**
 
-[T﻿owt.eu](https://www.towt.eu/en/home/) is a French company that offers passage on its sailing cargo ships. There are currently three routes open to passengers: Le Havre to New York, Santa-Marta in Colombia, and Santos in Brazil. 
+[T﻿owt.eu](https://www.towt.eu/) is a French company that offers passage on its sailing cargo ships. There are currently three routes open to passengers: Le Havre to New York, Santa-Marta in Colombia, and Santos in Brazil. 
 
 T﻿here is space for up to 12 passengers on each crossing. It takes 15 days to travel from Le Havre to New York, 22 days for Santa Marta and 22 days for Santos.
-
-F﻿ind [timetable and information here](https://www.towt.eu/en/home/).
 
 **N﻿eoline/SailCoop** 
 
