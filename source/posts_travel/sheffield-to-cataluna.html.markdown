@@ -1,6 +1,6 @@
 ---
 published: true
-title: Sheffield to Cataluña
+title: Sheffield to Catalunya
 date: 2026-06-18T18:00:13.802Z
 cover_image: /images/uploads/barcelona_canva.jpg
 summary: Is having family overseas compatible with giving up flying?
