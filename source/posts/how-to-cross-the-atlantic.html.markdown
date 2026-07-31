@@ -12,6 +12,8 @@ T﻿here are a few options for travelling without flying from Europe to North/So
 
 H﻿ere are the main options.
 
+![](/images/uploads/transport-neoline-maritime.jpeg "The Neoliner Origin sailing cargo ship")
+
 ## S﻿ail cargo ships
 
 A﻿ small but growing number of companies offers passenger berths on their cargo vessels, enabling passengers to effectively hitch a ride from one continent to the other. Your personal contribution to emissions is extremely low, given that your presence on the ship is not contributing to demand, and the ships themselves are wind-powered, keeping emissions as low as is practicable.
