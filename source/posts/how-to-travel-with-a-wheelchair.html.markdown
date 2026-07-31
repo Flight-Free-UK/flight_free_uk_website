@@ -29,13 +29,13 @@ The price is £39 on all trains, no matter when you book (as long as there’s s
 
 Book your ticket at [Eurostar.com](https://www.eurostar.com/uk-en). Choose your route and date in the planner, then select ‘wheelchair user’ from the drop-down menu. You can book for your companion at the same time. 
 
-NB: once you’re booked your ticket, you need to book assistance separately. Eurostar recommends doing this at least 24 hours before travelling. Go to <https://www.eurostar.com/uk-en/travel-info/travel-planning/accessibility/how-to-book-assistance> You can turn up on the day, and about 20% of people do this, and they can help, although it’s obviously better if you can plan in advance.
+NB: once you’re booked your ticket, you need to book assistance separately, which you can do [here](https://www.eurostar.com/uk-en/travel-info/travel-planning/accessibility/how-to-book-assistance). Eurostar recommends doing this at least 24 hours before travelling. It is possible to just turn up on the day (about 20% of people do this), although it’s obviously better if you can plan in advance.
 
-There’s a specialist team in-house at St Pancras station that will help you. 
+There’s a specialist accessibility team in-house at St Pancras station that will help you. 
 
-Specifications for dimensions and weight of wheelchair: 70cmx120cmx250g (including weight of traveller). If you need to travel with extra equipment such as a hoist and walker and oxygen tank, you can enquire with the team and they’ll let you know what they can accommodate. There’s no charge for extra equipment, but there’s a weight limit because of manual handling.
+E﻿urostar can accommodate wheelchairs measuring 70cm x 120cm, weighing 250g (including weight of traveller). If you are travelling with a different type of wheelchair, or need to travel with extra equipment such as a hoist and walker and oxygen tank, you can enquire with the team and they’ll let you know what they can accommodate. There’s no charge for extra equipment, but there’s a weight limit because of manual handling.
 
-**Onwards travel**
+##### **Onwards travel**
 
 Eurostar is the easy bit. What if you need to continue your journey on another train? 
 
