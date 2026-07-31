@@ -39,7 +39,7 @@ E﻿urostar can accommodate wheelchairs measuring 70cm x 120cm, weighing 250g (i
 
 Eurostar is the easy bit. What if you need to continue your journey on another train? 
 
-You need to book assistance separately, again, 24 hours before travelling. Here are the contact details for each of the neighbouring countries:
+You will need to book assistance for each leg of your journey separately. The guidance is to do this 24 hours before travelling. You will find all the details of booking assistance for our near-neighbours here:
 
 * France <https://www.garesetconnexions.sncf/en/assistances-psh-pmr> 
 * Belgium <https://www.belgiantrain.be/en/travel-info/prepare-for-your-journey/assistance-reduced-mobility> 
@@ -51,15 +51,13 @@ You need to book assistance separately, again, 24 hours before travelling. Here 
 
 The difficult part can be changing stations in Paris. If you are travelling to cities in the south of France (e.g. Lyon, Marseille, Bordeaux, Nice), you can avoid Paris by changing in Lille. Lille Europe is a modern station and as such has excellent step-free facilities, with multiple lifts and a level concourse. 
 
-If you are heading eastwards into Europe, go via Brussels. Brussels Midi/Zuid is a bit harder simply because it’s so big and busy. But there are lots of lifts. 
+If you are heading eastwards into Europe, go via Brussels. Brussels Midi/Zuid is a bit more of a challenging station than Lille simply because it’s so big and busy. But there are lots of lifts and good provisions.
 
-Some metro lines and stations are wheelchair accessible, but not at Gare du Nord, unless you call in advance and book assistance, and not Gare de Lyon, so that doesn’t help exactly. 
+I﻿f you do have to go through Paris, the common way to change from train to train is to use the metro. However, while some metro lines and stations are wheelchair accessible, Gare du Nord is not, unless you call in advance. Gare de Lyon has no facilities at all, so that doesn’t help exactly. The easiest transfer is to Gare de L’est. It's a short journey to the neighbouring station, all step-free, with a lift connecting the upper and lower levels on Rue d’Alsace. 
 
-Better option is to take the bus: all bus routes in Paris are wheelchair accessible. From Gare du Nord, the number 91 bus will take you to Gare de Lyon and Gare d’Austerlitz, number 39 goes to Gare Montparnasse, and for Saint-Lazare it’s number 26. 
+A﻿ better option might be to take the bus: all bus routes in Paris are wheelchair accessible. From Gare du Nord, the number 91 bus will take you to Gare de Lyon and Gare d’Austerlitz, number 39 goes to Gare Montparnasse, and for Saint-Lazare it’s number 26. 
 
 Gare du Nord: check lift status here: <https://www.garesetconnexions.sncf/en/stations-services/paris-gare-du-nord/accessibility> 
-
-to Gare de L’est it’s all step-free, with a lift connecting the upper and lower levels on Rue d’Alsace. 
 
 Beyond that, anything is possible, and experiences are mixed. Search for assistance booking in the country you’re heading to, and check provisions at stations before you travel. 
 
