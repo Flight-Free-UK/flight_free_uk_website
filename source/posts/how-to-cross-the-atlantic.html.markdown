@@ -8,7 +8,7 @@ summary: Is it possible to cross the Atlantic without flying? We look at the opt
 author: FlightFree UK
 read_time_minute: 3
 ---
-T﻿here are lots of options for travelling without flying from Europe to North/South America. As you might expect, none are as quick or as cheap as flying. But if you have the time and money, crossing the Atlantic ocean flight-free can be a life-changing adventure as well as potentially saving a huge amount of carbon.
+T﻿here are a few options for travelling without flying from Europe to North/South America. As you might expect, none are as quick or as cheap as flying. But if you have the time and money, crossing the Atlantic ocean flight-free can be a life-changing adventure as well as potentially saving a huge amount of carbon.
 
 H﻿ere are the main options.
 
@@ -26,7 +26,9 @@ Y﻿ou have your own comfortable cabin, and eat with the crew every day. Bear in
 
 T﻿here is space for up to 12 passengers on each crossing. It takes 15 days to travel from Le Havre to New York, 22 days for Santa Marta and 22 days for Santos.
 
-**N﻿eoline/SailCoop** 
+*2﻿026 u﻿pdate: passenger transit is currently on pause as the company re-structures. We will update the details as soon as we know more.*
+
+**N﻿eoliner/SailCoop** 
 
 [Voila SailCoop](https://www.voilasailcoop.fr/en/the-transatlantic-home/) has partnered with a Nantes-based shipping company to offer regular transit across the Atlantic. Sailings are once a month from Saint-Nazaire (on the French Atlantic coast near Nantes) to St Pierre and Miquelon (a French island off the coast of Newfoundland, Canada), over an 8-day journey. From there the ship continues to Baltimore in the US, taking a further 6 days. 
 
