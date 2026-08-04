@@ -38,7 +38,7 @@ Playing in these spaces felt very different to the typical concert setting I’m
 
 T﻿he tour included the Outer Hebrides, Orkney and Shetland, and while each of these island groups have airports, I definitely wasn’t going to fly. Of course the environmental reasons against doing so are enough, but it would have been impossible to take my bike on a plane. Bikes and ferries, now they go well together. 
 
-Ferries are also great places to meet interesting characters. I met a lovely bunch of cyclists on the ferry from Oban to Barra, all of us planning to cycle up the Hebridean Way with various goals along the way. Several of them actually came to my performances. I can’t say whether this was out of interest or purely to seek shelter. The weather was…rough. 
+Ferries are also great places to meet interesting characters. I met a lovely bunch of cyclists on the ferry from Oban to Barra, all of us planning to cycle up the Hebridean Way with various goals along the way. Several of them actually came to my performances. I can’t say whether this was out of interest or purely to seek shelter. The weather was… rough. 
 
 In any case, these friendly faces popped up numerous times throughout the islands and I was never alone for long. This was in part due to the locals, many of whom offered to transport my instrument (which I politely refused) or offered dinner and a bed for the night (which I politely accepted). There were enough nights of camping still to come.
 
@@ -50,8 +50,8 @@ I did eventually make it to the continent: after the *Good Again?* UK tour, I sp
 
 If it wasn't raining (which it did a lot), I'd plonk myself on a bench outside a shop, in a square, on a campsite, those little huts on towpaths etc. I played in an orchard to an audience of donkeys and was invited into a couple of cafes and a hall to play. I don't speak more than a handful of words of French, so communication was pretty limited in rural areas, but people often gathered around and I'd try to explain why I was travelling this way and playing this music. 
 
-One special mention for this part of the trip: crossing the Channel from Dover to Boulogne-sur-Mer with the Saillink ferry. It’s a sailing catamaran designed to take foot passengers and cyclists across the channel, avoiding the often unpleasant experience of going by conventional ferry. The crossing felt like a holiday in itself. I loved every minute of it. Taking my bike and gamba onboard was really easy, and the team were so friendly. I’d recommend it to anyone travelling by foot or bike.
+One special mention for this part of the trip: crossing the Channel from Dover to Boulogne-sur-Mer with the [Saillink ferry](https://www.saillink.co.uk/). It’s a sailing catamaran designed to take foot passengers and cyclists across the channel, avoiding the often unpleasant experience of going by conventional ferry. The crossing felt like a holiday in itself. I loved every minute of it. Taking my bike and gamba onboard was really easy, and the team were so friendly. I’d recommend it to anyone travelling by foot or bike.
 
-Now I’m back home, I continue to cycle to as many gigs as possible, and will do so for as long as possible. As a result of the tour, I’ve been invited to speak to students at universities and conservatoires, and hopefully inspire the next generation to use their creative power for good. 
+##### Now I’m back home, I continue to cycle to as many gigs as possible, and will do so for as long as possible. As a result of the tour, I’ve been invited to speak to students at universities and conservatoires, and hopefully inspire the next generation to use their creative power for good. 
 
 *You can find out more about Sarah at her website: [sarahsmallviol.crd.co](https://sarahsmallviol.crd.co/#) and Instagram: [@smallsarah](https://www.instagram.com/smallsarah/)*
