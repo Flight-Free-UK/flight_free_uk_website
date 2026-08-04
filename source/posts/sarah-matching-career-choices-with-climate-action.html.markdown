@@ -4,7 +4,7 @@ title: "Sarah: matching career with climate action "
 category: testimonials
 date: 2026-07-04T08:58:11.074Z
 cover_image: /images/uploads/sarah-small.jpg
-summary: '"I wan to inspire the next generation to use their creative power for good."'
+summary: '"I want to inspire the next generation to use their creative power for good."'
 author: FlightFree UK
 read_time_minute: 6
 ---
