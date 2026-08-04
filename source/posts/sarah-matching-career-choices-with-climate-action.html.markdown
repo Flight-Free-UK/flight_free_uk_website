@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Sarah: matching career choices with climate action "
+title: "Sarah: matching career with climate action "
 category: testimonials
 date: 2026-07-04T08:58:11.074Z
 cover_image: /images/uploads/sarah-small.jpg
