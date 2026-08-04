@@ -18,6 +18,8 @@ I remember how it felt to attend the first concert after restrictions were lifte
 
 However, there is another thing about my career that is problematic: touring. In my industry there is an expectation to fly to gigs abroad (or even within the UK). Saying no to flying often means one of two things: lose money because covering the train fares wipes out any income, or lose the work to somebody willing to fly. I quickly realised that just quietly saying no isn’t sustainable, both as a career move and with regards to the environment.
 
+> In my industry there is an expectation to fly. Just quietly saying no isn’t sustainable.
+
 This is when I had a brainwave: I could undertake a tour by bike! It would not only reduce my own touring emissions, it would enable me to work abroad while also inspiring musicians and audiences about the possibilities of greener touring. I’d previously cycled to play at a concert/festival in Germany, so I knew it was possible. Finally, I had found a way for my career to match up with my need to do something meaningful. 
 
 I am a viola da gamba player, and touring with my instrument is more complicated than if I were, say, a flautist. The viola da gamba (also known as a 'viol') is an instrument with six or seven strings, and it’s played with a bow and held with the legs (hence ‘da gamba’). There are several sizes of viol, with the smallest being roughly violin size, and the bass viol about the same size as a modern cello. 
@@ -25,6 +27,8 @@ I am a viola da gamba player, and touring with my instrument is more complicated
 I decided to tour with my bass viol for maximum visual impact – it’s hard to miss! Carrying it is, however, a little challenging. I used an AirPannier and a couple of bungees to attach it to one side of the rear pannier rack, which balanced well with my other luggage and held securely.
 
 The original plan was to head to the nearest coast and straight overseas, but the more I looked at the map, the more places I noticed within the UK worth visiting. I started to wonder whether I’d thought about touring completely wrong. It’s so easy to miss what’s closer to home. Sometimes it can feel like we’re in some far flung place simply by turning left when the road sign nudges you to follow the crowd to the right. Overseas travel could wait.
+
+> The more I looked at the map, the more places I noticed within the UK worth visiting. It’s so easy to miss what’s closer to home.
 
 It took around six months to plan the tour which was titled *Good Again?*, inspired by a piece of music by the Scottish composer Tobias Hume, and posing the question of how we can take actions in our personal and professional lives that turn the clock back on the climate crisis. Then it was a case of liaising with the venues, listing all the concerts online wherever possible, making posters, emailing news outlets, radio, etc. This continued throughout the tour with lots of late night admin from my tent.
 
