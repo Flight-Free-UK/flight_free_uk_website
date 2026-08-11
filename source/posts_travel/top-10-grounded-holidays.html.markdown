@@ -9,15 +9,23 @@ read_time_minute: 2
 ---
 ## If you like: mountains and lakes
 
-#### 1. Zurich/Lake Como
+#### 1. Lake Como
 
-The northern Italian/Swiss lakes are stunning, and an easy train ride. Connect in Paris for a fast train to Zurich, then onward travel to stations around Lake Como. The train ride itself is worth it for the stunning views over the lakes.
+The northern Italian lakes are stunning, and an easy train ride, reachable in a single day from the UK. Connect in Paris for a direct fast train to Milan, then onward travel to stations around Lake Como. 
+
+O﻿r take the more scenic route via Switzerland, connecting in Paris and Zurich. The train ride itself is worth it for the stunning views over the lakes, and will enhance your holiday!
+
+From September 2026 there's even an option to take a sleeper train. 
+
+[F﻿ind more information about travelling to Lake Como without flying](https://www.seat61.com/Italy.htm#london-to-lake-como-by-train).
 
 #### 2. Lake District 
 
-The mountains and lakes of the Lake District are among the most beautiful in the world. This treasured national park has it all, from mountain biking and extreme sports, to museums and art galleries, and bougie food destinations. Take a boat trip or climb England’s highest peak, Scafell Pike. 
+The mountains and lakes of the Lake District are among the most beautiful in the world. This treasured national park has it all, from mountain biking and extreme sports, to museums and art galleries, and bougie food destinations. Take a boat trip, ride the passes, or climb England’s highest peak, Scafell Pike. 
 
 Trains take you to Penrith for the north lakes, or right to the heart of the action in Windermere. YHA accommodation means there are plenty of options for a budget holiday.
+
+[F﻿ind out more and plan your holiday](https://www.visitlakedistrict.com/).
 
 ![Lake Como, Italy](/images/uploads/lake_como_canva.jpg "Bellagio, Lake Como, Italy")
 
