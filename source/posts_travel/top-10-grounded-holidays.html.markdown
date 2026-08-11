@@ -63,7 +63,11 @@ The northern Spanish beaches are a fantastic holiday destination: plenty of sand
 
 The seafood-lovers paradise of San Sebastian/Donostia is an easy journey from the UK, with two main options: by train or coach down through France, or by ferry across the Bay of Biscay. 
 
-T﻿ravelling by train is the quickest option, with direct trains from Paris bringing you to Hendaye on the France/Spanish border, from where you can take a metro into Spain and on to San Sebastian. 
+T﻿ravelling by train is the quickest option, with direct trains from Paris bringing you to Hendaye on the France/Spanish border in less than 5 hours, from where you can take a 37-minute metro on to San Sebastian. It's possible in a (long!) single day from the UK.
+
+T﻿he alternative ferry route takes two nights and a day from Portsmouth on the south coast of the UK and arrives into Bilbao in northern Spain. From there you can take a 1hr 30min bus along the coast to San Sebastian. 
+
+[F﻿ind out all the options for travelling to San Sebastian without flying here](https://www.seat61.com/Spain.htm#london-to-san-sebastian-by-train).
 
 #### 6. Camber Sands 
 
