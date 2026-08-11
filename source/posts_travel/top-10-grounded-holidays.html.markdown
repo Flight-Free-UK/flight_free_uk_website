@@ -53,11 +53,17 @@ T﻿here's the Way of the Roses, 171 miles from Morecambe to Bridlington; Hadria
 
 T﻿hese could provide a challenging 2-day ride, or a more relaxed 3- or 4- day adventure. T﻿he routes are well signposted, and you can find maps and more information on the website of the [Walk, Wheel, Cycle Trust](https://www.walkwheelcycletrust.org.uk/our-blog/national-cycle-network-route-collections/coast-to-coast-cycle-routes/).
 
+![](/images/uploads/san-sebastian-canva.jpg "San Sebastian/Donostia, Basque country")
+
 ## If you like: beaches
 
 #### 5. San Sebastian 
 
-The northern Spanish beaches are fantastic: plenty of sand, great weather, and not as overwhelmingly crowded as those near Barcelona on the Mediterranean coast. The seafood-lovers paradise of San Sebastian is easily reached from Bilbao or Santander, which is where ferries from England’s south coast arrive.
+The northern Spanish beaches are a fantastic holiday destination: plenty of sand, great weather, and not as overwhelmingly crowded as those in and around Barcelona on the Mediterranean coast. 
+
+The seafood-lovers paradise of San Sebastian/Donostia is an easy journey from the UK, with two main options: by train or coach down through France, or by ferry across the Bay of Biscay. 
+
+T﻿ravelling by train is the quickest option, with day trains or a sleeper train bringing you to Hendaye on the France/Spanish border, from where you can take a metro into Spain and on to San Sebastian. 
 
 #### 6. Camber Sands 
 
