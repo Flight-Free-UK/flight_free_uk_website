@@ -91,16 +91,18 @@ Paris couldn't be easier to access from the UK, with a super-fast Eurostar conne
 
 Bristol has a vibrant food scene and is especially good for vegans. You’ll find one of the best food markets in the UK at St Nicholas Markets – overflowing at lunch times, with street food options from all over the globe.
 
+![bridge in Prague](/images/uploads/anthony-delanoix-prague-unsplash.jpg "Charles bridge, Prague")
+
 ## If you like: city breaks
 
 #### 9. Prague 
 
-The Czech capital is a favourite for stag dos and birthday parties, but there's no need to fly there. Even with multiple connections (in London, Brussels, Frankfurt, Nuremberg and Cheb), it's possible to reach the city [from the UK in a single day](https://flightfree.co.uk/travel_articles/prague-to-pembrokeshire-in-a-day/). 
+The Czech capital is a favourite for stag dos and birthday parties, but there's no need to fly there. There are several options including daytime trains or the European Sleeper from Brussels, which departs at 1922 and arrives in Prague at 11.30 after a stunning journey down the breathtaking Elbe valley.
+
+Even with multiple connections (in London, Brussels, Frankfurt, Nuremberg and Cheb), it's possible to reach the city [from the UK in a single day](https://flightfree.co.uk/travel_articles/prague-to-pembrokeshire-in-a-day/). 
 
 #### 10. Edinburgh 
 
 The Scottish capital is always a winning destination, wherever you live. With historic architecture (Edinburgh castle) standing side-by-side with nature walks (Arthur’s seat), views across the Firth of Forth, bustling docks, great shopping and museums, and of course the famous festival, Edinburgh tops our list hands down. 
 
 It’s very easy to get to from all over the UK, with direct trains from Glasgow, Aberdeen and Inverness, as well as London, Manchester, Birmingham, Bristol and Southampton.
-
-![bridge in Prague](/images/uploads/anthony-delanoix-prague-unsplash.jpg "Charles bridge, Prague")
