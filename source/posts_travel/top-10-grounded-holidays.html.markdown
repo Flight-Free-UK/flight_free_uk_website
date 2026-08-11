@@ -7,9 +7,9 @@ summary: Here are 10 super suggestions for grounded adventures in both the UK an
 author: FlightFree UK
 read_time_minute: 2
 ---
-## If you like: mountains and lakes
-
 ![Lake Como, Italy](/images/uploads/lake_como_canva.jpg "Bellagio, Lake Como, Italy")
+
+## If you like: mountains and lakes
 
 #### 1. Lake Como
 
@@ -29,9 +29,9 @@ Trains take you to Penrith for the north lakes, or right to the heart of the act
 
 [F﻿ind out more and plan your holiday](https://www.visitlakedistrict.com/).
 
-## If you like: cycling
+![bicycle in front of railing on canal in Utrecht](/images/uploads/utrecht_canva.jpg "Canals in Utrecht")
 
-![bicycle in front of railing on canal in Utrecht](/images/uploads/utrecht_canva.jpg "Utrecht")
+## If you like: cycling
 
 #### 3. Utrecht 
 
