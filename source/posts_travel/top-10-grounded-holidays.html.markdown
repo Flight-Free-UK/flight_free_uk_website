@@ -33,9 +33,15 @@ Trains take you to Penrith for the north lakes, or right to the heart of the act
 
 #### 3. Utrecht 
 
-Dutch cities are famous for their cycling culture, but for something a little less hectic than Amsterdam, try Utrecht. This university city has everything you would want for a Netherlands getaway with canals, beautiful architecture and bikes everywhere. There's even a Miffy museum. 
+T﻿he Netherlands is famous for its cycling culture, so for something a little less hectic than the capital city Amsterdam, try Utrecht. This university city has everything you would want for a cycling getaway with canals, beautiful architecture and bike lanes everywhere.  
 
-Make it more of an adventure and ride there: it's 85km through the Dutch countryside  from Hoek van Holland (ferry from Harwich) or Europort (ferry from Hull),  o﻿r 68km from IJmuiden (ferry from Newcastle), which takes you through Amsterdam on the way.
+E﻿xplore the city or head out to the surrounding countryside, maybe along the well-paved towpath of the Amsterdam-Rhine canal.
+
+I﻿f you want to take your own bike, a combination of ferries and trains should get you there. Three ferry routes connect the UK to the Netherlands: from [Harwich](https://www.stenaline.co.uk/ferries-to-holland), [Hull](https://www.poferries.com/en/routes/hull-to-rotterdam) or [Newcastle](https://www.dfds.com/en-gb/passenger-ferries/mini-cruises/holland/mini-cruise-to-amsterdam), you arrive in Hoek van Holland, Europort (Rotterdam) or IJmuiden (Amsterdam) respectively. From there you can pick up a local train with bike-friendly carriages. 
+
+O﻿r make it more of an adventure and ride there: it's 85km through the Dutch countryside  from Hoek van Holland or Europort, o﻿r 68km from IJmuiden, which takes you through Amsterdam on the way.
+
+O﻿r if you prefer to hire a bike when you're there, you can travel speedily on the direct Eurostar to Rotterdam or Amsterdam, then pick up a local train to Utrecht. [Find low Eurostar fares here](https://www.eurostar.com/uk-en/deals/cheap-eurostar-tickets).
 
 #### 4. Coast to coast 
 
