@@ -45,9 +45,13 @@ O﻿r make it more of an adventure and ride there: it's 85km through the Dutch c
 
 O﻿r if you prefer to hire a bike when you're there, you can travel speedily on the direct Eurostar to Rotterdam or Amsterdam, then pick up a local train to Utrecht. [Find low Eurostar fares here](https://www.eurostar.com/uk-en/deals/cheap-eurostar-tickets).
 
-#### 4. Coast to coast 
+#### 4. UK coast to coast 
 
-There are plenty of mid-distance cycle routes to choose from in the UK, but perhaps the most iconic is a coast-to-coast route, where you dip your rear wheel in the Irish sea at one end and your front wheel in the North sea at the other. We recommend Hadrian’s cycleway – full of history as well as stunning scenery. The [Sustrans website](https://www.sustrans.org.uk/) will tell you everything you need to know.
+There are plenty of mid-distance cycle routes to choose from in the UK, but perhaps the most iconic is a coast-to-coast route, where you dip your rear wheel in the Irish sea at one end and your front wheel in the North sea at the other, and experience the best the UK has to offer in the middle.
+
+T﻿here's the Way of the Roses, 171 miles from Morecambe to Bridlington; Hadrian's Cycleway, 170 miles from Ravenglass to South Shields; the Transpennine Trail, 215 miles from Southport to Hornsea; and the classic Sea to Sea (C2C), 137 miles from Whitehaven/Workington to Newcastle/Sunderland, among many other variations.
+
+T﻿hese could provide a challenging 2-day ride, or a more relaxed 3- or 4- day adventure. T﻿he routes are well signposted, and you can find maps and more information on the website of the [Walk, Wheel, Cycle Trust](https://www.walkwheelcycletrust.org.uk/our-blog/national-cycle-network-route-collections/coast-to-coast-cycle-routes/).
 
 ## If you like: beaches
 
