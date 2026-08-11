@@ -63,7 +63,7 @@ The northern Spanish beaches are a fantastic holiday destination: plenty of sand
 
 The seafood-lovers paradise of San Sebastian/Donostia is an easy journey from the UK, with two main options: by train or coach down through France, or by ferry across the Bay of Biscay. 
 
-T﻿ravelling by train is the quickest option, with day trains or a sleeper train bringing you to Hendaye on the France/Spanish border, from where you can take a metro into Spain and on to San Sebastian. 
+T﻿ravelling by train is the quickest option, with direct trains from Paris bringing you to Hendaye on the France/Spanish border, from where you can take a metro into Spain and on to San Sebastian. 
 
 #### 6. Camber Sands 
 
