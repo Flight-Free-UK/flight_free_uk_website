@@ -71,9 +71,11 @@ T﻿he alternative ferry route takes two nights and a day from Portsmouth on the
 
 #### 6. Camber Sands 
 
-As the name suggests, this is a beautifully sandy beach on the East Sussex coast, with miles of sand dunes and a wide, flat beach. It's very popular in the summer but beat the traffic by taking the train to the historic town of Rye, and cycling the 3.5 miles along the National Cycle Network to the coast. Rye is worth a visit in itself, with a beautiful harbour, excellent food and a castle.
+As the name suggests, this is a beautifully sandy beach on the East Sussex coast, with miles of unique sand dunes and a wide, flat beach. 
 
-![sand dunes at Camber sands](/images/uploads/camber_sands-2_canva.jpg "Camber sands, East Sussex")
+It's very popular in the summer but beat the traffic by taking the train to the historic town of Rye, and cycling the 3.5 miles along a traffic-free bridlepath to the coast. Rye is worth a visit in itself, with a beautiful harbour, excellent food and a castle.
+
+![](/images/uploads/boulangerie-paris_canva.jpg "Boulangerie in the Latin Quarter, Paris")
 
 ## If you like: food
 
