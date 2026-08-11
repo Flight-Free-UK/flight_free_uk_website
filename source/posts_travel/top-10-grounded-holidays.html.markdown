@@ -99,9 +99,11 @@ There are unsurprisingly several options for dining on the water, given Bristol'
 
 #### 9. Prague 
 
-The Czech capital is a favourite for stag dos and birthday parties, but there's no need to fly there. There are several options including daytime trains or the European Sleeper from Brussels, which departs at 1922 and arrives in Prague at 11.30 after a stunning journey down the breathtaking Elbe valley.
+The Czech capital is a favourite for stag dos and birthday weekends, but there's no need to fly there. There are several options including daytime trains via Cologne and Berlin, or the European Sleeper direct from Brussels.
 
-Even with multiple connections (in London, Brussels, Frankfurt, Nuremberg and Cheb), it's possible to reach the city [from the UK in a single day](https://flightfree.co.uk/travel_articles/prague-to-pembrokeshire-in-a-day/). 
+T﻿he sleeper is the most time-effective option, departing at 1922 and arriving in Prague at 11.30 after a stunning journey down the breathtaking Elbe valley. But even travelling during the day, it's possible to reach the city [from the UK in a single day](https://flightfree.co.uk/travel_articles/prague-to-pembrokeshire-in-a-day/)
+
+T﻿ake your pick from the [8 options outlined by the Man in Seat 61](https://www.seat61.com/Czech.htm#london-to-prague) (or choose your own, different, option!)
 
 #### 10. Edinburgh 
 
