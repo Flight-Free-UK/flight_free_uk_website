@@ -67,7 +67,7 @@ T﻿ravelling by train is the quickest option, with direct trains from Paris bri
 
 T﻿he alternative ferry route takes two nights and a day from Portsmouth on the south coast of the UK and arrives into Bilbao in northern Spain. From there you can take a 1hr 30min bus along the coast to San Sebastian. 
 
-[F﻿ind out all the options for travelling to San Sebastian without flying here](https://www.seat61.com/Spain.htm#london-to-san-sebastian-by-train).
+[F﻿ind all the options for travelling to San Sebastian without flying here](https://www.seat61.com/Spain.htm#london-to-san-sebastian-by-train).
 
 #### 6. Camber Sands 
 
