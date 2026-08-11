@@ -81,7 +81,11 @@ It's very popular in the summer but beat the traffic by taking the train to the 
 
 #### 7. Paris 
 
-There are few places better than Paris for food. Two recommendations for street markets are Le Food Market and Marché des enfants rouges. Paris couldn't be easier to access from the UK, with a super-fast Eurostar connection, or coach if you're on a budget.
+There are few places better than Paris for food. There are any number of boulangeries, charcuteries, cafes and restaurants to choose from, many of which greet you as soon as you step off the train. 
+
+Two special recommendations for markets: Rue Cler Market Street in the 7th Arrondissement, with mouth-watering displays and divine aromas. And Marché des Enfants Rouges, the oldest covered market in Paris, located in the heart of the 3rd Arrondissement.
+
+Paris couldn't be easier to access from the UK, with a super-fast Eurostar connection, or coach if you're on a budget. [Eurostar prices start at £39](https://www.eurostar.com/uk-en/find-lowest-fares), or [try a Flixbus](https://www.flixbus.co.uk/).
 
 #### 8. Bristol 
 
