@@ -9,6 +9,8 @@ read_time_minute: 2
 ---
 ## If you like: mountains and lakes
 
+![Lake Como, Italy](/images/uploads/lake_como_canva.jpg "Bellagio, Lake Como, Italy")
+
 #### 1. Lake Como
 
 The northern Italian lakes are stunning, and an easy train ride, reachable in a single day from the UK. Connect in Paris for a direct fast train to Milan, then onward travel to stations around Lake Como. 
@@ -27,9 +29,9 @@ Trains take you to Penrith for the north lakes, or right to the heart of the act
 
 [F﻿ind out more and plan your holiday](https://www.visitlakedistrict.com/).
 
-![Lake Como, Italy](/images/uploads/lake_como_canva.jpg "Bellagio, Lake Como, Italy")
-
 ## If you like: cycling
+
+![bicycle in front of railing on canal in Utrecht](/images/uploads/utrecht_canva.jpg "Utrecht")
 
 #### 3. Utrecht 
 
@@ -46,8 +48,6 @@ O﻿r if you prefer to hire a bike when you're there, you can travel speedily on
 #### 4. Coast to coast 
 
 There are plenty of mid-distance cycle routes to choose from in the UK, but perhaps the most iconic is a coast-to-coast route, where you dip your rear wheel in the Irish sea at one end and your front wheel in the North sea at the other. We recommend Hadrian’s cycleway – full of history as well as stunning scenery. The [Sustrans website](https://www.sustrans.org.uk/) will tell you everything you need to know.
-
-![bicycle in front of railing on canal in Utrecht](/images/uploads/utrecht_canva.jpg "Utrecht")
 
 ## If you like: beaches
 
