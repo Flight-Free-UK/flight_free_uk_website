@@ -89,7 +89,9 @@ Paris couldn't be easier to access from the UK, with a super-fast Eurostar conne
 
 #### 8. Bristol 
 
-Bristol has a vibrant food scene and is especially good for vegans. You’ll find one of the best food markets in the UK at St Nicholas Markets – overflowing at lunch times, with street food options from all over the globe.
+Bristol has a vibrant food scene and is especially good for vegans. You’ll find independent cafes and restaurants all over the city, from the slightly more up-market area of Clifton to the lively and varied Gloucester Road. 
+
+There are unsurprisingly several options for dining on the water, given Bristol's status as a port city, and one of the best food markets in the UK at St Nicholas Markets – overflowing at lunch times, with street food options from all over the globe. Beware: closed on Sundays!
 
 ![bridge in Prague](/images/uploads/anthony-delanoix-prague-unsplash.jpg "Charles bridge, Prague")
 
