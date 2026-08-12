@@ -81,8 +81,8 @@
 <!-- END - We recommend to place the above code where you want the form in your website html  -->
 <!-- End Brevo Form -->
 
-    <div class="container mx-auto px-4 lg:px-16 py-4 lg:py-12">
-      <div class="grid grid-cols-2 xs:grid-cols-3 lg:grid-cols-4">
+    <div class="container lg:w-2/3 mx-auto px-4 py-4 lg:py-12">
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4">
         <div class="col-start-1">
           <p class="mb-2">
             Flight Free UK<br>
@@ -93,21 +93,25 @@
             Registered charity <a href="https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5199421" target="_blank" class="hover:text-orange">1199328</a>
           </p>
         </div>
-        <div class="col-start-2 xs:col-start-3 xs:col-span-2 md:col-start-2 md:col-span-2 lg:col-span-3 md:grid md:grid-rows-mincontent md:grid-cols-2 lg:grid-cols-3 md:pl-8">
-          <nav class="md:col-start-1 md:row-span-2">
+        <div class="col-start-2 sm:col-span-2 sm:grid sm:grid-cols-2 md:pl-8">
+          <nav class="sm:col-start-1">
             <p class="block text-right md:text-left">Contact:<br>
             <%= link_to "info@flightfree.co.uk", "mailto:info@flightfree.co.uk", class: "md:block text-right md:text-left hover:text-orange" %>
             </p>
           </nav>
-          <nav class="md:col-start-2">
+          <nav class="sm:col-start-2">
             <%= link_to "Resources", "/resources.html", class: "block text-right md:text-left md:pl-8 hover:text-orange" %>
-          </nav>
-          <nav class="md:col-start-2 lg:col-start-3">
             <%= link_to "Terms and conditions", "/terms_and_conditions.html", class: "block text-right md:text-left md:pl-8 hover:text-orange" %>
             <%= link_to "Privacy Policy", "/privacy_policy.html", class: "block text-right md:text-left md:pl-8 hover:text-orange" %>
           </nav>
+          </div>
+        <div class="col-start-1 row-start-2 col-span-full lg:col-start-4 lg:row-start-1">
+          <p class="">
+            <img src="/images/1-percent-planet-logo.png" alt="Approved partner of 1 percent for the planet" loading="lazy" class="block w-200 h-auto mr-auto lg:mr-0 ml-auto my-4"/>
+          </p>
+          </div>
         </div>
-        <div class="col-span-full row-start-2 xs:col-span-1 xs:col-start-2 xs:row-start-1 md:col-span-full md:col-start-1 md:row-start-2">
+        <div class="col-span-full row-start-2 sm:col-span-1 sm:col-start-2 sm:row-start-1 md:col-span-full md:col-start-1 md:row-start-2">
           <nav class="social-sharing flex flex-wrap justify-center">
 			<% 
 			{
