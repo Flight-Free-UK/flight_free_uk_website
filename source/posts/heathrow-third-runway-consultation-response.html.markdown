@@ -10,7 +10,7 @@ read_time_minute: 6
 ---
 *H﻿eathrow consultation is open until 1st September 2026. We have used a template supplied by Campaign Against Climate Change to draft this response <https://www.campaigncc.org/heathrow_consultation>* 
 
-#### This response is on behalf of the charity Flight Free UK. 
+#### This response is on behalf of the charity Flight Free UK.
 
 We believe that expansion at Heathrow should not go ahead. Additional emissions from flights will endanger the UK's climate targets, particularly with many other UK airports already expanding. The UK should prioritise infrastructure to make us more resilient to climate change impacts, to cut emissions and to reduce our dependence on fossil fuels, not high-carbon infrastructure such as flying.
 
@@ -50,15 +50,15 @@ Failing to take climate action will lead to massive economic harm, which will dw
 
 #### The government has proposed four tests which must be met for expansion to proceed. To what extent do you agree or disagree with how the government has set each of the ‘four tests’?
 
-1. Air Quality
+**Air Quality**
 
 The impact of a third runway cannot be assessed using outdated air pollution limits. Currently the UK’s legal limit on NO2 is twice as high as the EU’s, and 4 times as high as the health based recommendations of the WHO.
 
-2. Noise
+**Noise**
 
 Noise from flights is a serious health problem. With an increase and change in flight paths from the additional runway, many more communities will inevitably be affected. However, the flight paths won’t be published before the decision is made, so communities are being asked to respond without knowing exactly how they will be affected.
 
-3. Climate change mitigation
+**Climate change mitigation**
 
 The assessment of climate impact is seriously inadequate, primarily in its reliance on Jet Zero:
 
@@ -74,7 +74,7 @@ Jet Zero does not take account of the warming impact of non-CO2 effects includin
 
 Rather than assume savings under SAFs and Jet Zero, the government should wait to see if these measures are successful in reducing emissions at current capacity, before approving new capacity. 
 
-4. Economic growth across the country
+**Economic growth across the country**
 
 There is considerable evidence that Heathrow expansion will not lead to economic growth around the country, and in fact will have a negative effect outside London and the south east. Analysis by NEF (the New Economics Foundation) estimated that there would be 15,200 jobs lost in the wider regions of the UK and displaced to London and the south east. 
 
