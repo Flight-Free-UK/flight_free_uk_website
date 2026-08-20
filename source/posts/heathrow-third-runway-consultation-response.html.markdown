@@ -8,7 +8,7 @@ summary: We respond to the Heathrow Expansion National Policy Statement (HENPS)
 author: FlightFree UK
 read_time_minute: 6
 ---
-*T﻿his consultation on the expansion of Heathrow Airport with a third runway is open until 1st September 2026. We have used a template supplied by Campaign Against Climate Change to draft this response <https://www.campaigncc.org/heathrow_consultation>* 
+*T﻿his consultation on the expansion of Heathrow Airport with a third runway is open until 1st September 2026. We have used a [template from Campaign Against Climate Change](https://www.campaigncc.org/heathrow_consultation) to draft this response.*
 
 #### This response is on behalf of the charity Flight Free UK.
 
