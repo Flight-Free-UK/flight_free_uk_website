@@ -10,7 +10,7 @@ read_time_minute: 6
 ---
 *T﻿his consultation on the expansion of Heathrow Airport with a third runway is open until 1st September 2026. We have used a [template from Campaign Against Climate Change](https://www.campaigncc.org/heathrow_consultation) to draft this response.*
 
-#### This response is on behalf of the charity Flight Free UK.
+**This response is on behalf of the charity Flight Free UK**
 
 We believe that expansion at Heathrow should not go ahead. Additional emissions from flights will endanger the UK's climate targets, particularly with many other UK airports already expanding. The UK should prioritise infrastructure to make us more resilient to climate change impacts, to cut emissions and to reduce our dependence on fossil fuels, not high-carbon infrastructure such as flying.
 
@@ -86,6 +86,6 @@ Heathrow expansion should not be designated as Critical National Growth Infrastr
 
 This designation could make the third runway impossible to challenge in the planning process, however much evidence is provided of high levels of harm to the climate and to local communities. As long as the developer planned to put in some effort to reduce these harms, it could be approved because it was already designated as 'critical infrastructure', despite the harms outweighing the benefits.
 
-*T﻿his response uses the template drawn up by Campaign Against Climate Change. Respond to the consultation yourself by using the guidance here: <https://www.campaigncc.org/heathrow_consultation>*
+*T﻿his response uses the template drawn up by Campaign Against Climate Change. Respond to the consultation yourself by [using the guidance here](https://www.campaigncc.org/heathrow_consultation).*
 
-*D﻿eadline 1st September 2026*
+*D﻿eadline: 1st September 2026*
