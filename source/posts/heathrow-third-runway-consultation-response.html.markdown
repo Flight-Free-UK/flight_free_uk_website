@@ -1,6 +1,6 @@
 ---
 published: true
-title: Heathrow 3rd Runway Consultation Response
+title: Heathrow 3rd runway consultation response
 category: policy-position
 date: 2026-08-20T10:20:44.741Z
 cover_image: /images/uploads/heathrow_canva.jpg
