@@ -31,9 +31,7 @@ Other places to visit in the Basque Country include Zumaia (famous for its *flys
 
 **By coach:** Eurolines coaches travel from London Victoria Coach Station to Irun (Spanish border town)
 
-**Travel time:** 
-
-Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 30 mins for San Sebastian, + 2 hrs for Bilbao or 1.5 hrs by coach
+**Travel time:** B﻿y train, you can depart the UK mid morning and arrive in San Sebastian before 10pm: Eurostar 2hrs 20 mins, TGV 4hrs 40 mins, Euskotren 37 mins for San Sebastian, + 2 hrs for Bilbao or 1.5 hrs by coach
 
 By Brittany Ferries it's a 24 hour crossing, so overnight ferry is a good option, and Eurolines also takes 24 hours.
 
@@ -43,7 +41,7 @@ A nearby neighbour of Spain’s Catalan treasure, Barcelona, you can avoid addin
 
 #### Getting there
 
-**By train:** Eurostar to Paris, TGV to Barcelona, Talgo to Tarragona
+**By train:** Eurostar to Paris, TGV (high speed train) direct to Barcelona, Talgo (local train) to Tarragona
 
 **Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 40 mins, Talgo 1 hour.
 
@@ -57,7 +55,7 @@ The popular beach resort of Alicante is 1.5 hours away by train, with 11 daily s
 
 #### Getting there
 
-**By train:** Eurostar to Paris, TGV to Barcelona, EuroMed to Valencia/Alicante
+**By train:** Day 1 Eurostar to Paris and TGV to Barcelona, Day 2 EuroMed to Valencia/Alicante
 
 **Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 40mins, EuroMed 2hr 40mins for Valencia and 4hr 30mins for Alicante. A day and a half travel with an overnight stop in Barcelona or Paris.
 
@@ -73,7 +71,7 @@ Madrid itself is known for its museums, restaurants and nightlife. It's easy to 
 
 #### Getting there
 
-**By train:** Eurostar to Paris, TGV to Barcelona, AVE (Spanish high-speed train) to Madrid, Avant train to Toledo/Segovia.
+**By train:** Day 1, Eurostar to Paris and TGV to Barcelona, Day 2 AVE (Spanish high-speed train) to Madrid, Avant (local) train to Toledo/Segovia.
 
 **Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 60mins, AVE 2hrs 30mins, Avant 30 mins. A day and half travel with an overnight stop in Barcelona.
 
@@ -87,9 +85,9 @@ You can watch flamenco dancing in Seville, visit the Alhambra in Granada, see fl
 
 #### Getting there
 
-**By train:** Eurostar to Paris, TGV to Barcelona, AVE for onwards travel to Cordoba, Seville, Cadiz, Malaga and Granada.
+**By train:** Day 1, Eurostar to Paris and TGV to Barcelona, Day 2 AVE for onwards travel to Cordoba, Seville, Cadiz, Malaga and Granada.
 
-**Travel time:** 6-7 hours from Barcelona.
+**Travel time:** Eurostar 2hrs 20mins, TGV 6hrs 60mins, then 6-7 hours for onwards destinations.
 
 ## Other destinations
 
@@ -111,7 +109,7 @@ A return flight from London Stansted to Bilbao generates 160kg CO2 per passenger
 
 #### Time well spent
 
-It's a much longer journey by train: you're looking at around 10-12 hours for northern Spain, and a day and a half for southern Spain. When compared to a 2 or 3 hour flight, that sounds a lot – though don’t forget, flight times at least double when you add check-in times, baggage claim and airport transfers.
+It's a much longer journey by train: you're looking at around 10-12 hours for northern Spain, and two days for southern Spain. When compared to a 2 or 3 hour flight, that sounds a lot – though don’t forget, flight times at least double when you add check-in times, baggage claim and airport transfers.
 
 But travelling by train allows the journey to become part of the holiday, and it’s a far more enjoyable experience. It can also be much more pleasant if you are travelling as a family. Security and passport control by train is a much easier process, and the only limit to your luggage is how much you're physically able to carry.
 
@@ -123,7 +121,11 @@ There’s no denying there are some dirt-cheap flights out there. They can be ha
 
 With the train, it is often the Eurostar that makes up the bulk of that cost. It's possible to get a TGV ticket from Paris to the border with Spain for €30 or less. It's also worth looking at a day or two either side of the day you intend to travel, as prices can vary depending on the day of the week, e.g. Thursdays are often cheaper than Fridays.
 
-#### Booking and further information
+#### Tips, booking and further information
+
+I﻿n many Spanish towns and cities, there is a separate station for high speed and local services, so make sure you are at the right one.
+
+I﻿f travelling high-speed, you will need to pass your luggage through the x-ray scanner. It hardly takes any time, but be prepared. 
 
 The encylopaedic website [The Man in Seat 61](https://www.seat61.com) gives extensive information on how to travel to all parts of Spain, how to buy tickets, likely cost, and advice for interchanges. 
 

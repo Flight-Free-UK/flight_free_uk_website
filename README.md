@@ -9,13 +9,13 @@ and is hosted on [Netlify](https://www.netlify.com/).
 
 To work on this website you'll need to do the following:
 
-* Install Ruby
-* You might need to check your Ruby version (I have this working with ruby-3.0.4)
-* Install Ruby dependencies: `bundle install`
-* Install NodeJS (latest version should be fine)
-* Install NodeJS dependencies: `npm install`
-* You might need to check your Node version (I have this working with Node 20.11.1)
-* Run `netlify dev` to start a development server at
+- Install Ruby
+- You might need to check your Ruby version (I have this working with ruby-3.4.8)
+- Install Ruby dependencies: `bundle install`
+- Install NodeJS (latest version should be fine)
+- Install NodeJS dependencies: `npm install`
+- You might need to check your Node version (I have this working with Node 20.11.1)
+- Run `netlify dev` to start a development server at
   [http://localhost:8888](http://localhost:8888)
 
 ## Project structure
@@ -23,16 +23,16 @@ To work on this website you'll need to do the following:
 Read more about [Middleman](https://middlemanapp.com/) in the docs, but the
 source files are organised in these directories:
 
-* `source` - HTML templates, images and other static files (fonts, PDFs, etc).
-* `source/layouts` - Layout templates (everything but the actual page content:
+- `source` - HTML templates, images and other static files (fonts, PDFs, etc).
+- `source/layouts` - Layout templates (everything but the actual page content:
   header, footer, etc)
-* `source/posts` - blog posts as Markdown files that are edited using the CMS,
+- `source/posts` - blog posts as Markdown files that are edited using the CMS,
   but can also be edited manually.
-* `source/admin` - [NetlifyCMS](https://www.netlifycms.org/)
-* `assets/source` - contains CSS and JS files for the site (they are separate because we are using Webpack to build assets, not Middleman's default assets pipeline).
-* `data` - YAML files with data that is used in HTML templates (some of it is
+- `source/admin` - [NetlifyCMS](https://www.netlifycms.org/)
+- `assets/source` - contains CSS and JS files for the site (they are separate because we are using Webpack to build assets, not Middleman's default assets pipeline).
+- `data` - YAML files with data that is used in HTML templates (some of it is
   edited using the CMS, like podcasts).
-* `functions` - Netlify serverless functions that power the 'Sign the pledge'
+- `functions` - Netlify serverless functions that power the 'Sign the pledge'
   tool.
 
 ## Development workflow

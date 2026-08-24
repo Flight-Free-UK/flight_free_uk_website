@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'mutex_m'
+
 gem 'middleman', '~> 4.2'
 gem 'middleman-autoprefixer', '~> 2.7'
 gem "mini_racer", "~> 0.6.2"
