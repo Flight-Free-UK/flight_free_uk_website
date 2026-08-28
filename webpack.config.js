@@ -25,7 +25,7 @@ const { plugins, outputfile, mode } =
 
 module.exports = {
 	mode,
-	entry: ["babel-polyfill", "./assets/source/js/site.js", "./assets/source/js/micromodal.js", "./assets/source/css/styles.css"],
+	entry: ["babel-polyfill", "./assets/source/js/site.js", "./assets/source/css/styles.css"],
 	output: {
 		path: path.join(__dirname, "assets/build"),
 		filename: "javascripts/[name].js",

@@ -9,11 +9,11 @@ var mythbusters, mb_question, mb_answer_options, mb_button_true, mb_button_false
 var current_myth = 0;
 
 // Initialise the system
-if ( 'undefined' != typeof ( myths ) && 0 < myths.length ) {
+if ("undefined" != typeof myths && 0 < myths.length) {
 	mbInit();
 }
-function mbInit() {	
-    // Assign our objects
+function mbInit() {
+	// Assign our objects
 	mythbusters = document.getElementById("mythbusters");
 	mb_question = document.getElementById("mb-question");
 	mb_answer_options = document.getElementById("mb-answer-options");
@@ -38,7 +38,7 @@ function mbInit() {
 	});
 	mb_button_next.addEventListener("click", function (e) {
 		e.preventDefault();
-        // Move to the next question
+		// Move to the next question
 		mbNext();
 	});
 
@@ -50,7 +50,6 @@ function mbInit() {
 }
 // Manage answers
 function mbAnswer() {
-
 	// Hide our answer buttons
 	hide(mb_answer_options);
 
@@ -122,4 +121,51 @@ function disable(button) {
 // Utility function to check if an element has a class
 function hasClass(element, className) {
 	return (" " + element.className + " ").indexOf(" " + className + " ") > -1;
+}
+
+/**
+ * MicroModal
+ */
+import MicroModal from "micromodal";
+
+/**
+ * Fundraiser modal
+ */
+// Initialize MicroModal with onClose callback
+MicroModal.init({
+	onShow: function (modal) {
+		// Optional: Actions when modal is shown
+		console.log("Modal shown");
+	},
+	onClose: function (modal) {
+		// This is called when the modal is closed
+		sessionStorage.setItem("hasClosedModal", "true");
+		console.log("Modal closed, remembering user preference");
+	},
+});
+
+// Function to show modal if not already closed in this session
+function showModal() {
+	// Check if user has closed the modal in this session (using sessionStorage)
+	const hasClosedModal = sessionStorage.getItem("hasClosedModal");
+
+	// Check if we're in a new session (using localStorage to track sessions)
+	const currentSession = Date.now();
+	const lastVisit = localStorage.getItem("lastVisit");
+
+	// If user never visited before or session has expired (e.g., 30 minutes), reset
+	if (!lastVisit || currentSession - parseInt(lastVisit) > 1800000) {
+		// 30 minutes
+		// Reset the sessionStorage flag for new session
+		sessionStorage.removeItem("hasClosedModal");
+		localStorage.setItem("lastVisit", currentSession.toString());
+	} else {
+		// Update last visit time
+		localStorage.setItem("lastVisit", currentSession.toString());
+	}
+
+	// Only show modal if user hasn't closed it in this session
+	if (!hasClosedModal) {
+		MicroModal.show("modal-fundraiser");
+	}
 }

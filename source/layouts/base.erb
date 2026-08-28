@@ -45,7 +45,6 @@
   <meta name="twitter:image" content="https://flightfree.co.uk<%= sm_image %>" />
 
   <%= stylesheet_link_tag "main" %>
-  <%= javascript_include_tag "https://unpkg.com/micromodal/dist/micromodal.min.js" %>
 
 <!-- Begin Brevo Form -->
 <!-- START - We recommend to place the below code in head tag of your website html  -->
@@ -216,7 +215,6 @@
     <a href="https://donorbox.org/the-flight-free-uk-annual-fundraiser-2024" class="block mx-0 px-2 py-6 hover:text-orange">
         <p class="text-center italic text-xl xl:text-3xl xl:mb-1">Our annual fundraiser is <span class="text-orange">LIVE</span>! Click here to go to our fundraiser page</p>
     </a>
-    <button data-micromodal-trigger="modal-fundraiser">funds</button>
 </div>
 
 <%= yield %>
@@ -249,76 +247,28 @@
 <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
 <!-- End Brevo Form -->
 
-    <%# Fundraiser popup %>
-    <div class="modal micromodal-slide" id="modal-fundraiser" aria-hidden="true">
-    <div class="modal__overlay" tabindex="-1" data-micromodal-close>
-      <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-fundraiser-title">
-        <header class="modal__header">
-          <h2 class="modal__title" id="modal-fundraiser-title">
-            Micromodal
-          </h2>
-          <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
-        </header>
-        <main class="modal__content" id="modal-fundraiser-content">
-          <p>
-            Try hitting the <code>tab</code> key and notice how the focus stays within the modal itself. Also, <code>esc</code> to close modal.
-          </p>
-        </main>
-        <footer class="modal__footer">
-          <button class="modal__btn modal__btn-primary">Continue</button>
-          <button class="modal__btn" data-micromodal-close aria-label="Close this dialog window">Close</button>
-        </footer>
-      </div>
+<%# Fundraiser popup / modal %>
+<div class="modal micromodal-slide" id="modal-fundraiser" aria-hidden="true">
+  <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+    <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-fundraiser-title">
+      <header class="modal__header">
+        <h2 class="modal__title" id="modal-fundraiser-title">
+          Micromodal
+        </h2>
+        <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+      </header>
+      <main class="modal__content" id="modal-fundraiser-content">
+        <p>
+          Try hitting the <code>tab</code> key and notice how the focus stays within the modal itself. Also, <code>esc</code> to close modal.
+        </p>
+      </main>
+      <footer class="modal__footer">
+        <button class="modal__btn modal__btn-primary">Continue</button>
+        <button class="modal__btn" data-micromodal-close aria-label="Close this dialog window">Close</button>
+      </footer>
     </div>
   </div>
-  
-<script type="text/javascript">
-        // Initialize MicroModal with onClose callback
-        MicroModal.init({
-            onShow: function(modal) {
-                // Optional: Actions when modal is shown
-                console.log('Modal shown');
-            },
-            onClose: function(modal) {
-                // This is called when the modal is closed
-                sessionStorage.setItem('hasClosedModal', 'true');
-                console.log('Modal closed, remembering user preference');
-            }
-        });
-
-        
-        // Function to show modal if not already closed in this session
-        function showModal() {
-            // Check if user has closed the modal in this session (using sessionStorage)
-            const hasClosedModal = sessionStorage.getItem('hasClosedModal');
-            
-            // Check if we're in a new session (using localStorage to track sessions)
-            const currentSession = Date.now();
-            const lastVisit = localStorage.getItem('lastVisit');
-            
-            // If user never visited before or session has expired (e.g., 30 minutes), reset
-            if (!lastVisit || (currentSession - parseInt(lastVisit)) > 1800000) { // 30 minutes
-                // Reset the sessionStorage flag for new session
-                sessionStorage.removeItem('hasClosedModal');
-                localStorage.setItem('lastVisit', currentSession.toString());
-            } else {
-                // Update last visit time
-                localStorage.setItem('lastVisit', currentSession.toString());
-            }
-            
-            // Only show modal if user hasn't closed it in this session
-            if (!hasClosedModal) {
-                MicroModal.show('modal-fundraiser');
-            }
-        }
-        
-        // Set up event listener for when modal is closed
-        document.addEventListener('DOMContentLoaded', function() {
-            // Show modal on page load (but only if not already closed in this session)
-            showModal();
-        });
-
-</script>
+</div>
 
 </body>
 </html>
