@@ -133,14 +133,9 @@ import MicroModal from "micromodal";
  */
 // Initialize MicroModal with onClose callback
 MicroModal.init({
-	onShow: function (modal) {
-		// Optional: Actions when modal is shown
-		console.log("Modal shown");
-	},
+	disableFocus: true,
 	onClose: function (modal) {
-		// This is called when the modal is closed
-		sessionStorage.setItem("hasClosedModal", "true");
-		console.log("Modal closed, remembering user preference");
+		//sessionStorage.setItem("hasClosedModal", "true");
 	},
 });
 

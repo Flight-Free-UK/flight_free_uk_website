@@ -246,7 +246,7 @@ iframe {
 	max-height: 100vh;
 	margin: 1rem;
 	overflow-y: auto;
-	background: url(../../../source/images/fundraising-banner-2026-bg-resized.jpg) center top no-repeat;
+	background: center top no-repeat;
 	background-size: cover;
 }
 
