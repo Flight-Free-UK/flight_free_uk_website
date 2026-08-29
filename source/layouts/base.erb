@@ -210,12 +210,13 @@
 
 </head>
 <body class="font-body">
-<%# annual fundraising banner... #%>
+<%# annual fundraising banner...
 <div class="section--banner bg-blue-dark text-gray-light">
     <a href="https://donorbox.org/the-flight-free-uk-annual-fundraiser-2024" class="block mx-0 px-2 py-6 hover:text-orange">
         <p class="text-center italic text-xl xl:text-3xl xl:mb-1">Our annual fundraiser is <span class="text-orange">LIVE</span>! Click here to go to our fundraiser page</p>
     </a>
 </div>
+ #%>
 
 <%= yield %>
 
@@ -225,50 +226,15 @@
 
 <%= javascript_include_tag "main.js" %>
 
-<!-- Begin Brevo Form -->
-<!-- START - We recommend to place the below code in footer or bottom of your website html  -->
-<script>
-  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
-  window.LOCALE = 'en';
-  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please check your details and try again.";
-  window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
-  window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please check your details and try again.";
-  window.translation = {
-    common: {
-      selectedList: '{quantity} list selected',
-      selectedLists: '{quantity} lists selected',
-      selectedOption: '{quantity} selected',
-      selectedOptions: '{quantity} selected',
-    }
-  };
-  var AUTOHIDE = Boolean(1);
-</script>
-<script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
-<!-- END - We recommend to place the above code in footer or bottom of your website html  -->
-<!-- End Brevo Form -->
+<%# start brevo_form %>
+    <%= partial "brevo_form" %>
+<%# end brevo_form %>
 
-<%# Fundraiser popup / modal %>
-<div class="modal micromodal-slide" id="modal-fundraiser" aria-hidden="true">
-  <div class="modal__overlay" tabindex="-1" data-micromodal-close>
-    <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-fundraiser-title">
-      <header class="modal__header">
-        <h2 class="modal__title" id="modal-fundraiser-title">
-          Micromodal
-        </h2>
-        <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
-      </header>
-      <main class="modal__content" id="modal-fundraiser-content">
-        <p>
-          Try hitting the <code>tab</code> key and notice how the focus stays within the modal itself. Also, <code>esc</code> to close modal.
-        </p>
-      </main>
-      <footer class="modal__footer">
-        <button class="modal__btn modal__btn-primary">Continue</button>
-        <button class="modal__btn" data-micromodal-close aria-label="Close this dialog window">Close</button>
-      </footer>
-    </div>
-  </div>
-</div>
+<% if current_page.path == 'index.html' %>
+<%# start fundraiser_modal %>
+    <%= partial "fundraiser_modal" %>
+<%# end fundraiser_modal %>
+<% end %>
 
 </body>
 </html>
