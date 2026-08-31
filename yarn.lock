@@ -8250,6 +8250,11 @@ micromatch@^4.0.2, micromatch@^4.0.7, micromatch@^4.0.8:
     braces "^3.0.3"
     picomatch "^2.3.1"
 
+micromodal@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/micromodal/-/micromodal-0.7.0.tgz#b9dca2a6d117667cb1863d0cfb733bbb48b23eca"
+  integrity sha512-DOU0eE7tByNFTrU9KgPIywt2imA2+ttMMoE89BU/w/r92tNemGFwCg5QTZLLv04N53ZGTizg10zeT7dUv8V/ug==
+
 miller-rabin@^4.0.0:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/miller-rabin/-/miller-rabin-4.0.1.tgz#f080351c865b0dc562a8462966daa53543c78a4d"

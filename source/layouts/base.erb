@@ -45,7 +45,6 @@
   <meta name="twitter:image" content="https://flightfree.co.uk<%= sm_image %>" />
 
   <%= stylesheet_link_tag "main" %>
-  <%= javascript_include_tag "https://unpkg.com/micromodal/dist/micromodal.min.js" %>
 
 <!-- Begin Brevo Form -->
 <!-- START - We recommend to place the below code in head tag of your website html  -->
@@ -211,40 +210,31 @@
 
 </head>
 <body class="font-body">
+<%# annual fundraising banner...
+<div class="section--banner bg-blue-dark text-gray-light">
+    <a href="https://donorbox.org/the-flight-free-uk-annual-fundraiser-2024" class="block mx-0 px-2 py-6 hover:text-orange">
+        <p class="text-center italic text-xl xl:text-3xl xl:mb-1">Our annual fundraiser is <span class="text-orange">LIVE</span>! Click here to go to our fundraiser page</p>
+    </a>
+</div>
+ #%>
 
 <%= yield %>
 
 <%# start footer %>
     <%= partial "footer" %>
 <%# end footer %>
-  
-<script type="text/javascript">
-	MicroModal.init();
-</script>
 
 <%= javascript_include_tag "main.js" %>
 
-<!-- Begin Brevo Form -->
-<!-- START - We recommend to place the below code in footer or bottom of your website html  -->
-<script>
-  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
-  window.LOCALE = 'en';
-  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please check your details and try again.";
-  window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
-  window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please check your details and try again.";
-  window.translation = {
-    common: {
-      selectedList: '{quantity} list selected',
-      selectedLists: '{quantity} lists selected',
-      selectedOption: '{quantity} selected',
-      selectedOptions: '{quantity} selected',
-    }
-  };
-  var AUTOHIDE = Boolean(1);
-</script>
-<script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
-<!-- END - We recommend to place the above code in footer or bottom of your website html  -->
-<!-- End Brevo Form -->
+<%# start brevo_form %>
+    <%= partial "brevo_form" %>
+<%# end brevo_form %>
+
+<% if current_page.path == 'index.html' %>
+<%# start fundraiser_modal %>
+    <%= partial "fundraiser_modal" %>
+<%# end fundraiser_modal %>
+<% end %>
 
 </body>
 </html>

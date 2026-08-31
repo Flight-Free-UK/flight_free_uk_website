@@ -3,14 +3,6 @@ layout: base
 title: Flight Free UK
 ---
 
-<%# annual fundraising banner... 
-<section class="section--banner bg-blue-dark text-gray-light">
-    <a href="https://donorbox.org/the-flight-free-uk-annual-fundraiser-2024" class="block mx-auto px-2 py-6 hover:text-orange">
-        <p class="text-center italic text-xl xl:text-3xl xl:mb-1">Our annual fundraiser is <span class="text-orange">LIVE</span>! Click here to go to our fundraiser page</p>
-    </a>
-</section>
-#%>
-
 <section class="section--introduction bg-blue-dark text-gray-light bg-cover bg-center-bottom md:bg-right-bottom px-4 pt-4 xl:pt-0 pb-12" style="background-image: url(/images/pexels-tobias-bjorkli-1559821-blue-1440x810.jpg)">
   <%# start why -%>
     <%= partial "header", locals: { is_home: true } -%>
@@ -45,19 +37,6 @@ title: Flight Free UK
     <%= partial "home_mythbusting" %>
 <%# end mythbuster %>
 
-  <!-- PLEDGE MODAL (CUSTOM) class="is-open" is added to the modal to make it visible -->
-  <section id="pledge-custom-modal" aria-hidden="true" class="hidden modal">
-    <div tabindex="-1" data-micromodal-close class="fixed inset-0 flex items-center justify-center" style="background-color:rgba(31, 77, 123, 0.9)">
-      <div role="dialog" aria-modal="true" aria-labelledby="pledge-custom-modal-title" class="relative px-6 py-6">
-        <header>
-          <h2 id="pledge-custom-modal-title" class="hidden">
-            I will take the flight free challenge!
-          </h2>
-          <button aria-label="Close modal" data-micromodal-close class="absolute top-0 right-0 w-12 h-12 background-no-repeat bg-contain" style="background-image:url(/svg/popup_close.svg)"></button>
-        </header>
-        <div id="pledge-custom-modal-content">
-          <%= partial "pledge_form_custom", locals: { id: "modal" }  %>
-        </div>
-      </div>
-    </div>
-  </section>
+<%# start pledge_modal_custom %>
+    <%= partial "pledge_modal_custom" %>
+<%# end pledge_modal_custom %>
