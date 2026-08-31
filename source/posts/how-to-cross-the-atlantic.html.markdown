@@ -42,7 +42,7 @@ Sailings cost €3,310 for the journey to Baltimore.
 
 In previous years, a common way for travellers to cross the ocean flight-free was by passage on a freighter. **However, cargo ships stopped carrying passengers during Covid, and most haven’t started again.** 
 
-There is no indication of if or when the practice might start again, but here are two websites where you might find out: [www.cargoshipvoyages.com](https://www.cargoshipvoyages.com/) a﻿nd [www.cargoholidays.com](https://cargoholidays.com/cargo-ship-cruise-to-every-destination)
+There is no indication of if or when the practice might start again, but here is a website where you might find out: [www.cargoshipvoyages.com](https://www.cargoshipvoyages.com/)
 
 We have some inspiring stories here about people who have travelled by cargo ship: 
 
