@@ -127,6 +127,7 @@ function hasClass(element, className) {
  * MicroModal
  */
 import MicroModal from "micromodal";
+MicroModal.init();
 
 /**
  * Fundraiser modal
