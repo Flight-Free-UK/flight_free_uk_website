@@ -1,4 +1,3 @@
 [build]
   command = "bundle exec middleman build"
   publish = "build"
-  targetPort = 4567
