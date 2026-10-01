@@ -127,10 +127,12 @@ function hasClass(element, className) {
  * MicroModal
  */
 import MicroModal from "micromodal";
+MicroModal.init();
 
 /**
  * Fundraiser modal
  */
+/*
 // Initialize MicroModal with onClose callback
 MicroModal.init({
 	disableFocus: true,
@@ -164,3 +166,4 @@ function showModal() {
 		MicroModal.show("modal-fundraiser");
 	}
 }
+	*/
