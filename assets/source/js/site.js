@@ -131,6 +131,7 @@ import MicroModal from "micromodal";
 /**
  * Fundraiser modal
  */
+/*
 // Initialize MicroModal with onClose callback
 MicroModal.init({
 	disableFocus: true,
@@ -164,3 +165,4 @@ function showModal() {
 		MicroModal.show("modal-fundraiser");
 	}
 }
+	*/
