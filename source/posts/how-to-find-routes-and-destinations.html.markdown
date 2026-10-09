@@ -74,6 +74,12 @@ F﻿or physical maps for every country in the world, head to [Stanfords](https:/
 
 [I﻿nterrail](https://www.interrail.eu/en/interrail-passes/global-pass) gives you the freedom to travel where you like, when you like. The website has extensive travel information which can give you all the ideas you need for your holiday. 
 
+An Interrail pass can give lots of flexibility to a journey, but mostly, it can help to significantly keep the cost down. The pass can be used for travel in the UK, as long as you cross into mainland Europe on your first travel day. That can really help to bring down the cost of the UK leg, as you can make your way to London then catch a late Eurostar to Brussels, Paris, Lille or Amsterdam, stay overnight, then make your onward journey the following day.
+
+Some trains require seat reservations – typically the high-speed trains. Eurostar reservations are mandatory and cost €32. Reservations on high speed services such as TGV, AVE, Frecciarossa etc cost around €15. 
+
+Y﻿ou can find our guide to using Interrail [here](https://flightfree.co.uk/post/how-to-interrail/).
+
 ###### For route ideas and accounts of other people’s journeys, head to our [Destination Inspiration](/how_to/#destination-inspiration) pages.
 
 ###### Follow these links for specific information on how to travel [by train](/post/how-to-travel-by-train/) | [by bike](/post/how-to-travel-by-bike) | [by ferry](/post/how-to-travel-by-ferry/) | [by coach](/post/how-to-travel-by-coach) | [by electric car](/post/how-to-travel-by-electric-car/)
