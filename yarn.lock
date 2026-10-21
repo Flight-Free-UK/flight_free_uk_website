@@ -1217,9 +1217,9 @@
     fast-uri "^4.0.0"
 
 "@fastify/busboy@^3.1.1":
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/@fastify/busboy/-/busboy-3.2.1.tgz#b312bc47da6267d64d91c5dee57aab705682f236"
-  integrity sha512-tgK4O+57iz5ycYNGXE5ZWj1ES03lD2XnnBYWSbU/3wYZRMQzCUq7Ycds/RdyBZQeL5MU4fxBt6lzbIWf/Bickw==
+  version "3.2.3"
+  resolved "https://registry.yarnpkg.com/@fastify/busboy/-/busboy-3.2.3.tgz#4a21ff2fbdf8b199cfac7230c1721adc9f5cba1f"
+  integrity sha512-fmo/IKgkenPzz3qTKG+sIUXdF/Kv83AkvvOXJHPTHJeKJbat8SsL1ihUaFaDotqoEl4UZ1Lf8Eb/3vK6eaWX2A==
 
 "@fastify/error@^4.0.0":
   version "4.2.0"
