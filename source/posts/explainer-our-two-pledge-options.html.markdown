@@ -48,7 +48,7 @@ Even if you people choose to fly again after the year is up, it's unlikely to be
 
 I﻿f you fly, it's going to be a significant challenge to avoid flying for a full year, especially if those around you are still flying. 
 
-But, as we found out during 2020, it is entirely possible to stay grounded for a whole year (it's much easier if you've chosen this than if a global pandemic has forced you to stop). It's a mindset shift more than anything, and once that's happened, it can be easier than you think. 
+But, as we found out during 2020, it is entirely possible to stay grounded for a whole year (it's much easier if you've chosen this than if a global pandemic has forced you to stop). It's a mindset shift more than anything, and it can be easier than you think. 
 
 ## For those who can’t be completely flight free for a year, we also offer a ‘free choice’ pledge.
 
