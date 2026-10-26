@@ -39,7 +39,7 @@ Here are some figures for comparison:
 
 *All flight emissions data is from [flightemissionmap.org](https://www.flightemissionmap.org/), accurate at time of publication*
 
-![](/images/uploads/bar-chart-2026-update.jpg)
+![](/images/uploads/oct-2026-bar-chart-update.jpg)
 
 Multiple flights very quickly add up, so if you are taking several flights per year, they could easily contribute half or more of your carbon footprint.
 
@@ -49,10 +49,10 @@ When we consider that the recommended sustainable footprint is just 2.3 tonnes p
 
 #### If we are to move to a low-carbon society, cutting out non-essential sources of emissions will be vital, and for most people, that’s flights.
 
-*Calculations for chart (all sources accessed Jan 2026):*
+*Calculations for chart (all sources accessed October 2026):*
 
 * *Flight emissions from [flightemissionmap.org](http://flightemissionmap.org)*
-* *H﻿eating emissions from [theecoexperts.co.uk/news/average-carbon-footprint-uk](https://www.theecoexperts.co.uk/news/average-carbon-footprint-uk)*
+* *H﻿eating emissions from [renewableenergyhub.co.uk/main/heat-pumps-information/co2-carbon-savings-of-a-heat-pump-and-their-environmental-cost](https://www.renewableenergyhub.co.uk/main/heat-pumps-information/co2-carbon-savings-of-a-heat-pump-and-their-environmental-cost)*
 * *Average meat consumption in the UK = [85g per day](https://www.bbc.co.uk/news/explainers-59232599), 85g meat per day generates [5.63kg CO2](https://ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), x 365 = 2.06 tonnes per year*
-* *Driving emissions from [nimblefins.co.uk/average-co2-emissions-car-uk](http://nimblefins.co.uk/average-co2-emissions-car-uk)*
+* *Driving emissions  = 7,100 average mileage (RAC [dev.racfoundation.org/motoring-faqs/mobility#a32](https://dev.racfoundation.org/motoring-faqs/mobility#a32)), x 0.28 (kg CO2e of average car in the UK from [Government emissions figures 2026](https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting))*
 * *Lightbulb emissions from [energysavingtrust.org.uk/advice/lighting](http://energysavingtrust.org.uk/advice/lighting)*
