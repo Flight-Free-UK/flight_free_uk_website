@@ -40,9 +40,9 @@ For a long time, environmentalism has been about changing lightbulbs and doing t
 
 #### 5. B﻿ecause it's a proven method of behaviour change
 
-C﻿hanging something for a short time can lead to longer-term behaviour change, as we see with movements such as Stoptober and Veganuary. Of course, these challenges last for just one month, not one year. But we eat (and smoke) several times a day, whereas flights come only every so often, so taking a full year off flying has an equivalent level of challenge to spending a whole month avoiding animal products or cigarettes
+C﻿hanging something for a short time can lead to longer-term behaviour change, as we see with movements such as Stoptober and Veganuary. Of course, these challenges last for just one month, not one year. But we eat (and smoke) several times a day, whereas flights come only every so often, so taking a full year off flying has an equivalent level of challenge to spending a whole month avoiding animal products or cigarettes.
 
-Even if you choose to fly again after the year is up, it's unlikely you'll go back to the same level of flying as before. We don't say you can never fly again – we just challenge you to give it a try.
+Even if you people choose to fly again after the year is up, it's unlikely to be at the same level of flying as before. We don't say you can never fly again – we just challenge you to give it a try.
 
 #### 6. .﻿.. and it's really hard, but also really easy
 
