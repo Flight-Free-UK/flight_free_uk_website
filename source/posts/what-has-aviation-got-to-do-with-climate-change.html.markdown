@@ -31,11 +31,21 @@ W﻿hichever way you look at it, aviation's contribution to global emissions is 
 
 Even 3.5% or 4% seems low, though! But it's not because aviation emissions are low. It's because, globally, very few people fly – [only around 10% in any given year](https://partner.sciencenorway.no/climate-change-global-warming-transport/1-of-people-cause-half-of-global-aviation-emissions-most-people-in-fact-never-fly/1773607). A very small proportion of the world’s population flies, making aviation's overall contribution small when you compare it to other industries.
 
-#### Local and individual level
+#### UK emissions from flights 
 
-In the UK, aviation emissions make up [around 10%](https://www.aef.org.uk/what-we-do/climate/) of our national annual emissions. On an individual level, it’s likely to be a lot higher.
+In the UK, aviation emissions make up [around 10%](https://www.aef.org.uk/what-we-do/climate/) of our national annual emissions. 
 
-For example, depending on where you’re flying to, one flight could equal a year’s worth of an activity like driving.
+Even here in the UK, half of us don't fly in any given year. 
+
+#### I﻿f we all flew...
+
+I﻿f we all flew as much as the frequent flyers, emissions from aviation alone would be higher than our current total global emissions from everything.
+
+I﻿f everybody took 'just one flight', aviation emissions would make up 22 billion tonnes p/a. They are currently 1 billion tonnes p/a.
+
+#### Our impact as individuals
+
+Depending on where you’re flying to, one flight could equal a year’s worth of emissions from an activity like driving.
 
 Here are some figures for comparison: 
 
@@ -51,9 +61,11 @@ Multiple flights very quickly add up, so if you are taking several flights per y
 
 Another way to look at it is that flights wipe out the savings you might have made through making an effort in other areas – for example, [following a vegan diet](https://flightfree.co.uk/post/is-it-better-to-be-vegan-or-give-up-flying/), or driving less.
 
-When we consider that the recommended sustainable footprint is just 2.3 tonnes per year, we quickly see that there isn’t any room for flights once we have included the things that are essential to living, such as food, shelter and warmth. 
+#### Recommended ‘sustainable’ footprint
 
-#### If we are to move to a low-carbon society, cutting out non-essential sources of emissions will be vital, and for most people, that’s flights.
+In 2018 the IPCC recommended that each person in the world should limit their emissions to 2.3 tonnes in total. Most people are currently below that, but here in the West and in the UK we are higher. That could be taken up by the things we need to do, like eat and heat our homes. There's very little room left for flights. 
+
+##### Moving to a low-carbon society means cutting out non-essential sources of emissions, and for most people, that’s flights.
 
 *Calculations for chart (all sources accessed October 2026):*
 
@@ -62,3 +74,7 @@ When we consider that the recommended sustainable footprint is just 2.3 tonnes p
 * *Average meat consumption in the UK = [85g per day](https://www.bbc.co.uk/news/explainers-59232599), 85g meat per day generates [5.63kg CO2](https://ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), x 365 = 2.06 tonnes per year*
 * *Driving emissions = 7,100 average mileage (RAC [dev.racfoundation.org/motoring-faqs/mobility#a32](https://dev.racfoundation.org/motoring-faqs/mobility#a32)), x 0.28 (kg CO2e of average car in the UK from [Government emissions figures 2026](https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting))*
 * *Lightbulb emissions from [energysavingtrust.org.uk/advice/lighting](http://energysavingtrust.org.uk/advice/lighting)*
+
+\_\_\_\_\_\_\_\_
+
+If you are inspired by this post, consider [taking the Flight Free Challenge](https://flightfree.co.uk/#take-the-challenge), or [donating to Flight Free UK](https://donorbox.org/donate-to-flight-free-uk/)
