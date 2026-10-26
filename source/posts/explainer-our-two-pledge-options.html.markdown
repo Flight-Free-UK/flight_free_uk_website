@@ -32,7 +32,7 @@ Lots of people fly because it’s become the default way of travelling, and we a
 
 We humans are heavily influenced by each other, so if we see lots of people taking a certain action, it encourages us to do the same. That's one of the reasons why flying has become so normalised in our society. If everyone around you flies, you probably do too. 
 
-T﻿he advantage of this is that it works the other way, too – and it means change can happen quickly. If lots of people change their travel habits, it starts to shift the social norms. We can 'denormalise' flying as the norm if lots of us act together.
+T﻿he advantage of this is that it works the other way, too – and it means change can happen quickly. If lots of people change their travel habits, it starts to shift the social norms. We can 'denormalise' flying if lots of us act together.
 
 #### 4. To communicate the urgency of the climate crisis
 
