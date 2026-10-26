@@ -56,7 +56,7 @@ Everybody’s circumstances are different, and there might be a reason why you c
 
 This might work especially well for people who have relatives abroad, who are not easily reached without flying. Some work commitments also require a flight.
 
-It could also be a useful starting point for people who haven’t considered reducing their flights before, but would be prepared to challenge themselves to take no flights within Europe, for example. After that, a more difficult challenge would seem more easy.
+It could also be a useful starting point for people who haven’t considered reducing their flights before, but would be prepared to challenge themselves to take no flights within Europe, for example. After that, a more difficult challenge would seem more achievable.
 
 We want to make it clear that we’re not letting people ‘off the hook’ with our free-choice pledge, but we understand that living in a globalised world comes with plenty of challenges, and it’s simply not practical for everyone to be completely flight free. We still invite those people to take part in our challenge because it's a great way to demonstrate good intentions, to work towards reducing emissions, and to show our leaders and politicians that people are concerned about the climate. 
 
