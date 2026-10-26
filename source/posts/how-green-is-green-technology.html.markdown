@@ -9,31 +9,31 @@ summary: Green tech is promised as a way to solve aviation's emissions problem.
 author: FlightFree UK
 read_time_minute: 3
 ---
-## Decarbonising aviation is a huge challenge, and one that the industry is throwing lots of money and innovation at.
+### Decarbonising aviation is a huge challenge, and the industry is currently investing a lot of money and innovation into addressing it.
 
-#### But are new technological developments going to be effective in bringing aviation emissions down?
+##### S﻿o how will new technological developments bring aviation emissions down?
 
-We take a look at some of the developments on the horizon.
+H﻿ere's a brief run-down of some of the developments on the horizon.
 
 #### Electric planes
 
-Electrification is touted as the best way to decarbonise most modes of transport, and aviation is no exception. Electric planes of varying types and sizes, including solar planes, have been presented by many of the big players in the industry including [Rolls Royce](https://www.bbc.co.uk/news/uk-england-derbyshire-60068786).
+Electrifying our transport is an established way of reducing emissions, as we've seen on the roads. Electric planes work in much the same way as electric cars, with batteries powering motors which turn propellors and turbos. 
 
-The first consideration is that electric transportation is not without environmental and human cost, with significant resources going into making batteries, and the sourcing of materials often involving human rights abuses and child exploitation. 
+E﻿lectric flight has been in development for some time, with the first commercial prototype [unveiled at the Paris Air Show in 2019](https://www.bbc.co.uk/news/business-48630656)a﻿nd companies including [Rolls Royce](https://www.bbc.co.uk/news/uk-england-derbyshire-60068786) showcasing all-electric engines.
 
-> Electric transportation is not without environmental and human cost.
-
-Of course, this is [nowhere near as high](https://www.sustainabilitybynumbers.com/p/mining-low-carbon-vs-fossil) as the resources (and human rights abuses) used for fossil fuel extraction, but is still an important consideration.
+T﻿he main challenges with electric flight is range and capacity. The size and weight of the batteries (which don't get lighter the further you travel, unlike fuel tanks) means that electric planes would be able to take a [much smaller number of passengers than current aircraft](https://www.weforum.org/agenda/2019/08/aviation-electric-planes-climate-change/), and the range capacity means that they would only ever be suitable for short-haul travel.
 
 Secondly, flights would only be 'carbon neutral' if the electricity comes from renewable sources.
 
 This begs the question of whether using renewables for aviation is the best use of an already scarce power source. The priority for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
 
+A﻿nother consideration is that electric transportation is not without environmental and human cost, with significant resources going into making batteries, and the sourcing of materials often involving human rights abuses and child exploitation. 
+
+> Electric transportation is not without environmental and human cost.
+
+Of course, this is [nowhere near as high](https://www.sustainabilitybynumbers.com/p/mining-low-carbon-vs-fossil) as the resources (and human rights abuses) used for fossil fuel extraction, but is still an important consideration.
+
 > The priority for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
-
-In practical terms, the size and weight of the batteries (which don't get lighter the further you travel, unlike fuel tanks) means that electric planes would be able to take a [much smaller number of passengers than current aircraft](https://www.weforum.org/agenda/2019/08/aviation-electric-planes-climate-change/), and the range capacity means that they would only ever be suitable for short-haul travel.
-
-Given that we already have a short-haul method of electric travel – the train – it feels that any investment would be better spent on the rail network.
 
 Electric planes have their place, for example on short-hop flights such as those in the Highlands and Islands, but they will never be suitable for large-scale commercial aviation.
 
