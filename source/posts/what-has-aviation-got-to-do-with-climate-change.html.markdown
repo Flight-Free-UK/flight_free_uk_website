@@ -29,11 +29,11 @@ In the UK, aviation emissions make up [around 10%](https://www.aef.org.uk/what-w
 
 For example, depending on where you’re flying to, one flight could equal a year’s worth of an activity like driving.
 
-Here are some figures for comparison:
+Here are some figures for comparison: 
 
-* H﻿eating your home for a year: [2.2 tonnes CO2](https://www.theecoexperts.co.uk/news/average-carbon-footprint-uk) = a return flight to LA (2.24 tonnes CO2)
-* E﻿ating meat for a year: [2.06 tonnes CO2](https://flightfree.co.uk/post/is-it-better-to-be-vegan-or-give-up-flying/) = a return flight to Dhaka (2.03 tonnes CO2)
-* D﻿riving a car for a year: [1.47 tonnes CO2](https://www.nimblefins.co.uk/average-co2-emissions-car-uk) = a return flight to New York (1.41 tonnes CO2)
+* H﻿eating your home for a year: [2.5 tonnes CO2](https://www.renewableenergyhub.co.uk/main/heat-pumps-information/co2-carbon-savings-of-a-heat-pump-and-their-environmental-cost) = a return flight to Buenos Aires (2.6 tonnes CO2)
+* E﻿ating meat for a year: [2.06 tonnes CO2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4372775/) = a return flight to Maldives (2.01 tonnes CO2)
+* D﻿riving a car for a year: [](https://www.nimblefins.co.uk/average-co2-emissions-car-uk)[1.98 tonnes CO2](https://dev.racfoundation.org/motoring-faqs/mobility#a32) = a return flight to Las Vegas (1.96 tonnes CO2)
 
 *All flight emissions data is from [flightemissionmap.org](https://www.flightemissionmap.org/), accurate at time of publication*
 
@@ -52,5 +52,5 @@ When we consider that the recommended sustainable footprint is just 2.3 tonnes p
 * *Flight emissions from [flightemissionmap.org](http://flightemissionmap.org)*
 * *H﻿eating emissions from [renewableenergyhub.co.uk/main/heat-pumps-information/co2-carbon-savings-of-a-heat-pump-and-their-environmental-cost](https://www.renewableenergyhub.co.uk/main/heat-pumps-information/co2-carbon-savings-of-a-heat-pump-and-their-environmental-cost)*
 * *Average meat consumption in the UK = [85g per day](https://www.bbc.co.uk/news/explainers-59232599), 85g meat per day generates [5.63kg CO2](https://ncbi.nlm.nih.gov/pmc/articles/PMC4372775/), x 365 = 2.06 tonnes per year*
-* *Driving emissions  = 7,100 average mileage (RAC [dev.racfoundation.org/motoring-faqs/mobility#a32](https://dev.racfoundation.org/motoring-faqs/mobility#a32)), x 0.28 (kg CO2e of average car in the UK from [Government emissions figures 2026](https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting))*
+* *Driving emissions = 7,100 average mileage (RAC [dev.racfoundation.org/motoring-faqs/mobility#a32](https://dev.racfoundation.org/motoring-faqs/mobility#a32)), x 0.28 (kg CO2e of average car in the UK from [Government emissions figures 2026](https://www.gov.uk/government/collections/government-conversion-factors-for-company-reporting))*
 * *Lightbulb emissions from [energysavingtrust.org.uk/advice/lighting](http://energysavingtrust.org.uk/advice/lighting)*
