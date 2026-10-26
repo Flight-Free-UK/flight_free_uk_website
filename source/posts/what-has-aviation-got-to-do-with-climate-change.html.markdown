@@ -2,26 +2,34 @@
 published: true
 title: How bad are aviation emissions?
 category: explainer
-date: 2021-02-02T18:34:00.503Z
+date: 2026-10-26T19:59:49.139Z
 cover_image: /images/uploads/aviation-and-climate-change.jpg
 summary: We examine how aviation relates to climate change, and why addressing
   our emissions from flying is so important
 author: FlightFree UK
 read_time_minute: 3
 ---
-## It’s commonly quoted that aviation is responsible for just 2% of global emissions, therefore we shouldn’t worry about it.
+### Y﻿ou might have heard airlines saying that aviation is responsible for just 2% of global emissions, therefore we shouldn’t worry about it.
 
-#### Is that correct? Just how bad are aviation emissions?
+##### But is that correct? Just how bad are aviation emissions? 
 
-#### More than CO2
+#### 2% is a low estimate
 
-The 2% figure is widely used to compare the carbon output of the aviation industry with other industries. But CO2 is responsible for only about a [third of aviation’s warming effect](https://www.carbonbrief.org/guest-post-calculating-the-true-climate-impact-of-aviation-emissions/). Non-CO2 emissions such as nitrous oxide and water vapour contribute too. This is the radiative forcing index of aviation – a mixture of greenhouse gases, released into the upper atmosphere and forming contrails, making the total impact much higher than that of the CO2 alone.
+Compared to other industries, such as [concrete (8%)](https://www.chathamhouse.org/2018/06/making-concrete-change-innovation-low-carbon-cement-and-concrete) or [animal agriculture (15%)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7929601/), 2% sounds low. ICT (data centres, telecom networks and personal devices) alone accounts for [around 4%](https://www.sciencedirect.com/science/article/pii/S2666389921001884)of global emissions. 
 
-Taking all of this into account, the [total contribution of aviation to global heating is estimated as 3.5%](https://www.carbonbrief.org/guest-post-calculating-the-true-climate-impact-of-aviation-emissions/). 
+It’s a convenient argument for airlines, the industry, and even passengers. If aviation is only responsible for 2% of global emissions – much lower than other industries – then why stop?
 
-#### The global picture
+B﻿ut there are other factors to consider when we talk about aviation. More recent analysis suggests we've been downplaying aviation's impact. Some sources suggest a more accurate figure is 3.5%. Some say 4%. 
 
-Even 3.5% seems low, though! The reason is that, globally, very few people fly – [only around 10% in any given year](https://partner.sciencenorway.no/climate-change-global-warming-transport/1-of-people-cause-half-of-global-aviation-emissions-most-people-in-fact-never-fly/1773607). So it’s not that aviation emissions are low, it’s that a very small proportion of the world’s population flies.
+S﻿ome sources say that radiative forcing – the warming effect of greenhouse gases in the upper atmosphere – doubles to triples aviation's contribution to global emissions. Much of this is down to contrails forming, which act like a blanket over the earth.
+
+CO2 can last for centuries, so some argue that putting it directly into the upper atmosphere does much more harm than the same emissions do at ground level. 
+
+W﻿hichever way you look at it, aviation's contribution to global emissions is higher than 2%.
+
+#### Only a few people access aviation
+
+Even 3.5% or 4% seems low, though! But it's not because aviation emissions are low. It's because, globally, very few people fly – [only around 10% in any given year](https://partner.sciencenorway.no/climate-change-global-warming-transport/1-of-people-cause-half-of-global-aviation-emissions-most-people-in-fact-never-fly/1773607). A very small proportion of the world’s population flies, making aviation's overall contribution small when you compare it to other industries.
 
 #### Local and individual level
 
