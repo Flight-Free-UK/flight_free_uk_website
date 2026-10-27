@@ -9,6 +9,8 @@ summary: "The aviation industry says that SAFs, or sustainable aviation fuels,
 author: FlightFree UK
 read_time_minute: 5
 ---
+*P﻿ost updated October 2026*
+
 ### S﻿AF (so-called 'sustainable' aviation fuel), is the aviation industry's preferred method of going green.
 
 ##### N﻿ew fuels can be used in the place of kerosene (conventional jet fuel), therefore reducing emissions without disrupting service or requiring a complete overhaul of aeroplanes or the industry.
@@ -39,9 +41,9 @@ The ‘savings’ come in the lifecycle of the fuel, which we will examine below
 
 The most common and easy-to-understand way that SAF reduces emissions is with biofuel crops. Plants absorb CO2 as they grow, so when they are harvested, turned into jet fuel and burned, the amount of CO2 that they’ve absorbed in their lifetime is balanced against the amount that is produced through the production and burning. This is commonly how the 80% emissions reduction figure is reached. 
 
-Biofuel manufacturers claim that their calculations take into account every step of the process, including land use change (changing from, say, agricultural crops to biofuel crops), harvesting, transportation, processing, storing, distributing, fuelling and burning. It feels like quite a stretch that all those processes would still result in an 80% reduction in emissions. 
+Biofuel manufacturers claim that their calculations take into account every step of the process, including land use change (changing from, say, agricultural crops to biofuel crops), harvesting, transportation, processing, storing, distributing, fuelling and burning. But it's unclear how all those processes would result in an 80% reduction in emissions, given the energy-intensity of each stage.
 
-But let’s go with it and say it does. What happens when the land use change is not from previous agricultural land, but from biodiverse-rich natural landscapes, for example, rainforest? Biofuel cultivation is a leading driver of deforestation. Replacing natural eco-systems that support a variety of plant and animal life with an intensively-farmed monoculture is a disaster for the climate, making biofuels that are grown in this way far, far worse on balance than just using fossil fuels. 
+A﻿dditionally, what happens when the land use change is not from previous agricultural land, but from biodiverse-rich natural landscapes, for example, rainforest? Biofuel cultivation is a leading driver of deforestation. Replacing natural eco-systems that support a variety of plant and animal life with an intensively-farmed monoculture is a disaster for the climate, making biofuels that are grown in this way far, far worse on balance than just using fossil fuels. 
 
 ##### All major SAF pathways are already used for something else
 
