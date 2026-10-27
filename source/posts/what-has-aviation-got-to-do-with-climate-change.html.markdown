@@ -9,9 +9,11 @@ summary: We examine how aviation relates to climate change, and why addressing
 author: FlightFree UK
 read_time_minute: 3
 ---
+*P﻿ost updated October 2026*
+
 ### Y﻿ou might have heard airlines saying that aviation is responsible for just 2% of global emissions, therefore we shouldn’t worry about it.
 
-##### But is that correct? Just how bad are aviation emissions? 
+##### But is that correct? Just how bad are aviation emissions?
 
 #### 2% is a low estimate
 
@@ -31,7 +33,7 @@ W﻿hichever way you look at it, aviation's contribution to global emissions is 
 
 Even 3.5% or 4% seems low, though! But it's not because aviation emissions are low. It's because, globally, very few people fly – [only around 10% in any given year](https://partner.sciencenorway.no/climate-change-global-warming-transport/1-of-people-cause-half-of-global-aviation-emissions-most-people-in-fact-never-fly/1773607). A very small proportion of the world’s population flies, making aviation's overall contribution small when you compare it to other industries.
 
-#### UK emissions from flights 
+#### UK emissions from flights
 
 In the UK, aviation emissions make up [around 10%](https://www.aef.org.uk/what-we-do/climate/) of our national annual emissions. 
 
