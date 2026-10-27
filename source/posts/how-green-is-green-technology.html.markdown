@@ -21,7 +21,7 @@ H﻿ere's a brief run-down of some of the developments on the horizon.
 
 Electrifying our transport is an established way of reducing emissions, as we've seen on the roads. Electric planes work in much the same way as electric cars, with batteries powering motors which turn propellors or turbos. 
 
-E﻿lectric flight has been in development for some time, with the first commercial prototype [unveiled at the Paris Air Show in 2019](https://www.bbc.co.uk/news/business-48630656) ﻿and companies including [Rolls Royce](https://www.bbc.co.uk/news/uk-england-derbyshire-60068786) [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) and [ZeroAvia](https://zeroavia.com/) working on electric engines and planes. 
+E﻿lectric flight has been in development for some time, with the first commercial prototype [unveiled at the Paris Air Show in 2019](https://www.bbc.co.uk/news/business-48630656) ﻿and companies including [Rolls Royce](https://www.bbc.co.uk/news/uk-england-derbyshire-60068786), [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) and [ZeroAvia](https://zeroavia.com/) working on electric engines and planes. 
 
 T﻿he technology works – a 30-seat electric aircraft completed a [successful test flight](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) in August 2026, and electrification will go a long way to reducing emissions and noise.
 
