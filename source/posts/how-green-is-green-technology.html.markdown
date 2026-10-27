@@ -96,3 +96,7 @@ Electric planes can't replace the volume and distance of today's planes. Hydroge
 There are simply not enough resources to decarbonise current levels of aviation, especially as those resources would be better used elsewhere. 
 
 **O﻿ur priority should be reducing the amount we fly – and using technology to decarbonise the flights that remain.**
+
+\_\_\_\_\_\_\_\_
+
+If you are inspired by this post, consider [taking the Flight Free Challenge](https://flightfree.co.uk/#take-the-challenge), or [donating to Flight Free UK](https://donorbox.org/donate-to-flight-free-uk/)
