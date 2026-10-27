@@ -23,7 +23,7 @@ Electrifying our transport is an established way of reducing emissions, as we've
 
 E﻿lectric flight has been in development for some time, with the first commercial prototype [unveiled at the Paris Air Show in 2019](https://www.bbc.co.uk/news/business-48630656) ﻿and companies including [Rolls Royce](https://www.bbc.co.uk/news/uk-england-derbyshire-60068786), [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) and [ZeroAvia](https://zeroavia.com/) working on electric engines and planes. 
 
-T﻿he technology works – a 30-seat electric aircraft completed a [successful test flight](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) in August 2026, and electrification will go a long way to reducing emissions and noise.
+T﻿he technology works: a 30-seat electric aircraft completed a [successful test flight](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) in August 2026. Electrification will go a long way to reducing emissions and noise.
 
 #### Electric flight – challenges
 
@@ -79,11 +79,11 @@ A﻿irlines and policy-makers often point out that aircraft engines are much mor
 
 T﻿hat's true. Modern aircraft are around [80% more fuel-efficient](https://cascade.boeing.com/learn/fuel-efficiency-through-the-jet-age/) than the first commercial airliners introduced in the 1960s, and they are getting more efficient all the time: the Boeing 777X reduces fuel burn by 15% compared its predecessor, the 777-300.
 
-E﻿fficiency gains such as improved design and technology, larger planes that can carry more passengers, and a higher load factor, mean that [emissions per-passenger more than halved between 1990 and 2019](https://ourworldindata.org/global-aviation-emissions). 
+E﻿fficiency gains such as improved design and technology, larger planes that can carry more passengers, and a higher load factor, mean that [emissions per-passenger more than halved between 1990 and 2019](https://ourworldindata.org/global-aviation-emissions#efficiency-has-improved-but-increasing-global-demand-has-led-to-higher-emissions). 
 
 T﻿he trouble is, in that time, demand has quadrupled. In 1990, airlines carried 1.2 billion passengers globally. By 2019, [that figure was 4.56 billion](https://www.iata.org/en/iata-repository/pressroom/fact-sheets/industry-statistics/). 
 
-It takes roughly 15 years for new aircraft designs to come into commercial use and in that time, growth in demand will have outstripped any efficiency gains.
+It takes roughly 15 years for new aircraft designs to come into commercial use and in that time, growth in demand will likely have outstripped any efficiency gains.
 
 G﻿lobal CO2 emissions from aviation have [quadrupled since the 1960s](https://ourworldindata.org/global-aviation-emissions#global-co2-emissions-from-aviation-have-quadrupled-since-the-1960s). E﻿missions from aviation are still rising, despite new technology. 
 
