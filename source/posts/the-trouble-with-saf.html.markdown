@@ -15,9 +15,9 @@ read_time_minute: 5
 
 **But what is SAF, and is it as green as it sounds?** 
 
-So-called ‘sustainable’ aviation fuel, or SAF, is broadly anything that’s not fossil jet fuel (kerosene). This can be a biofuel, like plants, or animal fat, or used chip fat. Or it could be fossil-fuel derived, like landfill waste or used rubber tyres. Or it could be a synthetic fuel, made from electricity, like e-kerosene or liquid-hydro-carbons.
+So-called ‘sustainable’ aviation fuel, or SAF, is broadly anything that’s not fossil jet fuel (kerosene). This can be a biofuel, like plants, or animal fat, or used chip fat. Or it could be fossil-fuel derived, like landfill waste or used rubber tyres. Or it could be a synthetic fuel, made from electricity, like e-kerosene or liquid hydrogen.
 
-The aviation industry claims that it reduces emissions by 80%, making it a sustainable alternative to conventional jet fuel.
+The aviation industry [claims that it reduces emissions by 80%](https://www.airbus.com/en/innovation/energy-transition/our-commitment-to-saf), making it a sustainable alternative to conventional jet fuel.
 
 You’ll notice the quotation marks around the word ‘sustainable’, and that we say ‘so-called’. We’re highly sceptical about any carbon savings that might be made from using SAF. 
 
@@ -25,15 +25,15 @@ Here’s why.
 
 ##### No reduction in emissions when burned
 
-Regardless of how SAF is produced, it creates just as much CO2 as kerosene when burned. All the SAF pathways produce oil, just like any other oil, so there’s no reduction in the emissions that are created when the plane flies. 
+Regardless of how SAF is produced, it [creates just as much CO2 as kerosene when burned](https://www.iata.org/en/programs/sustainability/reports/saf-handbook/section-2.1). All the SAF pathways produce oil, just like any other oil, so there’s no reduction in the emissions that are created when the plane flies. 
 
 Some sources of SAF can reduce some of the secondary warming impacts of aviation, like [reducing the formation of contrails](https://www.nasa.gov/news-release/nasa-dlr-study-finds-sustainable-aviation-fuel-can-reduce-contrails/), which can help to reduce emissions. But litre-for-litre, SAF creates just as much CO2 as any other fuel.
 
-The aviation industry knows this, and doesn’t hide it.
+The aviation industry knows this.
 
 ##### Savings are ‘up to’ 80% – but can be as low as 40%
 
-The ‘savings’ come in the lifecycle of the fuel, which we will examine below. But it’s worth saying straight away that in order to be certified as SAF, fuels only need to demonstrate a minimum 40% reduction in emissions compared to kerosene. Yet they still quality under the umbrella of SAF, allowing airlines to claim an 80% reduction. 
+The ‘savings’ come in the lifecycle of the fuel, which we will examine below. But it’s worth saying straight away that in order to be certified as SAF, [fuels only need to demonstrate a minimum 40% reduction in emissions](https://www.gov.uk/government/publications/about-the-saf-mandate/the-saf-mandate-an-essential-guide) compared to kerosene. Yet they still quality under the umbrella of SAF, allowing airlines to claim an 80% reduction, regardless of what the saving actually is. 
 
 ##### Some sources of biofuels lead to deforestation
 
