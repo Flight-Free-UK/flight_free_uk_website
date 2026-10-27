@@ -4,29 +4,60 @@ title: The trouble with SAF
 category: explainer
 date: 2021-10-12T16:20:33.748Z
 cover_image: /images/uploads/aircraft_engine_canva.jpg
-summary: SAFs, or sustainable aviation fuels, are heralded by the aviation
-  industry as the answer to carbon emissions. But is that the full story? Finlay
-  Asher and Flight Free UK explain.
+summary: "The aviation industry says that SAFs, or sustainable aviation fuels,
+  can reduce emissions by 80%. But is that true? "
 author: FlightFree UK
 read_time_minute: 4
 ---
-### There is a lot of talk about SAF from airlines and Governments keen to show their eco credentials.
+### S﻿AF (so-called 'sustainable' aviation fuel), is the aviation industry's preferred method of going green.
 
-##### But what is SAF, and is it as green as it sounds? 
+##### T﻿hese n﻿ew fuels can be used in the place of kerosene (conventional jet fuel), therefore reducing emissions without disrupting service or requiring a complete overhaul of aeroplanes or the industry.
 
-Sustainable Aviation Fuels, or SAFs, can be made from biomass (biofuel) or green electricity (electrofuel or e-fuel). Airlines claim that SAFs are climate friendly and can [reduce CO2 emissions by 70%](https://www.sustainableaviation.co.uk/wp-content/uploads/2020/02/SustainableAviation_FuelReport_20200231.pdf) vs fossil fuels. 
+But what is SAF, and is it as green as it sounds? 
 
-But SAFs emit the [same amount of CO2 as kerosene](https://www.icao.int/environmental-protection/knowledge-sharing/Docs/Sustainable%20Aviation%20Fuels%20Guide_vf.pdf) when burned – any greenhouse gas savings come in the production stage. For example, biofuels extract carbon from the atmosphere or biosphere as they grow, so the amount of carbon absorbed can be claimed as an emissions savings. In most cases, the figure is optimistic.  
+So-called ‘sustainable’ aviation fuel, or SAF, is broadly anything that’s not fossil jet fuel (kerosene). This can be a biofuel, like plants, or animal fat, or used chip fat. Or it could be fossil-fuel derived, like landfill waste or used rubber tyres. Or it could be a synthetic fuel, made from electricity, like e-kerosene or liquid-hydro-carbons.
 
-> SAFs emit the same amount of CO2 as kerosene when burned 
+The aviation industry claims that it reduces emissions by 80%, making it a sustainable alternative to conventional jet fuel.
 
-##### W﻿hat are biofuels?
+You’ll notice the quotation marks around the word ‘sustainable’, and that we say ‘so-called’. We’re highly sceptical about any carbon savings that might be made from using SAF. 
 
-Biofuels typically come from agricultural crops or waste from farms, municipal waste from cities, inedible animal fats, or used cooking oil. Using ‘virgin’ crops (i.e. not from waste) is hugely damaging: plantations of crops such as palm oil, rapeseed or soy are a leading driver of deforestation, as well as being a disaster for biodiversity. The overall effect is that using biofuel can be worse than using fossil fuel.
+Here’s why.
 
-> Crops such as palm oil are a leading driver of deforestation, as well as being a disaster for biodiversity
+**No reduction in emissions when burned**
 
-##### T﻿he problem of scale
+Regardless of how SAF is produced, it creates just as much CO2 as kerosene when burned. All the SAF pathways produce oil, just like any other oil, so there’s no reduction in the emissions that are created when the plane flies. 
+
+Some sources of SAF can reduce some of the secondary warming impacts of aviation, like [reducing the formation of contrails](https://www.nasa.gov/news-release/nasa-dlr-study-finds-sustainable-aviation-fuel-can-reduce-contrails/), which can help to reduce emissions. But litre-for-litre, SAF creates just as much CO2 as any other fuel.
+
+The aviation industry knows this, and doesn’t hide it.
+
+**Savings are ‘up to’ 80% – but can be as low as 40%**
+
+The ‘savings’ come in the lifecycle of the fuel, which we will examine below. But it’s worth saying straight away that in order to be certified as SAF, fuels only need to demonstrate a minimum 40% reduction in emissions compared to kerosene. Yet they still quality under the umbrella of SAF, allowing airlines to claim an 80% reduction. 
+
+**Some sources of biofuels lead to deforestation**
+
+The most common and easy-to-understand way that SAF reduces emissions is with biofuel crops.  Plants absorb CO2 as they grow, so when they are harvested, turned into jet fuel and burned, the amount of CO2 that they’ve absorbed in their lifetime is balanced against the amount that is produced through the production and burning. This is commonly how the 80% emissions reduction figure is reached. 
+
+Biofuel manufacturers claim that their calculations take into account every step of the process, including land use change (changing from, say, agricultural crops to biofuel crops), harvesting, transportation, processing, storing, distributing, fuelling and burning. It feels like quite a stretch that all those processes would still result in an 80% reduction in emissions. 
+
+But let’s go with it and say it does. What happens when the land use change is not from previous agricultural land, but from biodiverse-rich natural landscapes, for example, rainforest? Biofuel cultivation is a leading driver of deforestation. Replacing natural eco-systems that support a variety of plant and animal life with an intensively-farmed monoculture is a disaster for the climate, making biofuels that are grown in this way far, far worse on balance than just using fossil fuels. 
+
+**All major SAF pathways are already used for something else**
+
+Every source of SAF currently has a much more energy-efficient use than aviation, and therefore arguably a much better use.
+
+Most of the SAF we use in the UK comes from used cooking oil. But we’re already using all of our used cooking oil for trucks and other vehicles on the road. In fact, we are using even [more than we currently have](https://www.transportenvironment.org/articles/europes-surging-demand-used-cooking-oil-could-fuel-deforestation) – meaning there’s very little left for aviation.
+
+Another source is animal fat from the meat-processing industry, but we currently use all of that in pet food.
+
+Diverting these sources to aviation means that the products that currently use those sources will have to use something else – potentially biofuels – meaning that overall, there’s no climate benefit. 
+
+Aviation also uses more energy and more fuel than other sectors, so the same amount of fuel goes a lot less far than if we stuck with its current use. 
+
+**Burning rubbish doesn’t qualify as sustainable**
+
+**Scaling up is impossible**
 
 In order to scale up, we’d need to cover the land that we currently use for food consumption in biofuel crops. Biofuel has been scaled up for road transport and it’s had a devastating effect on land in places like Malaysia, Indonesia and some countries in South America, leading not only to a decline in biodiversity but also humanitarian effects such as water shortages, rising food prices, and land conflicts.
 
