@@ -11,7 +11,7 @@ read_time_minute: 5
 ---
 ### S﻿AF (so-called 'sustainable' aviation fuel), is the aviation industry's preferred method of going green.
 
-##### T﻿hese n﻿ew fuels can be used in the place of kerosene (conventional jet fuel), therefore reducing emissions without disrupting service or requiring a complete overhaul of aeroplanes or the industry.
+##### N﻿ew fuels can be used in the place of kerosene (conventional jet fuel), therefore reducing emissions without disrupting service or requiring a complete overhaul of aeroplanes or the industry.
 
 **But what is SAF, and is it as green as it sounds?** 
 
