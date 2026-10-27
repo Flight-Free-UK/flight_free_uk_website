@@ -9,6 +9,8 @@ summary: Green tech is promised as a way to solve aviation's emissions problem.
 author: FlightFree UK
 read_time_minute: 3
 ---
+*P﻿ost updated Oct 2026*
+
 ### Decarbonising aviation is a huge challenge, and the industry is currently investing a lot of money and innovation into addressing it.
 
 ##### S﻿o will new technological developments bring aviation emissions down?
