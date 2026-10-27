@@ -7,7 +7,7 @@ cover_image: /images/uploads/green-tech.jpg
 summary: Green tech is promised as a way to solve aviation's emissions problem.
   But is it as green as it sounds?
 author: FlightFree UK
-read_time_minute: 3
+read_time_minute: 5
 ---
 *P﻿ost updated Oct 2026*
 
@@ -27,7 +27,7 @@ T﻿he technology works – a 30-seat electric aircraft completed a [successful 
 
 #### Electric flight – challenges
 
-T﻿wo significant challenges with electric flight are capacity and range. 
+**T﻿wo significant challenges with electric flight are capacity and range.** 
 
 B﻿atteries, the main source of power for electric aircraft, are heavy, and they don't get lighter the further you travel, unlike fuel tanks. They also take up a lot of space, which means that electric planes can carry far fewer passengers than current aircraft. For example, the plane that was tested at the Paris Air Show in 2019 [carried just nine passengers](https://www.weforum.org/stories/technological-innovation/aviation-electric-planes-climate-change). 
 
@@ -35,19 +35,25 @@ U﻿sing batteries also limits the range the aircraft can travel – [around 100
 
 S﻿o while electric planes could play a central role in decarbonising our domestic air travel and short-haul trips to Europe, they are unlikely to ever be suitable for long-haul journeys.
 
-A﻿nother major challenge is that flights would only be 'carbon neutral' if the electricity comes from renewable sources.
+**A﻿nother major challenge is that flights would only be 'carbon neutral' if the electricity comes from renewable sources.**
 
-This begs the question of whether using renewables for aviation is the best use of an already scarce power source. The priority for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
+I﻿n 2026, [just over half of the UK's electricity](https://assets.publishing.service.gov.uk/media/6aba723b8cb3c0580e501297/Energy_Trends_September_2026.pdf) was generated using renewables. While this is promising progress, there are lots of things competing for that energy, for example, our homes, factories and transport, a﻿nd as we adopt more low-carbon measures in our lives, such as heat pumps and electric cars, the demand for renewables will only rise. 
 
-A﻿nother consideration is that electric transportation is not without environmental and human cost, with significant resources going into making batteries, and the sourcing of materials often involving human rights abuses and child exploitation. 
+This begs the question of whether using renewables for aviation is the best use of an already in-demand power source, especially when planes require a much greater input of power and electricity than other uses. We believe that the priority for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
 
-> Electric transportation is not without environmental and human cost.
+**A﻿nother consideration is that electric transportation is not without environmental and human cost.**
+
+Significant resources are required to make batteries, and the sourcing of materials often involving human rights abuses and child exploitation. This doesn't just apply to aviation, but we need to consider if electrifying everything is the answer to our environmental challenges.
 
 Of course, this is [nowhere near as high](https://www.sustainabilitybynumbers.com/p/mining-low-carbon-vs-fossil) as the resources (and human rights abuses) used for fossil fuel extraction, but is still an important consideration.
 
-> The priority for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
+**S﻿o is electric flight the answer?**
 
-Electric planes have their place, for example on short-hop flights such as those in the Highlands and Islands, but they will never be suitable for large-scale commercial aviation.
+Electric planes will certainly have a role to play in the decarbonisation of aviation, and lots of exciting and promising developments are currently happening.
+
+B﻿ut we need to be realistic: electric flight won't be able to replace the majority of flights we currently take, at the rate we take them. It could well be a solution to short-hop flights such as those between the UK mainland and the islands, or more difficult domestic routes that don't have a direct rail link. We could also see them connecting the UK to locations in Europe that are not easily connected by other means. 
+
+B﻿ut they will never be suitable for large-scale commercial aviation, and they should always go hand in hand with an overall reduction in how much we fly, because of the reality of renewable energy production.
 
 #### Hydrogen
 
