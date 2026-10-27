@@ -39,23 +39,21 @@ The ‘savings’ come in the lifecycle of the fuel, which we will examine below
 
 ##### Some sources of biofuels lead to deforestation
 
-The most common and easy-to-understand way that SAF reduces emissions is with biofuel crops. Plants absorb CO2 as they grow, so when they are harvested, turned into jet fuel and burned, the amount of CO2 that they’ve absorbed in their lifetime is balanced against the amount that is produced through the production and burning. This is commonly how the 80% emissions reduction figure is reached. 
+The most simple and easy-to-understand way that SAF reduces emissions is with biofuel crops. Plants absorb CO2 as they grow, so when they are harvested, turned into jet fuel and burned, the amount of CO2 that they’ve absorbed in their lifetime is balanced against the amount that is produced through the production and burning.
 
-Biofuel manufacturers claim that their calculations take into account every step of the process, including land use change (changing from, say, agricultural crops to biofuel crops), harvesting, transportation, processing, storing, distributing, fuelling and burning. But it's unclear how all those processes would result in an 80% reduction in emissions, given the energy-intensity of each stage.
+Calculations of carbon savings take into account [every step of the process](https://pmc.ncbi.nlm.nih.gov/articles/PMC9228054/), including land use change (changing from, say, agricultural crops to biofuel crops), harvesting, transportation, processing, storing, distributing, fuelling and burning. 
 
-A﻿dditionally, what happens when the land use change is not from previous agricultural land, but from biodiverse-rich natural landscapes, for example, rainforest? Biofuel cultivation is a leading driver of deforestation. Replacing natural eco-systems that support a variety of plant and animal life with an intensively-farmed monoculture is a disaster for the climate, making biofuels that are grown in this way far, far worse on balance than just using fossil fuels. 
+B﻿ut what happens when the land use change is not from previous agricultural land, but from biodiverse-rich natural landscapes, for example, rainforest? Biofuel cultivation is a leading driver of deforestation. Replacing natural eco-systems that support a variety of plant and animal life with an intensively-farmed monoculture is a disaster for the climate, making biofuels that are grown in this way far, far worse on balance than just using fossil fuels. 
 
 ##### All major SAF pathways are already used for something else
 
-Every source of SAF currently has a much more energy-efficient use than aviation, and therefore arguably a much better use.
-
-Most of the SAF we use in the UK comes from used cooking oil. But we’re already using all of our used cooking oil for trucks and other vehicles on the road. In fact, we are using even [more than we currently have](https://www.transportenvironment.org/articles/europes-surging-demand-used-cooking-oil-could-fuel-deforestation) – meaning there’s very little left for aviation.
+Most of the SAF we use in the UK comes from used cooking oil. The trouble is, we’re already using all of our used cooking oil for trucks and other vehicles on the road – actually, even [more than we currently have](https://www.transportenvironment.org/articles/europes-surging-demand-used-cooking-oil-could-fuel-deforestation). 
 
 Another source is animal fat from the meat-processing industry, but we currently use all of that in pet food.
 
-Diverting these sources to aviation means that the products that currently use those sources will have to use something else – potentially biofuels – meaning that overall, there’s no climate benefit. 
+Diverting these sources to aviation means that the road fleet will have to use something else – potentially biofuels – meaning that overall, there’s no climate benefit. 
 
-Aviation also uses more energy and more fuel than other sectors, so the same amount of fuel goes a lot less far than if we stuck with its current use. 
+T﻿his principal applies across the board: every major source of SAF currently has a much more energy-efficient use than aviation, and therefore arguably a much better use.
 
 ##### Burning rubbish doesn’t qualify as sustainable
 
@@ -65,11 +63,15 @@ But the process of creating jet-grade fuel is still energy- and carbon-intensive
 
 ##### Scaling up is impossible
 
-In order to scale up, we’d need to cover the land that we currently use for food consumption in biofuel crops. Biofuel has been scaled up for road transport and it’s had a devastating effect on land in places like Malaysia, Indonesia and some countries in South America, leading not only to a decline in biodiversity but also humanitarian effects such as water shortages, rising food prices, and land conflicts.
+All waste-derived SAFs have a limited supply. Meeting the UK demand for fuel with biofuel crops would require [roughly half of all UK agricultural land](https://www.theguardian.com/business/2023/feb/28/scientists-uk-aviation-net-zero-ambitions-half-farmland-double-renewable-electricity). Commercial aviation consumes roughly 100 billion gallonsof jet fuel annually – replacing this with SAF would be impossible in terms of land space, resources and capacity. 
+
+T﻿here's also the effect this has on communities. For example, scaling up biofuel for road transport has had a devastating effect in places like Malaysia, Indonesia and some countries in South America, leading not only to a degradation of land and decline in biodiversity but also humanitarian effects such as water shortages, rising food prices, and land conflicts.
 
 ##### The SAF market is open to fraud
 
-In 2023 [it was reported](https://www.theguardian.com/environment/2023/dec/14/calls-for-tighter-rules-on-biofuels-imports-palm-oil-saf) that imported ‘used’ cooking oil was actually palm oil.  When something is desirable and profitable, it’s open to corruption.
+T﻿he minute that something becomes sellable and desirable, someone will try to exploit it. SAF is now an in-demand product for airlines and companies wanting to show their customers they care about the climate, and carrying a premium price tag means it's a valuable commodity for traders.
+
+In 2023 [it was reported](https://www.theguardian.com/environment/2023/dec/14/calls-for-tighter-rules-on-biofuels-imports-palm-oil-saf) that imported ‘used’ cooking oil was actually palm oil. 
 
 ##### Targets for increasing SAF use repeatedly missed
 
