@@ -13,7 +13,7 @@ read_time_minute: 5
 
 ##### T﻿hese n﻿ew fuels can be used in the place of kerosene (conventional jet fuel), therefore reducing emissions without disrupting service or requiring a complete overhaul of aeroplanes or the industry.
 
-But what is SAF, and is it as green as it sounds? 
+**But what is SAF, and is it as green as it sounds?** 
 
 So-called ‘sustainable’ aviation fuel, or SAF, is broadly anything that’s not fossil jet fuel (kerosene). This can be a biofuel, like plants, or animal fat, or used chip fat. Or it could be fossil-fuel derived, like landfill waste or used rubber tyres. Or it could be a synthetic fuel, made from electricity, like e-kerosene or liquid-hydro-carbons.
 
@@ -77,14 +77,14 @@ These included a target set in 2007 to reach 10% SAF use by 2017. In 2011, this 
 
 SAF use is currently 2% in the UK. The current target is for 10% SAF use by 2030, but some [analysis suggests that’s unlikely to happen](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf).
 
-##### Is there a genuinely zero-carbon fuel out there?
+**Is there a genuinely zero-carbon fuel out there?**
 
-Yes. E-fuel is On paper, these give a much better solution than biofuels. They are made from water and air which are abundant resources, and can potentially be produced using sun and wind energy alone. So if production and combustion is low-carbon, what’s the problem?
+T﻿he most promising alternatives to conventional jet fuel are [e-kerosene and liquid hydrogen](https://www.hy2gen.com/e-kerosene), as they are made  from water and air (both abundant resources) using electricity, so the production and combustion is zero-carbon as long as renewable energy is used.
 
-Creating liquid hydrocarbons is very energy intensive. This brings us back to the hierarchy of energy use – we should be prioritising the use of renewable energy in powering our homes and our road transport before we start to power aviation. 
+T﻿he trouble is that creating liquid hydrocarbons is very energy intensive. [It would take 3-4 times the current global renewable energy generation](https://www.clean-hydrogen.europa.eu/media/publications/hydrogen-powered-aviation_en) to produce synthetic e-fuels for aviation on current consumption trends.
 
-[It would take 3-4 times the current global renewable energy generation](https://www.clean-hydrogen.europa.eu/media/publications/hydrogen-powered-aviation_en) to produce synthetic e-fuels for aviation on current consumption trends.
+T﻿his creates the same challenges as we see with electric flight: we need to consider if our limited renewable energy resources are best-used for an energy-intensive, arguably luxury, commodity. 
 
-SAF is a get-out-of-jail-free card: something that airlines can adopt without changing anything. But nothing changes in terms of emissions either.
+### SAF is a get-out-of-jail-free card – something that airlines can adopt without changing anything. But nothing changes in terms of emissions either. SAF really is greenwash.
 
-The best course of action here would be to significantly cut how much we fly, and use the genuine solutions, like green technology, to decarbonise the flights that remain. SAF is pure greenwash.
+### The best course of action would be to significantly cut how much we fly, and use the genuine solutions, like green technology, to decarbonise the flights that remain.
