@@ -11,19 +11,29 @@ read_time_minute: 3
 ---
 ### Decarbonising aviation is a huge challenge, and the industry is currently investing a lot of money and innovation into addressing it.
 
-##### S﻿o how will new technological developments bring aviation emissions down?
+##### S﻿o will new technological developments bring aviation emissions down?
 
 H﻿ere's a brief run-down of some of the developments on the horizon.
 
-#### Electric planes
+#### Electric flight – innovation
 
-Electrifying our transport is an established way of reducing emissions, as we've seen on the roads. Electric planes work in much the same way as electric cars, with batteries powering motors which turn propellors and turbos. 
+Electrifying our transport is an established way of reducing emissions, as we've seen on the roads. Electric planes work in much the same way as electric cars, with batteries powering motors which turn propellors or turbos. 
 
-E﻿lectric flight has been in development for some time, with the first commercial prototype [unveiled at the Paris Air Show in 2019](https://www.bbc.co.uk/news/business-48630656)a﻿nd companies including [Rolls Royce](https://www.bbc.co.uk/news/uk-england-derbyshire-60068786) showcasing all-electric engines.
+E﻿lectric flight has been in development for some time, with the first commercial prototype [unveiled at the Paris Air Show in 2019](https://www.bbc.co.uk/news/business-48630656) ﻿and companies including [Rolls Royce](https://www.bbc.co.uk/news/uk-england-derbyshire-60068786) [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) and [ZeroAvia](https://zeroavia.com/) working on electric engines and planes. 
 
-T﻿he main challenges with electric flight is range and capacity. The size and weight of the batteries (which don't get lighter the further you travel, unlike fuel tanks) means that electric planes would be able to take a [much smaller number of passengers than current aircraft](https://www.weforum.org/agenda/2019/08/aviation-electric-planes-climate-change/), and the range capacity means that they would only ever be suitable for short-haul travel.
+T﻿he technology works – a 30-seat electric aircraft completed a [successful test flight](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) in August 2026, and electrification will go a long way to reducing emissions and noise.
 
-Secondly, flights would only be 'carbon neutral' if the electricity comes from renewable sources.
+#### Electric flight – challenges
+
+T﻿wo significant challenges with electric flight are capacity and range. 
+
+B﻿atteries, the main source of power for electric aircraft, are heavy, and they don't get lighter the further you travel, unlike fuel tanks. They also take up a lot of space, which means that electric planes can carry far fewer passengers than current aircraft. For example, the plane that was tested at the Paris Air Show in 2019 [carried just nine passengers](https://www.weforum.org/stories/technological-innovation/aviation-electric-planes-climate-change). 
+
+U﻿sing batteries also limits the range the aircraft can travel – [around 1000km](https://www.euronews.com/2026/10/23/e9x-the-battery-powered-plane-with-90-passengers-on-board-and-a-range-of-1000-kilometres) at the moment. That's roughly the distance from Exeter to Inverness. 
+
+S﻿o while electric planes could play a central role in decarbonising our domestic air travel and short-haul trips to Europe, they are unlikely to ever be suitable for long-haul journeys.
+
+A﻿nother major challenge is that flights would only be 'carbon neutral' if the electricity comes from renewable sources.
 
 This begs the question of whether using renewables for aviation is the best use of an already scarce power source. The priority for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
 
