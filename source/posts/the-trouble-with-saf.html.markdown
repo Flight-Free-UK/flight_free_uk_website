@@ -85,7 +85,7 @@ SAF use is currently 2% in the UK. The current target is for 10% SAF use by 2030
 
 T﻿he most promising alternatives to conventional jet fuel are [e-kerosene and liquid hydrogen](https://www.hy2gen.com/e-kerosene), as they are made  from water and air (both abundant resources) using electricity, so the production and combustion is zero-carbon as long as renewable energy is used.
 
-T﻿he trouble is that creating liquid hydrocarbons is very energy intensive. [It would take 3-4 times the current global renewable energy generation](https://www.clean-hydrogen.europa.eu/media/publications/hydrogen-powered-aviation_en) to produce synthetic e-fuels for aviation on current consumption trends.
+T﻿he trouble is that creating liquid hydrocarbons is very energy intensive. [It would take 3-4 times the current global renewable energy generation](https://theicct.org/aviation-grid-jun22/) to produce synthetic e-fuels for aviation on current consumption trends.
 
 T﻿his creates the same challenges as we see with electric flight: we need to consider if our limited renewable energy resources are best-used for an energy-intensive, arguably luxury, commodity. 
 
