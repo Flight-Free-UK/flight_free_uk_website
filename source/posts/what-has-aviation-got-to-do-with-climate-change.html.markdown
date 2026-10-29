@@ -85,4 +85,4 @@ I﻿f we are to reduce those emissions to sustainable levels, we need to address
 
 \_\_\_\_\_\_\_\_
 
-If you are inspired by this post, consider [taking the Flight Free Challenge](https://flightfree.co.uk/#take-the-challenge), or [donating to Flight Free UK](https://donorbox.org/donate-to-flight-free-uk/)
+If you are inspired by this post please share it, consider [taking the Flight Free Challenge](https://flightfree.co.uk/#take-the-challenge), or [donate to Flight Free UK](https://donorbox.org/donate-to-flight-free-uk/)
