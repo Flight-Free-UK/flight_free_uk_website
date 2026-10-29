@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preload" as="font" href="/fonts/Kollektif.woff2" type="font/woff2" crossorigin />
+
+  <% title = [current_page.data.title, "Flight Free UK"].compact.uniq.join(" | ") %>
+  <title><%= title %></title>
+  <meta property="og:title" content="<%= current_article ? current_article.title : title %>"/>
+
+  <% description_default = "Fight climate change: make the pledge to be flight free in 2026" %>
+  <%- 
+  if current_article
+    sm_image = current_article.data.cover_image
+    description = current_article.data.summary
+  else
+    # cover image
+    if current_page && current_page.data.cover_image
+      sm_image = current_page.data.cover_image
+    else
+      sm_image = "/images/flight-free-pledge-2026.jpg"
+    end
+    # description
+    if current_page && current_page.data.summary
+      description = current_page.data.summary
+    else
+      description = description_default
+    end
+  end -%>
+
+  <meta name="description" content="<%= description %>"/>
+  <meta property="og:description" content="<%= description %>"/>
+
+  <meta property="og:type" content="<%= current_article ? "article" : "website" %>"/>
+  <meta property="og:image" content="https://flightfree.co.uk<%= sm_image %>"/>
+  <meta property="og:image:alt" content="<%= description %>"/>
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="<%= data.social_media.twitter %>" />
+  <meta name="twitter:title" content="<%= current_article ? current_article.title : title %>" />
+  <meta name="twitter:description" content="<%= description %>" />
+  <meta name="twitter:image" content="https://flightfree.co.uk<%= sm_image %>" />
+
+  <%= stylesheet_link_tag "main" %>
+
+</head>
+<body class="font-body">
+
+<%= yield %>
+
+</body>
+</html>
