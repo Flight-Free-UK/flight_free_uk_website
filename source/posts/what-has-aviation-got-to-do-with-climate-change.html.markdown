@@ -25,13 +25,13 @@ B﻿ut there are other factors to consider when we talk about aviation, and anal
 
 T﻿his is because [radiative forcing](https://www.carbonbrief.org/explainer-challenge-tackling-aviations-non-co2-emissions) – the extra warming effect of greenhouse gases in the upper atmosphere – increases aviation's contribution to global emissions. Much of this is down to contrails forming, which act like a blanket over the earth. Some studies show that contrails alone can [double to triple aviation's impact](https://www.transportenvironment.org/topics/planes/contrails) upon the environment.
 
-CO2 lasts for centuries in our atmosphere, so some argue that putting it directly into the upper atmosphere does much more harm than the same emissions do at ground level. 
+CO₂ lasts for centuries in our atmosphere, so some argue that putting it directly into the upper atmosphere does much more harm than the same emissions do at ground level. 
 
-W﻿hichever way you look at it, it's clear that aviation's contribution to global emissions and global warming is higher than the 2% from CO2 alone.
+W﻿hichever way you look at it, it's clear that aviation's contribution to global emissions and global warming is higher than the 2% from CO₂ alone.
 
 #### Only a few people access aviation
 
-Even 3.5% or 4% of global emissions seems low, though! But it's not because aviation emissions are low. It's because, globally, very few people fly – [only around 10% in any given year](https://partner.sciencenorway.no/climate-change-global-warming-transport/1-of-people-cause-half-of-global-aviation-emissions-most-people-in-fact-never-fly/1773607). A very small proportion of the world’s population flies, making aviation's overall contribution small when you compare it to other industries.
+Even 3.5% or 4% of global emissions seems low, though. But it's not because aviation emissions are low. It's because, globally, very few people fly – [only around 10% in any given year](https://partner.sciencenorway.no/climate-change-global-warming-transport/1-of-people-cause-half-of-global-aviation-emissions-most-people-in-fact-never-fly/1773607). A very small proportion of the world’s population flies, making aviation's overall contribution small when you compare it to other industries.
 
 #### UK emissions from flights
 
