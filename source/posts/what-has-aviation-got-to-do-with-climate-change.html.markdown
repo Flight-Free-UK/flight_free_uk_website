@@ -45,9 +45,9 @@ Even here in the UK, half of us don't fly in any given year. So for 8% of our an
 
 #### I﻿f we all flew...
 
-I﻿f we all flew as much as the frequent flyers, emissions from aviation alone would be higher than our current total global emissions from everything.
+If everyone in the world took as many flights as the most frequent flyers, global aviation would emit more than 42.5 billion tonnes of CO₂ per year – [more than twice the current total global CO₂ emissions](https://journals.sagepub.com/doi/10.1177/00472875251411867).
 
-I﻿f everybody took 'just one flight', aviation emissions would make up 22 billion tonnes p/a. They are currently 1 billion tonnes p/a.
+Even i﻿f everybody took ‘just one flight’, aviation emissions would [make up 22 billion tonnes per year](https://hannahritchie.substack.com/p/aviation-climate-part-one). They are currently 1 billion tonnes.
 
 #### Our impact as individuals
 
