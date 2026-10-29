@@ -37,7 +37,7 @@ Even 3.5% or 4% of global emissions seems low, though. But it's not because avia
 
 In the UK, aviation emissions make up [around 8%](https://questions-statements.parliament.uk/written-questions/detail/2025-06-25/HL8878/) of our national annual emissions. This is in comparison to [26% for road and other transport, 19% for buildings, 11% for agriculture, 10% for electricity, and 5% for waste](https://assets.publishing.service.gov.uk/media/67a2a5d07da1f1ac64e5feb0/2023-final-emissions-statistics-summary.pdf)*.
 
-The majority of aviation emissions come from just a small proportion of people – the so-called ‘frequent flyers’. A 2014 government survey showed that [15% of people took 70% of the flights](https://fullfact.org/economy/do-15-people-take-70-flights/). It might be surprising to know that to count in that 15%, you only need to take 3 flights per year, which probably doesn’t feel very frequent for most people.
+The majority of aviation emissions come from just a small proportion of people – the so-called ‘frequent flyers’. A 2014 government survey showed that [15% of people took 70% of the flights](https://fullfact.org/economy/do-15-people-take-70-flights/). (It might be surprising to know that to count in that 15%, you only need to take three return flights per year, which probably doesn’t feel very frequent for most people).
 
 Even here in the UK, half of us don't fly in any given year. So for 8% of our annual emissions to come from something that half of us don’t do – as opposed to 11% for agriculture which serves a much greater proportion of people – shows that aviation emissions are more significant than we might assume.
 
@@ -51,6 +51,8 @@ Even i﻿f everybody took ‘just one flight’, aviation emissions would [make 
 
 #### Our impact as individuals
 
+L﻿ooking at the individual level, we see where emissions from flights can really start to dominate. For people in the 'frequent flyer' category, emissions from flights could make up half or more of overall emissions. 
+
 Depending on where you’re flying to, one flight could equal a year’s worth of emissions from an activity like driving.
 
 Here are some figures for comparison: 
@@ -63,13 +65,13 @@ Here are some figures for comparison:
 
 ![](/images/uploads/oct-2026-bar-chart-update.jpg)
 
-Multiple flights very quickly add up, so if you are taking several flights per year, they could easily contribute half or more of your carbon footprint.
-
 Another way to look at it is that flights wipe out the savings you might have made through making an effort in other areas – for example, [following a vegan diet](https://flightfree.co.uk/post/is-it-better-to-be-vegan-or-give-up-flying/), or driving less.
 
 #### Recommended ‘sustainable’ footprint
 
-In 2018 the IPCC recommended that each person in the world should limit their emissions to 2.3 tonnes in total. Most people are currently below that, but here in the West and in the UK we are higher. That could be taken up by the things we need to do, like eat and heat our homes. There's very little room left for flights. 
+In 2018 the IPCC recommended that each person in the world should limit their emissions to 2.3 tonnes in total. Most people are currently below that, but here in the West and in the UK our per-capita emissions are much higher. The government estimate from 2023 is [10 tonnes CO₂ per person](https://www.gov.uk/government/statistics/uks-carbon-footprint/carbon-footprint-for-the-uk-and-england-to-2023).
+
+I﻿f we are to reduce those emissions to sustainable levels, we need to address every area of our lives. In the UK, most of the recommended 2.3 tonnes will be used up by the things we need to do to live, like eat and heat our homes. After that, there's very little room left for flights. 
 
 ##### Moving to a low-carbon society means cutting out non-essential sources of emissions, and for most people, that’s flights.
 
