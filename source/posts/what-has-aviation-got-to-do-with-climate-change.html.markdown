@@ -57,9 +57,9 @@ Depending on where you’re flying to, one flight could equal a year’s worth o
 
 Here are some figures for comparison: 
 
-* H﻿eating your home for a year: [2.5 tonnes CO2](https://www.renewableenergyhub.co.uk/main/heat-pumps-information/co2-carbon-savings-of-a-heat-pump-and-their-environmental-cost) = a return flight to Buenos Aires (2.6 tonnes CO2)
-* E﻿ating meat for a year: [2.06 tonnes CO2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4372775/) = a return flight to Maldives (2.01 tonnes CO2)
-* D﻿riving a car for a year: [](https://www.nimblefins.co.uk/average-co2-emissions-car-uk)[1.98 tonnes CO2](https://dev.racfoundation.org/motoring-faqs/mobility#a32) = a return flight to Las Vegas (1.96 tonnes CO2)
+* H﻿eating your home for a year: [2.5 tonnes CO₂](https://www.renewableenergyhub.co.uk/main/heat-pumps-information/co2-carbon-savings-of-a-heat-pump-and-their-environmental-cost) = a return flight to Buenos Aires (2.6 tonnes CO₂)
+* E﻿ating meat for a year: [2.06 tonnes CO₂](https://pmc.ncbi.nlm.nih.gov/articles/PMC4372775/) = a return flight to Maldives (2.01 tonnes CO₂)
+* D﻿riving a car for a year: [1.98 tonnes CO₂](https://dev.racfoundation.org/motoring-faqs/mobility#a32) = a return flight to Las Vegas (1.96 tonnes CO₂)
 
 *All flight emissions data is from [flightemissionmap.org](https://www.flightemissionmap.org/), accurate at time of publication*
 
