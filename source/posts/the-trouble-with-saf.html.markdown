@@ -3,7 +3,7 @@ published: true
 title: The trouble with SAF
 category: explainer
 date: 2022-10-12T16:20:33.748Z
-cover_image: /images/uploads/aircraft_engine_canva.jpg
+cover_image: /images/uploads/saf.jpg
 summary: "The aviation industry says that SAFs, or sustainable aviation fuels,
   can reduce emissions by 80%. But is that true? "
 author: FlightFree UK
@@ -28,6 +28,8 @@ Here’s why.
 ##### No reduction in emissions when burned
 
 Regardless of how SAF is produced, it [creates just as much CO2 as kerosene when burned](https://www.iata.org/en/programs/sustainability/reports/saf-handbook/section-2.1). All the SAF pathways produce oil, just like any other oil, so there’s no reduction in the emissions that are created when the plane flies. 
+
+![](/images/uploads/infographics.jpg)
 
 Some sources of SAF can reduce some of the secondary warming impacts of aviation, like [reducing the formation of contrails](https://www.nasa.gov/news-release/nasa-dlr-study-finds-sustainable-aviation-fuel-can-reduce-contrails/), which can help to reduce emissions. But litre-for-litre, SAF creates just as much CO2 as any other fuel.
 
@@ -83,7 +85,7 @@ These included a target set in 2007 to reach 10% SAF use by 2017. In 2011, this 
 
 SAF use is currently 2% in the UK. The current target is for 10% SAF use by 2030, but some [analysis suggests that’s unlikely to happen](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf).
 
-![](/images/uploads/possible-chart-saf.jpg "Chart from \"Missed Targets: A brief history of aviation climate targets\" report by Possible")
+![](/images/uploads/possible-chart-saf.jpg "Chart from Missed Targets: A brief history of aviation climate targets report by Possible")
 
 **Is there a genuinely zero-carbon fuel out there?**
 
