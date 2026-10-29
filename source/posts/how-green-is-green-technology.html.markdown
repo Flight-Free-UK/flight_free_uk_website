@@ -21,13 +21,15 @@ H﻿ere's a brief run-down of some of the developments on the horizon.
 
 Electrifying our transport is an established way of reducing emissions, as we've seen on the roads. Electric planes work in much the same way as electric cars, with batteries powering motors which turn propellors or turbos. 
 
+![](/images/uploads/heart-aerospace-electric-plane.jpg "Heart Aerospace ES-36 electric plane")
+
 E﻿lectric flight has been in development for some time, with the first commercial prototype [unveiled at the Paris Air Show in 2019](https://www.bbc.co.uk/news/business-48630656) ﻿and companies including [Rolls Royce](https://www.bbc.co.uk/news/uk-england-derbyshire-60068786), [Heart Aerospace](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) and [ZeroAvia](https://zeroavia.com/) working on electric engines and planes. 
 
 T﻿he technology works: a 30-seat electric aircraft completed a [successful test flight](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) in August 2026. Electrification will go a long way to reducing emissions and noise.
 
 #### Electric flight – challenges
 
-**Capacity and range.** 
+**Capacity and range**
 
 B﻿atteries, the main source of power for electric aircraft, are heavy, and they don't get lighter the further you travel, unlike fuel tanks. They also take up a lot of space, which means that electric planes can carry far fewer passengers than current aircraft. For example, the plane that was tested at the Paris Air Show in 2019 [carried just nine passengers](https://www.weforum.org/stories/technological-innovation/aviation-electric-planes-climate-change). 
 
@@ -35,13 +37,13 @@ U﻿sing batteries also limits the range the aircraft can travel – [around 100
 
 S﻿o while electric planes could play a central role in decarbonising our domestic air travel and short-haul trips to Europe, they are unlikely to ever be suitable for long-haul journeys.
 
-**Flights would only be 'carbon neutral' if the electricity comes from renewable sources.**
+**Flights would only be 'carbon neutral' if the electricity comes from renewable sources**
 
 I﻿n 2026, [just over half of the UK's electricity](https://assets.publishing.service.gov.uk/media/6aba723b8cb3c0580e501297/Energy_Trends_September_2026.pdf) was generated using renewables. While this is promising progress, there are lots of things competing for that energy, for example, our homes, factories and transport, a﻿nd as we adopt more low-carbon measures in our lives, such as heat pumps and electric cars, the demand for renewables will only rise. 
 
 This begs the question of whether using renewables for aviation is the best use of an already in-demand power source, especially when planes require a much greater input of power and electricity than other uses. We believe that the priority for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
 
-**Electric transportation is not without environmental and human cost.**
+**Electric transportation is not without environmental and human cost**
 
 Significant resources are required to make batteries, and the sourcing of materials often involving human rights abuses and child exploitation. This doesn't just apply to aviation, but we need to consider if electrifying everything is the right answer to our environmental challenges, because of its wider impacts.
 
@@ -68,6 +70,8 @@ H﻿ydrogen is often cited as the most promising way of creating genuinely zero-
 **S﻿torage and design**
 
 The problem with hydrogen is the storage of it. Hydrogen is a gas, so it needs to be compressed and cooled to incredibly low temperatures in order to use it to fuel a plane. That involves putting it in a very complicated storage tank, which wouldn't fit in a conventional aircraft.
+
+![](/images/uploads/airbus-zeroe.jpg "Artist's impression of the Airbus ZeroE hydrogen plane")
 
 Conventionally, jet fuel is stored in the wings, but hydrogen cylinders are larger and more bulky, taking up four times the volume of jet fuel, as well as needing to be kept at -250ºC. 
 
