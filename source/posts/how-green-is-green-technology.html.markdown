@@ -43,6 +43,8 @@ I﻿n 2026, [just over half of the UK's electricity](https://assets.publishing.s
 
 This begs the question of whether using renewables for aviation is the best use of an already in-demand power source, especially when planes require a much greater input of power and electricity than other uses. We believe that the priority for renewables should be decarbonising the grid and electrifying the road fleet, with aviation right at the bottom of the list.
 
+![](/images/uploads/hierarchy-of-energy.jpg)
+
 **Electric transportation is not without environmental and human cost**
 
 Significant resources are required to make batteries, and the sourcing of materials often involving human rights abuses and child exploitation. This doesn't just apply to aviation, but we need to consider if electrifying everything is the right answer to our environmental challenges, because of its wider impacts.
