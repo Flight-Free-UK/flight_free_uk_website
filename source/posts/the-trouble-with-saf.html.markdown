@@ -85,7 +85,7 @@ These included a target set in 2007 to reach 10% SAF use by 2017. In 2011, this 
 
 SAF use is currently 2% in the UK. The current target is for 10% SAF use by 2030, but some [analysis suggests that’s unlikely to happen](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf).
 
-![](/images/uploads/possible-chart-saf.jpg "Chart from Missed Targets: A brief history of aviation climate targets report by Possible")
+![](/images/uploads/possible-chart-saf.jpg "Chart from \"Missed Targets: A brief history of aviation climate targets\" report by Possible")
 
 **Is there a genuinely zero-carbon fuel out there?**
 
