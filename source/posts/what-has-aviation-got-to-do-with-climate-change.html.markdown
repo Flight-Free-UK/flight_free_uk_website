@@ -17,21 +17,21 @@ read_time_minute: 3
 
 #### 2% is a low estimate
 
-Compared to other industries, such as [concrete (8%)](https://www.chathamhouse.org/2018/06/making-concrete-change-innovation-low-carbon-cement-and-concrete) or [animal agriculture (15%)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7929601/), 2% sounds low. ICT (data centres, telecom networks and personal devices) alone accounts for [around 4%](https://www.sciencedirect.com/science/article/pii/S2666389921001884)of global emissions. 
+Compared to other industries, such as [concrete (8%)](https://www.chathamhouse.org/2018/06/making-concrete-change-innovation-low-carbon-cement-and-concrete) or [animal agriculture (15%)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7929601/), 2% sounds low. ICT (data centres, telecom networks and personal devices) alone accounts for [around 4%](https://www.sciencedirect.com/science/article/pii/S2666389921001884) of global emissions. 
 
-It’s a convenient argument for airlines, the industry, and even passengers. If aviation is only responsible for 2% of global emissions – much lower than other industries – then why stop?
+It’s a convenient argument for airlines, the industry, and even passengers. If aviation is only responsible for 2% of global emissions – much lower than other industries – then why should we worry about flying?
 
-B﻿ut there are other factors to consider when we talk about aviation. More recent analysis suggests we've been downplaying aviation's impact. Some sources suggest a more accurate figure is 3.5%. Some say 4%. 
+B﻿ut there are other factors to consider when we talk about aviation, and analysis suggests we've been downplaying aviation's impact. Some sources suggest a [more accurate figure is 3.5%](https://climate.leeds.ac.uk/news/aviation-contributes-3-5-to-human-caused-climate-change/). [Some say 4%](https://ourworldindata.org/global-aviation-emissions). 
 
-S﻿ome sources say that radiative forcing – the warming effect of greenhouse gases in the upper atmosphere – doubles to triples aviation's contribution to global emissions. Much of this is down to contrails forming, which act like a blanket over the earth.
+T﻿his is because [radiative forcing](https://www.carbonbrief.org/explainer-challenge-tackling-aviations-non-co2-emissions) – the extra warming effect of greenhouse gases in the upper atmosphere – increases aviation's contribution to global emissions. Much of this is down to contrails forming, which act like a blanket over the earth. Some studies show that contrails alone can [double to triple aviation's impact](https://www.transportenvironment.org/topics/planes/contrails) upon the environment.
 
-CO2 can last for centuries, so some argue that putting it directly into the upper atmosphere does much more harm than the same emissions do at ground level. 
+CO2 lasts for centuries in our atmosphere, so some argue that putting it directly into the upper atmosphere does much more harm than the same emissions do at ground level. 
 
-W﻿hichever way you look at it, aviation's contribution to global emissions is higher than 2%.
+W﻿hichever way you look at it, it's clear that aviation's contribution to global emissions and global warming is higher than the 2% from CO2 alone.
 
 #### Only a few people access aviation
 
-Even 3.5% or 4% seems low, though! But it's not because aviation emissions are low. It's because, globally, very few people fly – [only around 10% in any given year](https://partner.sciencenorway.no/climate-change-global-warming-transport/1-of-people-cause-half-of-global-aviation-emissions-most-people-in-fact-never-fly/1773607). A very small proportion of the world’s population flies, making aviation's overall contribution small when you compare it to other industries.
+Even 3.5% or 4% of global emissions seems low, though! But it's not because aviation emissions are low. It's because, globally, very few people fly – [only around 10% in any given year](https://partner.sciencenorway.no/climate-change-global-warming-transport/1-of-people-cause-half-of-global-aviation-emissions-most-people-in-fact-never-fly/1773607). A very small proportion of the world’s population flies, making aviation's overall contribution small when you compare it to other industries.
 
 #### UK emissions from flights
 
