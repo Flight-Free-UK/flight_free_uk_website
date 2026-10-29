@@ -37,6 +37,8 @@ Even 3.5% or 4% of global emissions seems low, though. But it's not because avia
 
 In the UK, aviation emissions make up [around 8%](https://questions-statements.parliament.uk/written-questions/detail/2025-06-25/HL8878/) of our national annual emissions. This is in comparison to [26% for road and other transport, 19% for buildings, 11% for agriculture, 10% for electricity, and 5% for waste](https://assets.publishing.service.gov.uk/media/67a2a5d07da1f1ac64e5feb0/2023-final-emissions-statistics-summary.pdf)*.
 
+![](/images/uploads/ghg-emissions-2023-chart.jpg "UK GHG emissions in 2023, from Department for Energy Security and Net Zero")
+
 The majority of aviation emissions come from just a small proportion of people – the so-called ‘frequent flyers’. A 2014 government survey showed that [15% of people took 70% of the flights](https://fullfact.org/economy/do-15-people-take-70-flights/). (It might be surprising to know that to count in that 15%, you only need to take three return flights per year, which probably doesn’t feel very frequent for most people).
 
 Even here in the UK, half of us don't fly in any given year. So for 8% of our annual emissions to come from something that half of us don’t do – as opposed to 11% for agriculture which serves a much greater proportion of people – shows that aviation emissions are more significant than we might assume.
