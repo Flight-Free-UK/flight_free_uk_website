@@ -87,6 +87,8 @@ E﻿fficiency gains such as improved design and technology, larger planes that c
 
 T﻿he trouble is, in that time, demand has quadrupled. In 1990, airlines carried 1.2 billion passengers globally. By 2019, [that figure was 4.56 billion](https://www.iata.org/en/iata-repository/pressroom/fact-sheets/industry-statistics/). 
 
+![](/images/uploads/boeing-777x-for-website.jpg)
+
 It takes roughly 15 years for new aircraft designs to come into commercial use and in that time, growth in demand will likely have outstripped any efficiency gains.
 
 G﻿lobal CO2 emissions from aviation have [quadrupled since the 1960s](https://ourworldindata.org/global-aviation-emissions#global-co2-emissions-from-aviation-have-quadrupled-since-the-1960s). E﻿missions from aviation are still rising, despite new technology. 
