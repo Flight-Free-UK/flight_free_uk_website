@@ -49,6 +49,8 @@ B﻿ut what happens when the land use change is not from previous agricultural l
 
 Most of the SAF we use in the UK comes from used cooking oil. The trouble is, we’re already using all of our used cooking oil for trucks and other vehicles on the road – actually, even [more than we currently have](https://www.transportenvironment.org/articles/europes-surging-demand-used-cooking-oil-could-fuel-deforestation). 
 
+![](/images/uploads/mcdonalds-biodiesel.jpeg "All of our used cooking oil is currently used on the roads")
+
 Another source is animal fat from the meat-processing industry, but we currently use all of that in pet food.
 
 Diverting these sources to aviation means that the road fleet will have to use something else – potentially biofuels – meaning that overall, there’s no climate benefit. 
@@ -80,6 +82,8 @@ Between 2000 and 2020, [all but one of the industry’s 50 climate targets were 
 These included a target set in 2007 to reach 10% SAF use by 2017. In 2011, this was revised down to 6% by 2020, the following year reduced to 4.5%, then again to 3%, then to 2% by 2025. 
 
 SAF use is currently 2% in the UK. The current target is for 10% SAF use by 2030, but some [analysis suggests that’s unlikely to happen](https://theicct.org/sites/default/files/publications/Sustainable-aviation-fuel-feedstock-eu-mar2021.pdf).
+
+![](/images/uploads/possible-chart-saf.jpg "Chart from \"Missed Targets: A brief history of aviation climate targets\" report by Possible")
 
 **Is there a genuinely zero-carbon fuel out there?**
 
