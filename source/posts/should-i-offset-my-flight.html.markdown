@@ -43,7 +43,9 @@ It’s not just the effectiveness that we need to question. Some offsetting sche
 
 An [investigation by the Rainforest Foundation](https://www.rainforestfoundationuk.org/new-report-exposes-carbon-land-grab-sweeping-across-the-congo-basin/) found that in the Democratic Republic of Congo (DRC), 103 million hectares had been bought by private companies to make space for carbon projects. These projects often go ahead without community consent and operate in a similar way as logging and mining which has caused deforestation across the DRC. '﻿Land grabs' even happen [right here in the UK](https://www.thenationalnews.com/world/uk-news/2022/04/28/warning-firms-buying-land-to-offset-carbon-footprints-are-making-ecological-dead-zones/).
 
-Another popular offsetting project involves providing [clean cookstoves for communities](https://mukurustoves.org/) in countries across Africa. There is no doubt that these schemes are hugely beneficial to the communities involved, both from the users’ point of view and the planet. But it doesn’t feel right that we should pay for other people to reduce their emissions so we can avoid reducing our own. 
+Another popular offsetting project involves providing [clean cookstoves for communities](https://mukurustoves.org/) in countries across Africa. There is no doubt that these schemes are hugely beneficial to the communities involved, both from the users’ point of view and the planet. 
+
+But for all of these schemes, it doesn’t feel right that we should take land in other parts of the world or pay for other people to reduce their emissions just so we can avoid reducing our own. 
 
 #### How much is a tonne of carbon worth?
 
