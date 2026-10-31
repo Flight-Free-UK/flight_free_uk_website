@@ -1,0 +1,190 @@
+<!-- Begin Brevo Form -->
+<!-- START - We recommend to place the below code in head tag of your website html  -->
+<link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
+<style>
+  @font-face {
+    font-display: block;
+    font-family: Roboto;
+    src: url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
+  }
+
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 600;
+    src: url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
+  }
+
+  @font-face {
+    font-display: fallback;
+    font-family: Roboto;
+    font-weight: 700;
+    src: url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
+  }
+
+  :where(.sib-form-message-panel) {
+    display: none;
+  }
+
+  :where(.sib-form-message-panel .sib-notification__icon) {
+    width: 20px;
+    height: 20px;
+  }
+
+
+  #sib-container input:-ms-input-placeholder {
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    color: #1f4d7b;
+  }
+
+  #sib-container input::placeholder {
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    color: #1f4d7b;
+  }
+
+  #sib-container textarea::placeholder {
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    color: #1f4d7b;
+  }
+
+
+  #sib-container a {
+    text-decoration: underline;
+    color: #2BB2FC;
+  }
+
+  /* jm_ added styles */
+  #sib-container {
+    max-width: none !important;
+  }
+
+  .sib-form {
+  	margin: 0 auto !important;
+  }
+
+/* layout... */
+@media (min-width: 920px) {
+@supports (display: flex) {
+  #sib-form {
+  	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+  }
+  #sib-form > div {
+	flex: 1 0 100%;
+  }
+  #sib-form > div.form-element {
+	flex-basis: 50%;
+  }
+}
+@supports (display: grid) {
+	/* reset */
+	#sib-form > div > div.sib-form-block {
+		padding: 0;
+	}
+	#sib-form {
+		display: grid;
+		grid-template-columns: 2fr 2fr auto;
+		grid-template-areas: 
+			"title title title"
+			"name email submit"
+			"leftovers leftovers leftovers";
+		grid-gap: 0 1rem;
+	}
+	#sib-form > div {
+		grid-area: leftovers;
+	}
+	#sib-form > div.title-element {
+		grid-area: title;
+	}
+	#sib-form > div.name-element {
+		grid-area: name;
+	}
+	#sib-form > div.email-element {
+		grid-area: email;
+	}
+	#sib-form > div.submit-element {
+		grid-area: submit;
+	}
+}
+}
+
+  .sib-form-block p {
+    font-family: "Kollektif", sans-serif;
+	font-size: 1.25rem;
+	line-height: revert;
+  }
+
+  #sib-form > div.submit-element {
+	margin: 0.25rem 0;
+  }
+  button.sib-form-block__button {
+	height: calc(3.25rem - 2px);
+	padding: 0.25rem 1rem 0.125rem;
+  	border: 2px solid #F9F9F9 !important;
+	border-radius: 0 !important;
+    font-family: "Kollektif", sans-serif !important;
+	font-size: 1.5rem !important;
+	line-height: calc(2.5rem - 2px);
+    background-color: #1f4d7b !important;
+	color: #F9F9F9;
+  }
+  button.sib-form-block__button:hover,
+  button.sib-form-block__button:focus {
+    background-color: #357cb6 !important;
+  }
+  button.sib-form-block__button.sib-form-block__button-disabled {
+	opacity: 1 !important;
+	border-color: #357cb6 !important;
+    background-color: #1f4d7b !important;
+	color: #357cb6 !important;
+	position: relative;
+  }
+  button.sib-form-block__button.sib-form-block__button-disabled svg {
+	position: absolute;
+	top: 50%;
+	margin-top: -0.75rem;
+	left: 1rem;
+	height: 1.5rem;
+	width: auto;
+  }
+  .sib-form-block__button-disabled path {
+	fill: #F9F9F9;
+  }
+
+  #sib-form input {
+  	border: 2px solid #F9F9F9;
+	border-radius: 0 !important;
+	padding: 0.25rem 1rem 0.125rem;
+    font-family: "Kollektif", sans-serif !important;
+	font-size: 1.5rem !important;
+	line-height: calc(2.5rem - 2px);
+    color: #1f4d7b;
+  }
+
+  #sib-form input::placeholder {
+    font-family: "Kollektif", sans-serif !important;
+	font-size: 1.5rem !important;
+	color: #357cb6;
+  }
+
+  #sib-form .entry_errored input {
+	border-color: red;
+  }
+  #sib-form .entry__error {
+	padding: 0.5rem 1rem;
+  }
+  .sib-form-message-panel {
+	max-width: none;
+	margin: 1rem auto !important;
+  }
+  .sib-form-message-panel--active {
+	display: block;
+  }
+  /* END jm_ added styles */
+</style>
+<!--  END - We recommend to place the above code in head tag of your website html -->
+<!-- End Brevo Form -->

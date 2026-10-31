@@ -2,55 +2,21 @@
   <div class="container mx-auto lg:px-16 pt-12 pb-8">
     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-center">Why?</h2>
   </div>
-  <div class="container mx-auto md:flex justify-center items-center sm:px-8 lg:px-16 pb-8">
-    <div class="md:w-1/2 md:order-2 lg:w-auto mb-8 px-5 sm:pl-8 md:pl-0 xl:pr-8 text-xl lg:text-2xl xl:text-4xl flex justify-center">
-      <ul id="why-buttons" class="ff-bullets">
-        <li class="py-2 md:py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-1" class="inline-block ml-2 md:ml-4 hover:text-orange border-b-4 border-orange">For the climate</a></li>
-        <li class="py-2 md:py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-2" class="inline-block ml-2 md:ml-4 hover:text-orange border-b-4 border-gray-light">To inspire social change</a></li>
-        <li class="py-2 md:py-4"><%= partial "svg/dot_pink.svg" %><a href="#" id="why-button-3" class="inline-block ml-2 md:ml-4 hover:text-orange border-b-4 border-gray-light">To influence system change</a></li>
-      </ul>
+  <div class="container mx-auto md:flex justify-center items-center xl:px-16 pb-8">
+    <div class="mb-8 px-4 text-xl lg:text-2xl xl:text-4xl md:flex justify-center gap-4 xl:gap-12">
+      <div class="flex flex-col items-center max-w-316">
+        <img src="/images/Why-for_the_climate-426x426b.jpg" width="426" height="426" alt="Image for the climate" id="why-image-1" loading="lazy" class="w-288 max-w-316 md:w-auto mx-auto" />
+        <h3 class="mb-4 py-2 md:py-4 text-center leading-snug"><%= partial "svg/dot_pink.svg" %> <a href="/post/what-has-aviation-got-to-do-with-climate-change/" class="border-b-4 border-orange hover:border-blue-dark">For the climate</a></h3>
+      </div>
+      <div class="flex flex-col items-center max-w-316">
+        <img src="/images/Why-to_inspire_social_change-426x426.jpg" width="426" height="426" alt="Image to inspire social change" id="why-image-2" loading="lazy" class="w-288 max-w-316 md:w-auto mx-auto" />
+        <h3 class="mb-4 py-2 md:py-4 text-center text-center leading-snug"><%= partial "svg/dot_pink.svg" %> <a href="/post/can-i-really-make-a-difference/" class="border-b-4 border-orange hover:border-blue-dark">To inspire social change</a></h3>
+      </div>
+      <div class="flex flex-col items-center max-w-316">
+        <img src="/images/Why-to_influence_system_change-426x426.jpg" width="426" height="426" alt="Image to influence system change" id="why-image-3" loading="lazy" class="w-288 max-w-316 md:w-auto mx-auto" />
+        <h3 class="mb-4 py-2 md:py-4 text-center text-center leading-snug"><%= partial "svg/dot_pink.svg" %> <a href="/post/individual-action-vs-system-change/" class="border-b-4 border-orange hover:border-blue-dark">To influence system change</a></h3>
+      </div>
     </div>
-    <div id="why-images" class="md:w-1/2 lg:w-auto mb-8 px-5 md:pr-8 lg:pr-16 md:pl-4 lg:pl-0 grid grid-cols-1 text-center">
-      <img src="/images/Why-for_the_climate-426x426b.jpg" width="426" height="426" alt="Image for the climate" id="why-image-1" loading="lazy" class="w-288 md:w-auto col-start-1 row-start-1 visible mx-auto" />
-      <img src="/images/Why-to_inspire_social_change-426x426.jpg" width="426" height="426" alt="Image to inspire social change" id="why-image-2" loading="lazy" class="w-288 md:w-auto col-start-1 row-start-1 invisible mx-auto" />
-      <img src="/images/Why-to_influence_system_change-426x426.jpg" width="426" height="426" alt="Image to influence system change" id="why-image-3" loading="lazy" class="w-288 md:w-auto col-start-1 row-start-1 invisible mx-auto" />
-    </div>
-    <script>
-      var number_of_images = 3;
-      function why_image_swap(button) {
-          console.log(button)
-        var whichNumber = button.id.replace("why-button-", "");
-        var image = document.getElementById("why-image-"+whichNumber);
-        // make them all invisible
-        for ( var j = 0; j < number_of_images; j++ ) {
-          var currentButton = document.getElementById("why-buttons").children[j].children[1];
-          var currentImage = document.getElementById("why-images").children[j];
-          if ( currentButton != 'undefined' && currentButton != null && currentButton.classList.contains("border-orange")) {
-            currentButton.classList.remove("border-orange");
-            currentButton.classList.add("border-gray-light");
-          }
-          if ( currentImage != 'undefined' && currentImage != null && currentImage.classList.contains("visible")) {
-            currentImage.classList.remove("visible");
-            currentImage.classList.add("invisible");
-          }
-        }
-        // make the required ones visible
-        if ( ! button.classList.contains("border-orange")) {
-          button.classList.remove("border-gray-light");
-          button.classList.add("border-orange");
-        }
-        if ( image != 'undefined' && image != null && ! image.classList.contains("visible")) {
-          image.classList.remove("invisible");
-          image.classList.add("visible");
-        }
-      }
-      for ( var i = 1; i < number_of_images + 1; i++ ) {
-        document.getElementById("why-button-"+i.toString()).addEventListener('click', function(e){
-          e.preventDefault();
-          why_image_swap(this);
-        });
-      }
-    </script>
   </div>
   <div class="container mx-auto lg:px-16">
     <p>

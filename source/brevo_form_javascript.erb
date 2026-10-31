@@ -1,11 +1,15 @@
 <!-- Begin Brevo Form -->
 <!-- START - We recommend to place the below code in footer or bottom of your website html  -->
+
 <script>
   window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
   window.LOCALE = 'en';
   window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please check your details and try again.";
   window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
   window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please check your details and try again.";
+  window.INVALID_NUMBER = "The information provided is invalid. Please check your details and try again.";
+  window.INVALID_DATE = "Please enter a valid date";
+  window.REQUIRED_MULTISELECT_MESSAGE = 'Please select at least 1 option';
   window.translation = {
     common: {
       selectedList: '{quantity} list selected',
@@ -17,5 +21,7 @@
   var AUTOHIDE = Boolean(1);
 </script>
 <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+
 <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
 <!-- End Brevo Form -->
