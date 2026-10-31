@@ -28,24 +28,30 @@ So on face value it’s understandable why people think that changing our diet w
 
 However, these stats talk about global figures. Globally, the animal agriculture sector has a bigger share of emissions than the aviation sector, but that’s mainly because animal agriculture serves a much, much larger proportion of the global population. 
 
-In 2018, only [11% of people in the world took a flight](https://tanjent-energy.com/blog/1-of-people-cause-half-of-global-aviation-emissions-study/) (﻿only 4% internationally), whereas meat and animal protein is found in [40% of diets](https://pmc.ncbi.nlm.nih.gov/articles/PMC8926870/). No wonder that the overall impact of aviation is lower. Far fewer people do it.
+In 2018, only [11% of people in the world took a flight](https://tanjent-energy.com/blog/1-of-people-cause-half-of-global-aviation-emissions-study/) (﻿only 4% internationally), and estimates say that only around 10% of the global population flies each year. Whereas meat and animal protein is found in [40% of diets](https://pmc.ncbi.nlm.nih.gov/articles/PMC8926870/). No wonder that the overall impact of aviation is lower. Far fewer people do it.
 
 #### L﻿ooking at the individual picture
 
 When we look at the individual picture, the numbers are a lot different. While reducing or cutting your meat intake can do wonders for lowering your carbon footprint, with estimates suggesting that you can save [nearly a tonne of CO2](https://www.lunduniversity.lu.se/article/four-lifestyle-choices-most-reduce-your-carbon-footprint) per year by going vegan, taking a flight anywhere outside Europe can immediately heap it back on. 
 
 * S﻿avings from going vegan = 0.8 tonnes CO2
-* UK to Cairo = 0.8 tonnes CO2
-* UK to New York = 1.3 tonnes CO2
-* UK to LA = 2 tonnes CO2
-* UK to Bali = 2.9 tonnes CO2
-* UK to Sydney = 4 tonnes CO2
+* Flight to Cairo = 0.8 tonnes CO2 
+* Flight to Dubai = 1.2 tonnes CO2 
+* Flight to LA = 2 tonnes CO2
+* Flight to Bali = 2.9 tonnes CO2
+* Flight to Sydney = 4 tonnes CO2
 
 *Emissions data from [flightemissionmap.org.](https://flightemissionmap.org/) Flights are return flights per passenger.*
 
-T﻿hese comparisons focus on the savings, but a﻿nother way of looking at it is comparing the impact of flying with the impact of eating meat.
+T﻿hese comparisons focus on the savings, but a﻿nother way of looking at it is comparing the impact of flying with the impact of eating meat. Just one flight can cause the same level of emissions as eating meat for a year:
 
-T﻿he carbon impact of t﻿he average meat eater in the UK is 2.06 tonnes CO2 per year. Most long haul flights have a higher carbon impact.
+* Emissions from eating meat for a year (UK average) = 2.06 tonnes CO2
+* Flight to Rio de Janeiro = 2.2 tonnes CO2
+* F﻿light to Costa Rica = 2.04 tonnes CO2
+* F﻿light to Sri Lanka = 2.04 tonnes CO2
+* F﻿light to Mexico City = 2.09 tonnes CO2
+
+*Emissions data from [flightemissionmap.org.](https://flightemissionmap.org/) Flights are return flights per passenger.*
 
 This doesn’t mean that people shouldn’t bother reducing their meat consumption. It's a very powerful step to take for the planet and the animals, and your own health. We considered very carefully whether to compare diet to aviation at all, because comparisons can be misinterpreted or be unhelpful. Anyone can make a comparison go their way or be used to illustrate their own agenda. 
 
