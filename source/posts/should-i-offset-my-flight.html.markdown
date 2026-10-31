@@ -9,6 +9,8 @@ summary: Airlines are quick to claim that you can ‘fly carbon neutral’ if yo
 author: FlightFree UK
 read_time_minute: 4
 ---
+*Updated October 2026*
+
 ### C﻿arbon offsetting means compensating for the amount of carbon a particular activity creates, by absorbing it elsewhere. 
 
 ##### Common examples are planting trees or funding green initiatives in other parts of the globe.
@@ -17,7 +19,13 @@ It sounds like a great way to neutralise our carbon output, and many companies i
 
 But does carbon offsetting actually work? Is it possible to fly carbon neutral?
 
-The evidence suggests not: an [EU report](https://www.transportenvironment.org/discover/85-offsets-failed-reduce-emissions-says-eu-study/) from 2017 showed that 85% of these schemes failed to remove the necessary carbon. A later [investigation](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe) in 2023 showed that 90% of them don’t work at all.
+#### O﻿ffestting schemes ineffective
+
+A﻿n EU report from 2017 showed that [85% of offset schemes failed to remove the necessary carbon](https://climate.ec.europa.eu/system/files/2017-04/clean_dev_mechanism_en.pdf). According to the report, most of the projects made false assumptions about carbon savings, or the projects were likely to have happened anyway, i.e. buying an offset didn't result in 'additional' savings.
+
+A﻿nother report concluded that companies buying offsets predominately use low-quality, cheap offsets, with [87% not providing real and additional emissions reductions](https://www.nature.com/articles/s41467-024-51151-w).
+
+An investigation in 2023 by the Guardian revealed that [more than 90% of the rainforest credits](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe) offered by one of the world’s leading offsetting companies were “worthless”.
 
 #### Tree planting for good?
 
