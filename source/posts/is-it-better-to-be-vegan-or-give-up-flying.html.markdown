@@ -26,17 +26,15 @@ So on face value it’s understandable why people think that changing our diet w
 
 #### Global vs individual
 
-However, these stats talk about global figures. Globally, the animal agriculture sector has a bigger share of emissions than the aviation sector, but that’s mainly because animal agriculture serves a much, much larger proportion of the global population. It has been estimated that only around [10% of people across the globe fly in any given year](https://tanjent-energy.com/blog/1-of-people-cause-half-of-global-aviation-emissions-study/), (﻿only 4% internationally) whereas meat and animal protein is found in [40% of diets](https://pmc.ncbi.nlm.nih.gov/articles/PMC8926870/). No wonder that the overall impact of aviation is lower. Far fewer people do it.
+However, these stats talk about global figures. Globally, the animal agriculture sector has a bigger share of emissions than the aviation sector, but that’s mainly because animal agriculture serves a much, much larger proportion of the global population. 
+
+In 2018, only [11% of people in the world took a flight](https://tanjent-energy.com/blog/1-of-people-cause-half-of-global-aviation-emissions-study/) (﻿only 4% internationally), whereas meat and animal protein is found in [40% of diets](https://pmc.ncbi.nlm.nih.gov/articles/PMC8926870/). No wonder that the overall impact of aviation is lower. Far fewer people do it.
 
 When we look at the individual picture, the numbers are much more stark. While reducing or cutting your meat intake can do wonders for lowering your carbon footprint, with estimates suggesting that you can save [nearly a tonne of CO2](https://www.lunduniversity.lu.se/article/four-lifestyle-choices-most-reduce-your-carbon-footprint) per year by going vegan, taking a flight anywhere outside Europe can immediately heap it back on. 
-
-> The savings made through adopting a vegan diet are quickly extinguished.
 
 Per passenger, a trip (return) to the east coast of the USA will generate between [1.3 and 1.9 tonnes CO2](https://flightemissionmap.org/). For the west coast, it would be above two tonnes. 
 
 Heading the other way, a holiday in the popular tourist destination of Bangkok will add 2.5 tonnes to your emissions, and if you’re going as far as New Zealand, well, it’s closer to five tonnes. The savings made through adopting a vegan diet are quickly extinguished – and then some.
-
-![](/images/uploads/bar_chart.jpg)
 
 This doesn’t mean that people shouldn’t bother reducing their meat consumption. It's a very powerful step to take for the planet and the animals, and your own health. We considered very carefully whether to compare diet to aviation at all, because comparisons can be misinterpreted or be unhelpful. Anyone can make a comparison go their way or be used to illustrate their own agenda. 
 
