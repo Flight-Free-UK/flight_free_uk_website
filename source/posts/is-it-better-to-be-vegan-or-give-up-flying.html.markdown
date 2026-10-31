@@ -10,6 +10,8 @@ summary: It’s commonly quoted that animal agriculture produces more CO2 than
 author: FlightFree UK
 read_time_minute: 6
 ---
+*U﻿pdated October 2026*
+
 ## Many headlines say that ‘giving up meat and dairy is the biggest single thing you can do for the planet.’
 
 #### Reducing your intake of animal products is a terrific way to lower your emissions, but how does it compare to giving up flying?
@@ -32,9 +34,14 @@ In 2018, only [11% of people in the world took a flight](https://tanjent-energy.
 
 When we look at the individual picture, the numbers are much more stark. While reducing or cutting your meat intake can do wonders for lowering your carbon footprint, with estimates suggesting that you can save [nearly a tonne of CO2](https://www.lunduniversity.lu.se/article/four-lifestyle-choices-most-reduce-your-carbon-footprint) per year by going vegan, taking a flight anywhere outside Europe can immediately heap it back on. 
 
-Per passenger, a trip (return) to the east coast of the USA will generate between [1.3 and 1.9 tonnes CO2](https://flightemissionmap.org/). For the west coast, it would be above two tonnes. 
+* S﻿avings from going vegan = 0.8 tonnes CO2
+* UK to Cairo = 0.8 tonnes CO2
+* UK to New York = 1.3 tonnes CO2
+* UK to LA = 2 tonnes CO2
+* UK to Bali = 2.9 tonnes CO2
+* UK to Sydney = 4 tonnes CO2
 
-Heading the other way, a holiday in the popular tourist destination of Bangkok will add 2.5 tonnes to your emissions, and if you’re going as far as New Zealand, well, it’s closer to five tonnes. The savings made through adopting a vegan diet are quickly extinguished – and then some.
+*Emissions data from [flightemissionmap.org.](https://flightemissionmap.org/) Flights are return flights per passenger.*
 
 This doesn’t mean that people shouldn’t bother reducing their meat consumption. It's a very powerful step to take for the planet and the animals, and your own health. We considered very carefully whether to compare diet to aviation at all, because comparisons can be misinterpreted or be unhelpful. Anyone can make a comparison go their way or be used to illustrate their own agenda. 
 
