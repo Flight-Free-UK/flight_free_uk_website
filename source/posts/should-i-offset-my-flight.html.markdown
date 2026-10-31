@@ -39,17 +39,15 @@ And even though we love trees, and need more of them, offset plantations can do 
 
 #### Social implications and questions of justice
 
-It’s not just the effectiveness that we need to question. Some offsetting schemes have been [likened to colonialism](https://www.independent.co.uk/climate-change/news/cop26-climate-summit-indigenous-offsetting-b1951289.html) because they involve powerful actors in high-carbon societies (traditionally the west) outsourcing emissions reductions to low carbon ones, for example, small indigenous communities. 
+It’s not just the effectiveness that we need to question. Some offsetting schemes have been [likened to colonialism](https://www.independent.co.uk/climate-change/news/cop26-climate-summit-indigenous-offsetting-b1951289.html) because they involve powerful actors in high-carbon societies (traditionally the west) outsourcing emissions reductions to low carbon ones, for example, small indigenous communities. There's quite a distasteful power imbalance there.
 
-An [investigation by the Rainforest Foundation](https://www.rainforestfoundationuk.org/new-report-exposes-carbon-land-grab-sweeping-across-the-congo-basin/) found that in the Democratic Republic of Congo (DRC), 103 million hectares had been bought by private companies to make space for carbon projects. These projects often go ahead without community consent and operate in a similar way as logging and mining which has caused deforestation across the DRC. '﻿Land grabs' even happen [right here in the UK](https://www.thenationalnews.com/world/uk-news/2022/04/28/warning-firms-buying-land-to-offset-carbon-footprints-are-making-ecological-dead-zones/).
+L﻿and is sometimes forcibly taken for offset schemes. An [investigation by the Rainforest Foundation](https://www.rainforestfoundationuk.org/new-report-exposes-carbon-land-grab-sweeping-across-the-congo-basin/) found that in the Democratic Republic of Congo (DRC), 103 million hectares had been bought by private companies to make space for carbon projects. These projects often go ahead without community consent and operate in a similar way as logging and mining which has caused deforestation across the DRC. '﻿Land grabs' even happen [right here in the UK](https://www.thenationalnews.com/world/uk-news/2022/04/28/warning-firms-buying-land-to-offset-carbon-footprints-are-making-ecological-dead-zones/).
 
 Another popular offsetting project involves providing [clean cookstoves for communities](https://mukurustoves.org/) in countries across Africa. There is no doubt that these schemes are hugely beneficial to the communities involved, both from the users’ point of view and the planet. 
 
 But for all of these schemes, it doesn’t feel right that we should take land in other parts of the world or pay for other people to reduce their emissions just so we can avoid reducing our own. 
 
 #### How much is a tonne of carbon worth?
-
-To work out the cost of carbon, an airline would find out how much it would cost to remove a tonne of carbon from the atmosphere, and then charge passengers at this rate.
 
 Carbon pricing matters because it signifies that polluters have to pay a price for their behaviour. The Grantham Institute on climate change calculates that a [realistic price](https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2019/05/GRI_POLICY-REPORT_How-to-price-carbon-to-reach-net-zero-emissions-in-the-UK.pdf) for a tonne of carbon in 2050 would be £160. 
 
@@ -67,10 +65,4 @@ The main problem with offsets is that they make us think our emissions don’t c
 
 This is the main reason that Flight Free UK doesn’t support carbon offsetting in any form. While some carbon reduction projects are worthwhile and can have a positive impact, they should be supported for their own merit, rather than being used to allow our emissions to keep on rising. 
 
-O﻿ffsetting might even encourage more high-carbon behaviour, if we believe our emissions are adequately compensated for by paying a bit extra. 
-
-If you have to take a flight, but feel uncomfortable with the emissions produced, this is all the more reason to question how much you really need to take it.
-
 ### The only way to be certain that your flight won’t harm the climate is not to take it in the first place. It isn’t possible to fly carbon neutral – there’s no way to be certain that emissions are being balanced through offsetting.
-
-##### By flying less, you can be certain that you are not only balancing out but reducing your carbon impact.
