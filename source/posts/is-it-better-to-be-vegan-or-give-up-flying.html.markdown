@@ -55,21 +55,17 @@ T﻿hese comparisons focus on the savings, but a﻿nother way of looking at it i
 
 This doesn’t mean that people shouldn’t bother reducing their meat consumption. It's a very powerful step to take for the planet and the animals, and your own health. We considered very carefully whether to compare diet to aviation at all, because comparisons can be misinterpreted or be unhelpful. Anyone can make a comparison go their way or be used to illustrate their own agenda. 
 
-But it’s useful to hold up the impact of aviation in relation to other lifestyle choices, to put things into context. Eating meat is generally known to be a high-emission activity, but the average reader might be surprised to know that just one flight can generate more emissions than a year’s worth of eating meat.
+But it’s useful to hold up the impact of aviation in relation to other lifestyle choices, to put things into context. Eating meat is generally known to be a high-emission activity, but many people might be surprised to know that flying is on a level or even higher. 
 
-#### Other impacts
+#### W﻿ider impacts of animal agriculture and aviation
 
-The 2.06 tonne figure for eating meat takes into account the full field-to-fork impact. It includes greenhouse gases from production, transportation, storage, cooking and wastage. The global figure of 14.5% for animal agriculture also includes these aspects of the industry. 
+C﻿O2 is not the only environmental concern for animal agriculture. Other impacts include nitrous oxide from fertiliser, methane from gestation, water use, loss of biodiversity because of the land required, deforestation for growing feed, toxic run-off from fertilisers and manure, and antibiotic resistance. 
 
-The figure for aviation also takes into account non-CO2 impacts, such as nitrous oxide and water vapour from contrails. 
+B﻿ut similar impacts also apply to the aviation industry. Non-CO2 impacts include nitrous oxide and water vapour from contrails, which roughly double aviation's warming effect.
 
-Driving emissions are tailpipe emissions only, and don’t take into account the manufacturing of the vehicle. This is because that’s a one-off carbon cost, and doesn’t go up or down the more you drive – whereas with meat consumption, the entire field-to-fork process is repeated with each meal. Similarly, aviation figures don’t take into account the carbon costs of infrastructure or manufacture (imagine how high the figures would be if they did!).
+T﻿here are also impacts on wildlife, especially around airports, where birds nests can be cleared for a 16km radius to reduce the risk of bird strike. Landing lights and aircraft noise are extremely disruptive to insect and bird circadian rhythms. De-icer for planes causes toxic run-off. 
 
-Of course, there are lots of reasons why people might choose to be vegan, other than because of the greenhouse gas emissions. In many cases, farming has a negative impact on biodiversity, and water use and pollutants from run-off are also an issue. Animal welfare is, naturally, the big one, and health plays its part. 
-
-Similarly, there are lots of reasons to give up flying beyond the emissions: airport noise and pollution make life difficult for people and wildlife, and there are plenty of justice issues surrounding aviation, not least that only half of all Brits fly in any given year, yet we all pay the price of rising emissions (and through our taxes to subsidise the industry). 
-
-On a personal level, travelling overland can be much less stressful, more enjoyable and more relaxing than flying, so being flight free can be as good for ourselves as for the planet.
+G﻿rowing crops for SAF (co-called 'sustainable' aviation fuel) can lead to land clearances, land grabs and deforestation. 
 
 #### So, is it better to be vegan or flight free?
 
