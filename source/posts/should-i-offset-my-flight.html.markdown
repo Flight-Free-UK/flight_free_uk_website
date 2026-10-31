@@ -17,13 +17,11 @@ It sounds like a great way to neutralise our carbon output, and many companies i
 
 But does carbon offsetting actually work? Is it possible to fly carbon neutral?
 
-The evidence suggests not: an [EU report](https://www.transportenvironment.org/discover/85-offsets-failed-reduce-emissions-says-eu-study/) from 2017 showed that 85% of these schemes failed to remove the necessary carbon. A later report [investigation](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe) in 2023 showed that 90% of them don’t work at all.
+The evidence suggests not: an [EU report](https://www.transportenvironment.org/discover/85-offsets-failed-reduce-emissions-says-eu-study/) from 2017 showed that 85% of these schemes failed to remove the necessary carbon. A later [investigation](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe) in 2023 showed that 90% of them don’t work at all.
 
 #### Tree planting for good?
 
-A tree doesn’t instantly absorb the carbon of your flight – it takes [a lifetime for one tree](https://www.nationaltrust.org.uk/our-cause/nature-climate/climate-change-sustainability/our-ambition-to-establish-20-million-trees-to-tackle-climate-change) to absorb an estimated tonne of CO2, and there’s no guarantee that trees will survive long enough to compensate the necessary emissions (see [here](https://www.naturefund.de/fileadmin/pdf/Studien/Waelder/Trees-for-carbon-sequestration.pdf) for more in-depth information about tree growth and carbon absorption).
-
-Looking at the current state of the planet, we obviously need to plant more trees. They are not only an extremely effective and natural way of capturing carbon, they also provide shelter, habitats, and protect our soil.
+Looking at the current state of the climate, we obviously need to plant more trees. They are not only an extremely effective and natural way of capturing carbon, they also provide shelter, habitats, and protect our soil.
 
 The problem with using trees as carbon offsets comes down to three things:
 
@@ -31,13 +29,11 @@ The problem with using trees as carbon offsets comes down to three things:
 * l﻿and space
 * e﻿nvironmental impact of plantations
 
-Trees take a long time to grow: about 15-30 years to reach maturity. Trees like the mountain ash live for around 100 years, whereas oak trees can grow for several centuries. It takes an entire lifespan of a tree to absorb a tonne of carbon. That means that just one return flight from the UK to New York wouldn’t be fully compensated within your lifetime.
+Trees take a long time to grow: about 15-30 years to reach maturity. Trees like the mountain ash live for around 100 years, whereas oak trees can grow for several centuries. It takes [an entire lifespan of a tree to absorb a tonne of carbon](https://www.nationaltrust.org.uk/our-cause/nature-climate/climate-change-sustainability/our-ambition-to-establish-20-million-trees-to-tackle-climate-change). That means that just one return flight from the UK to New York wouldn’t be fully compensated within your lifetime.
 
 There’s also no guarantee the tree would reach maturity, or live that long, especially considering our passion for deforestation. And with temperatures rising, it’s growing more and more likely that trees go up in smoke – resulting in an overall increase in emissions.
 
-So rather than plant one tree, and hope it grows, offsetting companies plant many trees in order to compensate for our emissions. The trouble is, that takes up a lot of land space. There isn’t enough space on the planet to plant enough trees to make up for all of our emissions.
-
-– especially because there is simply [not enough land space](https://www.theguardian.com/environment/2021/nov/13/the-problem-with-fixing-the-climate-with-trees-were-going-to-need-a-bigger-planet) on earth to plant enough trees to offset our emissions.
+So rather than plant one tree, and hope it grows, offsetting companies plant many trees in order to compensate for our emissions. The trouble is, that takes up a lot of land space. There [isn’t enough space on the planet](https://www.theguardian.com/environment/2021/nov/13/the-problem-with-fixing-the-climate-with-trees-were-going-to-need-a-bigger-planet) to plant enough trees to make up for all of our emissions.
 
 And even though we love trees, and need more of them, offset plantations can do more harm than good. Plantations replace biodiverse land with large stretches of one tree species which reduces biodiversity, displaces plant and animal species and reduces the quality of the soil overall.
 
@@ -63,7 +59,7 @@ I﻿f we look at most carbon offset calculators, the suggested amount is a lot l
 
 There are no hard and fast rules about regulating the cost of carbon, so carbon offsetting becomes regulated by the industry. Ultimately, offsetting has become just another tradable commodity.
 
-#### I﻿nfluencing consumer behaviour 
+#### I﻿nfluencing consumer behaviour
 
 The main problem with offsets is that they make us think our emissions don’t count, so we continue our polluting behaviour. If we believe that the harm caused by our flights has been balanced out elsewhere, there’s no incentive for us to cut down. 
 
@@ -73,6 +69,6 @@ O﻿ffsetting might even encourage more high-carbon behaviour, if we believe our
 
 If you have to take a flight, but feel uncomfortable with the emissions produced, this is all the more reason to question how much you really need to take it.
 
-### The only way to be certain that your flight won’t harm the climate is not to take it in the first place. It isn’t possible to fly carbon neutral – there’s no way to be certain that emissions are being balanced through offsetting. 
+### The only way to be certain that your flight won’t harm the climate is not to take it in the first place. It isn’t possible to fly carbon neutral – there’s no way to be certain that emissions are being balanced through offsetting.
 
 ##### By flying less, you can be certain that you are not only balancing out but reducing your carbon impact.
