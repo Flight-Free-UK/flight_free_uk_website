@@ -32,14 +32,15 @@
     </div>
   </div>
   <div class="flex flex-wrap justify-end">
-    <nav class="hidden xl:flex flex-col xl:flex-row flex-wrap w-full justify-end items-center gap-4 px-8 xl:pl-0 xl:pr-4 xxl:pr-8 pt-6 xl:pt-0 pb-6 xl:pb-0 text-2xl text-center">
+    <nav class="hidden xl:flex flex-col xl:flex-row flex-wrap w-full justify-end items-center gap-6 px-8 xl:pl-0 xl:pr-4 xxl:pr-8 pt-6 xl:pt-0 pb-6 xl:pb-0 text-2xl text-center">
     <% {
          "Why flight free?" => "why_flight_free.html",
          "How to" => "how_to.html",
          "Travel" => "how_to/#destination-inspiration",
          "Be inspired" => "be_inspired.html",
          "About" => "about_us.html",
-         "FAQ" => "faq.html"
+         "FAQ" => "faq.html",
+         "Pledge" => "#take-the-challenge"
        }.each do |name, path| %>
        		<% current = "#{path}" == current_page.path || path == current_page.data.menu_item || ( current_page.path.include?("travel") && "how_to" == path ) || ( current_page.path.include?("posts") && !current_page.path.include?("travel") && "articles" == path ) || ( current_page.path.include?("how_tos") && "how_to" == path ) %>
 			<%# events special case #%>

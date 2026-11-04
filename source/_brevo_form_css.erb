@@ -91,7 +91,8 @@
 		grid-template-areas: 
 			"title title title"
 			"name email submit"
-			"leftovers leftovers leftovers";
+			"leftovers leftovers leftovers"
+			"captcha captcha captcha";
 		grid-gap: 0 1rem;
 	}
 	#sib-form > div {
@@ -108,6 +109,9 @@
 	}
 	#sib-form > div.submit-element {
 		grid-area: submit;
+	}
+	#sib-form > div.g-recaptcha-wrapper {
+		grid-area: captcha;
 	}
 }
 }
