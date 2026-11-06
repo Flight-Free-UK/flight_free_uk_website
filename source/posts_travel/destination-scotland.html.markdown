@@ -59,9 +59,7 @@ There were so many highlights from the islands: the wild otter sightings and the
 
 One of the best things about living in Europe is how easy it is to travel like this – we have a vast area accessible by train, making car-free holidays not only easy, but a joy.
 
-> A great thing about living in Europe is how easy it is to travel like this – we have a vast area accessible by train, making car-free holidays a joy.
-
-*[Claire Stocks](https://beethechangeblog.co.uk/) is a writer and environmental activist.*
+> A great thing about living in Europe is how easy it is to travel like this – we have a vast area accessible by train, making car-free holidays a joy
 
 ![Picture shows a person cycling along a narrow road next to a white sandy estuary. In the distance is a small white house with a red roof and low rolling green hills. ](/images/uploads/claire1.png "Cycling towards Traigh Mhor, where a tiny plane lands once a day on Barra’s beach runway, the only one in the world")
 
