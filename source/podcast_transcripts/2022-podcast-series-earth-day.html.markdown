@@ -14,7 +14,7 @@ category: climate
 
 ## Earth Day is the annual celebration of the planet which takes place on April 22nd each year.
 
-This year’s Earth Day theme is ‘Invest in our planet’, so we’re speaking to entrepreneurs Tessa Clarke, the co-founder and CEO of food waste app Olio, and May Al-Karooni, the founder of the award-winning British re-use marketplace Globechain. 
+This year’s Earth Day theme is ‘Invest in our planet’, so we’re speaking to entrepreneurs Tessa Clarke, the co-founder and CEO of food waste app [Olio](https://olioapp.com/en/), and May Al-Karooni, the founder of the award-winning British re-use marketplace Globechain. 
 
 ### Flight Free Fact
 
@@ -38,7 +38,7 @@ How can people get involved with Olio? 
 
 ### Tessa
 
-The app is free to download and free to use – you can get it on Google play or the app store, and you can also use it via [our website](https://olioex.com/).
+The app is free to download and free to use – you can get it on Google play or the app store, and you can also use it via [our website](https://olioapp.com/en/).
 
 You just snap a photo of any food or other household items you have that you no longer need, add it to Olio, then neighbours living nearby get an alert. They can browse the listings, request what they want and pop around and pick it up. 
 
