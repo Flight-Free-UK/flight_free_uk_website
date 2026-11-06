@@ -14,7 +14,7 @@ read_time_minute: 6
 
 ### In many ways, I had an idyllic life.
 
-##### A good job at the University of Cambridge, and a home in a small village outside the city where I could grow my own fruits and vegetables in the garden and cycle to work through the fields. 
+##### A good job at the University of Cambridge, and a home in a small village outside the city where I could grow my own fruits and vegetables in the garden and cycle to work through the fields.
 
 My career in tropical biology and conservation had given me plenty of opportunities to travel around the world for fieldwork and conferences, including the one where I met my now-boyfriend, who was working in Berlin and invited me to visit from the UK. Soon, we were seeing each other every month or two. I felt twinges of guilt about flying but I rationalised it was a drop in the ocean.
 
@@ -46,6 +46,4 @@ The main complication is that my boyfriend is from Bolivia, and one day will pro
 
 I hope that with the recent rise in demand for flight free travel there will be more and cheaper options for ocean crossings; having loved ones in different hemispheres is challenging enough even if you do fly. But the Flight Free campaign has already made me far more motivated to seek out alternatives, to see the travel itself as an adventure, and to question my feeling of entitlement to jump on a plane. 
 
-##### As a child I dreamed of sailing the oceans on a three-masted ship, so if I can do a flight-free ocean crossing I think it would be an unforgettable experience. Having moved 1000 km for love without flying, the challenge of moving 10,000 seems far more possible.
-
-*[Dr Claire Wordley](https://clairewordley.com/) is an ecologist, zoologist, writer and activist. Twitter [@clairefrwordley](https://twitter.com/clairefrwordley)*
+##### As a child I dreamed of sailing the oceans on a three-masted ship, so if I can do a flight-free ocean crossing I think it would be an unforgettable experience. Having moved 1000 km for love without flying, the challenge of moving 10,000 seems far more possible
