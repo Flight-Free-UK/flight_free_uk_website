@@ -101,7 +101,7 @@ On the [‘travel’ category](https://flightfree.co.uk/blog/categories/travel/)
 
 Of course, Covid is making everything very difficult right now. 
 
-To help plan your overland travel you could go to [Byway.travel](https://www.byway.travel/), headed up by Cat. A[No Fly Travel Club](https://noflytravel.club/) that can help you as well, and if you want to plan your own trips, go to [The Man in Seat 61](https://www.seat61.com/) for information about travelling to any destination in the world without flying.
+To help plan your overland travel you could go to [Byway.travel](https://www.byway.travel/), headed up by Cat. And if you want to plan your own trips, go to [The Man in Seat 61](https://www.seat61.com/) for information about travelling to any destination in the world without flying.
 
 Miriam lives in Dublin, so her pledge counts towards the Ireland total, rather than the UK pledge. You can pledge from anywhere in the world – if you want to find out the worldwide pledge total you can go to the Swedish site that started the whole campaign, which is [westayontheground.org](https://vihallerosspajorden.se/in-english/)
 
