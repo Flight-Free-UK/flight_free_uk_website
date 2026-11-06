@@ -53,5 +53,3 @@ As we said goodbye to our fellow passengers, a plethora of phone numbers and WeC
 Our onward journey from Shanghai took us deeper into China and then on to Vietnam, all via train and coach before we crossed the Pacific to the USA by cargo ship. Even though our journey included much larger ships and longer voyages, the ferry from Osaka to Shanghai is still memorable for the moments and meetings it facilitated. 
 
 ##### It’s still sailing as well, so feel free to buy a ticket – just make sure to visit the karaoke bar!
-
-*Read more about Mischa and Rosanna's travels on their blog site, [www.myjumbokimono.com](http://www.myjumbokimono.com/)*
