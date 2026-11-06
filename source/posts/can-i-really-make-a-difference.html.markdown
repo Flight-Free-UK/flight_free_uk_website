@@ -9,40 +9,28 @@ summary: Cancelling one flight won’t save the planet. But what effect do our
 author: FlightFree UK
 read_time_minute: 3
 ---
-
-
 ### It’s easy to feel that there's not much point in us stopping flying when there are some people out there who fly all the time.
 
 Maybe these are people we know, or people we hear about, but either way, if we ourselves don't actually fly all that much – perhaps once or twice a year, or less – we feel that others’ flights would completely dwarf our own attempts to cut down.
 
-A point was raised on our Twitter feed recently: a person who flies little, never long-haul, has booked a flight to Japan. Will cancelling that flight really have any effect? This person is not the problem, are they, when [15% of people take 70% of all flights](/what-makes-a-frequent-flyer)? Why target the low-hanging fruit? That’s not where the impact truly lies.
+Especially when we consider that 15% of people take 70% of all flights. It’s a few people who are creating the majority of the emissions, so what good can I do?
 
-The answer, of course, is no – this person is not the problem. But it is not so simple as that. When we consider the focus of our campaign, and our target group, in truth, it is everyone, and all flights. The five-times-a-week, the few-times-a-month, the once-every-ten-years. All of those flights are important in the fight against climate change.
+But it is not so simple as that. Taking climate action by avoiding flying is about more than just blunt emissions calculations (even though those are extremely compelling). It is also about the message it sends to others, and the ripple effect that has.
 
 ### Carbon reduction
 
-By not taking that flight to Japan, you will save 3 tonnes CO2 from your personal carbon footprint\*. This is not insignificant when you consider that the average annual footprint in Europe is 8 tonnes, and a ‘sustainable’ footprint\* is 2.3 tonnes. Of course, if it’s just once in a blue moon, that one flight is not going to tip the balance in terms of our global emissions.
+Saving tonnes CO2 from your personal carbon footprint is significant when you consider that the average annual footprint in Europe is 8 tonnes, and a ‘sustainable’ footprint* is 2.3 tonnes. A long-haul flight could create more emissions than anything else you do over the course of a year, and if you are taking steps in other areas it makes sense to also reduce flights, especially as emissions savings from flights are much more impactful than other actions such as recycling and reducing driving.
 
-But not taking a flight is about more than carbon. As Greta Thunberg said when she [crossed the Atlantic under sail](https://flightfree.co.uk/post/be-more-greta/), “By stopping flying you don't only reduce your own carbon footprint, you also send a signal to other people that the climate crisis is real.”
+### Social proof
 
-> “By stopping flying you don't only reduce your own carbon footprint, you also send a signal to other people that the climate crisis is real.”
+In 2019, the climate activist Greta Thunberg said, “By stopping flying you don’t only reduce your own carbon footprint, you also send a signal to other people that the climate crisis is real.” The symbolism of not flying can be as powerful as the emissions savings itself. If taking climate action is important enough that people are *even giving up flying*, it must be serious. 
 
-Our campaign is about behaviour change, not simply emissions reduction. Movements such as this have already been seen to be effective: in Sweden [domestic flights are down by 9%](https://www.bbc.co.uk/news/world-europe-51067440), some routes have been cancelled, and night trains are being reinstated across Europe. Industry has really responded to the growing trend away from flights, with investment in alternative modes of transport. If we continue to demand flights, we will continue to get them. If we spend our money elsewhere, that is where the investment will go.
+We are also influenced by each other, and if you avoid flying, the people in your social group will take notice – even if they don’t follow suit. Behaviour that was once socially acceptable – for example, smoking in pubs – can become socially unacceptable, and we adapt very quickly when it does. By refusing to take a flight you make a political as well as an environmental statement. Perhaps unsurprisingly, studies have shown that you are more likely to reduce the number of flights you take, or stop flying altogether, if you know someone who has done the same.
 
-### Reaching the 15% who take the majority of flights
+We are social creatures and have a tendency to follow the herd, which means that our behaviour very much depends on what our friends, family or colleagues do. As more people stop flying, more will follow. You don’t know who in your circle would also stop flying, but they feel like the only one. Sometimes our behaviour goes beyond what we ourselves do, for example, influencing work policy. 
 
-In addition, we must not ignore the effect on those around us. By refusing to take a flight you make a political as well as an environmental statement. Perhaps unsurprisingly, studies have shown that you are more likely to reduce the number of flights you take, or stop flying altogether, [if you know someone](https://theconversation.com/climate-change-yes-your-individual-action-does-make-a-difference-115169) who has done the same. We are social creatures and have a tendency to follow the herd, which means that our behaviour very much depends on what our friends, family or colleagues do.
+### Supply and demand
 
-> "You are more likely to reduce the number of flights you take, or stop flying altogether, if you know someone who has done the same."
-
-Though you might not be one of the [15% who takes 70% of the flights](http://afreeride.org/about/), you might know someone who is. By taking a flight, no matter how occasionally, you are ‘just like them’ – you have common ground. By refusing that flight, and talking about why, you stand out. People take notice. Start to question. They might not themselves cancel a flight any time soon, but you can bet that the next time they sit on a plane, they’ll be thinking about it. This is how movements grow – a significant few bucking a trend, and the trend starting to follow.
-
-### The low-hanging fruit
-
-To come back to the fruit analogy, it is almost impossible to reach the high branches unless you clear the lower ones first. By collecting all the low-hanging fruit, the next layer up is revealed and accessible. Once that is clear, the high branches are within reach. No behaviour change project worked by going straight in at the jugular. The ‘easy targets’ give our campaign credence and legitimacy, and we must engage those first in order to reach the higher polluters.
+If we continue to demand flights, we will continue to get them. If we spend our money elsewhere, that is where the investment will go.
 
 We all have an important part to play, frequent fliers and infrequent fliers alike. Here at Flight Free UK we will continue to encourage all people to join our campaign, from all walks of life, and with all levels of flight frequency – in the knowledge that each of us can play a crucial role in the urgent battle against climate breakdown.
-
-\*data from [flightemissionmap.org](http://flightemissionmap.org)
-
-\*as [recommended by IPCC](http://climatepositions.com/ipcc-report-limiting-global-warming-to-1-5oc-requires-45-co2-reductions-by-2030-compared-to-2010-and-zero-emissions-by-2050-but-which-countries-are-to-reduce-how-much/)
