@@ -1,7 +1,6 @@
 ---
 published: true
 title: "2021 podcast series: social, racial and climate justice"
-category: climate
 date: 2021-03-30T14:27:49.694Z
 cover_image: /images/uploads/03-2021_podcast_thumbnail.jpg
 summary: Horticulturalist Poppy Okotcha and Black Geographers founder Francisca
@@ -9,6 +8,7 @@ summary: Horticulturalist Poppy Okotcha and Black Geographers founder Francisca
   relates to social and racial justice.
 author: FlightFree UK
 read_time_minute: 3
+category: climate
 ---
 *This is episode three of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-social-racial-and-climate-justice/) and find other episodes and previous series [here](https://flightfree.co.uk/podcast).*
 
@@ -16,7 +16,7 @@ read_time_minute: 3
 
 ### This month, Sunita and Armelle from our team are talking to Poppy Okotcha and Francisca Rockey. 
 
-Francisca is the founder of [Black Geographers](https://www.blackgeographers.com/), which creates a platform to allow Black geographers in the UK and around the world to connect.
+Francisca is the founder of [Black Geographers](https://www.forbes.com/sites/vickiphillips/2021/02/26/she-was-the-only-black-person-in-her-geography-class-so-she-launched-a-movement-to-diversify-the-field/), which creates a platform to allow Black geographers in the UK and around the world to connect.
 
 [Poppy](https://www.instagram.com/poppyokotcha/) is a grower, forager and cook, with a mission to inspire reconnection to nature through food and open up conversations to those who don’t feel that the conversation is for them, including all minority groups.
 
