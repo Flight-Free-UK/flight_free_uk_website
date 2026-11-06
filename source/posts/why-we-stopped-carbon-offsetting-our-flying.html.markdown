@@ -57,8 +57,6 @@ When you offer alternatives or turn down something altogether because of flying,
 
 If the answer is yes to any of these, then educate yourself so that you really know why you are making this change – it will really help. Then look at what you’re going to add in and not just what you’re going to take away. 
 
-Have you always wanted to walk around the Cornish coast path, or immerse yourself in the Welsh mountains or escape to a Scottish loch? Explore new ways to travel. I thoroughly recommend [www.seat61.org](https://www.seat61.com/) for train travel as he gives every route option imaginable as well as easy links for buying tickets. 
+Have you always wanted to walk around the Cornish coast path, or immerse yourself in the Welsh mountains or escape to a Scottish loch? Explore new ways to travel. I thoroughly recommend [www.seat61.com](https://www.seat61.com/) for train travel as he gives every route option imaginable as well as easy links for buying tickets. 
 
 ##### This is a climate emergency and we need to change our behaviour individually and collectively now.
-
-*Linda Thomas makes luxury upcycled clothing at Linda Thomas Eco Design, based in Bristol. For more, visit her* *[website](http://lindathomasecodesign.co.uk/index.php/about/)*.
