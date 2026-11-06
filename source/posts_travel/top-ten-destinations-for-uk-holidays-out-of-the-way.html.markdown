@@ -63,7 +63,7 @@ Hexham is on the [mainline](https://www.northernrailway.co.uk/stations/HEX) betw
 
 #### Grange-over-Sands, Cumbria
 
-Grange-over-Sands is a small coastal town located on the fascinating Morecambe Bay and just outside the Lake District park boundary. The town itself is a great base for [walking](https://www.grangeoversandstowncouncil.gov.uk/walking-and-cycling.html) and cycling, with routes around the town perfect for nature enthusiasts and bird-watchers. There are several [nature reserves](https://www.visitcumbria.com/nature-reserves/) and sites of special scientific interest, while Morecambe Bay offers opportunities to spot oystercatchers or lazy seals. 
+Grange-over-Sands is a small coastal town located on the fascinating Morecambe Bay and just outside the Lake District park boundary. The town itself is a great base for [walking](https://www.grangeoversandstowncouncil.gov.uk/walking-and-cycling.html) and cycling, with routes around the town perfect for nature enthusiasts and bird-watchers. There are several [nature reserves](https://www.visitlakedistrict.com/cumbria-coastal-route/ideas-and-inspiration/nature-and-wildlife) and sites of special scientific interest, while Morecambe Bay offers opportunities to spot oystercatchers or lazy seals. 
 
 For a relaxing afternoon, potter around Grange’s pretty waterside shops and cafes; we recommend the lovely [Hazelmere Cafe and Bakery](https://thehazelmere.co.uk/) for delicious regional specialities like Eccles cakes, Cumberland rum nicky (a pastry pie with dates and ginger) and Yorkshire curd tarts, all baked to a secret recipe.
 
