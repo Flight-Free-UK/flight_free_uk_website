@@ -74,7 +74,7 @@ It's operated by the cruise company [Cunard](https://www.cunard.com/en-gb/cruise
 
 Our calculations show travelling from the UK to New York is around three times more carbon heavy than the equivalent flight:
 
-* QMII uses [1850 tonnes diesel (HFO) and 1000 tonnes gas](http://www.queenmarycruises.net/rms-queen-mary-2-ship/) (MGO) per transatlantic crossing
+* QMII uses [1850 tonnes diesel (HFO) and 1000 tonnes gas (MGO)](https://wetravel2u.co.uk/2014/09/29/queen-mary-2-ship-wiki-facts/) per transatlantic crossing
 * [One tonne HFO produces 3.114 tonnes CO2, one tonne MGO produces 3.206 tonnes CO2](https://data.consilium.europa.eu/doc/document/PE-26-2023-INIT/en/pdf)
 * 1850 tonnes HFO x 3.114 = 5,760.9 tonnes CO2, 1000 tonnes MGO x 3.206 = 3,206 tonnes CO2, total tonnes CO2 (HFO + MGO) = 8,966.9 per transatlantic crossing 
 * Divide by [number of people on board (3,864)](https://www.cunard.com/en-gb/cruise-ships/queen-mary-2/9) = 2.32 tonnes each, or 4.64 tonnes for the return journey
