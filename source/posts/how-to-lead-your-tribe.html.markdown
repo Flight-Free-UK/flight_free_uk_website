@@ -76,8 +76,6 @@ It can be even more beneficial in a workplace scenario, where people can feel pr
 
 And yes, you can share the pledge on social media too and that may have influence, but it is these personal conversations that are where real progress can be made. 
 
-Don’t get me wrong, I don’t think we can rely on individual change alone to save us from the biggest environmental problems we face. [I started a podcast for this exact reason.](https://disruptiveenvironmentalist.com/podcast-2/) But I do believe that if we have enough leaders who are influencing enough of their ‘tribes’ then the impact can be huge. 
+Don’t get me wrong, I don’t think we can rely on individual change alone to save us from the biggest environmental problems we face. But I do believe that if we have enough leaders who are influencing enough of their ‘tribes’ then the impact can be huge. 
 
-##### Individual change is something we can control, and the choices we make are all votes for the world we want to see.
-
-*Rob Wreglesworth blogs and podcasts as 'The Disruptive Environmentalist’. For more stickman-based pieces about the environment head to his [website](https://disruptiveenvironmentalist.com/).* [](https://disruptiveenvironmentalist.com)
+##### Individual change is something we can control, and the choices we make are all votes for the world we want to see.[](https://disruptiveenvironmentalist.com)
