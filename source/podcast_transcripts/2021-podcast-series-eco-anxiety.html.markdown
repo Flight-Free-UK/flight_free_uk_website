@@ -1,7 +1,6 @@
 ---
 published: true
 title: "2021 podcast series: Eco Anxiety"
-category: climate
 date: 2021-11-17T11:24:14.971Z
 cover_image: /images/uploads/11-2021_podcast_thumbnail.jpg
 summary: Climate activist and mental health advocate Tori Tsui, joins Hemlata
@@ -9,6 +8,7 @@ summary: Climate activist and mental health advocate Tori Tsui, joins Hemlata
   climate anxiety.
 author: FlightFree UK
 read_time_minute: 8
+category: climate
 ---
 *This is episode 11 of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-eco-anxiety/) and find other episodes and previous series [here](/podcast).*
 
@@ -32,7 +32,7 @@ People often take the flight free pledge as a way of dealing with their own eco-
 
 *"This is why I have decided to sign the flight free pledge. By making an individual stance alongside thousands of like-minded people who are also worried about the effects of climate change, signing the pledge feels like a step towards hope and a better future for our planet."*
 
-Our first guest on the podcast is Tori Tsui, the co-founder of [The Bad Activist Collective](https://www.badactivistcollective.com/) and author of It’s Not Just You, which explores the relationship between mental health and the climate crisis.
+Our first guest on the podcast is Tori Tsui, the co-founder of The Bad Activist Collective and author of It’s Not Just You, which explores the relationship between mental health and the climate crisis.
 
 Tori, could you introduce yourself and tell us about the work that you do?
 
