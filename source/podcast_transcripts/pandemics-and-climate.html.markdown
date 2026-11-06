@@ -1,7 +1,6 @@
 ---
 published: true
 title: "2021 podcast series: Climate and the pandemic"
-category: climate
 date: 2021-08-10T08:00:23.068Z
 cover_image: /images/uploads/08-2021_podcast_thumbnail.jpg
 summary: What can the global coronavirus health crisis teach us about the
@@ -9,12 +8,13 @@ summary: What can the global coronavirus health crisis teach us about the
   climate change are connected.
 author: FlightFree UK
 read_time_minute: 7
+category: climate
 ---
 *This is episode eight of our 2021 podcast series. Listen to the episode [here](https://flightfreeuk.podbean.com/e/2021-series-pandemics-and-climate/) and find other episodes and previous series [here](/podcast).*
 
 ![](/images/uploads/08aug_episode_blog.jpg)
 
-### In this episode, we talk to [Dr Sweta Chakraborty](https://swetachakraborty.com) about risk and behaviour, about how the pandemic and climate change are connected, and what the pandemic tells us about our relationship with nature.
+### In this episode, we talk to [Dr Sweta Chakraborty](https://www.innovationzero.com/speakers-library/dr-sweta-chakraborty) about risk and behaviour, about how the pandemic and climate change are connected, and what the pandemic tells us about our relationship with nature.
 
 Dr Sweta Chakraborty is a behavioural scientist from New Jersey in the United States, where her parents migrated from India. Her work is about providing clear, credible, science communication to manage the risks that threaten human security and well-being. She studied Decision Science at Carnegie Mellon University and has a PhD in Behavioural Science from King’s College London. She is currently the US representative for the climate action network [‘We Don’t Have Time’](https://www.wedonthavetime.org/about-us).
 
