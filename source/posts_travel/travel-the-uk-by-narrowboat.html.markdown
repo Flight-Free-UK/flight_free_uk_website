@@ -24,7 +24,7 @@ Perhaps you’ll even find the time to read a book, but that’s not to say ther
 
 ![](/images/uploads/bingley-locks-canva.jpg "Bingley Five Rise locks on the Leeds & Liverpool canal")
 
-Don’t worry, if you’ve never even seen a lock before, it’s all part of the experience. [Beginners are absolutely welcome](https://canalboatholidays.co.uk/canal-boat-holidays-for-beginners) and you’ll be given a comprehensive handover showing you the details of your particular narrowboat, how to operate a lock or lift/swing bridge, and you’ll be taken for a short-cruise as you get to grips with steering the boat. If you choose your first hire base well, you can also be taken through your first locks as part of the handover, so that you have full confidence for the rest that awaits you.
+Don’t worry, if you’ve never even seen a lock before, it’s all part of the experience. Beginners are welcome and you’ll be given a comprehensive handover showing you the details of your particular narrowboat, how to operate a lock or lift/swing bridge, and you’ll be taken for a short-cruise as you get to grips with steering the boat. If you choose your first hire base well, you can also be taken through your first locks as part of the handover, so that you have full confidence for the rest that awaits you.
 
 Canal boat holidays in general make for a relatively environmentally-friendly holiday, but some hire bases are taking this a step further. [Trinity Boats](https://www.trinityboats.co.uk/) and [Cafwin Cruises](https://www.cafwincruises.com/) on the Droitwich Ring (no.7, below) have a hybrid electric narrowboat, with Trinity Boats [also running the fleet on HVO](https://fueloilnews.co.uk/2024/06/narrowboat-holiday-company-switches-to-hvo-after-dft-green-lights-subsidy/).  [Castle Narrowboats](https://www.castlenarrowboats.co.uk/) on the Monmouthshire & Brecon canal (no.9, below), have fully electric boats for hire.
 
@@ -36,7 +36,7 @@ As an added bonus [many train lines follow the course of canals](https://canalri
 
 #### 1. Cheshire Ring and Four Counties Ring
 
-A varied mixture of rural landscapes as well as the odd bit of industrial heritage thrown in for good measure. Narrow locks, a range of attractions such as [Little Moreton Hall](https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/little-moreton-hall) or [Shugborough Estate](https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/shugborough-estate), and the fact that both routes can be completed in a two-week hire makes the [Cheshire Ring](https://canalboatholidays.co.uk/routes/circular/cheshire-ring) & [Four Counties Ring](https://canalboatholidays.co.uk/routes/circular/four-counties-ring) two of the most popular canal ring routes in the UK.
+A varied mixture of rural landscapes as well as the odd bit of industrial heritage thrown in for good measure. Narrow locks, a range of attractions such as [Little Moreton Hall](https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/little-moreton-hall) or [Shugborough Estate](https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/shugborough-estate), and the fact that both routes can be completed in a two-week hire makes the [Cheshire Ring](https://canalrivertrust.org.uk/boating/go-boating/planning-your-boat-route/cruising-rings/cheshire-ring) & [Four Counties Ring](https://canalrivertrust.org.uk/boating/go-boating/planning-your-boat-route/cruising-rings/four-counties-ring) two of the most popular canal ring routes in the UK.
 
 ![](/images/uploads/bridgewater-canal-castlefield_canva.jpg "Bridgewater canal in Castlefield, Manchester on the Cheshire Ring")
 
@@ -71,7 +71,7 @@ With wide locks and steep hills, these routes can be hard work, but it will all 
 
 Top rated hire bases in this area:
 
-* [The Boat Co North](https://www.theboatconorth.co.uk/) (20 min walk from Leeds station)
+* [The Boat Co North](https://www.instagram.com/theboatconorth/) (20 min walk from Leeds station)
 * [Silsden Boats](https://www.anglowelsh.co.uk/locations/departure-points/silsden/) (19 min walk from Steeton & Silsden station)
 * [Pennine Cruisers](https://www.penninecruisers.com/) (10 min walk from Skipton station)
 
@@ -110,7 +110,7 @@ Top rated hire bases in this area:
 
 #### 7. The Droitwich Ring and Worcester & Birmingham canal
 
-Most canal ring routes need a week or two to complete, but the [Droitwich Ring](https://canalboatholidays.co.uk/routes/circular/droitwich-ring) can be completed [in a weekend](https://canalboatholidays.co.uk/boat-hire/weekend-hire-and-short-breaks), and is by far the most popular short canal ring. 
+Most canal ring routes need a week or two to complete, but the [Droitwich Ring](https://canalrivertrust.org.uk/canals-and-rivers/droitwich-canals) can be completed in a weekend, and is by far the most popular short canal ring. 
 
 From here you can also head into Birmingham travelling through pleasant countryside and tackling the thirty locks at Tardebigge.
 
@@ -131,7 +131,7 @@ Top rated hire bases in this area:
 
 * [Drifting Wood Canal Breaks](https://www.driftingwood.co.uk/) (5 min taxi from Whitchurch station)
 * [Marine Cruises](https://marinecruises.co.uk/) (7 min taxi from Nantwich station)
-* [Crest Narrowboats](https://crestnarrowboats.co.uk/) (6 min taxi from Chirk station)
+* [Crest Narrowboats](https://www.facebook.com/crestnarrowboats/) (6 min taxi from Chirk station)
 
 #### 9﻿. Monmouthshire & Brecon canal
 
@@ -166,7 +166,7 @@ Top rated hire bases in this area:
 
 ## How much will it cost?
 
-Prices range between £600 and £3000 for a week’s hire, depending on time of year and quantity of people onboard. You can find a breakdown of [narrowboat hire prices here](https://canalboatholidays.co.uk/how-much-does-it-cost). 
+Prices range between £600 and £3000 for a week’s hire, depending on time of year and quantity of people onboard. 
 
 B﻿eyond the hire cost you can spend as much or as little as you like, using the onboard galley for cooking meals, and visiting the free attractions along the way, or treating yourself to a meal out every night in the many places you'll be travelling through. 
 
@@ -176,4 +176,4 @@ Of course, you don’t need to book a canal boat holiday to enjoy the canal netw
 
 They are there for us to enjoy, so if you don’t already know, why not [find your local canal](https://canalrivertrust.org.uk/local-to-you) and have a wander along the towpath.
 
-*A﻿rticle written by James Anelay from [Roam&Roost Canal Boat Holidays](https://canalboatholidays.co.uk/)*
+*A﻿rticle written by James Anelay from Roam&Roost Canal Boat Holidays*
