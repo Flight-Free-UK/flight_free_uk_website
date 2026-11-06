@@ -45,7 +45,7 @@ A swampy puddle on day one had turned out to be a lot deeper than I expected, an
 
 As luck would have it, the Edinburgh Fringe was on, so I spent a few days exercising my laughter muscles at the shows that were within hobbling distance of my hostel. As my feet recovered I squeezed in a little sightseeing, and treated myself to some canyoning – one of the things on my list. It’s basically following a fast-flowing stream down a gorge by abseiling, scrambling, swimming, sliding and jumping down waterfalls – a lot of fun, if you like silly things like that! 
 
-After a delicious meal out with the very friendly Czech couple I’d met in my dorm, and a tipple of Becherovka, I caught the sleeper train back south to base camp. Less than 24 hours later all my stuff was washed and repacked, ready for my next adventure: a weekend being a roadie at [David’s Tent festival](https://www.davidstent.net/uk-summer-festival) in West Sussex. 
+After a delicious meal out with the very friendly Czech couple I’d met in my dorm, and a tipple of Becherovka, I caught the sleeper train back south to base camp. Less than 24 hours later all my stuff was washed and repacked, ready for my next adventure: a weekend being a roadie at [David’s Tent festival](https://www.davidstent.net/) in West Sussex. 
 
 > Less than 24 hours later all my stuff was washed and repacked, ready for my next adventure.
 
