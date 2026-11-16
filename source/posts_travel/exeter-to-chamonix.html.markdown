@@ -56,7 +56,7 @@ Our 18:02 Eurostar to London arrived at 19:30 then I took the 20:03 to Exeter, a
 
 **Outward:**
 
-* GWR Exeter to London
+* GWR Exeter to London (stay overnight)
 * Eurostar London to Paris
 * TGV Lyria Paris to Geneva
 * Flixbus Geneva to Chamonix
