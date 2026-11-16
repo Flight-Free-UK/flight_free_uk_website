@@ -3,8 +3,8 @@ published: true
 title: Exeter to Chamonix
 date: 2026-11-16T15:13:56.616Z
 cover_image: /images/uploads/summer-alps_canva.jpg
-summary: The French Alps is the perfect destination for a long weekend for
-  Stewart Barr from Exeter
+summary: The French Alps are the perfect destination for a long weekend,
+  discovers Stewart Barr from Exeter
 author: FlightFree UK
 read_time_minute: 5
 ---
