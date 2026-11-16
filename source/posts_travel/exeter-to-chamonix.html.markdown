@@ -44,7 +44,7 @@ And what’s in Chamonix when you arrive? If you’re a summer mountain adventur
 
 ![](/images/uploads/chamonix-hike-sbarr.jpg)
 
-If you stay in registered accommodation, you will get a Chamonix guest card, which includes free travel on the Mont Blanc Express up and down the valley, and there are various lift pass options for summer and winter that provide discounted or free public transport, see: [Home | Chamonix](https://en.chamonix.com/). I’ve worked out I could come back to Chamonix for many years and still find new hikes to try.
+If you stay in registered accommodation, you will get a Chamonix guest card, which includes free travel on the Mont Blanc Express up and down the valley, and there are various lift pass options for summer and winter that provide discounted or free public transport (see [Chamonix-Mont-Blanc](https://en.chamonix.com/) website). I’ve worked out I could come back to Chamonix for many years and still find new hikes to try.
 
 Mark and I had three wonderful days of hiking in beautiful sunny, warm weather. We did the Mer de Glace connoisseurs route on day 1, a very steep 1500 metres ascent from Chamonix to Le Brevent on day 2 and then a more leisurely lower level walk on day 3, taking in some of the many buvettes (mountain cafes) for some coffee and well-earned cake.
 
