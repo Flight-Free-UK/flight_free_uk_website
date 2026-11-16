@@ -14,7 +14,7 @@ read_time_minute: 5
 
 B﻿ut I mentioned to my friend Mark that I’d read a great book describing dozens of hikes in the French Alps. He'd studied in nearby Chambery for a year and spent most of his time skiing in the Alps. How about a summer hike instead? He was up for it!
 
-![](/images/uploads/chamonix-valley-sbarr.jpg "Chamonix in the valley")
+![](/images/uploads/chamonix-valley-sbarr.jpg "The Chamonix valley in the summer")
 
 Mark and I have travelled to France by train several times. Neither of us like flying and I no longer fly as a commitment to reducing my personal carbon emissions. As Mark hadn’t been to Europe for some years, I was tasked with organising the travel and accommodation. I love working out routes, itineraries and activities, so that was fine by me!
 
