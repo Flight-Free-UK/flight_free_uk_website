@@ -54,4 +54,4 @@ Our 18:02 Eurostar to London arrived at 19:30 then I took the 20:03 to Exeter, a
 
 ##### Would I do it again? Yes, I’ve already booked for summer 2027 for another few days of glorious, easily accessible hiking in the Alps – all the way from Devon by train.
 
-![](/images/uploads/chamonix-cafe-sbarr.jpg)
+![](/images/uploads/chamonix-cafe-sbarr.jpg "Stewart in the mountains")
