@@ -42,7 +42,7 @@ If you have more time, you can reach Chamonix all the way by train, either by ch
 
 And what’s in Chamonix when you arrive? If you’re a summer mountain adventurer, almost everything! The town is buzzing with people going hiking, white water rafting, paragliding, rock climbing or simply enjoying the views. And it’s just as buzzing in the winter, with easy access to the pistes. 
 
-![](/images/uploads/chamonix-hike-sbarr.jpg)
+![](/images/uploads/chamonix-hike-sbarr.jpg "Mountain hike")
 
 If you stay in registered accommodation, you will get a Chamonix guest card, which includes free travel on the Mont Blanc Express up and down the valley, and there are various lift pass options for summer and winter that provide discounted or free public transport (see [Chamonix-Mont-Blanc](https://en.chamonix.com/) website). I’ve worked out I could come back to Chamonix for many years and still find new hikes to try.
 
