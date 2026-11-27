@@ -32,7 +32,7 @@ On the way home, we took the far shorter ferry from Messina to Villa San Giovann
 
 The time we spent on trains in Europe was the least memorable part of the experience, and I mean that as high praise. Apart from the two journeys between London and Glasgow, of which the least said the better, everything ran like clockwork. We made every connection, always had a seat and space for our luggage, and met no delays or cancellations. The toilets were clean and working, there was no anti-social behaviour and no turbulence!  Everywhere we disembarked, there was somewhere to leave our bags and someone to point the way.
 
-![](/images/uploads/sicily-streets-rkowalski.jpg)
+![](/images/uploads/sicily-streets-rkowalski.jpg "Syracuse")
 
 The real challenge of the trip was the decision-making. Backpack or wheelie case? (We took one of each and I'm still undecided.) Opt for maximum freedom to choose where to stay and how long for, or book everything in advance for peace of mind?  Planning your own route brings so much choice and control that you have to embrace it or be overwhelmed. We did ok this time round but will be more confident in our decisions next time.
 
@@ -40,7 +40,7 @@ At times, the trip felt less like a holiday and more like Race Across the World 
 
 For me, having studied languages at Uni and been lucky enough to live, study and work in several countries in my twenties, I have always felt more comfortable as a traveller than a tourist and this trip ticked that box for me. As an independent train traveller, you get to merge in with the locals on their way to work or college, to choose to eat, stay or shop off the main tourist strip. Student days are decades ago but we're definitely at a good life stage for this type of travel. Three quarrelling kids no longer in tow (although least there's no middle seat on a train) and still fit enough to run for a connection if we have to.
 
-![](/images/uploads/sicily-rkowalski.jpg)
+![](/images/uploads/sicily-rkowalski.jpg "The Roman Forum, Rome")
 
 It wouldn’t be fair to say it was all sweetness and light – the jam-packed short trip across Paris was a little stressful and there were one or two days when I would have reduced the hours on the go. But it was a rich experience, and I would absolutely do it again, not just because it’s an adventure but because I'd like to do even better next time, perfect my planning and my travelling skills. A few tips:
 
