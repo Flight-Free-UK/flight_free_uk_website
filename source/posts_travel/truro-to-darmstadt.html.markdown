@@ -3,7 +3,7 @@ published: true
 title: Truro to Darmstadt
 date: 2026-11-28T08:58:27.258Z
 cover_image: /images/uploads/darmstadt_canva.jpg
-summary: From Cornwall to southern Germany with a wheelchair
+summary: Nigel and family travel from Cornwall to southern Germany with a wheelchair
 author: FlightFree UK
 read_time_minute: 3
 ---
