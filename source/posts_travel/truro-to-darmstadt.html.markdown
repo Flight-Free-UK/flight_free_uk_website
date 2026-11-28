@@ -7,6 +7,8 @@ summary: From Cornwall to southern Germany with a wheelchair
 author: FlightFree UK
 read_time_minute: 3
 ---
+![](/images/uploads/mathildenho-he-darmstadt_canva.jpg "Mathildenhöhe, Darmstadt")
+
 ### My wife Kay has a fear of flying. 
 
 ##### So when we decided to visit Darmstadt, where our son Dexter’s girlfriend lives, we wanted to see if we could do it without getting on a plane. 
@@ -43,6 +45,8 @@ Booking with Deutsche Bahn was a little tricky to get our heads around, being ou
 
 We were assisted onto the DB ICE service. It was a very busy train, a couple of guys were in our seats and again the train staff didn’t mess around, the guys were told to move for us, which they did. The seats were quite comfy with ample space for Kay’s chair and our luggage. Four and a half hours later we arrived in Frankfurt, where the train manager sorted the ramp and we were on the platform in no time. Frankfurt has an assistance team at the information kiosk who were aware of our arrival and took care of us. When the train arrived that was going to Darmstadt we were assisted on and 20 minutes later we arrived at Darmstadt Hbf, around 20 hours since we left Cornwall which wasn’t bad going for our first time attempting this! 
 
+![](/images/uploads/kay-darmstadt_nkitto.jpeg "Kay at Darmstadt HB (station)")
+
 We stayed at the InterCity hotel which was right next to the station and was perfect for our needs. The staff were very helpful, spoke good English, the room was clean and it’s around a mile and half from the city centre. 
 
 The first thing we had to do was to get the German version of a RADAR key for the public toilets. It’s called the Euro Key, and if you order it online they say to allow a couple of weeks which was too late for us. Luckily for us the company that sends them is based in Darmstadt! So we went there first thing the next morning and purchased one for €30. You have to take proof of disability to [buy one](https://shop.cbf-da.de/product_info.php?products_id=61).
@@ -51,11 +55,15 @@ One tip: if you use the toilets that accept the EuroKey, and if someone is using
 
 Darmstadt is a lovely city. The LuisenPlatz is the main area for transport, pretty flat and cobbled which wasn't too much of a problem. We went up the Russian Church and the 'Wedding Building' (Mathildenhöhe). Most of our trip was spent in the city centre and the park nearby taking it all in as it was Kay's first time abroad. We had the most lovely weather too, just a brief shower on the Saturday morning, and the rest of the time was dry and clear. 
 
+![](/images/uploads/darmstadt2_canva.jpg "Russian Orthodox Church in Darmstadt")
+
 We used the regional train service to go back to Frankfurt for a day out later in the week. You have to book assistance with them by 20:00 the previous evening, and we booked this at Darmstadt Hbf ticket office the day before. Again, the customer service agent couldn’t have been more helpful, group ticket purchased for 4 of us for approx €38 and assistance sorted. 
 
 Trams in Germany have dedicated carriages for wheelchair users indicated by a wheelchair sign, and a button to press on entry and exit to make the driver aware. We got on the tram going into Darmstadt one morning but at our stop on the Luisenplatz we pressed the button and the driver didn’t do anything and we couldn’t get off. Luckily the next stop was only 100m away and it had a raised platform for easy wheelchair exit/entry. I think on the display inside the tram, the stops with wheelchair friendly entry/exit have the standard wheelchair sign next to them. 
 
 We found a lot of cafes etc had their toilets downstairs with no lifts which was a little annoying but the main shopping centre, the Luisen Centre, had public toilets and a very large accessible toilet. 
+
+![](/images/uploads/kay-frankfurt_nkitto.jpeg "Day trip to Frankfurt")
 
 The trip home was much the same as our outward journey with staff from all rail companies aware of us booking assistance. The baggage scan and passport control at Brussels was so much easier and less stressful than at St Pancras, because they had a dedicated baggage scanner machine for passengers who’d booked assistance on the Eurostar platform itself. The toughest part of the homeward journey was the midnight train from Paddington back to Truro. Paddington has a dedicated waiting room for passengers needing assistance which was very welcome, but we really wished we’d booked sleeper cabins as the seats were fairly uncomfortable and didn’t even recline a little. We left Darmstadt at 07:30 and arrived at Truro 07:30 the next morning. A long 25 hours to be honest. 
 
