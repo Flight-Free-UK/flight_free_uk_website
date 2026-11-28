@@ -8,13 +8,13 @@ summary: Quitting flying doesn't mean quitting adventure, as Andrew discovers on
 author: FlightFree UK
 read_time_minute: 4
 ---
-### What is it that makes you take a major life changing decision?  Is it a gradual build-up of things or just one catalyst?  
+### What is it that makes you take a major life changing decision?  Is it a gradual build-up of things or just one catalyst? 
 
-##### For me it could have been watching the 2009 Age of Stupid for the tenth time, or the Stern report which said that ‘climate change is the greatest market failure in human history because the price of carbon emissions does not reflect the environmental damage they cause.’ 
+##### For me it could have been watching the 2009 Age of Stupid for the tenth time, or the Stern report which said that ‘climate change is the greatest market failure in human history because the price of carbon emissions does not reflect the environmental damage they cause.’
 
 Are we the cause of climate change or are we being prevented from reversing it by vested interests? I feel that it is the latter. The fact that aviation fuel remains untaxed and emissions from flying are often greenwashed gives me eco-rage.
 
-Rather than succumb to the rage we chose to do something about it and my wife and I stopped flying about ten years ago. We came up with the idea of travelling overland to Australia to watch the British Lions tour in 2025 – but these (modest!) plans were put on hold as a consequence of the war in Ukraine.
+Rather than succumb to the rage we chose to do something about it and my wife Becky and I stopped flying about ten years ago. We came up with the idea of travelling overland to Australia to watch the British Lions tour in 2025 – but these (modest!) plans were put on hold as a consequence of the war in Ukraine.
 
 So we decided to see as much of Europe as we could by train. A trip to Florence and Tuscany was followed by a tour of Scandinavia, then a journey down to Andalusia and across the Straits of Gibraltar to Morocco. Each trip convinced us that more was possible and in 2025 we decided we’d like to reach the boundary between Europe and Asia.
 
@@ -36,4 +36,4 @@ Over time we have refined our luggage and now we each have an airline carry on c
 
 It is a remarkable feeling to leave our house in Worcestershire and end up in an exotic destination without flying and we would definitely recommend it as an alternative.
 
-![](/images/uploads/hamburg-hb.jpg)
+![](/images/uploads/hamburg-hb.jpg "Andrew and Becky at Hamburg HB")
