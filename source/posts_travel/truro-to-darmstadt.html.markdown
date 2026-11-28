@@ -45,7 +45,7 @@ Booking with Deutsche Bahn was a little tricky to get our heads around, being ou
 
 We were assisted onto the DB ICE service. It was a very busy train, a couple of guys were in our seats and again the train staff didn’t mess around, the guys were told to move for us, which they did. The seats were quite comfy with ample space for Kay’s chair and our luggage. Four and a half hours later we arrived in Frankfurt, where the train manager sorted the ramp and we were on the platform in no time. Frankfurt has an assistance team at the information kiosk who were aware of our arrival and took care of us. When the train arrived that was going to Darmstadt we were assisted on and 20 minutes later we arrived at Darmstadt Hbf, around 20 hours since we left Cornwall which wasn’t bad going for our first time attempting this! 
 
-![](/images/uploads/kay-darmstadt_nkitto.jpeg "Kay at Darmstadt HB (station)")
+![](/images/uploads/kay-darmstadt_nkitto.jpeg "Kay on arrival at Darmstadt HB (station)")
 
 We stayed at the InterCity hotel which was right next to the station and was perfect for our needs. The staff were very helpful, spoke good English, the room was clean and it’s around a mile and half from the city centre. 
 
