@@ -26,9 +26,9 @@ The whole trip was such a romantic and exciting experience. We took three sleepe
 
 Despite the number of trains and connections we only had one delay and that was from Brussels to Frankfurt. There was also a slight worry because you can’t book the sleeper train to Istanbul until after you’ve left Bucharest, so we hoped that what [The Man in Seat61](https://www.seat61.com/Turkey.htm) said was true and that we’d be able to purchase tickets when we got to Ruse, just inside the Bulgarian border*. It wasn’t an issue and allowed us to engage with some charming booking staff. 
 
-But when joining the sleeper train in Dimitrovgrad at close to midnight we realised that we hadn’t eaten and had nothing to take on the train. We identified a pizza place reasonably close to the station and hoped that it was open, which, fortunately, it was. It was a slightly surreal experience: most of the customers were in 1980s knitwear, had mullets (male and female) and were smoking inside. Despite our complete lack of Bulgarian, we were able to procure a pizza and a bottle of wine for the journey.
-
 *\*﻿you can now book tickets in advance. See the [Türkiye page on Seat61.com](https://www.seat61.com/Turkey.htm) for the step-by-step instructions!*
+
+But when joining the sleeper train in Dimitrovgrad at close to midnight we realised that we hadn’t eaten and had nothing to take on the train. We identified a pizza place reasonably close to the station and hoped that it was open, which, fortunately, it was. It was a slightly surreal experience: most of the customers were in 1980s knitwear, had mullets (male and female) and were smoking inside. Despite our complete lack of Bulgarian, we were able to procure a pizza and a bottle of wine for the journey.
 
 Trying to pick a favourite part sparks a conversation between us that can last for hours as we dissect the journey. We love to visit food halls or markets which give you a flavour of the country in more ways than one. We like to try a cake in each country: Austria has the Sashatorte, Hungary has the Dobos Torte. In Romania every station has a station master with a very large hat that waves off every train. We expected Istanbul to be similar to Marrakech but it was far more European that we had imagined. 
 
@@ -38,8 +38,8 @@ After five weeks of travel, crossing the Adriatic felt like we were on the home 
 
 Our journeys have given us so many incredibly memorable experiences in places that we would otherwise have just flown over. And we have only just scratched the surface. There are the Baltic states, Eastern Germany and Poland, northern Spain and Portugal and it seems that the rail industry is starting to respond to this potential market with more sleeper services being introduced.
 
-Over time we have refined our luggage and now we each have an airline carry on compatible case and a small rucksack with food and entertainment for the journey, which can be used as a day bag in each destination.  We have used Interrail tickets for all of our journeys and have found them relatively inexpensive and flexible.  The app which accompanies the pass is also really useful and easy to navigate.  For accommodation we have used Airbnb which again is flexible and allows you to shop for local produce to cook at the accommodation.
+Over time we have refined our luggage and now we each have an airline carry on compatible case and a small rucksack with food and entertainment for the journey, which can be used as a day bag in each destination. We have used [Interrail](https://www.interrail.com/en) tickets for all of our journeys and have found them relatively inexpensive and flexible. The app which accompanies the pass is also really useful and easy to navigate. For accommodation we have used Airbnb which again is flexible and allows you to shop for local produce to cook at the accommodation.
 
-It is a remarkable feeling to leave our house in Worcestershire and end up in an exotic destination without flying and we would definitely recommend it as an alternative.
+##### It is a remarkable feeling to leave our house in Worcestershire and end up in an exotic destination without flying and we would definitely recommend it as an alternative.
 
 ![](/images/uploads/hamburg-hb.jpg "Andrew and Becky at Hamburg HB")
