@@ -42,4 +42,4 @@ Over time we have refined our luggage and now we each have an airline carry on c
 
 ##### It is a remarkable feeling to leave our house in Worcestershire and end up in an exotic destination without flying and we would definitely recommend it as an alternative.
 
-![](/images/uploads/hamburg-hb.jpg "Andrew and Becky at Hamburg HB")
+![](/images/uploads/hamburg-hb.jpg "Andrew and Becky at Hamburg Hauptbahnhof")
